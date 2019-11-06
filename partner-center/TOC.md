@@ -100,6 +100,7 @@
 ## [為客戶設定 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)
 ## [常見帳單案例](common-billing-scenarios.md)
 ## [未付款、詐騙或濫用](non-payment--fraud--or-misuse.md)
+## [Office 365 合作夥伴諮詢：雲端解決方案提供者中的 Microsoft 365 語音](o365-partner-advisory.md)
 
 # [與客戶保持聯繫](customer-accounts.md)
 ## [加入新的客戶](add-a-new-customer.md)
@@ -122,7 +123,7 @@
 ### [購買 Azure 方案](purchase-azure-plan.md)
 ### [比較 Azure 供應項目](compare-azure-offers.md)
 ### [將您的客戶轉換為 Azure 方案](azure-plan-transition.md)
-### [合作夥伴所獲得信用點數 - 概觀](partner-earned-credit-overview.md)
+### [合作夥伴所獲得信用點數 - 概觀](partner-earned-credit.md)
 ### [合作夥伴所獲得信用點數如何計算及付費](partner-earned-credit-explanation.md)
 ### [CSP 中的新商務體驗 - Azure 計費](azure-plan-billing.md) 
 ### [適用於 Azure 的 CSP 中新商務體驗的價目表](azure-plan-price-list.md)
