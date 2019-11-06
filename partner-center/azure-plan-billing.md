@@ -1,23 +1,24 @@
 ---
 title: Azure 方案 - 計費 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/04/2019
-description: 描述發票和對帳檔案結構
+ms.date: 11/01/2019
+description: 描述 Azure 方案的發票和對帳檔案結構
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 28e670635ca7fcff60041fcb5c93b3ddd5e4069d
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 9b68361f80be0e5c68f707aa578f78cabcdee3e5
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171305"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428489"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商務體驗 - Azure 計費 
 
-Azure 方案下的計費是藉由使用一致的單一計費日期和以行事曆月份為基礎的計費期間，簡化的計費體驗。 如需計費平台的詳細資訊，請參閱[合作夥伴新式化商務營運指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)。
+
+Azure 方案下的計費，是藉由使用一致的單一計費日期和以行事曆月份為基礎的計費期間，簡化的計費體驗。 如需計費平台的詳細資訊，請參閱[合作夥伴新式化商務營運指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)。
 
 ## <a name="summary-of-billing-essentials"></a>計費基本資訊摘要
 
@@ -33,23 +34,60 @@ Azure 方案下的計費是藉由使用一致的單一計費日期和以行事�
 
 - **合作夥伴獎勵**：從發票月份結束起算 45 天支付。
 
-##  <a name="access-your-invoices-and-recon-files"></a>存取您的發票和對帳檔案
+##  <a name="access-your-invoices-and-reconciliation-files"></a>存取您的發票和對帳檔案
 
 貴公司的全域管理員或計費管理員將會在發票已準備好可供檢視時，收到電子郵件。 
 
 **若要存取發票和對帳檔案**
 
-1. 登入合作夥伴中心。
+1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/en-us/dashboard/)。
 
 2. 從 [合作夥伴中心] 功能表中，選取 [計費]  。
 
-3. 選取您感興趣的**行事曆式**和貨幣的索引標籤。
+3. 選取 [週期性]  和 [一次性]  的索引標籤，以及您感興趣的貨幣。
 
 ![計費](images/azure/billing1.png)
 
-4. 選取 [發票和對帳檔案]  。  
+4. 選取 [發票]  或 [對帳檔案]  。  
 
 若要檢視歷程記錄發票和對帳檔案，請展開下方的計費歷程記錄資料列。
+
+
+## <a name="understanding-usage-data"></a>瞭解使用量資料 
+
+1. Azure 方案是使用量的根或最上層容器。 所有使用量都會繫結回單一 Azure 方案。 
+
+2. 在方案中，將會有一或多個 Azure 訂用帳戶。 這些是用於資源管理和部署的容器。 
+
+3. 在訂用帳戶內，資源群組會新增至群組資源。 每個資源都會部署到一個資源群組。 
+
+4. 資源的範例包括虛擬機器和儲存體帳戶。 
+
+5. 資源發出計量：計量是資源耗用量的度量，一個資源可能會發出多個計量的使用量。 計量是以 ProductID、SKUID 和 AvailabilityID 識別。 
+
+### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>訂用帳戶資源群組和計量的階層
+
+**Azure 帳戶 (租用戶)**
+
+- 訂用帳戶 A
+    - 資源群組 1
+        - 虛擬機器 (資源)
+            - 計算計量
+        - 虛擬網路 (資源)
+            - 沒有計費計量
+
+    - 資源群組 2
+        - 虛擬機器 (資源)
+            - 電腦計量
+        - 進階 SSD 受控磁片 (資源)
+            - 儲存體容量計量
+            - 儲存體作業計量
+
+- 訂用帳戶 B - 資源群組 1 - Azure SQL (資源) - DTU 計量 - VPN 閘道 (資源) - VPN 閘道計量
+
+    - 資源群組 2
+        - 虛擬網路介面 (資源)
+            - 沒有計費計量
 
 ## <a name="read-the-invoice"></a>讀取發票
 
@@ -65,15 +103,15 @@ Azure 方案下的計費是藉由使用一致的單一計費日期和以行事�
 
 ![發票](images/azure/invoice1.png)
 
-## <a name="read-the-recon-file"></a>讀取對帳檔案
+## <a name="read-the-invoice-reconciliation-file"></a>讀取發票對帳檔案
 
-1. 在對帳檔案中，每個 Azure 訂用帳戶計量最多可以有兩個計費行。
+1. 在對帳檔案中，每個 Azure 方案和計量組合最多可以有兩個計費行。
 
-2. 如果計量符合整個行事曆月份任何類型折扣或信用點數的資格 (例如第 1 層折扣或受控服務的合作夥伴所獲得信用點數)，則對帳檔案只會包含一個計費行。 資料行 **PriceAdjusmentDescription**  會參考折扣或所獲得信用點數；有效單位價格是零售價格減去合作夥伴所獲得信用點數或任何其他折扣。
+2. 如果計量符合整個行事曆月份任何類型折扣或信用點數的資格 (例如階層折扣或受控服務的合作夥伴所獲得信用點數)，則對帳檔案只會包含一個計費行。 **PriceAdjusmentDescription** 資料行會參考折扣或獲得的信用點數。
 
-3. 如果計量不符合整個行事曆月份受控服務的合作夥伴所獲得信用點數的資格，則對帳檔案只會包含一個計費行，而有效單價會是零售價格 (這就是單價)。
+3. 如果沒有符合折扣或合作夥伴所獲得信用點數的特定計量資源，則對帳檔案只會包含一個計費行，而有效單價會是零售價格 (這就是單價)。
 
-4. 如果計量符合部分月份**受控服務的合作夥伴所獲得信用點數**的資格，則對帳檔案會包含兩個計費行。 一行代表計量合格的天數，而第二行則代表計量不合格的天數。 
+4. 如果計量或任何發出該計量的資源符合部分月份**受控服務的合作夥伴所獲得信用點數**的資格，則對帳檔案會包含兩個計費行。 一行代表計量合格的天數，而第二行則代表計量不合格的天數。 
 
 ## <a name="read-the-daily-usage-file"></a>讀取每日使用量檔案
 
@@ -91,41 +129,28 @@ Azure 方案下的計費是藉由使用一致的單一計費日期和以行事�
 
     - 7/8 – 7/31 的計量符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
 
-![recon2](images/azure/billing2.png) 
+![recon2](images/azure/pecfinal.png) 
 
 ## <a name="invoice-in-customer-currency"></a>以客戶貨幣表示的發票 
 
-透過 Azure 方案的 Azure 服務會以美元計價，並以客戶國家/地區指派貨幣來計費。 如果計費貨幣不是美元，則使用的 FX 費率會顯示在發票的最後一頁。 FX 費率是每月決定，並套用至下列發票。 如需國家/地區貨幣的完整清單，請參閱[新的商務供應項目國家/地區可用性和客戶貨幣對照表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V)。 
+透過 Azure 方案的 Azure 服務會以美元計價，並以客戶國家/地區指派貨幣來計費。 如果計費貨幣不是美元，則使用的外幣匯率 (FX) 費率會顯示在發票的最後一頁。 FX 費率是每月決定，並套用至下列發票。 如需國家/地區貨幣的完整清單，請參閱[新的商務供應項目國家/地區可用性和客戶貨幣對照表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V)。 
 
-Microsoft 將使用 [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company)，判斷用來決定定價貨幣至發票貨幣轉換的 FX 費率。 FX 費率會重新整理，並在其套用當月第一天的前一天可供使用。
+Microsoft 將使用 [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company)，判斷用來決定定價貨幣至計費貨幣轉換的 FX 費率。 FX 費率會重新整理，並在其套用當月第一天的前一天可供使用。
 
-**範例**：服務期間 8 月 1 日 – 8 月 31 日的使用費用，會使用在 8 月 1 日發佈的 FX 費率來計費。 這些費用會出現在 9 月發票上，而 FX 費率會在發票的最後一頁上註明。 
+**範例**：服務期間 8 月 1 日 – 8 月 31 日的使用費用，會使用在 7 月 31 日發佈的 FX 費率來計費。 這些費用會出現在 9 月發票上，而 FX 費率會在發票的最後一頁上註明。 
 
-合作夥伴租用戶使用者會繼續查看關於所有客戶和所有訂單的角色特定相關資訊，而不論計費貨幣為何。 此外，使用者能夠以所有貨幣來查看所有發票。  
  
 ## <a name="azure-reservations"></a>Azure Reservations 
 
 如果透過 Azure 方案購買 [Azure Reservations](https://docs.microsoft.com/partner-center/azure-reservations)，一開始就只能在合作夥伴中心選擇一次性計費。 在 Azure 入口網站上可以使用每月計費。 合作夥伴中心將於日後提供每月計費。 
 
-## <a name="azure-cost-management"></a>Azure 成本管理 
-
-Azure 成本管理工具將協助組織在 Microsoft Azure 之間視覺化、管理和最佳化成本。 這項功能將會在 Azure 入口網站中提供。 合作夥伴將會擁有一個一律開啟、低延遲解決方案，並提供下列功能： 
-
-- 更豐富的分析和預算警示 
-- API 和 Power BI 連接器 
-- 多客戶檢視 
-- 免費管理 Azure 成本 
-- 擴充角色/使用者 
-
-如需這個功能的詳細資訊，請參閱 [Azure 成本管理](https://azure.microsoft.com/services/cost-management)，這個功能會在 2019 年 2 月提供給 Enterprise 合約使用者。 這僅適用於隨著 CSP 中這項新 Azure 商務體驗購買的 Azure 服務。 
- 
 ## <a name="azure-spending"></a>Azure 費用 
 
-Azure 費用工具將在合作夥伴中心，針對 CSP 中的新商務體驗提供。 套用時，這項功能可讓合作夥伴看到：  
+現有的 Azure 消費經驗已更新，可支援合作夥伴中心內的新 Azure 方案計費。 這讓合作夥伴可以：
 
-- 客戶的預算總計 
-- 現有 Azure 方案的預估費用總計 
-- 每個計費期間的客戶使用量百分比 
+- 查看、管理及接收針對客戶層級設定的預算警示 
+
+- 查看 Azure 方案中的預估支出總計 (依資源和計量層級細分)
 
 因為透過 Azure 方案的 Azure 服務計費模式是後付款使用方式，所以若要避免帳單超出預期，合作夥伴可以套用每月預算，並追蹤使用量的百分比。 預算可以一次套用至一個客戶或多個客戶。 
 
@@ -133,7 +158,7 @@ Azure 費用工具將在合作夥伴中心，針對 CSP 中的新商務體驗提
 
 **詳細資訊**
 
--  合作夥伴所獲得信用點數 (PEC) 的計算方式，位於可透過合作夥伴中心儀表板取得的價目表。 
+-  合作夥伴所獲得信用點數 (PEC) 的計算方式，位於可透過合作夥伴中心[儀表板](https://partner.microsoft.com/en-us/dashboard/)取得的價目表 (需要登入)。 
    
 -  [購買 Azure 方案](purchase-azure-plan.md)
 

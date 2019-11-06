@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: e9471ae8dd0e478540e30a879d010ffb0c1f1bc0
-ms.sourcegitcommit: c388fae97437b727edeb0de3712bd2822010ecd6
+ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "71678297"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73142027"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
 
@@ -67,6 +67,17 @@ ms.locfileid: "71678297"
 
 否。您無法針對強制執行 MFA 的需求排除任何帳戶。 基於合作夥伴所擁有的高度權限，[適用於雲端解決方案提供者計畫的計畫指南](https://go.microsoft.com/fwlink/p/?LinkId=617100)要求針對您合作夥伴租用戶中的每個帳戶強制執行 MFA。
 
+### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>如何知道我是否符合合作夥伴的安全性需求？
+
+您必須完成下列步驟
+
+- 您必須符合[合作夥伴安全性需求](https://docs.microsoft.com/partner-center/partner-security-requirements)中所述的所有需求
+- 您必須確保合作夥伴租用戶中的所有使用者帳戶都已強制執行多重要素驗證。
+
+為了協助識別您可採取動作的主要區域，我們會提供可透過合作夥伴中心取得的[安全性需求狀態](https://partner.microsoft.com/pcv/security/compliance)報告。
+
+如需狀態報告的詳細資訊，請參閱[合作夥伴安全性需求狀態](https://docs.microsoft.com/partner-center/partner-security-compliance)。
+
 ## <a name="required-actions"></a>必要動作
 
 ### <a name="what-are-the-key-actions-i-need-to-take-to-meet-the-requirements"></a>我需要採取哪些關鍵動作來符合需求？
@@ -93,7 +104,7 @@ ms.locfileid: "71678297"
     已使用任何 API (例如 Azure Resource Manager、Microsoft Graph、合作夥伴中心 API 等) 開發自訂整合，或是使用 PowerShell 等工具實作自訂自動化的所有合作夥伴，都必須採用[安全應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\) 來與 Microsoft 雲端服務整合。 如果未這麼做，則可能會因部署 MFA 而導致中斷。 下列資源能提供採用此模型之方法的相關概觀和指引。
 
     - [安全應用程式模型概觀](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\)
-    - [合作夥伴中心：安全應用程式模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+    - [合作夥伴中心：安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
     - [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 .NET 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/) \(英文\)
     - [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 Java 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/) \(英文\)
     - [合作夥伴中心驗證文件](https://docs.microsoft.com/partner-center/develop/partner-center-authentication) \(英文\)
@@ -101,7 +112,7 @@ ms.locfileid: "71678297"
 
     如果您使用的是控制台，則必須洽詢廠商有關採用安全應用程式模型架構的事宜。
 
-    控制台廠商必須以控制台廠商的身分針對合作夥伴中心進行[上線](https://docs.microsoft.com/partner-center/enroll-as-cpv)，並立即開始實作此需求。 請參閱[合作夥伴中心：安全應用程式模型架構](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制台廠商必須接受並管理雲端解決方案提供者合作夥伴的同意 (而非認證)，並清除所有現有雲端解決方案提供者合作夥伴的認證。
+    控制台廠商必須以控制台廠商的身分針對合作夥伴中心進行[上線](https://docs.microsoft.com/partner-center/enroll-as-cpv)，並立即開始實作此需求。 請參閱[合作夥伴中心：安全應用程式模型架構](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制台廠商必須接受並管理雲端解決方案提供者合作夥伴的同意 (而非認證)，並清除所有現有雲端解決方案提供者合作夥伴的認證。
 
 ## <a name="multi-factor-authentication"></a>多重要素驗證
 
@@ -237,18 +248,18 @@ Microsoft 已不再針對獨立身分識別提供者提供驗證測試，以確�
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>誰應該採用安全應用程式模型來符合需求？
 
-Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可擴充架構，來驗證雲端解決方案提供者 (CSP) 合作夥伴和控制台廠商 (CPV)。 如需詳細資訊，請參閱[安全應用程式模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 已使用任何 API (例如 Azure Resource Manager、Microsoft Graph、合作夥伴中心 API 等) 開發自訂整合，或是使用 PowerShell 等工具實作自訂自動化的所有合作夥伴，都必須採用[安全應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\) 來與 Microsoft 雲端服務整合。
+Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可擴充架構，來驗證雲端解決方案提供者 (CSP) 合作夥伴和控制台廠商 (CPV)。 如需詳細資訊，請參閱[安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 已使用任何 API (例如 Azure Resource Manager、Microsoft Graph、合作夥伴中心 API 等) 開發自訂整合，或是使用 PowerShell 等工具實作自訂自動化的所有合作夥伴，都必須採用[安全應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\) 來與 Microsoft 雲端服務整合。
 
 ### <a name="what-is-the-secure-application-model"></a>什麼是安全應用程式模型？
 
-Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可擴充架構，來驗證雲端解決方案提供者 (CSP) 合作夥伴和控制台廠商 (CPV)。 如需詳細資訊，請參閱[安全應用程式模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)。  
+Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可擴充架構，來驗證雲端解決方案提供者 (CSP) 合作夥伴和控制台廠商 (CPV)。 如需詳細資訊，請參閱[安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。  
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>我要如何實作安全應用程式模型？
 
 已使用任何 API (例如 Azure Resource Manager、Microsoft Graph、合作夥伴中心 API 等) 開發自訂整合，或是使用 PowerShell 等工具實作自訂自動化的所有合作夥伴，都必須採用[安全應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\) 來與 Microsoft 雲端服務整合。 如果未這麼做，則可能會因部署 MFA 而導致中斷。 下列資源能提供採用此模型之方法的相關概觀和指引。
 
 - [安全應用程式模型概觀](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\)
-- [合作夥伴中心：安全應用程式模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [合作夥伴中心：安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 .NET 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/) \(英文\)
 - [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 Java 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/) \(英文\)
 - [合作夥伴中心驗證文件](https://docs.microsoft.com/partner-center/develop/partner-center-authentication) \(英文\)
@@ -256,11 +267,11 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 如果您使用的是控制台，則必須洽詢廠商有關採用安全應用程式模型架構的事宜。
 
-控制台廠商必須以控制台廠商的身分針對合作夥伴中心進行[上線](https://docs.microsoft.com/partner-center/enroll-as-cpv)，並立即開始實作此需求。 請參閱[合作夥伴中心：安全應用程式模型架構](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制台廠商必須接受並管理雲端解決方案提供者合作夥伴的同意 (而非認證)，並清除所有現有雲端解決方案提供者合作夥伴的認證。
+控制台廠商必須以控制台廠商的身分針對合作夥伴中心進行[上線](https://docs.microsoft.com/partner-center/enroll-as-cpv)，並立即開始實作此需求。 請參閱[合作夥伴中心：安全應用程式模型架構](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制台廠商必須接受並管理雲端解決方案提供者合作夥伴的同意 (而非認證)，並清除所有現有雲端解決方案提供者合作夥伴的認證。
 
 ### <a name="who-is-a-control-panel-vendor-cpv"></a>誰是控制台廠商 (CPV)？
 
-控制台廠商是開發應用程式以供雲端解決方案提供者合作夥伴用來與合作夥伴中心 API 整合的獨立軟體廠商。 控制台廠商不是能直接存取合作夥伴中心儀表板或 API 的雲端解決方案提供者合作夥伴。 如需詳細描述，請參閱[合作夥伴中心：安全應用程式模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)。
+控制台廠商是開發應用程式以供雲端解決方案提供者合作夥伴用來與合作夥伴中心 API 整合的獨立軟體廠商。 控制台廠商不是能直接存取合作夥伴中心儀表板或 API 的雲端解決方案提供者合作夥伴。 如需詳細描述，請參閱[合作夥伴中心：安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>安全應用程式模型是否僅需針對合作夥伴中心 API/SDK 實作？
 
@@ -296,7 +307,7 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>我正在使用合作夥伴中心 SDK。 該 SDK 是否會自動採用安全應用程式模型？
 
-否。您必須遵循[安全應用程式模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)中所提供的指導方針。
+否。您必須遵循[安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)中所提供的指導方針。
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-do-not-have-mfa-enabled"></a>我是否可以搭配未啟用 MFA 的帳戶針對安全應用程式模型產生重新整理權杖？
 
@@ -304,7 +315,7 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>在啟用 MFA 的情況下，我的應用程式要如何取得存取權杖？
 
-您必須遵循[安全應用程式模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)，其中會提供如何在遵守新安全性需求的情況下執行此操作的詳細資料。 您可以在[這裡](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) \(英文\) 找到 .NET 範例程式碼，並在[這裡](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model) \(英文\) 找到 Java 範例程式碼。
+您必須遵循[安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)，其中會提供如何在遵守新安全性需求的情況下執行此操作的詳細資料。 您可以在[這裡](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) \(英文\) 找到 .NET 範例程式碼，並在[這裡](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model) \(英文\) 找到 Java 範例程式碼。
 
 ### <a name="as-a-cpv-do-i-create-an-azure-ad-application-in-our-cpv-tenant-or-the-tenant-of-the-csp-partner"></a>身為 CPV，我要如何在我們的 CPV 租用戶，或是 CSP 合作夥伴的租用戶中建立 Azure AD 應用程式？
 
@@ -312,7 +323,7 @@ CPV 必須在與其註冊為 CPV 時所關聯的租用戶中建立 Azure Active 
 
 ### <a name="i-am-a-csp-that-is-using-app-only-authentication-do-i-need-to-make-any-changes"></a>我是使用僅限應用程式驗證的 CSP。 我是否需要進行任何變更？
 
-僅限應用程式驗證並不會受到影響，因為使用者認證不會用來要求存取權杖。 如果會共用使用者認證，控制台廠商 (CPV) 必須採用[安全應用程式模型架構](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)，並清除其所擁有的任何現有合作夥伴認證。
+僅限應用程式驗證並不會受到影響，因為使用者認證不會用來要求存取權杖。 如果會共用使用者認證，控制台廠商 (CPV) 必須採用[安全應用程式模型架構](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)，並清除其所擁有的任何現有合作夥伴認證。
 
 ### <a name="as-a-cpv-can-i-leverage-the-app-only-authentication-style-to-get-access-tokens"></a>身為 CPV，我是否可以運用僅限應用程式驗證樣式來取得存取權杖？
 
@@ -347,7 +358,7 @@ CPV 必須在與其註冊為 CPV 時所關聯的租用戶中建立 Azure Active 
 ### <a name="resources-for-adopting-secure-application-model"></a>採用安全應用程式模型的資源
 
 - [安全應用程式模型概觀](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\)
-- [合作夥伴中心：安全應用程式模型指南](http://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+- [合作夥伴中心：安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 - [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 .NET 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/) \(英文\)
 - [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 Java 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/) \(英文\)
 - [合作夥伴中心驗證文件](https://docs.microsoft.com/partner-center/develop/partner-center-authentication) \(英文\)

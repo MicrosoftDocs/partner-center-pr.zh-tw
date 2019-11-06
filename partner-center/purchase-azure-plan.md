@@ -1,22 +1,22 @@
 ---
 title: 購買 Azure 方案 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/01/2019
-description: 購買多個 Azure 訂用帳戶，而不需要為每個訂用帳戶提交單一訂單
+ms.date: 11/01/2019
+description: 購買 Azure 方案下的多個 Azure 訂用帳戶
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 0eead95dc6847dd1eca8f54d7a6e15f8312f9481
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171198"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428513"
 ---
 # <a name="purchase-the-azure-plan"></a>購買 Azure 方案
 
-當您在 Microsoft 客戶合約下為客戶購買 Azure 方案時，您可以使用隨用隨付費率來存取最新 Azure 服務的完整目錄。 CSP 合作夥伴現在能夠在任何 Azure 服務正式推出時進行存取。 合作夥伴在 Azure 方案中可以有多個 Azure 訂用帳戶。 
+當您在 Microsoft 客戶合約下為客戶購買 Azure 方案時，您可以使用隨用隨付費率來存取最新 Azure 服務的完整目錄。 CSP 合作夥伴現在能夠在任何 Azure 服務正式推出時進行存取。 合作夥伴在 Azure 方案下可以有多個 Azure 訂用帳戶。 
 
 ## <a name="countryregion-availability"></a>國家/地區可用性
 Azure CSP 中的新商務體驗目前已排程於 139 個國家/地區提供。 請參閱[國家/地區](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)的完整清單。 
@@ -30,9 +30,10 @@ Azure CSP 中的新商務體驗目前已排程於 139 個國家/地區提供。 
 
 ![購買](images/azure/Azurepurchase1.png)
 
-合作夥伴必須確認客戶已檢閱並接受 Microsoft 客戶合約條款。 如需有關合作夥伴如何達成此目的的詳細資訊，請參閱[確認客戶接受 Microsoft 客戶合約](https://docs.microsoft.com/en-us/partner-center/confirm-customer-agreement)。 其他資源可於[資源庫](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)中取得。
+合作夥伴必須確認客戶已檢閱並接受 Microsoft 客戶合約條款。 如需有關合作夥伴如何達成此目的的詳細資訊，請參閱[確認客戶接受 Microsoft 客戶合約](https://docs.microsoft.com/partner-center/confirm-customer-agreement)。 其他資源可於[資源庫](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)中取得。
 
-1. 確認
+**若要確認，您可以**
+1. 數位確認或，
 2. 邀請客戶直接與 Microsoft 簽署 Microsoft 客戶合約。 
 
 ### <a name="to-confirm"></a>若要確認 
@@ -66,7 +67,7 @@ Azure Reservations 必須關聯至有效的 Azure 方案。 從 [客戶訂用帳
 
 請注意，保留的範圍目前只能設定為**共用**。 
 
-![scopeshared](images/azure/scopeshared.png)
+![scopeshared](images/azure/addprods1.png)
 
 若要在 Azure 入口網站中管理客戶保留： 
 
@@ -78,7 +79,7 @@ Azure Reservations 必須關聯至有效的 Azure 方案。 從 [客戶訂用帳
 
 從 [訂用帳戶]  頁面的用量型區段中，展開 [Azure 方案]  ，以查看 Azure 方案底下相關聯的 Azure 訂用帳戶。
 
-![Viewlist](images/azure/viewlist.png)
+![Viewlist](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>新增訂用帳戶和設定資源

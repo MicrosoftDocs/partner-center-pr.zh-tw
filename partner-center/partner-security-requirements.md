@@ -7,12 +7,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: b09588387d3b4f0f3f726a700245999c89755199
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 4c7f4e61cc249fb51f58e4a94892a2d937cae4e1
+ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425200"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "73141978"
 ---
 # <a name="partner-security-requirements"></a>合作夥伴安全性需求
 
@@ -80,44 +80,7 @@ ms.locfileid: "72425200"
 
 ## <a name="accessing-your-environment"></a>存取您的環境
 
-若要進一步瞭解未經過多重要素驗證查問而進行驗證的內容或對象，建議您查詢 Azure Active Directory 的稽核記錄。 您可以使用 [Azure PowerShell](https://docs.microsoft.com/powershell/azure/overview) 模組和下列指令碼來完成此作業。 它會產生一份報告，讓您深入瞭解在過去一天所發生、未經過多重要素驗證查問的驗證嘗試。
-
-```powershell
-Login-AzAccount
-$context = Get-AzContext
-
-function Get-SignInEvents
-{
-    param([string]$userId)
-
-    $content = '{"startDateTime":"' + (Get-Date).AddDays(-1).ToUniversalTime().ToString("yyyy-MM-ddT05:00:00.000Z") + '","endDateTime":"' + (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm:ss.fffZ")  + '","userId":"' + $userId +'","riskState":[],"totalRisk":[],"realtimeRisk":[],"tokenIssuerType":[],"isAdfsEnabled":false}'
-
-    $token = [Microsoft.Azure.Commands.Common.Authentication.AzureSession]::Instance.AuthenticationFactory.Authenticate($context.Account, $context.Environment, $context.Tenant.Id, $null, "Never", $null, "74658136-14ec-4630-ad9b-26e160ff0fc6")
-
-    $headers = @{
-    'Authorization' = 'Bearer ' + $token.AccessToken
-    'Content-Type' = 'application/json'
-        'X-Requested-With'= 'XMLHttpRequest'
-        'x-ms-client-request-id'= [guid]::NewGuid()
-        'x-ms-correlation-id' = [guid]::NewGuid()
-    }
-
-    Invoke-RestMethod -Body $content -Header $headers -Method POST -Uri "https://main.iam.ad.ext.azure.com/api/Reports/SignInEventsV3"
-}
-
-$report = $()
-
-Get-AzADUser | foreach {
-    $events = Get-SignInEvents $_.Id
-    $report += $events.Items
-}
-
-$report | Where-Object {$_.mfaRequired -eq $false -and $_.loginSucceeded -eq $true} | Select-Object userPrincipalName, userDisplayName, createdDateTime, resourceDisplayName, loginSucceeded, failureReason, mfaRequired, mfaAuthMethod, mfaAuthDetail, mfaResult, @{Name='policies'; Expression={[string]::join(',', $($_.conditionalAccessPolicies | Select-Object displayName).displayName )}}, conditionalAccessStatus | Export-Csv report.csv
-```
-
-執行上述指令碼之後，report.csv 檔案中會提供詳細資料。 其中將包含過去一天所發生、使用者未經過 MFA 查問的驗證嘗試清單。 您將需要複查每個項目，以判斷這是否為預期的行為，並視需要採取動作。
-
-![評估報告](images/security/assessment-report.png)
+若要進一步瞭解未經過多重要素驗證查問而進行驗證的內容或對象，建議您參閱登入活動。 您可以透過 Azure Active Directory Premium 來運用登入報告。 如需詳細資訊，請參閱 Azure Active Directory 入口網站中的[登入活動報告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)。 如果您沒有 Azure Active Directory Premium，或是想要透過 PowerShell 取得 Azure Active Directory Premium 的方法，則必須從[合作夥伴中心 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 模組中，運用 [PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) Cmdlet。
 
 ## <a name="how-the-requirements-will-be-enforced"></a>強制執行需求的方法
 

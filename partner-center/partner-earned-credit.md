@@ -7,20 +7,18 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: a4074382d9cacbc363150db55fab62634150ebfd
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: e09e1421fd0ed1a126a43452d090009c0fb13412
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171167"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428439"
 ---
 # <a name="partner-earned-credit---overview"></a>合作夥伴所獲得信用點數 - 概觀
-
 
 在 CSP 的新商務體驗中，合作夥伴所獲得信用點數是一種商務模型，可在 Microsoft 的進入市場載具上完成簡化的統一 Azure 定價，同時培育可提供增值受控服務的合作夥伴生態系統。 合作夥伴所獲得信用點數也有助於消除對於利潤的任何競爭。 
 
 在 Azure 中有成千上萬的服務和多種購買選項，對許多客戶和合作夥伴而言，定價可能會面臨挑戰。 在適用於 Azure 的新商務體驗中，我們已協調至單一全球定價原則，適用於我們進行交易的所有動作。 CSP 合作夥伴可以用已發佈價格來提供 Azure。 這會為他們的客戶提供更高的透明度，並建立信任。 
-
 
 我們客戶的數位轉型需求正在變更合作夥伴所提供價值的本質。 許多客戶會尋求合作夥伴提供上述服務，而在交易以外，更要讓他們的雲端旅程更加順暢，並協助他們有效率地使用 Azure 服務。 這些服務會持續進行，包括 Azure 資產監控、原則和治理管理、設定和組態微調、技術支援，以及各種其他服務。 
 
@@ -66,11 +64,12 @@ ms.locfileid: "72171167"
 這些服務會針對合作夥伴在客戶 Azure 環境中要求適當的存取層級，而我們的商務系統會測量存取詳細資料，以計算合作夥伴所獲得信用點數。  
 
 >[!Note]
-
 >客戶可以選擇移除給予合作夥伴的任何存取權。 合作夥伴不應為了向 Microsoft 獲取合作夥伴所獲得信用點數此一目的，強制客戶為其指派適當的存取權，若是無法遵守這項要求，將使得合作夥伴沒有資格獲得合作夥伴所獲得信用點數。
 
 **詳細資訊**
-- [合作夥伴所獲得信用點數如何計算及付費]
+
+- [合作夥伴所獲得信用點數如何計算及付費](partner-earned-credit-explanation.md)
+
 - [管理 Azure 方案下的訂用帳戶和資源](azure-plan-manage.md)
 
 - [CSP 中新 Azure 商務體驗的價目表](azure-plan-price-list.md)

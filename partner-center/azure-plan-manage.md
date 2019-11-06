@@ -1,18 +1,18 @@
 ---
-title: 管理 Azure 方案下的訂用帳戶和資源 |合作夥伴中心
+title: 管理 Azure 方案下的訂用帳戶和資源 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/04/2019
-description: 購買多個 Azure 訂用帳戶，而不需要為每個訂用帳戶提交單一訂單
+ms.date: 11/01/2019
+description: 購買 Azure 方案下的多個 Azure 訂用帳戶
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 5aa39cbecc7f468329c9a5234dd975c776a63ea6
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: c86dee497df6701be0b0c1a734d37823ec51ca9c
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997870"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428501"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 方案下的訂用帳戶和資源
 
@@ -23,7 +23,7 @@ ms.locfileid: "71997870"
 
  合作夥伴可以使用透過角色型存取控制功能 (RBAC) 提供的不同選項，在 CSP 中取得客戶 Azure 資源的全天候操作控制和管理。 
 
-- **系統管理員代表 (AOBO)** – 使用 AOBO 時，在合作夥伴租用戶中具有系統管理代理人角色的任何使用者，都將擁有您透過 CSP 計畫所建立 Azure 訂用帳戶的 RBAC 擁有者存取權。
+- **系統管理員代表 (AOBO)** – 使用 [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) 時，在合作夥伴租用戶中具有系統管理代理人角色的任何使用者，都將擁有您透過 CSP 計畫所建立 Azure 訂用帳戶的 RBAC 擁有者存取權。
 
 - **Azure Lighthouse**：AOBO 不允許彈性建立與不同客戶一起使用的不同群組，或為群組或使用者啟用不同的角色。 使用 Azure Lighthouse，您可以將不同的群組指派給不同的客戶或角色。 因為使用者會透過 Azure 委派的資源管理來擁有適當的存取層級，所以您可以減少擁有系統管理代理人角色的使用者人數 (因而擁有完整的 AOBO 存取權)。 藉由限制對客戶資源的不必要存取來協助改善安全性。 它也可讓您更有彈性地大規模管理多個客戶。 如需詳細資訊，請參閱 [Azure Lighthouse 與雲端解決方案提供者計畫](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)。
 
@@ -39,8 +39,8 @@ Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安�
 |-----------------|:------------------------|:------------------|
 |AOBO   |CSP 直接合作夥伴或間接提供者會為客戶建立訂用帳戶，讓 CSP 直接合作夥伴或間接提供者成為使用 AOBO 作為訂用帳戶的預設擁有者；CSP 直接合作夥伴或間接提供者會使用 AOBO 為間接經銷商授與訂用帳戶的存取權。|自動 (不需要合作夥伴工作)|
 |Azure Lighthouse|合作夥伴會[在 Marketplace 中建立新的受控服務供應項目](https://docs.microsoft.com/azure/lighthouse/concepts/managed-services-offers)。 CSP 訂用帳戶已接受此供應項目，合作夥伴可以取得 CSP 訂用帳戶的存取權。|自動 (不需要合作夥伴工作)|
-|Azure Lighthouse|合作夥伴在 Azure 訂用帳戶中部署 [ARM 範本 ](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer)|合作夥伴必須將 MPN 識別碼與合作夥伴租用戶中的使用者或服務主體產生關聯。 如需詳細資訊 – [連結合作夥伴識別碼](https://docs.microsoft.com/en-us/azure/billing/billing-partner-admin-link-started)。|
-|目錄或來賓使用者|夥伴會在客戶目錄中建立新的使用者或服務主體，並為使用者提供 CSP 訂用帳戶的存取權。 合作夥伴會在客戶目錄中建立新的使用者或服務主體。 合作夥伴會將使用者新增至群組，並且為群組提供 CSP 訂用帳戶的存取權。|合作夥伴必須將 MPN 識別碼與客戶租用戶中的使用者或服務主體產生關聯。 如需詳細資訊 – [連結合作夥伴識別碼](https://docs.microsoft.com/en-us/azure/billing/billing-partner-admin-link-started)。|
+|Azure Lighthouse|合作夥伴在 Azure 訂用帳戶中部署 [ARM 範本 ](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer)|合作夥伴必須將 MPN 識別碼與合作夥伴租用戶中的使用者或服務主體產生關聯。 如需詳細資訊 – [連結合作夥伴識別碼](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)。|
+|目錄或來賓使用者|夥伴會在客戶目錄中建立新的使用者或服務主體，並為使用者提供 CSP 訂用帳戶的存取權。 合作夥伴會在客戶目錄中建立新的使用者或服務主體。 合作夥伴會將使用者新增至群組，並且為群組提供 CSP 訂用帳戶的存取權。|合作夥伴必須將 MPN 識別碼與客戶租用戶中的使用者或服務主體產生關聯。 如需詳細資訊 – [連結合作夥伴識別碼](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)。|
 
 ## <a name="confirm-that-you-have-admin-access"></a>確認您具有系統管理員存取權
 
@@ -72,7 +72,12 @@ Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安�
 
 若要查看有資格獲得 PEC 的角色，請參閱[合作夥伴所獲得信用點數的角色和權限](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)。
 
+
+
+
 **詳細資訊**
+
+- [撤銷及恢復 Azure CSP 訂用帳戶的系統管理員權限](revoke-reinstate-csp.md)
 
 - [合作夥伴所獲得信用點數 - 概觀](partner-earned-credit.md)
 

@@ -1,19 +1,19 @@
 ---
 title: Azure 方案價目表 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/01/2019
 description: 如何查看 Azure 方案下訂用帳戶的價目表
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 64f7b6930f31afc63397ae3ed0e0dba2357b0f1e
-ms.sourcegitcommit: cd90a59ff0ea81197b603abcb7bf462c4fb1edbe
+ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
+ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2019
-ms.locfileid: "72171280"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "73428543"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>適用於 Azure 的 CSP 中新商務體驗的價目表 
 
@@ -54,10 +54,9 @@ CSP 中新 Azure 商務體驗的價目表會張貼在合作夥伴中心。 價�
 
     - **FX 費率**：FX 費率將於每月 1 日之前 (下午 6 點 PST) 提供下載。 例如，如果您想要 11 月的費率，請在 10 月 31 日下載費率。 您也可以使用上個月的 FX 費率。
 
-    - **合格的服務**：合作夥伴所獲得信用點數適用於 **Azure 方案使用定價**中所列的服務，合作夥伴可以從 Azure 方案定價頁面匯出。 請注意，有一些例外狀況，包括但不限於第三方和 Azure 保留。
-
 - 價目表中的價格是直接價格。 某些合作夥伴可能符合合作夥伴所獲得信用點數的資格。 如需合作夥伴所獲得信用點數如何計算的相關資訊，請參閱[合作夥伴所獲得信用點數如何計算及付費](partner-earned-credit-explanation.md)。
 
+- **合格的服務**：合作夥伴所獲得信用點數適用於 **Azure 方案使用定價**中所列的服務，合作夥伴可以從 [Azure 方案定價](https://partner.microsoft.com/commerce/sales)頁面匯出。 請注意，有一些例外狀況，包括 (但不限於) Azure 方案使用價目表和 Azure 方案保留的 [標記] 資料行中，識別為 [協力廠商] 的協力廠商產品。
 
 ## <a name="price-list-data"></a>價目表資料
 
