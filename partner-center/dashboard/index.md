@@ -3,17 +3,19 @@ layout: HubPage
 hide_bc: true
 title: 開發人員及合作夥伴中心服務的文件
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 如果您登入合作夥伴中心是要發佈應用程式、取得傳統型應用程式上的資料、取得硬體認證、發佈驅動程式至 Windows Update，或是以經銷商身分進行交易，那麼這份文件就適合您閱讀。
 author: LauraBrenner
 ms.author: labrenne
 ms.topic: hub-page
 searchScope: []
-ms.openlocfilehash: 77390321f899617c815166935cd10b93cc986118
-ms.sourcegitcommit: f916aa2884239b205398c24d04d1f1dc41b63c2b
+ms.openlocfilehash: fda7ff2418ba33fbbab3358a2161c70e297ac711
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "64668467"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653402"
 ---
 <div id="main" class="v2">
     <div class="container">

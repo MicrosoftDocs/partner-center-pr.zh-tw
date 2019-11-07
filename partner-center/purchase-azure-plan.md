@@ -1,18 +1,18 @@
 ---
 title: 購買 Azure 方案 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/03/2019
 description: 購買 Azure 方案下的多個 Azure 訂用帳戶
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 6415235db3e0307e9185e69c1b8beee48512c792
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 2fefc10c0b5043e6617f4cea9e9c0245a8532321
+ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428513"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "73595924"
 ---
 # <a name="purchase-the-azure-plan"></a>購買 Azure 方案
 
@@ -53,7 +53,7 @@ Azure CSP 中的新商務體驗目前已排程於 139 個國家/地區提供。 
   
 您也可以在合作夥伴中心，代表您的客戶購買 Azure 方案下的 Microsoft Azure Reservations。
 
-1. 從儀表板上的 [合作夥伴中心] 功能表中，選取 [客戶]  。 尋找想要購買 Azure Reservations 的客戶，然後選取向下箭號來展開客戶列。 
+1. 從[儀表板](https://partner.microsoft.com/dashboard/)上的 [合作夥伴中心] 功能表中，選取 [客戶]  。 尋找想要購買 Azure Reservations 的客戶，然後選取向下箭號來展開客戶列。 
 
 2. 選取 [新增產品]  ，然後選取 [Azure]  。 
 - 從 [區段]  清單中選擇客戶的市場區段。 

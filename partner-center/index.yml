@@ -1,0 +1,140 @@
+### YamlMime:Hub
+title: 合作夥伴中心文件
+summary: 合作夥伴中心透過 Microsoft 合作夥伴網路 (MPN)、雲端解決方案提供者 (CSP) 計畫等，協助您拓展業務。
+brand: windows
+metadata:
+  title: 合作夥伴中心文件
+  description: 合作夥伴中心透過 Microsoft 合作夥伴網路 (MPN)、雲端解決方案提供者 (CSP) 計畫等，協助您拓展業務。
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: hub-page
+  author: LauraBrenner
+  ms.author: labrenne
+  manager: evansma
+  ms.date: 11/05/2019
+  ms.openlocfilehash: 66e35332bc8deaa4357c1b6c4296707fd5f0c67a
+  ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 11/06/2019
+  ms.locfileid: "73654404"
+highlightedContent:
+  items:
+  - title: 登入以查看最新公告
+    itemType: whats-new
+    url: https://partner.microsoft.com/pcv/announcements
+  - title: 尚未成為合作夥伴？ 立即加入 Microsoft 合作夥伴網路。
+    itemType: get-started
+    url: https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx
+  - title: 加入 API 和 SDK 早期採用者計畫
+    itemType: deploy
+    url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
+  - title: 新的 Microsoft 客戶合約
+    itemType: concept
+    url: confirm-customer-agreement.md
+  - title: 多重要素驗證和安全性最佳做法
+    itemType: overview
+    url: partner-security-requirements.md
+  - title: 合作夥伴中心的全新商務體驗 – Azure 計畫
+    itemType: whats-new
+    url: azure-plan-get-started.md
+conceptualContent:
+  title: 合作夥伴中心內的工作
+  items:
+  - title: 註冊並管理您的帳戶
+    links:
+    - url: mpn-create-a-partner-center-account.md
+      itemType: how-to-guide
+      text: 建立合作夥伴中心帳戶
+    - url: manage-locations.md
+      itemType: how-to-guide
+      text: 管理您的位置
+    - url: azure-active-directory-tenants-and-partner-center.md
+      itemType: how-to-guide
+      text: 管理您的租用戶
+    footerLink:
+      url: partner-center-account-setup.md
+      text: 查看更多
+  - title: 與客戶保持聯繫
+    links:
+    - url: csp-offers.md
+      itemType: how-to-guide
+      text: 銷售產品與服務
+    - url: assign-licenses-to-users.md
+      itemType: how-to-guide
+      text: 管理客戶授權
+    - url: see-your-customer-list.md
+      itemType: how-to-guide
+      text: 查看您的客戶清單
+    footerLink:
+      url: customer-accounts.md
+      text: 查看更多
+  - title: 讓企業茁壯
+    links:
+    - url: referrals.md
+      itemType: how-to-guide
+      text: 推薦和商務設定檔
+    - url: promotions.md
+      itemType: how-to-guide
+      text: 善用促銷活動
+    - url: get-special-pricing-for-offers.md
+      itemType: how-to-guide
+      text: 銷售到特色產業
+    footerLink:
+      url: grow-your-business.md
+      text: 查看更多
+  - title: 了解帳單與稅金
+    links:
+    - url: billing-basics.md
+      itemType: how-to-guide
+      text: 帳單基本知識
+    - url: read-your-bill.md
+      itemType: how-to-guide
+      text: 閱讀您的帳單
+    - url: tax-and-tax-exemptions.md
+      itemType: how-to-guide
+      text: 稅金與免稅
+    footerLink:
+      url: billing.md
+      text: 查看更多
+  - title: 分析業務資料
+    links:
+    - url: partner-contribution-indicators.md
+      itemType: how-to-guide
+      text: 合作夥伴貢獻指標
+    - url: analyze-azure-usage.md
+      itemType: how-to-guide
+      text: 客戶 Azure 使用狀況資料
+    - url: analyze-indirect-resellers.md
+      itemType: how-to-guide
+      text: 間接轉銷商績效
+    footerLink:
+      url: data-analysis-lp.md
+      text: 查看更多
+  - title: 取得並提供支援
+    links:
+    - url: customer-support.md
+      itemType: how-to-guide
+      text: 為客戶提供支援
+    - url: check-service-health.md
+      itemType: how-to-guide
+      text: 檢查服務健康狀況
+    - url: report-problems-with-partner-center.md
+      itemType: how-to-guide
+      text: 提報合作夥伴中心問題
+    footerLink:
+      url: support-from-microsoft.md
+      text: 查看更多
+additionalContent:
+  sections:
+  - title: 主要工作和工具
+  - items:
+    - title: 取得 Microsoft 行動寶盒 (MAPS)
+      summary: 購買或續訂您的權益優惠，包括 Microsoft 行動寶盒訂用帳戶。
+      url: mpn-get-action-pack.md
+    - title: 合作夥伴中心 API 和 SDK 參考資料
+      summary: 使用合作夥伴中心 SDK 來管理客戶、訂用帳戶和訂單資料。
+      url: https://docs.microsoft.com/partner-center/develop/
+    - title: 保持聯繫
+      summary: 加入我們的 CSP Yammer 社區。
+      url: https://go.microsoft.com/fwlink/p/?linkid=851605
