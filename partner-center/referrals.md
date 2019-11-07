@@ -2,34 +2,36 @@
 title: 透過 Microsoft 推薦拓展您的業務 | 合作夥伴中心
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 產生業務潛在客戶，並連接到需要協助實作 Microsoft 產品和解決方案的客戶。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 推薦, 商務設定檔, 尋找合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: de46c7546ea424c313d0f8216db86d515e851da1
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: a213c9b3a031b355f045b8fc976fac1dcc27e756
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958742"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652161"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
-# <a name="grow-your-business-with-referrals-from-microsoft"></a><span data-ttu-id="57d35-104">透過 Microsoft 推薦拓展您的業務</span><span class="sxs-lookup"><span data-stu-id="57d35-104">Grow your business with referrals from Microsoft</span></span>
+# <a name="grow-your-business-with-referrals-from-microsoft"></a><span data-ttu-id="916e6-104">透過 Microsoft 推薦拓展您的業務</span><span class="sxs-lookup"><span data-stu-id="916e6-104">Grow your business with referrals from Microsoft</span></span>
 
-<span data-ttu-id="57d35-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="57d35-105">**Applies to**</span></span>
+<span data-ttu-id="916e6-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="916e6-105">**Applies to**</span></span>
 
--  <span data-ttu-id="57d35-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="57d35-106">Partner Center</span></span>
+-  <span data-ttu-id="916e6-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="916e6-106">Partner Center</span></span>
 
-<span data-ttu-id="57d35-107">許多客戶正在尋找合格專家，以協助實作 Microsoft 技術與企業解決方案。</span><span class="sxs-lookup"><span data-stu-id="57d35-107">Many customers are looking for qualified experts to help implement Microsoft technology and business solutions.</span></span> <span data-ttu-id="57d35-108">在 Microsoft 這裡，我們透過行銷活動和我們內部的 Microsoft 銷售專員，經常取得客戶的直接協助要求。</span><span class="sxs-lookup"><span data-stu-id="57d35-108">Here at Microsoft, we often get direct requests for help from customers through our marketing activities and from our internal Microsoft sales agents.</span></span> <span data-ttu-id="57d35-109">客戶也會使用[**尋找解決方案提供者**體驗](https://www.microsoft.com/solution-providers/search)來尋找可以協助他們符合企業需求的公司。</span><span class="sxs-lookup"><span data-stu-id="57d35-109">Customers also use the [**Find a solution provider** experience](https://www.microsoft.com/solution-providers/search) to find companies that can help them meet their business needs.</span></span> 
+<span data-ttu-id="916e6-107">許多客戶正在尋找合格專家，以協助實作 Microsoft 技術與企業解決方案。</span><span class="sxs-lookup"><span data-stu-id="916e6-107">Many customers are looking for qualified experts to help implement Microsoft technology and business solutions.</span></span> <span data-ttu-id="916e6-108">在 Microsoft 這裡，我們透過行銷活動和我們內部的 Microsoft 銷售專員，經常取得客戶的直接協助要求。</span><span class="sxs-lookup"><span data-stu-id="916e6-108">Here at Microsoft, we often get direct requests for help from customers through our marketing activities and from our internal Microsoft sales agents.</span></span> <span data-ttu-id="916e6-109">客戶也會使用[**尋找解決方案提供者**體驗](https://www.microsoft.com/solution-providers/search)來尋找可以協助他們符合企業需求的公司。</span><span class="sxs-lookup"><span data-stu-id="916e6-109">Customers also use the [**Find a solution provider** experience](https://www.microsoft.com/solution-providers/search) to find companies that can help them meet their business needs.</span></span> 
 
-<span data-ttu-id="57d35-110">我們想將您連結至需要您的解決方案和專業知識的客戶。</span><span class="sxs-lookup"><span data-stu-id="57d35-110">We want to connect you with customers who need your solutions and expertise.</span></span> <span data-ttu-id="57d35-111">您可以開始從我們獲得業務潛在客戶的首要步驟，就是[建立商務設定檔](create-a-marketing-profile.md)，來展示您公司的產品、解決方案以及專業。</span><span class="sxs-lookup"><span data-stu-id="57d35-111">The most important step you can take to start getting sales leads from us is to [create a business profile](create-a-marketing-profile.md) that showcases your company's offerings, solutions, and expertise.</span></span> <span data-ttu-id="57d35-112">您的商務設定檔將會列在客戶和 Microsoft 內部銷售專員搜尋合格合作夥伴的所有位置。</span><span class="sxs-lookup"><span data-stu-id="57d35-112">Your business profile will be listed in all the places customers and internal Microsoft sales agents search for qualified partners.</span></span> 
+<span data-ttu-id="916e6-110">我們想將您連結至需要您的解決方案和專業知識的客戶。</span><span class="sxs-lookup"><span data-stu-id="916e6-110">We want to connect you with customers who need your solutions and expertise.</span></span> <span data-ttu-id="916e6-111">您可以開始從我們獲得業務潛在客戶的首要步驟，就是[建立商務設定檔](create-a-marketing-profile.md)，來展示您公司的產品、解決方案以及專業。</span><span class="sxs-lookup"><span data-stu-id="916e6-111">The most important step you can take to start getting sales leads from us is to [create a business profile](create-a-marketing-profile.md) that showcases your company's offerings, solutions, and expertise.</span></span> <span data-ttu-id="916e6-112">您的商務設定檔將會列在客戶和 Microsoft 內部銷售專員搜尋合格合作夥伴的所有位置。</span><span class="sxs-lookup"><span data-stu-id="916e6-112">Your business profile will be listed in all the places customers and internal Microsoft sales agents search for qualified partners.</span></span> 
 
- <span data-ttu-id="57d35-113">在您發佈商務設定檔之後，您將會開始透過合作夥伴中心的推薦功能收到業務潛在客戶。</span><span class="sxs-lookup"><span data-stu-id="57d35-113">After you publish your business profile, you'll start to receive sales leads through the Referrals feature in the Partner Center.</span></span> <span data-ttu-id="57d35-114">請務必在必要時限內回應推薦，以便繼續收到潛在客戶，以及最重要的是，贏得交易。</span><span class="sxs-lookup"><span data-stu-id="57d35-114">It's important to respond to referrals within the required time frames to continue to receive these leads and, most importantly, to win deals.</span></span> <span data-ttu-id="57d35-115">如需有關如何在合作夥伴中心管理業務潛在客戶的詳細資訊，請參閱[回應推薦](responding-to-referrals.md)。</span><span class="sxs-lookup"><span data-stu-id="57d35-115">See [Respond to referrals](responding-to-referrals.md) for details about how to manage sales leads in the Partner Center.</span></span>  
+ <span data-ttu-id="916e6-113">在您發佈商務設定檔之後，您將會開始透過合作夥伴中心的推薦功能收到業務潛在客戶。</span><span class="sxs-lookup"><span data-stu-id="916e6-113">After you publish your business profile, you'll start to receive sales leads through the Referrals feature in the Partner Center.</span></span> <span data-ttu-id="916e6-114">請務必在必要時限內回應推薦，以便繼續收到潛在客戶，以及最重要的是，贏得交易。</span><span class="sxs-lookup"><span data-stu-id="916e6-114">It's important to respond to referrals within the required time frames to continue to receive these leads and, most importantly, to win deals.</span></span> <span data-ttu-id="916e6-115">如需有關如何在合作夥伴中心管理業務潛在客戶的詳細資訊，請參閱[回應推薦](responding-to-referrals.md)。</span><span class="sxs-lookup"><span data-stu-id="916e6-115">See [Respond to referrals](responding-to-referrals.md) for details about how to manage sales leads in the Partner Center.</span></span>  
 
-<span data-ttu-id="57d35-116">若要開始使用，請觀看這段短片：[最佳化您的商務設定檔](https://player.vimeo.com/video/252788046)。</span><span class="sxs-lookup"><span data-stu-id="57d35-116">To get started, watch this short video, [Optimize your business profile](https://player.vimeo.com/video/252788046).</span></span>  
+<span data-ttu-id="916e6-116">若要開始使用，請觀看這段短片：[最佳化您的商務設定檔](https://player.vimeo.com/video/252788046)。</span><span class="sxs-lookup"><span data-stu-id="916e6-116">To get started, watch this short video, [Optimize your business profile](https://player.vimeo.com/video/252788046).</span></span>  
 
 <!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you’re getting in front of your target customers.
+*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
 -->
