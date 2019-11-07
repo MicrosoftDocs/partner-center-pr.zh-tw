@@ -2,17 +2,19 @@
 title: 拓展您的 Microsoft 合作夥伴業務 | 合作夥伴中心
 ms.topic: article
 ms.date: 05/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 拓展 Microsoft 合作夥伴業務的相關資源。 包含如何透過 Microsoft 獲得業務潛在客戶 (推薦)。
 keywords: 推薦, 回應推薦, 潛在客戶, 業務潛在客戶, 行銷設定檔, 商務設定檔, 拓展您的業務, 業務機會, 專長認證, 銀級成員, 金級成員, 試用供應項目, 市場擴張, 國内雲
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dc55055229dfc7cf52a50dba776e6234d481d5da
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: b9447ec8b03e92e85ea332e5dac3f9d79d8be0fc
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958723"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653051"
 ---
 # <a name="grow-your-microsoft-partner-business"></a>拓展您的 Microsoft 合作夥伴業務 
 

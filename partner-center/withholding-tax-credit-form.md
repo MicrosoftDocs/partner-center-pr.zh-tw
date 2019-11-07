@@ -2,18 +2,20 @@
 title: 請確定您已支付預繳稅金 |合作夥伴中心
 ms.topic: article
 ms.date: 05/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 您將需要使用您的預繳稅點數表和預繳稅金憑證來開啟服務要求。
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: LauraBrenner
 ms.author: labrenne
 keywords: 預繳稅金、稅務點數、德文稅點數表、表單稅務點數
 ms.localizationpriority: medium
-ms.openlocfilehash: 6d13c823297c2f681d0608a16d21a314cf9c4e1a
-ms.sourcegitcommit: e528ce5b05b89b19ba8cf2e48518f57067de9a2b
+ms.openlocfilehash: 654e4f32be1e86ce455c7d0409469bab37473f8b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "72892412"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653950"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>請確定您已為預繳稅金貸記
 
@@ -49,7 +51,7 @@ ms.locfileid: "72892412"
 
 2. 選取 [ **CSP**]。
 
-3. 在 [ **CSP –帳單和付款**] 底下，選取問題類型 [**預繳稅金**]，然後選取 **[是]** 。 
+3. 在 [ **CSP-帳單和付款**] 底下，選取問題類型 [**預繳稅金**]，然後選取 **[是]** 。 
 
 4. 當您提交服務要求時，請務必附加稅務憑證的稅額和數位複本。
 

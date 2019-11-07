@@ -2,17 +2,19 @@
 title: Microsoft 合作夥伴網路中的發票和稅金 |合作夥伴中心
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: 瞭解如何查看、下載及列印您的 MPN 成員資格發票，以及要豁免的檔案，並將您的加值稅識別碼號碼傳送給 Microsoft。
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN，發票，地圖，免稅，加值稅，加值稅 ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 42006ee073db1481fffa42b5cc4e3982526cf720
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: 76accd7cd2db254784b260d6fd75ce2e375d729e
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73141998"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653037"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作夥伴網路中的發票和稅金
 

@@ -2,46 +2,48 @@
 title: 準備從合作夥伴系統管理中心移往合作夥伴中心 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Office 365 合作夥伴系統管理中心功能即將移轉到合作夥伴中心。
 author: LauraBrenner
 ms.author: labrenne
-Keywords: PAC、 Office 365 Advisor、 顧問、 同步發行合作夥伴，PAC 淘汰，PAC 淘汰
+Keywords: PAC，Office 365 Advisor，advisor，新聞訂閱合作夥伴，PAC 淘汰，PAC 淘汰
 ms.localizationpriority: medium
-ms.openlocfilehash: 738e8a87ae75c61c32f571db1c5af529c3d3d216
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 234e86f166462a38592ebea3e898d45e99ff8edb
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134208"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654223"
 ---
-# <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作夥伴系統管理中心會移至合作夥伴中心
+# <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作夥伴系統管理中心即將移至合作夥伴中心
 
 **適用於**
 
 -  合作夥伴中心
 
 > [!NOTE]  
->  這篇文章與初始張貼以來已經更新的所有日期。
+>  自本文最初張貼之後，所有日期都已更新。
 
-Office 365 合作夥伴系統管理員中心 (PAC) 會移至 Microsoft 合作夥伴中心。
+Office 365 合作夥伴系統管理中心（PAC）即將移至 Microsoft 合作夥伴中心。
 
-我們會不斷 Microsoft 合作夥伴中心更新成您要在其中管理您與 Microsoft 和客戶的合作關係的單一位置。 在合作夥伴中心，您可以管理成員資格、 客戶推薦、 獎勵和雲端解決方案提供者 (CSP) 方案的所有其他層面。 我們將從 2018 年 4 月中開始淘汰 PAC。
+我們會將 Microsoft 合作夥伴中心發展成單一位置，讓您管理與 Microsoft 及客戶的合作關係。 在合作夥伴中心，您可以管理成員資格、客戶參考、獎勵，以及雲端解決方案提供者（CSP）方案的所有其他層面。 我們將從 2018 年 4 月中開始淘汰 PAC。
 
 ## <a name="the-office-365-partner-admin-center-pac-will-be-retired"></a>Office 365 合作夥伴系統管理中心 (PAC) 即將淘汰
 
-在 2018 年 4 月 PAC 即將停止服務，而 CSP 合作夥伴將會開始自動重新導向至 Microsoft 合作夥伴中心。 重新導向將會發生在階段中，並將您重新導向到合作夥伴中心，一旦您將無法運作中的 pac。 
+在2018年4月，PAC 即將淘汰，且 CSP 合作夥伴將會開始自動重新導向至 Microsoft 合作夥伴中心。 重新導向會分階段進行，而當您重新導向至合作夥伴中心之後，您將無法在 PAC 中工作。 
 
-**雲端解決方案提供者合作夥伴**如果您是 CSP 合作夥伴，我們會自動將您重新導向到合作夥伴中心自 2018 年 4 月。 
+**雲端解決方案提供者合作夥伴**如果您是 CSP 合作夥伴，我們會在2018年4月開始自動將您重新導向至合作夥伴中心。 
 
 **顧問合作夥伴** (如果您不透過雲端解決方案提供者交易，並使用 PAC 提供試用/配額給客戶) 一旦我們決定您自動重新導向至合作夥伴中心的時間表，就會在此處公布。 
 
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>立即開始使用 Microsoft 合作夥伴中心！
 
-開始使用[Microsoft 合作夥伴中心](https://partnercenter.microsoft.com/)現在來準備移動的 pac。  您將使用的相同認證的合作夥伴中心所使用的 pac。 
+立即開始使用[Microsoft 合作夥伴中心](https://partnercenter.microsoft.com/)，準備好從 PAC 進行移動。  您將針對用於 PAC 的合作夥伴中心使用相同的認證。 
 
 > [!IMPORTANT]  
-> 一些功能和 PAC 中可用的函式將無法使用在合作夥伴中心。
+> PAC 中提供的部分功能和功能將無法在合作夥伴中心使用。
 
  請閱讀[並排比較](moving-from-pac-to-pc.md)以了解並熟悉這些變更。  您可在 [Microsoft 合作夥伴中心說明](https://partnercenter.microsoft.com/partner/help)找到關於帳戶管理、客戶管理、授權和訂閱、定價與方案，以及其他更多項目的相關資訊。
 

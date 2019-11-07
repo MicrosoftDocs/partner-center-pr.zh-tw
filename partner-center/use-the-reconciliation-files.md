@@ -2,17 +2,19 @@
 title: 使用對帳檔案 | 合作夥伴中心
 ms.topic: article
 ms.date: 07/08/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 如需計費週期中每個費用的詳細明細專案查看，請從合作夥伴中心下載對帳檔案。
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cbc982fa5bf6848cb77a2de2dcdaa7660c422888
-ms.sourcegitcommit: 30f946b3c5c2c30a5ee3276037385ea97e644781
+ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "71931572"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653978"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -71,7 +73,7 @@ ms.locfileid: "71931572"
 <p>訂閱記錄中的經銷商 MPN 識別碼。 這會對應到合作夥伴中心中針對特定訂閱列出的經銷商識別碼。</p>
 <p>eTo 觀看或更新轉銷商，從 [合作夥伴中心] 功能表選取 [<strong>客戶</strong>]，然後從清單中選擇客戶。 在客戶功能表中，選取 \[訂閱\]，從清單中選擇訂閱。 選取 \[更新\] 以變更 \[經銷商 (MPN 識別碼)\]。</p>
 <p>如果雲端解決方案提供者合作夥伴直接向客戶銷售訂閱，他們的 MPN 識別碼將會以 MPN 識別碼和經銷商 MPN 識別碼的形式列出兩次。</p>
-<p>如果雲端解決方案提供者合作夥伴具有沒有 MPN 識別碼的經銷商，這個值將會改成設為合作夥伴的 MPN 識別碼。</p>
+<p>如果 CSP 合作夥伴具有沒有 MPN 識別碼的轉銷商，此值會改為設定為合作夥伴的 MPN 識別碼。</p>
 <p>如果雲端解決方案提供者合作夥伴移除經銷商識別碼，這個值將會設為 -1。</p></td>
 </tr>
 </tbody>
@@ -342,8 +344,8 @@ ms.locfileid: "71931572"
 <td>ServiceType</td>
 <td><p>Microsoft Azure 服務的特定類型。</p></td>
 <td><ul>
-<li>服務匯流排 – 個人或套件</li>
-<li>SQL Azure 資料庫 – Business 或 Web Edition</li>
+<li>服務匯流排-個人或套件</li>
+<li>SQL Azure 資料庫-Business 或 Web Edition</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -464,7 +466,7 @@ ms.locfileid: "71931572"
 <tr class="odd">
 <td>ServiceInfo</td>
 <td><p>於某一天佈建及使用的 ServiceBus 連線數目。</p></td>
-<td>例如：如果您在有 30 天的月份中有個別佈建的連線時，「服務資訊 1」的讀數會是「1.000000 連線 / 30 天」。 如果您佈建 25 組 ServiceBus 連線並在那天使用其中一組，那一天的每日使用量就會指示「25 組連線 / 30 天 - 已使用：1.000000」。</td>
+<td>例如：如果您在每月30天內有個別布建的連線，服務資訊1會讀取「1.000000 連線/30 天」。 如果您已布建25部的故障匯流排連線，而您在該天內使用了1個，則當天的每日使用方式聲明會指出「25個連接/30 天-已使用：1.000000」。</td>
 </tr>
 <tr class="even">
 <td>CustomerID</td>
@@ -561,7 +563,7 @@ ms.locfileid: "71931572"
 
 <tr class="odd">
 <td>AvailabilityId</td>
-<td><p>特定可用性的識別碼。 「可用性」是指特定 SKU 是否可供特定的國家/地區、貨幣、行業區段等等購買。</p></td>
+<td><p>特定可用性的識別碼。 「可用性」指的是特定 SKU 是否可針對指定的國家/地區、貨幣、產業區段等購買。</p></td>
 </tr>
 
 <tr class="even">
@@ -711,7 +713,7 @@ ms.locfileid: "71931572"
 
 <tr class="odd">
 <td>CustomerDomainName</td>
-<td><p>客戶的網域名稱。 目前的活動無法使用。</p></td>
+<td><p>客戶的功能變數名稱。 目前的活動無法使用。</p></td>
 </tr>
 
 <tr class="even">
@@ -746,7 +748,7 @@ ms.locfileid: "71931572"
 
 <tr class="even">
 <td>AvailabilityId</td>
-<td><p>特定可用性的識別碼。 「可用性」是指特定 SKU 是否可供特定的國家/地區、貨幣、行業區段等等購買。</p></td>
+<td><p>特定可用性的識別碼。 「可用性」指的是特定 SKU 是否可針對指定的國家/地區、貨幣、產業區段等購買。</p></td>
 </tr>
 
 <tr class="odd">
@@ -764,7 +766,7 @@ ms.locfileid: "71931572"
 <td><p>發行者的識別碼（以 GUID 格式）。 目前的活動無法使用。</p></td>
 </tr>
 
-<tr class=”even">
+<tr class="even">
 <td>訂用帳戶描述</td>
 <td><p>客戶購買的服務優惠名稱，如價目表中所定義。 （這是優惠名稱的相同欄位）。</p></td>
 </tr>
@@ -910,7 +912,7 @@ ms.locfileid: "71931572"
 
 若要交互參照發票和對帳檔案之間的費用金額，您可以使用 Microsoft Excel 篩選選項，在對帳檔案上依費用類型篩選，以便將發票費用對應到對帳檔案上的一組費用細項。
 
-用量型和授權型訂閱的對帳檔案只會顯示交易和費用的相關使用量 (耗用單位和相關的費用)。 發票上顯示為「調整」的點數、折扣或退款不會出現在對帳檔案中。
+用量型和授權型訂閱的對帳檔案只會顯示交易和費用的相關使用量 (耗用單位和相關的費用)。 對帳檔案不會顯示在發票上顯示為「調整」的一個信用額度、折扣或退款。
 
 下表顯示發票區段和對帳檔案上可能會顯示之相關費用類型之間的對應。 
 
@@ -978,7 +980,7 @@ ms.locfileid: "71931572"
 </tr>
 <tr>
 <td>
-<p>購買時按比例計算費用</p>
+<p>購買時按比例計算之費用</p>
 </td>
 <td>
 <p>使用年度計費時的訂用帳戶費用類型</p>

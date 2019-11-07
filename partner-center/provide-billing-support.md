@@ -2,17 +2,19 @@
 title: 提供帳單支援 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 您與您的客戶之間擁有帳單關係，且為您客戶的任何帳單相關問題提供完全的支援。
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fee297df2e768609cf9480370d56e59af5b249a
-ms.sourcegitcommit: de88bb4cd994f1a106a5d02242261042958d4300
-ms.translationtype: HT
+ms.openlocfilehash: 2df2429b37f9260de5f8e1b16a143555bc473760
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2019
-ms.locfileid: "67549509"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654151"
 ---
 # <a name="provide-billing-support"></a>提供帳單支援
 
@@ -35,9 +37,9 @@ ms.locfileid: "67549509"
 為了滿足支援需求，合作夥伴可能會轉售來自其他實體的支援、可能將全部或部分的支援結構外包出去，及/或可能會設定結構來直接提供支援。  合作夥伴可能會對全部或部分提供給客戶的支援收取費用。 合作夥伴應該清楚地告訴客戶他們將提供的支援、服務時間和連絡方法，以及定價 (如果收取支援費用)。 
 
 >[!Note]
->如果您不是 CSP，而且有關於客戶帳單的問題，請參閱適當的產品或服務的特定網站。
+>如果您不是 CSP，而且有關于客戶帳單的問題，請參閱特定的入口網站以取得適當的產品或服務。
 
-合作夥伴應接受客戶提出的支援要求、盡其所能診斷問題，接著在基準支援界限範圍內解決問題。 如果合作夥伴無法解決問題，他們可以透過下列支援媒介，將問題向上呈報給 Microsoft：
+合作夥伴必須接收來自客戶的傳入支援要求、診斷問題以獲得合作夥伴的能力，然後解決基準支援界限範圍內的問題。 如果合作夥伴無法解決問題，他們可以透過下列支援媒介，將問題向上呈報給 Microsoft：
 
 - **商業**問題支援適用於雲端解決方案提供者計畫的所有合作夥伴
 -   **技術**問題支援透過下列管道提供：
@@ -49,10 +51,10 @@ ms.locfileid: "67549509"
 
 每個線上服務對於提供帳單、訂閱管理和技術支援都有專屬的詳細需求。 請參閱下列文件以了解詳細資訊。
 
--   [透過 CSP 銷售的 Dynamics 365 的訂用帳戶](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [透過 CSP 銷售的 Dynamics 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [透過 CSP 銷售的 azure 訂用帳戶](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [透過 CSP 銷售的 Azure 訂用帳戶](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [透過 CSP 銷售的 office 365 訂用帳戶](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [透過 CSP 銷售的 Office 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 

@@ -2,18 +2,20 @@
 title: 代表您的客戶購買 Microsoft Azure Reservations | 合作夥伴中心
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 您可以在合作夥伴中心代表您的客戶購買 Azure 保留。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 保留區, 管理, 計費, 購買
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb75358e9b193a1568926eec220aef4c9fcc6f0f
-ms.sourcegitcommit: 582415b3c61557e80dfd17e09b5122210bfd0a9b
+ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "72530974"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653831"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表您的客戶在合作夥伴中心購買 Microsoft Azure 保留 
 
@@ -37,7 +39,7 @@ ms.locfileid: "72530974"
  
 -   銷售人員和技術支援中心需能代表客戶明確的存取 Azure 訂閱，以便在 Azure 入口網站與檔案支援要求中購買或管理訂閱，包括換貨與退款  
 
--   如果您是間接提供者，而且透過 Azure 入口網站購買 Azure Reservations，記錄可查夥伴 (間接經銷商) 將繼承自您選取的 Azure 雲端解決方案提供者訂閱。 
+-   如果您是間接提供者，而且您透過 Azure 入口網站購買 Azure 保留專案，則會從您選取的 Azure CSP 訂用帳戶繼承「記錄」（間接轉銷商）的夥伴。 
 
 -   購買後無法變更 Azure 保留的記錄合作夥伴。 您可以取消現有的保留區，並透過新的記錄可查夥伴購買新的保留區。 
 
@@ -94,15 +96,15 @@ ms.locfileid: "72530974"
 
 1. 從 [合作夥伴中心] 功能表選取 [**客戶**]。  
 
-2. 在 **\[客戶\]** 頁面上，尋找想要購買 Azure Reservations 的客戶，然後選取向下箭號來展開客戶列。  
+2. 在 [**客戶**] 頁面上，尋找想要購買 Azure 保留的客戶，然後選取向下箭號以展開客戶的資料列。  
 
-3. 選取 **\[新增產品\]** ，然後選取 **\[Azure\]** 。 
+3. 選取 [新增產品]，然後選取 [Azure]。 
 
-    a. 從 [**區段**] 清單中選擇客戶的市場區段。
+    a. 從 [區段] 清單中選擇客戶的市場區段。
 
     b。 從 [產品**類型**] 清單中選擇 [**保留**]。
 
-    c. 從 [**保留類型**] 清單中選擇客戶想要的保留類型。
+    c. 從 [保留類型] 清單中選擇客戶想要的保留類型。
 
 4. Azure Reservations 必須關聯至有效的 Azure 訂閱。 從 [**客戶訂**用帳戶] 清單中，選擇您想要新增 Azure 保留的客戶訂用帳戶。 
 
@@ -113,13 +115,13 @@ ms.locfileid: "72530974"
 
 6. 找到您想要購買的保留後，請輸入客戶在**數量**中所需的保留實例數目，然後選取 [**新增至購物車**]。  
 
-7. 重複步驟 5 和 6，直到您新增所有必要的項目至訂單。 選取 **\[檢閱\]** 確認您的訂單正確無誤。  
+7. 重複步驟5和6，直到您將所有必要的專案新增至訂單為止。 選取 [檢閱] 確認您的訂單正確無誤。  
 
 8. 在 **\[檢視您的訂單\]** 頁面上，您可以： 
 
     - 確認或變更保留執行個體數量。
 
-    - 選取保留區的範圍。 保留區的範圍可以涵蓋一個訂閱或多個訂閱 (共用範圍)。 如果您將保留範圍限定為單一訂用帳戶，則保留折扣僅適用于此訂用帳戶。 如果選取共用，保留區折扣會套用至在客戶帳單內容中的任何訂閱。 
+    - 選取保留範圍。 保留的範圍可以涵蓋一個訂用帳戶或多個訂用帳戶（共用範圍）。 如果您將保留範圍限定為單一訂用帳戶，則保留折扣僅適用于此訂用帳戶。 如果您選取 [共用]，保留折扣會套用至客戶帳單內容內的任何訂用帳戶。 
 
       >[!NOTE] 
       >如果您選擇將保留範圍限制為單一 Azure 訂用帳戶，您可能需要增加訂用帳戶的 vCPU 配額。 若要增加訂用帳戶的 vCPU 配額，您必須在 Azure 入口網站中建立支援要求。 請遵循[本主題中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)的指示來建立要求。 
@@ -132,12 +134,12 @@ ms.locfileid: "72530974"
     - 如果您的 Azure 保留支援 [計費方案] 選項，您可以從下拉式功能表中選取 [每月計費頻率]。 
     - 如果您的 Azure 保留不支援 [計費方案] 選項，您的計費頻率會預設為 [一次計費]。 
 
-9. 選取 **\[購買\]** 購買訂單。 您的訂單詳細資料（包括訂單號碼）會顯示在 [**確認**] 頁面上。 選取 **\[完成\]** 移至 **\[訂購記錄\]** 頁面。 
+9. 選取 **\[購買\]** 購買訂單。 您的訂單詳細資料（包括訂單號碼）會顯示在 [**確認**] 頁面上。 選取 [完成] 移至 [訂購記錄] 頁面。 
 
-10. 若要管理 Azure 入口網站中的客戶保留，請在 **[客戶] 頁面上**尋找客戶，然後選取向下箭號以展開客戶的資料列。 選取 **\[Microsoft Azure 管理入口網站\]** 以在 Azure 入口網站中開啟客戶記錄。
+10. 若要管理 Azure 入口網站中的客戶保留，請在 **[客戶] 頁面上**尋找客戶，然後選取向下箭號以展開客戶的資料列。 選取 [ **Microsoft Azure 管理入口網站**] 以在 Azure 入口網站中開啟客戶的記錄。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
-|**如需相關資訊**   |**閱讀此**    |
+|**如需相關資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留實例](azure-reservations.md) |
 |在合作夥伴中心管理 Azure 保留專案 | [在合作夥伴中心管理 Azure 保留專案](azure-reservations-manage.md)

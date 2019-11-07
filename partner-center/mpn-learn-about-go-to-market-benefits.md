@@ -2,17 +2,19 @@
 title: 瞭解您 Microsoft 合作夥伴網路的上市權益 |合作夥伴中心
 ms.topic: article
 ms.date: 10/31/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: 身為 Microsoft 合作夥伴網路成員，您可能符合特定的進入市場優勢。 瞭解各種不同層級的上市權益，以及如何在合作夥伴中心內加以啟用和管理。
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN，成員資格權益，成員資格，進入市場優勢，進入市場，進入市場，轉型，金級成員資格，銀級成員資格
 ms.localizationpriority: medium
-ms.openlocfilehash: 2fc160c0f98b13c8f3576e518dfdb625162beeb1
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413587"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653259"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>探索 MPN 的進入市場（轉型）成員資格權益
 
@@ -41,7 +43,7 @@ ms.locfileid: "73413587"
 所有 MPN 成員都可以存取特定的標準通過權益。 其中包括存取現成行銷資產、銷售支援平臺和隨選數位行銷。 達到銀級或金級專長認證的合作夥伴，可能會有更多的可通過認證權益。
 
 >[!NOTE]
->「通過」的權益會受到新增和變更的影響。 前往 Microsoft 合作夥伴網路的[進入市場頁面](https://partner.microsoft.com/en-us/membership/go-to-market)，以瞭解專長認證層級所提供的最新可轉型權益。
+>「通過」的權益會受到新增和變更的影響。 前往 Microsoft 合作夥伴網路的[進入市場頁面](https://partner.microsoft.com/membership/go-to-market)，以瞭解專長認證層級所提供的最新可轉型權益。
 
 具有**銀**級專長認證的其他可操作權益：
 
@@ -63,7 +65,7 @@ ms.locfileid: "73413587"
 
 若要查看您的操作優勢：
 
-1. 登入合作夥伴中心[儀表板]( https://docs.microsoft.com/en-us/partner-center/)。
+1. 登入合作夥伴中心[儀表板]( https://docs.microsoft.com/partner-center/)。
 
 2. 從左側功能表中，選取 [ **MPN**]。 然後，執行下列其中一項動作：
 

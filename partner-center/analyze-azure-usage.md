@@ -1,6 +1,8 @@
 ---
 title: 分析 Azure 使用狀況 | 合作夥伴中心
 ms.date: 08/02/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 使用合作夥伴中心取得客戶 Azure 訂用帳戶使用方式的相關資料。
 author: LauraBrenner
 ms.author: labrenne
@@ -9,12 +11,12 @@ ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0cdf48f959591f11994b0538532fadbcb4f11a89
-ms.sourcegitcommit: c8d42c122f420d4116239530c01ed28cb2ab6b30
-ms.translationtype: HT
+ms.openlocfilehash: b4c85cc591dfe43feb6a442de1b239520b56fe45
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2019
-ms.locfileid: "68781978"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653373"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>取得您客戶 Azure 訂閱使用狀況的相關資料
 
@@ -29,11 +31,11 @@ ms.locfileid: "68781978"
 
 我們正在追蹤下列計量︰
 
-## <a name="summary"></a>總結
+## <a name="summary"></a>摘要
 
-- **銷售的 Azure**訂用帳戶總數:在指定的時段內銷售的訂用帳戶數目  
-- **使用的客戶**:在指定的時段內具有 Azure 使用量的客戶數目  
-- **不使用的客戶**:在指定的時間週期內沒有 Azure 使用量的客戶數目  
+- **售出的 Azure 訂閱總數**：在指定的時段中售出的訂閱數  
+- **具使用量的客戶**：在指定的時段中有使用 Azure 的客戶數  
+- **不具使用量的客戶**：在指定的時段中未使用 Azure 的客戶數  
 
 ## <a name="top-5-customers-in-category"></a>分類中的前 5 名客戶
 
@@ -41,7 +43,7 @@ ms.locfileid: "68781978"
 
 ## <a name="azure-subscriptions-at-risk"></a>有風險的 Azure 訂用帳戶
 
-本節指出 Azure 訂用帳戶的預測流失風險。 合作夥伴可以使用這項資訊來與客戶互動, 並將流失降到最低
+本節指出 Azure 訂用帳戶的預測流失風險。 合作夥伴可以使用這項資訊來與客戶互動，並將流失降到最低
 
 ## <a name="subscriptions-without-usage"></a>不具使用量的訂閱
 
@@ -49,8 +51,8 @@ ms.locfileid: "68781978"
 
 ## <a name="azure-subscription-churn"></a>Azure 訂閱流失
 
-- **有效訂閱**:使用中訂閱的計數 (依日期)  
-- **取消布建訂閱**:依日期取消布建或暫停的訂閱計數  
+- **使用中訂閱**：依日期的使用中訂閱計數  
+- **取消佈建的訂閱**：依日期的取消佈建或暫停訂閱計數  
 
 ## <a name="customer-count"></a>客戶計數
 

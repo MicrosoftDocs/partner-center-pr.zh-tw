@@ -2,16 +2,18 @@
 title: Office 365 政府版 GCC 的合作夥伴和客戶資格條件 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 驗證適用於雲端解決方案提供者的 Office 365 政府版 GCC 之合作夥伴和客戶的程序。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6cc3bc4c34d9006da46b86af4b80c83e18406
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: ba7bf7c788e6dc90f68b7f46e5105be60c2c99ca
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134848"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653544"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>適用於雲端解決方案提供者的 Office 365 政府版 GCC 的合作夥伴和客戶資格條件
 
@@ -27,7 +29,7 @@ ms.locfileid: "62134848"
 
 如果您是服務美國聯邦、州、地方或部落實體的合作夥伴，則可以獲得核准。 若要讓您的組織資格獲得驗證，請填寫[此處](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)的簡短表格。
 
-如果您的客戶是處理政府控管資料的組織，或者他們是美國聯邦、州、地方或部落實體，則可以獲得核准。 若要讓您客戶的組織資格獲得驗證，請填寫[此處](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的簡短表格。 
+如果您的客戶是處理政府控管資料的組織，或者他們是美國聯邦、州、地方或部落實體，則可以獲得核准。 若要讓客戶的公司資格通過驗證，請完成[這裡](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的簡短表單。 
 
 -   貴組織必須[已註冊](https://partnercenter.microsoft.com/partner/cloud-solution-provider)雲端解決方案提供者計畫，因為這是獲得適用於雲端解決方案提供者的 Office 365 政府版 GCC 核准的必要條件。
 -   適用於雲端解決方案提供者的 Office 365 政府版 GCC 的逐步驗證程序位於[這裡](https://go.microsoft.com/fwlink/?linkid=2007323)。
@@ -40,7 +42,7 @@ ms.locfileid: "62134848"
 2.  透過 GSA 或其他合約媒介服務美國政府客戶
 
 **客戶準則**
-1.  各級職權的美國政府實體。 例如: 
+1.  各級職權的美國政府實體。 例如：
  
     -  聯邦機構 (例如局、機構、部門或其他美國政府實體)
     -   州/當地實體 
@@ -48,7 +50,7 @@ ms.locfileid: "62134848"
     -   地區或州際政府實體 (但非國際實體)
     -   聯邦資助的研究和發展中心 (FERDC)
 
-2.  擁有受法規約束之資料的商業私人實體。 接受的政府資料類型包括︰ 
+2.  商業私人實體，具有受法規約束的資料。 接受的政府資料類型包括︰ 
     -   國際武器販運 (ITAR)
     -   受控制的未分類資訊 (CUI)
     -   國防部 (DoD) 未分類的受控核子資訊 (UCNI)

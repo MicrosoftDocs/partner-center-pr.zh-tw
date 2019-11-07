@@ -2,20 +2,22 @@
 title: 準備從合作夥伴成員資格中心移至合作夥伴中心 |合作夥伴中心
 ms.topic: article
 ms.date: 06/13/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 將您的企業從 PMC 移至合作夥伴中心之前應考慮的事項
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bbce4677e88c82cb3f2826fb37823d2746d12e61
-ms.sourcegitcommit: f54b679ce5058793a52795c6f93b0e98311805e1
+ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "71060496"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652183"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備從合作夥伴成員資格中心（PMC）移至合作夥伴中心
 
-我們正將成員資格管理從合作夥伴成員中心（PMC）移至合作夥伴中心，這是管理您與 Microsoft 的商務關係的單一目的地。 我們希望您的移至合作夥伴中心盡可能有效率且更容易。 我們已識別出合作夥伴中心與 PMC 不同的區域，因此我們認為您會想要先瞭解並準備好，然後再進行移動。
+我們正將成員資格管理從合作夥伴成員中心（PMC）移至合作夥伴中心-單一目的地，以管理您與 Microsoft 的商務關係。 我們希望您的移至合作夥伴中心盡可能有效率且更容易。 我們已識別出合作夥伴中心與 PMC 不同的區域，因此我們認為您會想要先瞭解並準備好，然後再進行移動。
 
 ## <a name="account-and-identity-setup"></a>帳戶和身分識別設定
 
@@ -42,7 +44,7 @@ Azure 工作帳戶是您公司在 Azure 公用雲端的專用且隔離的虛擬�
 
 **AAD 全域管理員角色與 PMC MPN 全域管理員角色之間有何差異？**
 
-這些是兩個完全不同的角色，具有不同的許可權。 合作夥伴中心內的 AAD 租使用者全域管理員會管理租使用者–新增或移除使用者、提供及管理密碼、角色和許可權，並可存取其在合作夥伴中心內的所有公司程式。 
+這些是兩個完全不同的角色，具有不同的許可權。 合作夥伴中心內的 AAD 租使用者全域管理員會管理租使用者-新增或移除使用者、提供及管理密碼、角色和許可權，並可存取其在合作夥伴中心內的所有公司程式。 
 
 PMC 中的 MPN 全域管理員角色可以執行下列動作：
 
@@ -127,7 +129,7 @@ Microsoft 會自動遷移目前的專長認證、權益、位置資訊、獎勵�
  **我們的 Microsoft 帳戶將會接受 Visual Studio 權益嗎？**
 
 
- 可以。 將會接受並保留配置給 MSA 的 Visual Studio 權益。 在合作夥伴中心中續訂之後，也會保留它們。 不過，如果您在移轉至合作夥伴中心後移除 MSA 配置，便無法將它重新加入合作夥伴中心。
+ 可以。 將會接受並保留配置給 MSA 的 Visual Studio 權益。 在合作夥伴中心中續訂之後，也會保留它們。 不過，如果您在合作夥伴中心遷移之後移除 MSA 配置，就無法將其新增回合作夥伴中心。
 
 在合作夥伴中心中，合作夥伴可以加入公司帳戶及來賓使用者帳戶，其為來自合作夥伴為 Azure AD 租用戶中 MPN 系統管理員之相同租用戶的 MSA。 如果合作夥伴是多個 Azure AD 租用戶中的全域系統管理員，且這些租用戶都是與相同的合作夥伴中心帳戶相關聯，則該合作夥伴便可以將所有這些租用戶上的使用者加入 Visual Studio 權益和 Azure 以使用量為基礎的配置。
 

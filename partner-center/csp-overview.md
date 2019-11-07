@@ -2,17 +2,19 @@
 title: 雲端解決方案提供者計畫 - 銷售隨選雲端解決方案 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 雲端解決方案提供者計畫可協助透過新客戶與新專業拓展您的企業。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, CSP, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 過雲端解決方案提供者銷售, 直接合作夥伴, 間接雲端解決方案提供者合作夥伴, 間接雲端解決方案提供者經銷商, 直接雲端解決方案提供者, 間接雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 散發者, 雲端解決方案提供者計畫
 ms.localizationpriority: medium
-ms.openlocfilehash: 12bc6a32dd6b1890e66076b280dba4d38588eee5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134748"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653521"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>雲端解決方案提供者計畫 - 銷售炙手可熱的雲端解決方案 
 
@@ -20,12 +22,12 @@ ms.locfileid: "62134748"
 
 -  合作夥伴中心
 
-雲端解決方案提供者 (CSP) 可協助您不只是經銷授權，而是更深入參與您客戶的業務。
+雲端解決方案提供者方案（CSP）可協助您超越轉售授權，使其更牽涉于客戶的業務。
  
-- 深入參與客戶活動 – 與客戶定期會面代表您可以更深入了解他們的業務和需求。
-- 提高獲利 – 由您自己或透過間接提供者提供增強的技術支援和帳單服務，開闢新的收入來源。  
-- 增值 – 您將能夠提供與 Microsoft 產品搭配的業界專屬解決方案給客戶。
-- 提供受管理服務 – 您具有良好定位，可符合客戶對受管理服務的需求。 
+- 與您的客戶更深入的互動-定期與您的客戶會面，表示您將更瞭解他們的業務和需求。
+- 增加您的收益-提供更多的支援和帳單服務，無論是您自己或透過間接提供者，都能開啟新的收益串流。  
+- 新增價值-您將能夠為客戶提供與 Microsoft 產品配套的產業特定解決方案。
+- 提供受控服務-您可以妥善定位，以符合客戶對受控服務的需求。 
 
 ## <a name="which-csp-model-is-best-for-me"></a>哪個雲端解決方案提供者模型最適合我？
 
@@ -54,27 +56,27 @@ ms.locfileid: "62134748"
 在間接模型中，提供者 (也稱為代理商) 直接向 Microsoft 購買 Microsoft 產品和訂閱，然後透過間接經銷商網路銷售給客戶。 註冊雲端解決方案提供者間接經銷商的必要條件包括：
 
 - 針對您想要銷售的地點擁有使用中 Microsoft 合作夥伴網路 (MPN) 識別碼
--  代表您組織簽署法律合約的能力
+- 代表您組織簽署法律合約的能力
 - 與[正式 Microsoft 提供者](https://partnercenter.microsoft.com/partner/find-a-provider)建立關係
 
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>可以透過雲端解決方案提供者計畫在哪些地方進行銷售？
 
-貴公司的位置會決定您的市場。 區域和/或國家/地區，您可以在其中販售 CSP 供應項目，其中包括您的市場。 請參閱[雲端解決方案提供者程式地區市場與貨幣](regional-authorization-overview.md)的 CSP 市場與貨幣地區的完整清單。
+貴公司的地點決定您的市場。 您的市場包含您可以銷售 CSP 供應項目的地區和/或國家/地區。 如需 CSP 市場和貨幣的完整清單，請參閱[雲端解決方案提供者方案的區域市場和貨幣](regional-authorization-overview.md)。
 
-您可以訂購 CSP 提供代表客戶之前，客戶必須登入 Microsoft 雲端協議。 您可以找到您的客戶位置適用的 Microsoft 雲端協議[此處](agreements.md)。  
+客戶必須簽署 Microsoft Cloud 合約，才可代表客戶訂購 CSP 供應專案。 您可以在[這裡](agreements.md)找到適用于您客戶位置的 Microsoft Cloud 合約。  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>可以透過雲端解決方案提供者計畫銷售哪些項目？
 
-您可以銷售一系列完整的 [Microsoft 雲端服務](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及經常變動的多種其他優惠。 若要查看 CSP 提供對於目前的月份，登入合作夥伴中心，然後移至[**定價和供應項目**](https://partnercenter.microsoft.com/pcv/sales)頁面。
+您可以銷售一系列完整的 [Microsoft 雲端服務](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及經常變動的多種其他優惠。 若要查看目前月份的 CSP 供應專案，請登入合作夥伴中心，然後移至 [[**定價與**](https://partnercenter.microsoft.com/pcv/sales)供應專案] 頁面。
 
-## <a name="see-also"></a>另請參閱 
+## <a name="see-also"></a>請參閱 
 
 
-|**若要了解這**   |**請閱讀本**   |
+|**若要瞭解這一點**   |**請閱讀本文**   |
 |:---------------------------|:--------------------|
 |每個雲端解決方案提供者模型的需求   | [雲端解決方案提供者方案](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-|在 Microsoft 國内雲銷售   | [套用到在 Microsoft 的國家/地區雲端銷售](csp-national-clouds-overview.md)|
+|在 Microsoft 國内雲銷售   | [申請在 Microsoft 國家雲端銷售](csp-national-clouds-overview.md)|
 |Microsoft Cloud 合約客戶範本   |[依地區和語言的 Microsoft Cloud 合約](agreements.md)|
-|在合作夥伴中心上的間接提供者工作  |[與雲端解決方案提供者程式中的間接轉售商合作](indirect-provider-tasks-in-partner-center.md)|
-|間接轉銷商在合作夥伴中心上的工作   |[與雲端解決方案提供者程式中的間接提供者合作](indirect-reseller-tasks-in-partner-center.md)|
+|合作夥伴中心上的間接提供者工作  |[雲端解決方案提供者方案中與間接轉銷商的合作夥伴](indirect-provider-tasks-in-partner-center.md)|
+|合作夥伴中心上的間接轉銷商工作   |[雲端解決方案提供者方案中與間接提供者的合作夥伴](indirect-reseller-tasks-in-partner-center.md)|

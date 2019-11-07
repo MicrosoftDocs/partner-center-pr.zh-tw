@@ -2,16 +2,18 @@
 title: 查看您的獎勵付款資訊 |合作夥伴中心
 ms.topic: article
 ms.date: 06/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 description: 檢視獎勵計畫的收益和支付。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2a4d69fbe4f4618ebad1f8641f8d07e6563f28fd
-ms.sourcegitcommit: e73d8a1d74ed4ea87a5330b00fe119222bc2c3da
+ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "71093058"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654000"
 ---
 # <a name="view-your-incentives-payments-information"></a>查看您的獎勵付款資訊
 
@@ -33,7 +35,7 @@ ms.locfileid: "71093058"
 ## <a name="payments-page"></a>付款頁面
 此頁面上的總計代表您所使用的所有 MPN 識別碼。 您可以依 [參與者識別碼]、[程式]、[付款識別碼] 和 [賺取類型] 進行篩選。 金額會以美元為單位來提供。 付費值也會以 [付費貨幣] 顯示。 
 
-|**區域**   |**描述**    |
+|**領域**   |**描述**    |
 |------------------|:-------------------------------------|
 |今年總付費        |所有 MPN 識別碼的總金額，以美元為單位向您收費。                                      |
 |下一個估計付款      |您的單一下一期付款（即使有其他人即將推出），以美元為單位。                                     |

@@ -2,17 +2,19 @@
 title: 雲端解決方案提供者合作夥伴的 Microsoft 合作夥伴合約 | 合作夥伴中心
 ms.topic: article
 ms.date: 09/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 簡單、統一、數位化的合作夥伴合約。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3eb6879e1681ec46d445b6f5ea3791ae8f022ad4
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 3736b70d2769e39760db2dc06afc20174fed7bed
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921483"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654329"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>雲端解決方案提供者合作夥伴的 Microsoft 合作夥伴合約 
 

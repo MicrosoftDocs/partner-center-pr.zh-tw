@@ -1,43 +1,45 @@
 ---
-title: 在合作夥伴中心帳戶結構 |合作夥伴中心
+title: 合作夥伴中心的帳戶結構 |合作夥伴中心
 ms.topic: article
 ms.date: 06/13/2019
-description: 您的公司在合作夥伴中心內有兩種帳戶層級。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 您的公司在合作夥伴中心有兩個層級的帳戶。
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: ba3fad0a8b9dddf0162b3dfa3ae202a235f4eb24
-ms.sourcegitcommit: ef3559940bc6f68858441f7c2d33e42f14363b20
-ms.translationtype: HT
+ms.openlocfilehash: fc9f4f7e5f6e70a557d23bd23cc4fd32b0dd2a91
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "67131713"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653058"
 ---
-# <a name="the-account-structure-in-partner-center"></a>在合作夥伴中心帳戶結構
+# <a name="the-account-structure-in-partner-center"></a>合作夥伴中心的帳戶結構
 
-您的公司在合作夥伴中心內有兩種帳戶層級。 
+您的公司在合作夥伴中心有兩個層級的帳戶。 
 
-### <a name="the-top-level-is-the-primary-global-account-pga"></a>最上層是主要通用帳戶 (PGA)。
+### <a name="the-top-level-is-the-primary-global-account-pga"></a>最上層是主要通用帳戶（PGA）。
 
-- 主要的通用帳戶包含合法的商務地址和您公司的主要連絡人。 
-- 將全域的主要帳戶，從夥伴設定的詳細資料]-> [夥伴設定檔的檢視。
+- 主要通用帳戶包含公司的法律公司位址和主要連絡人。 
+- 從 [合作夥伴設定-> 合作夥伴設定檔] 查看主要通用帳戶的詳細資料。
 - 詳細資料也會包含主要通用帳戶 MPN 識別碼。 
-- PGA 貴公司的父系，並不會用來建立關聯的獎勵程式或雲端解決方案提供者。 
+- PGA 是貴公司的父系，並不會用來與獎勵方案或雲端解決方案提供者產生關聯。 
 - 位置應該用於這類關聯。
 
-### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>第二個層級的帳戶是稱為 「 夥伴位置帳戶 (PLA) 的位置帳戶。
+### <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>第二層帳戶是名為「夥伴位置帳戶（PLA）」的「位置帳戶」。
 
-您 PGA 可能有其下的其他商務位置。 每個位置都有自己的 MPN 識別碼或夥伴位置帳戶 (PLA)。 您可以使用位置的 MPN 識別碼交易式商務和獎勵的程式中的註冊。
+您的 PGA 可能會有其他的商務位置。 每個位置都有自己的 MPN 識別碼或夥伴位置帳戶（PLA）。 您可以使用「位置 MPN 識別碼」來進行交易式商務，並在獎勵計畫中註冊。
 
-- 每個夥伴位置帳戶可以有它自己的法律的地址和主要連絡人。 使用通用的帳戶或其他位置，位置也可以共用的合法的位址。
-- 檢視從夥伴設定夥伴位置帳戶清單-> 位置。
-- 位置的所有帳戶都會在相同的層級，並在 主要的通用帳戶。
-- 帳戶系統管理員可以新增或移除的位置。
+- 每個合作夥伴位置帳戶都可以有自己的合法位址和主要連絡人。 位置也可以與通用帳戶或其他位置共用合法位址。
+- 從 [合作夥伴設定-> 位置] 中，查看合作夥伴位置帳戶的清單。
+- 所有位置帳戶都位於相同層級，且位於主要通用帳戶之下。
+- 帳戶管理員可以新增或移除位置。
 
 ![帳戶結構](images/accountstructure.png)
 
-如需有關管理位置的詳細資訊，請參閱[管理您的夥伴帳戶：位置](manage-locations.md)。 
+如需管理位置的詳細資訊，請參閱[管理您的夥伴帳戶：位置](manage-locations.md)。 
 
 
 

@@ -2,18 +2,20 @@
 title: 適用于保留使用量上限的 Microsoft Azure VM 大小 |合作夥伴中心
 ms.topic: article
 ms.date: 08/05/2019
-Description: 代表您的客戶購買 Microsoft Azure Reservations 時，您需要選擇符合客戶運算需求的虛擬機器 (VM) 大小。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: 代表您的客戶購買 Microsoft Azure 保留時，您必須選擇虛擬機器（VM）大小，以符合客戶的運算需求。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 保留區, vm, 管理, 使用率, 調整大小
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1c1c0170c5efd8abf2e1afb7bb6ef1dfac2b7e5b
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 9d0c2935bd5a2202b50ffc470fbef144ce4d20e2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820189"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653775"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率
 
@@ -23,19 +25,19 @@ ms.locfileid: "68820189"
 - Azure 入口網站
 - 雲端解決方案提供者中的合作夥伴
 
-## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>判斷客戶 Azure Reservations 的 VM 大小 
+## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>判斷客戶的 Azure 保留專案的 VM 大小 
 
-代表您的客戶購買 Microsoft Azure Reservations 時，您需要選擇符合客戶運算需求的虛擬機器 (VM) 大小。 您可以使用下列其中一個方法來找到此項資訊：
+代表您的客戶購買 Microsoft Azure 保留時，您必須選擇虛擬機器（VM）大小，以符合客戶的運算需求。 您可以使用下列其中一個方法來找到此項資訊：
 
 - Azure 使用量 API
 - Azure 入口網站
 - Azure PowerShell
 - Azure Resource Manager (ARM) API
 
-以下列出使用每種方法的指示。 購買保留區之後，保留區折扣會自動套用到符合保留區屬性和數量的虛擬機器。 您不需要指派保留區給 VM。
+以下列出使用每種方法的指示。 購買保留區之後，保留區折扣會自動套用到符合保留區屬性和數量的虛擬機器。 您不需要將保留指派給 VM。
 
 >[!NOTE]
->保留區折扣不適用於傳統或促銷 VM。
+>保留折扣不適用於傳統或促銷 Vm。
 
 >[!IMPORTANT]
 >若要正確找出代表您客戶購買的 VM 大小和類型，您必須使用以下所述的其中一種方法，因為合作夥伴中心對帳檔案不會正確顯示 VM 系列類型。
@@ -43,14 +45,14 @@ ms.locfileid: "68820189"
 **使用 Azure 使用率 API 取得 VM 大小調整資訊**
 
 1. 使用 API 回應中 additionalInfo 的 ServiceType 屬性值，找出要購買的 VM 大小。
-2. 如需詳細資訊，請參閱[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/) 中的[取得客戶的 Azure 使用率記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) (英文)。
+2. 如需詳細資訊，請參閱[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/)中的[取得 Azure 的客戶使用量記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
 
 **使用 Microsoft Azure 入口網站取得 VM 大小調整資訊**
 
-1. 在合作夥伴中心, 移至您的 [**客戶**] 頁面。
-2. 尋找想要購買 Azure VM 保留區的客戶，然後選取向下箭號來展開客戶資訊。 選取 **\[Microsoft Azure 管理入口網站\]** 以在 Azure 入口網站中開啟客戶記錄。
+1. 在合作夥伴中心，移至您的 [**客戶**] 頁面。
+2. 尋找想要購買 Azure VM 保留的客戶，然後選取向下箭號以展開客戶的資訊。 選取 [ **Microsoft Azure 管理入口網站**] 以在 Azure 入口網站中開啟客戶的記錄。
 3. 從入口網站功能表選取 **\[虛擬機器\]** ，然後選取您要購買保留區的 VM。
-4. 在 VM 的詳細資料頁面上，尋找大小及地區資訊 (如下所示)，並使用此資訊在合作夥伴中心中購買保留區。  
+4. 在 VM 的詳細資料頁面上，尋找大小和區域資訊（如下所示），並使用此資訊在合作夥伴中心購買保留。  
 
     ![詳細資料頁面上的大小和區域資訊](images/usage1.png)
 
@@ -60,7 +62,7 @@ ms.locfileid: "68820189"
 
 ![VM 位置和大小](images/usage2.png)
 
-**使用 Azure Resource Manager (ARM) API 取得 VM 大小調整資訊**
+**使用 Azure Resource Manager （ARM） API 取得 VM 大小調整資訊**
 
 1. 使用 ARMClient 或 ARM API，呼叫您要購買保留區之 VM 的 ARM 用戶端。
 
@@ -72,9 +74,9 @@ ms.locfileid: "68820189"
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>確認 Azure VM 使用率與保留區折扣
 
-代表客戶購買 Azure 保留的 VM 執行個體後，預先支付 VM 空間的折扣會自動套用到符合客戶保留區屬性和數量的虛擬機器。
+代表客戶購買 Azure 保留的 VM 實例之後，預先支付 VM 空間的折扣會自動套用至符合客戶保留之屬性和數量的虛擬機器。
 
-您可以使用下列其中一項方法，確認客戶的保留區使用率，並查看適用於保留區折扣的虛擬機器：
+您可以使用下列其中一種方法來驗證客戶的保留使用量，並查看要套用保留折扣的虛擬機器：
 
 - Azure 入口網站
 - Azure 使用量 API
@@ -84,29 +86,29 @@ ms.locfileid: "68820189"
 >[!NOTE]
 >只有 Azure 使用量 API 會顯示折扣套用的虛擬機器。  
 
-### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>在 Microsoft Azure 入口網站中確認客戶的保留區使用率
+### <a name="verify-the-customers-reservation-usage-in-the-microsoft-azure-portal"></a>確認客戶在 Microsoft Azure 入口網站中的保留使用量
 
-1. 在合作夥伴中心, 移至您的 [**客戶**] 頁面。
+1. 在合作夥伴中心，移至您的 [**客戶**] 頁面。
 
-2. 尋找您要確認其保留區折扣和使用率的客戶，然後選取向下箭號來展開客戶資訊。 選取 **\[Microsoft Azure 管理入口網站\]** 以在 Azure 入口網站中開啟客戶記錄。
+2. 尋找您要驗證其保留折扣和使用量的客戶，然後選取向下箭號以展開客戶的資訊。 選取 [ **Microsoft Azure 管理入口網站**] 以在 Azure 入口網站中開啟客戶的記錄。
 3. 從入口網站功能表選取 **\[保留區\]** ，然後選取您要查看其使用率的保留區。
-4. 在 **\[概觀\]** 頁面上檢查保留區的使用率圖形，其中會顯示多少保留區已套用到虛擬機器。
+4. 在 [**總覽**] 頁面上，檢查保留的 [使用率] 圖形，其中會顯示已將多少保留套用至虛擬機器。
 
     >[!NOTE]
     >使用率資料可能會延遲最多 8 小時。
 
-    a. 如果保留區使用率是 100%，表示您的客戶已獲得保留區購買可提供的所有可能節省情形。
-    b. 如果保留區使用率是 0%，表示折扣不適用於任何虛擬機器。
-    c. 如果保留區使用率介於 1% 和 99% 之間，表示有未使用的權益。
+    a. 如果保留的使用率是100%，表示您的客戶正在取得保留購買可提供的所有可能的節約。
+    b。 如果保留的使用量為0%，則不會將折扣套用至任何虛擬機器。
+    c. 如果保留的使用量介於1% 到99% 之間，則會有未使用的權益。
 
-5. 若要避免發生這種情形，請在購買之前正確判斷支援客戶運算需求的 VM 大小。
+5. 若要避免這種情況，請在進行購買之前，先決定正確的 VM 大小以支援客戶的運算需求。
 
-### <a name="verify-the-customers-reservation-usage-with-the-azure-utilization-api"></a>使用 Azure 使用量 API 確認客戶的保留區使用率
+### <a name="verify-the-customers-reservation-usage-with-the-azure-utilization-api"></a>使用 Azure 使用率 API 驗證客戶的保留使用量
 
 >[!NOTE]
 >只有 Azure 使用量 API 會顯示折扣套用的虛擬機器。  
 
-您可以使用 Azure 使用量 API 取得保留區使用率資料，來確認客戶獲得保留區折扣，並查看折扣套用到那些 VM (虛擬機器)。 比較範例 A 和範例 B，了解如何確認客戶的保留區使用率。
+您可以使用 Azure 使用量 API 取得保留區使用率資料，來確認客戶獲得保留區折扣，並查看折扣套用到那些 VM (虛擬機器)。 將範例 A 與範例 B 進行比較，以瞭解如何驗證客戶的保留使用量。
 
 ![保留使用範例](images/usage5.png)
 
@@ -114,14 +116,14 @@ ms.locfileid: "68820189"
 - consumptionMeter 是已套用保留區折扣之 VM 的 MeterId。
 - 由於已套用保留區折扣，所以 ReservationMeter 會顯示 $0 費用。
 
-如需詳細資訊，請參閱[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/) 中的[取得客戶的 Azure 使用率記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure) (英文)。
+如需詳細資訊，請參閱[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/)中的[取得 Azure 的客戶使用量記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
 
 >[!IMPORTANT]
 >軟體成本 (例如 Microsoft Windows Server) 目前不包含在 VM 保留區的價格中，並會在訂單記錄和發票中顯示為不同的一行項目。 不過，如果客戶擁有 Azure Hybrid Use Benefit，將不會套用軟體成本。 如需詳細資訊，請參閱 [Windows 軟體的成本不包括在保留執行個體內](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs)。  
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
 
-|**如需相關資訊**   |**閱讀此**    |
+|**如需相關資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的 VM 實例](azure-reservations.md)
 |在合作夥伴中心為您的客戶購買 Azure 保留   |[購買 Azure 保留](azure-reservations-buying.md)

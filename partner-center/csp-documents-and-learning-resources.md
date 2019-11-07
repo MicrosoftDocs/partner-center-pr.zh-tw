@@ -2,18 +2,20 @@
 title: 雲端解決方案提供者合約、價目表和優惠 | 合作夥伴中心
 ms.topic: article
 ms.date: 09/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 此文章包括雲端解決方案提供者計畫指南、合作夥伴合約、客戶合約、價目表與供應項目連結。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp program guides, program guide, partner agreements, customer agreement, price lists, offers, 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 供應項目
 ms.localizationpriority: medium
-ms.openlocfilehash: 03f6730f8b52e17c044e67f1ced982fbbabab59d
-ms.sourcegitcommit: 8a494949f5c4efdcf33b01760d2ae10405f1daae
+ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2019
-ms.locfileid: "71204622"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653563"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、合約、價目表和優惠
 
@@ -73,4 +75,4 @@ ms.locfileid: "71204622"
 
 針對使用 CREST 使用量記錄 API 的 CSP 合作夥伴，Microsoft 也會在 [定價與供應項目] 頁面發佈一份清單，列出 CSP 中的 Azure 服務。
 
-若要了解由獨立軟體廠商 (ISV) 發佈的 Azure Marketplace 供應項目，請從左導覽瀏覽至 [Marketplace] 頁面。 目前只有 SaaS (軟體即服務) 類型的產品是可以從合作夥伴中心購買的。 您必須瀏覽 Azure 入口網站才能取得其他類型的 Azure Marketplace 供應項目。
+若要了解由獨立軟體廠商 (ISV) 發佈的 Azure Marketplace 供應項目，請從左導覽瀏覽至 [Marketplace] 頁面。 目前只有 SaaS (軟體即服務) 類型的產品是可以從合作夥伴中心購買的。 您必須造訪 Azure 入口網站，才能取得其他類型的 Azure Marketplace 供應專案。

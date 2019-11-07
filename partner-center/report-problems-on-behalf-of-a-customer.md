@@ -2,18 +2,20 @@
 title: 代表客戶報告問題 | 合作夥伴中心
 ms.topic: article
 ms.date: 08/16/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 如果客戶遇到您無法解決的服務問題，且問題符合將問題向上呈報給 Microsoft 中描述的條件，請針對它們提出支援票證。
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 服務要求, 服務票證, 支援, 支援權利, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f01713dcafd0a24c8b7fb5d8a8af33bdf5ff781
-ms.sourcegitcommit: e84322e2cb6f3f559de93c98a16ab19531a2f95c
-ms.translationtype: HT
+ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/19/2019
-ms.locfileid: "69578770"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654118"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 
@@ -27,11 +29,11 @@ ms.locfileid: "69578770"
 
 ## <a name="submit-a-service-request-for-a-customer"></a>為客戶提交服務要求
 
-1.  從 [合作夥伴中心]  功能表，選取 [服務要求]  ，然後選取 [客戶要求]  。 
+1.  從 [合作夥伴中心] 功能表，選取 [服務要求]，然後選取 [客戶要求]。 
 
 2.  在 [客戶要求] 頁面上，搜尋您想要的客戶。
 
-3.  從 [新增要求]  下拉式功能表中，選取 **Azure** 或 **Office 365、Dynamics 365、Enterprise Mobility Suite**。 系統會將您重新導向至 Microsoft Azure 入口網站或 Office 365 系統管理中心。
+3.  從 [新增要求] 下拉式功能表中，選取 **Azure** 或 **Office 365、Dynamics 365、Enterprise Mobility Suite**。 系統會將您重新導向至 Microsoft Azure 入口網站或 Office 365 系統管理中心。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -42,12 +44,12 @@ ms.locfileid: "69578770"
 >
 >- 雖然合作夥伴中心的技術支援系統管理員無法在 Azure 服務入口網站中建立服務要求，但他們可以在 Azure 服務入口網站中建立支援群組，並將記錄支援要求的許可權授與該群組。
 
-1. 選取 [新增支援要求]  。
-2. 以適當的資訊填寫支援要求，並選取 [建立]  ：
--   在支援要求的 [基本]  區段中，請確定選取 [支援方案]  中的 [雲端解決方案提供者]  。
--   在支援要求的 [連絡人]  資訊區段中，輸入您的資訊，而不是客戶的資訊。
+1. 選取 **\[新增支援要求\]** 。
+2. 以適當的資訊填寫支援要求，並選取 [建立]：
+-   在支援要求的 [基本] 區段中，請確定選取 [支援方案] 中的 [雲端解決方案提供者]。
+-   在支援要求的 [連絡人] 資訊區段中，輸入您的資訊，而不是客戶的資訊。
 
-3. 接下來，在 Microsoft Azure 入口網站中檢視客戶的服務要求，請選取 \[管理支援要求\]  。
+3. 接下來，在 Microsoft Azure 入口網站中檢視客戶的服務要求，請選取 **\[管理支援要求\]** 。
 
 當您沒有該客戶的系統管理員許可權時，您可能需要為客戶建立支援要求。 在下列兩個案例中的其中一種情況下就可能發生這種情形： 
  
@@ -56,38 +58,38 @@ ms.locfileid: "69578770"
  
 在上述任一情況下，您都可以使用下列程序來建立支援要求。 
 
-1. 從合作夥伴中心的 [帳戶] 頁面複製客戶的網域名稱。
+1. 從合作夥伴中心的 [帳戶] 頁面複製客戶的功能變數名稱。
 
 2. 移至 https://portal.azure.com/ [customerdomainname]。 
 
 3. 選取需要支援的 Azure 訂用帳戶。
 
-4. 選取 [新增支援要求]  ，然後遵循提示來建立要求。 
+4. 選取 [新增支援要求]，然後遵循提示來建立要求。 
 
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite
 
-1. 在 \[建立服務要求\]  區段中，選擇適當的支援主題類別。 您可能需要選取 \[更多\]  以檢視其他主題。    
-2. 完成服務要求表單，然候選取 [提交]  。
+1. 在 **\[建立服務要求\]** 區段中，選擇適當的支援主題類別。 您可能需要選取 [**更多 ...** ] 以查看其他主題。    
+2. 完成服務要求表單，然候選取 [提交]。
 
    > [!TIP]
    > 請務必包含您的連絡資訊，而非客戶連絡資訊。
 
-3. 接下來，移至 Office 365 系統管理中心並選取 \[查看所有支援票證\]  ，以檢閱您的客戶的服務要求。
+3. 接下來，移至 Office 365 系統管理中心並選取 **\[查看所有支援票證\]** ，以檢閱您的客戶的服務要求。
 
 ### <a name="support-for-commercial-marketplace-products"></a>商業市集產品的支援
 
-Microsoft 不會供應商業市集產品的產品支援。 您必須洽詢發佈產品的獨立軟體廠商 (ISV) 以取得支援。
+Microsoft 不會供應商業市集產品的產品支援。 您必須洽詢發佈產品的獨立軟體廠商（ISV）以取得支援。
 
 若要尋找 ISV 的連絡人資訊：
 
-1.  在 [Marketplace]  頁面上，選取您需要協助的產品。
+1.  在 [Marketplace] 頁面上，選取您需要協助的產品。
 2.  在產品的頁面上，您會找到支援連絡人資訊。 可能是下列一或多項：
     - ISV 網站上支援進入點的連結
     - 支援電子郵件 
     - 支援連絡人電話號碼
 
-## <a name="faq"></a>常見問題集
+## <a name="faq"></a>常見問題
 
 **支援權益包含哪些內容？**
 
@@ -103,7 +105,7 @@ Microsoft 不會供應商業市集產品的產品支援。 您必須洽詢發佈
 
 **技術協助修正事件**的初始回應時間如下：
 
--   重大影響 (嚴重性 A)：2 小時 (顯著的服務中斷或品質降低。 生產服務關閉)。
+-   嚴重影響 (嚴重性 A)：2 小時 (顯著的服務中斷或品質降低。 生產服務關閉)。
 -   中度影響 (嚴重性 B)：4 小時 (中度的服務中斷或品質降低。 部分生產服務受到影響)。
 -   輕微影響 (嚴重性 C)：8 小時 (輕微的服務中斷或品質降低。 服務仍然可用，或僅非生產服務受到影響)。
 
@@ -126,7 +128,7 @@ Microsoft 不會供應商業市集產品的產品支援。 您必須洽詢發佈
 
 **如何取得額外的 Dynamics 365 支援？**
 
-如果您遇到以下項目的相關問題：Dynamics 365 計畫訂用帳戶、授權、帳單、財務與營運、Dynamics 365 產品授權，或者您需要進一步技術支援：
+如果您遇到與下列相關的問題： Dynamics 365 方案訂閱、授權、帳單、財務 & 作業、Dynamics 365 產品授權或您需要進一步的技術支援：
  
 連絡 [Dynamics 支援](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 

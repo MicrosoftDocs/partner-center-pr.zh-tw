@@ -2,6 +2,8 @@
 title: 未付款、詐騙或濫用 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 管理線上交易風險的策略，包括客戶不支付商品與服務款項以及詐騙活動或濫用。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
@@ -9,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2e8ab123b4b735f685c7caf1ba740c04c93fd134
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 4cda8426d29fd2bf290cac2d7478bcb08641c5c3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978729"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652969"
 ---
 # <a name="non-payment-fraud-or-misuse"></a>未付款、詐騙或濫用
 
@@ -35,7 +37,7 @@ ms.locfileid: "72978729"
 
 - **竊取服務**：無意支付享用服務應付款項的客戶，其所用伎倆包括使用盜用的付款方式、提供不實的帳單資訊和/或拖欠未結清的餘額。
 
-- **濫用服務**：違反 Microsoft 可接受的使用原則使用雲端服務的客戶
+- **服務濫用**使用雲端服務違反 Microsoft 可接受使用原則的客戶
 
 #### <a name="examples-of-possible-fraud-or-service-abuse"></a>可能發生詐騙或服務濫用情況的範例
 - 垃圾郵件

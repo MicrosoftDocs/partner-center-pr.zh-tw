@@ -2,18 +2,20 @@
 title: 新增 Azure 合作夥伴共用服務 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: Azure 合作夥伴共用服務是一種新的供應類型，適用於雲端解決方案提供者計畫中的合作夥伴，讓合作夥伴購買自己要使用的 Azure 訂閱。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: Azure, 共用服務, 租用戶
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: bfdb82d0698f2e0aba3f5284a53fe22010efc0da
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 10d2effe05bb6472a7253d094b8e25c17b9c21eb
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134929"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651673"
 ---
 # <a name="add-azure-partner-shared-services"></a>新增 Azure 合作夥伴共用服務
 
@@ -21,15 +23,15 @@ ms.locfileid: "62134929"
 
 -  合作夥伴中心
 
-Azure 合作夥伴共用服務是一種新的供應類型，適用於雲端解決方案提供者計畫中的合作夥伴，讓合作夥伴購買自己要使用的 Azure 訂閱。  它會建立要購買、 追蹤和管理 Azure 除了能夠使用具有一致的方法，來合併其授權和轉售協議與 Microsoft 的 Azure 合作夥伴的機會。 透過 Azure 合作夥伴共用服務，合作夥伴現在於雲端解決方案提供者計畫中使用 Azure 訂閱的彈性，就如同在 Microsoft Enterprise 合約與 Web Direct 計畫中的使用彈性一樣，開啟的案例包括：組建開發與測試環境、部署內部工作負載，以及主機共用服務或多租用戶應用程式。  
+Azure 合作夥伴共用服務是一種新的供應類型，適用於雲端解決方案提供者計畫中的合作夥伴，讓合作夥伴購買自己要使用的 Azure 訂閱。  除了能夠將其 Azure 授權和轉售合約合併到 Microsoft 之外，合作夥伴還可以使用統一的方法來購買、追蹤和管理 Azure。 透過 Azure 合作夥伴共用服務，合作夥伴現在於雲端解決方案提供者計畫中使用 Azure 訂閱的彈性，就如同在 Microsoft Enterprise 合約與 Web Direct 計畫中的使用彈性一樣，開啟的案例包括：組建開發與測試環境、部署內部工作負載，以及主機共用服務或多租用戶應用程式。  
 
 ## <a name="create-the-shared-services-tenant"></a>建立共用服務租用戶
 
-1. 移至 **\[設定\]** > **\[檢視所有設定\]** > **\[共用服務\]**。
+1. 移至 **\[設定\]**  >  **\[檢視所有設定\]**  >  **\[共用服務\]** 。
 
     ![**\[帳戶設定\]** > **\[共用服務\]**](images/sharedservices2.png)
 
-2. 如果您還沒有共用服務租用戶，請按一下 **\[建立共用服務\]**。
+2. 如果您還沒有共用服務租用戶，請按一下 **\[建立共用服務\]** 。
 
     ![建立共用服務](images/sharedservices3.png)
 
@@ -39,15 +41,15 @@ Azure 合作夥伴共用服務是一種新的供應類型，適用於雲端解�
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>關於「Azure - 內部/共用服務」供應項目
 
-- 「Azure - 內部/共用服務」訂閱是雲端解決方案提供者中的新 Azure 供應項目類型，合作夥伴可透過合作夥伴中心存取以便供自己使用。 
+- Azure 內部/共用服務訂用帳戶是 CSP 中新的 Azure 供應專案類型，透過合作夥伴中心取得，合作夥伴可自行使用 Azure。 
 
-- 「Azure – 內部/共用服務」供應項目不符合折扣和獎勵資格。
+- Azure-內部/共用服務供應專案不符合折扣和獎勵的資格。
 
 - 「Azure – 內部/共用服務」供應項目只適用於共用服務租用戶。
 
-- 「Azure – 內部/共用服務」訂閱的主要用途是讓您將 Azure 用於自己的開發目的。 您用來佈建此供應項目的共用租用戶不能用於其他服務，例如 Office 365 或 Dynamics 基座。 
+- Azure 內部/共用服務訂用帳戶的主要用途是讓您可以針對自己的開發目的使用 Azure。 您用來佈建此供應項目的共用租用戶不能用於其他服務，例如 Office 365 或 Dynamics 基座。 
 
-- 您可以取消訂閱，就如同其他訂閱一樣。 移至 **\[設定\]** > **\[檢視所有設定\]** > **\[共用服務\]**。 選取 \[Azure – 內部/共用服務訂閱\]，然後取消它。
+- 您可以取消訂閱，就如同其他訂閱一樣。 移至 **\[設定\]**  >  **\[檢視所有設定\]**  >  **\[共用服務\]** 。 選取 \[Azure – 內部/共用服務訂閱\]，然後取消它。
 
 ## <a name="accessing-azure-partner-shared-services-consumption-details"></a>存取 Azure 合作夥伴共用服務使用詳細資料
 
@@ -55,21 +57,21 @@ Azure 合作夥伴共用服務是一種新的供應類型，適用於雲端解�
 
 ## <a name="azure-partner-shared-services-pricing"></a>Azure 合作夥伴共用服務定價
 
-若要查看 Azure 共用合作夥伴服務的新定價檔案，請移至 **\[銷售\]** > **\[定價與方案\]**，然後選取目前月份的價目表。 在接下來幾個星期，也會發行特定的費率卡 api。
+若要查看 Azure 共用合作夥伴服務的新定價檔案，請移至 **\[銷售\]**  >  **\[定價與方案\]** ，然後選取目前月份的價目表。 在接下來幾個星期，也會發行特定的費率卡 api。
 
-## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace 供應項目與 Azure 合作夥伴共用服務
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Marketplace 供應專案和 Azure 合作夥伴共用服務
 
-截至 2019 年 3 月 1 日起，Azure 合作夥伴共用服務 (APSS) 不再支援 Marketplace 供應項目。   
+從2019年3月1日起，Azure 合作夥伴共用服務（APSS）不再支援 Marketplace 供應專案。   
 
-|**Marketplace 支援**   |**支援於 2019 年 3 月 1 日之前的 APSS**|**在 2019 年 3 月 1日日之後**|
+|**Marketplace 支援**   |**2019年3月1日前支援的 APSS**|**2019年3月1日之後**|
 |---------------------------|:----------------------------|:-------------------|
-|攜帶您自己的授權 (BYOL) 和免費服務   | 是   | 否|
-|其他第三方 marketplace 供應項目   | 否   |否|
+|攜帶您自己的授權（BYOL）和免費服務   | [是]   | 無|
+|其他協力廠商 marketplace 優惠   | 無   |無|
 
 
-BYOL 或免費的合作夥伴使用 APSS 部署的服務不會受到影響;不過在 2019 年 3 月 1 日之後他們將無法再購買新的 BYOL 或免費服務。 
+使用 APSS 部署 BYOL 或免費服務的合作夥伴不會受到影響;不過，2019年3月1日之後，他們將無法購買新的 BYOL 或免費服務。 
 
-若要充分利用可用的 Marketplace 供應項目的完整的目錄 （不只是 BYOL 和免費服務） 中，我們建議 CSP 合作夥伴部署使用 web 直接的 Azure 訂用帳戶的共用的服務。  CSP 合作夥伴已部署第 3 方 BYOL，並釋放先前服務市集中的資源，並想要繼續使用它們，以及部署供應項目，建議將 APSS 訂用帳戶移轉至 web 直接的更多第 3 方[移轉現有的 Azure 訂用帳戶](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)。
+若要充分利用 Marketplace 供應專案的完整目錄（不只是 BYOL 和免費服務），我們建議 CSP 合作夥伴使用 web direct Azure 訂用帳戶來部署共用服務。  先前已從 Marketplace 部署協力廠商 BYOL 和免費服務資源，並想要繼續使用並部署更多協力廠商供應專案的 CSP 合作夥伴，建議您將 APSS 訂用帳戶遷移至 web 直接[遷移現有的 Azure訂閱](https://docs.microsoft.com/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)。
 
-合作夥伴計劃繼續使用在 2019 年 3 月 1 日之後的 APSS 訂用帳戶，並想要部署新的第 3 方[BYOL 服務](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)或免費服務，可以遵循 Isv 能夠部署到其 APSS 訂用帳戶的指示。
+若合作夥伴想要在2019年3月1日之後繼續使用 APSS 訂用帳戶，並想要部署新的協力廠商[BYOL 服務](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)或免費服務，則可以遵循 isv 的指示，將其部署至其 APSS 訂閱。
 

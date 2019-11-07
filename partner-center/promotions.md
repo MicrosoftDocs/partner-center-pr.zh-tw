@@ -2,20 +2,22 @@
 title: 使用促銷吸引新客戶 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 身為雲端解決方案提供者計畫的 Microsoft 合作夥伴，您可以用促銷定價購買訂閱，再將省下的金額回饋給您的客戶。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: eb925008e19a1512cfb43b340d4ecfa6c16f0e0d
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: c63283038a4bc8eb7738567f6316df37911d3361
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134658"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652150"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促銷吸引新客戶  
 
-適用於：**合作夥伴中心**
+**適用物件：合作夥伴中心**
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
@@ -27,7 +29,7 @@ Microsoft 提供兩種促銷優惠：適用於雲端解決方案提供者 (CSP) 
 
 請花一些時間檢閱下列有關促銷的重要事項：
 
--   訂閱的促銷價格只適用於訂閱期間。 當您用促銷價格所購買的訂閱到期時，續約的訂閱價格會回復到價目表中的價格。 這表示任何設定為自動續約的訂閱將會以當時價格來續約。 您可以在 **\[定價與方案\]** 頁面上找到價目表。 
+-   訂用帳戶的促銷價格僅適用于訂用帳戶的持續時間。 當您使用促銷價格購買的訂用帳戶到期時，續約訂用帳戶的價格會還原為價格清單中的價格。 這表示任何設定為自動續約的訂閱將會以當時價格來續約。 您可以在 **\[定價與方案\]** 頁面上找到價目表。 
 
 -   如果訂閱符合多個促銷的資格，將會自動套用折價百分比最高的促銷。
 
@@ -35,16 +37,16 @@ Microsoft 提供兩種促銷優惠：適用於雲端解決方案提供者 (CSP) 
 
 ## <a name="see-available-promotions"></a>查看可用的促銷活動
 
-您可以在 **\[促銷\]** 頁面查看您有資格享用的促銷 (如果有的話)。 選取 **促銷**從您**合作夥伴中心**功能表以查看目前的促銷折扣、 促銷類型及訂用帳戶的開始和結束日期的清單。 如果沒有可用的促銷，您會看到指出這點的訊息。 
+您可以在 [**促銷**] 頁面上看到您有資格的促銷（如果有的話）。 選取 [**合作夥伴中心**] 功能表中的 [**升級**]，以查看目前促銷的清單，以及訂用帳戶的折扣、促銷類型和開始和結束日期。 如果沒有可用的促銷，您會看到指出這點的訊息。 
 
 > [!NOTE]  
 > 您也可以在進行購買時查看促銷。 當您選取訂閱時，促銷定價會顯示在 **\[檢閱\]** 頁面上。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>以促銷價格購買訂閱
 
-1. 在您**合作夥伴中心**功能表上，選取**客戶**，然後選取 已購買訂用帳戶的客戶。 
+1. 在 [**合作夥伴中心**] 功能表上，選取 [**客戶**]，然後選取購買訂用帳戶的客戶。 
 
-2. 選取 **新增訂閱**。
+2. 選取 [新增訂用帳戶]。
 
 3. 在 **\[新訂閱\]** 頁面上，選取可適用銷售的訂閱。
 

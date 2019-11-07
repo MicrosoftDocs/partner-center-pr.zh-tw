@@ -2,23 +2,25 @@
 title: 確認客戶接受 Microsoft 客戶合約 | 合作夥伴中心
 ms.topic: article
 ms.date: 09/30/2019
-Description: 身為合作夥伴，您必須先讓您的客戶接受 Microsoft 客戶合約，才能為該客戶訂購 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的特定詳細資料，以確認接受。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: 身為合作夥伴，您必須先取得客戶的 Microsoft 客戶合約接受者，才能訂購該客戶的 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的特定詳細資料，以確認接受。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 客戶, 客戶, 同意, MCA, Microsoft Cloud 合約, Microsoft 客戶合約, 客戶合約範本
 ms.localizationpriority: medium
-ms.openlocfilehash: 5247ab8ced05edbb05d2ed690f2375541d2b43aa
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: 8a4b28db2884f833b6df9ee0dd08f262afdb0888
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704180"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653648"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>確認客戶接受 Microsoft 客戶合約
 
-目前，客戶必須接受並簽署適用**的 Microsoft Cloud 合約**，CSP 合作夥伴才能代表客戶下訂單。 然後，合作夥伴必須提供簽署者的相關資訊給 Microsoft，以確認客戶接受。 如果未提供確認：
+目前，客戶必須接受並簽署適用的**Microsoft Cloud 合約**，CSP 合作夥伴才能代表客戶下訂單。 然後，合作夥伴必須提供簽署者的相關資訊給 Microsoft，以確認客戶接受。 如果未提供確認：
 - 您將無法為此客戶建立新訂單。
-- 您將無法變更此客戶現有基座型訂用帳戶的基座數目。
+- 您將無法變更此客戶現有以基座為基礎之訂用帳戶的基座數目。
 
 如需如何使用合作夥伴中心儀表板或 API 來確認客戶接受 Microsoft Cloud 合約的詳細資訊，請參閱[確認客戶接受 Microsoft Cloud 合約](confirm-consent.md)。
 

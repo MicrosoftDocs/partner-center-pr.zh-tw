@@ -2,18 +2,20 @@
 title: 檢視客戶活動記錄 | 合作夥伴中心
 ms.topic: article
 ms.date: 08/23/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 活動記錄能提供客戶的交易和夥伴管理動作的相關資訊。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions, 活動記錄, 訂用帳戶, 付款, 帳單, 交易
 ms.localizationpriority: medium
-ms.openlocfilehash: 4cfbbf48122de87d5e3b650862ab83d0ee27ff04
-ms.sourcegitcommit: c14db60f552f6e8349170b6ca825dbd073965c03
-ms.translationtype: HT
+ms.openlocfilehash: 370844941c65dfd2018cb8958525192e1c04d25b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "69993960"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653362"
 ---
 # <a name="view-customer-activity-logs"></a>檢視客戶活動記錄
 
@@ -29,8 +31,8 @@ ms.locfileid: "69993960"
 
 **檢視及匯出活動記錄**
 
-1.  從 [帳戶設定]  功能表，選取 [活動記錄]  。
-2.  在 \[從\]  和 \[到\]  欄位中選取活動記錄期間。 活動記錄預設會匯出最近月份的記錄。
+1.  從 [帳戶設定] 功能表，選取 [活動記錄]。
+2.  在 **\[從\]** 和 **\[到\]** 欄位中選取活動記錄期間。 活動記錄預設會匯出最近月份的記錄。
 
     每個活動記錄都會提供對所列出客戶的**訂閱**頁面連結。
 
@@ -42,7 +44,7 @@ ms.locfileid: "69993960"
     -   **動作**：由客戶所採取的動作，例如「已建立轉介」；
     -   **合作夥伴使用者**：與活動相關聯的合作夥伴。
 
-4.  選取 [匯出記錄]  以將客戶的訂閱資料複製到 .csv 檔案，然後將該檔案下載到您電腦中的預設下載資料夾。
+4.  選取 [匯出記錄] 以將客戶的訂閱資料複製到 .csv 檔案，然後將該檔案下載到您電腦中的預設下載資料夾。
     
  
 

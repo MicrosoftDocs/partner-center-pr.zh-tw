@@ -2,17 +2,19 @@
 title: 管理您的 Microsoft 合作夥伴網路權益 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: 身為 Microsoft 合作夥伴網路會員，您有資格購買特定會員資格權益。 說明如何在合作夥伴中心啟用和管理您的成員資格權益。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 會員資格權益, 成員資格
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f958bf9fceb9f11edbd63b139796e4944486310
-ms.sourcegitcommit: f32c1ccd42b7966053b60c0dcbf553dcc72b3d01
+ms.openlocfilehash: be9f4ab4bc23308c3f2a342e6debba1338de4454
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73413324"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653318"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
@@ -35,7 +37,7 @@ ms.locfileid: "73413324"
 
 權益套件包含已授權軟體、雲端服務、Visual Studio 訂用帳戶和支援的配置。 權益套件也可以包含特定的進入市場優勢。 您可以在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/internal-use-software)網站找到行動套件訂閱的詳細資料。  
 
-若要查看及管理您的所有成員資格權益，請移至您的[**權益**頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)（需要登入）。 或者，您可以登入合作夥伴中心[儀表板](https://docs.microsoft.com/en-us/partner-center/)，從左側功能表中選取 [**權益選項**]，然後選取所顯示的任何權益選項。  
+若要查看及管理您的所有成員資格權益，請移至您的[**權益**頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)（需要登入）。 或者，您可以登入合作夥伴中心[儀表板](https://docs.microsoft.com/partner-center/)，從左側功能表中選取 [**權益選項**]，然後選取所顯示的任何權益選項。  
 
 #### <a name="manage-software-benefits"></a>管理軟體權益
 
@@ -108,6 +110,7 @@ ms.locfileid: "73413324"
 
 - 全域系統管理員
 - MPN 合作夥伴系統管理員
+
 
 1. 選取 [**進入市場優勢**]，以查看您的 Microsoft 進入市場優勢清單。
 

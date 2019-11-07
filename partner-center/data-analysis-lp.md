@@ -2,43 +2,45 @@
 title: 合作夥伴中心的資料與分析 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 使用合作夥伴中心的資料功能，讓您更加了解本身的業務
 author: LauraBrenner
 ms.author: labrenne
 keywords: 資訊, 分析, 資料分析, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c706ce831b6f47a939c6cf958a91abcfad2afd5
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 8817cc372ab2fbefce51f047f81b410c38003966
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135598"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653238"
 ---
 # <a name="get-data-and-analyze-your-business"></a>取得資料並分析您的業務 
 
 規劃拓展雲端解決方案提供者業務的方式包含了解您的客戶如何使用他們的 Microsoft 產品。 合作夥伴中心有數個收集資料的選項供您選擇，關於您的業務以及關於客戶是否在使用他們所購買的授權和使用方式的這些資料，您都可以收集。 如果您採用雲端解決方案提供者間接模型，就有機會可以安裝和使用適用於 Power BI 的合作夥伴中心分析應用程式來收集額外的資料。
 
-## <a name="access-to-user-analytics"></a>對使用者 analytics 的存取
+## <a name="access-to-user-analytics"></a>使用者分析的存取權
 
-在合作夥伴中心，只有 MPN 夥伴系統管理員可以存取使用者分析。 如果有人在您的公司需要此存取權 （例如，計費系統管理員），您可以授與它將 MPN 夥伴系統管理員角色指派給該人員。
+在合作夥伴中心，只有 MPN 合作夥伴系統管理員可以存取使用者分析。 如果您公司中的人員需要此存取權（例如，計費管理員），您可以將 MPN 夥伴管理員角色指派給該人員來授與。
 
 >[!NOTE] 
->若要授與存取權，您必須成為 MPN 合作夥伴系統管理員。
+>若要授與存取權，您必須是 MPN 合作夥伴系統管理員。
 
-**授與存取權在合作夥伴中心內的使用者分析** 
+**在合作夥伴中心授與使用者分析的存取權** 
 
-1.  在合作夥伴中心**使用者管理**頁面上，使用 [搜尋] 方塊來尋找他需要存取的人員。
-2.  在搜尋結果中，選取 連絡人的名稱，以開啟**使用者詳細資料**頁面。
-3.  底下**角色和權限**，選取**MPN 夥伴系統管理員**，然後選取**Update**。
+1.  在合作夥伴中心的 [**使用者管理**] 頁面上，使用 [搜尋] 方塊來尋找需要存取權的人員。
+2.  在搜尋結果中，選取人員的名稱以開啟 [**使用者詳細資料**] 頁面。
+3.  在 [**角色和許可權**] 底下，選取 [ **MPN 夥伴管理員**]，然後選取 [**更新**]。
 
  
 ## <a name="access-data-in-partner-center"></a>存取合作夥伴中心的資料
 
-|**若要取得的資料**   |**下載此應用程式**   |**請閱讀本**   | **適用於**    |
+|**若要取得資料**   |**下載此**   |**請閱讀本文**   | **適用於**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|您的客戶如何使用他們購買的授權   |部署和使用方式資料，從合作夥伴中心 = > 產品分析   |[提高採用率與滿意度](increasing-adoption-and-satisfaction.md)|雲端解決方案提供者合作夥伴|
+|您的客戶如何使用他們購買的授權   |合作夥伴中心的部署和使用方式資料 = > 產品分析   |[提高採用率與滿意度](increasing-adoption-and-satisfaction.md)|雲端解決方案提供者合作夥伴|
 |客戶有關訂閱的活動   |活動記錄   |[檢視客戶活動記錄](activity-logs.md)|雲端解決方案提供者合作夥伴   |
-|客戶群、使用率、Azure 使用量等方面的成長   |適用於 Power BI 的合作夥伴中心應用程式   |[Power BI （in CSP 直接協力廠商） 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners.md)|雲端解決方案提供者直接合作夥伴|
+|客戶群、使用率、Azure 使用量等方面的成長   |適用於 Power BI 的合作夥伴中心應用程式   |[適用于 Power BI 的合作夥伴中心分析應用程式（CSP 中的直接合作夥伴）](power-bi-app-for-direct-partners.md)|雲端解決方案提供者直接合作夥伴|
 
 
 

@@ -2,17 +2,19 @@
 title: 稅金與免稅 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 因為雲端解決方案提供者是專注於合作夥伴經銷產品的銷售通路，因此 Microsoft 並非一律受要求在合作夥伴的發票上收取營業稅。
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 5d0e998a53c6c1b4ab61b18c077b35bb888dd8c0
-ms.sourcegitcommit: 1dfaa862741d9af918886f9f1133a0602546d145
-ms.translationtype: HT
+ms.openlocfilehash: 06163368802263c49631d1eafabe5d18bf66b44b
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "67262978"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654015"
 ---
 # <a name="tax-and-tax-exemptions"></a>稅金與免稅
 
@@ -24,12 +26,12 @@ ms.locfileid: "67262978"
 
 因為雲端解決方案提供者是專注於合作夥伴經銷產品的銷售通路，因此 Microsoft 並非一律受要求在合作夥伴的發票上收取營業稅。 相關規定因國家/地區而異。 合作夥伴應根據其所在地區與其客戶的所在地，與其稅務顧問提出適當的免稅辦法。 合作夥伴若要將其 Microsoft 銷售帳戶列為免稅，則應將其免稅憑證傳送給 Microsoft。
 
-**檔案免稅證明**
+**提出免稅**
 
-1.  查閱您**Microsoft ID**在合作夥伴中心&gt;**帳戶設定** &gt; **組織設定檔**。
-2.  查閱您**MPN 識別碼**在合作夥伴中心&gt;**帳戶設定** &gt; **夥伴設定檔**。
-3.  建立新的支援票證。 從合作夥伴中心 功能表中，選取**服務的要求** &gt; **合作夥伴中心要求** &gt; **新要求**。
-4.  填寫表單。 針對 \[問題類型\]  ，選擇 \[無法管理我的設定檔\]  。 在描述中，請包含您的 MPN ID 和您的 Microsoft ID。
+1.  在合作夥伴中心內查閱您的**MICROSOFT ID** &gt;**帳戶設定**&gt;**組織設定檔**。
+2.  在合作夥伴中心 &gt;**帳戶設定**&gt;**夥伴設定檔**中查閱您的**MPN 識別碼**。
+3.  建立新的支援票證。 從 合作夥伴中心 功能表中，選取 **服務要求** &gt; **合作夥伴中心要求** &gt;**新增要求**。
+4.  填寫表單。 針對 **\[問題類型\]** ，選擇 **\[無法管理我的設定檔\]** 。 在描述中，請包含您的 MPN ID 和您的 Microsoft ID。
 5.  提交票證之後，Microsoft 將透過電子郵件與您取得詳細資訊。 當您回覆時，請附上您免稅憑證的適當支援文件。
 
 ## <a name="details-by-countryregion"></a>各國家/地區的詳細資料
@@ -51,7 +53,7 @@ ms.locfileid: "67262978"
 <p>Microsoft 不支援信用額度和重新計費，因此在銷售任何訂閱之前，您必須在合作夥伴中心註冊您的加值稅識別碼。</p>
 <p>將您的加值稅編號傳送給 Microsoft</strong></p>
 <ol>
-<li>在合作夥伴中心，請移至合作夥伴中心功能表&gt;<strong>帳戶設定</strong> &gt; <strong>合作夥伴帳單設定檔</strong>。</li>
+<li>在 合作夥伴中心 中，移至 合作夥伴中心 功能表，&gt;<strong>帳戶設定</strong> &gt; <strong>合作夥伴帳單設定檔</strong>。</li>
 <li>在 \[財務資料\] 區段中，選取 \[更新\]。</li>
 <li>在 \[公司統一編號\] 中，指定您的加值稅識別碼編號。</li>
 </ol></td>
@@ -59,11 +61,11 @@ ms.locfileid: "67262978"
 <tr class="odd">
 <td>南非</td>
 <td><p>
-現在，Microsoft 會對數位內容及在南非的合作夥伴購買服務套用標準加值型稅 （加值稅）。 若要從您的發票中排除的加值稅，並自行管理，使用下列程序來更新您的合作夥伴帳單設定檔。
+Microsoft 現在會在南非的合作夥伴購買的數位內容和服務上套用標準加值稅（加值稅）。 若要從您的發票排除 加值稅 並自行管理，請使用下列程式來更新您的合作夥伴帳單設定檔。
 </p>
 <p>將您的加值稅編號傳送給 Microsoft</strong></p>
 <ol>
-<li>在合作夥伴中心，請移至合作夥伴中心功能表&gt;<strong>帳戶設定</strong> &gt; <strong>合作夥伴帳單設定檔</strong>。</li>
+<li>在 合作夥伴中心 中，移至 合作夥伴中心 功能表，&gt;<strong>帳戶設定</strong> &gt; <strong>合作夥伴帳單設定檔</strong>。</li>
 <li>在 \[財務資料\] 區段中，選取 \[更新\]。</li>
 <li>在 \[公司統一編號\] 中，指定您的加值稅識別碼編號。</li>
 </ol></td>
@@ -72,11 +74,11 @@ ms.locfileid: "67262978"
 <td>土耳其</td>
 <td>
 <p>
-現在，Microsoft 會對數位內容及土耳其中夥伴所購買的服務套用標準加值型稅 （加值稅）。 若要從您的發票中排除的加值稅，並自行管理，使用下列程序來更新您的合作夥伴帳單設定檔。
+Microsoft 現在將標準加值稅（加值稅）套用至由合作夥伴在土耳其購買的數位內容和服務。 若要從您的發票排除 加值稅 並自行管理，請使用下列程式來更新您的合作夥伴帳單設定檔。
 </p>
 <p>將您的加值稅編號傳送給 Microsoft</strong></p>
 <ol>
-<li>在合作夥伴中心，請移至合作夥伴中心功能表&gt;<strong>帳戶設定</strong> &gt; <strong>合作夥伴帳單設定檔</strong>。</li>
+<li>在 合作夥伴中心 中，移至 合作夥伴中心 功能表，&gt;<strong>帳戶設定</strong> &gt; <strong>合作夥伴帳單設定檔</strong>。</li>
 <li>在 \[財務資料\] 區段中，選取 \[更新\]。</li>
 <li>在 \[公司統一編號\] 中，指定您的加值稅識別碼編號。</li>
 </ol></td>

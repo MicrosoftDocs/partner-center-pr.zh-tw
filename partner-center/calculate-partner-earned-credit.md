@@ -2,17 +2,19 @@
 title: 合作夥伴的點數計算方式 |合作夥伴中心
 ms.topic: article
 ms.date: 09/17/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 如何計算合作夥伴如何取得 Azure 方案的信用額度
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eb0dd5ef22632a85ca0227cc9e988a88263e9ddf
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318774"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653713"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>如何計算合作夥伴的點數（PEC）
 
@@ -44,4 +46,4 @@ ms.locfileid: "71318774"
 
 - [Azure 方案-計費](azure-plan-billing.md)
 
-- [CSP 中新商務體驗的價格清單](azure-plan-price-list.md)
+- [CSP 中新商務體驗的價目表](azure-plan-price-list.md)

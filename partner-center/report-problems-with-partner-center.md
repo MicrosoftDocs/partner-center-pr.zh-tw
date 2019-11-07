@@ -2,17 +2,19 @@
 title: 報告合作夥伴中心的問題 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/04/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 如何報告合作夥伴中心的問題並收集要提供給支援小組的診斷資訊。
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: f1f7473f78226a06f06862d466e79b75dfb3b609
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425198"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651718"
 ---
 # <a name="report-problems-with-partner-center"></a>報告合作夥伴中心的問題
 
@@ -39,7 +41,7 @@ ms.locfileid: "72425198"
 
 **傳送診斷**
 
-如果在進入合作夥伴中心頁面時發生錯誤，系統可能會提示您收集登入資訊。 在頁面頂端的下拉式連結中選取 **\[Collect more information\]** (收集更多資訊)，開啟用戶端診斷工具。 這項工具會收集合作夥伴支援小組判斷錯誤發生原因時所需的資訊。 
+如果您在 [合作夥伴中心] 頁面上發生錯誤，系統可能會提示您收集記錄資訊。 在頁面頂端的下拉式連結中選取 **\[Collect more information\]** (收集更多資訊)，開啟用戶端診斷工具。 這項工具會收集合作夥伴支援小組判斷錯誤發生原因時所需的資訊。 
 
 >[!NOTE]
 >在網址中包含 **/pcv/** 的合作夥伴頁面上，您可以手動開啟工具來收集這些資訊。

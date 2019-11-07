@@ -2,16 +2,18 @@
 title: 註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫 |美國政府適用的 Microsoft Cloud 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 在您註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫之前，請先深入了解 CSP 計畫需求。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 226aa0829080f46706a0934176e229f3e7d3117b
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: de6f51d1dff5017ac6f046552acbea30c9cb4384
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62135578"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653209"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
@@ -23,7 +25,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 美國政府適用的 Microsoft Cloud 提供不公開、專用且隔離的 Microsoft Azure 執行個體，這個執行個體符合美國政府對資料安全性、隱私權及法務遵循的規定。 您的公司必須符合 Microsoft 的資格要求，才能參與美國政府適用的 Microsoft Cloud 的 CSP 計畫。 如需詳細資訊，請參閱[美國政府適用的 Microsoft Cloud 合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
-## <a name="before-you-begin"></a>開始之前
+## <a name="before-you-begin"></a>在您開始前
 
 在您註冊加入美國政府適用的 Microsoft Cloud 的 CSP 計畫之前，我們必須確認您的公司是否符合向美國政府實體進行銷售的要求條件。 在您開始進行註冊程序之前，請先完成 [Microsoft 政府機構雲端驗證表單](https://azuregov.microsoft.com/csp)，方便我們確認貴公司的資格。 確認貴公司的資格後，我們會提供給您美國政府適用的 Microsoft Cloud 專用的 Azure Active Directory (Azure AD) 租用戶。  
 
@@ -49,7 +51,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 1.  補上註冊表單上所有漏填的資訊，包括 Microsoft 合作夥伴網路識別碼和您組織的客戶支援詳細資料。 
 
-2.  選取 \[Accept and continue\] (接受並繼續)。 審查您的應用程式可能需要我們幾天的時間。 審查完成後，我們會通過電子郵件通知您。
+2.  選取 **\[接受並繼續\]** 。 審查您的應用程式可能需要我們幾天的時間。 審查完成後，我們會通過電子郵件通知您。
 
     > [!IMPORTANT]  
     > 選取 **\[接受並繼續\]** 即表示您確定自己有權代表組織行事，且您同意允許 Microsoft 在審查您組織的雲端解決方案提供者計畫申請前，先進行背景信用查核。
@@ -59,7 +61,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 1. 使用申請核准電子郵件中所提供的連結，登入美國政府適用的 Microsoft Cloud 合作夥伴中心。 
 
-2. 在 **\[合約\]** 頁面上閱讀條款，同意後選取 **\[接受並繼續\]**，以數位方式簽署[美國政府適用的 Microsoft Cloud 經銷商合約](https://go.microsoft.com/fwlink/p/?linkid=843364)。 建立帳戶可能需要數小時的時間。 登出美國政府適用的 Microsoft Cloud 雲端合作夥伴中心，稍後再登入。
+2. 在 **\[合約\]** 頁面上閱讀條款，同意後選取 **\[接受並繼續\]** ，以數位方式簽署[美國政府適用的 Microsoft Cloud 經銷商合約](https://go.microsoft.com/fwlink/p/?linkid=843364)。 建立帳戶可能需要數小時的時間。 登出美國政府適用的 Microsoft Cloud 雲端合作夥伴中心，稍後再登入。
 
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>步驟 4 - 在 Microsoft Azure 管理入口網站中，為美國政府適用的 Microsoft Cloud 指派使用者為系統管理代理人角色
@@ -69,11 +71,11 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 > [!NOTE]  
 > 您將使用者指派給系統管理代理人角色之後，這些使用者就可以存取您在 **\[客戶\]** 頁面上的客戶清單，並[新增客戶](add-a-new-customer.md)。   
 
-1.  登入 Microsoft Azure 管理入口網站： https://portal.azure.us/。
+1.  登入 Microsoft Azure 管理入口網站： https://portal.azure.us/ 。
 
 2.  將系統管理代理人角色指派給組織中的適當使用者。 若要這樣做，您需要將這些使用者新增到內建的 **AdminAgent** 群組。 如需做法詳細資訊，請參閱[在 Azure Active Directory 中管理群組的成員](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)。
  
-## <a name="connect-with-us"></a>與我們連絡
+## <a name="connect-with-us"></a>與我們的聯繫
 
 - 有任何問題嗎？ 電子郵件請寄到 azgovcsp@microsoft.com
 
@@ -83,6 +85,6 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 -  [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [使用者與授權管理在 Microsoft 雲端合作夥伴中心內適用於美國政府](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+-  [Microsoft Cloud for US Government 適用的合作夥伴中心內使用者及授權管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
 
 

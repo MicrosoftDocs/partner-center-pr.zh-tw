@@ -2,26 +2,28 @@
 title: Azure 專家受控服務提供者方案 |合作夥伴中心
 ms.topic: article
 ms.date: 12/03/2018
-description: 銷售和支援的 Azure 專家可以套用至位於 Azure 專家 MSP
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 銷售和支援 Azure 的專家可以申請在 Azure 專家的 MSP 中
 author: LauraBrenner
 ms.author: labrenne
-Keywords: Azure 的銷售、 專業的程式、 合作夥伴計劃
+Keywords: Azure 銷售，專家計畫，合作夥伴計畫
 robots: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ad3ba4a5f8646b70ff2c8bd8aee950ff5c30339
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 1b096daf93d01b903606d4ad7b2e0efbebd18396
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134548"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654378"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Azure 專家受控服務提供者方案
 
 
-如果您的公司是超級明星銷售和管理客戶的 Azure 服務，請考慮將套用至 Azure 專家受控服務提供者程式。 Azure 專家 MSP 合作夥伴獲得獨佔的徽章，有別於其他 Microsoft 合作夥伴，並取得推薦引擎中的第一要務，它們會共同銷售關於排定優先順序、 獲得支援，當新的開發作法，並可以參加專屬的事件。
+如果您的公司是向客戶銷售和管理 Azure 服務的超級明星，請查看套用至 Azure 專家受控服務提供者方案。 Azure 專家的 MSP 合作夥伴會獲得專屬的徽章，讓它們與其他 Microsoft 合作夥伴有所區別，並在參考引擎中獲得最高優先順序，它們會優先進行共同銷售的合作、在開發新實務時獲得支援，並可參加專屬事件。
 
-若要開始的程序將套用至 Azure MSP，從左側的導覽。 選取 **專長認證和程式**，然後選取**Azure 專家 MSP**。 深入了解[必要條件與應用程式處理序](https://partner.microsoft.com/membership/azure-expert-msp)。 
+若要開始從左側導覽套用至 Azure MSP 的程式。 選取 [專長認證**和方案**]，然後選取 [ **Azure 專家 MSP**]。 深入瞭解[必要條件和應用程式流程](https://partner.microsoft.com/membership/azure-expert-msp)。 
 
-如果您還沒有資格，您仍然可以建置您的 Microsoft 合作夥伴關係，透過成員資格的增強功能、 訓練和其他成長的商機。
-了解您可以採取的步驟[開發您的業務和專業知識](https://partner.microsoft.com/membership/azure-expert-msp)。
+如果您還沒有資格，您仍然可以透過成員資格增強功能、訓練和其他成長機會來培養您的 Microsoft 合作關係。
+瞭解您可以採取哪些步驟來[開發您的商務和專業知識](https://partner.microsoft.com/membership/azure-expert-msp)。
 

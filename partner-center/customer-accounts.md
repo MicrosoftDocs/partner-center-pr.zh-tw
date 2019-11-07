@@ -2,17 +2,19 @@
 title: 客戶帳戶 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 身為經銷商合作夥伴，您應該要在合作夥伴中心中為每個客戶建立帳戶。 客戶帳戶將會是您銷售訂閱、帳單及提供支援的起點。
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 41cedac945f71ab0b381f4aa5b22a86a07e97173
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: 6e933cb42187589f44846ca68aee0f2f7afa9e34
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134688"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653475"
 ---
 # <a name="customer-accounts"></a>客戶帳戶
 
@@ -22,12 +24,12 @@ ms.locfileid: "62134688"
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 
-身為轉銷商合作夥伴，您應該要帳戶，您的客戶在合作夥伴中心內的每個。 客戶帳戶將會是您銷售訂閱、帳單及提供支援的起點。 您需要讓每位客戶包括的客戶，您必須再移動到合作夥伴中心的合作夥伴中心帳戶。
+身為轉售商合作夥伴，您應該在合作夥伴中心內為每個客戶建立一個帳戶。 客戶帳戶將會是您銷售訂閱、帳單及提供支援的起點。 您必須為每個客戶建立合作夥伴中心帳戶，包括您在移至合作夥伴中心之前所擁有的客戶。
 
-### <a name="resources-for-working-with-your-customers-on-the-partner-center"></a>使用您的客戶在合作夥伴中心上的資源
+### <a name="resources-for-working-with-your-customers-on-the-partner-center"></a>在合作夥伴中心與您的客戶合作的資源
 
-|**若要這樣做**   |**閱讀本文以了解如何**   |**適用於**|
+|**進行此動作**   |**閱讀本文以了解如何**   |**適用於**|
 |-----------------|:----------------------------|:--------------|
 |取得新客戶|間接經銷商聯繫[間接提供者](indirect-reseller-tasks-in-partner-center.md)，以將您轉介給客戶。 您應確定您的[商務設定檔](create-a-marketing-profile.md)也處於最新狀態。 當您新增已同意[一同合作](responding-to-referrals.md)的客戶，請將他們[新增](add-a-new-customer.md)到您的帳戶。 直接合作夥伴應閱讀[要求與客戶建立關係](request-a-relationship-with-a-customer.md)。|雲端解決方案提供者合作夥伴|
-|新增現有客戶到您的帳戶   | 客戶您交易與在其他入口網站上例如 Office 365 會出現在您[客戶清單](see-your-customer-list.md)在合作夥伴中心。 您需與其他現有客戶[建立經銷商關係](indirect-reseller-tasks-in-partner-center.md)。 若要這樣做，您電子郵件傳送[邀請連接](responding-to-referrals.md)與您在合作夥伴中心。   | 雲端解決方案提供者合作夥伴   |
+|新增現有客戶到您的帳戶   | 您在其他入口網站（例如 Office 365）上交易的客戶會出現在合作夥伴中心的[客戶清單](see-your-customer-list.md)中。 您需與其他現有客戶[建立經銷商關係](indirect-reseller-tasks-in-partner-center.md)。 若要這麼做，您可以透過電子郵件傳送[邀請，以便](responding-to-referrals.md)在合作夥伴中心與您聯繫。   | 雲端解決方案提供者合作夥伴   |
 |管理您所有的客戶資訊   | 新增或移除客戶或[結束客戶關係](remove-a-relationship.md)|   雲端解決方案提供者合作夥伴 |

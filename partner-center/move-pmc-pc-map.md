@@ -2,17 +2,19 @@
 title: 從 PMC 移到合作夥伴中心 | 合作夥伴中心
 ms.topic: article
 ms.date: 06/14/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 了解 PMC 和合作夥伴中心之間的差異和相似之處
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: b7cc7104d648eff3a5461d950345c283a307ea6c
-ms.sourcegitcommit: 7b66b159e8fd37a30ddd7065881a83497aa433b0
+ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "70921479"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653281"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>從 PMC 移到合作夥伴中心
 
@@ -32,7 +34,7 @@ ms.locfileid: "70921479"
 
 |**PMC**   |**合作夥伴中心**|
 |----------------------|:-----------------------------|
-|總部加上位置，會個別進行評估。 專長認證評估是在本機層級完成|單一全球公司、您的合作夥伴全域帳戶 (PGA) (包括位置)，會一起進行整體評估；效能和技術資料會在 PGA 層級進行彙總；包括適用於合作夥伴設定檔及商務設定檔等程式的數個設定檔檢視供轉介及行銷使用，如需詳細資訊，請參閱[合作夥伴中心的帳戶結構](https://docs.microsoft.com/partner-center/account-structure.md) \(部分機器翻譯\)。|
+|總部加上位置-分別評估。 專長認證評估是在本機層級完成|單一全球公司、您的合作夥伴全域帳戶 (PGA) (包括位置)，會一起進行整體評估；效能和技術資料會在 PGA 層級進行彙總；包括適用於合作夥伴設定檔及商務設定檔等程式的數個設定檔檢視供轉介及行銷使用，如需詳細資訊，請參閱[合作夥伴中心的帳戶結構](https://docs.microsoft.com/partner-center/account-structure.md) \(部分機器翻譯\)。|
 
 ## <a name="sign-in"></a>登入
 
@@ -84,7 +86,7 @@ ms.locfileid: "70921479"
 |憑券驗證及兌換工具| 憑券驗證及兌換工具|
 |           |雲端解決方案提供者計畫|
 
-將會接受並保留配置給 MSA 的 Visual Studio 權益。 在合作夥伴中心中續訂之後，也會保留它們。 不過，如果您在移轉至合作夥伴中心後移除 MSA 配置，便無法將它重新加入合作夥伴中心。
+將會接受並保留配置給 MSA 的 Visual Studio 權益。 在合作夥伴中心中續訂之後，也會保留它們。 不過，如果您在合作夥伴中心遷移之後移除 MSA 配置，就無法將其新增回合作夥伴中心。
 
 在合作夥伴中心，合作夥伴可以新增公司帳戶及來賓使用者帳戶，其為來自合作夥伴為 Azure AD 租用戶中 MPN 系統管理員之相同租用戶的 MSA。 如果合作夥伴是多個 Azure AD 租用戶中的全域系統管理員，且這些租用戶都是與相同的合作夥伴中心帳戶相關聯，則該合作夥伴便可以將所有這些租用戶上的使用者加入 Visual Studio 權益和 Azure 以使用量為基礎的配置。
 

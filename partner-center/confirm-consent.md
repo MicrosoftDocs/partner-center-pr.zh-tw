@@ -2,17 +2,19 @@
 title: 確認客戶接受 Microsoft Cloud 合約 | 合作夥伴中心
 ms.topic: article
 ms.date: 04/16/2019
-Description: 身為合作夥伴，您必須先讓您的客戶接受 Microsoft Cloud 合約，才能為該客戶訂購 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的特定詳細資料，以確認接受。
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+Description: 身為合作夥伴，您必須先取得客戶的 Microsoft Cloud 合約接受者，才能訂購該客戶的 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的特定詳細資料，以確認接受。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 客戶、客戶、同意、MCA、Microsoft Cloud 合約、客戶合約範本
 ms.localizationpriority: medium
-ms.openlocfilehash: 13bd3ee03a346448ca8131713420cf75e555195b
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: 411dab563d59499a66decde0edda3897796a5128
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045653"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653653"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>確認客戶接受 Microsoft Cloud 合約
 
@@ -28,7 +30,7 @@ ms.locfileid: "73045653"
 >[!NOTE]
 >此合約會在2020年1月31日前生效。 在該日期之後，所有客戶（現有和新的）都必須簽署新的 Microsoft 客戶合約。 若要深入瞭解，請閱讀[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)。
 
-身為合作夥伴，您必須先讓您的客戶接受 Microsoft Cloud 合約，才能為該客戶訂購 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的下列相關詳細資料，以確認接受： 
+身為合作夥伴，您必須先取得客戶的 Microsoft Cloud 合約接受者，才能訂購該客戶的 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的下列相關詳細資料，以確認接受： 
 
 -   名字
 
@@ -48,7 +50,7 @@ ms.locfileid: "73045653"
 
 -   您將無法為此客戶建立新訂單。
 
--   您將無法變更此客戶現有基座型訂用帳戶的基座數目。
+-   您將無法變更此客戶現有以基座為基礎之訂用帳戶的基座數目。
 
 您可以透過合作夥伴中心或合作夥伴中心 API 來確認客戶接受。 若要透過合作夥伴中心 API 來執行這項操作，請參閱下列主題： 
 
@@ -78,7 +80,7 @@ ms.locfileid: "73045653"
 
 ![新增接受日期](images/mca/MCA3.png)
 
-根據預設，會顯示主要連絡人使用者資訊。 如果此資訊不正確，請選取 **\[更新\]** 然後輸入接受合約之人員的 **\[名字\]** 、 **\[姓氏\]** 、 **\[電子郵件地址\]** 和 * *\[電話號碼\]* (選用)。
+根據預設，會顯示主要連絡人使用者資訊。 如果不正確，請選取 [**更新**]，然後輸入接受合約之人員的 [**名字**]、[**姓氏**]、[**電子郵件地址**] 和 [*電話號碼*（選擇性）]。
 
 6. 選取 [下一步] 以繼續建立客戶租用戶的其餘步驟。
 
@@ -98,7 +100,7 @@ ms.locfileid: "73045653"
 
 ### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>為現有客戶建立新訂單時確認客戶接受
 
-如果您嘗試為以前沒有確認過的現有客戶建立新訂單，您會收到完成確認的提示。 請使用下列程序來執行此動作。
+如果您嘗試為尚未確認的現有客戶建立新訂單，您會收到完成確認的提示。 請使用下列程序來執行此動作。
 
 1. 輸入接受合約之使用者的 **\[名字\]** 、 **\[姓氏\]** 、 **\[電子郵件地址\]** 和 **\[電話號碼\]** (選用)。
 2. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此日期設定為未來日期。
@@ -110,4 +112,4 @@ ms.locfileid: "73045653"
 
 1. 選取 [客戶]，然後尋找並選取您想要查看的客戶。
 2. 選取 [帳戶資訊]。
-3. 在 **\[Microsoft Cloud 合約\]** 下方，您會看到是否已為這個客戶提供確認。
+3. 在 [ **Microsoft cloud 合約**] 底下，您會看到是否已為此客戶提供確認。

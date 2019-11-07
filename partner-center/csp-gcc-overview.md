@@ -2,17 +2,19 @@
 title: 銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 雲端解決方案提供者計畫中的 Microsoft 合作夥伴可以銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱給符合資格的客戶。 適用于 CSP 的 Office 365 政府版 GCC 是專為美國政府和政府承包商設計的一套雲端生產力服務。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: caf8c6614a360c45c9976277b9dca14197391f39
-ms.sourcegitcommit: 718064303cc8a632005a2b4561bc34100ec93477
+ms.openlocfilehash: 193cc10b02e0bee75799e5c64e59e3a3abe04a30
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73168566"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653552"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱給符合資格的客戶
 

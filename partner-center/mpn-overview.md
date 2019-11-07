@@ -2,18 +2,20 @@
 title: Microsoft 合作夥伴網路會員資格 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 description: 了解成為 Microsoft 合作夥伴可獲得的權益。 Microsoft 合作夥伴網路提供業界最廣泛的產品，以及方案選項來區分您的企業、前往市場，以及銷售您的解決方案。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格, 銀級, 金級, 專長認證
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 109333a4cea7d19ff18708cc55d5c0b87b2bb13f
-ms.sourcegitcommit: 07e459a906c384eab114246d0ac550605abc4a45
+ms.openlocfilehash: 03aab24eab0fdf0ee5e116b033da679b8049a923
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2019
-ms.locfileid: "72978755"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661151"
 ---
 # <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
 
@@ -52,7 +54,7 @@ Microsoft 合作夥伴網路提供業界最廣泛的產品，以及方案選項�
 - [取得行動套件](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >您會在合作夥伴中心管理您的行動套件訂用帳戶。 如果您的公司尚未從合作夥伴成員中心移至合作夥伴中心，請閱讀[準備移至合作夥伴中心](partner-center/prepare-pmc-pc-migration.md)  
+    >您會在合作夥伴中心管理您的行動套件訂用帳戶。 如果您的公司尚未從合作夥伴成員中心移至合作夥伴中心，請閱讀[準備移至合作夥伴中心](prepare-pmc-pc-migration.md)  
 
 - [續訂您的 MPN 優惠](renew-mpn-offers.md)
 

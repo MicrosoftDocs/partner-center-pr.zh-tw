@@ -2,17 +2,19 @@
 title: 獎勵共同作業宣告 |合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 提交獎勵宣告前，無需先讓您的活動計畫通過審查。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
-ms.openlocfilehash: 27210ea58352259152c0922aa3a1e1c3c6d95e4d
-ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
+ms.openlocfilehash: 9f389f57051f49163e9c08d67391e374bbc87d67
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73083874"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653689"
 ---
 # <a name="incentives-co-op-claims-overview"></a>獎勵合作宣告概觀
 

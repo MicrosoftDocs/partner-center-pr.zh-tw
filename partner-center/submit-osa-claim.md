@@ -2,17 +2,19 @@
 title: 使用 CPOR 模型建立客戶關聯 |合作夥伴中心
 ms.topic: article
 ms.date: 10/29/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 使用 CPOR 模型建立客戶關聯
 author: LauraBrenner
 ms.author: labrenne
 keywords: 獎勵索賠，共同作業索賠，共同作業資金，OSU，OSA，ISV，收益關聯
 ms.localizationpriority: medium
-ms.openlocfilehash: 9acac203d44e3942f9a07bc5af90528e558bce39
-ms.sourcegitcommit: 014669c26592a3ab35c2aa7f3ff615f5f1091752
+ms.openlocfilehash: 052e41e1d61a1287550147530371c7e558a6ee69
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73083871"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654035"
 ---
 **適用於**
 

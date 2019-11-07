@@ -2,17 +2,19 @@
 title: 將多家公司從 PMC 移轉至合作夥伴中心指南 | 合作夥伴中心
 ms.topic: article
 ms.date: 08/12/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 將多家公司從 PMC 移轉至合作夥伴中心時必須知道的事項
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: c0a03412a9b72c3e4c7784511720ea716f6f3abf
-ms.sourcegitcommit: f9837f839dff8e8889cb2e83c37c70fd914ae322
-ms.translationtype: HT
+ms.openlocfilehash: 41f6b9cefb8abc3325c156f465c2a630955b0ec3
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "68958760"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654351"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>從多家公司移到合作夥伴中心
 
@@ -20,7 +22,7 @@ ms.locfileid: "68958760"
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>將您的其他帳戶移至合作夥伴中心 
 
-由於您已將一個公司帳戶移至電腦，當您登入時，我們會讓您知道已在合作夥伴中心的帳戶。 
+由於您已將一個公司帳戶移至電腦，因此當您登入時，我們會讓您知道哪個帳戶已在合作夥伴中心。 
 
 
 如果您在移轉後發現已將錯誤的公司帳戶已指定為法定公司，您可以變更此指定。
@@ -29,7 +31,7 @@ ms.locfileid: "68958760"
 
 2. 請確定您想要指定為法定公司的位置位於您的位置清單中。 如果沒有，請新增它。
 
-3. 選取 [更新法定公司設定檔]  。
+3. 選取 [更新法定公司設定檔]。
 
 4. 選取公司和地區並加以儲存。
 
@@ -43,7 +45,7 @@ ms.locfileid: "68958760"
 
 此畫面會顯示已在合作夥伴中心建立的現有帳戶詳細資料 (名稱和地址)，以及主要連絡人的詳細資料。 
 
-選取 \[繼續\]。 
+選取 **\[繼續\]** 。
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>帳戶彙總期間會發生什麼事
 

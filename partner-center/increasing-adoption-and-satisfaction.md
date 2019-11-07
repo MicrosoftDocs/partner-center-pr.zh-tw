@@ -2,17 +2,19 @@
 title: 提高採用率與滿意度 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 我們的合作夥伴使用許多標準來衡量事業是否有成長，以及投資的方向。 合作夥伴中心提供的資料有助於瞭解您的客戶是否使用其購買的授權及使用方式。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b188ff4c859d91d58ba27700de9853df375950ec
-ms.sourcegitcommit: b1ab80345b4e4af649fb8cc51d96d798e0791ade
-ms.translationtype: HT
+ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "62134488"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653343"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
@@ -30,14 +32,14 @@ ms.locfileid: "62134488"
 ## <a name="find-license-and-user-data"></a>尋找授權和使用者資料
 
 
-**單一客戶的**
+**適用于單一客戶**
 
--   選取 **客戶**從**合作夥伴中心**，選擇 客戶，然後選取**Customer insights**。
+-   從**合作夥伴中心**選取 [**客戶**]，選擇客戶，然後選取 [ **customer insights**]。
 
-**您的組合**
+**跨您的組合**
 
-1.  在 **合作夥伴中心**，選取**分析**。
-2.  選取 **匯出** 來下載整個客戶集的部署與使用量資料
+1.  在**合作夥伴中心**上，選取 [**分析**]。
+2.  選取 **\[匯出\]** 來下載整個客戶集的部署與使用量資料
 
 詞彙︰
 
@@ -62,7 +64,7 @@ ms.locfileid: "62134488"
 ## <a name="next-steps"></a>後續步驟
 
 
-如果您收到許多說明和如何使用的問題、您的帳戶採用次數很低，或您正在尋求追加銷售的機會，您可以考慮提供訓練課程。 透過教導您的客戶如何更充分地使用他們購買的雲端解決方案軟體，您很可能就會看到生產力和滿意度提升，且支援需求也會下降。
+如果您有大量的協助和 How-to 問題，您帳戶的採用號碼很低，或者您要尋找向上銷售的機會，您可以考慮提供訓練課程。 藉由教客戶如何更有效地使用所購買的雲端解決方案軟體，您更有可能會發現生產力和滿意度增加，而且支援需求也會降低。
 
 <table>
 <colgroup>
@@ -70,14 +72,14 @@ ms.locfileid: "62134488"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>問題：</strong>使用者採用率很低和許多的授權不&#39;t 所使用。</p>
-<p><strong>要考慮的事項：</strong>客戶可能不了解軟體無法提供的值。 他們需要協助，以構想一些方式來將軟體結合到他們每日的工作中，藉以簡化他們正在進行的工作或產生新類型的生產力。</p>
-<p><strong>如何著手：</strong>案例研究、 特定的案例、 教學課程的部落格或影片的相關使用者推薦。</p></td>
+<td><p><strong>問題：</strong>使用者採用率很低，而且許多授權&#39;不會被使用。</p>
+<p><strong>考量事項：</strong>客戶可能不了解軟體可提供的價值。 他們需要協助構思他們可以將其納入一天的方式，以簡化他們已經在執行的工作，或實現新的產能。</p>
+<p><strong>嘗試事項：</strong>案例研究、與特定案例有關的使用者見證、教學課程的部落格或影片。</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>問題：</strong>沒有大量的說明與 how-to 問題的支援電話。</p>
-<p><strong>要考慮的事項：</strong>客戶可能有新的軟體、 產品版本，或其工作。</p>
-<p><strong>如何著手：</strong>您可以使用 「 供應 」 訓練 （面對面或線上） 的雙重策略來增加客戶&#39;s 整體的專業知識，同時也能促進部份自助選項提供給客戶。</p>
+<td><p><strong>問題：</strong>有大量支援電話要求取得說明和使用方法。</p>
+<p><strong>考慮事項：</strong>客戶可能是軟體、該產品版本或其從事之工作的新手。</p>
+<p><strong>應嘗試的動作：</strong>您可以使用一套雙重策略來提供訓練（親自或線上）來提高客戶&#39;的整體專長，同時也能推廣一些可供客戶使用的自助選項。</p>
 <p>您可能會想要重新設計您的支援網站，使其中除了包含您的支援連絡資訊外，也包含<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客戶自我支援</a>主題中所述的自助服務選項。</p></td>
 </tr>
 </tbody>
