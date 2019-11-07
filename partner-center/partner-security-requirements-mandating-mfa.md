@@ -2,17 +2,19 @@
 title: 對您的合作夥伴租使用者強制 MFA |合作夥伴中心
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 您的合作夥伴租使用者安全性需求的請求 MFA 詳細資料
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f68d4628bd6212b800ea926c6c3b9f412e3d5cc
-ms.sourcegitcommit: dcc2a2077ef17255ecf7a2fa5fae6bbeefaa9eb0
+ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/07/2019
-ms.locfileid: "71997786"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652521"
 ---
 # <a name="mandating-mfa-for-your-partner-tenant"></a>對您的合作夥伴租使用者強制 MFA
 
@@ -36,7 +38,7 @@ ms.locfileid: "71997786"
 [合作夥伴中心] 儀表板中的某些頁面會受到 MFA 保護，包括：
 
 * [**客戶**] 索引標籤下的所有頁面。
-* [支援] 下的所有頁面會**→ [客戶要求**] 索引標籤。
+* **支援 > [客戶要求**] 索引標籤下的所有頁面。
 
 如果您嘗試存取這些頁面中的任何一頁，但先前尚未完成 MFA 驗證，則需要執行此動作。
 
@@ -122,7 +124,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 - 如果夥伴**帳戶是同盟身分識別，** 則此體驗取決於夥伴管理員如何在 Azure Active Directory 中設定同盟。 在 Azure Active Directory 中設定同盟時，合作夥伴系統管理員可以指出是否要 Azure Active Directory 聯盟識別提供者是否支援 MFA。 若是如此，Azure Active Directory 會將使用者重新導向至同盟身分識別提供者，以完成 MFA 驗證。 否則，Azure Active Directory 會直接提示使用者完成 MFA 驗證。 如果合作夥伴帳戶尚未向 Azure Active Directory 註冊 MFA，則會要求使用者先[完成 mfa 註冊](#mfa-registration-experience)。
 
-整體體驗非常類似于終端客戶租使用者為其系統管理員實作為 MFA 的案例。 例如，客戶租使用者已啟用[Azure AD 基準原則-適用于系統管理員的 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，這需要所有具有系統管理許可權的帳戶，以使用 MFA 驗證來登入客戶租使用者，包括系統管理員代理程式和技術服務人員代理程式。 基於測試目的，合作夥伴可以在客戶租使用者中啟用 [系統[管理員的 MFA] 原則](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，然後嘗試使用合作夥伴委派的系統管理許可權來存取客戶租使用者。
+整體體驗非常類似于終端客戶租使用者為其系統管理員實作為 MFA 的案例。 例如，客戶租使用者已啟用[Azure AD 的基準原則-適用于系統管理員的 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，這需要具有系統管理許可權的所有帳戶，才能使用 MFA 驗證（包括管理員代理程式和技術服務人員代理程式）來登入客戶租使用者。 基於測試目的，合作夥伴可以在客戶租使用者中啟用 [系統[管理員的 MFA] 原則](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，然後嘗試使用合作夥伴委派的系統管理許可權來存取客戶租使用者。
 
 > [!NOTE]
 > 並非所有的 Microsoft 線上服務入口網站都需要合作夥伴帳戶，才能在使用合作夥伴委派的系統管理員許可權存取客戶資源時，登入客戶租使用者。 相反地，他們只需要合作夥伴帳戶來登入合作夥伴租使用者。 例如 Exchange 系統管理中心。 經過一段時間，我們預期這些入口網站會要求合作夥伴帳戶在使用合作夥伴委派的系統管理員許可權時，登入客戶租使用者。
@@ -136,7 +138,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 - 合作夥伴必須避免搭配 Azure AD 使用非互動式使用者驗證方法來取得存取權杖。 使用非互動式使用者驗證方法（例如[密碼流程](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)）時，Azure AD 將無法提示使用者完成 MFA 驗證。 合作夥伴必須改用互動式使用者驗證方法（例如[OpenID connect 流程](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code)）切換為使用。
 - 在互動式使用者驗證方法期間，合作夥伴應使用已啟用 MFA 的合作夥伴使用者帳戶。 或者，當 Azure AD 出現提示時，合作夥伴可以在登入期間完成 MFA 註冊和 MFA 驗證。
-- 這非常類似于終端客戶租使用者為其系統管理員實作為 MFA 的案例。 例如，客戶租使用者已啟用[Azure AD 基準原則-適用于系統管理員的 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，這需要具有系統管理許可權的所有使用者帳戶，以使用 MFA 驗證登入客戶租使用者，包括系統管理員代理程式和技術服務人員代理程式。 基於測試目的，合作夥伴可以在客戶租使用者中啟用 [系統[管理員的 MFA] 原則](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，然後嘗試使用合作夥伴委派的系統管理許可權，以程式設計方式存取客戶租使用者。
+- 這非常類似于終端客戶租使用者為其系統管理員實作為 MFA 的案例。 例如，客戶租使用者已啟用[Azure AD 的基準原則-適用于系統管理員的 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，這需要具有系統管理許可權的所有使用者帳戶，才能使用 MFA 驗證來登入客戶租使用者，包括系統管理員代理程式和技術服務人員代理程式。 基於測試目的，合作夥伴可以在客戶租使用者中啟用 [系統[管理員的 MFA] 原則](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，然後嘗試使用合作夥伴委派的系統管理許可權，以程式設計方式存取客戶租使用者。
 
 ### <a name="mfa-registration-experience"></a>MFA 註冊體驗
 在 MFA 驗證期間，如果合作夥伴帳戶之前尚未註冊 MFA，Azure AD 會先提示使用者完成 MFA 註冊：
@@ -212,7 +214,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 若要提交技術例外狀況的要求：
 
 1. 以全域管理員或管理代理程式的身分登入合作夥伴中心。
-2. 流覽至 [**支援**] → [**合作夥伴支援要求**]，然後按一下 [**新增要求**]，以建立新的合作夥伴服務要求。
+2. 流覽至 [**支援**] > [**合作夥伴支援要求**]，然後按一下 [**新增要求**]，以建立新的合作夥伴服務要求。
 4. 在 [ **MFA 和保護應用程式模型**] 主題底下，select 將**技術例外狀況提交**至問題類型。
 6. 提供要求的詳細資料，以提交技術例外狀況的服務要求，然後按一下 [**提交**]。
 

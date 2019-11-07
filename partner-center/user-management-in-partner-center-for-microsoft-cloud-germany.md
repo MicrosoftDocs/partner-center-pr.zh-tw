@@ -2,16 +2,18 @@
 title: Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理 | Microsoft Cloud 德國合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 為遵守用來約束個人資料收集和使用行為的國內、地方和業界特定相關規定，Microsoft Cloud 德國合作夥伴中心不提供使用者管理功能。 不過，您可以在 Microsoft Cloud 德國 Azure 入口網站中新增及管理使用者。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 884146657aa84fa1d5f28801d5ad2a4d83c1359a
-ms.sourcegitcommit: bae29ab191c72e15259d99c40c69a9e7c3f2b502
-ms.translationtype: HT
+ms.openlocfilehash: 91d95f51d89b5fb00bc340004758ce7f87450d3f
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "68820538"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651134"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理
 
@@ -20,7 +22,7 @@ ms.locfileid: "68820538"
 -  Microsoft Cloud 德國合作夥伴中心
 
 > [!IMPORTANT]
-> 根據客戶需求的發展，我們的德國雲端策略會著重於在德國提供新的雲端地區，並和全球的雲端供應項目一致。 由於這個重點策略，我們將不再從目前可用的 Microsoft Cloud Germany 接受新的客戶或部署任何新的服務。 現有客戶可以繼續使用目前提供的雲端服務，我們會以必要的安全性更新來維護這些服務。
+> 根據客戶需求的演進，我們的德國雲端策略將著重于在德國提供與我們的全球雲端服務一致的新雲端區域。 由於這個重點策略，我們將不再從目前可用的 Microsoft Cloud Germany 接受新的客戶或部署任何新的服務。 現有的客戶可以繼續使用目前提供的目前雲端服務，我們將會維護必要的安全性更新。
 >  
 > 之後，新的客戶可以選擇使用目前提供的歐洲地區，或在德國的新地區可供使用時加以選擇。 如需詳細資訊，請參閱 [Microsoft 即將從德國的新資料中心提供雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。
 

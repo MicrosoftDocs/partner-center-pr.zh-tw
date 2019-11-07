@@ -2,17 +2,19 @@
 title: 組織稅務資訊 | 合作夥伴中心
 ms.topic: article
 ms.date: 09/25/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 合作夥伴中心購買項目的稅金將由您的公司地址決定。 某些國家/地區的企業可以提供他們的加值稅 (VAT) 編號或當地的對等項目。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c9020aee8c0fd51874cc6d5dadf78d872710e533
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: cbd3b979b19aa191d59840243711b0663f411279
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318637"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652921"
 ---
 # <a name="company-tax-information"></a>公司稅務資訊
 
