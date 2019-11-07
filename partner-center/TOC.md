@@ -1,4 +1,4 @@
-# [關於 Microsoft 合作夥伴中心](index.md)
+# [關於 Microsoft 合作夥伴中心](index.yml)
 
 # [合作夥伴網路會員資格](mpn-overview.md)
 ## [建立合作夥伴中心帳戶](mpn-create-a-partner-center-account.md)

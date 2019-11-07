@@ -1,130 +1,132 @@
 ---
-title: Microsoft 了解分析 |合作夥伴中心
+title: Microsoft Learn 分析 |合作夥伴中心
 ms.topic: article
 ms.date: 07/05/2019
-description: 如何了解您的學習分析的詳細資訊
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 如何瞭解學習分析的資訊
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e59be88d1e599bbd9d26827ec6a588a23a2f77a4
-ms.sourcegitcommit: 1388ca15f359b7cb0a7856974f605f14523a73fb
-ms.translationtype: HT
+ms.openlocfilehash: 74a11ba93e73afcd4117fc6834675d7db5d2fc20
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "67674248"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653012"
 ---
-# <a name="microsoft-learn-analytics-report"></a><span data-ttu-id="4b302-103">Microsoft 了解分析報表</span><span class="sxs-lookup"><span data-stu-id="4b302-103">Microsoft Learn analytics report</span></span>
+# <a name="microsoft-learn-analytics-report"></a><span data-ttu-id="3fc55-103">Microsoft Learn 分析報告</span><span class="sxs-lookup"><span data-stu-id="3fc55-103">Microsoft Learn analytics report</span></span>
 
-<span data-ttu-id="4b302-104">Microsoft 了解報表為您提供包括回呼完成的模組與學習路徑上您公司中的學習模組的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="4b302-104">The Microsoft Learn report provides you with information on the learners in your company including the modules they’ve completed and the learning paths they are on.</span></span> <span data-ttu-id="4b302-105">報表會顯示每個個別的學習模組的狀態。</span><span class="sxs-lookup"><span data-stu-id="4b302-105">The report displays the status of each individual learner.</span></span> <span data-ttu-id="4b302-106">全域管理員和貴公司的 MPN 系統管理員可以檢視資料。</span><span class="sxs-lookup"><span data-stu-id="4b302-106">The global admin and the MPN admin for your company can view the data.</span></span>
+<span data-ttu-id="3fc55-104">Microsoft Learn 報表會提供您公司中學習工具的相關資訊，包括他們所完成的模組，以及它們所在的學習路徑。</span><span class="sxs-lookup"><span data-stu-id="3fc55-104">The Microsoft Learn report provides you with information on the learners in your company including the modules they've completed and the learning paths they are on.</span></span> <span data-ttu-id="3fc55-105">報表會顯示每個個別學習模組的狀態。</span><span class="sxs-lookup"><span data-stu-id="3fc55-105">The report displays the status of each individual learner.</span></span> <span data-ttu-id="3fc55-106">您公司的全域管理員和 MPN 管理員可以查看資料。</span><span class="sxs-lookup"><span data-stu-id="3fc55-106">The global admin and the MPN admin for your company can view the data.</span></span>
 
-## <a name="how-to-read-the-report"></a><span data-ttu-id="4b302-107">如何閱讀報告</span><span class="sxs-lookup"><span data-stu-id="4b302-107">How to read the report</span></span>
+## <a name="how-to-read-the-report"></a><span data-ttu-id="3fc55-107">如何閱讀報告</span><span class="sxs-lookup"><span data-stu-id="3fc55-107">How to read the report</span></span>
 
-### <a name="summary-charts"></a><span data-ttu-id="4b302-108">摘要圖表</span><span class="sxs-lookup"><span data-stu-id="4b302-108">Summary charts</span></span>
+### <a name="summary-charts"></a><span data-ttu-id="3fc55-108">摘要圖表</span><span class="sxs-lookup"><span data-stu-id="3fc55-108">Summary charts</span></span>
 
-<span data-ttu-id="4b302-109">這些圖表會摘要計數和每月累計的趨勢，定型的個人、 模組完成的學習路徑。</span><span class="sxs-lookup"><span data-stu-id="4b302-109">These charts summarize count and monthly cumulative trends for trained individuals, module completions, and learning paths.</span></span>
+<span data-ttu-id="3fc55-109">這些圖表摘要說明已定型之個人、模組完成和學習路徑的計數和每月累計趨勢。</span><span class="sxs-lookup"><span data-stu-id="3fc55-109">These charts summarize count and monthly cumulative trends for trained individuals, module completions, and learning paths.</span></span>
 
 
-<span data-ttu-id="4b302-110">**訓練人員計數**:對於已完成至少一個模組選取的日期範圍內的所有不同學習模組的計數</span><span class="sxs-lookup"><span data-stu-id="4b302-110">**Trained individuals count**: A count of all distinct learners who have completed at least one module during the selected date range</span></span> 
+<span data-ttu-id="3fc55-110">**定型的個人計數**：已在選取的日期範圍內完成至少一個模組的所有相異學習工具計數</span><span class="sxs-lookup"><span data-stu-id="3fc55-110">**Trained individuals count**: A count of all distinct learners who have completed at least one module during the selected date range</span></span> 
 
-<span data-ttu-id="4b302-111">**定型的個人趨勢迷你圖表**:透過每月作用中的學習者的累加計數的月份</span><span class="sxs-lookup"><span data-stu-id="4b302-111">**Trained individuals trend mini chart**: Month over month cumulative count of the active learners</span></span> 
+<span data-ttu-id="3fc55-111">**定型的個人趨勢走勢圖**：使用中學習工具的月數累計計數</span><span class="sxs-lookup"><span data-stu-id="3fc55-111">**Trained individuals trend mini chart**: Month over month cumulative count of the active learners</span></span> 
 
-<span data-ttu-id="4b302-112">**模組完成計數**:計數的模組完成的交易夥伴的公司中的學習模組選取的日期範圍內。</span><span class="sxs-lookup"><span data-stu-id="4b302-112">**Module completions count**: Count of Module completions by the learners in the partner’s company during the selected date range.</span></span>
-<span data-ttu-id="4b302-113">例如，如果 15 個人，即會完成 「 模組 1 」 和 「 模組 2 」 完成相同的 15 個人，模組完成計數會是 30。</span><span class="sxs-lookup"><span data-stu-id="4b302-113">For example,  if “Module 1” is completed by 15 individuals, and the “Module 2” has been completed by the same 15 individuals, the module completions count will be 30.</span></span> <span data-ttu-id="4b302-114">模組完成日期應該落在選取的日期範圍。</span><span class="sxs-lookup"><span data-stu-id="4b302-114">The module completion date should fall in the date range selected.</span></span>
+<span data-ttu-id="3fc55-112">**模組完成計數**：在選取的日期範圍內，由合作夥伴公司中的學習工具完成的模組計數。</span><span class="sxs-lookup"><span data-stu-id="3fc55-112">**Module completions count**: Count of Module completions by the learners in the partner's company during the selected date range.</span></span>
+<span data-ttu-id="3fc55-113">例如，如果「模組1」是由15個人完成，且「模組2」已由相同的15個人完成，則模組完成計數會是30。</span><span class="sxs-lookup"><span data-stu-id="3fc55-113">For example,  if “Module 1" is completed by 15 individuals, and the “Module 2" has been completed by the same 15 individuals, the module completions count will be 30.</span></span> <span data-ttu-id="3fc55-114">模組完成日期應該落在選取的日期範圍內。</span><span class="sxs-lookup"><span data-stu-id="3fc55-114">The module completion date should fall in the date range selected.</span></span>
 
-<span data-ttu-id="4b302-115">**模組完成趨勢迷你圖表**:模組自動完成的月份累計月</span><span class="sxs-lookup"><span data-stu-id="4b302-115">**Module completions trend mini chart**: Month over month cumulative count of the module completions</span></span> 
+<span data-ttu-id="3fc55-115">**模組完成趨勢走勢圖**：模組完成的每月累計計數</span><span class="sxs-lookup"><span data-stu-id="3fc55-115">**Module completions trend mini chart**: Month over month cumulative count of the module completions</span></span> 
 
-<span data-ttu-id="4b302-116">**學習路徑完成計數**:計數的學習路徑完成的夥伴公司中的學習模組所選取的日期範圍內。</span><span class="sxs-lookup"><span data-stu-id="4b302-116">**Learning path completions count**: Count of Learning path completions by the learners in the partner’s company during the selected date range.</span></span>
-<span data-ttu-id="4b302-117">例如，如果 「 路徑 1 」 的學習路徑完成 20 的個人，並學習路徑 」 相同的 20 人員完成路徑 2 」、 學習路徑完成計數會是 40。</span><span class="sxs-lookup"><span data-stu-id="4b302-117">For example, if Learning Path “Path 1” is completed by 20 individuals, and the Learning Path “path 2” has been completed by the same 20 individuals, the Learning Path completion count will be 40.</span></span> <span data-ttu-id="4b302-118">學習路徑的完成日期應該落在選定的日期範圍內。</span><span class="sxs-lookup"><span data-stu-id="4b302-118">The Learning path completion date should fall within the selected  date range.</span></span>
+<span data-ttu-id="3fc55-116">**學習路徑完成計數**：在選取的日期範圍內，由合作夥伴公司中的學習服務完成學習路徑的計數。</span><span class="sxs-lookup"><span data-stu-id="3fc55-116">**Learning path completions count**: Count of Learning path completions by the learners in the partner's company during the selected date range.</span></span>
+<span data-ttu-id="3fc55-117">例如，如果學習路徑 "Path 1" 由20個人完成，而且學習路徑 "path 2" 已經由相同的20個人完成，則學習路徑完成計數將會是40。</span><span class="sxs-lookup"><span data-stu-id="3fc55-117">For example, if Learning Path “Path 1" is completed by 20 individuals, and the Learning Path “path 2" has been completed by the same 20 individuals, the Learning Path completion count will be 40.</span></span> <span data-ttu-id="3fc55-118">學習路徑完成日期應該落在選取的日期範圍內。</span><span class="sxs-lookup"><span data-stu-id="3fc55-118">The Learning path completion date should fall within the selected  date range.</span></span>
 
-<span data-ttu-id="4b302-119">**學習路徑完成趨勢迷你圖表**:月的月累加計數的學習路徑自動完成</span><span class="sxs-lookup"><span data-stu-id="4b302-119">**Learning path completions trend mini chart**: Month over month cumulative count of the learning path completions</span></span> 
+<span data-ttu-id="3fc55-119">**學習路徑完成趨勢走勢圖**：學習路徑完成的每月累計計數</span><span class="sxs-lookup"><span data-stu-id="3fc55-119">**Learning path completions trend mini chart**: Month over month cumulative count of the learning path completions</span></span> 
 
-### <a name="trained-individuals-monthly-trend"></a><span data-ttu-id="4b302-120">定型的個人每月的趨勢</span><span class="sxs-lookup"><span data-stu-id="4b302-120">Trained individuals’ monthly trend</span></span>
+### <a name="trained-individuals-monthly-trend"></a><span data-ttu-id="3fc55-120">定型的個人的每月趨勢</span><span class="sxs-lookup"><span data-stu-id="3fc55-120">Trained individuals' monthly trend</span></span>
 
-<span data-ttu-id="4b302-121">這項資料是公司的使用者對於已完成模組第一次在該月的趨勢。</span><span class="sxs-lookup"><span data-stu-id="4b302-121">This data is the trend of your company’s users who have completed a module for the first time in that month.</span></span> 
+<span data-ttu-id="3fc55-121">這項資料是您公司第一次在該月內完成課程模組之使用者的趨勢。</span><span class="sxs-lookup"><span data-stu-id="3fc55-121">This data is the trend of your company's users who have completed a module for the first time in that month.</span></span> 
 
-<span data-ttu-id="4b302-122">**X 軸**是選取的時間篩選條件的月份。</span><span class="sxs-lookup"><span data-stu-id="4b302-122">**X-Axis** is month for the time filter selected.</span></span> 
+<span data-ttu-id="3fc55-122">**X 軸**是選取時間篩選準則的月份。</span><span class="sxs-lookup"><span data-stu-id="3fc55-122">**X-Axis** is month for the time filter selected.</span></span> 
 
-<span data-ttu-id="4b302-123">**Y 軸**是作用中的學習者已註冊 （模組中的第一次完成），在該月的計數。</span><span class="sxs-lookup"><span data-stu-id="4b302-123">**Y-Axis** is count of active learners who have registered (first-time completion of a module) during that month.</span></span> <span data-ttu-id="4b302-124">這不是累計的。</span><span class="sxs-lookup"><span data-stu-id="4b302-124">This is not cumulative.</span></span>
+<span data-ttu-id="3fc55-123">**Y 軸**是在該月內註冊（第一次完成課程模組）的作用中學習者計數。</span><span class="sxs-lookup"><span data-stu-id="3fc55-123">**Y-Axis** is count of active learners who have registered (first-time completion of a module) during that month.</span></span> <span data-ttu-id="3fc55-124">這不是累計的。</span><span class="sxs-lookup"><span data-stu-id="3fc55-124">This is not cumulative.</span></span>
 
-### <a name="module-completions-monthly-trend"></a><span data-ttu-id="4b302-125">模組完成每月的趨勢</span><span class="sxs-lookup"><span data-stu-id="4b302-125">Module completions monthly trend</span></span>
+### <a name="module-completions-monthly-trend"></a><span data-ttu-id="3fc55-125">課程模組完成每月趨勢</span><span class="sxs-lookup"><span data-stu-id="3fc55-125">Module completions monthly trend</span></span>
 
-<span data-ttu-id="4b302-126">這項資料是模組完成貴公司的所有使用者在該月的趨勢。</span><span class="sxs-lookup"><span data-stu-id="4b302-126">This data is the trend of modules completed by all your company’s users during that month.</span></span> <span data-ttu-id="4b302-127">（不是累計）</span><span class="sxs-lookup"><span data-stu-id="4b302-127">(not cumulative)</span></span> 
+<span data-ttu-id="3fc55-126">這項資料是在該月內，貴公司所有使用者完成之模組的趨勢。</span><span class="sxs-lookup"><span data-stu-id="3fc55-126">This data is the trend of modules completed by all your company's users during that month.</span></span> <span data-ttu-id="3fc55-127">（不累計）</span><span class="sxs-lookup"><span data-stu-id="3fc55-127">(not cumulative)</span></span> 
 
-<span data-ttu-id="4b302-128">**X 軸**是選取的時間篩選條件的月份。</span><span class="sxs-lookup"><span data-stu-id="4b302-128">**X-Axis** is month for the time filter selected.</span></span> 
+<span data-ttu-id="3fc55-128">**X 軸**是選取時間篩選準則的月份。</span><span class="sxs-lookup"><span data-stu-id="3fc55-128">**X-Axis** is month for the time filter selected.</span></span> 
 
-<span data-ttu-id="4b302-129">**Y 軸**該月約為計數模組完成。</span><span class="sxs-lookup"><span data-stu-id="4b302-129">**Y-Axis** is count of the module completions during that month.</span></span> <span data-ttu-id="4b302-130">這不是累計的。</span><span class="sxs-lookup"><span data-stu-id="4b302-130">This is not cumulative.</span></span>
+<span data-ttu-id="3fc55-129">**Y 軸**是該月份期間的模組完成計數。</span><span class="sxs-lookup"><span data-stu-id="3fc55-129">**Y-Axis** is count of the module completions during that month.</span></span> <span data-ttu-id="3fc55-130">這不是累計的。</span><span class="sxs-lookup"><span data-stu-id="3fc55-130">This is not cumulative.</span></span>
 
-### <a name="learning-path-completions-monthly-trend"></a><span data-ttu-id="4b302-131">學習路徑完成每月的趨勢</span><span class="sxs-lookup"><span data-stu-id="4b302-131">Learning path completions monthly trend</span></span>
+### <a name="learning-path-completions-monthly-trend"></a><span data-ttu-id="3fc55-131">學習路徑完成每月趨勢</span><span class="sxs-lookup"><span data-stu-id="3fc55-131">Learning path completions monthly trend</span></span>
 
-<span data-ttu-id="4b302-132">這項資料是學習路徑完成貴公司的使用者在該月的趨勢。</span><span class="sxs-lookup"><span data-stu-id="4b302-132">This data is the trend of learning paths completed by your company’s users during that month.</span></span> <span data-ttu-id="4b302-133">（不是累計）</span><span class="sxs-lookup"><span data-stu-id="4b302-133">(not cumulative)</span></span> 
+<span data-ttu-id="3fc55-132">這項資料是您公司的使用者在該月內完成學習路徑的趨勢。</span><span class="sxs-lookup"><span data-stu-id="3fc55-132">This data is the trend of learning paths completed by your company's users during that month.</span></span> <span data-ttu-id="3fc55-133">（不累計）</span><span class="sxs-lookup"><span data-stu-id="3fc55-133">(not cumulative)</span></span> 
 
-<span data-ttu-id="4b302-134">**X 軸**是選取的時間篩選條件的月份。</span><span class="sxs-lookup"><span data-stu-id="4b302-134">**X-Axis** is month for the time filter selected.</span></span> 
+<span data-ttu-id="3fc55-134">**X 軸**是選取時間篩選準則的月份。</span><span class="sxs-lookup"><span data-stu-id="3fc55-134">**X-Axis** is month for the time filter selected.</span></span> 
 
-<span data-ttu-id="4b302-135">**Y 軸**為計數模組完成的月份。</span><span class="sxs-lookup"><span data-stu-id="4b302-135">**Y-Axis** is count of module completions in that month.</span></span> <span data-ttu-id="4b302-136">這不是累計的。</span><span class="sxs-lookup"><span data-stu-id="4b302-136">This is not cumulative.</span></span>
+<span data-ttu-id="3fc55-135">**Y 軸**是該月份中的模組完成計數。</span><span class="sxs-lookup"><span data-stu-id="3fc55-135">**Y-Axis** is count of module completions in that month.</span></span> <span data-ttu-id="3fc55-136">這不是累計的。</span><span class="sxs-lookup"><span data-stu-id="3fc55-136">This is not cumulative.</span></span>
 
-### <a name="learning-path-completion-tabs"></a><span data-ttu-id="4b302-137">學習路徑完成索引標籤</span><span class="sxs-lookup"><span data-stu-id="4b302-137">Learning path completion tabs</span></span> 
+### <a name="learning-path-completion-tabs"></a><span data-ttu-id="3fc55-137">學習路徑完成索引標籤</span><span class="sxs-lookup"><span data-stu-id="3fc55-137">Learning path completion tabs</span></span> 
 
-<span data-ttu-id="4b302-138">**模組 索引標籤**</span><span class="sxs-lookup"><span data-stu-id="4b302-138">**Module tab**</span></span>
+<span data-ttu-id="3fc55-138">**模組索引標籤**</span><span class="sxs-lookup"><span data-stu-id="3fc55-138">**Module tab**</span></span>
 
-<span data-ttu-id="4b302-139">這個索引標籤包含模組完成公司中前 5 個模組名稱; 細的項此模組是相關聯; 產品和使用者角色相關的模組。</span><span class="sxs-lookup"><span data-stu-id="4b302-139">This tab includes breakdown of modules completed in your company by top 5 module names; the product to which the module is associated; and the user role pertinent to the module.</span></span>  
+<span data-ttu-id="3fc55-139">此索引標籤包含您公司中由前5個模組名稱完成的模組明細;與模組相關聯的產品;和與模組相關的使用者角色。</span><span class="sxs-lookup"><span data-stu-id="3fc55-139">This tab includes breakdown of modules completed in your company by top 5 module names; the product to which the module is associated; and the user role pertinent to the module.</span></span>  
 
-- <span data-ttu-id="4b302-140">模組完成環圈圖： 模組完成 （在 [摘要] 區段中顯示的計數） 的細項的模組名稱。</span><span class="sxs-lookup"><span data-stu-id="4b302-140">Module completions donut chart: breakdown of the module completions (count displayed in the summary section) by the module names.</span></span>
+- <span data-ttu-id="3fc55-140">模組完成環圈圖：模組名稱的明細（[摘要] 區段中所顯示的計數）。</span><span class="sxs-lookup"><span data-stu-id="3fc55-140">Module completions donut chart: breakdown of the module completions (count displayed in the summary section) by the module names.</span></span>
 
-<span data-ttu-id="4b302-141">數字會顯示在圖表的中心是完成的總模組</span><span class="sxs-lookup"><span data-stu-id="4b302-141">Number displayed in the center of the chart is the total modules completed</span></span>
+<span data-ttu-id="3fc55-141">圖表中央顯示的數位是已完成的模組總數</span><span class="sxs-lookup"><span data-stu-id="3fc55-141">Number displayed in the center of the chart is the total modules completed</span></span>
 
-- <span data-ttu-id="4b302-142">完成角色： 角色模組的模組完成的細目。</span><span class="sxs-lookup"><span data-stu-id="4b302-142">Completions by role: breakdown of the module completions by the role of the module.</span></span> <span data-ttu-id="4b302-143">如果模組是與多個角色相關聯，則每個角色被新增至模組完成的計數。</span><span class="sxs-lookup"><span data-stu-id="4b302-143">If a module is associated with multiple roles, then each of the roles is added to the count of module completions.</span></span>
+- <span data-ttu-id="3fc55-142">依角色的完成：模組的角色會完成模組的分解。</span><span class="sxs-lookup"><span data-stu-id="3fc55-142">Completions by role: breakdown of the module completions by the role of the module.</span></span> <span data-ttu-id="3fc55-143">如果模組與多個角色相關聯，則每個角色都會加入模組完成的計數中。</span><span class="sxs-lookup"><span data-stu-id="3fc55-143">If a module is associated with multiple roles, then each of the roles is added to the count of module completions.</span></span>
 
-<span data-ttu-id="4b302-144">數字會顯示在圖表的中心是模組完成不同的角色數目。</span><span class="sxs-lookup"><span data-stu-id="4b302-144">Number displayed in the center of the chart is the number of distinct roles for the module completions.</span></span> 
+<span data-ttu-id="3fc55-144">圖表中央顯示的數位是模組完成的相異角色數目。</span><span class="sxs-lookup"><span data-stu-id="3fc55-144">Number displayed in the center of the chart is the number of distinct roles for the module completions.</span></span> 
 
-- <span data-ttu-id="4b302-145">依產品的自動完成： 模組會對應至該產品所模組完成的細目。</span><span class="sxs-lookup"><span data-stu-id="4b302-145">Completions by product: breakdown of the module completions by the product the module is mapped to.</span></span> <span data-ttu-id="4b302-146">如果模組是與多項產品相關聯，每個產品會加入至模組完成的計數。</span><span class="sxs-lookup"><span data-stu-id="4b302-146">If a module is associated with multiple products, then each of the products is added to the count of module completions.</span></span>    
+- <span data-ttu-id="3fc55-145">依產品的完成：模組所對應的產品完成模組的分解。</span><span class="sxs-lookup"><span data-stu-id="3fc55-145">Completions by product: breakdown of the module completions by the product the module is mapped to.</span></span> <span data-ttu-id="3fc55-146">如果模組與多項產品相關聯，則每個產品都會加入模組完成的計數中。</span><span class="sxs-lookup"><span data-stu-id="3fc55-146">If a module is associated with multiple products, then each of the products is added to the count of module completions.</span></span>    
 
-<span data-ttu-id="4b302-147">數字會顯示在圖表的中心是模組完成的不同產品的數目。</span><span class="sxs-lookup"><span data-stu-id="4b302-147">Number displayed in the center of the chart is the number of distinct products for the module completions.</span></span>  
+<span data-ttu-id="3fc55-147">圖表中央顯示的數位是模組完成的相異產品數目。</span><span class="sxs-lookup"><span data-stu-id="3fc55-147">Number displayed in the center of the chart is the number of distinct products for the module completions.</span></span>  
 
-<span data-ttu-id="4b302-148">**學習路徑 索引標籤**</span><span class="sxs-lookup"><span data-stu-id="4b302-148">**Learning path tab**</span></span>   
+<span data-ttu-id="3fc55-148">**學習路徑索引標籤**</span><span class="sxs-lookup"><span data-stu-id="3fc55-148">**Learning path tab**</span></span>   
 
-<span data-ttu-id="4b302-149">這個索引標籤包含學習路徑，完成您的公司中前 5 個模組名稱; 的細目產品的學習路徑會對應至;與此學習路徑相關的角色。</span><span class="sxs-lookup"><span data-stu-id="4b302-149">This tab includes a breakdown of learning paths completed in your company by top 5 module names; the product the learning path is mapped to; and the role pertinent to this learning path.</span></span>  
+<span data-ttu-id="3fc55-149">此索引標籤包含您公司中由前5個模組名稱完成的學習路徑細目;學習路徑對應的產品;以及與此學習路徑相關的角色。</span><span class="sxs-lookup"><span data-stu-id="3fc55-149">This tab includes a breakdown of learning paths completed in your company by top 5 module names; the product the learning path is mapped to; and the role pertinent to this learning path.</span></span>  
 
-- <span data-ttu-id="4b302-150">學習路徑完成環圈圖： 學習路徑完成 （在 [摘要] 區段中顯示的計數） 的細項的名稱。</span><span class="sxs-lookup"><span data-stu-id="4b302-150">Learning paths completions donut chart: breakdown of the Learning path completions (count displayed in the summary section) by name.</span></span>
+- <span data-ttu-id="3fc55-150">學習路徑完成環圈圖：學習路徑完成的明細（[摘要] 區段中所顯示的計數）（依名稱）。</span><span class="sxs-lookup"><span data-stu-id="3fc55-150">Learning paths completions donut chart: breakdown of the Learning path completions (count displayed in the summary section) by name.</span></span>
 
-- <span data-ttu-id="4b302-151">依角色 \* 完成： 分解的學習路徑完成角色。</span><span class="sxs-lookup"><span data-stu-id="4b302-151">Completions by role\*: breakdown of the learning paths completions by the role.</span></span> <span data-ttu-id="4b302-152">如果模組是與多個角色相關聯，則每個角色被新增至模組完成的計數。</span><span class="sxs-lookup"><span data-stu-id="4b302-152">If a module is associated with multiple roles, then each of the roles is added to the count of module completions.</span></span>
+- <span data-ttu-id="3fc55-151">依角色的完成 \*：由角色完成的學習路徑細目。</span><span class="sxs-lookup"><span data-stu-id="3fc55-151">Completions by role\*: breakdown of the learning paths completions by the role.</span></span> <span data-ttu-id="3fc55-152">如果模組與多個角色相關聯，則每個角色都會加入模組完成的計數中。</span><span class="sxs-lookup"><span data-stu-id="3fc55-152">If a module is associated with multiple roles, then each of the roles is added to the count of module completions.</span></span>
 
-- <span data-ttu-id="4b302-153">依產品的自動完成： 分解的學習路徑完成的學習路徑所對應的產品。</span><span class="sxs-lookup"><span data-stu-id="4b302-153">Completions by product: breakdown of the learning paths completions by the Product to which the learning path is mapped.</span></span> <span data-ttu-id="4b302-154">如果模組是與多項產品相關聯，每個產品會加入至模組完成的計數。</span><span class="sxs-lookup"><span data-stu-id="4b302-154">If a module is associated with multiple products, then each of the products is added to the count of module completions.</span></span>
+- <span data-ttu-id="3fc55-153">依產品的完成：由學習路徑對應的產品完成學習路徑的分解。</span><span class="sxs-lookup"><span data-stu-id="3fc55-153">Completions by product: breakdown of the learning paths completions by the Product to which the learning path is mapped.</span></span> <span data-ttu-id="3fc55-154">如果模組與多項產品相關聯，則每個產品都會加入模組完成的計數中。</span><span class="sxs-lookup"><span data-stu-id="3fc55-154">If a module is associated with multiple products, then each of the products is added to the count of module completions.</span></span>
 
-### <a name="completions-by-learning-individuals"></a><span data-ttu-id="4b302-155">了解個人的自動完成</span><span class="sxs-lookup"><span data-stu-id="4b302-155">Completions by learning individuals</span></span>
+### <a name="completions-by-learning-individuals"></a><span data-ttu-id="3fc55-155">學習個人的完成</span><span class="sxs-lookup"><span data-stu-id="3fc55-155">Completions by learning individuals</span></span>
 
-<span data-ttu-id="4b302-156">這會列出在您的公司和已完成的模組的學習路徑的詳細資料已訓練的使用者。</span><span class="sxs-lookup"><span data-stu-id="4b302-156">This lists the trained users in your company and details of their completed modules and learning paths.</span></span>
+<span data-ttu-id="3fc55-156">這會列出您公司中已定型的使用者，以及其已完成之模組和學習路徑的詳細資料。</span><span class="sxs-lookup"><span data-stu-id="3fc55-156">This lists the trained users in your company and details of their completed modules and learning paths.</span></span>
 
-<span data-ttu-id="4b302-157">Microsoft 了解識別學習模組，並提供使用者物件識別碼。</span><span class="sxs-lookup"><span data-stu-id="4b302-157">Microsoft Learn identifies learners with a User Object ID.</span></span> <span data-ttu-id="4b302-158">底下**模組 索引標籤**，所有的學習模組會依完成的模組。</span><span class="sxs-lookup"><span data-stu-id="4b302-158">Under the **Modules tab**, all learners are sorted by the modules completed.</span></span> <span data-ttu-id="4b302-159">它們會顯示其 Microsoft 了解使用者名稱、 物件識別碼和模組計數。</span><span class="sxs-lookup"><span data-stu-id="4b302-159">They are displayed with their Microsoft Learn username, Object ID, and modules count.</span></span> <span data-ttu-id="4b302-160">您可以搜尋使用的使用者名稱。</span><span class="sxs-lookup"><span data-stu-id="4b302-160">You can search using username.</span></span> 
+<span data-ttu-id="3fc55-157">Microsoft Learn 識別具有使用者物件識別碼的學習工具。</span><span class="sxs-lookup"><span data-stu-id="3fc55-157">Microsoft Learn identifies learners with a User Object ID.</span></span> <span data-ttu-id="3fc55-158">在 [**模組]** 索引標籤下，所有的學習工具都會依完成的模組排序。</span><span class="sxs-lookup"><span data-stu-id="3fc55-158">Under the **Modules tab**, all learners are sorted by the modules completed.</span></span> <span data-ttu-id="3fc55-159">它們會顯示其 Microsoft Learn 的使用者名稱、物件識別碼和模組計數。</span><span class="sxs-lookup"><span data-stu-id="3fc55-159">They are displayed with their Microsoft Learn username, Object ID, and modules count.</span></span> <span data-ttu-id="3fc55-160">您可以使用使用者名稱進行搜尋。</span><span class="sxs-lookup"><span data-stu-id="3fc55-160">You can search using username.</span></span> 
 
-<span data-ttu-id="4b302-161">底下**學習路徑 索引標籤**學習路徑完成之後，依排序的所有學習模組會顯示使用學習者顯示名稱、 物件識別碼和模組計數。</span><span class="sxs-lookup"><span data-stu-id="4b302-161">Under the **Learning paths tab** all learners sorted by learning paths completed, are displayed with the learner display name, Object ID, and module count.</span></span>
+<span data-ttu-id="3fc55-161">在 [**學習路徑]** 索引標籤下，所有依學習路徑完成排序的學習工具都會以學習模組顯示名稱、物件識別碼和模組計數來顯示。</span><span class="sxs-lookup"><span data-stu-id="3fc55-161">Under the **Learning paths tab** all learners sorted by learning paths completed, are displayed with the learner display name, Object ID, and module count.</span></span>
 
-<span data-ttu-id="4b302-162">若要取得學習模組的詳細說明如何使用使用者物件識別碼：</span><span class="sxs-lookup"><span data-stu-id="4b302-162">To get a learner’s details using the User Object ID:</span></span> 
+<span data-ttu-id="3fc55-162">若要取得學習模組的詳細資料，請使用使用者物件識別碼：</span><span class="sxs-lookup"><span data-stu-id="3fc55-162">To get a learner's details using the User Object ID:</span></span> 
 
-1. <span data-ttu-id="4b302-163">登入[Graph 總管](https://developer.microsoft.com/graph/graph-explorer )。</span><span class="sxs-lookup"><span data-stu-id="4b302-163">Sign in to [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer ).</span></span> <span data-ttu-id="4b302-164">（您必須是貴公司的 Azure AD 租用戶的全域管理員）。</span><span class="sxs-lookup"><span data-stu-id="4b302-164">(You must be the global admin of your company's Azure AD tenant.)</span></span>
+1. <span data-ttu-id="3fc55-163">登入[Graph Explorer](https://developer.microsoft.com/graph/graph-explorer )。</span><span class="sxs-lookup"><span data-stu-id="3fc55-163">Sign in to [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer ).</span></span> <span data-ttu-id="3fc55-164">（您必須是公司 Azure AD 租使用者的全域管理員）。</span><span class="sxs-lookup"><span data-stu-id="3fc55-164">(You must be the global admin of your company's Azure AD tenant.)</span></span>
 
-2. <span data-ttu-id="4b302-165">複製的使用者物件識別碼[反白顯示的區域](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f)Graph 總管 中。</span><span class="sxs-lookup"><span data-stu-id="4b302-165">Copy the user object ID to the [area highlighted](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) in Graph Explorer.</span></span> 
+2. <span data-ttu-id="3fc55-165">將 [使用者物件識別碼] 複製到 [圖形瀏覽器] 中反[白顯示的區域](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f)。</span><span class="sxs-lookup"><span data-stu-id="3fc55-165">Copy the user object ID to the [area highlighted](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) in Graph Explorer.</span></span> 
 
-## <a name="faq"></a><span data-ttu-id="4b302-166">常見問題集</span><span class="sxs-lookup"><span data-stu-id="4b302-166">FAQ</span></span>
+## <a name="faq"></a><span data-ttu-id="3fc55-166">常見問題</span><span class="sxs-lookup"><span data-stu-id="3fc55-166">FAQ</span></span>
 
-1. <span data-ttu-id="4b302-167">我無法查看我的公司學習詳細資料。</span><span class="sxs-lookup"><span data-stu-id="4b302-167">I am unable to see my company's Learning details.</span></span>
+1. <span data-ttu-id="3fc55-167">我看不到我公司的學習詳細資料。</span><span class="sxs-lookup"><span data-stu-id="3fc55-167">I am unable to see my company's Learning details.</span></span>
 
-<span data-ttu-id="4b302-168">此報表可供在合作夥伴中心內有帳戶的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="4b302-168">This report is available to partners who have an account in Partner Center.</span></span> <span data-ttu-id="4b302-169">如果您是仍在 Partner Membership Center 中，您將無法查看這份報告。</span><span class="sxs-lookup"><span data-stu-id="4b302-169">If you are still in Partner Membership Center, you'll not be able to see this report.</span></span>
+<span data-ttu-id="3fc55-168">此報表適用于在合作夥伴中心具有帳戶的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="3fc55-168">This report is available to partners who have an account in Partner Center.</span></span> <span data-ttu-id="3fc55-169">如果您仍在合作夥伴成員資格中心，就無法看到這份報告。</span><span class="sxs-lookup"><span data-stu-id="3fc55-169">If you are still in Partner Membership Center, you'll not be able to see this report.</span></span>
 
-2.  <span data-ttu-id="4b302-170">我們公司中的哪些人可以檢視此報表？</span><span class="sxs-lookup"><span data-stu-id="4b302-170">Who in our company can view this report?</span></span> 
+2.  <span data-ttu-id="3fc55-170">公司中的誰可以查看這份報告？</span><span class="sxs-lookup"><span data-stu-id="3fc55-170">Who in our company can view this report?</span></span> 
 
-<span data-ttu-id="4b302-171">全域管理員，以及 MPN 系統管理員可以檢視報表。</span><span class="sxs-lookup"><span data-stu-id="4b302-171">The global admin and the MPN admin can view the report.</span></span>
+<span data-ttu-id="3fc55-171">全域管理員和 MPN 管理員可以查看報表。</span><span class="sxs-lookup"><span data-stu-id="3fc55-171">The global admin and the MPN admin can view the report.</span></span>
 
-3. <span data-ttu-id="4b302-172">如何確定我們所有的使用者將其 Microsoft 了解帳戶與他們的合作夥伴中心帳戶？</span><span class="sxs-lookup"><span data-stu-id="4b302-172">How can I make sure all our users associate their Microsoft Learn accounts with their Partner Center account?</span></span>
+3. <span data-ttu-id="3fc55-172">如何確保所有的使用者都將其 Microsoft Learn 帳戶與其合作夥伴中心帳戶產生關聯？</span><span class="sxs-lookup"><span data-stu-id="3fc55-172">How can I make sure all our users associate their Microsoft Learn accounts with their Partner Center account?</span></span>
 
-<span data-ttu-id="4b302-173">全域系統管理員將新的使用者之後，該使用者必須移至其**我的設定檔**讓其了 Microsoft 帳戶產生關聯。</span><span class="sxs-lookup"><span data-stu-id="4b302-173">After the global admin adds a new user, that user needs to go to their **My profile** to associate their Microsoft Learn account.</span></span>
+<span data-ttu-id="3fc55-173">全域管理員加入新的使用者之後，該使用者必須前往其**我的設定檔**，才能建立其 Microsoft Learn 帳戶的關聯。</span><span class="sxs-lookup"><span data-stu-id="3fc55-173">After the global admin adds a new user, that user needs to go to their **My profile** to associate their Microsoft Learn account.</span></span>
 
-- <span data-ttu-id="4b302-174">選取 **您的帳戶**中的儀表板，然後選取右上角的圖示**我的設定檔**。</span><span class="sxs-lookup"><span data-stu-id="4b302-174">Select the **Your account** icon in the right corner of the dashboard, and then select **My profile**.</span></span> 
+- <span data-ttu-id="3fc55-174">選取儀表板右上角的 [**帳戶**] 圖示，然後選取 [**我的設定檔**]。</span><span class="sxs-lookup"><span data-stu-id="3fc55-174">Select the **Your account** icon in the right corner of the dashboard, and then select **My profile**.</span></span> 
 
--  <span data-ttu-id="4b302-175">底下**學習**使用者將能夠讓他們的 Microsoft Learning 帳戶產生關聯和夥伴 university 連線其 Microsoft 帳戶。</span><span class="sxs-lookup"><span data-stu-id="4b302-175">Under **Your learning** a user will be able to associate their Microsoft Learning account and connect their Microsoft account to Partner University.</span></span>
+-  <span data-ttu-id="3fc55-175">在**您的學習**下，使用者將能夠建立其 Microsoft learning 帳戶的關聯，並將其 Microsoft 帳戶連接至合作夥伴大學。</span><span class="sxs-lookup"><span data-stu-id="3fc55-175">Under **Your learning** a user will be able to associate their Microsoft Learning account and connect their Microsoft account to Partner University.</span></span>
 
-3. <span data-ttu-id="4b302-176">我是否可以看到這份報表中的 MSA 帳戶以登入 Microsoft 了解公司的所有使用者？</span><span class="sxs-lookup"><span data-stu-id="4b302-176">Can I see all the company's users who sign into Microsoft Learn with an MSA account in this report?</span></span>
+3. <span data-ttu-id="3fc55-176">我可以在這份報告中看到所有使用 MSA 帳戶登入 Microsoft Learn 的公司使用者嗎？</span><span class="sxs-lookup"><span data-stu-id="3fc55-176">Can I see all the company's users who sign into Microsoft Learn with an MSA account in this report?</span></span>
 
-<span data-ttu-id="4b302-177">目前，若要執行這項操作，最好是將這些使用者加入您的 Azure AD 租用戶，並將它們加入合作夥伴中心，以便它們可以將透過其 Microsoft 了解帳戶產生關聯**我的設定檔**在合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="4b302-177">Currently, the best way to do this is to add these users to your Azure AD tenant and add them to Partner Center so that they can associate their Microsoft Learn account through **My profile** in Partner Center.</span></span> 
+<span data-ttu-id="3fc55-177">目前，執行這項操作的最佳方式是將這些使用者新增至您的 Azure AD 租使用者，並將其新增至合作夥伴中心，讓他們可以透過合作夥伴中心內的**我的設定檔**建立其 Microsoft Learn 帳戶的關聯。</span><span class="sxs-lookup"><span data-stu-id="3fc55-177">Currently, the best way to do this is to add these users to your Azure AD tenant and add them to Partner Center so that they can associate their Microsoft Learn account through **My profile** in Partner Center.</span></span> 
 
-<span data-ttu-id="4b302-178">Microsoft 了解 team 只對於訓練，在不久的將來，會使用其 MSA 帳戶的使用者啟用的功能，才能將其公司電子郵件，以其 Microsoft 了解設定檔產生關聯。</span><span class="sxs-lookup"><span data-stu-id="4b302-178">For users who only use their MSA account for training, in the near future, the Microsoft Learn team will enable the ability for them to associate their work email to their Microsoft Learn profile.</span></span> 
+<span data-ttu-id="3fc55-178">對於只使用 MSA 帳戶進行訓練的使用者，在不久的將來，Microsoft Learn 小組會讓他們能夠將其工作電子郵件與 Microsoft Learn 設定檔產生關聯。</span><span class="sxs-lookup"><span data-stu-id="3fc55-178">For users who only use their MSA account for training, in the near future, the Microsoft Learn team will enable the ability for them to associate their work email to their Microsoft Learn profile.</span></span> 
 
