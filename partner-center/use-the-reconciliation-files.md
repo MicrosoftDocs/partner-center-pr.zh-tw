@@ -1,7 +1,7 @@
 ---
 title: 使用對帳檔案 | 合作夥伴中心
 ms.topic: article
-ms.date: 07/08/2019
+ms.date: 11/07/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 如需計費週期中每個費用的詳細明細專案查看，請從合作夥伴中心下載對帳檔案。
@@ -9,12 +9,12 @@ ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b27e99e5c0dc55fad3b06cc22316e8282dbe35c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 217d5e9c068a07b51f74333f605daca8ab573c9a
+ms.sourcegitcommit: 8425d3435892651e3e6cb1147cd3b268b2b1869b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653978"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73753857"
 ---
 # <a name="use-the-reconciliation-files"></a>使用對帳檔案
 
@@ -23,6 +23,10 @@ ms.locfileid: "73653978"
 -  合作夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
+**適當的角色**
+
+- 帳單管理
+- 全域系統管理員
 
 如需計費週期中每個費用的詳細明細專案查看，請從合作夥伴中心下載對帳檔案。 詳細資料包括每個客戶的訂閱費用，以及詳細事件 (例如，期中增加訂閱基座)。
 
@@ -637,7 +641,7 @@ ms.locfileid: "73653978"
 </tr>
 
 <tr class="even">
-<td>DiscountDetails</td>
+<td>PriceAdjustmentDescription</td>
 <td><p>任何適用折扣的說明。</p></td>
 </tr>
 
@@ -670,7 +674,26 @@ ms.locfileid: "73653978"
 <td>BillingFrequency</td>
 <td><p> 當每月計費啟用時，會顯示每月。 否則為空白。 </p></td>
 </tr>
-
+<tr class="odd">
+<td>BillableQuantity</td>
+<td><p> 代表已購買或耗用的單位總數。 </p></td>
+</tr>
+<tr class="even">
+<td>pricingCurrency</td>
+<td><p> 列出資源或供應專案的價格</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p> 定價貨幣對（客戶）計費貨幣的匯率</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p> 決定計費貨幣匯率的定價日期。</p></td>
+</tr>
+<tr class="odd">
+<td>MeterDescription </td>
+<td><p> 耗用量明細專案的計量描述</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -897,9 +920,29 @@ ms.locfileid: "73653978"
 <td><p>舊版欄位，可捕捉選擇性的服務特定中繼資料。</p></td>
 </tr>
 
-<tr class="even">
+<tr class="odd">
 <td>其他資訊</td>
 <td><p>其他資料行中未涵蓋的任何其他資訊。</p></td>
+</tr>
+<tr class="even">
+<td>EffectiveUnitPrice</td>
+<td><p> 每個單位的實際計費值（包括折扣、獲得點數等等）。</p></td>
+</tr>
+<tr class="odd">
+<td>PCToBCExchangeRate </td>
+<td><p>定價貨幣對（客戶）計費貨幣的匯率。</p></td>
+</tr>
+<tr class="even">
+<td>PCToBCExchangeRateDate </td>
+<td><p>決定計費貨幣匯率的定價貨幣。</p></td>
+</tr>
+<tr class="odd">
+<td>EntitlementID</td>
+<td><p>代表 Azure subscriptionID。</p></td>
+</tr>
+<tr class="even">
+<td>EntitlementDescription</td>
+<td><p>代表 Azure 訂用帳戶的名稱。</p></td>
 </tr>
 
 </tbody>
