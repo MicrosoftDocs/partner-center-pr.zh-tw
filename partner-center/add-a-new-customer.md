@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
-ms.openlocfilehash: b8ffc01816e7f50ada49d87a82b8d7fbc72a78dd
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d33588fb599f0f74ddb2e9f0e267b9e423ccbead
+ms.sourcegitcommit: d50d4ae13ba4c6c4a19a7f2af8f9f5a42be6dbfc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653399"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "73840216"
 ---
 # <a name="add-a-new-customer"></a>加入新的客戶
 
@@ -35,9 +35,9 @@ ms.locfileid: "73653399"
 
 2. 在 [**帳戶資訊**] 頁面上，輸入客戶的詳細資料和主要連絡人資訊，並確認客戶已接受並簽署最新的[Microsoft Cloud 合約](agreements.md)。
 
-    >[!IMPORTANT]
-      > 從 2018 年 11 月 7 日起，您必須提供簽署 Microsoft Cloud 合約人員的資訊，以確認客戶已接受合約。 如需詳細資訊，請參閱[確認客戶接受 Microsoft Cloud 合約](confirm-consent.md)。
-
+>[!IMPORTANT] 
+> 在2019年10月1日，Microsoft 引進了 CSP 計畫的**Microsoft 客戶合約**來取代 Microsoft Cloud 合約。 為了協助合作夥伴遷移至新的合約，在 2020 年 1 月 31 日前，CSP 計畫中將支援目前的 Microsoft Cloud 合約。 閱讀[Microsoft 客戶合約和如何確認同意](confirm-customer-consent.md)
+  
 3. 如果您是間接提供者，請從清單中選取您想要與此客戶訂用帳戶產生關聯的間接轉銷商。
 
 4. 選取 **[下一步]：** 當您完成輸入所有必要資訊時的訂閱。
