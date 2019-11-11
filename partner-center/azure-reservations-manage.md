@@ -2,18 +2,20 @@
 title: 代表您的客戶管理 Azure Reservations | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 Description: 若要在購買後管理客戶的 Azure 保留專案，請選取您想要在合作夥伴中心管理的客戶和保留，然後對 Azure 入口網站中的保留進行變更。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure，保留，管理，帳單，購買，取消，exchange，提早終止費用
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b7e9726acbba54daf8404fdf4a3d2b4961c5123a
-ms.sourcegitcommit: 4b8cad9f24229767dd44fa9418fe57e10d74f390
+ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "71704162"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653818"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表您的客戶管理 Microsoft Azure Reservations       
 
@@ -27,16 +29,16 @@ ms.locfileid: "71704162"
 
 1. 若要開始使用，請從 [合作夥伴中心] 功能表選取 [**客戶**]，然後選取您想要管理其保留的客戶。 
 
-2. 在客戶的詳細資料頁面功能表上，選取 **\[Azure Reservations\]** ，然後選取您想要管理的特定保留區。  
+2. 在客戶的詳細資料頁面功能表上，選取 [ **Azure 保留**區]，然後選取您想要管理的特定保留區。  
 
-3. 在 **\[動作\]** 下方，選取 **\[管理\]** 以移至 Azure 入口網站中客戶的保留區記錄。 在保留區詳細資料頁面上，依照下列步驟以完成任務。  
+3. 在 [**動作**] 底下，選取 [**管理**] 以前往 Azure 入口網站中的客戶保留記錄。 在保留區詳細資料頁面上，依照下列步驟以完成任務。  
 
     | **請**   | **自**    |
     |:-----------------------------|:-----------------|
-    | **概觀**   | 檢視客戶保留區的詳細資料，包括到期日期、範圍和使用率資料。 **注意** 選擇 **\[退款\]** 可建立按比例計算的退款支援要求。 選取 **\[交換\]** 可建立交換未使用的保留區期限的支援要求。  
-    | **存取控制（IAM）**   | 管理客戶保留區資訊的存取權。|
-    | **設定**   | 變更保留區的範圍和/或保留區相關聯的 Azure 訂閱。    |
-    | **屬性**   | 檢視保留區的屬性，並將保留區識別碼和保留區訂單識別碼複製到剪貼簿。 **注意** 當您代表客戶要求支援時，支援人員可能會請您提供保留區識別碼和保留區訂單識別碼。    |
+    | **概觀**   | 查看客戶保留的詳細資料，包括到期日、範圍和使用方式資料。 **注意** 選擇 **\[退款\]** 可建立按比例計算的退款支援要求。 選取 **\[交換\]** 可建立交換未使用的保留區期限的支援要求。  
+    | **存取控制（IAM）**   | 管理客戶保留資訊的存取權。|
+    | **設定**   | 變更保留區所關聯的保留範圍和（或） Azure 訂用帳戶。    |
+    | **屬性**   | 查看保留的屬性，並將保留識別碼和保留訂單識別碼複製到剪貼簿。 **注意** 當您代表客戶要求支援時，支援人員可能會請您提供保留區識別碼和保留區訂單識別碼。    |
     | **新增支援要求**    | 向 Microsoft 支援服務要求協助。   |
  
 ## <a name="cancel-or-exchange-a-reservation"></a>取消或交換保留區 
@@ -73,13 +75,13 @@ ms.locfileid: "71704162"
 若要代表客戶提出退款或交換的支援要求，請選取 合作夥伴中心 中的 客戶 和 保留，然後在 Azure 入口網站中建立支援要求。 
 
 >[!NOTE]
->Microsoft 支援服務專員可能會請您提供保留區識別碼和保留區訂單識別碼。 您可以在 Azure 入口網站中保留區的 **\[內容\]** 頁面上找到此資訊。 
+>Microsoft 支援服務專員可能會請您提供保留區識別碼和保留區訂單識別碼。 您可以在 Azure 入口網站中保留的 **屬性** 頁面上找到此資訊。 
 
 1. 若要開始使用，請從 [合作夥伴中心] 功能表選取 [**客戶**]，然後選取想要退款的客戶。 
 
-2. 在客戶的詳細資料頁面上，選取 **\[Azure Reservations\]** ，然後選取客戶想要退款的特定保留區。  
+2. 在客戶的詳細資料頁面上，選取 [ **Azure 保留**區]，然後選取客戶想要退款的特定保留。  
 
-3. 在 **\[動作\]** 下方，選取 **\[退款\]** 以移至 Azure 入口網站中客戶的保留區記錄，並初始化支援要求。  
+3. 在 [**動作**] 底下，選取 [**退款**] 移至 Azure 入口網站中的客戶保留記錄，並起始支援要求。  
 
 4. 在 **\[新的支援要求\]** 頁面上，依照下列步驟來要求退款。 每個步驟之後選取 **\[下一步\]** 。 
 
@@ -92,7 +94,7 @@ ms.locfileid: "71704162"
 5.  完成時選取 **\[建立\]** 。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
-|**如需相關資訊**   |**閱讀此**    |
+|**如需相關資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留實例](azure-reservations.md) |
 |在合作夥伴中心為您的客戶購買 Azure 保留   |[購買 Azure 保留](azure-reservations-buying.md) |
