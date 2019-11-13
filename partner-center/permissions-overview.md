@@ -2,17 +2,19 @@
 title: 指派使用者角色和權限 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/10/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 需要在合作夥伴中心裡工作的每位員工，都必須有指派的角色。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 權限, 系統管理員, 代理人
 ms.localizationpriority: high
-ms.openlocfilehash: 0bbc9af84b8a1464f255c17147fdc10a7504eb43
-ms.sourcegitcommit: 1ccc27092949deb6f6404e64fd6a628fd7b5fd5c
+ms.openlocfilehash: aa2eb2561332f730abedd2416813189abe6dc02d
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "72276099"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652425"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
 
