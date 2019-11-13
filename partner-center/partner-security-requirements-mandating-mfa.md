@@ -1,22 +1,22 @@
 ---
 title: 對您的合作夥伴租使用者強制 MFA |合作夥伴中心
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 您的合作夥伴租使用者安全性需求的請求 MFA 詳細資料
+description: 針對您的合作夥伴租使用者安全性需求強制進行多重要素驗證（MFA）的詳細資料
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: f9319fc50c722df0e87f729444bb23654b75e910
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
+ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652521"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "73983354"
 ---
-# <a name="mandating-mfa-for-your-partner-tenant"></a>對您的合作夥伴租使用者強制 MFA
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>對您的合作夥伴租使用者強制多重要素驗證（MFA）
 
 **適用於**
 
@@ -28,9 +28,9 @@ ms.locfileid: "73652521"
 
 這些合作夥伴將需要完成下欄區域的 MFA 驗證：
 
-- [合作夥伴中心儀表板](#partner-center-dashboard)
-- [合作夥伴中心 API](#partner-center-api)
-- [合作夥伴委派的系統管理](#partner-delegated-administration)
+- [合作夥伴中心儀表板](#partner-center-dashboard)（目標為 H1 CY2020）
+- [合作夥伴中心 API](#partner-center-api) （目標為 H1 CY2020）
+- [合作夥伴委派管理](#partner-delegated-administration)（自2019年11月18日起）
 
 這項功能的目的是協助合作夥伴保護其對客戶資源的存取，以防止認證洩漏。
 
