@@ -184,6 +184,7 @@
 # 安全性需求
 ## [概觀](partner-security-requirements.md)
 ## [需求狀態](partner-security-compliance.md)
+## [對合作夥伴租用戶強制使用 MFA](partner-security-requirements-mandating-mfa.md)
 ## [常見問題集](partner-security-requirements-faq.md)
 
 # 教學課程
