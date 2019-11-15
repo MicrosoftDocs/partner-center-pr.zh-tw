@@ -135,6 +135,7 @@
 ### [使用促銷吸引新客戶](promotions.md)
 ### [為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)
 ### [銷售商業 Marketplace 產品的訂閱](sell-marketplace-products.md)
+### [Marketplace 專屬優惠方案](isv-opt-in.md)
 ### [在合作夥伴中心指派 Azure 訂閱](assign-azure-subscriptions.md)
 ### [指派授權給使用者](assign-licenses-to-users.md)
 ### [將授權或服務新增到現有的訂閱](add-licenses-or-services-to-an-existing-subscription.md)
@@ -183,6 +184,7 @@
 
 # 安全性需求
 ## [概觀](partner-security-requirements.md)
+## [對合作夥伴租用戶強制使用 MFA](partner-security-requirements-mandating-mfa.md) 
 ## [需求狀態](partner-security-compliance.md)
 ## [對合作夥伴租用戶強制使用 MFA](partner-security-requirements-mandating-mfa.md)
 ## [常見問題集](partner-security-requirements-faq.md)
