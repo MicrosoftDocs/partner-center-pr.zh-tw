@@ -1,17 +1,19 @@
 ---
 title: 合作夥伴安全性需求狀態 | 合作夥伴中心
 ms.date: 10/11/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 透過 MFA 需求隨時保持貴公司合規性的最新狀態。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 3ca0bcda7be69f0785207f29fbbab20d2402e780
-ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
+ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "72425099"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661111"
 ---
 # <a name="partner-security-requirements-status"></a>合作夥伴安全性需求狀態
 
@@ -31,7 +33,7 @@ ms.locfileid: "72425099"
 我們想要確保每個使用者都有每個單一驗證的 MFA 挑戰。 您可以透過下列其中一種方式來完成這項作業：
 
 - 實作 Azure AD Premium 以確保對每個使用者強制執行 MFA
-- 實作基準保護原則
+- 實作 [Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - 實作第三方解決方案，以確保對每個使用者強制執行 MFA
 
 ## <a name="partner-security-requirements-status"></a>合作夥伴安全性需求狀態
@@ -39,7 +41,7 @@ ms.locfileid: "72425099"
 這份報告藉由提供一種方法來查看您可能會落後的地方，協助您確認安全性需求狀態。 追蹤會定期更新。
 
 >[!NOTE]
->只有在合作夥伴中心才支援合作夥伴安全性需求狀態報告。 不適用於 Microsoft Cloud for US Government 或 Microsoft Cloud Germany。 我們強烈建議所有合作夥伴透過主權雲端 (21Vianet、US Government 和 Germany) 進行交易，並立即採取這些新的安全性需求。 不過，這些合作夥伴不需要符合 2019 年 8 月 1 日生效的新安全性需求。 Microsoft 未來將針對主權雲端的這些安全性需求強制執行，提供額外的詳細資料。 
+>只有在合作夥伴中心才支援合作夥伴安全性需求狀態報告。 不適用於 Microsoft Cloud for US Government 或 Microsoft Cloud Germany。 我們強烈建議所有合作夥伴透過主權雲端 (21Vianet、US Government 和 Germany) 進行交易，並立即採取這些新的安全性需求。 不過，這些合作夥伴不需要符合 2019 年 8 月 1 日生效的新安全性需求。 Microsoft 未來將針對主權雲端的這些安全性需求強制執行，提供額外的詳細資料。
 
 每次您的員工登入合作夥伴中心，或透過 API、透過合作夥伴中心取得或傳送資料時，其安全性狀態會受到挑戰和追蹤。 也包含在安全性狀態追蹤中的，是您的應用程式和任何控制台廠商應用程式。 顯示的是過去 7 天的狀態。
 
@@ -93,15 +95,15 @@ ms.locfileid: "72425099"
 了解目前的實作是否只在特定條件下才強制執行 MFA。 某些 MFA 解決方案提供彈性，只在符合特定條件時才強制執行 MFA。 例如，使用者從未知的裝置或不明的位置進行存取。 已啟用 MFA 但是在存取合作夥伴中心時不需要完成 MFA 驗證的使用者，可能會導致計量不是 100%。
 
 >[!NOTE]
->對於已使用 Azure AD 使用者保護基準原則來實作 MFA 的合作夥伴，請務必注意，使用者保護是以風險為基礎的原則。 此原則所涵蓋的使用者只有在進行有風險的登入嘗試 (例如，使用者從其他位置登入) 時，才會收到要進行 MFA 的提示。 此外，此原則下的使用者最多有 14 天的時間來註冊 MFA。 未完成 MFA 註冊的使用者在 14 天的期間內，不會有 MFA 驗證的挑戰。 因此，使用 Azure AD 使用者保護基準原則來實作 MFA 的合作夥伴，計量可能不會是 100%。
+>對於已使用 Azure AD 安全性預設值來實作 MFA 的合作夥伴，請務必注意，若沒有系統管理員使用者帳戶，則會根據風險強制執行多重要素驗證。 使用者只有在進行有風險的登入嘗試 (例如，使用者從其他位置登入) 時，才會收到要進行 MFA 的提示。 此外，使用者最多有 14 天的時間來註冊 MFA。 未完成 MFA 註冊的使用者在 14 天的期間內，不會經過 MFA 驗證的查問。 因此，使用 Azure AD 安全性預設值來實作 MFA 的合作夥伴，計量可能不會是 100%。
 
 ### <a name="are-you-using-3rd-party-mfa-solution"></a>您是否使用第三方 MFA 解決方案？
 
 如果您使用第三方 MFA 解決方案，請識別您要將它與 Azure AD 整合的方式。 一般來說有兩種方法，包括同盟和自訂控制項：
 
-* **身分識別同盟**  – 當 Azure AD 收到驗證要求時，Azure AD 會將使用者重新導向至同盟識別提供者進行驗證。 驗證成功之後，同盟識別提供者會連同 SAML 權杖，將使用者重新導向回 Azure AD。 為了讓 Azure AD 在向同盟識別提供者進行驗證時，辨識使用者已完成 MFA 驗證，SAML 權杖必須包含authenticationmethodsreferences  宣告 (具有 multipleauthn  值)。 檢查同盟識別提供者是否支援發出這類宣告。 若是如此，請檢查同盟識別提供者是否已設定為執行此動作。 如果宣告遺失，Azure AD (進而是合作夥伴中心) 將不會知道使用者已完成 MFA 驗證，而這會造成計量不是 100%。
+* **身分識別同盟**  - 當 Azure AD 收到驗證要求時，Azure AD 會將使用者重新導向至同盟識別提供者進行驗證。 驗證成功之後，同盟識別提供者會連同 SAML 權杖，將使用者重新導向回 Azure AD。 為了讓 Azure AD 在向同盟識別提供者進行驗證時，辨識使用者已完成 MFA 驗證，SAML 權杖必須包含authenticationmethodsreferences  宣告 (具有 multipleauthn  值)。 檢查同盟識別提供者是否支援發出這類宣告。 若是如此，請檢查同盟識別提供者是否已設定為執行此動作。 如果宣告遺失，Azure AD (進而是合作夥伴中心) 將不會知道使用者已完成 MFA 驗證，而這會造成計量不是 100%。
 
-* **自訂控制項** – Azure AD 自訂控制項不能用來識別使用者是否已透過第三方 MFA 解決方案完成 MFA 驗證。 因此，透過自訂控制項完成 MFA 驗證的任何使用者，一律會對 Azure AD (接著是合作夥伴中心) 顯示未完成 MFA 驗證。 可能的話，建議您在與 Azure AD 整合時，切換為使用身分識別同盟，而不是自訂控制項。
+* **自訂控制項** - Azure AD 自訂控制項不能用來識別使用者是否已透過協力廠商 MFA 解決方案完成 MFA 驗證。 因此，透過自訂控制項完成 MFA 驗證的任何使用者，一律會對 Azure AD (接著是合作夥伴中心) 顯示未完成 MFA 驗證。 可能的話，建議您在與 Azure AD 整合時，切換為使用身分識別同盟，而不是自訂控制項。
 
 ### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>識別哪些使用者已登入合作夥伴中心但未進行 MFA
 

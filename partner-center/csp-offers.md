@@ -2,17 +2,19 @@
 title: 雲端解決方案提供者計畫中的合作夥伴供應項目 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/28/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 深入了解透過雲端解決方案提供者計畫銷售的合作夥伴可提供的供應項目。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, 雲端解決方案提供者計畫, 雲端解決方案提供者, 新增產品, 銷售給客戶, 合作夥伴供應項目, 雲端解決方案提供者供應項目, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 在雲端解決方案提供者中銷售, Azure RI, Azure 保留的虛擬機器執行個體, Azure Reservations, 線上服務, 訂閱軟體, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客戶訂閱
 ms.localizationpriority: high
-ms.openlocfilehash: 062c64254ab731bd9396201268aad61ff6b3b74f
-ms.sourcegitcommit: cb736d4ec766d2af41d8c6102d13563169386438
+ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
+ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "73045631"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "73799211"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫中的合作夥伴供應項目 
 
@@ -79,6 +81,9 @@ ms.locfileid: "73045631"
 
 若要代表您的雲端解決方案提供者客戶購買產品和服務，請選取客戶所要的項目、將這些項目新增到購物車、建立訂單，然後檢視並提交訂單。 一般程序如下所述。 (如需特定產品類型訂單的詳細資訊，請參閱上面的連結)。
 
+>[注意] 在您的租用戶國家/地區和客戶的租用戶國家/地區中都必須提供 CSP 供應項目。 
+>例如，如果您的租用戶位於斯洛伐克，而客戶的租用戶位於德國，則您無法將 Dynamics 365 Business Central Premium 銷售給該客戶，因為目前在斯洛伐克並未提供此供應項目。
+
 1. 從 [合作夥伴中心] 功能表選取 [客戶]  ，然後找出要向您購買的客戶。 
 
 2. 選取客戶列結尾的向下鍵以展開客戶記錄，然後選取 [新增產品]  。 從這裡開始，您就是在建立訂單。 訂單可以包含數種不同類型的項目，但必須都供應給同一位客戶。
@@ -95,7 +100,12 @@ ms.locfileid: "73045631"
 
 8. 您訂單的詳細資訊，包括您的訂單號碼，會顯示在下一個頁面。 選取 [完成]  移至 [訂購記錄]  頁面。 
 
-> [!NOTE]
-> 如需計費程序運作方式的詳細資訊，請參閱[**計費基本概念**](https://docs.microsoft.com/partner-center/billing-basics)。
+**深入了解** 
+
+如需計費程序運作方式的詳細資訊，請閱讀[計費基本概念](https://docs.microsoft.com/partner-center/billing-basics)。
+
+如需在 Azure 方案下購買的相關資訊，請閱讀[購買 Azure 方案](purchase-azure-plan)。
+
+
 
 

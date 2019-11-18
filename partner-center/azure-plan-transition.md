@@ -2,18 +2,20 @@
 title: 客戶轉換至 Azure 方案 | 合作夥伴中心
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 輕鬆地將您的客戶移至 Azure 方案
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: bb019f50a6648fb0bfffb7f465a50ed8a5bb6244
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: d19648053fefdcd998ad47bde2d68b289f15a10c
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428533"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73653834"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>將您的客戶轉換為 Azure 方案
 
@@ -83,9 +85,9 @@ ms.locfileid: "73428533"
 
 **稽核記錄**：
 
-若要調解計費，請在 [訂用帳戶]  頁面上，檢視您的 “Microsoft Azure” (0145P) 訂用帳戶的歷程記錄。 
+若要調解計費，請在 [訂用帳戶]  頁面上，檢視您的 "Microsoft Azure" (0145P) 訂用帳戶的歷程記錄。 
 
-“Microsoft Azure” (0145P) 訂用帳戶由兩個部分組成：
+"Microsoft Azure" (0145P) 訂用帳戶由兩個部分組成：
 1. 商務訂用帳戶 
 2. Azure 訂用帳戶 (權利)
 

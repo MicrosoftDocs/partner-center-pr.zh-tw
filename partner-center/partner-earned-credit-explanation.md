@@ -2,18 +2,20 @@
 title: 受控服務的合作夥伴所獲得信用點數 (預覽) | 合作夥伴中心
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 合作夥伴所獲得信用點數的重要資訊
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a20305b72bd3c72fe9aab21b9b7b48c7ce5104e6
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: c21c8b249f184827083fd95279925a048c35a97a
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428431"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73652573"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作夥伴所獲得信用點數如何計算及付費
 
@@ -53,7 +55,7 @@ ms.locfileid: "73428431"
 
 注意：一般而言，服務的使用量需要8-24 小時才會出現在 [成本管理]  中，而 PEC 信用額度會在 Azure 成本管理的存取時間起 48 小時內出現。
 
-5. 您也可以使用 [分組依據及新增]  篩選功能，依據 PartnerEarnedCreditApplied  屬性分組及篩選，以深入瞭解具有 PEC 的成本，以及未套用任何 PEC 的成本。
+5. 您也可以使用 [分組依據及新增]  篩選功能，依據 PartnerEarnedCreditApplied  屬性分組及篩選，以深入了解具有 PEC 的成本，以及未套用任何 PEC 的成本。
 
  **詳細資訊**
 

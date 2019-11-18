@@ -2,18 +2,20 @@
 title: Azure 方案價目表 | 合作夥伴中心
 ms.topic: article
 ms.date: 11/01/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 如何查看 Azure 方案下訂用帳戶的價目表
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 53e5327b505de1c1860e44b477aca21b5aef2d2b
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 00649bb67de199409e1c36457dbaf5a915c8354c
+ms.sourcegitcommit: e55fd7b82b90683ac34ab60c284fd6abacbde568
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73428543"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73710125"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>適用於 Azure 的 CSP 中新商務體驗的價目表 
 
@@ -23,22 +25,16 @@ CSP 中新 Azure 商務體驗的價目表會張貼在合作夥伴中心。 價�
 
 1. 從左側的 [合作夥伴中心] 功能表中，選取 [銷售]  ，然後選取 [市集]  。
 
-2. 在 [匯出類型]  旁，選取 [Azure 方案使用定價]  。
+2. 在 Azure 方案定價底下，選取您想要定價的國家/地區。
 
-3. 在 [日期定價]  旁，選取您想要的日期，例如 [目前]  。 注意：您也可以選取 [FX 費率]  以匯出目前的 FX 費率。
+3. 在 [匯出類型]  旁邊，選取 [Azure 方案使用定價]  、[Azure 方案保留定價]  或 [FX 費率]  。 注意：[FX 費率]  不是國家/地區特有。
 
-![Azure 定價 2](images/azure/pricelist2.jpg)
-
-4. 在 [市集]  底下選取產品的 [類型]  和 [類別]  ，或搜尋產品。 以您的搜尋為基礎的可用產品隨即顯示。
-
-![定價](images/azure/Azurepricelist1.jpg)
-
-5. 然後選取 [匯出 Azure 方案價目表]  ，以下載您所選產品的 Azure 方案價格。
+3. 在 [日期定價]  旁，選取您想要的日期，例如 [目前]  。 
 
 
-![匯出價目表](images/azure/pricelist1.png)
+![國家/地區特有](images/azure/pricingnew.png)
 
-
+注意：您可以匯出兩個不同的價目表 - Azure 方案定價和市集協力廠商定價。 
 
 ## <a name="azure-price-list-specifics"></a>Azure 價目表詳細資訊
 

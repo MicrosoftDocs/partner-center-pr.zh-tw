@@ -2,17 +2,19 @@
 title: 恢復 Azure CSP 訂用帳戶的系統管理員權限 | 合作夥伴中心
 ms.topic: article
 ms.date: 10/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 本檔案說明如何協助客戶恢復合作夥伴的系統管理員許可權
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 51f19724751b296789a1d5367d9892b21cab4f09
-ms.sourcegitcommit: 646536a113584f1572de851e22a212a6f77e64d7
+ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "73433744"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73651707"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>恢復 Azure CSP 訂用帳戶的系統管理員權限  
 
@@ -27,9 +29,9 @@ ms.locfileid: "73433744"
 
 CSP 中的 Azure 系統管理員許可權有兩種層級。 
 
-**租用戶層級系統管理員許可權** (**委派的系統管理員許可權**) – CSP 合作夥伴會在與客戶建立 CSP 轉銷商關係時取得這些許可權。 這可讓 CSP 合作夥伴存取其客戶的租用戶，讓他們能夠執行系統管理功能，例如新增/管理使用者、重設密碼，以及管理使用者授權。 
+**租用戶層級系統管理員許可權** (**委派的系統管理員許可權**) - CSP 合作夥伴會在與客戶建立 CSP 轉銷商關係時取得這些許可權。 這可讓 CSP 合作夥伴存取其客戶的租用戶，讓他們能夠執行系統管理功能，例如新增/管理使用者、重設密碼，以及管理使用者授權。 
 
-**訂用帳戶層級系統管理員許可權** – CSP 合作夥伴在為其客戶建立 Azure CSP 訂用帳戶時會取得這些許可權。 這可讓 CSP 合作夥伴完成這些訂用帳戶的存取權，讓他們能夠佈建及管理 Azure 資源。 
+**訂用帳戶層級系統管理員許可權** - CSP 合作夥伴在為其客戶建立 Azure CSP 訂用帳戶時會取得這些許可權。 這可讓 CSP 合作夥伴完成這些訂用帳戶的存取權，讓他們能夠佈建及管理 Azure 資源。 
 
 
 ## <a name="reinstate-csp-partners-admin-privileges"></a>恢復 CSP 合作夥伴的系統管理員許可權

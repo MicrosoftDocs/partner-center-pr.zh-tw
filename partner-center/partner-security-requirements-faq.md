@@ -1,18 +1,20 @@
 ---
 title: 合作夥伴安全性需求常見問題集 | 合作夥伴中心
 ms.topic: article
-ms.date: 09/27/2019
+ms.date: 11/09/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 關於合作夥伴安全性需求的常見問題集
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 43ad23ea7d4b4b39fb2dc6d15095a8416c7360ab
-ms.sourcegitcommit: 1fe366f787d97c96510cfd409304e7d48af7c286
+ms.openlocfilehash: cbb3cef48b2b4c9141f25ab7cd75bb20e54128de
+ms.sourcegitcommit: 31e9598577981b8a7e484490ed630a2f4db56cf4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "73142027"
+ms.lasthandoff: 11/11/2019
+ms.locfileid: "73915036"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
 
@@ -20,40 +22,17 @@ ms.locfileid: "73142027"
 
 ## <a name="partner-security-requirements"></a>合作夥伴安全性需求
 
-### <a name="what-are-the-new-partner-security-requirements"></a>新的合作夥伴安全性需求為何？
-
-為了保護合作夥伴和您的客戶，我們要求合作夥伴立即採取下列動作：  
-
-1. **針對合作夥伴租用戶中的所有使用者啟用 Multi-Factor Authentication (MFA)** 。 合作夥伴租用戶中的所有使用者在登入 Microsoft 商業雲端服務，或是透過合作夥伴中心或 API 在雲端解決方案提供者中進行交易時，都必須使用 Multi-Factor Authentication (MFA)。 透過啟用基準保護原則，便可免費將 MFA 提供給合作夥伴租用戶的所有使用者使用。
-
-2. **採用安全應用程式模型架構**。 與 Microsoft API (例如 Azure Resource Manager、Microsoft Graph 及合作夥伴中心 API) 整合的所有合作夥伴都必須採用安全應用程式模型架構，以在啟用基準保護原則時避免對其整合產生任何中斷。
-
-啟用 Multi-Factor Authentication (MFA) 並採用安全應用程式模型架構將可協助保護您的基礎結構，並保護您客戶的資料免於潛在的安全性風險 (例如身分盜用或其他詐騙事件)。  
-
-### <a name="which-partners-need-to-meet-the-requirements"></a>有哪些合作夥伴必須符合需求？
-
-這些需求適用於下列合作夥伴群組：
-
-- 所有參與雲端解決方案提供者 (CSP) 方案且使用 Microsoft 商業雲端服務進行交易的合作夥伴組織
-  - 直接帳單合作夥伴
-  - 間接提供者
-  - 間接轉銷商
-- 所有控制台廠商
-- 所有顧問方案合作夥伴  
-
-透過主權雲端 (21Vianet、US Government 和 Germany) 進行交易的所有合作夥伴並不需要符合於 8 月 1 日生效的新安全性需求。 不過，我們強烈建議使用主權雲端的所有合作夥伴立即行動並採用這些新的安全性需求。 Microsoft 未來將針對主權雲端的這些安全性需求強制執行，提供額外的詳細資料。
-
 ### <a name="what-are-the-key-timelines-and-milestones"></a>有哪些關鍵時程表和里程碑？
 
-與這些安全性需求相關聯的條款將會立即新增至[適用於雲端解決方案提供者計畫的計畫指南](https://go.microsoft.com/fwlink/p/?LinkId=617100)。 從 2019 年 8 月 1 日開始，您必須實作這些安全性需求以符合參與雲端解決方案提供者計畫的規範。
+與這些安全性需求相關聯的條款會隨附至 Microsoft 合作夥伴合約。 您必須實作這些安全性需求以符合參與雲端解決方案提供者計畫的規範。
 
 ### <a name="what-will-happen-if-i-do-not-take-any-actions"></a>如果我不採取任何動作，會發生什麼事情？
 
 在強制執行這些合作夥伴安全性需求之後，未遵守這些安全性作法及義務的合作夥伴，將無法在雲端解決方案提供者計畫中進行交易，或利用委派系統管理員權限來管理客戶租用戶。 我們正在為需求建立強制執行日期，並且將通知合作夥伴相關的日期與詳細資訊。
 
-### <a name="what-will-happen-if-i-dont-implement-mfa-as-per-this-new-security-requirement-by-august-1-2019"></a>如果我在 2019 年 8 月 1 日之前都沒有根據這個新的安全性需求實作 MFA，會發生什麼事？
+### <a name="what-will-happen-if-i-do-not-implement-these-partner-security-requirements"></a>如果未實作這些合作夥伴安全性需求，會發生什麼情況？
 
-從 2019 年 8 月 1 日開始，在[適用於雲端解決方案提供者計畫的計畫指南](https://go.microsoft.com/fwlink/p/?LinkId=617100)中與這些安全性需求相關聯的條款將會生效。 參與雲端解決方案提供者計畫的所有合作夥伴都應該符合這些需求，以符合條款規範並保護其業務。 在我們於不久的未來開始針對合作夥伴安全性需求進行技術強制執行之後，未遵守這些安全性作法的合作夥伴可能會失去在雲端解決方案提供者計畫中進行交易，或利用委派系統管理員權限來管理客戶租用戶的能力。 我們正在建立強制執行日期，並且很快便會將該日期通知合作夥伴。
+Microsoft 合作夥伴合約會要求您對使用者帳戶強制執行多重要素驗證，並採用安全應用程式模型來與合作夥伴中心 API 互動。 未遵守這些安全性作法的合作夥伴可能會失去在雲端解決方案提供者計畫中進行交易，或利用委派系統管理員權限來管理客戶租用戶的能力。
 
 ### <a name="why-is-microsoft-enforcing-these-new-requirements"></a>Microsoft 為何要強制執行這些新的需求？
 
@@ -65,7 +44,7 @@ ms.locfileid: "73142027"
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>是否可以要求特別排除某個帳戶？
 
-否。您無法針對強制執行 MFA 的需求排除任何帳戶。 基於合作夥伴所擁有的高度權限，[適用於雲端解決方案提供者計畫的計畫指南](https://go.microsoft.com/fwlink/p/?LinkId=617100)要求針對您合作夥伴租用戶中的每個帳戶強制執行 MFA。
+否。您無法針對強制執行 MFA 的需求排除任何使用者帳戶。 基於合作夥伴所擁有的高度權限，Microsoft 合作夥伴合約會要求針對您合作夥伴租用戶中的每個使用者帳戶強制執行多重要素驗證。
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>如何知道我是否符合合作夥伴的安全性需求？
 
@@ -86,16 +65,12 @@ ms.locfileid: "73142027"
 
 1. **為所有使用者強制執行 MFA**
 
-    雲端解決方案提供者計畫、顧問及控制台廠商中的所有合作夥伴都必須針對其合作夥伴租用戶中的所有使用者強制執行 MFA。 這可以透過啟用[要求系統管理員使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) \(部分機器翻譯\)、[使用者保護基準](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) \(部分機器翻譯\)，以及任何未來的基準原則來達成。 基準原則所提供的功能將會持續演進，以保護合作夥伴和客戶不受持續變動之安全性威脅的危害。 因此，請務必檢閱[基準原則文件](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) \(部分機器翻譯\) 以深入了解。
-
-    - 參閱[基準原則：要求系統管理員使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) \(部分機器翻譯\)，以取得如何啟用「要求系統管理員使用 MFA」基準原則的詳細資料。
-    - 參閱[基準原則：使用者保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) \(部分機器翻譯\)，以取得如何啟用「使用者保護」基準原則的詳細資料。
-    - 了解[基準保護原則](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) \(部分機器翻譯\) 的概念。
+    雲端解決方案提供者計畫、顧問及控制台廠商中的所有合作夥伴都必須針對其合作夥伴租用戶中的所有使用者強制執行 MFA。
 
     其他考量：
 
     - 間接提供者必須與間接轉銷商合作以上線至合作夥伴中心 (如果他們尚未這麼做)，並鼓勵其轉銷商符合需求。
-    - Azure MFA 現已透過基準原則免費提供給合作夥伴租用戶中的所有使用者使用，其唯一驗證的方法是使用 [Microsoft Authenticator 應用程式](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)。
+    - 合作夥伴租用戶中的所有使用者可以透過 Azure AD 安全性預設值免費使用 Azure MFA，但必須搭配驗證器應用程式的唯一驗證方法，此方法支援時間型單次密碼 (TOTP)。
     - 如果需要其他方法 (例如通話或文字簡訊)，[Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU 能提供額外的驗證方法。
     - 合作夥伴也可以在存取 Microsoft 商業雲端服務時，針對每個帳戶運用第三方 MFA 解決方案。
 
@@ -124,34 +99,9 @@ MFA 是一種安全性機制，可以透過一個以上的必要安全性和驗�
 - 您擁有的事物 (不易複製的受信任裝置，例如電話)
 - 代表您身分的事物 (生物識別技術)
 
-### <a name="what-are-baseline-protection-policies"></a>什麼是基準保護原則？
-
-[Microsoft 基準保護原則](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) \(部分機器翻譯\) (目前處於預覽狀態) 是一組預先定義的原則，可協助組織抵禦許多常見的攻擊。 這些常見的攻擊可能包括密碼噴灑、重播和網路釣魚。 基準保護原則適用於所有版本的 Azure Active Directory。 Microsoft 將這些基準保護原則提供給所有人使用的原因，是因為以身分識別為基礎的攻擊在過去幾年一直持續攀升。 這些原則的目標是為了確保所有組織都能在不需額外成本的情況下，具備基準層級的安全性。
-
-> [!NOTE]
-> Microsoft 基準原則與相關功能將會持續演進，以更有效地保護合作夥伴和客戶不受持續變動之安全性威脅的危害。 我們可能很快就會對基準原則的命名和分類做出變更。 我們強烈建議您直接造訪基準原則頁面以查看最新資訊。
-
-### <a name="what-baseline-policies-must-i-enable"></a>我必須啟用哪些基準原則？
-
-如果您計畫運用目前的基準保護原則來為合作夥伴租用戶中的每個使用者提供 MFA，便必須啟用[要求系統管理員使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) \(部分機器翻譯\) 和[使用者保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) \(部分機器翻譯\) 基準原則。 這些基準保護原則將能免費滿足為合作夥伴租用戶中的每個使用者提供 MFA 的需求，前提是合作夥伴必須透過行動裝置使用 Microsoft Authenticator 應用程式。
-
-[要求系統管理員使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) \(部分機器翻譯\) 基準原則會運用在合作夥伴目錄中的系統管理使用者身上，而[使用者保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) \(部分機器翻譯\) 基準原則會運用來保護合作夥伴租用戶中的非系統管理使用者。 使用者必須註冊 MFA 才能啟用這些原則。 在使用者成功註冊之後，系統會在他們嘗試登入時，根據原則的條件提示他們進行 MFA。 基準原則所提供的功能將會持續演進，以保護合作夥伴和客戶不受持續變動之安全性威脅的危害。 因此，請務必檢閱[基準原則文件](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) \(部分機器翻譯\) 以深入了解。
-
-### <a name="how-do-i-enable-the-require-mfa-for-admins-policy"></a>如何啟用「要求系統管理員使用 MFA」原則？
-
-「要求系統管理員使用 MFA」基準原則可透過 Azure 管理入口網站啟用。 請參閱[基準原則：要求系統管理員使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) \(部分機器翻譯\)，以取得如何啟用此基準原則的詳細資料。
-
-### <a name="how-do-i-enable-the-end-user-protection-policy"></a>如何啟用「使用者保護」原則？
-
-「使用者保護」基準原則可透過 Azure 管理入口網站啟用。 請參閱[基準原則：使用者保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) \(部分機器翻譯\)，以取得如何啟用此基準原則的詳細資料。
-
-### <a name="will-the-baseline-policies-be-automatically-enabled"></a>系統是否會自動啟用基準原則？
-
-否。若要啟用這些原則，身為全域系統管理員、安全性系統管理員，或條件式存取系統管理員角色之成員的使用者必須設定原則以立即使用原則。
-
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>啟用 MFA 的成本為何？
 
-您可透過實作[要求系統管理員使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) \(部分機器翻譯\) 和[使用者保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) \(部分機器翻譯\) 基準保護原則，來使用 Microsoft 免費提供的 MFA。 此版本 MFA 唯一的驗證選項是 [Microsoft Authenticator 應用程式](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)。 如果需要撥打電話或 SMS 訊息，便必須購買 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) 授權。 或者，您可以運用協力廠商解決方案來為合作夥伴租用戶中的每個使用者提供MFA；在此情況下，您必須負責確保 MFA 解決方案已強制執行，且您已符合規範。
+Microsoft 透過實作 Azure AD 安全性預設值免費提供 MFA。 透過此 MFA 版本提供的唯一驗證選項是驗證器應用程式。 如果需要撥打電話或 SMS 訊息，便必須購買 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) 授權。 或者，您可以運用協力廠商解決方案來為合作夥伴租用戶中的每個使用者提供 MFA；在此情況下，您必須負責確保 MFA 解決方案已強制執行，且您已符合規範。
 
 ### <a name="if-i-already-have-an-mfa-solution-what-actions-do-i-need-to-take"></a>如果我已經有 MFA 解決方案，需要採取哪些動作？
 
@@ -160,17 +110,13 @@ MFA 是一種安全性機制，可以透過一個以上的必要安全性和驗�
 > [!IMPORTANT]
 > 如果您使用第三方解決方案，請務必確認解決方案是否發出包含 MFA 值的驗證方法參考 (AMR) 宣告。 請參閱[測試合作夥伴安全性需求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)，以取得驗證第三方解決方案如何發出預期宣告的詳細資訊。
 
-### <a name="what-verification-method-can-i-use-to-authenticate-mfa"></a>我可以使用哪些驗證方法來驗證 MFA？
-
-您可透過實作[要求系統管理員使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) \(部分機器翻譯\) 和[使用者保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) \(部分機器翻譯\) 基準保護原則，來使用 Microsoft 免費提供的 MFA。 此版本 MFA 唯一的驗證選項是 [Microsoft Authenticator 應用程式](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview)。 如果需要撥打電話或 SMS 訊息，便必須購買 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) 授權。 或者，您可以運用協力廠商解決方案來為合作夥伴租用戶中的每個使用者提供MFA；在此情況下，您必須負責確保 MFA 解決方案已強制執行，且您已符合規範。
-
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>我使用多個合作夥伴租用戶來進行交易。 我是否需要對它們全部實作 MFA？
 
 是。您必須針對與雲端解決方案提供者計畫或顧問計畫相關聯的每個 Azure Active Directory 租用戶強制執行 MFA。 如果您計畫購買 Azure Active Directory Premium 授權，則您必須為每個 Azure Active Directory 租用戶中的使用者購買授權。
 
-### <a name="does-each-user-in-my-partner-tenant-need-to-have-mfa-enforced"></a>我合作夥伴租用戶中的每個使用者是否都必須強制執行 MFA？*
+### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>我合作夥伴租用戶中的每個使用者帳戶是否都必須強制執行 MFA？
 
-[要求系統管理員使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) \(部分機器翻譯\) 和[使用者保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) \(部分機器翻譯\) 基準保護原則將會針對您合作夥伴租用戶中的每個使用者強制執行 MFA。 如果您正在運用這些原則來提供 MFA，且正在使用 [Microsoft Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-overview) 應用程式，便不需要購買任何額外的授權。 否則，您將必須購買適當的解決方案來為合作夥伴租用戶中的每個使用者提供 MFA。
+是，每個使用者都必須強制執行 MFA。 請注意，如果您是使用 Azure AD 安全性預設值，則不需要採取任何其他動作，因為該功能會針對所有使用者帳戶強制執行 MFA。 不過，啟用安全性預設值是一種免費且簡單的方法，可確保您的使用者帳戶符合 MFA 規範，而不會在強制執行 MFA 時受到影響。
 
 ### <a name="i-am-a-direct-bill-partner-with-microsoft-what-do-i-need-to-do"></a>我是 Microsoft 的直接帳單合作夥伴。 我需要做些什麼？
 
@@ -194,7 +140,7 @@ Microsoft 已不再針對獨立身分識別提供者提供驗證測試，以確�
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>我要如何在我們的整合沙箱中測試 MFA？
 
-您應該針對您的整合沙箱租用戶啟用[要求系統管理員使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) \(部分機器翻譯\) 和[使用者保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) \(部分機器翻譯\) 基準原則。 透過此原則，租用戶中的每個使用者都必須使用 MFA 進行驗證。
+應該啟用 Azure AD 安全性預設值功能，或者您也可以運用利用同盟的協力廠商解決方案。
 
 ### <a name="will-enabling-mfa-effect-how-i-interact-with-my-customers-tenant"></a>啟用 MFA 是否會影響我與客戶租用戶之間的互動方式？
 
@@ -204,41 +150,29 @@ Microsoft 已不再針對獨立身分識別提供者提供驗證測試，以確�
 
 否。您不需要針對您客戶 Azure AD 租用戶中的每個使用者強制執行 MFA。 不過，建議您與每個客戶合作，以判斷保護其使用者的最佳方式。
 
-### <a name="can-app-passwords-be-used-with-the-baseline-protection-policies"></a>是否可以搭配基準保護原則使用應用程式密碼？
-
-是。可以使用[應用程式密碼](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords) \(部分機器翻譯\)。 您應該檢閱[這裡](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords) \(部分機器翻譯\) 所記載的應用程式密碼使用考量，以判斷它們是否支援您的需求。
-
 ### <a name="can-any-user-be-excluded-from-this-requirement"></a>是否可以將任何使用者排除於此需求之外？
 
 否。您合作夥伴租用戶中的每個使用者 (包括服務帳戶) 都必須使用 MFA 進行驗證。
 
 ### <a name="do-the-partner-security-requirements-apply-to-the-integration-sandbox"></a>合作夥伴安全性需求是否適用於整合沙箱？
 
-是。合作夥伴安全性需求適用於整合沙箱。 這代表您必須為整合沙箱租用戶中的使用者實作適當的 MFA 解決方案。 建議您實作基準保護原則來提供 MFA。
+是。合作夥伴安全性需求適用於整合沙箱。 這代表您必須為整合沙箱租用戶中的使用者實作適當的 MFA 解決方案。 建議您實作 Azure AD 安全性預設值來提供 MFA。
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>我如何設定緊急存取 (緊急開關) 帳戶？
 
 一般認為的最佳做法，是建立一或兩個緊急存取帳戶，以因應不小心被封鎖在自己的 Azure AD 租用戶之外的情況。 基於合作夥伴安全性需求，每個使用者都必須使用 MFA 進行驗證。 這代表您必須修改緊急存取帳戶的定義。 它可以是運用協力廠商解決方案來進行 MFA 的帳戶。
 
-### <a name="how-will-guest-users-be-impacted-by-the-partner-security-requirements"></a>合作夥伴安全性需求會如何影響來賓使用者？
-
-來賓使用者在存取合作夥伴租用戶中的資源時，將必須使用 MFA 進行驗證。 合作夥伴安全性需求對於存取其自己租用戶中資源的來賓使用者將不會有任何影響。
-
 ### <a name="if-i-am-using-a-third-party-solution-is-active-directory-federation-service-adfs-required"></a>如果我是使用協力廠商解決方案，是否需要 Active Directory 同盟服務 (ADFS)？
 
 否。如果您使用協力廠商解決方案，則並不需要 Active Directory 同盟服務 (ADFS)。 建議您與解決方案的廠商合作，以判斷其解決方案的需求為何。
 
-### <a name="is-it-a-requirement-to-enable-the-baseline-protection-policies"></a>是否一定要啟用基準保護原則？
+### <a name="is-it-a-requirement-to-enable-azure-ad-security-defaults"></a>是否需要啟用 Azure AD 安全性預設值？
 
-否。您不一定需要啟用基準保護原則。 唯一的需求是針對合作夥伴租用戶中的每個使用者 (包括服務帳戶) 強制執行 MFA。
+否，不需要啟用 Azure AD 安全性預設值。
 
 ### <a name="can-conditional-access-be-used-to-meet-the-mfa-requirement"></a>是否可以使用條件式存取來符合 MFA 需求？
 
 是。您可以使用條件式存取來針對合作夥伴租用戶中的每個使用者 (包括服務帳戶) 強制執行 MFA。 不過，基於合作夥伴所擁有的高度權限，我們必須確保每個使用者的每個驗證都有 MFA 挑戰。 這代表您將無法運用條件式存取能避開 MFA 需求的功能。
-
-### <a name="what-verification-options-are-provided-through-the-implementation-of-the-baseline-protection-policies"></a>實作基準保護原則能提供哪些驗證選項？
-
-針對透過實作基準保護原則所提供的 MFA 版本，唯一可用的驗證選項是驗證器應用程式。 使用撥打電話和簡訊的方式被視為較不安全。 因此，這些選項並無法透過此版本的 MFA 使用。
 
 ### <a name="will-the-service-account-used-by-azure-ad-connect-be-impacted-by-the-partner-security-requirements"></a>合作夥伴安全性需求是否會影響到 Azure AD Connect 所使用的服務帳戶？
 
@@ -275,7 +209,7 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>安全應用程式模型是否僅需針對合作夥伴中心 API/SDK 實作？
 
-在啟用*要求系統管理員使用 MFA* 和*使用者保護*基準原則之後，每個使用者都必須使用 Multi-Factor Authentication 進行驗證。 這代表您必須針對要以非互動方式執行，且仰賴使用使用者認證進行驗證的每個 API、CLI 及 PowerShell 模組 (例如 Azure、Azure AD、MS Online、合作夥伴中心等) 實作安全應用程式模型。
+透過針對所有使用者帳戶強制執行多重要素驗證，任何想要以非互動方式執行的自動化或整合都會受到影響。 儘管合作夥伴安全性需求需要您針對合作夥伴中心 API 啟用安全應用程式模型，但您可以利用它來解決自動化和整合進行第二個要素驗證的需求。 請注意，存取的資源必須支援以存取權杖為基礎的驗證。
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>我正在使用 PowerShell 之類的自動化工具。 我要如何實作安全應用程式模型？
 
@@ -349,12 +283,6 @@ CPV 必須在與其註冊為 CPV 時所關聯的租用戶中建立 Azure Active 
 - 將您的問題和意見反應移至此[合作夥伴中心安全性指引群組](https://aka.ms/MPCSecurityGuidance) \(英文\)。
 - 參與近期的合作夥伴辦公時間和網路研討會。 請查看[這裡的詳細排程和資源](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) \(英文\)。
 
-### <a name="resources-for-enabling-mfa"></a>啟用 MFA 的資源
-
-- 了解[基準保護原則](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection) \(部分機器翻譯\) 的概念。
-- 參閱[基準原則：要求系統管理員使用 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators) \(部分機器翻譯\)，以取得如何啟用「要求系統管理員使用 MFA」基準原則的詳細資料。
-- 參閱[基準原則：使用者保護](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-end-users) \(部分機器翻譯\)，以取得如何啟用「使用者保護」基準原則的詳細資料。
-
 ### <a name="resources-for-adopting-secure-application-model"></a>採用安全應用程式模型的資源
 
 - [安全應用程式模型概觀](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\)
@@ -369,12 +297,6 @@ CPV 必須在與其註冊為 CPV 時所關聯的租用戶中建立 Azure Active 
 ### <a name="where-can-i-get-support"></a>我可以在哪裡取得支援？
 
 如需符合安全性需求的支援資源，如果您具有進階合作夥伴支援 (ASfP)，請連絡您的服務帳戶經理；如果您具有頂級合作夥伴支援合約 (PSfP)，請連絡您的服務帳戶經理及技術帳戶經理。
-
-### <a name="how-can-i-get-help-with-enabling-the-baseline-policies"></a>我如何取得啟用基準原則的協助？
-
-- 合作夥伴可以運用 MPN 權益的諮詢時數，以取得如何實作安全性需求的詳細指引。
-- 您可透過 MPN 權益使用適用於 Azure Active Directory 的技術產品支援選項。 能存取有效 ASfP 或 PSfP 合約的合作夥伴可以與其相關聯的帳戶經理 (SAM/TAM) 合作，以了解最適合他們的選項。
-- 搭配合作夥伴中心實作基準原則的支援，可透過[合作夥伴中心服務要求](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)來存取。 請選取 [MFA & Secure Application Model]  \(MFA 與安全應用程式模型\) 作為主題。
 
 ### <a name="how-do-i-get-technical-information-and-support-to-help-me-adopt-secure-application-model-framework"></a>我如何取得技術資訊和支援以協助採用安全應用程式模型架構？
 

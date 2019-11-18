@@ -2,18 +2,20 @@
 title: Azure 方案 - 計費 | 合作夥伴中心
 ms.topic: article
 ms.date: 11/03/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 描述 Azure 方案的發票和對帳檔案結構
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: f7b2e22fb4cc0c424ad18278df644d289944ca01
-ms.sourcegitcommit: d6913109534aa1f1f1e5db8c72f8026d159ec2a4
+ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
+ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "73595932"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73661168"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商務體驗 - Azure 計費 
 
@@ -59,7 +61,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 若要檢視歷程記錄發票和對帳檔案，請展開下方的計費歷程記錄資料列。
 
 
-## <a name="understanding-usage-data"></a>瞭解使用量資料 
+## <a name="understanding-usage-data"></a>了解使用量資料 
 
 1. Azure 方案是使用量的根或最上層容器。 所有使用量都會繫結回單一 Azure 方案。 
 
@@ -129,11 +131,11 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 - 在下列範例中：
 
-  - 7/1 – 7/3 的計量符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價減去合作夥伴所獲得信用點數)。
+  - 7/1 - 7/3 的計量符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
 
-   - 7/4 – 7/7 的計量不符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
+   - 7/4 - 7/7 的計量不符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
 
-    - 7/8 – 7/31 的計量符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
+    - 7/8 - 7/31 的計量符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
 
 ![recon2](images/azure/pecfinal.png) 
 
@@ -141,9 +143,9 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 透過 Azure 方案的 Azure 服務會以美元計價，並以客戶國家/地區指派貨幣來計費。 如果計費貨幣不是美元，則使用的外幣匯率 (FX) 費率會顯示在發票的最後一頁。 FX 費率是每月決定，並套用至下列發票。 如需國家/地區貨幣的完整清單，請參閱[新的商務供應項目國家/地區可用性和客戶貨幣對照表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V)。 
 
-Microsoft 將使用 [Thompson Reuters](https://developers.thomsonreuters.com/content/wm-company)，判斷用來決定定價貨幣至計費貨幣轉換的 FX 費率。 FX 費率會重新整理，並在其套用當月第一天的前一天可供使用。
+Microsoft 將使用 [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company)，判斷用來決定定價貨幣至計費貨幣轉換的 FX 費率。 FX 費率會重新整理，並在其套用當月第一天的前一天可供使用。
 
-**範例**：服務期間 8 月 1 日 – 8 月 31 日的使用費用，會使用在 7 月 31 日發佈的 FX 費率來計費。 這些費用會出現在 9 月發票上，而 FX 費率會在發票的最後一頁上註明。 
+**範例**：服務期間 8 月 1 日 - 8 月 31 日的使用費用，會使用在 7 月 31 日發佈的 FX 費率來計費。 這些費用會出現在 9 月發票上，而 FX 費率會在發票的最後一頁上註明。 
 
  
 ## <a name="azure-reservations"></a>Azure Reservations 

@@ -2,6 +2,8 @@
 title: 在雲端解決方案提供者中與間接提供者建立合作關係 | 合作夥伴中心
 ms.topic: article
 ms.date: 03/15/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 身為雲端解決方案提供者間接經銷商，您與間接提供者 (也稱為代理商) 合作，而後者與 Microsoft 有直接關係，而且可以提供客戶支援與帳單服務。
 ms.prod: ''
 author: MaggiePucciEvans
@@ -9,12 +11,12 @@ ms.author: evansma
 keywords: 間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: f412b94fd700fe429a7128a6226874fe47fe7776
-ms.sourcegitcommit: 0195355f4526362f4d89f59ea643a5e422b6a9b2
+ms.openlocfilehash: d290893113b156ce8582e44463a32aaf0cfbe5fe
+ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "71318874"
+ms.lasthandoff: 11/06/2019
+ms.locfileid: "73654332"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接提供者成為合作夥伴
 
