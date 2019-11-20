@@ -1,15 +1,21 @@
 ---
-ms.openlocfilehash: 496bf935432f46b9fe12a946c956071606e34d58
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+title: Verify your partner profile  | Partner Center
+MS.Topic: article
+Date: 08/06/2019
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: 當您第一次以系統管理員身分登入時，請確定支援詳細資料正確、回報免稅 (若適用)，並複查設定檔中的連絡人資訊。
+ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
+author: LauraBrenner
+ms.author: labrenne
+ms.localizationpriority: medium
+ms.openlocfilehash: e30d035cfdcd8f939200af33150dce22a354d360
+ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653982"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "74189058"
 ---
-ms-chap：合作夥伴-儀表板 ms。子服務 partnercenter-csp 描述：第一次以系統管理員身分登入時，請確定您的支援詳細資料正確無誤，並在適當時簽署免稅，並檢查您設定檔中的連絡人資訊。
-秒.主題：文章日期： 08/06/2019 ms. assetid： B7FCD670-465F-443A-A80C-4E83B74E2D1E author： LauraBrenner ms. author： labrenne ms. localizationpriority： medium
----
-
 # <a name="verify-your-partner-profile"></a>確認您的合作夥伴設定檔
 
 第一次以全域管理員身分登入合作夥伴中心時，請確定您的所有公司詳細資料 (例如主要連絡人、法定公司名稱和位址，以及計畫資訊) 都已正確新增。 如果您的公司有多個位置，請複查您的位置資料的正確性。 身為全域管理員、帳單管理員或系統管理代理人，您也可以查看並更新您的帳單和稅務資訊。 
