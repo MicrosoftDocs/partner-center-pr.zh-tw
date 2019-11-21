@@ -114,6 +114,14 @@
 ## [指派支援連絡人](assign-support-contacts.md)
 
 # [雲端解決方案提供者優惠方案](csp-offers.md)
+## 商務 Marketplace
+### [商務 Marketplace 概觀](csp-commercial-marketplace-overview.md)
+### [探索 Marketplace 供應項目](csp-commercial-marketplace-discover.md)
+### [購買 Marketplace 供應項目](csp-commercial-marketplace-purchase.md)
+### [管理 Marketplace 供應項目](csp-commercial-marketplace-manage.md)
+### [Marketplace 供應項目的計費](csp-commercial-marketplace-billing.md)
+### [Marketplace 供應項目的支援](csp-commercial-marketplace-support.md)
+### [Marketplace 購買合約](csp-commercial-marketplace-contracting.md) 
 ## [Azure Reservations](azure-reservations.md)
 ### [調整 VM 大小以提供最大保留區使用率](azure-usage.md)
 ### [代表您的客戶購買 Microsoft Azure Reservations](azure-reservations-buying.md)
@@ -135,7 +143,6 @@
 ### [使用促銷吸引新客戶](promotions.md)
 ### [為客戶提供 Microsoft 產品試用](offer-your-customers-trials-of-microsoft-products.md)
 ### [銷售商業 Marketplace 產品的訂閱](sell-marketplace-products.md)
-### [Marketplace 專屬優惠方案](isv-opt-in.md)
 ### [在合作夥伴中心指派 Azure 訂閱](assign-azure-subscriptions.md)
 ### [指派授權給使用者](assign-licenses-to-users.md)
 ### [將授權或服務新增到現有的訂閱](add-licenses-or-services-to-an-existing-subscription.md)
