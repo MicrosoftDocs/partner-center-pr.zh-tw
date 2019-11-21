@@ -1,20 +1,20 @@
 ---
 title: 確認客戶接受 Microsoft Cloud 合約 | 合作夥伴中心
 ms.topic: article
-ms.date: 04/16/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 身為合作夥伴，您必須先取得客戶的 Microsoft Cloud 合約接受者，才能訂購該客戶的 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的特定詳細資料，以確認接受。
+Description: 瞭解如何確認客戶接受 Microsoft Cloud 合約。 這可能需要為客戶訂購 Microsoft 產品和服務。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 客戶、客戶、同意、MCA、Microsoft Cloud 合約、客戶合約範本
 ms.localizationpriority: medium
-ms.openlocfilehash: 411dab563d59499a66decde0edda3897796a5128
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d9b2df8f9cf8795eedb75bc23773942e365c83fe
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653653"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252584"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>確認客戶接受 Microsoft Cloud 合約
 
@@ -36,7 +36,7 @@ ms.locfileid: "73653653"
 
 -   姓氏
 
--   Email address
+-   電子郵件地址
 
 -   電話號碼 (選用)
 
@@ -75,7 +75,7 @@ ms.locfileid: "73653653"
 ![公司資訊](images/mca/mca1.png)
 
 3. 在 **\[Microsoft Cloud 合約\]** 中，選取 **\[客戶已接受最新的 Microsoft cloud 合約\]** 。
-4. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此日期設定為未來日期。
+4. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此設定為未來日期。
 5. 輸入提供接受的使用者詳細資料。
 
 ![新增接受日期](images/mca/MCA3.png)
@@ -88,14 +88,14 @@ ms.locfileid: "73653653"
 
 您必須是系統管理員代理人或銷售代理人，才能執行此動作。
 
-1. 選取 [客戶]，然後尋找並選取您想要查看的客戶。
+1. 選取 **\[客戶\]** ，然後尋找並選取您想要查看的客戶。
 2. 選取 [帳戶資訊]。
 3. 在 **\[Microsoft Cloud 合約\]** 下方，選取 **\[更新\]** 。
 
-![[更新]](images/mca/mca4.png)
+![更新](images/mca/mca4.png)
 
 4. 輸入接受合約之使用者的 **\[名字\]** 、 **\[姓氏\]** 、 **\[電子郵件地址\]** 和 **\[電話號碼\]** (選用)。
-5. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此日期設定為未來日期。
+5. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此設定為未來日期。
 6. 選取 **\[儲存並繼續\]** 。
 
 ### <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>為現有客戶建立新訂單時確認客戶接受
@@ -103,13 +103,13 @@ ms.locfileid: "73653653"
 如果您嘗試為尚未確認的現有客戶建立新訂單，您會收到完成確認的提示。 請使用下列程序來執行此動作。
 
 1. 輸入接受合約之使用者的 **\[名字\]** 、 **\[姓氏\]** 、 **\[電子郵件地址\]** 和 **\[電話號碼\]** (選用)。
-2. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此日期設定為未來日期。
+2. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此設定為未來日期。
 3. 選取 **\[儲存並繼續\]** 。
 
 ### <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>擷取現有客戶的客戶接受確認
 
 您可以使用下列程序，擷取您先前提供過的現有客戶的客戶接受確認。 您必須是系統管理員代理人或銷售代理人，才能執行此動作。
 
-1. 選取 [客戶]，然後尋找並選取您想要查看的客戶。
+1. 選取 **\[客戶\]** ，然後尋找並選取您想要查看的客戶。
 2. 選取 [帳戶資訊]。
 3. 在 [ **Microsoft cloud 合約**] 底下，您會看到是否已為此客戶提供確認。

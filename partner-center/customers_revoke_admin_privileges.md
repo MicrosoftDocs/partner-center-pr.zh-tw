@@ -1,20 +1,20 @@
 ---
 title: 授予合作夥伴的客戶代理人系統管理權限 | 合作夥伴中心
 ms.topic: article
-ms.date: 12/18/2018
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 身為轉售商合作夥伴，您的客戶可以將您委派為其系統管理員。他們也可以移除許可權。
+description: 瞭解如何要求客戶委派系統管理員許可權給轉銷商，或移除相同的許可權，以及如何使用這些許可權。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 委派的系統管理員許可權、代表的系統管理員、移除許可權、AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 35777dbdaa8ce77f4a1e7154447b37cd62772bc6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653426"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253477"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>授予合作夥伴的客戶代理人系統管理權限
 
@@ -44,7 +44,7 @@ ms.locfileid: "73653426"
 >[!IMPORTANT]  
 >客戶可以在服務的管理員入口網站中重新指派或移除系統管理員許可權。 不過，除非並直到您與客戶重新協商合約，您繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除系統管理員權限。 在此情況下，如果客戶需要協助，請洽詢 Microsoft 支援服務以代表客戶開啟服務要求。
 
-您的客戶可以從 Office 365 系統管理員入口網站中，找出其合作夥伴具有其租使用者的系統管理員許可權。 做法如下：
+您的客戶可以從 Office 365 系統管理員入口網站中，找出其合作夥伴具有其租使用者的系統管理員許可權。 請這樣做：
 
 1. 客戶必須以全域管理員身分登入 Office 365 管理員入口網站。
 

@@ -1,21 +1,21 @@
 ---
 title: 代表您的客戶管理 Azure Reservations | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 若要在購買後管理客戶的 Azure 保留專案，請選取您想要在合作夥伴中心管理的客戶和保留，然後對 Azure 入口網站中的保留進行變更。
+Description: 瞭解如何代表客戶管理 Azure 保留專案，包括如何取消保留、交換保留或要求退款。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure，保留，管理，帳單，購買，取消，exchange，提早終止費用
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b15e0396fce4f9a738b1b34049f0e9560f847f19
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b71457f0bd75008db9ed704784a39b082983501d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653818"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252643"
 ---
 # <a name="manage-microsoft-azure-reservations-on-behalf-of-your-customers"></a>代表您的客戶管理 Microsoft Azure Reservations       
 
@@ -33,7 +33,7 @@ ms.locfileid: "73653818"
 
 3. 在 [**動作**] 底下，選取 [**管理**] 以前往 Azure 入口網站中的客戶保留記錄。 在保留區詳細資料頁面上，依照下列步驟以完成任務。  
 
-    | **請**   | **自**    |
+    | **請**   | **To**    |
     |:-----------------------------|:-----------------|
     | **概觀**   | 查看客戶保留的詳細資料，包括到期日、範圍和使用方式資料。 **注意** 選擇 **\[退款\]** 可建立按比例計算的退款支援要求。 選取 **\[交換\]** 可建立交換未使用的保留區期限的支援要求。  
     | **存取控制（IAM）**   | 管理客戶保留資訊的存取權。|
@@ -57,10 +57,10 @@ ms.locfileid: "73653818"
 
 |**取消日期**<br> 之內   |**實例**    |**額**  |**提早終止**<br> 費用    |**退款上限** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5或更少                         | 無          | 100%       | 無                              | $50000 美元   |
-|5或更少                         | [是]         | 依比例計算  | 無                              | $50000 美元   |
-|超過5個                        | 無          | 依比例計算  | 12                             | $50000 美元   |
-|超過5個                        | [是]         | 依比例計算  | 12                             | $50000 美元   |
+|5或更少                         | 不可以          | 100%       | 不可以                              | $50000 美元   |
+|5或更少                         | 是         | 依比例計算  | 不可以                              | $50000 美元   |
+|超過5個                        | 不可以          | 依比例計算  | 12                             | $50000 美元   |
+|超過5個                        | 是         | 依比例計算  | 12                             | $50000 美元   |
 
 
 **交換的工作方式** 

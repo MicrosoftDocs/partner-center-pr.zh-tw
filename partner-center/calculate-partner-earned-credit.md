@@ -1,20 +1,20 @@
 ---
 title: 合作夥伴的點數計算方式 |合作夥伴中心
 ms.topic: article
-ms.date: 09/17/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 如何計算合作夥伴如何取得 Azure 方案的信用額度
+description: 瞭解 Azure 方案的合作夥伴贏得點數（PEC）層面的計算方式。 這包括合作夥伴和間接提供者的資格需求。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 402ee0e2084191c7d4f592dd91480be8e1bd0341
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 59cbc822e886b031a49c281334e8287580311408
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653713"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253423"
 ---
 # <a name="how-the-partner-earned-credit-pec-is-calculated"></a>如何計算合作夥伴的點數（PEC）
 
@@ -36,13 +36,13 @@ ms.locfileid: "73653713"
 
 - PEC 會每日計算，並可在每日偵察檔案中查看。 合作夥伴（提供者或轉銷商（透過其提供者）必須具有整天（全天候）的存取權，以確保他們獲得 PEC。
 
-- PEC 會向下取得 Azure 資源層級。 如果合作夥伴在訂用帳戶或資源群組層級具有有效存取權，則每個位於較高實體之角色的資源都會獲得 PEC。 
+- PEC 會向下獲得至 Azure 資源層級。 如果合作夥伴在訂用帳戶或資源群組層級具有有效存取權，則每個位於較高實體之角色的資源都會獲得 PEC。 
 
 - PEC 會包含在合作夥伴的每月發票上。 發票是費用的淨額。 詳細資料會顯示在發票偵察檔案中。
 
 如需取得管理 Azure 訂用帳戶的存取權，以及如何將您的 MPN ID 連結至 RBAC 角色的詳細資訊，請參閱[管理 azure 方案下的訂用帳戶和資源](azure-plan-manage.md)。
 
-其他資訊
+詳細資訊
 
 - [Azure 方案-計費](azure-plan-billing.md)
 

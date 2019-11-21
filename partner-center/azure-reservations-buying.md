@@ -1,21 +1,21 @@
 ---
 title: 代表您的客戶購買 Microsoft Azure Reservations | 合作夥伴中心
 ms.topic: article
-ms.date: 10/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 您可以在合作夥伴中心代表您的客戶購買 Azure 保留。
+Description: 瞭解如何在合作夥伴中心代表您的客戶購買或購買 Azure 保留。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 保留區, 管理, 計費, 購買
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c995072056fd70f1e0fb71a2b664242c54bd989f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653831"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253234"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表您的客戶在合作夥伴中心購買 Microsoft Azure 保留 
 
@@ -25,7 +25,7 @@ ms.locfileid: "73653831"
 -  Microsoft Azure 入口網站
 -  雲端解決方案提供者中的合作夥伴
 
-## <a name="before-you-begin"></a>在您開始前
+## <a name="before-you-begin"></a>開始之前
 
 請先參閱下面的重要資訊，然後再代表您的客戶購買 Azure 保留。
 
@@ -52,9 +52,9 @@ ms.locfileid: "73653831"
 >  
 > | 無法使用的市場 | &nbsp; | &nbsp; |
 > |--------------------------------|-----------------------------------|------------------------------------------|
-> | 奧蘭島     | 格陵蘭 (丹麥)     | 巴布亞紐幾內亞     |
+> | 奧蘭島     | 格陵蘭     | 巴布亞紐幾內亞     |
 > | 美屬薩摩亞     | 格瑞那達     | 皮特康群島     |
-> | 安道爾     | 瓜地洛普     | 留尼旺     |
+> | 安道爾     | 哥德普洛     | 留尼旺     |
 > | 安圭拉     | 關島     | 沙巴   |
 > | 南極大陸     | 根息     | 聖巴瑟米   |
 > | 安地卡及巴布達       | 幾內亞     | 聖露西亞   |
@@ -75,7 +75,7 @@ ms.locfileid: "73653831"
 > | 聖誕島     | 馬爾地夫     | 聖赫勒拿、阿森松、特裡斯坦達庫尼亞群島     |
 > | 可可斯群島     | 馬利     | 蘇利南     |
 > | 葛摩     | 馬紹爾群島     | 冷岸     |
-> | 剛果共和國     | 馬丁尼克島     | 史瓦濟蘭     |
+> | 剛果共和國     | 馬丁尼克     | 史瓦濟蘭     |
 > | 剛果民主共和國 (DRC)     | 茅利塔尼亞     | 東帝汶   |
 > | 柯克群島     | 馬約特島     | 多哥   |
 > | 吉布地     | 密克羅尼西亞     | 托克勞群島   |
@@ -83,7 +83,7 @@ ms.locfileid: "73653831"
 > | 赤道幾內亞     | 莫三比克     | 土克斯及開科斯群島   |
 > | 厄利垂亞     | 緬甸文     | 吐瓦魯   |
 > | 福克蘭群島     | 諾魯     | 美國外島   |
-> | 法屬圭亞那     | 新喀里多尼亞群島領土     | 萬那杜   |
+> | 法屬圭亞那     | 新喀里多尼亞群島     | 萬那杜   |
 > | 法屬玻里尼西亞     | 尼日     | 梵蒂岡   |
 > | 法屬南半球領土     | 紐威島     | 瓦利斯及福杜納   |
 > | 加彭     | 諾福克島     | 葉門   |
@@ -98,11 +98,11 @@ ms.locfileid: "73653831"
 
 2. 在 [**客戶**] 頁面上，尋找想要購買 Azure 保留的客戶，然後選取向下箭號以展開客戶的資料列。  
 
-3. 選取 [新增產品]，然後選取 [Azure]。 
+3. 選取 **\[新增產品\]** ，然後選取 **\[Azure\]** 。 
 
     a. 從 [區段] 清單中選擇客戶的市場區段。
 
-    b。 從 [產品**類型**] 清單中選擇 [**保留**]。
+    b. 從 [產品**類型**] 清單中選擇 [**保留**]。
 
     c. 從 [保留類型] 清單中選擇客戶想要的保留類型。
 

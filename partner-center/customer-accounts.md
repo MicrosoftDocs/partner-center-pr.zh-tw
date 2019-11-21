@@ -1,20 +1,20 @@
 ---
 title: 客戶帳戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 身為經銷商合作夥伴，您應該要在合作夥伴中心中為每個客戶建立帳戶。 客戶帳戶將會是您銷售訂閱、帳單及提供支援的起點。
+Description: 在合作夥伴中心尋找轉售商合作夥伴的資源。 這包括需要在您銷售訂用帳戶、帳單或供應專案支援之前建立客戶帳戶。
 ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e933cb42187589f44846ca68aee0f2f7afa9e34
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40fb278c360b7cbedf779d3528e85a5a88a19544
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653475"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253571"
 ---
 # <a name="customer-accounts"></a>客戶帳戶
 

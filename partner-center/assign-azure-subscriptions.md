@@ -1,22 +1,22 @@
 ---
 title: 在合作夥伴中心指派 Azure 訂閱 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 現在您可以在合作夥伴中心指派 Azure 訂閱給您的客戶。您也可以讓客戶自行管理訂閱
+description: 瞭解如何在合作夥伴中心將 Azure 訂用帳戶指派給您的客戶，以及如何讓客戶管理自己的訂用帳戶。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure, Azure 訂閱, 訂閱, 指派訂閱, 管理 azure 訂閱
 ms.localizationpriority: medium
-ms.openlocfilehash: f9ff42dcc6561c6775232d3a4cc54d749ee6ec45
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 5e22cbaa71ce724a69a8c05718bf1e6a4a71d1e7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654388"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252918"
 ---
-# <a name="assign-azure-subscriptions-in-partner-center"></a>在合作夥伴中心指派 Azure 訂閱
+# <a name="assign-azure-subscriptions-in-partner-center"></a>在合作夥伴中心指派 Azure 訂用帳戶
 
 **適用於**
 
@@ -43,7 +43,7 @@ ms.locfileid: "73654388"
 1.  若要開啟客戶的 Azure 入口網站，請在客戶清單中展開客戶的清單，或選取客戶的名稱，然後選取 [ **Microsoft Azure 管理入口網站**]。
     
 > [!NOTE]  
-> 如果系統提示您登入 Azure 入口網站，表示您可能沒有委派系統管理員權限。 選取 **\[要求建立關係\]** 以邀請客戶將您列名為他們的「記錄可查夥伴」。 客戶接受您的邀請後，系統就會自動將委派的管理員權限授與您。 
+> 如果系統提示您登入 Azure 入口網站，表示您可能沒有委派系統管理員權限。 選取 \[要求建立關係\] 以邀請客戶將您列名為他們的「記錄可查夥伴」。 客戶接受您的邀請後，系統就會自動將委派的管理員權限授與您。 
 
 2.  在 Azure 入口網站中，開啟客戶的訂用帳戶清單，然後選取客戶的 Azure 訂用帳戶。
 

@@ -1,20 +1,20 @@
 ---
 title: 使用 Windows Autopilot 設定檔自訂裝置的全新體驗 |合作夥伴中心
-description: 使用 Autopilot 設定檔預先設定裝置的全新體驗。
 ms.topic: article
-ms.date: 03/18/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
+description: 瞭解如何在您將裝置傳遞給客戶之前，使用 Autopilot 設定檔自訂或預先設定新裝置的全新體驗。
 author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot，windows autopilot，microsoft autopilot，零接觸部署，oobe，登入畫面，現成的
 ms.localizationpriority: medium
-ms.openlocfilehash: 6ad6482c68da6c964414be3b7f036835934f049e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653906"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253325"
 ---
 # <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>使用 Windows Autopilot 設定檔自訂裝置的全新體驗
 
@@ -102,7 +102,7 @@ ms.locfileid: "73653906"
 
     a.  將裝置連線到網路，並將它開啟。
 
-    b。  確認是否會顯示適當的 OOBE 畫面 (如果有的話)。
+    b.  確認是否會顯示適當的 OOBE 畫面 (如果有的話)。
 
     c.  當 OOBE 程式停止時，將裝置重設為其原廠預設值，為新的使用者準備它。
 

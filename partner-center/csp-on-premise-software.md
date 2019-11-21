@@ -1,25 +1,25 @@
 ---
 title: 透過雲端解決方案提供者銷售內部部署軟體 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 透過雲端解決方案提供者銷售內部部署軟體。
+description: 瞭解 CSP 方案中的合作夥伴如何代表合作夥伴中心的客戶購買、管理、銷售和取消內部部署軟體訂閱。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 雲端解決方案提供者, CSP, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 過雲端解決方案提供者銷售, 直接合作夥伴, 間接雲端解決方案提供者合作夥伴, 間接雲端解決方案提供者經銷商, 直接雲端解決方案提供者, 間接雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 散發者, 雲端解決方案提供者計畫
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 07d242661e2769d54b2e36beb091d05c74cabd5d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 4993ebbb38ad4e04a65004ba6542701c525790ae
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653523"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253535"
 ---
 # <a name="sell-on-premise-software-through-csp"></a>透過雲端解決方案提供者銷售內部部署軟體
 
-雲端解決方案提供者中的內部部署軟體引進雲端焦點計畫中的內部部署軟體，藉以支援順暢轉換到雲端。  這個新的供應專案可協助將增值合作夥伴帶入每個購買案例，因為它們提供單一平臺來處理所有的 Microsoft 產品。 身為雲端解決方案提供者，現在除了 Open、EA 以及目前使用的其他計畫，您還可以透過合作夥伴中心銷售內部部署軟體。 CSP 中的內部部署軟體是新的銷售計畫，並不是用來取代任何 Microsoft 其他大量授權方案。 
+雲端解決方案提供者中的內部部署軟體引進雲端焦點計畫中的內部部署軟體，藉以支援順暢轉換到雲端。  這個新服務提供單一平台來交易所有 Microsoft 產品，因此可將加值型合作夥伴帶往每個購買案例。 身為雲端解決方案提供者，現在除了 Open、EA 以及目前使用的其他計畫，您還可以透過合作夥伴中心銷售內部部署軟體。 CSP 中的內部部署軟體是新的銷售計畫，並不是用來取代任何 Microsoft 其他大量授權方案。 
  
 雖然使用內部部署軟體授權選項來確保整體客戶價值最高，但我們也讓商務模型成為合作夥伴易記的可能性。 雲端解決方案提供者中內部部署軟體的直接授權表示成本可預測性以及簡化銷售流程。 這個新的商業模型可讓您為客戶輕鬆採購、管理及定價內部部署軟體，讓您將焦點放在運用 IT 管理加值型解決方案的擴展產品組合來贏得業務。 
 

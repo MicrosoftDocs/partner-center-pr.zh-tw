@@ -1,20 +1,20 @@
 ---
 title: 客戶訂閱 |合作夥伴中心
 ms.topic: article
-ms.date: 03/01/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 合作夥伴可以透過合作夥伴中心將訂閱銷售給客戶並管理它們。
+description: 瞭解 CSP 方案中的合作夥伴如何銷售客戶的訂用帳戶，並透過合作夥伴中心來管理。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 訂用帳戶，指派授權，授權，客戶滿意度，Azure 訂用帳戶
 ms.localizationpriority: medium
-ms.openlocfilehash: 6a795eb78e8d8a5e346b5c47eaacf0e5b978c8ff
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653440"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253503"
 ---
 # <a name="customer-subscriptions"></a>客戶訂閱
 

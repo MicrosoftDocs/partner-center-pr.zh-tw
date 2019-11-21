@@ -1,21 +1,21 @@
 ---
 title: 在 CSP 中與間接經銷商建立合作關係 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/29/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 做為間接提供者或代理商，您可以與間接經銷商合夥，以擴展您的觸及範圍。
+description: 身為間接供應商或散發者，請瞭解如何與間接轉銷商合作來擴展。 這包括您可以在合作夥伴中心執行的工作。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ed3cec1599db6af6a4d82243695fe8da9f2fbd2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653334"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253683"
 ---
-# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商成為合作夥伴
 
 在複雜與快速變更的技術市場中，客戶需要有技術解決方案可提供的競爭優勢。 在這種市場氣象，合作夥伴投入合作夥伴對合作夥伴業務，以擴充供應項目並讓客戶執行更多是合理的。
 
@@ -30,7 +30,7 @@ ms.locfileid: "73653334"
 -   指定間接經銷商以管理特定客戶和訂閱 
 -   管理您與 Microsoft、客戶和間接經銷商的關係，全都在一個地方
 
-如需 CSP 間接模型的詳細資訊，請參閱 [Microsoft 合作夥伴網路網站]( https://partner.microsoft.com)上的[探索間接模型](https://partner.microsoft.com/cloud-solution-provider/indirect)。 
+如需 CSP 間接模型的詳細資訊，請參閱 [Microsoft 合作夥伴網路網站](https://partner.microsoft.com/cloud-solution-provider/indirect)上的[探索間接模型]( https://partner.microsoft.com)。 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>合作夥伴中心的間接提供者工作
 

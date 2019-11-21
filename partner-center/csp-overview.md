@@ -1,26 +1,27 @@
 ---
 title: 雲端解決方案提供者計畫 - 銷售隨選雲端解決方案 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 雲端解決方案提供者計畫可協助透過新客戶與新專業拓展您的企業。
+description: 深入瞭解雲端解決方案提供者方案中的優點和不同模型，以協助您的企業隨著新客戶和新的專長成長。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, CSP, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 過雲端解決方案提供者銷售, 直接合作夥伴, 間接雲端解決方案提供者合作夥伴, 間接雲端解決方案提供者經銷商, 直接雲端解決方案提供者, 間接雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 散發者, 雲端解決方案提供者計畫
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bcbbc33c4992d2cf4500438c2a2340cfee23060
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653521"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252833"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>雲端解決方案提供者計畫 - 銷售炙手可熱的雲端解決方案 
 
 **適用於**
 
--  合作夥伴中心
+- 合作夥伴中心
+- 雲端解決方案提供者方案中的合作夥伴
 
 雲端解決方案提供者方案（CSP）可協助您超越轉售授權，使其更牽涉于客戶的業務。
  

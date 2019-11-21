@@ -1,19 +1,19 @@
 ---
 title: Office 365 政府版 GCC 的合作夥伴和客戶資格條件 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 驗證適用於雲端解決方案提供者的 Office 365 政府版 GCC 之合作夥伴和客戶的程序。
+description: 瞭解直接帳單合作夥伴（直接轉銷商、間接提供者）的步驟，以驗證適用于 CSP 的 Office 365 政府版 GCC 的合作夥伴和客戶。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: ba7bf7c788e6dc90f68b7f46e5105be60c2c99ca
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653544"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253528"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>適用於雲端解決方案提供者的 Office 365 政府版 GCC 的合作夥伴和客戶資格條件
 

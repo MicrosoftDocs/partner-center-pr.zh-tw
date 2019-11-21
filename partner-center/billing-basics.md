@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 基本計費案例的資訊，以及授權型和以使用量為基礎的計費差異
+Description: 瞭解合作夥伴中心的 Azure 訂用帳戶和保留的基本計費案例，以及授權型和以使用量為基礎的計費差異。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 13c2ecd5efcd3b2917a98b218c568b080a2a7833
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 2087b75419e0f5235e1efcc67ecdd8f203f382c1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653752"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253205"
 ---
 # <a name="billing-overview"></a>計費總覽
 
@@ -50,7 +50,7 @@ ms.locfileid: "73653752"
 
 您可以在合作夥伴中心的 \[帳務\] 頁面，檢視和下載您的發票和對帳檔案。 請注意，每月發票於您所選帳單日期的 4 天內，可在合作夥伴中心中查看。
 
-## <a name="payment-terms"></a>付款期限
+## <a name="payment-terms"></a>付款條款
 
 付款期限為淨60天。 發票必須以發票到期日（在計費日期之後的60天）支付，否則您的帳戶將會滯納，這可能會影響您在 CSP 中的註冊。 當您支付過去的到期金額時，可以重新取得已暫停帳戶的完整功能。
 

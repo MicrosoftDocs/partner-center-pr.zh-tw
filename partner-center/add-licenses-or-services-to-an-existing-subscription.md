@@ -1,21 +1,21 @@
 ---
 title: 將授權或服務新增到現有的訂閱 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 如果您的客戶需要的授權數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。
+description: 瞭解如何升級或修改客戶的訂用帳戶，例如新增更多授權或基座，或移至其他服務的不同版本。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權
 ms.localizationpriority: medium
-ms.openlocfilehash: 9998393608733fa1a69390873908a76e0500c118
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654371"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253134"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>將授權或服務新增到現有的訂閱
 
@@ -37,7 +37,7 @@ ms.locfileid: "73654371"
 </colgroup>
 <thead>
 <tr class="header">
-<th>優惠供應</th>
+<th>產品</th>
 <th>可能的升級</th>
 </tr>
 </thead>

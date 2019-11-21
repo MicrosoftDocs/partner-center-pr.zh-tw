@@ -1,21 +1,21 @@
 ---
 title: 為客戶帳戶建立多位使用者 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 您可以透過將資料檔案 (以逗號分隔值的檔案格式 (.csv)) 上傳至合作夥伴中心，來一次新增多位使用者至客戶帳戶。
+description: 以逗點分隔值檔案格式（.csv）將資料檔案上傳至合作夥伴中心，以瞭解如何一次將多個使用者新增至客戶的帳戶。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 大量上傳, 新增多個使用者至客戶的帳戶, 新增客戶使用者, 大量上傳客戶使用者, 客戶帳戶, 客戶使用者, 使用者
 ms.localizationpriority: medium
-ms.openlocfilehash: 4062c36d9f5d394d9d25eb67265784d2a5b301cf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 5c9de7ed78a0494790b447d1755d5eef70a89cca
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653249"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253183"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>將多個使用者新增到客戶帳戶
 
@@ -52,9 +52,9 @@ ms.locfileid: "73653249"
 ### <a href="" id="createmultipleuseraccounts"></a>建立多個使用者帳戶
 
 <a href="" id="creatingtheaccounts"></a>
-1.  建立包含上述資料並以逗號分隔值 (.csv) 的資料檔案。 儲存檔案以便您在之後的步驟中瀏覽該檔案。
+1.  建立包含上述資料的逗號分隔值 (.csv) 資料檔案。 儲存檔案以便您在之後的步驟中瀏覽該檔案。
 2.  從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]，然後從清單中選擇客戶。
-3.  選取 **\[上傳使用者\]** 。
+3.  選取 \[上傳使用者\]。
 4.  在 **\[上傳使用者資訊\]** 底下，選取 **\[瀏覽\]** 。
 5.  在檔案選取器中，選取您的資料檔案，然後選取 **\[開啟\]** 。
 6.  選取 **\[驗證\]** 。
@@ -62,7 +62,7 @@ ms.locfileid: "73653249"
     **注意**  大部分的帳戶建立錯誤是由資料檔案問題所造成，包括遺漏資訊、格式不正確或重複的電子郵件地址，或檔案中的記錄太多。
 
 7.  合作夥伴中心驗證檔案之後，請選取新使用者的地理**位置**。
-8.  選取 **\[儲存\]** 。
+8.  選取 \[儲存\]。
 9.  下載使用者的暫時密碼資訊。
 
 **重要：** 請務必立即下載包含暫時密碼的檔案，因為您無法在之後執行此作業。 新的使用者必須他們新帳戶的暫時密碼登入他們的新帳戶。
