@@ -1,20 +1,20 @@
 ---
 title: 銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 雲端解決方案提供者計畫中的 Microsoft 合作夥伴可以銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱給符合資格的客戶。 適用于 CSP 的 Office 365 政府版 GCC 是專為美國政府和政府承包商設計的一套雲端生產力服務。
+description: Learn the steps and requirements to sell subscriptions to Office 365 Government GCC for CSP to qualified United States government customers or contractors.
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 193cc10b02e0bee75799e5c64e59e3a3abe04a30
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: ce13e443e8165d5965ea7eacd0ccd5bfdb8a65a5
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653552"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252381"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱給符合資格的客戶
 
@@ -34,7 +34,7 @@ ms.locfileid: "73653552"
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱
 
-當您的公司獲准銷售適用于 CSP 供應專案的 Office 365 政府版 GCC 之後，您就可以開始使用合作夥伴中心向客戶銷售。 若要瞭解如何使用合作夥伴中心來銷售訂用帳戶，請參閱這些資源： 
+After your company has been approved to sell Office 365 Government GCC for CSP offers, you can start selling to customers using Partner Center. Refer to these resources to learn how to use Partner Center to sell subscriptions: 
 
 -   如需銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱的逐步指南，請移至[這裡](https://go.microsoft.com/fwlink/?linkid=2007323)。  
 
@@ -45,8 +45,8 @@ ms.locfileid: "73653552"
 
 產品資源：
 
-- [Office 365 政府服務描述](https://technet.microsoft.com/library/mt774581.aspx)
+- [Office 365 Government Service Description](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
-- [Microsoft 信任中心](https://www.microsoft.com/TrustCenter/)
-- [Microsoft 服務信任入口網站](https://aka.ms/STP)
+- [Microsoft Trust Center](https://www.microsoft.com/TrustCenter/)
+- [Microsoft Service Trust Portal](https://aka.ms/STP)
 

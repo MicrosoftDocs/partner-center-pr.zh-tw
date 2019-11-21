@@ -1,20 +1,20 @@
 ---
 title: 自訂型錄 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 型錄會列出合作夥伴可以銷售的所有 Microsoft 產品和附加元件。
+description: Learn how to customize the Microsoft catalog to make it easier to access the partner offers or products your organization most uses.
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: bc06bf037811aa9d572febbe2bb88e652ee6f6b7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 65770b397e613c47cb01f86d97c47e6eb9bf9dac
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653412"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252120"
 ---
 # <a name="customize-the-catalog"></a>自訂目錄
 
@@ -28,7 +28,7 @@ ms.locfileid: "73653412"
 
 **自訂型錄**
 
-1.  前往 合作夥伴中心 功能表 &gt;**銷售**&gt;**目錄**。
+1.  Go to the Partner Center menu &gt; **Sell** &gt; **Catalog**.
 2.  選擇最多五個產品以顯示於型錄頂端。
 
  

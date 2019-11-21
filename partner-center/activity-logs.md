@@ -1,21 +1,21 @@
 ---
 title: 檢視客戶活動記錄 | 合作夥伴中心
 ms.topic: article
-ms.date: 08/23/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 活動記錄能提供客戶的交易和夥伴管理動作的相關資訊。
+description: Learn how to view and export activity logs to gain insight on customer account transactions and other customer-related partner management activities.
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions, 活動記錄, 訂用帳戶, 付款, 帳單, 交易
 ms.localizationpriority: medium
-ms.openlocfilehash: 370844941c65dfd2018cb8958525192e1c04d25b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b9c1c2e6cc97fc923707ba8c2cbab42117c9c259
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653362"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252710"
 ---
 # <a name="view-customer-activity-logs"></a>檢視客戶活動記錄
 

@@ -1,20 +1,20 @@
 ---
 title: 提高採用率與滿意度 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 我們的合作夥伴使用許多標準來衡量事業是否有成長，以及投資的方向。 合作夥伴中心提供的資料有助於瞭解您的客戶是否使用其購買的授權及使用方式。
+description: Learn how to use metrics in Partner Center to see whether your business is growing, how customers are using their licenses, and where to focus investment.
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: b143a97afb65b1444831152e40eaccb90580dc05
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 3acd6e259487946a7a1005ec9fd2c5d74160bc99
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653343"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253694"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
@@ -32,13 +32,13 @@ ms.locfileid: "73653343"
 ## <a name="find-license-and-user-data"></a>尋找授權和使用者資料
 
 
-**適用于單一客戶**
+**For a single customer**
 
--   從**合作夥伴中心**選取 [**客戶**]，選擇客戶，然後選取 [ **customer insights**]。
+-   Select **Customers** from the **Partner Center**, choose a customer, then select **Customer insights**.
 
-**跨您的組合**
+**Across your portfolio**
 
-1.  在**合作夥伴中心**上，選取 [**分析**]。
+1.  On the **Partner Center**, select **Analyze**.
 2.  選取 **\[匯出\]** 來下載整個客戶集的部署與使用量資料
 
 詞彙︰
@@ -64,7 +64,7 @@ ms.locfileid: "73653343"
 ## <a name="next-steps"></a>後續步驟
 
 
-如果您有大量的協助和 How-to 問題，您帳戶的採用號碼很低，或者您要尋找向上銷售的機會，您可以考慮提供訓練課程。 藉由教客戶如何更有效地使用所購買的雲端解決方案軟體，您更有可能會發現生產力和滿意度增加，而且支援需求也會降低。
+If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you're looking for upsell opportunities, you may want to consider offering training courses. By teaching your customers how to better use the cloud solution software they have purchased, you're more likely to see an increase in productivity and satisfaction, and a decrease in support needs.
 
 <table>
 <colgroup>
@@ -72,14 +72,14 @@ ms.locfileid: "73653343"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>問題：</strong>使用者採用率很低，而且許多授權&#39;不會被使用。</p>
-<p><strong>考量事項：</strong>客戶可能不了解軟體可提供的價值。 他們需要協助構思他們可以將其納入一天的方式，以簡化他們已經在執行的工作，或實現新的產能。</p>
+<td><p><strong>Problem:</strong> The user adoption rate is low, and many licenses aren&#39;t being used.</p>
+<p><strong>考量事項：</strong>客戶可能不了解軟體可提供的價值。 They need help envisioning the ways they could incorporate it into their day to simplify tasks that they're already doing, or to enable new kinds of productivity.</p>
 <p><strong>嘗試事項：</strong>案例研究、與特定案例有關的使用者見證、教學課程的部落格或影片。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>問題：</strong>有大量支援電話要求取得說明和使用方法。</p>
 <p><strong>考慮事項：</strong>客戶可能是軟體、該產品版本或其從事之工作的新手。</p>
-<p><strong>應嘗試的動作：</strong>您可以使用一套雙重策略來提供訓練（親自或線上）來提高客戶&#39;的整體專長，同時也能推廣一些可供客戶使用的自助選項。</p>
+<p><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer&#39;s overall expertise, while also promoting some of the self-service options available to customers.</p>
 <p>您可能會想要重新設計您的支援網站，使其中除了包含您的支援連絡資訊外，也包含<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客戶自我支援</a>主題中所述的自助服務選項。</p></td>
 </tr>
 </tbody>
