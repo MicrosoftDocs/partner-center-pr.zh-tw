@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴中心的資料與分析 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Learn how to use analytics in Partner Center to better understand your business and how your customers are using the licenses you've purchased.
@@ -9,13 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 資訊, 分析, 資料分析, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: 4c2f970a5dc96f9e49da6ca1fb2a05cd6d224e61
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252266"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384839"
 ---
+# <a name="get-data-and-analyze-your-business"></a>取得資料並分析您的業務
+
 **適用於**
 
 - 合作夥伴中心
@@ -25,8 +27,6 @@ ms.locfileid: "74252266"
 **Appropriate role**
 
 - MPN 合作夥伴系統管理員
-
-# <a name="get-data-and-analyze-your-business"></a>取得資料並分析您的業務
 
 規劃拓展雲端解決方案提供者業務的方式包含了解您的客戶如何使用他們的 Microsoft 產品。 合作夥伴中心有數個收集資料的選項供您選擇，關於您的業務以及關於客戶是否在使用他們所購買的授權和使用方式的這些資料，您都可以收集。 如果您採用雲端解決方案提供者間接模型，就有機會可以安裝和使用適用於 Power BI 的合作夥伴中心分析應用程式來收集額外的資料。
 

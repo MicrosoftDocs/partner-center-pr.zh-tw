@@ -1,184 +1,36 @@
 ---
-title: 了解合作夥伴中心的計費類型 | 合作夥伴中心
+title: Types of billing in Partner Center | Partner Center
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解您可能會在合作夥伴中心看到的不同計費類型、計費週期和計費日期。
+Description: Learn about different billing types, billing periods, and billing dates you might see in Partner Center.
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 計費, 付款, 訂單, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 539d3150e571c33114feee2d316611d7ac324f24
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: b9f5e48ca5cc127427eab7d46eb21071baa3403c
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253196"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384858"
 ---
-# <a name="understanding-the-types-of-billing-in-partner-center"></a>了解合作夥伴中心的帳單類型
+# <a name="types-of-billing-in-partner-center"></a>Types of billing in Partner Center
 
-**適用於**
+適用於：
 
--  合作夥伴中心
--  雲端解決方案提供者方案中的合作夥伴
+- 合作夥伴中心
+- 雲端解決方案提供者方案中的合作夥伴
 
-根據您為客戶購買的產品類型而定，您可能會有不同的計費週期，並在相同月份的不同日期計費。 本文說明自 2019 年 3 月 1 日起的變更，以及這些變更對您有何影響。
+You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers. The types of billing are as follows:
 
-## <a name="billing-for-recurring-charges"></a>週期性費用的計費
+- [**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).
+- [**Usage-based billing**](usage-based-billing.md), where you're billed for monthly usage rates.
+- [**Billing for one-time and select recurring charges**](one-time-and-recurring-billing.md), where you pay in advance for a preset term for Microsoft and third-party ISV products.
+- Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).
 
-以授權為基礎和以使用量為基礎的訂用帳戶的週期性費用計費體驗不會改變。 我們會繼續在您選取作為帳單日期的當月日期向您收費，而您的計費期間將繼續為該日期之前的月份。 如果您已選取當月第15天的帳單日期，則會向您收取從一個日曆月份15日到下一個日曆月份之第14個的所有活動費用。 發票和對帳檔案會在您的計費日期之後的 2-4 天正式發出。
+根據您為客戶購買的產品類型而定，您可能會有不同的計費週期，並在相同月份的不同日期計費。
 
-如先前所示，我們會以您所在國家/地區的貨幣為您收取這些產品的費用，而不論您銷售產品的客戶位置為何。
-
-## <a name="billing-for-one-time-and-select-recurring-charges"></a>一次性和所選週期性費用的計費
-
-自 2019 年 3 月 1 日起，我們針對 Microsoft 和第三方 ISV 產品的週期性和一次性費用，引進了新的計費體驗。
-
-針對這些產品，計費週期會從日曆月份的第一天開始，並在日曆月份的最後一天結束。 我們會讓您的發票在下個月的第8天提供。 
-
-換句話說，您在 2019 年 5 月 1 日到 5 月 31 日間所進行的任何交易，將會出現在 6 月 8 日的發票上。 您在 2019 年 6 月 1 日到 6 月 30 日間所進行的任何交易，將會出現在 7 月 8 日的發票上。 同一張發票上可能會針對週期性和一次性購買向您收費。 
-
-您也可以視需要檢查帳戶餘額/帳單 (例如，在 5 月 1 日到 6 月 7 日之間)，並查看最新的帳戶活動，而不需等待發票。 請注意，當我們在 8 號張貼您的帳單時，帳單會包含稅金和任何其他適用的費用和信用額度，因此最終金額可能會與您在計費週期所看到的金額不同。 
-
-您將以現在相同的方式存取您的發票，不論是在合作夥伴中心或透過 API。 它們會在當月第8天的午夜之前出現。 
-
-|**計費體驗**|**產品類型**|**帳單日期**|**計費週期**|**計費貨幣**|**目前的活動可供使用嗎？**|
-|:----------------|:--------------|:--------------|:--------------|:--------------|:--------------|
-|以授權為基礎和以使用量為基礎之訂用帳戶的週期性費用 |[線上服務目錄](https://partner.microsoft.com/commerce/preferredoffers/list)中的所有產品。 範例包括 Office 365、Microsoft 365、Azure Active Directory、Azure (隨用隨付)、Dynamics 365、PowerBI Pro |您建立合作夥伴中心帳戶時選取的日期 |計費日期的前一個月。 |您所在國家/地區的貨幣。 例如，如果您的公司位於英國，我們會以英鎊（GBP）向您收費。 如果您的公司位於印度，我們會在印度盧比（INR）中向您收費。  |不可以 |
-|Microsoft 和第三方 ISV 產品的週期性和一次性費用 |Microsoft 和第三方 ISV 提供的所有 SaaS 訂用帳戶、Azure 保留和軟體 (永久和訂用帳戶型) 產品。 查看 [Marketplace](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)中的可用產品。 範例包括 SUSE Linux 軟體 (軟體訂用帳戶)、Windows Server 2019 Essentials (永久軟體)、Azure ISV SaaS 產品訂用帳戶。 |每個月的 8 號 |從每個日曆月份的第一天到最後一天 |您客戶所在國家/地區的貨幣。 這表示您將會收到個別的發票和對帳檔案，以每個客戶在計費期間銷售的國家/地區貨幣。 |是 |
-
-## <a name="billing-scenarios-for-one-time-and-recurring-purchases"></a>一次性和週期性購買的計費案例
-### <a name="scenario-1---purchase-a-subscription-and-then-add-a-seat-on-the-same-day"></a>案例 1-購買訂用帳戶，然後在同一天新增基座
-
-在案例 1，您在 6 月 11 日以 $4 美元的單價購買一個訂用帳戶。 同一天稍晚，您以相同的價格購買另一個相同的訂用帳戶。 
-
-對帳檔案會包含下列內容： 
--   $4 年6月10日至7月9日的服務帳單。 
--   服務期間的 $-4.00 按比例計費的 rebill （6月11日）。 這是您擁有 1 個授權的期間。 計算 = (每月價格/服務期間總天數) x 依比例計算的服務期間天數 x 授權數目 = (4/30) x 30 x 1 = 4.00。
--   $8.00 年6月10日至7月9日的服務期間 rebill 按比例計算。 這是您擁有 2 個授權的期間。 計算 = (4/30) x 30 x 2 = 8.00。
-
-|**購買日期**   |**收費開始**  |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019      |6/10/2019   |7/09/2019         |$4                |1                 |$4            |新的         |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$4       |addQuantity           |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$8         |addQuantity           |
-
-### <a name="scenario-2---purchase-a-subscription-and-then-add-more-later"></a>案例 2-購買訂用帳戶，之後再新增更多
-
-在案例 2，您在 6 月 11 日以單價 $4 美元購買一個訂用帳戶，而在 6 月 12 日您以相同價格針對相同產品購買另一個訂用帳戶。 
-
-對帳檔案會包含下列內容： 
--   $4 年6月10日至7月9日的服務帳單。 
--   服務期間的 $-3.87 按比例計費 rebill，6月12日。 這是您擁有 1 個授權的期間。 計算 = (每月價格/服務期間總天數) x 依比例計算的服務期間天數 x 授權數目 = (4/30) x 29 x 1 = 3.87。
--   $7.74 年6月12日至7月9日，服務期間的 rebill 按比例計費。 這是您擁有 2 個授權的期間。 計算 = (4/30) x 29 x 2 = 7.74。
-
-|**購買日期**   |**收費開始**  |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019 (您有一份授權)     |6/10/2019   |7/09/2019         |$4         |1        |$4            |新的         |
-|6/12/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$3.87       |addQuantity           |
-|6/12/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$7.74       |addQuantity           |
-
-### <a name="scenario-3---purchase-a-subscription-and-then-remove-a-seat-on-the-same-day"></a>案例 3-購買訂用帳戶，然後移除同一天的基座
-
-在案例 3，您在 6 月 11 日以 $4 美元的單價針對相同產品購買兩個訂用帳戶。 同一天稍晚，您移除其中一個基座。  
-
-對帳檔案會包含下列內容： 
--   $8 年6月10日至7月9日服務期間的兩份授權帳單。 
--   服務期間的 $-8.00 按比例計費的 rebill （6月11日）。 這是您擁有 2 個授權的期間。 計算 = (每月價格/服務期間總天數) x 依比例計算的服務期間天數 x 授權數目 = (4/30) x 30 x 2 = 8.00。
--   $4.00 年6月11日至7月9日，服務期間的按比例 rebill。 這是您擁有 1 個授權的期間。 計算 = (4/30) x 30 x 1 = 4.00。
-
-|**購買日期**   |**收費開始**  |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019      |6/10/2019   |7/09/2019         |$4                |2                 |$8            |新的         |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$8       |removeQuantity           |
-|6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 1      |$4         |removeQuantity           |
-
-### <a name="scenario-4---purchase-a-subscription-and-then-remove-seats-later"></a>案例 4-購買訂用帳戶，然後在稍後移除基座
-
-在案例 4，您在 6 月 11 日以單價 $4 美元購買 2 個訂用帳戶，並在 6 月 12 日移除其中一個基座。 
-
-對帳檔案會包含下列內容： 
--   $8 年6月10日至7月9日的服務帳單。 
--   服務期間的 $-7.74 按比例計費 rebill，6月12日。 這是您擁有 2 個授權的期間。 計算 = (每月價格/服務期間總天數) x 依比例計算的服務期間天數 x 授權數目 = (4/30) x 29 x 2 = 7.74。
--   $3.87 年6月12日至7月9日，服務期間的 rebill 按比例計費。 這是您擁有 1 個授權的期間。 計算 = (4/30) x 29 x 1 = 3.87。
-
-|**購買日期**   |**收費開始**  |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019 (您有 2 份授權)     |6/10/2019   |7/09/2019         |$4         |2        |$8       |新的       |
-|6/12/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$7.74       |removeQuantity           |
-|6/12/2019 (您有 1 份授權)    | 6/10/2019    |7/09/2019   |$4    |1      |$3.87    |removeQuantity |
-
-## <a name="billing-scenarios-for-free-trial-license-based-saas-transactions"></a>以授權為基礎的免費試用 SaaS 交易計費案例
-### <a name="scenario-5---renew-a-license-based-free-trial-saas-subscription-to-a-paid-subscription-at-the-end-of-the-free-trial-period"></a>案例 5-在免費試用期間結束時，將以授權為基礎的免費試用 SaaS 訂用帳戶更新為付費訂用帳戶
-
-在此案例中，您在 6 月 10 日購買以授權為基礎的免費試用 SaaS (軟體即服務) 訂用帳戶，並在免費試用期結束時自動續約為付費的訂用帳戶。 
-
-對帳檔案會包含下列內容： 
-- $0 年6月10日至7月9日的服務帳單 
-- $2 年7月10日至8月9日的服務帳單
-
-|**購買日期**   |**收費開始**  |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/10/2019 (您有 1 份授權)      |6/10/2019   |7/09/2019         |$0                |1                 |$0            |新的         |
-|7/10/2019 (您有 1 份授權)     | 7/10/2019    |8/09/2019        |$2        |1        | $2       |續約           |
-
-### <a name="scenario-6---cancel-a-license-based-free-trial-saas-subscription"></a>案例 6-取消以授權為基礎的免費試用 SaaS 訂用帳戶
-
-您可以隨時取消以授權為基礎的免費試用 SaaS (軟體即服務) 訂用帳戶，即使在免費試用期期內也可以。 
-
-在此案例中，您在 7 月 1 日購買以授權為基礎的免費試用 SaaS 訂用帳戶，然後立即在合作夥伴中心將其取消。 
-
-對帳檔案會包含下列內容： 
-- $0 年6月10日至7月9日針對新購買的收費服務
-- $0 年7月10日到7月9日，取消計費
-
-|**購買日期**   |**收費開始**  |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/10/2019 (您有 11 份授權)      |6/10/2019   |7/09/2019         |$0                |11                |$0            |新的         |
-|6/10/2019 (您有零份授權)     | 6/10/2019    |7/09/2019        |$0        |11       | $0       |取消           |
-
-### <a name="scenario-7---convert-a-custom-meter-saas-subscription-from-one-sku-to-another-for-the-same-product-on-the-same-day"></a>案例 7-針對相同的產品，將自訂計量 SaaS 訂用帳戶從一個 SKU 轉換成另一個 SKU
-
-在此案例中，您在購買產品之下的一個 SKU (銀級)，並在同一天將它轉換成此產品之下的另一個可用 SKU (銅級)。 
-
-對帳檔案會包含下列內容： 
-- $20 年6月10日至2019年7月 2020 9 日，服務期間的銀帳單
-- $20 年6月10日（2019-7 月9日2020）的銀按比例 rebill
-- $10 年6月10日至2019年7月9日2020，服務期間的銅級計費
-
-|**購買日期**   |**SKU**   |**收費開始**   |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|6/10/2019 (您有 1 份授權) |銀會員     |6/10/2019   |6/10/2019         |$20        |1         |$20            |新的      |
-|6/10/2019 (您有 1 份授權) |銀會員    | 6/10/2019    |6/10/2019        |$20        |1       | $-20       |轉換           |
-|6/10/2019 (您有 1 份授權) |銅級    | 6/10/2019    |6/10/2019        |$10        |1       | $10       |轉換           |
-
-### <a name="scenario-8---purchase-and-cancel-a-custom-meter-saas-subscription-from-the-azure-portal-on-the-same-day"></a>案例 8-在同一天內從 Azure 入口網站購買並取消自訂計量 SaaS 訂用帳戶 
-
-在此案例中，您在 Azure 入口網站上購買一個自訂計量 SaaS 訂用帳戶，然後在同一天取消該訂用帳戶。 
-
-|**購買日期**   |**SKU**   |**收費開始**   |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
-|:------:|:------:|:------:|:------:|:------:|:------:|:-----:|:-----:|
-|6/10/2019 (您有 1 份授權) |銅級     |6/10/2019   |6/10/2019         |$10        |1         |$10            |新的      |
-|6/10/2019 (您有 0 份授權) |銅級    | 6/10/2019    |6/10/2019        |$10        |1       | $-10       |CancelImmediate  |
-
-## <a name="billing-under-the-azure-plan"></a>Azure 方案下的帳單
-
-- **發票日期**：在合作夥伴中心儀表板/API 中，將于第8（UTC 午夜）提供發票和對帳檔案。
-
-- **發票計費週期**：發票計費週期會對應到日曆月份，例如 10/1-10/31、11/1-11/30）。
-
-- **收費服務期間**：費用會與日曆月份一致。 例如，如果計費合作夥伴在 10/15 透過 Azure 方案新增 Azure 服務，而客戶在 10/15 開始使用 Azure 服務，則計費合作夥伴會在 11/8 收到 10/15 - 10/31 服務期間客戶使用的發票/對帳檔案。 將于12/8 產生的下個月發票包含服務期間 11/1-11/31 的所有費用。
-
-- **發票付款期限**：淨60天。
-
-- **發票貨幣**：合作夥伴會繼續以客戶的 country's 指派貨幣來計費。 例如，如果計費合作夥伴是在愛爾蘭，而客戶是在英國、挪威和德國，則計費合作夥伴將會收到 GBP、NOK 和 EUR 發票/對帳檔案。
-
-- **合作夥伴獎勵**：從發票月份的結尾支付45天的費用。
-
-如需 Azure 方案的詳細資訊，請參閱：
-
-- [Azure 方案-總覽](azure-plan-get-started.md)
-
-- [Azure 方案-計費](azure-plan-billing.md)
+If you’ve chosen to be billed monthly or if you’ve bought usage-based products that are billed monthly, your monthly billing date is the day of the month you selected when you created your CSP account on Partner Center. After you’ve successfully created your CSP account, Microsoft will send a confirmation email that includes your billing date. Once created, this date cannot be changed.
