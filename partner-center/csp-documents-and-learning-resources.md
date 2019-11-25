@@ -9,13 +9,13 @@ ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp program guides, program guide, partner agreements, customer agreement, price lists, offers, 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 供應項目
-ms.localizationpriority: medium
-ms.openlocfilehash: 6463c7c87773a281f455de9ef00deecc300ac830
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 06bcbea6068a3185f097b5db6b50f30dfd85f7c7
+ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653563"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "74096514"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、合約、價目表和優惠
 
@@ -36,9 +36,9 @@ ms.locfileid: "73653563"
 >[!Note]
 >如果您需要商務信件證明或認證您的身分是雲端解決方案提供者計畫中的合格 Microsoft 合作夥伴，請[連絡支援服務](https://partner.microsoft.com/pcv/servicerequests/create)來取得。
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Microsoft 合作夥伴合約的其他供應專案條款
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Microsoft 合作夥伴合約的其他供應項目條款
 
-[線上服務訂用帳戶和軟體頻道授權補充供應專案條款指南](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[線上服務訂閱和軟體通路授權的補充供應項目條款指南](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
 ## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 合約客戶範本
 
@@ -59,20 +59,20 @@ ms.locfileid: "73653563"
 
 ## <a name="pricing"></a>定價
 
-從您的 [合作夥伴中心] 功能表的 [定價與供應項目] 頁面，下載授權型、用量型和一次性購買的定價詳細資料。
+從您的 [合作夥伴中心]  功能表的 [定價與供應項目]  頁面，下載授權型、用量型和一次性購買的定價詳細資料。
 
-授權型價目表每個月會更新一次，Microsoft 會在新價格生效前 30 天公佈新價格。 授權型服務的範例包括 Office 365、企業行動力套件及 Microsoft Dynamics CRM。 
+授權型價目表每個月會更新一次，Microsoft 會公佈新價格 30 天，新價格才會生效。 授權型服務的範例包括 Office 365、企業行動力套件及 Microsoft Dynamics CRM。 
 
 用量型價格是動態的且會經常變更。 用量型服務的範例包括 Microsoft Azure。
 
 一次性購買定價也是動態的。 一次性購買的範例包括 Microsoft Azure 保留，以及相對應的 Windows Server 和 SQL 軟體訂閱。
 
-如需 Azure Marketplace 供應項目的定價資訊，請從合作夥伴中心的左導覽功能表，移至 **Marketplace**。 選取一個產品來查看關於發行者、SKU 和定價的資訊。 這些 Azure Marketplace 產品的價格可能經常變更。 若要取得所有 Marketplace 產品的最新定價資訊，請選取 [匯出價目表] 來產生包含所有定價資料的試算表。 此資訊每天都會更新，因此您可以依您想要的頻率來查看。
+如需 Azure Marketplace 供應項目的定價資訊，請從合作夥伴中心的左導覽功能表，移至 **Marketplace**。 選取一個產品來查看關於發行者、SKU 和定價的資訊。 這些 Azure Marketplace 產品的價格可能經常變更。 若要取得所有 Marketplace 產品的最新定價資訊，請選取 [匯出價目表]  來產生包含所有定價資料的試算表。 此資訊每天都會更新，因此您可以依您想要的頻率來查看。
 
-## <a name="offers"></a>優惠方案
+## <a name="offers"></a>供應項目
 
-身為 CSP 中的合作夥伴，您可以銷售各種類型的 Microsoft 產品、服務和解決方案，包括 Office 365、企業行動力套件、Microsoft Dynamics 與 Microsoft Azure。 如需有關在這些產品系列中有哪些供應項目可銷售的詳細資訊，請參閱 [定價與方案] 頁面 (從 [合作夥伴中心] 功能表存取) 的 CSP 供應項目矩陣。 本文件每個月會更新一次。
+身為 CSP 中的合作夥伴，您可以銷售各種類型的 Microsoft 產品、服務和解決方案，包括 Office 365、企業行動力套件、Microsoft Dynamics 與 Microsoft Azure。 如需有關在這些產品系列中有哪些供應項目可銷售的詳細資訊，請參閱 [定價與方案]  頁面 (從 [合作夥伴中心]  功能表存取) 的 CSP 供應項目矩陣。 本文件每個月會更新一次。
 
-針對使用 CREST 使用量記錄 API 的 CSP 合作夥伴，Microsoft 也會在 [定價與供應項目] 頁面發佈一份清單，列出 CSP 中的 Azure 服務。
+針對使用 CREST 使用量記錄 API 的 CSP 合作夥伴，Microsoft 也會在 [定價與供應項目]  頁面發佈一份清單，列出 CSP 中的 Azure 服務。
 
-若要了解由獨立軟體廠商 (ISV) 發佈的 Azure Marketplace 供應項目，請從左導覽瀏覽至 [Marketplace] 頁面。 目前只有 SaaS (軟體即服務) 類型的產品是可以從合作夥伴中心購買的。 您必須造訪 Azure 入口網站，才能取得其他類型的 Azure Marketplace 供應專案。
+若要了解由獨立軟體廠商 (ISV) 發佈的 Azure Marketplace 供應項目，請從左導覽瀏覽至 [Marketplace]  頁面。 目前只有 SaaS (軟體即服務) 類型的產品是可以從合作夥伴中心購買的。 您必須造訪 Azure 入口網站才能取得其他類型的 Azure Marketplace 供應項目。
