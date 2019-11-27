@@ -71,7 +71,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 > [!NOTE]  
 > 您將使用者指派給系統管理代理人角色之後，這些使用者就可以存取您在 **\[客戶\]** 頁面上的客戶清單，並[新增客戶](add-a-new-customer.md)。   
 
-1.  登入 Microsoft Azure 管理入口網站： https://portal.azure.us/ 。
+1.  登入 Microsoft Azure 管理入口網站： https://portal.azure.us/。
 
 2.  將系統管理代理人角色指派給組織中的適當使用者。 若要這樣做，您需要將這些使用者新增到內建的 **AdminAgent** 群組。 如需做法詳細資訊，請參閱[在 Azure Active Directory 中管理群組的成員](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)。
  

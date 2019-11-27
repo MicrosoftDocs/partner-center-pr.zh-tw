@@ -1,10 +1,10 @@
 ---
-title: Types of billing in Partner Center | Partner Center
+title: 合作夥伴中心的帳單類型 |合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn about different billing types, billing periods, and billing dates you might see in Partner Center.
+Description: 瞭解您可能會在合作夥伴中心看到的不同計費類型、計費週期和計費日期。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 計費, 付款, 訂單, 對帳檔案, 對帳檔案
@@ -17,20 +17,20 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74384858"
 ---
-# <a name="types-of-billing-in-partner-center"></a>Types of billing in Partner Center
+# <a name="types-of-billing-in-partner-center"></a>合作夥伴中心的帳單類型
 
 適用於：
 
 - 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
-You'll be billed for Partner Center purchases depending on the products, solutions and services you buy on behalf of your customers. The types of billing are as follows:
+根據您代表客戶購買的產品、解決方案和服務而定，會向您收取合作夥伴中心購買費用。 計費的類型如下所示：
 
-- [**License-based billing**](license-based-billing.md), where you're billed per license (not by license usage).
-- [**Usage-based billing**](usage-based-billing.md), where you're billed for monthly usage rates.
-- [**Billing for one-time and select recurring charges**](one-time-and-recurring-billing.md), where you pay in advance for a preset term for Microsoft and third-party ISV products.
-- Billing for license-based SaaS transactions (see [**common billing scenarios for SaaS charges**](common-billing-scenarios-saas.md)).
+- 以[**授權為基礎的帳單**](license-based-billing.md)，您會依授權計費（而不是依授權使用量）。
+- 以[**使用量為基礎的計費**](usage-based-billing.md)，您需支付每月使用量費率。
+- [**一次性計費和選取週期性費用**](one-time-and-recurring-billing.md)，您必須事先支付 Microsoft 和協力廠商 ISV 產品的預設條款。
+- 以授權為基礎的 SaaS 交易計費（請參閱[**SaaS 費用的常見計費案例**](common-billing-scenarios-saas.md)）。
 
 根據您為客戶購買的產品類型而定，您可能會有不同的計費週期，並在相同月份的不同日期計費。
 
-If you’ve chosen to be billed monthly or if you’ve bought usage-based products that are billed monthly, your monthly billing date is the day of the month you selected when you created your CSP account on Partner Center. After you’ve successfully created your CSP account, Microsoft will send a confirmation email that includes your billing date. Once created, this date cannot be changed.
+如果您已選擇按月計費，或您購買按月計費的以使用量為基礎的產品，則每月計費日期就是您在合作夥伴中心建立 CSP 帳戶時所選取的月份日期。 成功建立您的 CSP 帳戶之後，Microsoft 會傳送確認電子郵件，其中包含您的帳單日期。 建立之後，即無法變更此日期。

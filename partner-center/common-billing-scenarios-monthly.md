@@ -1,12 +1,12 @@
 ---
-title: Common monthly billing scenarios | Partner Center
+title: 常見的每月計費案例 |合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: Common scenarios in Partner Center when you use monthly billing (such as adding new subscriptions, changing license quantity, and suspending subscriptions.)
+description: 當您使用每月計費時的常見案例（例如新增訂閱、變更授權數量，以及暫停訂閱）。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, orders, usage, monthly billing, subscriptions, reconciliation file
+Keywords: 計費、付款、訂單、使用量、每月帳單、訂用帳戶、對帳檔案
 ms.localizationpriority: medium
 ms.openlocfilehash: 95a535ecdd20614e8809d6304609b1a678859efc
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389616"
 ---
-# <a name="monthly-billing-scenarios"></a>Monthly billing scenarios
+# <a name="monthly-billing-scenarios"></a>每月計費案例
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable if you use monthly billing in Partner Center.
+如果您在合作夥伴中心使用每月帳單，則適用這些範例[一般計費案例](common-billing-scenarios.md)。
 
-## <a name="new-monthly-subscription"></a>New monthly subscription
+## <a name="new-monthly-subscription"></a>新增每月訂閱
 
 您的帳單日期是每個月 15 日。 您在 1 月 13 日購買新訂閱，包含每個月 $4 的授權，並選取每月計費。 1 月 15 日的授權型對帳檔案將包含下列帳務明細：
 
@@ -33,7 +33,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |2/13/2018         |3/12/2018    |循環費用   |4.00       |1        |4.00 |
 
-## <a name="change-license-quantity"></a>Change license quantity
+## <a name="change-license-quantity"></a>變更授權數量
 
 您的帳單日期是每個月 15 日。 您在 1 月 13 日購買新訂閱，包含每個月 $4 的授權，並選取每月計費。 1 月 15 日的授權型對帳檔案將包含下列帳務明細：
 
@@ -60,7 +60,7 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 按比例計算單價 = 1.54 = 12 x 0.129
 
-## <a name="suspend-before-30-days"></a>Suspend before 30 days
+## <a name="suspend-before-30-days"></a>30天前暫停
 
 您的帳單日期是每個月 15 日。 您在 1 月 13 日購買新訂閱，包含每個月 $4 的授權，並選取每月計費。 1 月 15 日的授權型對帳檔案將包含下列帳務明細：
 
@@ -68,13 +68,13 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |1/13/2018         |2/12/2018    |循環費用   |4.00       |1        |4.00    |
 
-On February 1 you suspend a subscription. 2 月 15 日的授權型對帳檔案將包含下列帳務明細：
+在2月1日，您暫停了訂用帳戶。 2 月 15 日的授權型對帳檔案將包含下列帳務明細：
 
 |收費開始日期 |收費結束日期 |收費類型 |單價 |數量 |金額 |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|2/12/2018|取消費用|-4.00|1|-4.00
 
-## <a name="suspend-after-30-days"></a>Suspend after 30 days
+## <a name="suspend-after-30-days"></a>30天后暫停
 
 您的帳單日期是每個月 15 日。 您在 1 月 13 日購買新訂閱，包含每個月 $4 的授權，並選取每月計費。 1 月 15 日的授權型對帳檔案將包含下列帳務明細：
 
@@ -100,4 +100,4 @@ On February 1 you suspend a subscription. 2 月 15 日的授權型對帳檔案�
 
 3/1/2018 – 3/12/2018 的取消期間有 12 天。
 
-Therefore, the unit price = -1.716 (12 x 0.143 x (-1)).
+因此，單位價格 =-1.716 （12 x 0.143 x （-1））。

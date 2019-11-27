@@ -4,10 +4,10 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to register the Cloudyn web app and use a secret key for it in Partner Center so you can use the app to track customer Azure usage and costs.
+description: 瞭解如何在合作夥伴中心註冊 Cloudyn web 應用程式並使用它的秘密金鑰，讓您可以使用應用程式來追蹤客戶的 Azure 使用量和成本。
 author: Janet
 ms.author: janet
-Keywords: Azure cost management app, manage costs, web apps
+Keywords: Azure 成本管理應用程式，管理成本，web 應用程式
 robots: ''
 ms.localizationpriority: medium
 ms.openlocfilehash: b05f2085aad63f8a0e23fa44de97550d13053f86
@@ -24,12 +24,12 @@ ms.locfileid: "74253301"
 - 合作夥伴中心
 - 雲端解決方案提供者計畫合作夥伴
 
-**Appropriate roles**
+**適當的角色**
 
 - 全域系統管理員
 - 系統管理代理人
 
-[Get More information about Azure Cost Management](https://go.microsoft.com/fwlink/p/?linkid=857893)
+[取得 Azure 成本管理的詳細資訊](https://go.microsoft.com/fwlink/p/?linkid=857893)
 
 ## <a name="before-you-begin"></a>在您開始前
 在可以使用 Azure 成本管理之前，請先確定您符合下列需求：
@@ -39,12 +39,12 @@ ms.locfileid: "74253301"
 
 ## <a name="overview"></a>概觀
 
-Cloudyn is a web app that allows you to track and manage how much your customers are using Azure and the costs of that usage. 您是透過合作夥伴中心 API 使用此應用程式。
+Cloudyn 是一個 web 應用程式，可讓您追蹤及管理客戶使用 Azure 的程度，以及該使用量的成本。 您是透過合作夥伴中心 API 使用此應用程式。
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>在合作夥伴中心註冊您的 Web 應用程式
 當您在合作夥伴中心註冊 Azure Active Directory Web 應用程式，您就啟用對 Partner Center API 的存取權。 
-1.  使用[全域系統管理員或系統管理代理人帳戶](create-user-accounts-and-set-permissions.md)登入[合作夥伴中心](https://partnercenter.microsoft.com/pcv/dashboard/overview)。
-2.  From the **Partner Center**, select **Account settings** &gt; **[App management](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)** .
+1.  使用[全域系統管理員或系統管理代理人帳戶](https://partnercenter.microsoft.com/pcv/dashboard/overview)登入[合作夥伴中心](create-user-accounts-and-set-permissions.md)。
+2.  從**合作夥伴中心**，選取 [**帳戶設定**] &gt; [ **[應用程式管理](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)** ]。
 3.  在 **\[Web 應用程式\]** 區段中，按一下 **\[新增 Web 應用程式\]** 。
 <br> **注意**：如果您先前已建立 Web 應用程式，可以略過步驟 3。
 4.  複製並儲存您 Web 應用程式的**商務識別碼** GUID 和**應用程式識別碼** GUID。 您將需要這兩個識別碼，才能使用 30 天免費試用版的 Azure 成本管理應用程式。
@@ -54,7 +54,7 @@ Cloudyn is a web app that allows you to track and manage how much your customers
 2. 按一下 **\[新增金鑰\]** 。 
 3. 複製並儲存秘密金鑰值。 您將需要此值，以便使用 30 天免費試用版。<br>
    > [!NOTE]  
-   > The application secret keys are like passwords with longer expiration dates. 請將金鑰值儲存在安全的位置，以供未來使用。
+   > 應用程式秘密金鑰就像是具有較長到期日的密碼。 請將金鑰值儲存在安全的位置，以供未來使用。
 
 ## <a name="next-steps"></a>後續步驟
 啟動 [30 天免費試用版](https://go.microsoft.com/fwlink/?linkid=857895)。

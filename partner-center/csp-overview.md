@@ -71,7 +71,7 @@ ms.locfileid: "74252833"
 
 您可以銷售一系列完整的 [Microsoft 雲端服務](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及經常變動的多種其他優惠。 若要查看目前月份的 CSP 供應專案，請登入合作夥伴中心，然後移至 [[**定價與**](https://partnercenter.microsoft.com/pcv/sales)供應專案] 頁面。
 
-## <a name="see-also"></a>請參閱 
+## <a name="see-also"></a>另請參閱 
 
 
 |**若要瞭解這一點**   |**請閱讀本文**   |

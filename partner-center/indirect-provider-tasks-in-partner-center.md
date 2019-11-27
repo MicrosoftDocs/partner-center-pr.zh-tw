@@ -15,7 +15,7 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253683"
 ---
-# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商成為合作夥伴
+# <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
 
 在複雜與快速變更的技術市場中，客戶需要有技術解決方案可提供的競爭優勢。 在這種市場氣象，合作夥伴投入合作夥伴對合作夥伴業務，以擴充供應項目並讓客戶執行更多是合理的。
 
@@ -170,7 +170,7 @@ ms.locfileid: "74253683"
 
 7.  完成時選取 **\[提交\]** 。 
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 如需有關如何管理客戶帳戶和訂閱的詳細資訊，請參閱：
 

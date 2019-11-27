@@ -79,7 +79,7 @@ ms.locfileid: "74253462"
 
 ### <a name="suspend-a-subscription"></a>暫停訂閱
 
-當您將訂閱的狀態變更為 \[已暫停\] 時，使用者就無法登入或存取服務。
+當您將訂閱的狀態變更為 **\[已暫停\]** 時，使用者就無法登入或存取服務。
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
@@ -89,7 +89,7 @@ ms.locfileid: "74253462"
 
 4. 在 **\[狀態\]** 區段中，選擇 **\[已暫停\]** 。 然後 **\[提交\]** 變更。
 
-5. 所有的資料將被刪除，除非訂用帳戶在 90 日内重新啟用，或 90 天加上開啟帳戶的時間和第一個計費期間之間的天數 (最多 120 天)。
+5. 所有的資料將被刪除，除非訂閱在 90 日内重新啟用，或 90 天加上開啟帳戶的時間和第一個計費期間之間的天數 (最多 120 天)。
 
 當您在暫停訂閱時，您在 **\[已暫停\]** 按鈕下方看到的日期會顯示該訂閱何時會自動到期 (如果您沒有重新啟用的話)。 如需詳細資訊，請參閱[關於新帳單功能的常見問題](faq-about-new-billing-features.md)。
 
@@ -149,10 +149,10 @@ ms.locfileid: "74253462"
 
 6. 選取 **\[提交\]** 。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 - [為您的客戶購買商用 marketplace 產品](csp-commercial-marketplace-purchase.md)
 - [為您的客戶管理商業 marketplace 產品](csp-commercial-marketplace-manage.md)
-- [商業 marketplace 總覽](csp-commercial-marketplace-overview.md)
+- [商務 Marketplace 概觀](csp-commercial-marketplace-overview.md)
 
 

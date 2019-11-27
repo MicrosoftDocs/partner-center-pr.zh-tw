@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to customize the Microsoft catalog to make it easier to access the partner offers or products your organization most uses.
+description: 瞭解如何自訂 Microsoft catalog，讓您更輕鬆地存取貴組織最常使用的合作夥伴供應專案或產品。
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
 author: MaggiePucciEvans
 ms.author: evansma
@@ -28,7 +28,7 @@ ms.locfileid: "74252120"
 
 **自訂型錄**
 
-1.  Go to the Partner Center menu &gt; **Sell** &gt; **Catalog**.
+1.  前往 合作夥伴中心 功能表 &gt;**銷售**&gt;**目錄**。
 2.  選擇最多五個產品以顯示於型錄頂端。
 
  

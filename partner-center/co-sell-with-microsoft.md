@@ -1,10 +1,10 @@
 ---
-title: Co-sell with Microsoft | Partner Center
+title: 與 Microsoft 共同銷售 |合作夥伴中心
 ms.topic: article
 ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: As a qualified Microsoft partner, you can co-sell with Microsoft. Learn how to define engagements, invite Microsoft to collaborate, or view sent engagements.
+description: 身為合格的 Microsoft 合作夥伴，您可以與 Microsoft 共同銷售。 瞭解如何定義參與、邀請 Microsoft 共同作業，或觀看已傳送的合作。
 author: JnHs
 ms.author: jenhayes
 keywords: 推薦, RFI, 尋找合作夥伴
@@ -17,58 +17,58 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 11/20/2019
 ms.locfileid: "74253447"
 ---
-# <a name="co-sell-with-microsoft"></a>Co-sell with Microsoft
+# <a name="co-sell-with-microsoft"></a>與 Microsoft 共同銷售
 
 **適用於**
 
 -  合作夥伴中心
 
-As a qualified Microsoft partner, you have the opportunity to co-sell with Microsoft. This collaboration helps you take solutions to market, drive joint revenue, and ensure customer success.
+身為合格的 Microsoft 合作夥伴，您有機會與 Microsoft 共同銷售。 這種共同作業可協助您將解決方案帶到市場、促進銷售的收益，並確保客戶的成功。
 
 > [!IMPORTANT]
-> To co-sell with Microsoft, partners need a commercial-ready solution, an engaged sales team, and a strong go-to-market strategy. They must also meet specific additional criteria. For more info, see [Become co-sell ready](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready).
+> 若要與 Microsoft 共同銷售，合作夥伴需要具備商業功能的解決方案、參與的銷售團隊，以及強大的進入市場策略。 它們也必須符合特定的其他準則。 如需詳細資訊，請參閱[成為共同銷售就緒](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)。
 
-## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>Invite Microsoft to collaborate on an engagement
+## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>邀請 Microsoft 在 engagement 上共同作業
 
-Once you've been approved to co-sell with Microsoft, you'll have the option to invite Microsoft to collaborate on specific engagements.
+當您核准與 Microsoft 共同銷售之後，您就可以選擇邀請 Microsoft 在特定的業務上共同作業。
 
-To invite Microsoft to collaborate on an engagement, go to **Referrals > Engagements > Sent** and select **Create an engagement**. Then, complete the following steps.
+若要邀請 Microsoft 在 engagement 上共同作業，請移至 [推薦] [ **> 傳送的 >** 參與]，然後選取 [**建立 engagement**]。 然後，完成下列步驟。
 
-### <a name="select-your-customer"></a>Select your customer
+### <a name="select-your-customer"></a>選取您的客戶
 
-You will need to identify the customer for this specific engagement. Enter their name and location and then select **Search**. Since many companies have more than one business entity in the same location, you may see multiple results. If you're not sure which to choose, you can confirm which [D-U-N-S Number](https://www.dnb.com/duns-number.html) belongs to your customer. Be sure to select the exact match for the customer who you're working with. 
+您將需要識別此特定參與的客戶。 輸入其名稱和位置，然後選取 [**搜尋**]。 因為許多公司在相同的位置有一個以上的商業實體，所以您可能會看到多個結果。 如果您不確定要選擇哪一種，您可以確認哪些[D-U-N-S 號碼](https://www.dnb.com/duns-number.html)屬於您的客戶。 請務必為您正在使用的客戶選取完全相符的。 
 
-Once you click **Select**, you'll be prompted to enter the name, phone number, and email address for the person who's your main point of contact for this engagement. After you've entered this info, select **Next**.
+一旦您按一下 [**選取**]，系統會提示您輸入此 engagement 的主要連絡人之人員的名稱、電話號碼和電子郵件地址。 輸入此資訊之後，請選取 **[下一步]** 。
 
 > [!IMPORTANT]
-> Be sure that you have obtained sufficient consent to provide the customer's contact information to Microsoft. Microsoft may use this info to contact the customer directly.
+> 請確定您已取得足夠的同意，將客戶的連絡人資訊提供給 Microsoft。 Microsoft 可能會使用此資訊直接與客戶聯繫。
 
-### <a name="define-your-engagement"></a>Define your engagement
+### <a name="define-your-engagement"></a>定義您的 engagement
 
-On the next screen, you'll need to provide details about the engagement for which you want to co-sell with Microsoft.
+在下一個畫面上，您必須提供您想要與 Microsoft 共同銷售之 engagement 的相關詳細資料。
 
-In the **Engagement details** section, enter the following:
-- **Engagement name**: Enter a name that describes this customer and engagement. The Microsoft team will see this name when reviewing your engagement details, so be sure to use clear and professional language.
-- **CRM ID**: If desired, enter the ID number you're using in your CRM system.
-- **Estimated close date**: The approximate date when you expect to close this deal.
-- **Estimated value**: The total expected value for the engagement. 請務必選取適當的貨幣。
+在 [ **Engagement 詳細資料**] 區段中，輸入下列內容：
+- **Engagement 名稱**：輸入描述此客戶和參與的名稱。 Microsoft 小組會在審查您的 engagement 詳細資料時看到此名稱，因此請務必使用「清楚」和「專業」語言。
+- **CRM 識別碼**：如有需要，請輸入您要在 crm 系統中使用的識別碼。
+- **預估的結束日期**：預期要關閉此交易的大約日期。
+- **估計值**：參與的預期值總計。 請務必選取適當的貨幣。
 
-In the **Notes** field, explain what the customer is interested in and how your solution could help them.
+在 [**附注**] 欄位中，說明客戶感興趣的專案，以及您的解決方案如何協助他們。
 
- Next, in the **Partner contact** section, enter the name, phone number, and email for the main contact at your company who is working on this engagement.
+ 接下來，在 [**合作夥伴連絡人**] 區段中，輸入您公司上正在處理此 engagement 之主要連絡人的名稱、電話號碼和電子郵件。
 
-Finally, in the **Add solutions** section, select the solution that will be used for the engagement. 如果您沒看到正確的解決方案列出，請連絡支援人員。
+最後，在 [**新增解決方案**] 區段中，選取將用於 engagement 的解決方案。 如果您沒看到正確的解決方案列出，請連絡支援人員。
 
-Select **Next** to move on to the next step.
+選取 **[下一步]** 以移至下一個步驟。
 
-### <a name="invite-others"></a>Invite others
+### <a name="invite-others"></a>邀請其他人
 
-The final step in the co-sell engagement creation process is to provide more details about the type of help you're looking for. Select the best fit under **How can we help you?** Then, in the **Notes to Microsoft** field, provide as much detail as possible about the best ways for Microsoft to provide assistance.
+共同銷售參與建立程式的最後一個步驟，是提供您所需的協助類型的更多詳細資料。 在 [**要如何協助您？** ] 下，選取最適合的專案？ 然後，在 [ **Notes 給 microsoft** ] 欄位中，盡可能提供最多 microsoft 提供協助的最佳方式。
 
-Be sure to check the box confirming that you have obtained sufficient consent from your partner. When everything's ready, select **Create engagement.** After that, Microsoft will reach out to you, using the contact info you provided for **Partner contact**.
+請務必核取此方塊，確認您已向合作夥伴取得足夠的同意。 當一切就緒時，請選取 [**建立 engagement]。** 在那之後，Microsoft 會使用您為**合作夥伴連絡人**提供的連絡人資訊來聯繫您。
 
-## <a name="viewing-your-sent-engagements"></a>Viewing your sent engagements
+## <a name="viewing-your-sent-engagements"></a>查看已傳送的活動
 
-Co-sell engagements that you have sent to Microsoft can be seen by going to **Referrals > Engagements > Sent**. Here you'll see all of the referrals which have been sent to Microsoft, along with the deadline for Microsoft to accept the invitation.
+您已傳送給 Microsoft 的共同銷售活動，可以藉由前往 **> 傳送的 > 參與參考**來觀看。 在這裡，您會看到所有已傳送給 Microsoft 的參考，以及 Microsoft 接受邀請的期限。
 
-If Microsoft accepts the engagement, it will be moved to **Active**. Working with Microsoft, you'll need to work to close the deal with the customer. See [Respond to referrals](responding-to-referrals.md) for more info. If Microsoft does not accept the engagement, it will be moved to **Archived**.
+如果 Microsoft 接受 engagement，則會將其移至作用中**狀態**。 與 Microsoft 合作時，您必須致力於向客戶關閉交易。 如需詳細資訊，請參閱[回應參考](responding-to-referrals.md)。 如果 Microsoft 不接受 engagement，則**會將其**移至封存。

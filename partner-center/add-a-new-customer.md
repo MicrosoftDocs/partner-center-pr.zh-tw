@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to add a new customer record in Partner Center. Then, you can sell the customer subscriptions, manage billing, or provide customer support.
+description: 瞭解如何在合作夥伴中心新增新的客戶記錄。 然後，您可以銷售客戶訂用帳戶、管理帳單，或提供客戶支援。
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
 author: MaggiePucciEvans
 ms.author: evansma
@@ -24,35 +24,35 @@ ms.locfileid: "74384609"
 -  合作夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
-Before you can sell subscriptions, manage billing, or provide support to a customer, you need to add them to your list of customers in Partner  Center.
+您必須先將訂閱新增至合作夥伴中心的客戶清單，才可以銷售訂用帳戶、管理帳單，或為客戶提供支援。
 
 >[!NOTE]
->For existing customers, including those who already have customer records in Partner Center through a [multi-channel](multichannel.md) or [Multipartner](multipartner.md) scenario, you can [Request a relationship with them](request-a-relationship-with-a-customer.md), instead of following the steps here.
+>針對現有客戶（包括已透過[多](multichannel.md)通路或[Multipartner](multipartner.md)案例在合作夥伴中心內有客戶記錄的使用者），您可以[向他們要求關聯](request-a-relationship-with-a-customer.md)性，而不是遵循此處的步驟。
 
-### <a name="to-add-a-new-customer-in-partner-center"></a>To add a new customer in Partner Center
+### <a name="to-add-a-new-customer-in-partner-center"></a>在合作夥伴中心新增新客戶
 
-1. Select **Customers** from the Partner Center menu, and then select **Add customer**.
+1. 選取 [合作夥伴中心] 功能表中的 [**客戶**]，然後選取 [**新增客戶**]。
 
-2. On the **Account info** page, enter the customer's details and primary contact information and verify that the customer has accepted and signed the latest [Microsoft Cloud Agreement](agreements.md).
+2. 在 [**帳戶資訊**] 頁面上，輸入客戶的詳細資料和主要連絡人資訊，並確認客戶已接受並簽署最新的[Microsoft Cloud 合約](agreements.md)。
 
 >[!IMPORTANT] 
-> On October 1st, 2019, Microsoft introduced the **Microsoft Customer Agreement** to the CSP program to replace the Microsoft Cloud Agreement. 為了協助合作夥伴遷移至新的合約，在 2020 年 1 月 31 日前，CSP 計畫中將支援目前的 Microsoft Cloud 合約。 Read about the [Microsoft Customer Agreement and how to confirm consent](confirm-customer-agreement.md)
+> 在2019年10月1日，Microsoft 引進了 CSP 計畫的**Microsoft 客戶合約**來取代 Microsoft Cloud 合約。 為了協助合作夥伴遷移至新的合約，在 2020 年 1 月 31 日前，CSP 計畫中將支援目前的 Microsoft Cloud 合約。 閱讀[Microsoft 客戶合約和如何確認同意](confirm-customer-agreement.md)
   
-3. If you're an indirect provider, select the indirect reseller you want to associate with this customer's subscriptions from the list.
+3. 如果您是間接提供者，請從清單中選取您想要與此客戶訂用帳戶產生關聯的間接轉銷商。
 
-4. Select **Next: Subscriptions** when you're finished entering all required information.
+4. 選取 **[下一步]：** 當您完成輸入所有必要資訊時的訂閱。
 
-5. On the **Subscriptions** page, select the offer(s) your customer wants to buy from you, enter the number of licenses, and then select **Next: Review**.
+5. 在 [**訂閱**] 頁面上，選取您的客戶想要向您購買的供應專案、輸入授權數量，然後選取 **[下一步：審查]** 。
 
-6. On the **Review** page, check your entries for accuracy and then select **Submit** if the information is correct.
+6. 在 [**審查**] 頁面上，檢查您的專案是否正確無誤，然後選取 [**提交**] （如果資訊正確的話）。
 
     >[!NOTE]
-    >If you need to change any customer details, select **Update** in the **Account info** section. If you need to change the offers you selected, select **Update** in the **Subscriptions** section.
+    >如果您需要變更任何客戶詳細資料，請在 [**帳戶資訊**] 區段中選取 [**更新**]。 如果您需要變更所選的供應專案，請選取 [**訂閱**] 區段中的 [**更新**]。
 
-7. Select **Done** when you've finished adding the customer information and purchased the required subscriptions.
+7. 當您完成新增客戶資訊並購買必要的訂閱時，請選取 [**完成**]。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
-- See [Partner offers in the Cloud Solution Provider program](csp-offers.md) for more information about what you can sell to customers through the Cloud Solution Provider program.
+- 如需可透過雲端解決方案提供者方案銷售給客戶之專案的詳細資訊，請參閱[雲端解決方案提供者方案中的合作夥伴優惠](csp-offers.md)。
 
-- See [Connect with customers](customer-accounts.md) for more information about associating a new customer to your partner account in Partner Center.
+- 如需將新客戶與合作夥伴中心的合作夥伴帳戶產生關聯的詳細資訊，請參閱[與客戶聯繫](customer-accounts.md)。

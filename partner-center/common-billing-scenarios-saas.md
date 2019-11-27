@@ -1,12 +1,12 @@
 ---
-title: Common billing scenarios for license-based SaaS transactions | Partner Center
+title: 以授權為基礎的 SaaS 交易的常見計費案例 |合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for license-based SaaS transactions.
+description: 以授權為基礎的 SaaS 交易之合作夥伴中心常見的計費案例。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, one-time purchase, recurring purchase, subscriptions, seats
+Keywords: 帳單，付款，一次性購買，週期性購買，訂用帳戶，基座
 ms.localizationpriority: medium
 ms.openlocfilehash: b808a3bbfc0856e03f1c775d7e3145a29c2239fb
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,58 +15,58 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389606"
 ---
-# <a name="billing-scenarios-for-license-based-saas-transactions"></a>Billing scenarios for license-based SaaS transactions
+# <a name="billing-scenarios-for-license-based-saas-transactions"></a>以授權為基礎的 SaaS 交易計費案例
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable to license-based software as a service (SaaS) subscriptions in Partner Center.
+這些範例[常見計費案例](common-billing-scenarios.md)適用于合作夥伴中心的授權型軟體即服務（SaaS）訂閱。
 
-## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>Convert a free trial SaaS subscription to a paid subscription
+## <a name="convert-a-free-trial-saas-subscription-to-a-paid-subscription"></a>將免費試用版 SaaS 訂用帳戶轉換為付費訂用帳戶
 
-This scenario describes billing for the renewal of a license-based free trial SaaS subscription. The renewal converts the free trial to a paid subscription at the end of the free trial period.
+此案例描述以授權為基礎的免費試用 SaaS 訂用帳戶的更新計費。 更新會在免費試用期間結束時，將免費試用版轉換成付費訂用帳戶。
 
-In this example, you purchased a free trial of a license-based SaaS (software as a service) subscription on June 10th. This free trial automatically renewed as a paid subscription when the free trial period ends.
+在此範例中，您已在6月10日購買授權型 SaaS （軟體即服務）訂用帳戶的免費試用版。 此免費試用版會在免費試用期間結束時，自動更新為付費訂用帳戶。
 
-The recon files will include the following charges:
+偵察檔案將包含下列費用：
 
-| 購買日期 | Charge start date | Charge end date | 單價 | Unit quantity | Total amount | 收費類型 | Subscription description |
+| 購買日期 | 收取開始日期 | 收費結束日期 | 單價 | 單位數量 | 總金額 | 收費類型 | 訂用帳戶描述 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 1 | $0 | 新的 | 免費試用 |
-| 07/10/2019 | 07/10/2019 | 08/09/2019 | $2 | 1 | $2 | [續約] | Paid subscription |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 1 | $0 | 新增 | 免費試用 |
+| 07/10/2019 | 07/10/2019 | 08/09/2019 | $2 | 1 | $2 | [續約] | 付費訂用帳戶 |
 
-## <a name="cancel-a-free-trial-saas-subscription"></a>Cancel a free trial SaaS subscription
+## <a name="cancel-a-free-trial-saas-subscription"></a>取消免費試用的 SaaS 訂用帳戶
 
 > [!TIP]
-> You can cancel a license-based free trial SaaS subscription any time, even during the free trial period.
+> 您可以隨時取消以授權為基礎的免費試用 SaaS 訂用帳戶，即使在免費試用期期間也一樣。
 
-In this scenario, you purchased a license-based free trial SaaS subscription on July 1st, and then canceled it immediately in Partner Center. 
+在此案例中，您在7月1日購買了以授權為基礎的免費試用 SaaS 訂用帳戶，然後在合作夥伴中心立即將其取消。 
 
-The recon file will include the following charges:
+偵察檔案將包含下列費用：
 
-| 購買日期 | Charge start date | Charge end date | 單價 | Unit quantity | Total amount | 收費類型 | Subscription description |
+| 購買日期 | 收取開始日期 | 收費結束日期 | 單價 | 單位數量 | 總金額 | 收費類型 | 訂用帳戶描述 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | 新的 | 免費試用 |
-| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | [取消] | 免費試用 |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | 新增 | 免費試用 |
+| 06/10/2019 | 06/10/2019 | 07/09/2019 | $0 | 11 | $0 | 取消 | 免費試用 |
 
-## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Convert custom meter SaaS subscription to another SKU
+## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>將自訂計量 SaaS 訂用帳戶轉換為另一個 SKU
 
-This scenario describes how to convert a custom meter SaaS subscription from one stock keeping unit (SKU) to another SKU for the same product, on the same date.
+此案例說明如何將自訂計量 SaaS 訂用帳戶從一個庫存單位（SKU），轉換為相同產品的另一個 SKU。
 
-In this scenario, you purchased one SKU (Silver) under a product and converted it to another available SKU (Bronze) under this product on the same date.
+在此案例中，您已在產品下購買一個 SKU （銀級），並將其轉換為此產品下的另一個可用 SKU （銅）。
 
-The recon file will include the following charges:
+偵察檔案將包含下列費用：
 
-| 購買日期 | Charge start date | Charge end date | 單價 | Unit quantity | Total amount | 收費類型 | Subscription description |
+| 購買日期 | 收取開始日期 | 收費結束日期 | 單價 | 單位數量 | 總金額 | 收費類型 | 訂用帳戶描述 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 銀會員 | 06/10/2019 | 06/10/2019 | $20 | 1 | $20 | 新的 | Custom meter SaaS subscription |
-| 06/10/2019 | 銀會員 | 06/10/2019 | 06/10/2019 | $20 | 1 | -$20 | 轉換 | Prorated rebill for custom meter SaaS subscription |
-| 06/10/2019 | 銅級 | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | 轉換 | Custom meter SaaS subscription |
+| 06/10/2019 | 銀會員 | 06/10/2019 | 06/10/2019 | $20 | 1 | $20 | 新增 | 自訂計量 SaaS 訂用帳戶 |
+| 06/10/2019 | 銀會員 | 06/10/2019 | 06/10/2019 | $20 | 1 | -$20 | 轉換 | 自訂計量 SaaS 訂用帳戶的按比例 rebill |
+| 06/10/2019 | 銅級 | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | 轉換 | 自訂計量 SaaS 訂用帳戶 |
 
-## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Purchase and cancel a customer meter SaaS subscription on same date
+## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>在同一日期購買並取消客戶計量 SaaS 訂用帳戶
 
-This scenario describes billing for a customer meter SaaS subscription that you purchased and cancelled through the Azure portal on the same date.
+此案例描述客戶計量 SaaS 訂用帳戶的帳單，您已透過 Azure 入口網站在同一日期進行購買和取消。
 
-In this scenario, you purchased a custom meter SaaS subscription on the Azure portal. Then, you canceled the subscription on the same date.
+在此案例中，您已在 Azure 入口網站上購買自訂計量 SaaS 訂用帳戶。 然後，您會在相同的日期取消訂用帳戶。
 
-| 購買日期 | Charge start date | Charge end date | 單價 | Unit quantity | Total amount | 收費類型 | Subscription description |
+| 購買日期 | 收取開始日期 | 收費結束日期 | 單價 | 單位數量 | 總金額 | 收費類型 | 訂用帳戶描述 |
 | ------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | 銅級 | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | 新的 | Custom meter SaaS subscription |
-| 06/10/2019 | 銅級 | 06/10/2019 | 06/10/2019 | $10 | 1 | -$10 | CancelImmediate | Custom meter SaaS subscription |
+| 06/10/2019 | 銅級 | 06/10/2019 | 06/10/2019 | $10 | 1 | $10 | 新增 | 自訂計量 SaaS 訂用帳戶 |
+| 06/10/2019 | 銅級 | 06/10/2019 | 06/10/2019 | $10 | 1 | -$10 | CancelImmediate | 自訂計量 SaaS 訂用帳戶 |

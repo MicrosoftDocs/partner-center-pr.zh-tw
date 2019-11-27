@@ -28,7 +28,7 @@ ms.locfileid: "74253423"
 
 - 如果間接提供者或其間接轉銷商，或兩者都有全天候作業控制和管理客戶在 CSP 中的 Azure 資源，則會符合 PEC 的資格。
 
-- PEC 會與合作夥伴所管理之客戶 Azure 資產的收費（收費）耗用量相關聯。 
+- PEC 會與合作夥伴所管理 CSP 中客戶 Azure 資產的計費 (可收費) 耗用量相關聯。 
 
 - PEC 僅適用于由 Microsoft （間接提供者和直接帳單合作夥伴）計費的 CSP 合作夥伴。
 
@@ -42,7 +42,7 @@ ms.locfileid: "74253423"
 
 如需取得管理 Azure 訂用帳戶的存取權，以及如何將您的 MPN ID 連結至 RBAC 角色的詳細資訊，請參閱[管理 azure 方案下的訂用帳戶和資源](azure-plan-manage.md)。
 
-詳細資訊
+其他資訊
 
 - [Azure 方案-計費](azure-plan-billing.md)
 

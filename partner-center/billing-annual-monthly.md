@@ -1,8 +1,8 @@
 ---
-title: Monthly and annual billing differences | Partner Center
+title: 每月和年度計費差異 |合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
-Description: Differences between monthly and annual billing cycles in Partner Center.
+Description: 合作夥伴中心的每月和年度計費週期之間的差異。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
@@ -14,48 +14,48 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389766"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>Monthly and annual billing differences
+# <a name="monthly-and-annual-billing-differences"></a>每月和每年計費差異
 
 適用於：
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
-This topic explains the differences between **monthly billing** and **annual billing** in Partner Center, including benefits and use cases. You have the option to pay for certain Cloud Solution Provider (CSP) subscriptions on a monthly or annual basis.
+本主題說明合作夥伴中心的**每月帳單**和**年度計費**之間的差異，包括優點和使用案例。 您可以選擇每月或每年支付特定雲端解決方案提供者（CSP）訂用帳戶的費用。
 
 ## <a name="applicability"></a>適用性
 
-Most licensed-based subscriptions have the option for either monthly or annual billing option. 用量型訂閱只有每月計費選項。
+大部分以授權為基礎的訂用帳戶都可以選擇 [每月] 或 [年度計費] 選項。 用量型訂閱只有每月計費選項。
 
-Both annual and monthly billing are **per subscription**, ***not* per license**.
+**每個訂**用帳戶的年度和每月計費均為， ***而不*是每個授權**。
 
-### <a name="find-subscription-applicability"></a>Find subscription applicability
+### <a name="find-subscription-applicability"></a>尋找訂用帳戶適用性
 
-You can identify the available billing frequencies for each offer by using column J in the offer matrix. You can find the offer matrix in the **See offers and pricing** section on Partner Center.
+您可以使用供應專案矩陣中的 [資料行 J]，來識別每個供應專案的可用計費頻率。 您可以在合作夥伴中心的查看供應專案**和定價**一節中找到供應專案矩陣。
 
-### <a name="applicable-partners"></a>Applicable partners
+### <a name="applicable-partners"></a>適用的合作夥伴
 
-All partners and partner types can choose monthly or annual billing.
+所有合作夥伴和合作夥伴類型都可以選擇每月或每年計費。
 
-### <a name="applicable-markets"></a>Applicable markets
+### <a name="applicable-markets"></a>適用的市場
 
-Monthly and annual billing (for applicable offers) are available in all markets where the CSP program is currently available.
+每月和每年計費（適用供應專案）均適用于目前提供 CSP 計畫的所有市場。
 
-## <a name="change-billing-frequency"></a>Change billing frequency
+## <a name="change-billing-frequency"></a>變更計費頻率
 
-You can switch between monthly and annual billing at any time. You may want to change your billing frequency if your business needs change.
+您可以隨時在每月和每年計費之間切換。 如果您的業務需求變更，您可能會想要變更計費頻率。
 
-When you change the billing frequency to annual, the annual term is updated to reflect the date you changed the billing frequency. A new renewal date is also established.
+當您將計費頻率變更為 [年度] 時，會更新年度詞彙以反映您變更計費頻率的日期。 也會建立新的續訂日期。
 
-### <a name="monthly-to-annual-billing"></a>Monthly to annual billing
+### <a name="monthly-to-annual-billing"></a>每月到每年計費
 
-Switching from monthly billing to annual billing may be useful if you have numerous subscriptions that are billed monthly. When you switch to annual billing, you can align the subscriptions to a common billing date.
+如果您有多個按月計費的訂用帳戶，從每月計費切換到年度計費可能會很有用。 當您切換至年度帳單時，可以將訂用帳戶對應到一般計費日期。
 
-### <a name="annual-to-monthly-billing"></a>Annual to monthly billing
+### <a name="annual-to-monthly-billing"></a>每月計費
 
-Switching from annual billing to monthly billing may be useful if you want to adjust your billing dates to those of your individual customers.
+如果您想要對個別客戶的帳單日期進行調整，則從年度計費切換為每月計費可能會很有用。
 
-## <a name="annual-billing"></a>Annual billing
+## <a name="annual-billing"></a>年度帳單
 
 年度計費具有下列優點：
 
@@ -64,176 +64,176 @@ Switching from annual billing to monthly billing may be useful if you want to ad
 - 減少貨幣變動帶來的影響。
 - 降低帳單營運成本。
 
-### <a name="configure-annual-billing"></a>Configure annual billing
+### <a name="configure-annual-billing"></a>設定年度帳單
 
-If you're planning to switch to annual billing in Partner Center, be sure to consider how your sales motion will be affected. You should inform your team and update your internal processes as necessary. You should also review changes to your invoice and license-based reconciliation file. 
+如果您打算在合作夥伴中心切換為年度計費，請務必考慮您的銷售動作會受到什麼影響。 您應該通知小組，並視需要更新您的內部進程。 您也應該檢查您發票和授權型對帳檔案的變更。 
 
-You will also need to [update your APIs for annual billing](#required-api-changes).
+您也需要[更新您的 api 以進行年度計費](#required-api-changes)。
 
-#### <a name="required-api-changes"></a>Required API changes
+#### <a name="required-api-changes"></a>必要的 API 變更
 
 為了運用年度計費，API 必須進行一些變更。
 
-- [Order.BillingCycle property](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
-- [Create an order](https://docs.microsoft.com/partner-center/develop/create-an-order)
+- [BillingCycle 屬性](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
+- [建立訂單](https://docs.microsoft.com/partner-center/develop/create-an-order)
 
-For more information about Partner Center APIs, see all [Partner Center developer resources and documentation](https://docs.microsoft.com/partner-center/develop/).
+如需合作夥伴中心 Api 的詳細資訊，請參閱所有[合作夥伴中心的開發人員資源和檔](https://docs.microsoft.com/partner-center/develop/)。
 
-## <a name="placing-orders"></a>Placing orders
+## <a name="placing-orders"></a>放置訂單
 
-The billing frequency type, including the annual billing option, is assigned to the **Offer** as an attribute. There is not a unique offer specifically for orders with annual billing. 不過，您可使用客戶更容易記得的名稱將方案重新命名，作為區別之用。
+計費頻率類型（包括年度計費選項）會指派給**供應**專案做為屬性。 沒有專為年度計費的訂單而提供的唯一供應專案。 不過，您可使用客戶更容易記得的名稱將方案重新命名，作為區別之用。
 
-### <a name="select-annual-billing"></a>Select annual billing
+### <a name="select-annual-billing"></a>選取年度計費
 
-When you add a new subscription, you will be prompted to choose the billing frequency. 您可以在此時選擇年度計費選項。 When you select annual billing,all available offers will be displayed.
+當您新增新的訂用帳戶時，系統會提示您選擇計費頻率。 您可以在此時選擇年度計費選項。 當您選取 [年度帳單] 時，將會顯示所有可用的供應專案。
 
-### <a name="billing-time"></a>Billing time
+### <a name="billing-time"></a>計費時間
 
-您會在下一個帳單日期收到帳單。 For example, if your billing date is the 1st of the month and you purchase an annually billed subscription on October 29, 2019, you will be billed on November 1, 2019. Assuming that you make no license changes, you will be billed again on November 1, 2020. If you make a license change you will receive a credit and rebill on your next billing date.
+您會在下一個帳單日期收到帳單。 例如，如果您的帳單日期是當月1日，而且您在2019年10月29日購買每年計費的訂用帳戶，您將會在2019年11月1日計費。 假設您未進行任何授權變更，則會在2020年11月1日再次向您收費。 如果您進行授權變更，您會收到信用額度，並在下一個計費日期 rebill。
 
-### <a name="annual-renewals"></a>Annual renewals
+### <a name="annual-renewals"></a>年度續訂
 
-Your subscription renewal date will be twelve months after the service start date. 服務期間從建立訂閱的日期起算。  For example, a subscription created on January 10, 2019, will be renewed on January 10, 2020.
+您的訂用帳戶更新日期將會是服務開始日期的12個月。 服務期間從建立訂閱的日期起算。  例如，在2019年1月10日建立的訂用帳戶將于2020年1月10日更新。
 
 您會在訂閱續約日期之後的下一個帳單日期收到帳單。 例如，如果您在 2018 年 1 月 15 日購買年度計費訂閱，而您的帳單日期是 1 月 20 日，則您的訂閱將在 2019 年 1 月 15 日續約。 接著您會在 2019 年 1 月 20 日收到續約的帳單。
 
-### <a name="split-subscription-billing-frequency"></a>Split subscription billing frequency
+### <a name="split-subscription-billing-frequency"></a>分割訂用帳戶計費頻率
 
-It isn't possible to split a **single subscription** so that one part is billed monthly and the other part is billed annually. The entire subscription must have the same billing frequency (either monthly or annual billing).
+您無法分割**單一訂**用帳戶，讓一個元件按月計費，另一個部分則按年計費。 整個訂用帳戶必須具有相同的計費頻率（每月或年度計費）。
 
-For customers with **multiple subscriptions** of the same offer, it may be possible to have different billing frequencies per subscription. 某些供應項目會限制每一個客戶只能同時擁有一個訂閱。 若供應項目並沒有進行限制，則客戶就可以以不同的帳單週期，針對同一項供應項目購買多個訂閱。 您可以在方案組合的 I 欄中找到所有供應項目的限制。 You can find the offer matrix in the **See offers and pricing** section on Partner Center.
+對於具有相同供應專案之**多個**訂用帳戶的客戶，每個訂用帳戶可能會有不同的計費頻率。 某些供應項目會限制每一個客戶只能同時擁有一個訂閱。 若供應項目並沒有進行限制，則客戶就可以以不同的帳單週期，針對同一項供應項目購買多個訂閱。 您可以在方案組合的 I 欄中找到所有供應項目的限制。 您可以在合作夥伴中心的查看供應專案**和定價**一節中找到供應專案矩陣。
 
-### <a name="free-subscription-period"></a>Free subscription period
+### <a name="free-subscription-period"></a>免費訂閱期間
 
-Subscriptions with annual billing frequency do not receive a free period. The twelve-month paid term begins on the purchase date. 這和採用每月帳單週期的訂閱不同，每月週期在購買日期到下一個帳單日期之間有免費期間。
+年度計費頻率的訂閱不會收到免費的期間。 12個月的付費詞彙開始于購買日期。 這和採用每月帳單週期的訂閱不同，每月週期在購買日期到下一個帳單日期之間有免費期間。
 
-### <a name="adding-and-removing-licenses"></a>Adding and removing licenses
+### <a name="adding-and-removing-licenses"></a>新增和移除授權
 
 您隨時可以變更訂閱的授權數量。 新增額外的授權並不會影響帳單週期。
 
-您可以隨時新增或移除授權。  You will receive a credit and prorated rebill on your next billing date after you change the number of licenses.
+您可以隨時新增或移除授權。  在您變更授權數目之後，您將會收到點數，並按比例 rebill 下一個計費日期。
 
-If your existing subscription has annual billing, it's not possible to add licenses with monthly billing to that subscription. 您使用年度計費購買訂閱後，任何新增的基座都將遵循相同的帳單週期。 如果您隨後需要購買每月訂閱的授權，您將需要購買新的訂閱。
+如果您現有的訂用帳戶有年度計費，就無法將每月帳單的授權新增至該訂用帳戶。 您使用年度計費購買訂閱後，任何新增的基座都將遵循相同的帳單週期。 如果您隨後需要購買每月訂閱的授權，您將需要購買新的訂閱。
 
-### <a name="add-on-offers"></a>Add-on offers
+### <a name="add-on-offers"></a>附加元件供應專案
 
-附加元件訂閱會自動採用父供應項目訂閱所採用的帳單週期。 Annual billing is available for add-on offers. 
+附加元件訂閱會自動採用父供應項目訂閱所採用的帳單週期。 附加元件供應專案提供年度計費。 
 
-### <a name="cancelling-subscriptions"></a>Cancelling subscriptions
+### <a name="cancelling-subscriptions"></a>取消訂閱
 
 所有帳單週期的取消原則都相同。
 
-For annual billing, if the subscription is cancelled in the first 30 days of the twelve-month paid term you will receive a 100 percent credit on your next billing date. If the subscription is cancelled after 30 days of the twelve-month paid term you will receive a prorated credit on your next billing date.
+針對年度計費，如果訂用帳戶在12個月付的前30天內取消，您會在下一個計費日期收到100% 的信用額度。 如果訂用帳戶在12個月付費期限的30天后取消，您會在下一個計費日期收到按比例計算的信用額度。
 
-### <a name="moving-subscriptions-between-partners"></a>Moving subscriptions between partners
+### <a name="moving-subscriptions-between-partners"></a>在合作夥伴之間移動訂閱
 
-Customers can't move subscriptions between from one partner to another. 這項規定同時適用於每月與年度計費的訂閱。
+客戶無法將訂用帳戶之間的訂閱移至另一個夥伴。 這項規定同時適用於每月與年度計費的訂閱。
 
-新的合作夥伴必須代表客戶購買新的訂閱 It's not possible to move subscriptions between partners.
+新的合作夥伴必須代表客戶購買新的訂閱 您無法在合作夥伴之間移動訂閱。
 
-### <a name="reactivating-subscriptions"></a>Reactivating subscriptions
+### <a name="reactivating-subscriptions"></a>重新開機訂閱
 
-You can reactivate a subscription for up to 90 days after the suspension date. 您會在接下來的帳單日期收到依比例計算的費用。 訂閱續約日期保持不變。
+您可以重新啟用訂用帳戶最多90天后的暫停日期。 您會在接下來的帳單日期收到依比例計算的費用。 訂閱續約日期保持不變。
 
 ## <a name="pricing"></a>定價
 
-### <a name="offer-pricing"></a>Offer pricing
+### <a name="offer-pricing"></a>供應專案定價
 
-The offer price at time of purchase is guaranteed for the full billed subscription term (one month for monthly billing, twelve months for annual billing). 訂閱續約時，會根據續約當日的價目表重設價格。 The new price is guaranteed for the next subscription term.
+購買時的供應專案價格保證是完整計費的訂閱期限（每月計費的一個月，每年計費12個月）。 訂閱續約時，會根據續約當日的價目表重設價格。 新的價格保證為下一個訂用帳戶條款。
 
-If an offer price decreases during the billing period, the amount you are billed for doesn't change. The price is set for the full billing period at the time of purchase. This applies to both monthly and annual billing.
+如果供應專案價格在計費期間降低，則您的計費金額不會變更。 價格會針對購買時的完整計費週期進行設定。 這同時適用于每月和年度計費。
 
-### <a name="cancellation-credits"></a>Cancellation credits
+### <a name="cancellation-credits"></a>取消信用額度
 
-Credit for a cancelled license or subscription is calculated as follows:
+已取消的授權或訂用帳戶的信用額度計算方式如下：
 
-**Cancellation credit** = ((**monthly price***12)/365) \* **days remaining in the twelve-month term** \* number of licenses cancelled.
+**取消信用額度**= （（* * 每月價格 * * 12）/365） \***在12個月期限中剩餘的天數**\* 已取消的授權數目。
 
-## <a name="reconciliation-file"></a>Reconciliation file
+## <a name="reconciliation-file"></a>對帳檔案
 
-### <a name="find-subscriptions-billing-frequency"></a>Find subscription's billing frequency
+### <a name="find-subscriptions-billing-frequency"></a>尋找訂用帳戶的計費頻率
 
-Review your license-based reconciliation file for information on whether your subscription is billed monthly or annually. This information is in column **AA**.
+查看以授權為基礎的對帳檔案，以取得您的訂用帳戶是每月或每年計費的相關資訊。 這項資訊位於**AA**資料行。
 
-To find out whether you can change a monthly subscription to annual billing, see [Find subscription applicability](#find-subscription-applicability).
+若要瞭解您是否可以將每月訂閱變更為年度計費，請參閱[尋找訂](#find-subscription-applicability)用帳戶適用性。
 
-### <a name="reconciliation-file-changes-for-annual-billing"></a>Reconciliation file changes for annual billing
+### <a name="reconciliation-file-changes-for-annual-billing"></a>年度計費的對帳檔案變更
 
-When you purchase or renew a subscription with annual billing, your license-based reconciliation file will change as follows.
+當您購買或續訂具有年度帳單的訂用帳戶時，您以授權為基礎的對帳檔案將會變更，如下所示。
 
-A new row on the license-based reconciliation file on the first billing date following the purchase or a new subscription.
+在購買或新訂閱後的第一個計費日期，以授權為基礎的對帳檔案上的新資料列。
 
-若訂閱沒有發生任何變更，則對帳檔案上訂閱期限的第二個月到第十二個月上不會有任何列。 If a change is made to the subscription during the twelve-month term, a credit and prorated rebill will appear on the next reconciliation file after the change is made.
+若訂閱沒有發生任何變更，則對帳檔案上訂閱期限的第二個月到第十二個月上不會有任何列。 如果在12個月的期間內對訂用帳戶進行變更，則在進行變更之後，會在下一個對帳檔案中顯示信用額度和按比例 rebill。
 
-The next change to the reconciliation file will appear when the subscription is renewed. 這將會出現在續約之後的第一個帳單日期。
+更新訂用帳戶時，將會顯示對帳檔案的下一次變更。 這將會出現在續約之後的第一個帳單日期。
 
-### <a name="usage-file-changes-for-annual-billing"></a>Usage file changes for annual billing
+### <a name="usage-file-changes-for-annual-billing"></a>年度計費的使用量檔案變更
 
-The following annually billed subscription changes appear in column P of your usage file.
+下列每年計費的訂用帳戶變更會出現在使用量檔案的第 P 欄中。
 
-- **Prorate Fees When Purchase**: the initial purchase of an annual subscription.
-- **Cycle Instance Prorate**: license changes that result in credit and rebilling.
-- **Cancel Fee**: the [cancellation of an annual subscription](#cancellation-of-annual-subscription).
+- **購買時依比例分配費用**：首次購買年度訂閱。
+- **週期實例依比例分配**：會產生信用額度和 rebilling 的授權變更。
+- **取消費用**：[每年訂](#cancellation-of-annual-subscription)用帳戶的取消。
 
-### <a name="cancellation-of-annual-subscription"></a>Cancellation of annual subscription
+### <a name="cancellation-of-annual-subscription"></a>每年訂閱的取消
 
-When an annually billed subscription is cancelled, the reconciliation file will contain one line item for a cancellation credit.
+當每年計費的訂用帳戶取消時，對帳檔案將會包含一個取消信用額度的明細專案。
 
-If the cancellation occurs in the first 30 days of the twelve-month term, the subscription will be credited at 100 percent. 若在 30 天之後才進行取消，收到的訂閱退款將會依比例計算。
+如果在12個月期的前30天內發生取消，訂閱將會在100% 時貸。 若在 30 天之後才進行取消，收到的訂閱退款將會依比例計算。
 
-### <a name="adding-licenses-to-annual-subscription"></a>Adding licenses to annual subscription
+### <a name="adding-licenses-to-annual-subscription"></a>將授權新增至年度訂閱
 
-When you add licenses to a subscription, the reconciliation file will contain a credit and prorated rebill. This applies to monthly and annually billed subscriptions.
+當您將授權新增至訂用帳戶時，對帳檔案會包含點數和按比例計算的 rebill。 這適用于每月和每年計費的訂閱。
 
-### <a name="price-lists-for-annual-billing"></a>Price lists for annual billing
+### <a name="price-lists-for-annual-billing"></a>年度計費的價格清單
 
-Partner Center price lists show the monthly prices. There is no annual price listed. 將每月價格乘以 12，即可計算得到年度價格。
+合作夥伴中心價格清單會顯示每月價格。 沒有列出每年價格。 將每月價格乘以 12，即可計算得到年度價格。
 
-### <a name="offer-matrix"></a>Offer matrix
+### <a name="offer-matrix"></a>供應專案矩陣
 
-Offer IDs in the offer matrix are the same for all billing frequencies. There are no unique IDs for offers that can be billed annually.
+供應專案矩陣中的供應專案識別碼在所有計費頻率中都相同。 供應專案沒有可按年計費的唯一識別碼。
 
 ## <a name="incentives"></a>獎勵
 
-### <a name="incentives-calculation"></a>Incentives calculation
+### <a name="incentives-calculation"></a>獎勵計算
 
-Incentives are calculated based on **billed revenue**, ***not* adjusted revenue**. 實獲的獎勵付款會根據我們在雲端解決方案提供者獎勵指南中的原則提供。
+獎勵的計算是根據**計費的收益**， ***而不*** 是經過調整的收益。 實獲的獎勵付款會根據我們在雲端解決方案提供者獎勵指南中的原則提供。
 
-When an annually billed subscription is sold, that subscription's revenue is recognized for the calculation of incentives based on billed revenue.
+銷售每年計費的訂閱時，會根據計費的收益，辨識出該訂用帳戶的收益以計算獎勵。
 
 ### <a name="payout"></a>支付
 
-Currently, all incentive payments are made twice a year. 這些付款將在半年度結束之後的 45 天支付。
+目前，所有獎勵費用都會一年進行兩次。 這些付款將在半年度結束之後的 45 天支付。
 
 ### <a name="rates"></a>費率
 
-Partners earn incentives on all eligible transactions, regardless of how a subscription is billed. Incentive earnings are calculated based on the global incentive rate (which is applied to the billed revenue for the period), the local accelerator (for all geographies in which there are local accelerators), and any global campaigns (where applicable).
+不論訂用帳戶的計費方式為何，合作夥伴都能獲得所有合格交易的獎勵。 獎勵收益是根據全球獎勵率（適用于此期間的計費收益）、本機加速器（適用于有本機加速器的所有地理位置），以及任何全球行銷活動（如果適用）來計算。
 
 ### <a name="contacts"></a>連絡人
 
-For questions about incentives, contact the appropriate regional incentives support team:
+如有關于獎勵的問題，請洽詢適當的區域獎勵支援小組：
 
-| 地區 | Email address |
+| 地區 | 電子郵件地址 |
 | ------ | ------------- |
 | 北美洲 | <ocina@microsoft.com> |
-|Latin America & Brazil | <ocilatam@microsoft.com> |
+|拉丁美洲 & 巴西 | <ocilatam@microsoft.com> |
 | EMEA | <ociemea@microsoft.com> |
-| APOAC (excluding Japan) | <ociapgc@microsoft.com> |
+| APOAC （日本除外） | <ociapgc@microsoft.com> |
 | 日本 | <ocijp@microsoft.com> |
 
 
-### <a name="suspension"></a>Suspension
+### <a name="suspension"></a>擱置
 
-If you suspend an subscription (in Partner Center or through the APIs) within 30 days of purchase, you will receive a 100% credit, regardless of billing frequency.
+如果您在購買的30天內暫止訂用帳戶（在合作夥伴中心或透過 Api），不論計費頻率為何，您都會收到100% 的點數。
 
-For annual billing:
+針對年度計費：
 
-1. The partner buys the subscription on January 1st. A charge billing line is created for the service period January 1st to December 31st.
-2. The partner suspends the subscription on January 25th. A credit billing line is created for the service period January 1st to December 31st.
-3. The reactivates the subscription on January 29th. A charge billing line is created for the service period January 29th to December 31st.
+1. 合作夥伴會在1月1日購買訂用帳戶。 服務期間會為1月1日到12月31日前建立費用計費線。
+2. 合作夥伴會在1月25日暫停訂用帳戶。 針對服務期間，會在1月1日到12月31日前建立信用計費線。
+3. 會在1月29日重新啟用訂閱。 在1月29日到12月31日前，會建立費用計費線。
 
-For monthly billing:
+針對每月計費：
 
-1. The partner buys the subscription on January 1st. A charge billing line is created for the service period January 1st to January 31st.
-2. The partner suspends the subscription on January 25th. A credit billing line is created for the service period January 1st to January 31st.
-3. The partner reactivates the subscription on January 29th. A charge billing line is created for the service period January 29th to January 31st.
+1. 合作夥伴會在1月1日購買訂用帳戶。 針對服務期間，會建立一條費用計費線1到1月31日。
+2. 合作夥伴會在1月25日暫停訂用帳戶。 會針對服務期間（1月1日到1月31日）建立信用額度計費行。
+3. 合作夥伴會在1月29日重新啟用訂用帳戶。 在1月29日到1月31日的服務期間，會建立費用計費線。

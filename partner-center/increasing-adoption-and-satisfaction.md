@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to use metrics in Partner Center to see whether your business is growing, how customers are using their licenses, and where to focus investment.
+description: 瞭解如何使用合作夥伴中心內的計量來查看您的業務是否成長、客戶如何使用其授權，以及要將投資放在何處。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
@@ -32,13 +32,13 @@ ms.locfileid: "74253694"
 ## <a name="find-license-and-user-data"></a>尋找授權和使用者資料
 
 
-**For a single customer**
+**適用于單一客戶**
 
--   Select **Customers** from the **Partner Center**, choose a customer, then select **Customer insights**.
+-   從**合作夥伴中心**選取 [**客戶**]，選擇客戶，然後選取 [ **customer insights**]。
 
-**Across your portfolio**
+**跨您的組合**
 
-1.  On the **Partner Center**, select **Analyze**.
+1.  在**合作夥伴中心**上，選取 [**分析**]。
 2.  選取 **\[匯出\]** 來下載整個客戶集的部署與使用量資料
 
 詞彙︰
@@ -64,7 +64,7 @@ ms.locfileid: "74253694"
 ## <a name="next-steps"></a>後續步驟
 
 
-If you are fielding a lot of Help and How-to questions, the adoption numbers on your account are low, or you're looking for upsell opportunities, you may want to consider offering training courses. By teaching your customers how to better use the cloud solution software they have purchased, you're more likely to see an increase in productivity and satisfaction, and a decrease in support needs.
+如果您有大量的協助和 How-to 問題，您帳戶的採用號碼很低，或者您要尋找向上銷售的機會，您可以考慮提供訓練課程。 藉由教客戶如何更有效地使用所購買的雲端解決方案軟體，您更有可能會發現生產力和滿意度增加，而且支援需求也會降低。
 
 <table>
 <colgroup>
@@ -72,14 +72,14 @@ If you are fielding a lot of Help and How-to questions, the adoption numbers on 
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>Problem:</strong> The user adoption rate is low, and many licenses aren&#39;t being used.</p>
-<p><strong>考量事項：</strong>客戶可能不了解軟體可提供的價值。 They need help envisioning the ways they could incorporate it into their day to simplify tasks that they're already doing, or to enable new kinds of productivity.</p>
+<td><p><strong>問題：</strong>使用者採用率很低，而且許多授權&#39;不會被使用。</p>
+<p><strong>考量事項：</strong>客戶可能不了解軟體可提供的價值。 他們需要協助構思他們可以將其納入一天的方式，以簡化他們已經在執行的工作，或實現新的產能。</p>
 <p><strong>嘗試事項：</strong>案例研究、與特定案例有關的使用者見證、教學課程的部落格或影片。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>問題：</strong>有大量支援電話要求取得說明和使用方法。</p>
 <p><strong>考慮事項：</strong>客戶可能是軟體、該產品版本或其從事之工作的新手。</p>
-<p><strong>What to try:</strong> You can use a dual strategy of offering training (in person or online) to increase customer&#39;s overall expertise, while also promoting some of the self-service options available to customers.</p>
+<p><strong>應嘗試的動作：</strong>您可以使用一套雙重策略來提供訓練（親自或線上）來提高客戶&#39;的整體專長，同時也能推廣一些可供客戶使用的自助選項。</p>
 <p>您可能會想要重新設計您的支援網站，使其中除了包含您的支援連絡資訊外，也包含<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客戶自我支援</a>主題中所述的自助服務選項。</p></td>
 </tr>
 </tbody>

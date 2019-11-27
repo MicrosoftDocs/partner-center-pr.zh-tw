@@ -1,12 +1,12 @@
 ---
-title: Common billing scenarios for one-time and select recurring purchases | Partner Center
+title: 一次性和選取週期性購買的常見計費案例 |合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: Common billing scenarios in Partner Center for one-time and select recurring purchases (such as purchasing subscriptions, adding more subscriptions, adding and removing seats).
+description: 在合作夥伴中心進行一次性的一般計費案例，並選取週期性購買（例如購買訂閱、新增更多訂閱、新增和移除基座）。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, one-time purchase, recurring purchase, subscriptions, seats
+Keywords: 帳單，付款，一次性購買，週期性購買，訂用帳戶，基座
 ms.localizationpriority: medium
 ms.openlocfilehash: 69a7f1d4ded608942ea8b4bd7bec6054a44d52c7
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -15,11 +15,11 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 11/22/2019
 ms.locfileid: "74389636"
 ---
-# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>One-time and select recurring purchase billing scenarios
+# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>一次性和選取週期性購買計費案例
 
-These example [common billing scenarios](common-billing-scenarios.md) are applicable to [one-time and select recurring charges](one-time-and-recurring-billing.md) in Partner Center.
+這些範例[常見計費案例](common-billing-scenarios.md)適用于[一次，並](one-time-and-recurring-billing.md)在合作夥伴中心內選取週期性費用。
 
-## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>Purchase a subscription and add a seat on the same day
+## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>購買訂用帳戶並在同一天新增基座
 
 在案例 1，您在 6 月 11 日以 $4 美元的單價購買一個訂用帳戶。 同一天稍晚，您以相同的價格購買另一個相同的訂用帳戶。
 
@@ -31,11 +31,11 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 |**購買日期**   |**收費開始** |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019      |6/10/2019   |7/09/2019         |$4                |1                 |$4            |新的         |
+|6/11/2019      |6/10/2019   |7/09/2019         |$4                |1                 |$4            |新增         |
 |6/11/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$4       |addQuantity           |
 |6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$8         |addQuantity           |
 
-## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>Purchase a subscription and add more subscriptions later
+## <a name="purchase-a-subscription-and-add-more-subscriptions-later"></a>購買訂用帳戶，並于稍後新增更多訂閱
 
 在案例 2，您在 6 月 11 日以單價 $4 美元購買一個訂用帳戶，而在 6 月 12 日您以相同價格針對相同產品購買另一個訂用帳戶。
 
@@ -47,11 +47,11 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 |**購買日期**   |**收費開始** |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019 (您有一份授權)     |6/10/2019   |7/09/2019         |$4         |1        |$4            |新的         |
+|6/11/2019 (您有一份授權)     |6/10/2019   |7/09/2019         |$4         |1        |$4            |新增         |
 |6/12/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$3.87       |addQuantity           |
 |6/12/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$7.74       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>Purchase a subscription and remove a seat on the same day
+## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>購買訂用帳戶並移除同一天的基座
 
 在案例 3，您在 6 月 11 日以 $4 美元的單價針對相同產品購買兩個訂用帳戶。 同一天稍晚，您移除其中一個基座。  
 
@@ -63,11 +63,11 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 |**購買日期**   |**收費開始** |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019      |6/10/2019   |7/09/2019         |$4                |2                 |$8            |新的         |
+|6/11/2019      |6/10/2019   |7/09/2019         |$4                |2                 |$8            |新增         |
 |6/11/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$8       |removeQuantity           |
 |6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 1      |$4         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-seats-later"></a>Purchase a subscription and remove seats later
+## <a name="purchase-a-subscription-and-remove-seats-later"></a>購買訂用帳戶並于稍後移除基座
 
 在案例 4，您在 6 月 11 日以單價 $4 美元購買 2 個訂用帳戶，並在 6 月 12 日移除其中一個基座。
 
@@ -79,6 +79,6 @@ These example [common billing scenarios](common-billing-scenarios.md) are applic
 
 |**購買日期**   |**收費開始** |**收費結束**  |**單價**  |**數量**  |**金額** |**收費類型** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019 (您有 2 份授權)     |6/10/2019   |7/09/2019         |$4         |2        |$8       |新的       |
+|6/11/2019 (您有 2 份授權)     |6/10/2019   |7/09/2019         |$4         |2        |$8       |新增       |
 |6/12/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$7.74       |removeQuantity           |
 |6/12/2019 (您有 1 份授權)    | 6/10/2019    |7/09/2019   |$4    |1      |$3.87    |removeQuantity |

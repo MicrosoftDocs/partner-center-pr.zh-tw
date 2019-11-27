@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn how to view and export activity logs to gain insight on customer account transactions and other customer-related partner management activities.
+description: 瞭解如何查看和匯出活動記錄，以深入瞭解客戶帳戶交易和其他客戶相關的合作夥伴管理活動。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: MaggiePucciEvans
 ms.author: evansma
@@ -40,11 +40,11 @@ ms.locfileid: "74252710"
 
 3.   記錄的資料欄包含下列項目：
     -   **日期 / 時間**：動作的日期和時間；
-    -   **受影響客戶**：客戶的公司名稱；
+    -   **受影響客戶**—客戶的公司名稱；
     -   **動作**：由客戶所採取的動作，例如「已建立轉介」；
     -   **合作夥伴使用者**：與活動相關聯的合作夥伴。
 
-4.  選取 [匯出記錄] 以將客戶的訂閱資料複製到 .csv 檔案，然後將該檔案下載到您電腦中的預設下載資料夾。
+4.  選取 **\[匯出記錄\]** 以將客戶的訂閱資料複製到 .csv 檔案，然後將檔案下載到您電腦中的預設下載資料夾。
     
  
 

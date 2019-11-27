@@ -3,7 +3,7 @@ title: 分析間接經銷商績效 | 合作夥伴中心
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: Learn how to use analytics to find out how your indirect resellers are doing, both their successes and areas that may need more attention.
+Description: 瞭解如何流量分析，找出間接轉銷商的表現，包括成功和可能需要注意的區域。
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
@@ -37,26 +37,26 @@ ms.locfileid: "74253379"
  - **使用中經銷商**：MPNID 至少有 1 個訂閱，以及訂閱狀態不是取消佈建的間接經銷商計數  
  - **交易中經銷商**：在指定的時段中有售出訂閱的間接經銷商計數  
 
-**Resellers by market**  
+**市場轉銷商**  
  - 依照地理位置分類的經銷商總數  
 
-**Top resellers by subscriptions sold**
+**銷售的前幾名轉銷商**
  - 依照售出訂閱數量排序的經銷商清單  
 
-**Top products by subscription count**  
+**依訂用帳戶計數排列的熱門產品**  
  - **Dynamics 365**：依售出訂閱排序的 Dynamics 365 產品  
  - **EMS**：售出的企業管理服務訂閱數量  
  - **Microsoft 365**：售出的 Microsoft 365 訂閱數量  
  - **Office 365**：依售出訂閱排序的 Office 365 產品  
 
-**New subscriptions**  
+**新增訂閱**  
  - 依日期新增的新訂閱數量  
 
-**Subscription churn**  
+**訂用帳戶流失**  
  - **新訂閱**：依日期新增的新訂閱計數  
  - **取消佈建的訂閱**：依日期的取消佈建或暫停訂閱計數  
 
-**New reseller details**  
+**新轉售商詳細資料**  
  - **經銷商名稱**：間接經銷商的名稱  
  - **位置**：間接經銷商營運的市場  
  - **訂閱**：經銷商售出的訂閱數  

@@ -37,7 +37,7 @@ ms.locfileid: "74253134"
 </colgroup>
 <thead>
 <tr class="header">
-<th>產品</th>
+<th>優惠供應</th>
 <th>可能的升級</th>
 </tr>
 </thead>

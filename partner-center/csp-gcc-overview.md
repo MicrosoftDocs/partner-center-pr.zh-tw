@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Learn the steps and requirements to sell subscriptions to Office 365 Government GCC for CSP to qualified United States government customers or contractors.
+description: 瞭解向合格美國政府客戶或承包商銷售適用于 CSP 的 Office 365 政府版 GCC 訂閱的步驟和需求。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
@@ -34,7 +34,7 @@ ms.locfileid: "74252381"
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱
 
-After your company has been approved to sell Office 365 Government GCC for CSP offers, you can start selling to customers using Partner Center. Refer to these resources to learn how to use Partner Center to sell subscriptions: 
+當您的公司獲准銷售適用于 CSP 供應專案的 Office 365 政府版 GCC 之後，您就可以開始使用合作夥伴中心向客戶銷售。 若要瞭解如何使用合作夥伴中心來銷售訂用帳戶，請參閱這些資源： 
 
 -   如需銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱的逐步指南，請移至[這裡](https://go.microsoft.com/fwlink/?linkid=2007323)。  
 
@@ -45,8 +45,8 @@ After your company has been approved to sell Office 365 Government GCC for CSP o
 
 產品資源：
 
-- [Office 365 Government Service Description](https://technet.microsoft.com/library/mt774581.aspx)
+- [Office 365 政府服務描述](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
-- [Microsoft Trust Center](https://www.microsoft.com/TrustCenter/)
-- [Microsoft Service Trust Portal](https://aka.ms/STP)
+- [Microsoft 信任中心](https://www.microsoft.com/TrustCenter/)
+- [Microsoft 服務信任入口網站](https://aka.ms/STP)
 

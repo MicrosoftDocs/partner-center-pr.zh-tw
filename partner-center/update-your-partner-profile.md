@@ -2,7 +2,7 @@
 title: 確認您的合作夥伴設定檔
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 當您第一次以系統管理員身分登入時，請確定支援詳細資料正確、回報免稅 (若適用)，並複查設定檔中的連絡人資訊。
+description: 當您第一次以系統管理員身分登入時，請確定支援詳細資料正確、回報免稅 (若適用)，並檢閱設定檔中的連絡人資訊。
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne

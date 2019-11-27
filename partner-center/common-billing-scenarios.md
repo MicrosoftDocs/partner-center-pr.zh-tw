@@ -4,11 +4,11 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Explanation what you will see on your bill after you add new subscriptions, adjust the number of licenses in a subscription, or cancel a subscription. 針對用量型和授權型訂閱會有不同的影響。
+description: 說明新增訂閱之後，您會在帳單上看到的內容、調整訂用帳戶中的授權數量，或取消訂用帳戶。 針對用量型和授權型訂閱會有不同的影響。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
-Keywords: billing, payments, orders, usage, license-based billing, anniversary date, term, cancellation, renewal, price formula,reconciliation file, recon file
+Keywords: 帳單，付款，訂單，使用量，以授權為基礎的帳單，週年日，期，取消，續約，價格公式，對帳檔案，偵察檔案
 ms.localizationpriority: medium
 ms.openlocfilehash: eaedbdf3f931c1b28f1219efe2739e9b65162864
 ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
@@ -21,13 +21,13 @@ ms.locfileid: "74384606"
 
 適用於：
 
-- Cloud Solution Provider (CSP) program billing
+- 雲端解決方案提供者（CSP）方案計費
 
-These topics explain what you should expect to see on your bill after you add new subscriptions, add new seats, adjust the number of licenses to a subscription, or cancel a subscription. Other [Partner Center billing types](billing-different-types.md), such as usage-based and license-based subscriptions, are billed differently.
+這些主題說明您在新增訂閱、新增基座、調整訂用帳戶的授權數目或取消訂用帳戶之後，預期會在帳單上看到的內容。 其他[合作夥伴中心計費類型](billing-different-types.md)，例如以使用量為基礎和以授權為基礎的訂用帳戶，則會以不同的方式計費。
 
-| Type of billing | Scenarios covered |
+| 計費類型 | 涵蓋的案例 |
 | --------------- | ----------------- |
-| [Monthly billing](common-billing-scenarios-monthly.md) | Adding new subscriptions, changing license quantity, and suspending subscriptions. |
-| [Annual billing](common-billing-scenarios-annual.md) | Adding new subscriptions, adding licenses before your billing date, change license quantity, and suspending and reactivating subscriptions. |
-| [Billing for one-time and select recurring purchases](common-billing-scenarios-onetime-recurring.md) | Purchasing subscriptions, adding more subscriptions, adding and removing seats. |
-| [Billing for license-based SaaS subscriptions](common-billing-scenarios-saas.md) | Free trials for license-based software as a service (SaaS) subscriptions. Purchasing and cancelling custom meter SaaS subscriptions. |
+| [每月計費](common-billing-scenarios-monthly.md) | 加入新的訂閱、變更授權數量，以及暫停訂閱。 |
+| [年度帳單](common-billing-scenarios-annual.md) | 加入新的訂用帳戶、在帳單日期之前新增授權、變更授權數量，以及暫停和重新開機訂閱。 |
+| [一次性和選取週期性購買的帳單](common-billing-scenarios-onetime-recurring.md) | 購買訂閱、新增更多訂用帳戶、新增和移除基座。 |
+| [以授權為基礎的 SaaS 訂用帳戶計費](common-billing-scenarios-saas.md) | 以授權為基礎的軟體即服務（SaaS）訂閱的免費試用版。 購買和取消自訂計量 SaaS 訂閱。 |
