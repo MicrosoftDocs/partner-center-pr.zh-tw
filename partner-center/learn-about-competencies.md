@@ -1,7 +1,7 @@
 ---
 title: 銀級及金級會員資格的 Microsoft 專長認證要求條件 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解取得金級及銀級會員資格等級的專長認證要求條件。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格, 進階專長
 ms.localizationpriority: high
-ms.openlocfilehash: 4ebdeff79ad61cf37806f0c76620920a304c3fe4
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 508480f2c9e1e67b939885bf31fafdd09e3aabc7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653330"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253664"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft 銀級及金級專長認證和進階專長的相關資訊
 
@@ -45,13 +45,13 @@ ms.locfileid: "73653330"
 
 深入了解[贏得銀級和金級會員資格的必要條件](https://partner.microsoft.com/membership/competencies)
 
-了解適用於銀級和金級會員資格的特定[上市權益](mpn-learn-about-go-to-market-benefits.md) 
+瞭解適用於銀級和金級會員資格的特定[上市權益](mpn-learn-about-go-to-market-benefits.md) 
 
 深入了解[專長認證的發票和稅金](mpn-view-print-maps-invoice.md)
 
 ## <a name="advanced-specializations"></a>進階專長
 
-具備進階專長，超越您的金級專長認證。 這些認證可讓您展示您在產品、解決方案領域或服務中具有經過證實、可驗證的專長。 客戶能夠在您於合作夥伴目錄的商務設定檔中，看到您的金級專長認證和您的進階專長。 若要收到進階專長標記，您的企業必須完全符合一組已發佈的準則，並且經過 Microsoft 驗證。 [進一步了解](https://partner.microsoft.com/membership/competencies#tab-content-2)。 
+具備進階專長，超越您的金級專長認證。 這些認證可讓您展示您在產品、解決方案領域或服務中具有經過證實、可驗證的專長。 客戶能夠在您於合作夥伴目錄的商務設定檔中，看到您的金級專長認證和您的進階專長。 若要收到進階專長標記，您的企業必須完全符合一組已發佈的準則，並且經過 Microsoft 驗證。 [進一步瞭解](https://partner.microsoft.com/membership/competencies#tab-content-2)。 
 
 ## <a name="the-current-advanced-specializations"></a>目前的進階專長
 
