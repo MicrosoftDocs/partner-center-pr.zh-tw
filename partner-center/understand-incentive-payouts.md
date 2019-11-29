@@ -8,12 +8,12 @@ description: 檢視獎勵計畫的收益和支付。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a616fabb87793bb5433eb1d56c9d20923df6e01
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654000"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559742"
 ---
 # <a name="view-your-incentives-payments-information"></a>查看您的獎勵付款資訊
 
@@ -91,6 +91,7 @@ ms.locfileid: "73654000"
 |earnedUSD   |方案/參與者識別碼所獲的金額（以美元為單位）      |
 |withheldTax   |方案/participantID 的付費貨幣所扣的稅金金額      |
 |salesTax   |方案/participantID 的總銷售金額（以付款貨幣計）      |
+|serviceFeeTax  |方案/participantID 的 serviceFeeTax 總金額（依貨幣付費） |
 |totalPayment   |以當地貨幣為單位的總付款，不包括預繳稅金，並包含方案/participantID 的銷售稅額（如果適用）      |
 |currencyCode   |支付貨幣代碼      |
 |paymentMethod   |用來支付合作夥伴的方法（電子銀行轉帳、點數注意事項）      |

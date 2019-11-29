@@ -1,7 +1,7 @@
 ---
 title: 應用程式開發專長認證的一次性測驗需求豁免 |合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 針對具有先前 ISV 專長認證的合作夥伴，瞭解如何取得應用程式開發專長認證的一次性測驗需求豁免
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 專長認證，ISV，應用程式開發
 ms.localizationpriority: medium
-ms.openlocfilehash: 022d8f17e279726741d1ba8b7f3f9bc9a951a52d
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 810fd3446077365d9a6b838840a89cdca85edef1
+ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295230"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "74559507"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>應用程式開發專長認證的一次性測驗需求豁免
 
@@ -27,9 +27,9 @@ ms.locfileid: "74295230"
 
 具有 ISV 專長認證的合作夥伴：
 
-- **您的 ISV 專長認證已過期**–自2019年11月22日起，您的一次性測驗需求豁免將于合作夥伴中心上市。 您將有30天的時間可以利用此供應專案。 
+- **您的 ISV 專長認證已過期**–從2019年11月22日起，合作夥伴中心內提供了一次性測驗需求豁免。 您有30天的時間可以利用供應專案。 登入合作夥伴中心，取得貴公司專屬的詳細資料。
 
-- **您的專長認證成員資格位於其更新時間範圍內**–自2019年11月22日起，合作夥伴中心將會提供您的一次性測驗需求豁免。 您將有30天的時間可以利用此供應專案。 
+- **您的專長認證成員資格位於其更新時間範圍內**–從2019年11月22日起，合作夥伴中心內提供了一次性測驗需求豁免。 您有30天的時間可以利用供應專案。 登入合作夥伴中心，取得貴公司專屬的詳細資料。
 
 - **您的專長認證成員資格會在接下來幾個月內更新**，而您的一次性測驗需求豁免會在更新時提供給您。 此時，您將有30天的時間可以取得該供應專案。
 
