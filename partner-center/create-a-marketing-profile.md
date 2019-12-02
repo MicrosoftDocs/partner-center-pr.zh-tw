@@ -1,21 +1,21 @@
 ---
 title: 建立商務設定檔 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 11/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作夥伴中心建立商務設定檔以透過 Microsoft 獲得業務潛在客戶。
+description: 了解如何從 Microsoft 取得業務潛在客戶。 其中一個重要步驟是在合作夥伴中心建立商務設定檔，讓客戶可以找到您。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, 推薦, 業務潛在客戶, C2PC, 公司設定檔, 行銷您的公司, 尋找合作夥伴, 尋找解決方案提供者, 商務設定檔, 行銷設定檔
 ms.localizationpriority: high
-ms.openlocfilehash: 75c38b5844f60fc21326c546ac97db9868ab0e02
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653604"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252654"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page

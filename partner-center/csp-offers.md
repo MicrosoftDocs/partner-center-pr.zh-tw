@@ -1,7 +1,7 @@
 ---
 title: 雲端解決方案提供者計畫中的合作夥伴供應項目 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/28/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入了解透過雲端解決方案提供者計畫銷售的合作夥伴可提供的供應項目。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, 雲端解決方案提供者計畫, 雲端解決方案提供者, 新增產品, 銷售給客戶, 合作夥伴供應項目, 雲端解決方案提供者供應項目, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 在雲端解決方案提供者中銷售, Azure RI, Azure 保留的虛擬機器執行個體, Azure Reservations, 線上服務, 訂閱軟體, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客戶訂閱
 ms.localizationpriority: high
-ms.openlocfilehash: c0ddfac22b776d49b05f6f9d780ed092183d4796
-ms.sourcegitcommit: 9d68c3fe3194bc583c88b22d8a9f60e4b369b79d
+ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "73799211"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252913"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫中的合作夥伴供應項目 
 
@@ -57,7 +57,7 @@ ms.locfileid: "73799211"
     
     您也可以在 [Marketplace]  頁面上找到這些產品的相關資訊。 請注意，此頁面也包含必須從 Azure 入口網站 (而非合作夥伴中心) 購買的其他類型產品相關資訊。<br>
 
-    如需詳細資訊，請參閱[銷售 Azure Marketplace 產品的訂閱](sell-marketplace-products.md)
+    如需詳細資訊，請參閱 [CSP 商業市集的概觀](CSP-commercial-marketplace-overview.md)
 
 ## <a name="add-products-page-details"></a>新增產品頁面詳細資料
 
@@ -104,8 +104,8 @@ ms.locfileid: "73799211"
 
 如需計費程序運作方式的詳細資訊，請閱讀[計費基本概念](https://docs.microsoft.com/partner-center/billing-basics)。
 
-如需在 Azure 方案下購買的相關資訊，請閱讀[購買 Azure 方案](purchase-azure-plan)。
+如需在 Azure 方案下購買的相關資訊，請閱讀[購買 Azure 方案](purchase-azure-plan.md)。
 
+## <a name="see-also"></a>請參閱
 
-
-
+[CSP 商業市集的概觀](csp-commercial-marketplace-overview.md)

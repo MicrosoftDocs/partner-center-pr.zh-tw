@@ -1,73 +1,41 @@
 ---
 title: 帳單 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 身為雲端解決方案提供者合作夥伴，您要在 60 天內，向 Microsoft 支付您客戶之授權型與用量型訂閱的費用。
+Description: 合作夥伴中心的帳單主題包括帳單資源、發票和 CSP 計費。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: high
-ms.openlocfilehash: fcf341a11e0796adce6ce497c51d3316c1e623cf
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 8169c8303c78ceaeb1b47c124411f0324ae0349a
+ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096460"
+ms.lasthandoff: 11/22/2019
+ms.locfileid: "74384623"
 ---
 # <a name="billing"></a>帳單
 
-**適用於**
+適用於：
 
--  合作夥伴中心
--  Microsoft Cloud for US Government 適用的合作夥伴中心
- 
- 
-若為您的帳單，請移至 [合作夥伴中心]  功能表，然後選取 [帳單]  以查看您的帳單記錄和趨勢、目前月份的應付餘額、發票與對帳檔案的連結，以及最近的付款。
+- 合作夥伴中心
+- Microsoft Cloud for US Government 適用的合作夥伴中心
 
-如果雲端解決方案提供者計畫中的合作夥伴選擇每月計費，應於 60 天內，向 Microsoft 支付其客戶的訂閱費用 (包括授權型與用量型)。
+| 主題 | 描述 |
+| ----- | ----------- |
+| [帳單概觀](billing-basics.md) | 合作夥伴中心帳單的基本概念 (包括付款、發票和對帳檔案)。 |
+| [帳單類型](billing-different-types.md) | 合作夥伴中心的不同帳單類型說明。 |
+| [每月和每年計費的差異](billing-annual-monthly.md) | 說明每月和每年計費頻率之間的差異。 |
+| [閱讀您的帳單](read-your-bill.md) | 如何閱讀並了解您的合作夥伴中心帳單。 |
+| [免費試用](offer-your-customers-trials-of-microsoft-products.md) | 如何為您的客戶提供免費試用版，以及這些試用版如何計費。 |
+| [對帳檔案](use-the-reconciliation-files.md) | 如何閱讀和使用對帳檔案的明細項目。 |
+| [常見帳單案例](common-billing-scenarios.md) | 如何了解常見的合作夥伴中心帳單案例 (針對每月和每年計費，以及一次性和週期性購買的帳單)。 |
+| [稅務責任和豁免](tax-and-tax-exemptions.md) | 說明您在合作夥伴中心業務上的稅務責任及稅務豁免。 |
+| [Azure 費用預算](set-an-azure-spending-budget-for-your-customers.md) | 如何為客戶設定 Azure 費用的預算。 |
+| [未付款、詐騙或濫用](non-payment--fraud--or-misuse.md) | 如何在合作夥伴中心內管理客戶未付款、詐騙或濫用的情形。 |
+| [針對服務中斷要求 SLA 信用額度](request-credit.md) | 當服務中斷時，如何為您的客戶向 Microsoft 要求 SLA 信用額度。 |
 
-> [!NOTE]  
-> 您的發票是目前每個月期間所有費用 (涵蓋方案、產品以及客戶) 的摘要，將於您所選帳單日期的 2 天內提供，採用 UTC 時間。 例如，如果您有 9 月 12 日帳單日期，則發票產生程序將從 13 日 12:00AM UTC 開始，並在 14 日 12:00AM UTC 完成。 如果您在 15 日 11:59PM UTC 沒有看到您的發票，表示您不在服務等級協定中，而且應該提出服務要求。 
-
-關於向客戶收費的重要應知資訊：
-
--   Microsoft 不會對您在發票開立事宜處理方式上有任何要求或條件。
--   請使用對帳檔案內的客戶識別碼/名稱以及其他相關欄位，來判斷客戶的使用量。
--   針對您所提供的產品與服務自行增加費用。
--   將包含所有費用的單一帳單傳送給客戶。
-
-## <a name="billing-resources"></a>帳單資源
-|**資訊項目**   |**請閱讀本文**    |
-|:-----------------------------|:-----------------|
-|帳單、付款、發票等基本知識   |[帳單基本知識](billing-basics.md)
-|許多新的帳單功能，例如年度帳單   |[新帳單功能的常見問題集](faq-about-new-billing-features.md)|
-|帳單類型   |[了解合作夥伴中心的帳單類型](billing-different-types.md)   |
-|閱讀帳單的要訣   |[閱讀您的帳單](read-your-bill.md)   |
-|如何閱讀和使用對帳檔案   |[使用對帳檔案](use-the-reconciliation-files.md)|
-|一般帳單案例 (可在[新帳單功能的常見問題集](faq-about-new-billing-features.md)中尋找其他帳單案例)|[常見帳單案例](common-billing-scenarios.md)|
-|您的納稅義務   | [稅金與免稅](tax-and-tax-exemptions.md)|
-|用量型預算    |[為客戶設定 Azure 消費預算](set-an-azure-spending-budget-for-your-customers.md)|
-|不付款、詐欺或濫用情況的處理方式   |[未付款、詐騙或濫用](non-payment--fraud--or-misuse.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+如果您要尋找合作夥伴中心 API 的計費資訊和資源，請參閱[開發人員計費文件](https://docs.microsoft.com/partner-center/develop/manage-billing)。

@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 52a87b80c68ec44263a7e402ea458b918aa952df
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
+ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661111"
+ms.lasthandoff: 11/21/2019
+ms.locfileid: "74295258"
 ---
 # <a name="partner-security-requirements-status"></a>合作夥伴安全性需求狀態
 
@@ -105,7 +105,7 @@ ms.locfileid: "73661111"
 
 * **自訂控制項** - Azure AD 自訂控制項不能用來識別使用者是否已透過協力廠商 MFA 解決方案完成 MFA 驗證。 因此，透過自訂控制項完成 MFA 驗證的任何使用者，一律會對 Azure AD (接著是合作夥伴中心) 顯示未完成 MFA 驗證。 可能的話，建議您在與 Azure AD 整合時，切換為使用身分識別同盟，而不是自訂控制項。
 
-### <a name="identity-which-users-have-logged-into-partner-center-without-mfa"></a>識別哪些使用者已登入合作夥伴中心但未進行 MFA
+### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>識別哪些使用者已登入合作夥伴中心但未進行 MFA
 
 識別哪些使用者已登入合作夥伴中心但未進行 MFA 驗證，並根據您目前的 MFA 實作進行驗證，可能很有幫助。 您可以使用 [Azure AD 登入報告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)知道使用者是否已完成 MFA 驗證。 Azure AD 登入報告目前僅適用於已訂閱 Azure AD Premium 的合作夥伴，或包含 Azure AD Premium (例如 EMS) 的任何 O365 SKU。
 

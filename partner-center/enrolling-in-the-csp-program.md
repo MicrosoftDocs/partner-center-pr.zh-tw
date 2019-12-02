@@ -1,19 +1,19 @@
 ---
 title: 註冊雲端解決方案提供者計畫 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/20/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解以雲端解決方案提供者銷售的不同模型，並判斷哪個最適合您的業務
+description: 了解以雲端解決方案提供者 (CSP) 計畫銷售的不同模型，並判斷哪個最適合您的業務。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 5b13ee39b514da197abd64eb64b6086c6ce11ecc
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 00a46c91aedf9261722d29ed7ac5357fe1256ef7
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653192"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252159"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 

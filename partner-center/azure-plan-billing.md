@@ -1,21 +1,21 @@
 ---
-title: Azure 方案 - 計費 | 合作夥伴中心
+title: Azure 方案計費 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 描述 Azure 方案的發票和對帳檔案結構
+description: 了解如何存取及了解與 Azure 方案計費相關的發票和對帳檔案結構。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: fcf5cc85f0e561f2c82e691da4e56667c5925b05
-ms.sourcegitcommit: 9612a02407b8f18f825e1433adc4e6b0b62c9034
+ms.openlocfilehash: b52030f4956f8b3f86eec5aad72628dc64099729
+ms.sourcegitcommit: f5dbf96c1dece9c766e9b4c1527e599872e2ab14
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73661168"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "74536443"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商務體驗 - Azure 計費 
 
@@ -42,7 +42,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 - **合作夥伴獎勵**：從發票月份結束起算 45 天支付。
 
-##  <a name="access-your-invoices-and-reconciliation-files"></a>存取您的發票和對帳檔案
+## <a name="access-your-invoices-and-reconciliation-files"></a>存取您的發票和對帳檔案
 
 貴公司的全域管理員或計費管理員將會在發票已準備好可供檢視時，收到電子郵件。 
 
@@ -61,7 +61,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 若要檢視歷程記錄發票和對帳檔案，請展開下方的計費歷程記錄資料列。
 
 
-## <a name="understanding-usage-data"></a>了解使用量資料 
+## <a name="understanding-usage-data"></a>瞭解使用量資料 
 
 1. Azure 方案是使用量的根或最上層容器。 所有使用量都會繫結回單一 Azure 方案。 
 
@@ -141,7 +141,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 ## <a name="invoice-in-customer-currency"></a>以客戶貨幣表示的發票 
 
-透過 Azure 方案的 Azure 服務會以美元計價，並以客戶國家/地區指派貨幣來計費。 如果計費貨幣不是美元，則使用的外幣匯率 (FX) 費率會顯示在發票的最後一頁。 FX 費率是每月決定，並套用至下列發票。 如需國家/地區貨幣的完整清單，請參閱[新的商務供應項目國家/地區可用性和客戶貨幣對照表](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Qn1V)。 
+透過 Azure 方案的 Azure 服務會以美元計價，並以客戶國家/地區指派貨幣來計費。 如果計費貨幣不是美元，則使用的外幣匯率 (FX) 費率會顯示在發票的最後一頁。 FX 費率是每月決定，並套用至下列發票。 如需國家/地區貨幣的完整清單，請參閱[新的商務供應項目國家/地區可用性和客戶貨幣對照表](https://go.microsoft.com/fwlink/?linkid=2112354)。 
 
 Microsoft 將使用 [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company)，判斷用來決定定價貨幣至計費貨幣轉換的 FX 費率。 FX 費率會重新整理，並在其套用當月第一天的前一天可供使用。
 

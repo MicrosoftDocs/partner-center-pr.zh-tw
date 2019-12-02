@@ -1,21 +1,21 @@
 ---
 title: 客戶轉換至 Azure 方案 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/01/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 輕鬆地將您的客戶移至 Azure 方案
+description: 了解如何輕鬆地將您的客戶移至 Azure 方案。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: d19648053fefdcd998ad47bde2d68b289f15a10c
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: af3a57146bcf76d3d68f5bb22b21f6788e336ee8
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653834"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253269"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>將您的客戶轉換為 Azure 方案
 

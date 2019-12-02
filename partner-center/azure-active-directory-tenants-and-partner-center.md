@@ -1,21 +1,21 @@
 ---
 title: 工作帳戶和合作夥伴中心 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 若要建立合作夥伴中心帳戶，您的公司必須有工作帳戶。 如果您有使用中的 Microsoft Azure 或 Office 365 訂用帳戶，就已經擁有工作帳戶。
+description: 了解為何需要工作帳戶來建立合作夥伴中心帳戶，以及您是否已經有工作帳戶。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 工作帳戶, 電子郵件, 租用戶, Azure 租用戶, 建立帳戶, 網域名稱
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 0bca97c9bbe153aa705c149ce8bd3ad5e38d72d9
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: c8b731eeed6590e040eda18cb0e7093b389447b4
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096545"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74253323"
 ---
 # <a name="your-company-work-account-and-partner-center"></a>您的公司工作帳戶與合作夥伴中心  
 

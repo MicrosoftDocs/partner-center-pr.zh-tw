@@ -1,21 +1,21 @@
 ---
 title: 雲端解決方案提供者合約、價目表和優惠 | 合作夥伴中心
 ms.topic: article
-ms.date: 09/23/2019
+ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 此文章包括雲端解決方案提供者計畫指南、合作夥伴合約、客戶合約、價目表與供應項目連結。
+description: 此文章包括雲端解決方案提供者計畫指南、合作夥伴合約、客戶合約、價目表與供應項目的連結。
 ms.assetid: 9F11F571-D036-4C36-8440-8D20ED9F0CD2
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp program guides, program guide, partner agreements, customer agreement, price lists, offers, 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 供應項目
 ms.localizationpriority: high
-ms.openlocfilehash: 06bcbea6068a3185f097b5db6b50f30dfd85f7c7
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 8c7543b00b45a2c690064b8b50caa4737ef5bb7d
+ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096514"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "74252130"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、合約、價目表和優惠
 
