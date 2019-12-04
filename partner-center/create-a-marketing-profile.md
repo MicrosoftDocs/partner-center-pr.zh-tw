@@ -1,7 +1,7 @@
 ---
 title: 建立商務設定檔 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何從 Microsoft 取得業務潛在客戶。 其中一個重要步驟是在合作夥伴中心建立商務設定檔，讓客戶可以找到您。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, 推薦, 業務潛在客戶, C2PC, 公司設定檔, 行銷您的公司, 尋找合作夥伴, 尋找解決方案提供者, 商務設定檔, 行銷設定檔
 ms.localizationpriority: high
-ms.openlocfilehash: e9ff4e1df06e0a25142d42e8ba380654c9daed0b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252654"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722524"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -30,9 +30,16 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 
 **適用於**
 
--  合作夥伴中心
--  Microsoft 合作夥伴網路合作夥伴
--  雲端解決方案提供者計畫合作夥伴
+- 合作夥伴中心
+- Microsoft 合作夥伴網路合作夥伴
+- 雲端解決方案提供者計畫合作夥伴
+
+**適當的角色**
+
+- 帳戶管理員
+- 商務設定檔管理員
+- 全域系統管理員
+- 推薦管理員
 
 身為 Microsoft 合格合作夥伴，您可以建立商務設定檔，向尋找唯一解決方案和專業來解決其業務需求的客戶展示您的公司。
 

@@ -1,7 +1,7 @@
 ---
 title: 客戶轉換至 Azure 方案 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何輕鬆地將您的客戶移至 Azure 方案。
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: af3a57146bcf76d3d68f5bb22b21f6788e336ee8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0420966e13f0ee7151dd9474d597b8253a1ecfff
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253269"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722284"
 ---
 # <a name="transition-your-customers-to-azure-plan"></a>將您的客戶轉換為 Azure 方案
+
+**適當的角色**
+
+- 系統管理代理人
+- 帳單管理
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
+- 使用者管理系統管理員
 
 間接提供者和直接帳單合作夥伴可以轉換為 Azure 的 CSP 計畫中提供的新商務體驗。 (間接經銷商必須透過其間接提供者來運作)。客戶可以透過簡化的方式購買雲端服務，無論是向合作夥伴、Microsoft 賣方或直接在網路上購買。
 

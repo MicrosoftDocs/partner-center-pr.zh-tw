@@ -1,7 +1,7 @@
 ---
 title: 雲端解決方案提供者計畫中的合作夥伴供應項目 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入了解透過雲端解決方案提供者計畫銷售的合作夥伴可提供的供應項目。
@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, 雲端解決方案提供者計畫, 雲端解決方案提供者, 新增產品, 銷售給客戶, 合作夥伴供應項目, 雲端解決方案提供者供應項目, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 在雲端解決方案提供者中銷售, Azure RI, Azure 保留的虛擬機器執行個體, Azure Reservations, 線上服務, 訂閱軟體, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客戶訂閱
 ms.localizationpriority: high
-ms.openlocfilehash: 49010909cad50df40668606dff7bfd45260b580b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252913"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722543"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫中的合作夥伴供應項目 
+# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫中的合作夥伴供應項目
 
 **適用於**
 
--  雲端解決方案提供者合作夥伴
+- 雲端解決方案提供者合作夥伴
+
+**適當的角色**
+
+- 系統管理代理人
+- 全域系統管理員
+- 銷售代理人
 
 雲端解決方案提供者計畫 (CSP) 中的 Microsoft 合作夥伴可以獲得不斷增長的供應項目目錄。 您可以銷售一系列完整的 [Microsoft 雲端服務](https://partner.microsoft.com/cloud-solution-provider/products-and-services)，以及經常變動的多種其他優惠。 若要查看當月的雲端解決方案提供者優惠，請登入合作夥伴中心，然後移至[**定價與方案**](https://partnercenter.microsoft.com/pcv/sales)頁面。  
 

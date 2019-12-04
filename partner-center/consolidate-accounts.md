@@ -1,7 +1,7 @@
 ---
 title: 合併您的公司帳戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作夥伴中心內將 Partner Membership Center (PMC) 帳戶合併成一個帳戶。 這會發生在從 PMC 遷移到合作夥伴中心的時候。
@@ -10,14 +10,19 @@ author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 77d148ccd1f71d06844b2f3467dcfb0fab967dfa
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 61a2566dbab5709fcc16fa61d0239f97e46039de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252064"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721383"
 ---
 # <a name="consolidate-your-company-accounts"></a>合併您的公司帳戶
+
+**適當的角色**
+
+- MPN 合作夥伴系統管理員
+- 帳戶管理員
 
 在 PMC 中，您的公司可能有許多帳戶和位置。 每個位置都有自己的帳戶。 當您遷移至合作夥伴中心時，所有的帳戶和位置都會合併成一個主要通用帳戶，其中包含數個位置。 您的 MPN 識別碼、權益、專長認證和購買專案會隨您移動，不會遺失任何專案。 
 

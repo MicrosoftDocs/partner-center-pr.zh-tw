@@ -1,7 +1,7 @@
 ---
 title: 比較 Azure 供應項目 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在雲端解決方案提供者 (CSP) 計畫中，比較合作夥伴的新 Microsoft 商務體驗中各供應項目之間的主要差異。
@@ -9,14 +9,22 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 0e624e28be8585b8a8040a9d65bce931cb7c70d8
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ba5eeb6281b3c379f568a5373d0e0b7adf7ce378
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253441"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722498"
 ---
 # <a name="compare-azure-offers"></a>比較 Azure 供應項目
+
+**適當的角色**
+
+- 系統管理代理人
+- 帳單管理
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
 
 下表概述可透過雲端解決方案提供者 (CSP) 計畫 (屬於新的 Microsoft 商務體驗) 所提供供應項目之間的主要差異。
 

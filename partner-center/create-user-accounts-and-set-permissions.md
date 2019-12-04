@@ -1,7 +1,7 @@
 ---
 title: 建立使用者帳戶與設定權限 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作夥伴中心內，為每位需要存取權的員工建立使用者帳戶並指派角色。 具有不同系統管理員權限的使用者都可以執行此動作。
@@ -10,16 +10,22 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 角色, 權限, 新增使用者, 指派角色, 系統管理員, 代理人,
 ms.localizationpriority: high
-ms.openlocfilehash: d121d80e23f11c5885ababd3c7730939e894a235
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 94dd39a9ecf2703c14b33f07fd08d4111eeefccd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252084"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722460"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>建立使用者帳戶和指派權限
 
-為需要存取合作夥伴中心的員工建立使用者帳戶。 這些工作必須由使用者管理系統管理員、帳戶系統管理員或全域系統管理員來完成。 
+**適當的角色**
+
+- 帳戶管理員
+- 全域系統管理員
+- 使用者管理系統管理員
+
+為需要存取合作夥伴中心的員工建立使用者帳戶。 這些工作必須由使用者管理系統管理員、帳戶系統管理員或全域系統管理員來完成。
 
 
 ## <a name="add-a-new-user"></a>新增使用者

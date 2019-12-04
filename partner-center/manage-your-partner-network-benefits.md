@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 會員資格權益, 會員資格
 ms.localizationpriority: high
-ms.openlocfilehash: bc9ca4f3b186de36cc5b87be1bce70a7be89da62
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096467"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681941"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
@@ -101,8 +101,7 @@ ms.locfileid: "74096467"
     
     c.  完成輸入其他電子郵件地址後，選取 [指派使用者]  。 
 
-4. 在雲端和混合式解決方案的售前、設計、部署及應用程式開發階段，您可以使用您的技術售前協助或諮詢時數權益來請求技術協助。 若要請求協助，請填寫[要求表單](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest
-)，然後選取 [提交要求] **** 。
+4. 在雲端和混合式解決方案的售前、設計、部署及應用程式開發階段，您可以使用您的技術售前協助或諮詢時數權益來請求技術協助。 若要請求協助，請填寫[要求表單](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)，然後選取 [提交要求]  。
 
 #### <a name="manage-go-to-market-benefits"></a>管理上市權益
 

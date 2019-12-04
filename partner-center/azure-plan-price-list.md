@@ -1,7 +1,7 @@
 ---
 title: Azure 方案價目表 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用合作夥伴中心查看 Azure 方案下訂用帳戶的價目表。
@@ -10,14 +10,23 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: f06b4b625f84ab6115f0c16de6814a991513435c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252675"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722044"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>適用於 Azure 的 CSP 中新商務體驗的價目表 
+
+**適當的角色**
+
+- 系統管理代理人
+- 帳單管理
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
+- 使用者管理系統管理員
 
 CSP 中新 Azure 商務體驗的價目表會張貼在合作夥伴中心。 價目表會以即時精確的檔案動態傳遞，而且價格只會以美元顯示。 不過，計費是以適用於客戶貨幣位置的支援貨幣來完成。 如需有關客戶貨幣位置計費的詳細資訊，請參閱 [Azure 方案 - 計費](azure-plan-billing.md)。
 

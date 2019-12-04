@@ -1,7 +1,7 @@
 ---
 title: 獎勵合作宣告核心要求 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解在合作夥伴中心對獎勵合作計畫內的特定活動類型提出獎勵宣告時有什麼需求。
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 獎勵宣告, 合作宣告, 合作基金, 核心要求
 ms.localizationpriority: high
-ms.openlocfilehash: 3ed6db76ae152b002ab9518e2f9b167d6aa88337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252082"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721316"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>獎勵合作宣告的核心要求
 
 **適用於**
 
 - 合作夥伴中心
+
+**適當的角色**
+
+- 獎勵管理員
+- 獎勵使用者
 
 您提交獎勵宣告的每個活動類型都有核心要求，您必須符合該核心要求並在您的執行證明文件中證明。 有時候，也需要定義的通訊類型和計量。
 
