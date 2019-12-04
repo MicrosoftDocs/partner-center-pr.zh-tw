@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴中心的資料與分析 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心流量分析，以進一步瞭解您的業務，以及您的客戶如何使用您已購買的授權。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 資訊, 分析, 資料分析, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: b584cf8d622bbe58ac8bf99be3292464cf64e07d
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384839"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722564"
 ---
 # <a name="get-data-and-analyze-your-business"></a>取得資料並分析您的業務
 

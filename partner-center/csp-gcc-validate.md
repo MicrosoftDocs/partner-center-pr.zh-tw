@@ -1,19 +1,19 @@
 ---
 title: Office 365 政府版 GCC 的合作夥伴和客戶資格條件 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解直接帳單合作夥伴（直接轉銷商、間接提供者）的步驟，以驗證適用于 CSP 的 Office 365 政府版 GCC 的合作夥伴和客戶。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 418aaa8624a7a22945dbbdb2d410dd061bab4586
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253528"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721943"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>適用於雲端解決方案提供者的 Office 365 政府版 GCC 的合作夥伴和客戶資格條件
 
@@ -22,8 +22,14 @@ ms.locfileid: "74253528"
 -  合作夥伴中心
 -  雲端解決方案提供者合作夥伴
 
+**適當的角色**
+
+- 全域系統管理員
+- 系統管理代理人
+- 銷售代理人
+
 >[!NOTE]
->以下列出的驗證程序和條件專屬於直接帳單合作夥伴。 直接帳單合作夥伴包含直接經銷商和間接提供者。  如果您是間接經銷商，請與您的間接提供者合作。 
+>以下列出的驗證程序和條件專屬於直接帳單合作夥伴。 直接帳單合作夥伴包含直接經銷商和間接提供者。  如果您是間接經銷商，請與您的間接提供者合作。
 
 如果您有興趣為貴公司或客戶組織取得適用於雲端解決方案提供者的 Office 365 政府版 GCC 的核准，請參閱以下的需求。
 

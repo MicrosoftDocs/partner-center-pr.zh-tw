@@ -1,7 +1,7 @@
 ---
 title: 在合作夥伴中心註冊為控制台廠商 |合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何在合作夥伴中心註冊為控制台廠商（CPV）。
@@ -9,18 +9,22 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 控制台廠商，註冊 CPV 應用程式，管理 CPV 應用程式
 ms.localizationpriority: medium
-ms.openlocfilehash: 0edc8aed269f992738f39b6250e51ec5f694727c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d8320c584a9beefb6163a1072f90d66bdbaa8454
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253574"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722557"
 ---
 # <a name="enroll-in-partner-center-as-a-control-panel-vendor"></a>在合作夥伴中心註冊為控制台廠商
 
 **適用於**
 
 - 合作夥伴中心
+
+**適當的角色**
+
+- 全域系統管理員
 
 控制台廠商（CPV）是獨立軟體廠商，可開發雲端解決方案提供者（CSP）合作夥伴所使用的應用程式，讓他們能夠整合其系統與合作夥伴中心 Api。 控制台廠商不是可直接存取合作夥伴中心儀表板或合作夥伴中心 Api 的 CSP 合作夥伴。
 

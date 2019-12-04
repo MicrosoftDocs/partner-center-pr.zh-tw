@@ -1,7 +1,7 @@
 ---
 title: 授予合作夥伴的客戶代理人系統管理權限 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何要求客戶委派系統管理員許可權給轉銷商，或移除相同的許可權，以及如何使用這些許可權。
@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 委派的系統管理員許可權、代表的系統管理員、移除許可權、AOBO
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f49fa5c4b320d05c6c6a9049b41170457bb394f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 545b4f8228ced951d39de0c18d354799fb7081ac
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253477"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722192"
 ---
 # <a name="customers-delegate-administration-privileges-to-partners"></a>授予合作夥伴的客戶代理人系統管理權限
 
 **適用於**
 
--  合作夥伴中心
+- 合作夥伴中心
+
+**適當的角色**
+
+- 系統管理代理人
+- 銷售代理人
 
 若要代表客戶管理客戶的服務或訂閱，客戶必須授與您該服務的系統管理員權限。 若要從客戶取得系統管理員權限，請透過電子郵件傳送建立經銷商關係要求給他們。 客戶核准您的要求後，您就能登入服務的系統管理員入口網站及代表客戶管理服務。 
 
@@ -28,7 +33,7 @@ ms.locfileid: "74253477"
 
 1.  選取 [**客戶**]，然後選取 [**要求轉銷商關係**]。
 
-2.  在下一頁，檢閱草稿電子郵件訊息。 您可以在預設電子郵件應用程式中開啟草稿訊息，或您可以將訊息複製到您的剪貼簿，並將它貼到電子郵件。 
+2.  在下一頁，複查草稿電子郵件訊息。 您可以在預設電子郵件應用程式中開啟草稿訊息，或您可以將訊息複製到您的剪貼簿，並將它貼到電子郵件。 
 
     >[!IMPORTANT]
     >您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。 

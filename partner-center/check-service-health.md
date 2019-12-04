@@ -1,7 +1,7 @@
 ---
 title: 檢查服務健康狀況 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解當客戶遇到服務問題時，如何檢查其服務健康狀態。
@@ -10,18 +10,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 健全狀況，服務健全狀況，服務問題
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dbb478e37aaec144b822a2b2288860addf549b7
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 2d43782a53e09f6589e735792a2de46987822a4b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253424"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721663"
 ---
 # <a name="check-service-health"></a>檢查服務健康狀況
 
 **適用於**
 
--  合作夥伴中心
+- 合作夥伴中心
+
+**適當的角色**
+
+- 系統管理代理人
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
 
 當客戶遇到服務發生問題時，您可以先做的其中一件事就是檢查服務健康狀況。
 

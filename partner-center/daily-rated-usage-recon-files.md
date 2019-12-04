@@ -1,31 +1,38 @@
 ---
 title: 每日評分的使用量對帳檔案 |合作夥伴中心
 ms.topic: article
-ms.date: 11/21/2019
-description: 瞭解合作夥伴中心內每日評分的使用量調節檔案。
+ms.date: 11/27/2019
+description: 瞭解如何在合作夥伴中心讀取每日分級的使用量對帳檔案。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 896f81b3a51e234065af7779d287b4023dd7163c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d7de5da8529aefb325961ac5c139a9375b66f7e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389696"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721857"
 ---
 # <a name="daily-rated-usage-reconciliation-files"></a>每日評分的使用量對帳檔案
 
-適用於：
+**適用於**
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
+
+**適當的角色**
+
+- 系統管理代理人
+- 帳單管理
+- 銷售代理人
+- 技術服務代理人
 
 本主題說明如何閱讀每日分級的使用量對帳檔案。
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>每日分級使用量對帳檔案中的欄位
 
-| 欄 | 描述 |
+| Column | 說明 |
 | ------ | ----------- |
 | PartnerId | GUID 格式的合作夥伴識別碼。 |
 | PartnerName | 夥伴名稱。 |

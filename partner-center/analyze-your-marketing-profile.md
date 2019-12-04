@@ -1,19 +1,19 @@
 ---
 title: 分析您的商務設定檔 |合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何使用 [商務設定檔深入解析] 頁面，查看您的目標客戶和產生參考的觀點。
 author: JnHs
 ms.author: jenhayes
 ms.localizationpriority: medium
-ms.openlocfilehash: 33763800e8da6d6c082aeccc67acddc01653313a
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253132"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722354"
 ---
 # <a name="analyze-your-business-profile"></a>分析您的商務設定檔
 <!-- 
@@ -23,6 +23,17 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **適用於**
 
 - 合作夥伴中心
+- Microsoft 合作夥伴網路合作夥伴
+- 雲端解決方案提供者計畫合作夥伴
+
+**適當的角色**
+
+- 全域系統管理員
+- MPN 合作夥伴系統管理員
+- 推薦系統管理員
+- 商務設定檔管理員
+- 系統管理代理人
+- 銷售代理人
 
 [合作夥伴中心] 的 [**商務設定檔深入**解析] 頁面可讓您查看您的目標客戶與產生參考的關注程度。
 

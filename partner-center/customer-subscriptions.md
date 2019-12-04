@@ -1,7 +1,7 @@
 ---
 title: 客戶訂閱 |合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 CSP 方案中的合作夥伴如何銷售客戶的訂用帳戶，並透過合作夥伴中心來管理。
@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 訂用帳戶，指派授權，授權，客戶滿意度，Azure 訂用帳戶
 ms.localizationpriority: medium
-ms.openlocfilehash: 62b043a6bc6502bc8755f47e3b930d5f611ac62f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1c2116ca31b82e8b135208b4569012937d118866
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253503"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722544"
 ---
 # <a name="customer-subscriptions"></a>客戶訂閱
 
 **適用於**
 
 -  合作夥伴中心
+
+**適當的角色**
+
+- 系統管理代理人
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
 
 身為雲端解決方案提供者合作夥伴，其中一項主要工作就是提供 Microsoft 產品訂閱給您的客戶。 在合作夥伴中心，您可以管理每個客戶的所有訂用帳戶。 您可以新增訂閱、新增授權至現有訂閱，甚至提供試用訂閱給想要測試軟體的客戶。 此外，您還可以觀看分析來瞭解客戶使用軟體的方式，協助您提供更佳的支援。
 

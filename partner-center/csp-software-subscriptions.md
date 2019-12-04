@@ -1,7 +1,7 @@
 ---
 title: 透過雲端解決方案提供者銷售軟體訂閱 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 CSP 方案中的合作夥伴可以如何使用合作夥伴中心來購買、管理、銷售和取消 Azure 保留實例和客戶的伺服器訂用帳戶。
@@ -10,14 +10,19 @@ ms.author: evansma
 keywords: 雲端解決方案提供者, CSP, 雲端式服務, Azure, Azure RI, Windows Server, SQL Server, 軟體訂閱
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 32efdc721bd9a81ff04527ca82e5e71c1fe7cb58
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0e2b735c1b67b49c18f2b83c042ec5a2bb0eefbd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253544"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721335"
 ---
 # <a name="sell-software-subscriptions-through-csp"></a>透過雲端解決方案提供者銷售軟體訂閱
+
+**適當的角色**
+
+- 系統管理代理人
+- 全域系統管理員
 
 使用 Azure 保留和伺服器訂用帳戶（Windows Server 和 SQL Server 訂用帳戶），CSP 方案中的合作夥伴可以更有效地解決快速成長的客戶需求，以提供更符合成本效益的解決方案，以支援高預測性和持續性雲端工作負載。 
 

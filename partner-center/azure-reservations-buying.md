@@ -1,7 +1,7 @@
 ---
 title: 代表您的客戶購買 Microsoft Azure Reservations | 合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何在合作夥伴中心代表您的客戶購買或購買 Azure 保留。
@@ -10,20 +10,28 @@ ms.author: labrenne
 keywords: azure, 保留區, 管理, 計費, 購買
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2a7e249ddae377acb742d78cf505aa7b97cf84c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1ed6e84a931c609fefb70dbc1081309b244d8e63
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253234"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722010"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表您的客戶在合作夥伴中心購買 Microsoft Azure 保留 
 
 **適用於**
 
--  合作夥伴中心
--  Microsoft Azure 入口網站
--  雲端解決方案提供者中的合作夥伴
+- 合作夥伴中心
+- Microsoft Azure 入口網站
+- 雲端解決方案提供者中的合作夥伴
+
+**適當的角色**
+
+- 系統管理代理人
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
+- 使用者管理系統管理員
 
 ## <a name="before-you-begin"></a>在您開始前
 
@@ -31,19 +39,19 @@ ms.locfileid: "74253234"
 
 - 如果您的客戶簽署新的 Microsoft 客戶合約時，[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)，您必須在 azure 方案下購買 azure 保留。 如需詳細資訊，請參閱[購買 Azure 方案](purchase-azure-plan.md)。
 
--   在您代表客戶購買保留區之前，客戶必須已擁有有效的 Azure 訂閱
+- 在您代表客戶購買保留區之前，客戶必須已擁有有效的 Azure 訂閱
   
--   軟體訂用帳戶成本（例如 SQL Database 或 SUSE Linux 軟體）不包含在 Azure 保留價格中
+- 軟體訂用帳戶成本（例如 SQL Database 或 SUSE Linux 軟體）不包含在 Azure 保留價格中
 
--   除非您的位置是巴西，否則 Microsoft 的商業定價不包含稅金。 如果您的地點是巴西，則您的商業價格包含適當的稅額 
- 
--   銷售人員和技術支援中心需能代表客戶明確的存取 Azure 訂閱，以便在 Azure 入口網站與檔案支援要求中購買或管理訂閱，包括換貨與退款  
+- 除非您的位置是巴西，否則 Microsoft 的商業定價不包含稅金。 如果您的地點是巴西，則您的商業價格包含適當的稅額
 
--   如果您是間接提供者，而且您透過 Azure 入口網站購買 Azure 保留專案，則會從您選取的 Azure CSP 訂用帳戶繼承「記錄」（間接轉銷商）的夥伴。 
+- 銷售人員和技術支援中心需能代表客戶明確的存取 Azure 訂閱，以便在 Azure 入口網站與檔案支援要求中購買或管理訂閱，包括換貨與退款  
 
--   購買後無法變更 Azure 保留的記錄合作夥伴。 您可以取消現有的保留區，並透過新的記錄可查夥伴購買新的保留區。 
+- 如果您是間接提供者，而且您透過 Azure 入口網站購買 Azure 保留專案，則會從您選取的 Azure CSP 訂用帳戶繼承「記錄」（間接轉銷商）的夥伴。
 
--   如果客戶想將 Azure 訂閱從直接或 EA 轉移至雲端解決方案提供者，保留區無法轉移。 
+- 購買後無法變更 Azure 保留的記錄合作夥伴。 您可以取消現有的保留區，並透過新的記錄可查夥伴購買新的保留區。
+
+- 如果客戶想將 Azure 訂閱從直接或 EA 轉移至雲端解決方案提供者，保留區無法轉移。
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure 保留無法使用的市場
 
@@ -61,7 +69,7 @@ ms.locfileid: "74253234"
 > | 阿路巴       | 幾內亞比索     | 聖馬丁   |
 > | 亞塞拜然       | 蓋亞納     | 聖匹島   |
 > | 貝南     | 海地       | 聖文森及格瑞那丁     |
-> | 不丹     | 赫德島及麥當勞群島       | 薩摩亞     |
+> | 不丹     | 赫德島及麥當勞群島       | 薩摩亞獨立國     |
 > | 波奈     | 曼城島     | 聖馬利諾     |
 > | 布威島     | Jan 馬延     | 聖多美普林西比   |
 > | 英屬印度洋領土       | 澤西島     | 塞席爾   |
@@ -98,7 +106,7 @@ ms.locfileid: "74253234"
 
 2. 在 [**客戶**] 頁面上，尋找想要購買 Azure 保留的客戶，然後選取向下箭號以展開客戶的資料列。  
 
-3. 選取 **\[新增產品\]** ，然後選取 **\[Azure\]** 。 
+3. 選取 [新增產品]，然後選取 [Azure]。 
 
     a. 從 [區段] 清單中選擇客戶的市場區段。
 
@@ -115,7 +123,7 @@ ms.locfileid: "74253234"
 
 6. 找到您想要購買的保留後，請輸入客戶在**數量**中所需的保留實例數目，然後選取 [**新增至購物車**]。  
 
-7. 重複步驟5和6，直到您將所有必要的專案新增至訂單為止。 選取 **\[檢閱\]** 確認您的訂單正確無誤。  
+7. 重複步驟5和6，直到您將所有必要的專案新增至訂單為止。 選取 [檢閱] 確認您的訂單正確無誤。  
 
 8. 在 **\[檢視您的訂單\]** 頁面上，您可以： 
 
@@ -134,7 +142,7 @@ ms.locfileid: "74253234"
     - 如果您的 Azure 保留支援 [計費方案] 選項，您可以從下拉式功能表中選取 [每月計費頻率]。 
     - 如果您的 Azure 保留不支援 [計費方案] 選項，您的計費頻率會預設為 [一次計費]。 
 
-9. 選取 **\[購買\]** 購買訂單。 您的訂單詳細資料（包括訂單號碼）會顯示在 [**確認**] 頁面上。 選取 **\[完成\]** 移至 **\[訂購記錄\]** 頁面。 
+9. 選取 **\[購買\]** 購買訂單。 您的訂單詳細資料（包括訂單號碼）會顯示在 [**確認**] 頁面上。 選取 [完成] 移至 [訂購記錄] 頁面。 
 
 10. 若要管理 Azure 入口網站中的客戶保留，請在 **[客戶] 頁面上**尋找客戶，然後選取向下箭號以展開客戶的資料列。 選取 [ **Microsoft Azure 管理入口網站**] 以在 Azure 入口網站中開啟客戶的記錄。
 

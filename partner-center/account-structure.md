@@ -9,16 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 29988ecd4289f4c9b0772961a3b896124682aecb
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 3a0a7d0ba985f9610198a64aa87411b1a7da16bd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253157"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722316"
 ---
 # <a name="the-account-structure-in-partner-center"></a>合作夥伴中心的帳戶結構
 
-您的公司在合作夥伴中心有兩個層級的帳戶。 
+**適用於**
+
+- 合作夥伴中心
+- MPN 合作夥伴
+
+**適當的角色**
+
+- 帳戶系統管理員
+- 商務設定檔管理員
+- 全域系統管理員
+- MPN 合作夥伴系統管理員
+
+您的公司在合作夥伴中心有兩個層級的帳戶。
 
 ### <a name="the-top-level-is-the-primary-global-account-pga"></a>最上層是主要通用帳戶（PGA）。
 

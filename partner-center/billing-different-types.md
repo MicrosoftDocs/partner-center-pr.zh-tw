@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴中心的帳單類型 |合作夥伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解您可能會在合作夥伴中心看到的不同計費類型、計費週期和計費日期。
@@ -10,19 +10,27 @@ ms.author: evansma
 keywords: 計費, 付款, 訂單, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9f5e48ca5cc127427eab7d46eb21071baa3403c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 73378fda27cfb5cec8b9805ef90dbfa1c854bc44
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384858"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722244"
 ---
 # <a name="types-of-billing-in-partner-center"></a>合作夥伴中心的帳單類型
 
-適用於：
+**適用於**
 
 - 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
+
+**適當的角色**
+
+- 系統管理代理人
+- 帳單管理
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
 
 根據您代表客戶購買的產品、解決方案和服務而定，會向您收取合作夥伴中心購買費用。 計費的類型如下所示：
 

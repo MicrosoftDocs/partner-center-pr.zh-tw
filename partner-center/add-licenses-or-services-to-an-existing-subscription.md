@@ -10,18 +10,27 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c38ba3b789d1719c7987cedc63533396f5827b1
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: ead019e0e2619c045cc5330c11dfcb3933092834
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253134"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721754"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>將授權或服務新增到現有的訂閱
 
 **適用於**
 
--  合作夥伴中心
+- 合作夥伴中心
+- 雲端解決方案提供者計畫合作夥伴
+
+**適當的角色**
+
+- 全域系統管理員
+- 使用者管理系統管理員
+- 系統管理代理人
+- 銷售代理人
+- 技術服務代理人
 
 如果您的客戶需要的基座數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。 如需詳細資料，請參閱[切換為其他商務用 Office 365 方案](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
 
@@ -73,8 +82,6 @@ ms.locfileid: "74253134"
 </tr>
 </tbody>
 </table>
-
- 
 
 如果符合下列條件，便可以升級訂閱：
 

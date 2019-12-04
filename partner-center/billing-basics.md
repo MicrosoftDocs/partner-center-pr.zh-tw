@@ -1,8 +1,8 @@
 ---
 title: 計費總覽 |合作夥伴中心
 ms.topic: article
-ms.date: 11/21/2019
-description: 合作夥伴中心的基本帳單和發票資訊。
+ms.date: 11/25/2019
+description: 瞭解合作夥伴中心的基本帳單和發票資訊。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,26 +10,36 @@ ms.author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 10fe47ea038fadf8ca26fe0ab42a0d0d3a9472bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: e77d641b1b75c5d462871aa61c3f67bc6d6dd13e
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384540"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722472"
 ---
 # <a name="billing-overview"></a>計費總覽
 
-適用於：
+**適用於**
 
 - 合作夥伴中心
 - 雲端解決方案提供者（CSP）計畫中的合作夥伴
+
+**適當的角色**
+
+- 系統管理代理人
+- 帳單管理
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
 
 ## <a name="find-your-bill"></a>尋找您的帳單
 
 若要尋找您的帳單：
 
 1. 登[入合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/home)。
+
 2. 在左側功能表中，選擇 [**計費**]。
+
 3. 在 [**帳單**] 頁面上，您可以下載最新的帳單，或在 [**帳單記錄**] 區段中下載先前的帳單。
 
 ## <a name="bill-your-customers"></a>向您的客戶收費
@@ -52,7 +62,7 @@ Microsoft 對於您處理自己發票的方式沒有任何需求或條件。
 
 您的發票是目前計費週期所有費用的摘要。 這包括整個程式、所有產品和所有客戶的費用。 如需每月和年度計費案例的範例，請參閱[常見的計費案例](common-billing-scenarios.md)
 
-您的發票會在所選計費日期的兩個（2）天內（UTC 時間）提供。 例如，如果您有9月12日計費日期，發票產生程式將從第13：上午 10:00 PST UTC 開始，並在第14個上完成12：上午 10:00 PST UTC。 如果您在15日沒有看到您的發票（59PM UTC），您就不在服務等級協定，應該提出服務要求。
+您的發票會在所選計費日期的兩個（2）天內（UTC 時間）提供。 例如，如果您有 9 月 12 日帳單日期，則發票產生程序將從 13 日 12:00AM UTC 開始，並在 14 日 12:00AM UTC 完成。 如果您在15日沒有看到您的發票（59PM UTC），您就不在服務等級協定，應該提出服務要求。
 
 雲端解決方案提供者（CSP）計畫中的合作夥伴，其選擇按月支付 Microsoft 60 天的期末供客戶的訂用帳戶使用（以授權為基礎和以使用量為基礎）。
 

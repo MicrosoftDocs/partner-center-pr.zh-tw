@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴中心-Microsoft Azure 保留總覽 |合作夥伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解雲端解決方案提供者可以如何為使用合作夥伴中心、Azure 入口網站或合作夥伴中心 API 的客戶購買、銷售或管理 Azure 保留。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 保留區, 管理, 帳單, 購買, Azure RI, Azure 保留的執行個體
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 39511095447138ffbed701fd07d5f592bba9ef33
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: f6d6e073d33baafe8ca65c8b06b2e2097c350cbd
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253114"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722273"
 ---
 # <a name="partner-center---sell-microsoft-azure-reservations"></a>合作夥伴中心-銷售 Microsoft Azure 預約
 
@@ -26,6 +26,14 @@ ms.locfileid: "74253114"
 - 合作夥伴中心
 - Microsoft Azure 入口網站
 - 雲端解決方案提供者中的合作夥伴
+
+**適當的角色**
+
+- 系統管理代理人
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
+- 使用者管理系統管理員
 
 雲端解決方案提供者方案（CSP）中的合作夥伴可以提供客戶 Microsoft Azure 保留。 如果客戶事先保留，即可獲得大幅節省。 Azure 保留專案以下列方式提供客戶簡單性和彈性：
 

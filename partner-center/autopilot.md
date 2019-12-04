@@ -1,7 +1,7 @@
 ---
 title: 使用 Windows Autopilot 設定檔自訂裝置的全新體驗 |合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在您將裝置傳遞給客戶之前，使用 Autopilot 設定檔自訂或預先設定新裝置的全新體驗。
@@ -9,18 +9,25 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: autopilot，windows autopilot，microsoft autopilot，零接觸部署，oobe，登入畫面，現成的
 ms.localizationpriority: medium
-ms.openlocfilehash: a07c18fda7de0aa5854fb46a91bea692c033d51c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253325"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721430"
 ---
-# <a name="customize-a-devices-out-of-box-experience-with-windows-autopilot-profiles"></a>使用 Windows Autopilot 設定檔自訂裝置的全新體驗
+# <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>使用 Windows Autopilot 設定檔自訂裝置的全新體驗
 
 **適用於**
 
 - CSP 直接帳單合作夥伴、間接提供者和間接轉銷商
+
+**適當的角色**
+
+- 系統管理代理人
+- 全域系統管理員
+- 銷售代理人
+- 使用者管理系統管理員
 
 如果您管理客戶裝置，您可能需要針對客戶的使用者自訂全新體驗（OOBE）。 您可以先使用 Windows Autopilot 設定檔預先設定新的裝置，再將裝置傳遞給客戶，並將新的設定檔套用至客戶已購買的裝置。 
 

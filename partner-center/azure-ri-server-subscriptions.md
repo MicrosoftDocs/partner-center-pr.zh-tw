@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure，訂用帳戶，VM，保留，保留實例
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d7fb74ef26408ad012ac07c4e3bb40e6bda2199
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
-ms.translationtype: HT
+ms.openlocfilehash: 22ba6af523bf73d9d7778940ef7495e6581a0730
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681930"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722261"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
@@ -24,6 +24,14 @@ ms.locfileid: "74681930"
 
 - 合作夥伴中心
 
+**適當的角色**
+
+- 系統管理代理人
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
+- 使用者管理系統管理員
+ 
 ## <a name="what-are-azure-reservations"></a>什麼是 Azure 保留專案？
 
 Azure 保留可協助您透過預先支付一年或三年的虛擬機器、SQL Database 計算容量、Azure Cosmos DB 輸送量或其他 Azure 資源來節省成本。 預先付款可讓您獲得所用資源的折扣。 相較於隨付隨用價格，保留區可將虛擬機器、SQL Database 計算、Azure Cosmos DB 和其他資源的成本大幅降低至最多 72%。 保留會提供計費折扣，且不會影響資源的執行時間狀態。如需詳細資訊，請參閱[什麼是 Azure 保留專案？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)

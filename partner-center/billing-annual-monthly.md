@@ -1,25 +1,35 @@
 ---
 title: 每月和年度計費差異 |合作夥伴中心
 ms.topic: article
-ms.date: 11/21/2019
-Description: 合作夥伴中心的每月和年度計費週期之間的差異。
+ms.date: 11/25/2019
+Description: 瞭解合作夥伴中心的每月和年度計費週期之間的差異。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6b316f55a6d2cd84959d60feed666d657893b8
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389766"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722410"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>每月和每年計費差異
 
-適用於：
+**適用於**
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
+
+**適當的角色**
+
+- 系統管理代理人
+- 帳單管理
+- 全域系統管理員
+- 獎勵管理員
+- 獎勵使用者
+- 技術服務代理人
+- 銷售代理人
 
 本主題說明合作夥伴中心的**每月帳單**和**年度計費**之間的差異，包括優點和使用案例。 您可以選擇每月或每年支付特定雲端解決方案提供者（CSP）訂用帳戶的費用。
 
@@ -213,7 +223,7 @@ ms.locfileid: "74389766"
 
 如有關于獎勵的問題，請洽詢適當的區域獎勵支援小組：
 
-| 地區 | 電子郵件地址 |
+| 地區 | Email address |
 | ------ | ------------- |
 | 北美洲 | <ocina@microsoft.com> |
 |拉丁美洲 & 巴西 | <ocilatam@microsoft.com> |

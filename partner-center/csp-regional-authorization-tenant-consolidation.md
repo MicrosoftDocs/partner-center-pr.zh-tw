@@ -1,7 +1,7 @@
 ---
 title: 雲端解決方案提供者地區授權租用戶彙總 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 請依照下列指示合併不同國家/地區的租用戶。 這包括遷移客戶帳戶和客戶訂閱的步驟。
@@ -11,12 +11,12 @@ ms.author: evansma
 keywords: 移轉客戶, 佈建, 租用戶帳戶, 合併租用戶
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 52663d9f98f66f271702b29965f620fa9563115f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: d05f400084dc72ca380dd16c10e5b5909318f788
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253595"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722174"
 ---
 # <a name="csp-regional-authorization-tenant-consolidation"></a>雲端解決方案提供者地區授權租用戶彙總
 
@@ -25,6 +25,10 @@ ms.locfileid: "74253595"
 -  合作夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
+**適當的角色**
+
+- 全域系統管理員
+- 系統管理代理人
 
 \[一些與預先發行產品相關的資訊，在正式發行之前，可能會大幅修改。 Microsoft 對於此處提供的資訊不做任何明示或默示的擔保。\]
 

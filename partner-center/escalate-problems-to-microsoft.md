@@ -1,7 +1,7 @@
 ---
 title: 向上呈報問題給 Microsoft | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 Microsoft 合作夥伴預期會為客戶解決的問題，以及他們可能需要向 Microsoft 呈報哪些問題。
@@ -10,19 +10,26 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3ddffc00a63bc82856fdb0d993a04bf822f12e6f
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252573"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722242"
 ---
 # <a name="escalate-problems-to-microsoft"></a>向上呈報問題給 Microsoft
 
 **適用於**
 
--  合作夥伴中心
--  Microsoft Cloud for US Government 適用的合作夥伴中心
+- 合作夥伴中心
+- Microsoft Cloud for US Government 適用的合作夥伴中心
+
+**適當的角色**
+
+- 系統管理代理人
+- 全域系統管理員
+- 銷售代理人
+- 技術服務代理人
 
 我們預期您將會為客戶解決問題。 您的第一個步驟應該是[檢查服務健康狀況](check-service-health.md)是否發生現有且已記錄的問題。 如果無法解決客戶的問題，您可以使用您的系統管理員權限針對軟體、設定及組態進行疑難排解。
 

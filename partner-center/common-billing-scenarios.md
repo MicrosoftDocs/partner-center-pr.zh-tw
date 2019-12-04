@@ -1,27 +1,34 @@
 ---
 title: 常見帳單案例 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 說明新增訂閱之後，您會在帳單上看到的內容、調整訂用帳戶中的授權數量，或取消訂用帳戶。 針對用量型和授權型訂閱會有不同的影響。
+description: 在您新增訂閱、調整授權數量或取消訂用帳戶之後，探索計費。 查看以使用量為基礎的訂用帳戶有何不同。
 ms.assetid: E4BBD3E7-AFE2-4998-950D-0D27D1178160
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 帳單，付款，訂單，使用量，以授權為基礎的帳單，週年日，期，取消，續約，價格公式，對帳檔案，偵察檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: eaedbdf3f931c1b28f1219efe2739e9b65162864
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2c7a24d0d33aa071ce4edba5cf579f6a6371af3d
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384606"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722014"
 ---
 # <a name="common-billing-scenarios"></a>一般帳單案例
 
 適用於：
 
 - 雲端解決方案提供者（CSP）方案計費
+
+**適當的角色**
+
+- 系統管理代理人
+- 帳單管理
+- 技術服務代理人
+- 銷售代理人
 
 這些主題說明您在新增訂閱、新增基座、調整訂用帳戶的授權數目或取消訂用帳戶之後，預期會在帳單上看到的內容。 其他[合作夥伴中心計費類型](billing-different-types.md)，例如以使用量為基礎和以授權為基礎的訂用帳戶，則會以不同的方式計費。
 

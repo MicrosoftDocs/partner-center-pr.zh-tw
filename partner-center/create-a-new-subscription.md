@@ -1,7 +1,7 @@
 ---
-title: 建立、暫停或取消客戶訂閱 | 合作夥伴中心
+title: 建立、暫停或取消客戶訂用帳戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心內建立客戶記錄之後，將您的客戶訂用帳戶銷售到目錄中的產品。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 訂用帳戶，建立新的訂用帳戶，暫停，取消，暫停，暫停，SaaS，授權，ISV，協力廠商
 ms.localizationpriority: medium
-ms.openlocfilehash: d829ba7ee520cab42ec5985ac2156ddff60d8e99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253462"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721715"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -27,12 +27,15 @@ ms.locfileid: "74253462"
 
 **適當的角色**
 
-- 全域系統管理員
 - 系統管理代理人
+- 帳單管理
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
 
 當您在合作夥伴中心中建立客戶的記錄之後，您便可以向他們銷售型錄中產品的訂閱。 這包括由 Microsoft 發佈的產品，以及由協力廠商獨立軟體廠商（Isv）發佈到[商業 marketplace](https://azuremarketplace.microsoft.com/marketplace)的軟體即服務（SaaS）產品。 
 
-請注意，某些供應項目會限制每一個客戶只能擁有一個訂閱。 若要查看受限制的供應項目清單，請造訪合作夥伴中心 [定價與方案] 頁面。
+請注意，某些供應項目會限制每一個客戶只能擁有一個訂用帳戶。 若要查看受限制的供應項目清單，請造訪合作夥伴中心 [定價與方案] 頁面。
 
 >[!IMPORTANT]
 身為 CSP 計畫的合作夥伴，您只能從合作夥伴中心內的 ISV 發行者購買以**授權為基礎**的 SaaS 訂閱。 這表示您可以購買 ISV 發行者已提供給您的任何**授權型**SaaS 供應專案，包括您有權存取的[專屬優惠](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)。 若要向 Isv 購買或管理其他的商用 marketplace 供應專案（例如，以**使用量為基礎**、計量付費或以耗用量為基礎的優惠，涉及 Azure 應用程式、容器或 vm），您必須移至[azure 管理入口網站](https://portal.azure.com/)。 如需詳細資訊，請參閱[購買商用 marketplace 產品](csp-commercial-marketplace-purchase.md)。
@@ -43,11 +46,11 @@ ms.locfileid: "74253462"
 
 2. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
 
-3. 選取 **\[新增訂閱\]** 。 [**線上服務**] 索引標籤會顯示所有可用的 Marketplace SaaS 供應專案。
+3. 選取 [新增訂用帳戶]。 [**線上服務**] 索引標籤會顯示所有可用的 Marketplace SaaS 供應專案。
 
 4. 若只要查看特定類型的訂用帳戶，請在可用的篩選中進行選取：
    - **發行者**：選擇 [ **microsoft** ] 僅查看 microsoft 或**合作夥伴**提供的供應專案，以查看 isv 所發佈的商業 marketplace 產品。
-   - **計費類型**：選取您想要使用的訂用帳戶計費類型： [**授權**] 或 [**使用**方式]。 如需可協助您在每月與年度計費頻率之間做選擇的詳細資訊，請參閱[新計費功能的常見問題集](faq-about-new-billing-features.md)
+   - **計費類型**：選取您想要使用的訂用帳戶計費類型： [**授權**] 或 [**使用**方式]。 如需可協助您在每月與年度計費頻率之間做選擇的詳細資訊，請參閱[新計費功能的常見問題集](faq-about-new-billing-features.md)。
    - **類別**：選擇 [**企業**]、[**小型企業**] 或 [**試用**]。 如需試用訂用帳戶的相關資訊，請參閱[為您的客戶提供 Microsoft 產品試用版](offer-your-customers-trials-of-microsoft-products.md)。
 
 5. 選取您想要為客戶購買的產品訂閱。 您看到的產品取決於客戶區段的類型（教育、政府等），以及您已套用的篩選。 Marketplace 上顯示的某些供應專案可能不一定會提供給特定的客戶或特定的 CSP 合作夥伴。 這可能是因為：
@@ -73,7 +76,7 @@ ms.locfileid: "74253462"
     
     - 如果您的訂用帳戶隨附30天免費試用版，將會自動套用免費試用期限。 身為 CSP 計畫的合作夥伴，您無法在購買給客戶的供應專案上放棄免費試用期。 一旦免費試用期結束後，訂用帳戶期限就會開始，且訂用帳戶將會轉換為「付費」。 然後，訂用帳戶會根據相同的排程自動更新。
 
-## <a name="suspend-or-cancel-a-subscription"></a>暫停或取消訂閱
+## <a name="suspend-or-cancel-a-subscription"></a>暫停或取消訂用帳戶
 
 如果客戶要求，或是發生未付款或詐騙等情形，合作夥伴可以暫停或取消訂閱。
 
@@ -87,11 +90,11 @@ ms.locfileid: "74253462"
 
 3. 選擇您要管理的訂閱。
 
-4. 在 **\[狀態\]** 區段中，選擇 **\[已暫停\]** 。 然後 **\[提交\]** 變更。
+4. 在 [狀態] 區段中，選擇 [已暫停]。 然後 **\[提交\]** 變更。
 
-5. 所有的資料將被刪除，除非訂閱在 90 日内重新啟用，或 90 天加上開啟帳戶的時間和第一個計費期間之間的天數 (最多 120 天)。
+5. 所有的資料將被刪除，除非訂用帳戶在 90 日内重新啟用，或 90 天加上開啟帳戶的時間和第一個計費期間之間的天數 (最多 120 天)。
 
-當您在暫停訂閱時，您在 **\[已暫停\]** 按鈕下方看到的日期會顯示該訂閱何時會自動到期 (如果您沒有重新啟用的話)。 如需詳細資訊，請參閱[關於新帳單功能的常見問題](faq-about-new-billing-features.md)。
+當您在暫停訂用帳戶時，您在 [已暫停] 按鈕下方看到的日期會顯示該訂用帳戶何時會自動到期 (如果您沒有重新啟用的話)。 如需詳細資訊，請參閱[關於新帳單功能的常見問題](faq-about-new-billing-features.md)。
 
 ### <a name="cancel-a-subscription"></a>取消訂用帳戶
 
@@ -149,7 +152,7 @@ ms.locfileid: "74253462"
 
 6. 選取 **\[提交\]** 。
 
-## <a name="see-also"></a>另請參閱
+## <a name="see-also"></a>請參閱
 
 - [為您的客戶購買商用 marketplace 產品](csp-commercial-marketplace-purchase.md)
 - [為您的客戶管理商業 marketplace 產品](csp-commercial-marketplace-manage.md)

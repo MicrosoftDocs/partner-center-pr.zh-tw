@@ -1,7 +1,7 @@
 ---
 title: 確認客戶接受 Microsoft 客戶合約 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何確認客戶接受 Microsoft 客戶合約。 這可能需要為客戶訂購 Microsoft 產品和服務。
@@ -9,14 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客戶, 客戶, 同意, MCA, Microsoft Cloud 合約, Microsoft 客戶合約, 客戶合約範本
 ms.localizationpriority: medium
-ms.openlocfilehash: 9d362f581d0d318b1a457ba6a75db54713fce6bb
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252227"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721372"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>確認客戶接受 Microsoft 客戶合約
+
+**適當的角色**
+
+- 系統管理代理人
+- 銷售代理人
 
 目前，客戶必須接受並簽署適用的**Microsoft Cloud 合約**，CSP 合作夥伴才能代表客戶下訂單。 然後，合作夥伴必須提供簽署者的相關資訊給 Microsoft，以確認客戶接受。 如果未提供確認：
 - 您將無法為此客戶建立新訂單。
@@ -56,17 +61,17 @@ Microsoft 將在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP �
 
 當您在合作夥伴中心建立新的客戶租用戶時，請使用下列步驟來確認客戶是否接受 Microsoft 客戶合約。 您必須是系統管理員代理人或銷售代理人，才能執行這些步驟。
 
-1. 選取 **\[客戶\]** ，然後選取 **\[新客戶\]** 。
+1. 選取 [客戶]，然後選取 [新客戶]。
 
 2. 在 [帳戶資訊] 底下，輸入公司及其主要連絡人的資訊。
 
 3. 在 [Microsoft 合約] 底下，選取 [Microsoft 客戶合約]。
 
-4. 在 **\[合約接受日期\]** 下方，輸入適當的日期。 您不能將此設定為未來日期。
+4. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此日期設定為未來日期。
 
 5. 請確定顯示的主要使用者連絡人資訊正確。 如果此資訊不正確，請選取 [更新]，然後輸入接受合約人員的 [名字]、[姓氏]、[電子郵件地址] 和 [電話號碼] (選用)。
 
-6. 選取 **\[下一步\]** 以繼續建立客戶租用戶的其餘步驟。
+6. 選取 [下一步] 以繼續建立客戶租用戶的其餘步驟。
 
 ![新客戶](images/mcua1.png)
 
@@ -80,7 +85,7 @@ Microsoft 將在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP �
 
 3. 在 [Microsoft 客戶合約] 下方，選取 [更新]。
 
-4. 輸入接受合約人員的 [名字]、[姓氏]、[電子郵件地址] 和 [電話號碼] (選用)。 在 **\[合約接受日期\]** 下方，輸入適當的日期。 您不能將此設定為未來日期。
+4. 輸入接受合約人員的 [名字]、[姓氏]、[電子郵件地址] 和 [電話號碼] (選用)。 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此日期設定為未來日期。
 
 5. 選取 [儲存] 並繼續作業。
 
@@ -88,9 +93,9 @@ Microsoft 將在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP �
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>取得客戶接受的確認
 
-您可以使用下列步驟來取得現有客戶已接受 Microsoft 客戶合約的確認。 您必須是系統管理代理人或銷售代理人，才能執行此動作。
+您可以使用下列步驟來取得現有客戶已接受 Microsoft 客戶合約的確認。 您必須是系統管理員代理人或銷售代理人，才能執行此動作。
 
-1. 選取 **\[客戶\]** ，然後尋找並選取您想要查看的客戶。
+1. 選取 [客戶]，然後尋找並選取您想要查看的客戶。
 
 2. 選取 [帳戶資訊]。
 

@@ -11,18 +11,26 @@ ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 89d76cf3945c5831f6ab2fd1fe77c8df1b9c233e
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253384"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722393"
 ---
 # <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>取得您客戶 Azure 訂閱使用狀況的相關資料
 
-適用於：
+**適用於**
 
 - 合作夥伴中心
+- 雲端解決方案提供者計畫合作夥伴
+
+**適當的角色**
+
+- 全域系統管理員
+- 使用者管理系統管理員
+- 系統管理代理人
+- 銷售代理人
 
 資料推動業務決策。 使用 **\[Azure 使用狀況\]** 頁面上的計量，找出您的成功之處、您客戶的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。
 

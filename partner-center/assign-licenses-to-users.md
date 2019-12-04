@@ -1,7 +1,7 @@
 ---
 title: 客戶帳戶的使用者管理工作 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何為客戶建立使用者帳戶、新增或移除使用者授權、重設使用者密碼、刪除使用者帳戶或加以還原。
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 客戶管理、帳戶、建立帳戶、授權、指派授權、使用者管理、密碼、重設密碼、變更密碼
 ms.localizationpriority: medium
-ms.openlocfilehash: fb2e616a6bf7dbfa5072ff1617dc37ad76831b8c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: cd1b32a0ceb133f9513263f56a7d1e2e98dde3c5
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253347"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721359"
 ---
 # <a name="user-management-tasks-for-customer-accounts"></a>客戶帳戶的使用者管理工作
 
@@ -23,11 +23,19 @@ ms.locfileid: "74253347"
 
 - 合作夥伴中心
 
+**適當的角色**
+
+- 全域系統管理員
+- 使用者管理系統管理員
+- 系統管理代理人
+- 銷售代理人
+- 技術服務代理人
+
 您可以在客戶的帳戶中建立及刪除新的使用者。 您也可以還原在刪除後的30天內，您先前刪除的一個或多個使用者帳戶。 使用者先前的訂閱指派同樣會還原 (假設他們之前的配置可用)
 
 當您為客戶購買新的訂用帳戶時，客戶應該會提供一份清單，列出所有需要帳戶的使用者、其使用者權限，以及每個使用者所需的服務。  
 
-您可以使用 [與 Excel 相容的 .csv 試算表檔案](bulk-license-provisioning-for-multiple-users.md)來匯入名稱，一次[指派訂閱給多個使用者](adding-multiple-users-to-a-customer-account.md)。
+您可以使用 [與 Excel 相容的 .csv 試算表檔案](adding-multiple-users-to-a-customer-account.md)來匯入名稱，一次[指派訂閱給多個使用者](bulk-license-provisioning-for-multiple-users.md)。
 
 <a href="" id="createuseraccounts"></a>
 

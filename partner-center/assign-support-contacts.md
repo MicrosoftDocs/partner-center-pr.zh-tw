@@ -1,7 +1,7 @@
 ---
 title: 指派支援連絡人 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何將轉銷商指派為具有 Microsoft 服務訂閱之客戶的技術支援連絡人。
@@ -11,18 +11,26 @@ ms.author: labrenne
 keywords: 協助代理人, 支援, 指派支援連絡人, 指定的支援連絡人
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: cf8e4bde1380123ff9c93c23f1fb9b7a0924cca5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0c27f0919d9ed14c91764677465db4945b680cc8
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253342"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722395"
 ---
 # <a name="assign-support-contacts"></a>指派支援連絡人
 
 **適用於**
 
--  合作夥伴中心
+- 合作夥伴中心
+
+**適當的角色**
+
+- 系統管理代理人
+- 全域系統管理員
+- 技術服務代理人
+- 銷售代理人
+- 使用者管理系統管理員
 
 當您為客戶設定 Microsoft 服務訂閱時，您可以將這些產品的技術支援指派給指定的經銷商，而不是自行提供支援。
 

@@ -1,7 +1,7 @@
 ---
 title: 與 Microsoft 共同銷售 |合作夥伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 身為合格的 Microsoft 合作夥伴，您可以與 Microsoft 共同銷售。 瞭解如何定義參與、邀請 Microsoft 共同作業，或觀看已傳送的合作。
@@ -10,18 +10,23 @@ ms.author: jenhayes
 keywords: 推薦, RFI, 尋找合作夥伴
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: ce7fe09c57729517c9ecae124cdcb68e2ea84628
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253447"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721495"
 ---
 # <a name="co-sell-with-microsoft"></a>與 Microsoft 共同銷售
 
 **適用於**
 
 -  合作夥伴中心
+
+**適當的角色**
+
+- MPN 合作夥伴系統管理員
+- 推薦管理員
 
 身為合格的 Microsoft 合作夥伴，您有機會與 Microsoft 共同銷售。 這種共同作業可協助您將解決方案帶到市場、促進銷售的收益，並確保客戶的成功。
 

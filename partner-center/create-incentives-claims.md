@@ -1,7 +1,7 @@
 ---
 title: 建立和管理獎勵宣告 |合作夥伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 瞭解如何從合作夥伴中心起始激勵的共同作業宣告。 您可以在歷程記錄中查看在建置宣告過程中加入的所有活動。
@@ -10,17 +10,23 @@ ms.author: labrenne
 keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: e315ba8963d62e47275344b973fb68a79fe72337
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 1be444403d2b36bcee13648a767b0cfdf448c06b
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253464"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74721692"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>建立和管理獎勵宣告
 
 **適用於**
 - 合作夥伴中心
+
+**適當的角色**
+
+- 全域系統管理員
+- 獎勵管理員
+- 獎勵使用者
 
 您可以從合作夥伴中心起始獎勵索賠。 
 

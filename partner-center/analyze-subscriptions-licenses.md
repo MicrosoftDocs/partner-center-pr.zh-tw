@@ -11,18 +11,26 @@ ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1cbd543d5d9385cbae73e66645b74292f4b12f7c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253365"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722367"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>分析訂閱與授權 
 
 **適用於**
 
 - 合作夥伴中心
+- 雲端解決方案提供者計畫合作夥伴
+
+**適當的角色**
+
+- 全域系統管理員
+- 使用者管理系統管理員
+- 系統管理代理人
+- 銷售代理人
 
 資料推動業務決策。 使用 **\[訂閱和授權分析\]** 頁面上的計量，找出您的成功之處、您客戶的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。
 

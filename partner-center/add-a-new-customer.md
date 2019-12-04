@@ -10,19 +10,28 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
-ms.openlocfilehash: 5eab35aa23934b35320d9067bf305ce306e9c141
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: a3c1977cefebc6599012856d8e0523cfa74e6a64
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384609"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722302"
 ---
 # <a name="add-a-new-customer"></a>加入新的客戶
 
 **適用於**
 
--  合作夥伴中心
--  Microsoft Cloud for US Government 適用的合作夥伴中心
+- 合作夥伴中心
+- Microsoft Cloud for US Government 適用的合作夥伴中心
+- 雲端解決方案提供者計畫合作夥伴
+
+**適當的角色**
+
+- 全域系統管理員
+- 使用者管理系統管理員
+- 系統管理代理人
+- 銷售代理人
+
 
 您必須先將訂閱新增至合作夥伴中心的客戶清單，才可以銷售訂用帳戶、管理帳單，或為客戶提供支援。
 
@@ -51,7 +60,7 @@ ms.locfileid: "74384609"
 
 7. 當您完成新增客戶資訊並購買必要的訂閱時，請選取 [**完成**]。
 
-## <a name="see-also"></a>另請參閱
+## <a name="see-also"></a>請參閱
 
 - 如需可透過雲端解決方案提供者方案銷售給客戶之專案的詳細資訊，請參閱[雲端解決方案提供者方案中的合作夥伴優惠](csp-offers.md)。
 

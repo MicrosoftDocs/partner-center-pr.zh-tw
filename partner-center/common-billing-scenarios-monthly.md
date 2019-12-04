@@ -1,21 +1,28 @@
 ---
 title: 常見的每月計費案例 |合作夥伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 11/25/2019
 description: 當您使用每月計費時的常見案例（例如新增訂閱、變更授權數量，以及暫停訂閱）。
 ms.assetid: ''
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 計費、付款、訂單、使用量、每月帳單、訂用帳戶、對帳檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: 95a535ecdd20614e8809d6304609b1a678859efc
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 9cae4f82e059a2c8258a00ae51a406ca890f7a67
+ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389616"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "74722492"
 ---
 # <a name="monthly-billing-scenarios"></a>每月計費案例
+
+**適當的角色**
+
+- 系統管理代理人
+- 帳單管理
+- 技術服務代理人
+- 銷售代理人
 
 如果您在合作夥伴中心使用每月帳單，則適用這些範例[一般計費案例](common-billing-scenarios.md)。
 
