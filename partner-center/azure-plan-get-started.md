@@ -1,7 +1,7 @@
 ---
 title: 移至 Azure 方案 - 開始使用 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Azure 方案的商務體驗，以隨用隨付費率為客戶購買 Azure 服務。 同時了解新的安全性需求。
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: Azure, Azure 方案, 購買訂用帳戶, 訂閱
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7b59371ffe2208fcfd8d90f4697e88dfc9a1233b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
+ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253286"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "74681937"
 ---
 # <a name="move-to-azure-plan---get-started"></a>移至 Azure 方案 - 開始使用
 
@@ -27,7 +27,11 @@ Microsoft 在合作夥伴中心引進了新的商務體驗。  透過這種新�
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>請確定您的客戶已簽署 Microsoft 客戶合約
 
-從 2019 年 10 月 1 日起，Microsoft 客戶合約是以完整數位程序來簡化和精簡客戶購買體驗的永久合約，可供客戶以數位方式簽署。 所有想要在適用於 Azure 的 CSP 中利用新商務體驗的客戶，都必須簽署 Microsoft 客戶合約。
+從 2019 年 10 月 1 日起，Microsoft 客戶合約是以完整數位程序來簡化和精簡客戶購買體驗的永久合約。 所有想要在適用於 Azure 的 CSP 中利用新商務體驗的客戶，都必須簽署 Microsoft 客戶合約。
+
+希望根據新的 Azure 方案進行交易並下新訂單的合作夥伴，可以在生產環境中使用合作夥伴中心儀表板和 API，確認客戶接受 Microsoft 客戶合約。
+
+從 2020 年 2 月 1 日開始，現有的 Microsoft Cloud 合約會從 CSP 方案中移除。 從那時起，所有其他供應項目 (包含 Microsoft 365、Dynamics 365 和現有的 Azure) 都需要對新的 Microsoft 客戶合約的客戶接受進行合作夥伴確認 (證明)。 CSP 中的合作夥伴將無法在未經 Microsoft 客戶合約證明的情況下，為客戶建立新訂單。
 
 如需完整詳細資訊，請參閱[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)
 
