@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/03/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 根據您公司的位置，查看您可以銷售 CSP 供應專案的國家和地區。
+description: 根據您公司的位置，查看您可以銷售 CSP 供應專案的國家/地區和貨幣。
 ms.assetid: 22F9495E-E31A-41AE-BF51-3478AB2C8E78
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: CSP 市場，區域，我可以透過 CSP、CSP 供應專案、區域、銷售雲端解決方案、全域 CSP 銷售
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0da3385adac588dbf4c1c7551454673086c85dba
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: da8eeaef62874fb1fc8d8df5eecd2bab20e5ece5
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652063"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943241"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies"></a>雲端解決方案提供者方案的區域市場與貨幣
 
@@ -107,7 +107,7 @@ ms.locfileid: "73652063"
 |  香港         |   美元 (USD)    |
 |  印尼         |   美元 (USD)    |
 |  寮國              |          |
-|  特別行政區             |   美元 (USD)    |
+|  澳門特別行政區             |   美元 (USD)    |
 |  馬來西亞          |   美元 (USD)    |
 |  馬爾地夫          |          |
 |  緬甸文           |          |
@@ -219,7 +219,7 @@ ms.locfileid: "73652063"
 |  冷岸及央棉|挪威克朗|
 |  瑞典         |   瑞典克朗    |
 |  瑞士    |   瑞士法郎    |
-|  英式             |   英鎊    |
+|  英國             |   英鎊    |
 |  梵蒂岡   |          |
 |
 
@@ -247,7 +247,7 @@ ms.locfileid: "73652063"
 
 |  國家/地區    | Currency |
 |  --------------    |:--------:|
-|  韓國、共和國|   韓元    |
+|  大韓民國|   韓元    |
 |
 
 ## <a name="latin-america-and-the-caribbean-region-and-market"></a>拉丁美洲和加勒比海地區與市場
@@ -347,7 +347,7 @@ ms.locfileid: "73652063"
 |  莫三比克     |          |
 |  阿曼           |   美元 (USD)    |
 |  巴基斯坦       |   美元 (USD)    |
-|  民族地區，已滿 |        |
+|  巴勒斯坦領土 |        |
 |  卡達          |   美元 (USD)    |
 |  沙烏地阿拉伯   |   美元 (USD)    |
 |  賽爾維亞         |   美元 (USD)    |

@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 管理線上交易風險的策略，包括客戶不支付商品與服務款項以及詐騙活動或濫用。
+description: 請務必瞭解與線上交易相關的各種風險類型，以及管理和緩和這些風險的最佳作法。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 604c192259fd4194a3b43d57721caa7566704b58
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384759"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943521"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>在合作夥伴中心管理非付款、詐騙或誤用
 

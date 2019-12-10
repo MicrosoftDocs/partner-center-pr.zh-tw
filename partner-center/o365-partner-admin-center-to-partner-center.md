@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Office 365 合作夥伴系統管理中心合作夥伴在移轉到合作夥伴中心時的重要考量
+description: 在遷移至合作夥伴中心之後，尋找常見的 Office 365 合作夥伴系統管理中心功能，例如建立您的商務和服務要求。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4780226cb66fd621e51045456daa1ac2d3ee2adf
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654239"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943321"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 合作夥伴系統管理中心合作夥伴：準備將商務營運移至合作夥伴中心
 

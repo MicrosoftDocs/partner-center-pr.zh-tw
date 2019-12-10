@@ -2,19 +2,19 @@
 title: 為客戶設定 Azure 消費預算 | 合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: 針對合作夥伴中心的每個客戶設定每月預算。
+description: 瞭解如何為您的客戶設定或移除每月的 Azure 費用預算，同時也可查看 Azure 費用資料並設定預算相關通知。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 05212746e1ccbcc5081c68ca97ced6a99e20bb8c
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 81f2bfa0b8e9864e0fc1a90ff5a5a11111c2a433
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384896"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943201"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>為客戶設定 Azure 消費預算
 

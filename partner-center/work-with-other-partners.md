@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 與 CSP 中的其他合作夥伴合作，以符合共同客戶的需求。
+description: 瞭解間接提供者如何與雲端解決方案提供者（CSP）計畫中的間接轉銷商協力合作，並判斷哪一個角色適合您。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a4b26e08d1413cdf3aeb819b2d30891da854beff
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651162"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943151"
 ---
 # <a name="work-with-other-partners"></a>與其他合作夥伴合作
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 註冊軟體保證訓練計畫
+description: 在軟體保證訓練計畫中註冊的詳細資料，讓您可以獲得報酬，將訓練和規劃提供給企業客戶。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 訓練憑券, 軟體保證, 訓練, 註冊 SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d6339a63d4fbd7f1d742820ca90bb66d4d67c1a
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: dac3c2c82ad02be3f65358573808d9f2e5d1cf52
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384796"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943411"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作夥伴中心的軟體保證訓練憑券 (SATV) 計畫
 
@@ -22,7 +22,7 @@ ms.locfileid: "74384796"
 
 身為核准的軟體保證訓練合作夥伴，Microsoft 會就您提供技術訓練給企業客戶以交換他們使用軟體保證所獲得憑券給予補償。 參與此計畫可協助您吸引更多客戶，並成為其信任的學習合作夥伴。
 
-## <a name="get-started"></a>開始使用
+## <a name="get-started"></a>入門
 
 如果您不熟悉軟體保證訓練服務，請遵循下列所有步驟。 如果您已經在訓練券計畫中使用，請從下面的步驟4（4）開始。 
 

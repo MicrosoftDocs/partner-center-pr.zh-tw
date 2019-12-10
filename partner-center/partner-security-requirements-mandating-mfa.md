@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 針對您的合作夥伴租使用者安全性需求強制進行多重要素驗證（MFA）的詳細資料
+description: 瞭解如何為您的合作夥伴租使用者強制 MFA，以協助保護您對客戶資源的存取。 包含範例案例。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: 9241e7fd7f9812e2c456eac70065e185a9cf8d61
-ms.sourcegitcommit: 0f14e29540c6814f01395924223b495cc5299954
+ms.openlocfilehash: f0beb695bee9a67f79373ea903158de3fbb66851
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/13/2019
-ms.locfileid: "73983354"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943101"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>對您的合作夥伴租使用者強制多重要素驗證（MFA）
 
@@ -207,7 +207,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 #### <a name="issue-7-partner-has-implemented-3rd-party-mfa-which-isnt-recognized-by-azure-ad"></a>問題7：合作夥伴已實行無法辨識的協力廠商 MFA Azure AD
 合作夥伴使用協力廠商 MFA 解決方案為其使用者實作為 MFA。 不過，合作夥伴無法正確設定協力廠商 MFA 解決方案，以轉送至 Azure AD 在使用者驗證期間已完成 MFA 驗證。 這是技術例外狀況的有效原因嗎？
 
-**答**：是，這可能會被視為技術例外狀況的有效原因。 提交技術例外狀況的要求之前，請先向協力廠商 MFA 解決方案提供者確認無法將 MFA 解決方案設定為將*authenticationmethodsreferences*宣告（具有值*multipleauthn*）傳送至 Azure AD表示 MFA 驗證已在使用者驗證期間完成。 提交技術例外狀況的要求時，請提供所使用之協力廠商 MFA 解決方案的詳細資料，並指出整合方法（例如，透過身分識別同盟或使用 Azure AD 自訂控制項）。
+**答**：是，這可能會被視為技術例外狀況的有效原因。 提交技術例外狀況的要求之前，請先向協力廠商 MFA 解決方案提供者確認無法將 MFA 解決方案設定為將*authenticationmethodsreferences*宣告（值為*multipleauthn*）傳送到 Azure AD，以指出已在使用者驗證期間完成 mfa 驗證。 提交技術例外狀況的要求時，請提供所使用之協力廠商 MFA 解決方案的詳細資料，並指出整合方法（例如，透過身分識別同盟或使用 Azure AD 自訂控制項）。
 
 ### <a name="how-to-submit-a-request-for-technical-exception"></a>如何提交技術例外狀況的要求
 

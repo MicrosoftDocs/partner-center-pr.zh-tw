@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/12/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 如何回應來自 Microsoft 的驗證更新要求
+description: 遵循您的帳戶驗證狀態，並視需要提供其他資訊。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 驗證、驗證、拒絕、夥伴設定檔更新
 ms.localizationpriority: medium
-ms.openlocfilehash: 8a7b77d8a263d71235dd30e74669b39244ec11d2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 6f6dfe1b8d7815ffb93b737804b85b15b60d3cff
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651143"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943361"
 ---
 # <a name="verify-your-account-information"></a>驗證您的帳戶資訊
 
@@ -30,7 +30,7 @@ ms.locfileid: "73651143"
 |**驗證類型**   |**已驗證的內容和作法的描述**   |**拒絕時該怎麼辦**   |
 |----------------------------|:-----------------------------------|:--------------------------------------|
 |電子郵件擁有權   |電子郵件擁有權會確認主要連絡人電子郵件地址是否有效。  主要連絡人電子郵件地址必須是受監視的工作帳戶，而且可以傳送/接收電子郵件。  合作夥伴不應該使用：（1）未與公司網域相關聯的個人電子郵件地址。 （2）租使用者使用者登入未與電子郵件相關聯，例如，jsmith@testcompany.onmicrosoft.com   |如果您在一個工作天內未收到電子郵件擁有權驗證訊息，請按一下 [夥伴設定檔] 頁面上的連結，將訊息重新傳送，或聯絡支援人員。|
-|雇用 |雇用驗證藉由在公司擁有的電子郵件網域上擁有有效的電子郵件地址，確認主要連絡人是註冊公司的員工。|若雇用驗證遭到拒絕，主要連絡人可以提供檔或線上來源，確認連絡人的電子郵件網域是否為其雇主的擁有權。|
+|聘僱 |雇用驗證藉由在公司擁有的電子郵件網域上擁有有效的電子郵件地址，確認主要連絡人是註冊公司的員工。|若雇用驗證遭到拒絕，主要連絡人可以提供檔或線上來源，確認連絡人的電子郵件網域是否為其雇主的擁有權。|
 |商業版   |商務驗證會確認註冊公司是真的真正商務實體，以及用於註冊的位址。|如果商務驗證失敗，將會要求主要連絡人提供公司家中國家/地區的官方檔（例如商業註冊或稅務註冊憑證或收據），或 municipality 確認公司是已獲授權可在該機構名稱下執行業務，並位於登入位址。|
 
 ## <a name="when-verification-concludes"></a>當驗證結束時

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作夥伴中心驗證及保留憑證
+description: 有關憑證驗證和兌換工具的常見問題，包括有關遷移、要求和控制存取權的資訊等等。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 訓練券、軟體保證、訓練、驗證券、保留憑證
 ms.localizationpriority: medium
-ms.openlocfilehash: 02da186de1918625068b08d82fee17892074159e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 570d7e605f05c0e2bb0700dd4e211cd1f074725f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651058"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943171"
 ---
 # <a name="faq-using-the-voucher-validation-and-redemption-tool"></a>常見問題：使用憑券驗證及兌換工具 
 

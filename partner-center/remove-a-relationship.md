@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 移除關係會從合作夥伴中心的檢視中移除任何已關閉的企業關係。
+description: 瞭解如何從您的客戶清單移除客戶、移除您自己的委派系統管理員許可權，以及停止購買或提供支援。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3c0289c231e90d38d2bf18d571f9194fc469ce7e
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: a4fb0bc0ddcf5bb6c759558c25a3df8fb12ddf08
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651981"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943231"
 ---
 # <a name="remove-a-reseller-relationship-with-a-customer"></a>移除與客戶的經銷商關係
 

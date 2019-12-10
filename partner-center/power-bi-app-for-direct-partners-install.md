@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 請依照下列步驟，預覽適用於 Power BI 的合作夥伴中心分析應用程式 (適用於雲端解決方案提供者直接合作夥伴)。
+description: 請遵循下列步驟來安裝及預覽適用于 Power BI 的合作夥伴中心分析應用程式（適用于 CSP 中的直接合作夥伴）。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: b7635e8d6fd9910123ac4113d467ae506e507793
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: d0dd520172ead463207c1f2ac511c85761f9c1ef
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654174"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943281"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安裝和預覽適用於 Microsoft Power BI 的合作夥伴中心分析應用程式
 

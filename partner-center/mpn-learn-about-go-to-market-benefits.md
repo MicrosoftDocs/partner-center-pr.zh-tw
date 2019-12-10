@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/31/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 身為 Microsoft 合作夥伴網路成員，您可能符合特定的進入市場優勢。 瞭解各種不同層級的上市權益，以及如何在合作夥伴中心內加以啟用和管理。
+description: 上市權益可讓您存取專屬銷售和行銷資源，協助您加快上市時間、產生潛在客戶，以及拓展您的業務。
 author: MicheleHope
 ms.author: v-mihope
 keywords: MPN，成員資格權益，成員資格，進入市場優勢，進入市場，進入市場，轉型，金級成員資格，銀級成員資格
 ms.localizationpriority: medium
-ms.openlocfilehash: e1a71bc69982e4ff86b8442fc1dd3ec20fc486ea
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 359c86cbd2929ced4203b09b988ec1fbf7b2ea44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653259"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943331"
 ---
 # <a name="explore-your-mpn-go-to-market-gtm-membership-benefits"></a>探索 MPN 的進入市場（轉型）成員資格權益
 
@@ -67,9 +67,9 @@ ms.locfileid: "73653259"
 
 1. 登入合作夥伴中心[儀表板]( https://docs.microsoft.com/partner-center/)。
 
-2. 從左側功能表中，選取 [ **MPN**]。 然後，執行下列其中一項動作：
+2. 從左側功能表中，選取 [ **MPN**]。 然後，執行下列動作之一：
 
-    - 選取 **[總覽**]。 流覽至 [**快速連結**] 區段，然後選取 [**進入市場**] 索引標籤。
+    - 選取 [概觀]。 流覽至 [**快速連結**] 區段，然後選取 [**進入市場**] 索引標籤。
 
       或
 
@@ -82,7 +82,7 @@ ms.locfileid: "73653259"
 如需啟用或管理您的轉型成員資格權益的特定步驟，請參閱[如何管理您的上市權益](manage-your-partner-network-benefits.md#manage-go-to-market-benefits)。 執行此程式的過程中，您必須將行銷人員指派為連絡人，以取得有關您所啟用之可操作權益的電子郵件和通訊。
 
 >[!IMPORTANT]
->您必須是全域管理員或 MPN 合作夥伴系統管理員，才能啟用特定的「通過」權益，並指派相關的「行銷連絡人」。 如有必要，您可以遵循 [ [**權益**] 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)上的指示來成為全域管理員（需要登入）。 您的公司可能已經有全域管理員，因此請務必洽詢您的小組。
+>您必須是全域管理員或 MPN 合作夥伴系統管理員，才能啟用特定的「通過」權益，並指派相關的「行銷連絡人」。 如有需要，您可以依照 [[權益] 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)中的指示 (需要登入) 成為全域系統管理員。 貴公司可能已經有全域系統管理員，請務必洽詢您的團隊。
 
 #### <a name="see-also"></a>請參閱
 

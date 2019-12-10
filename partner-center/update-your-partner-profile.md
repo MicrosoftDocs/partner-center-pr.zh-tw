@@ -2,17 +2,17 @@
 title: 確認您的合作夥伴設定檔
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 當您第一次以系統管理員身分登入時，請確定支援詳細資料正確、回報免稅 (若適用)，並檢閱設定檔中的連絡人資訊。
+description: 瞭解如何驗證您的公司詳細資料，例如主要連絡人、位址和程式資訊。 您也可以更新您的法律和帳單位址。
 ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: eef07d41028039be989b2c3169269b3290c72524
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 262c1f224a5056aaf985e2af4206e62fa809aa8a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384780"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943051"
 ---
 # <a name="verify-your-partner-profile"></a>確認您的合作夥伴設定檔
 

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作夥伴中心管理貴公司的地點
+description: 瞭解如何在獎勵計畫、CSP 商務、訂用帳戶和其他交易中使用 MPN 識別碼。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 合作夥伴帳戶，位置
 ms.localizationpriority: medium
-ms.openlocfilehash: 00af2b65bebfec336609f90946806c2b74827325
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653354"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943501"
 ---
 # <a name="manage-your-partner-account-locations"></a>管理您的合作夥伴帳戶：位置
 

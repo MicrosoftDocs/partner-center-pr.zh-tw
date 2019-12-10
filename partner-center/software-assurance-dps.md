@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 01/21/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 註冊規劃服務，為企業客戶提供預先部署規劃
+description: 註冊規劃服務以符合 Microsoft 的補償資格，以提供訓練及其他服務給具有軟體保證的企業客戶。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 預先部署、規劃、軟體保證
 ms.localizationpriority: medium
-ms.openlocfilehash: 36913950ae7b8b2b9cdde025bfa66f20dec374a7
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9eed58a3f7198a1ea02143a96fafe4bfd39e2848
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651625"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943421"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作夥伴中心的軟體保證規劃服務
 

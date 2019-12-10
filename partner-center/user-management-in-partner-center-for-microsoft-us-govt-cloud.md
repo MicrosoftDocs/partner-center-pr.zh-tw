@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 為遵守用來約束個人資料收集和使用行為的國內、地方和業界特定相關規定，美國政府適用的 Microsoft Cloud 合作夥伴中心不提供使用者管理功能。 不過，您可以在Azure 入口網站中為美國政府適用的 Microsoft Cloud 新增及管理使用者。
+description: 瞭解如何以及在何處管理合作夥伴中心，以取得美國政府合作夥伴、客戶和授權的 Microsoft Cloud，以及密碼重設。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: c9cf088adae26ac0dd34088273caeb0023091a6f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 56121b91fd0e1eae02fc232d45d0c7b06c5dd8ea
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653971"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943601"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美國政府適用的 Microsoft Cloud 合作夥伴中心內的使用者及授權管理
 

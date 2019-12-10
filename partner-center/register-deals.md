@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/28/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 對於某些合格的解決方案，在您選取 [已成交] 之後，系統會要求您提供其他資訊，才能註冊您的交易。 Microsoft 將會審查您提供的資訊，並可能在審查期間要求提供其他詳細資料。
+description: 當您在合作夥伴中心註冊您所贏得的交易時，它會協助 Microsoft 在未來提供更多機會。
 author: JnHs
 ms.author: jenhayes
 keywords: 交易註冊
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03e2ef23923d76b833d64346614286a39826e71b
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 05c9291a9aa76efe2ff7d0a2557617b69e7455d4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652054"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943221"
 ---
 # <a name="register-your-deals"></a>註冊您的交易
 

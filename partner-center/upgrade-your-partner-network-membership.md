@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 當您升級 Microsoft 合作夥伴網路會員資格時，有資格獲得專屬會員資格權益。 了解如何尋找並購買可用的優惠。
+description: 將您的 MPN 成員資格升級為 Microsoft 行動套件訂用帳戶成員資格或 Microsoft 專長認證，以符合專屬權益。
 author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: f48dcd8b5ac4a83d6f9b99c71f0d243ad78ad274
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651169"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943401"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升級您的 Microsoft 合作夥伴網路會員資格
 
@@ -82,7 +82,7 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，具有累�
 3. 選取 [關閉自動續約] (如果您不想要您的行動套件訂閱每年自動續約)。 
 
 > [!NOTE]  
-> 如果您關閉自動訂閱更新，在重新更新訂用帳戶之前，您將無法重新開啟它。 我們會在您的訂用帳戶到期前提醒您續訂。
+> 如果您關閉自動訂閱續約，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 我們將會在您的訂閱到期之前提醒您續約。
 
 
 ### <a name="renew-your-action-pack-subscription"></a>為您的行動套件訂閱續約

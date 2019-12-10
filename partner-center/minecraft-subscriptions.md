@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: '向符合資格的教育機構客戶銷售 Minecraft: Education Edition'
+description: 向合格教育客戶銷售 Minecraft 教育版訂用帳戶，然後再從 Microsoft 教育商店下載這些訂閱。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 獲得授權的教育合作夥伴、教育、銷售教育、學校
 ms.localizationpriority: medium
-ms.openlocfilehash: ef1191b068f5e6afb22dc8e7734489f4dd7d3531
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653283"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943491"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育機構客戶銷售 Minecraft: Education Edition
 

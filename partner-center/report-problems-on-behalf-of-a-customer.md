@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 08/16/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 如果客戶遇到您無法解決的服務問題，且問題符合將問題向上呈報給 Microsoft 中描述的條件，請針對它們提出支援票證。
+Description: 如果您的客戶遇到無法解決的服務問題，而且符合向 Microsoft 呈報問題中所述的準則，請為他們提出支援票證。
 ms.assetid: 417E8EE3-EBD2-41DA-BF6E-DD935BE78EF5
 author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 服務要求, 服務票證, 支援, 支援權利, aobo, Azure aobo
 ms.localizationpriority: medium
-ms.openlocfilehash: f0dc490ab72c87ccb1b6aa22aa84a66529820408
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 28f5be859d8c949eb0135f3096c320cc160b835a
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654118"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943211"
 ---
 # <a name="report-problems-on-behalf-of-a-customer"></a>代表客戶報告問題
 

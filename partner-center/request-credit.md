@@ -2,19 +2,19 @@
 title: 向 Microsoft 要求 SLA 信用額度 |合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
-description: 若遇到服務中斷，請向 Microsoft 要求 SLA 信用額度。
+description: 如果您的客戶遇到服務中斷，請瞭解從 Microsoft 要求 SLA 信用額度的優點、限制和程式。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a3eb79b78b3edb052d85cc7461d9fd50a115eb43
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384907"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943141"
 ---
 # <a name="request-an-sla-credit-from-microsoft"></a>向 Microsoft 要求 SLA 信用額度 
 
@@ -49,9 +49,9 @@ Microsoft 的 SLA 信用額度取決於哪些服務受到影響。 例如，如�
 | SB | 商務用 Skype Online （先前稱為 Lync Online） |
 | 作業系統 | Office 訂閱 |
 | PB | Power BI for Office 365 |
-| 行距 | SharePoint Online |
+| SP | SharePoint Online |
 | YA | Yammer Enterprise |
-| 每月 | 入口網站錯誤 |
+| MO | 入口網站錯誤 |
 
 ### <a name="submit-sla-credit-request"></a>提交 SLA 信用要求
 

@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 將您的企業從 PMC 移至合作夥伴中心之前應考慮的事項
+description: 從 PMC 移至合作夥伴中心之前，請先複習有用的資訊和常見問題。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ad7b761c69cfa1f320eb9427806f5b1803e84e6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652183"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943261"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備從合作夥伴成員資格中心（PMC）移至合作夥伴中心
 
@@ -91,7 +91,7 @@ PMC 中的 MPN 全域管理員角色可以執行下列動作：
 **如果我有多個 AAD 租使用者和單一 MPN 帳戶，可以在合作夥伴中心連結它們嗎？**
 
 是，在合作夥伴中心，您可以將多個 Azure AD 租使用者連結至單一合作夥伴中心帳戶。
-在這裡深入瞭解。 
+請按一下這裡以進一步了解。 
 
 **將多個 Azure AD 租使用者新增至單一合作夥伴中心帳戶是否有任何限制？**
 

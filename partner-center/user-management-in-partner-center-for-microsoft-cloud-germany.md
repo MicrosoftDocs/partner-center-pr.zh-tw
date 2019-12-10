@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 為遵守用來約束個人資料收集和使用行為的國內、地方和業界特定相關規定，Microsoft Cloud 德國合作夥伴中心不提供使用者管理功能。 不過，您可以在 Microsoft Cloud 德國 Azure 入口網站中新增及管理使用者。
+description: 瞭解如何以及在何處管理合作夥伴中心，以 Microsoft Cloud 德國合作夥伴、客戶和授權，以及密碼重設。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 91d95f51d89b5fb00bc340004758ce7f87450d3f
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 39d1d6ff405ca4b19fc59edddc1bd5e5dbb4fef2
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651134"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943371"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理
 
@@ -44,7 +44,7 @@ ms.locfileid: "73651134"
 > [!NOTE]  
 > 選取下列連結會將您帶到不同的網站。 
 
--  [將新的使用者新增至 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [將新的使用者加入 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [在 Azure Active Directory 中將使用者指派給系統管理員角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
@@ -52,7 +52,7 @@ ms.locfileid: "73651134"
 
 **相關主題**
 
--  [Microsoft Azure 德國](https://azure.microsoft.com/global-infrastructure/germany/)
+-  [Microsoft Azure (德國)](https://azure.microsoft.com/global-infrastructure/germany/)
 
 -  [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)
 

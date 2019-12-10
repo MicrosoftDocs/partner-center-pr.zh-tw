@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9f3a14161316261fa7ab2744b6de8af74be2ee1d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 7749f61743e38bef63a5f82cbac06f9e9bdcb8dc
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654214"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943511"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心
 
@@ -32,6 +32,30 @@ Microsoft Cloud 德國提供個別的[Microsoft Azure](https://go.microsoft.com/
 > 
 > 之後，新的客戶可以選擇使用目前提供的歐洲地區，或在德國的新地區可供使用時加以選擇。 如需詳細資訊，請參閱 [Microsoft 即將從德國的新資料中心提供雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
 
+# <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>將客戶從 Microsoft Cloud 德國遷移至另一個歐洲地區
+在您可以將客戶訂用帳戶從 Microsoft Cloud 德國遷移至另一個歐洲地區之前，您必須擁有位於該區域且目前作用中的現有 CSP 帳戶。 如果您沒有此帳戶，系統會提示您在合作夥伴中心選取 CSP 帳戶時，建立一個。 在遷移之後，您的客戶訂用帳戶會與選取的租使用者相關聯。
+
+## <a name="migrate-with-an-existing-csp-account"></a>使用現有的 CSP 帳戶進行遷移
+1.  當您登入 Microsoft Cloud 德國的合作夥伴中心時，系統會提示您選取作用中的 CSP 租使用者。 選取 **\[確定\]** 。
+2.  出現提示時，選取 **[我已經在歐洲地區的租**使用者]，然後選取 **[下一步]** 。 系統會提示您登入新的租使用者。 
+3.  以全域管理員身分登入租使用者。
+4.  查看 [確認] 頁面上的資訊，然後選取 [**確認**]。
+5.  系統會提示您選取 [ **view details** ] 或 [ **view 儀表板**] 以取得詳細資訊。 
+
+如果登入失敗，則可能表示下列其中一項：
+- 您不是所選租使用者的全域管理員
+- 租使用者不是位於歐洲地區
+- 租使用者不在使用中
+
+進行必要的更正，並重複此程式。
+
+## <a name="migrate-without-an-existing-csp-account"></a>不使用現有 CSP 帳戶進行遷移
+1.  當您登入 Microsoft Cloud 德國的合作夥伴中心時，系統會提示您選取作用中的 CSP 租使用者。 選取 **\[確定\]** 。
+2.  出現提示時，選取 **[我在歐洲地區沒有租**使用者]，然後選取 [**建立新帳戶**]。 
+3.  您會進入 [合作夥伴中心註冊] 頁面，您可以在其中于歐洲地區建立新的租使用者和 CSP 帳戶。 
+4.  一旦您簽署合約且帳戶為作用中，請使用目前的 Microsoft Cloud 德國帳戶登入。
+5.  流覽至 [租使用者選取] 表單。
+6.  選取 [**我已經有一個位於歐洲地區的租**使用者]，然後依照指示進行。
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Microsoft Cloud 德國合作夥伴中心：在歐盟和歐洲自由貿易聯盟境內銷售德國雲端解決方案
 

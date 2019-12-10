@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作夥伴中心中，找出您以往在合作夥伴系統管理中心使用的功能
+description: 從合作夥伴系統管理中心移至合作夥伴中心之後，瞭解如何管理成員資格、客戶參考、獎勵，以及雲端解決方案提供者方案（CSP）的所有其他層面。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, Office 365 admin, PAC features, Office 365 系統管理, PAC 功能
 ms.localizationpriority: medium
-ms.openlocfilehash: a79badb357327e18ab28ec7cc39455cec42e539a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654307"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943561"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>從合作夥伴系統管理中心 (PAC) 移轉到合作夥伴中心
 
@@ -32,9 +32,9 @@ ms.locfileid: "73654307"
 |要求建立關聯性|(轉銷商和顧問) 建立業務 -> 傳送 DAP 要求|(轉銷商和顧問) 客戶 -> 要求建立經銷商關係 (請參閱下列注意事項)|
 |管理您的客戶|用戶端管理 -> 用戶端清單|合作夥伴中心 -> 客戶|
 |管理客戶訂閱|用戶端管理 -> 用戶端清單 -> 選取客戶|合作夥伴中心-> 客戶-> 選取 [客戶] 或將客戶新增至 [我的最愛 **]** 清單，方法是切換客戶清單中的星號，然後選取 [我的最愛 **]** Slideout 並直接前往**管理**客戶的訂用帳戶。|
-|代表客戶進行管理|用戶端管理 -> 選取客戶 -> 選取 [管理] 按鈕|合作夥伴中心-> 客戶-> 從下拉式清單中選取 [管理服務]-> 選取 [服務] 或 [將您的客戶新增到我的最愛 **]** 清單，方法是切換客戶清單中的星號，然後選取 [我的最愛 **]** slideout，直接前往**管理**所需服務的服務。|
+|代表客戶進行管理|用戶端管理 -> 選取客戶 -> 選取 [管理] 按鈕|合作夥伴中心-> 客戶-> 從下拉式清單中選取 [管理服務]-> 選取 [服務] 或 [將您的客戶新增至我的最愛 **]** 清單，方法是切換客戶清單中的星號，然後選取 [我的最愛 **]** slideout 並直接前往 [管理所需服務的**服務**]。|
 |為客戶建立服務要求|服務要求 -> 選取客戶 -> 選取 + 按鈕 | 合作夥伴中心 -> 服務要求 -> 客戶要求 -> 選取客戶 -> 新要求|
-|管理客戶服務要求| 服務要求 -> 選取客戶|合作夥伴中心-> 服務要求-> 客戶要求-> 選取 [客戶] 或 [將服務要求新增到我的最愛 **]** 清單，方法是切換客戶要求視圖中的星號，然後選取 [我的最愛 **]** slideout，選取[**支援要求**] 索引標籤，並直接移至 [服務要求]，或**直接從我的最**愛查看更新。|
+|管理客戶服務要求| 服務要求 -> 選取客戶|合作夥伴中心-> 服務要求-> 客戶要求-> 選取客戶或將服務要求新增至我**的最愛清單，** 方法是切換客戶要求視圖中的星號，然後選取 [**我的最愛] slideout，** 選取 [**支援要求**] 索引標籤，並直接移至 [服務要求]，或直接從 [我的最**愛] 查看更新。**|
 |檢視您管理的 Microsoft Online Services 的健康情況|服務健康情況 -> 彙總的健康情況|合作夥伴中心 -> 服務健康情況|
 
 >重要<br>

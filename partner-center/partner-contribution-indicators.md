@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 顯示您公司的「Dynamics 365 客戶參與」或「Dynamics 365 財務與營運」之情況的資料
+description: 瞭解您的表現如何，以及您可以在 Dynamics 365 Customer Engagement 或 Dynamics 365 財務和營運方面做什麼改進
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI, performance, customer success, measurements, Dynamics 365, 績效, 客戶成功, 測量
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7d478f8a90eee2bcfc15ef31407dee12de1eaa29
-ms.sourcegitcommit: 10d40d50a623ac6bce3496157695a7aca147d74a
+ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74391632"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943121"
 ---
 # <a name="partner-contribution-indicators"></a>合作夥伴貢獻指標
 
@@ -65,7 +65,7 @@ PCI 提供您公司技術功能的精密、整體觀點，以及推動客戶成�
 
 ![功能顧問](images/pci/functional_consultants.png)
 
-![趨勢](images/pci/functional_consultant_growth.png)
+![growth](images/pci/functional_consultant_growth.png)
 
 ![開發人員](images/pci/developers.png)
 

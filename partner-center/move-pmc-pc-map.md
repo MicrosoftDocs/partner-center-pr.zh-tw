@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解 PMC 和合作夥伴中心之間的差異和相似之處
+description: 瞭解 PMC 與合作夥伴中心之間有關續約、帳戶結構、登入、使用者角色、專長認證等的差異和相似性。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a6beaa331d762f47530441a91dc203ed01c78e2
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 77754e9fac432e7ec7e75fd0acbb4b6d8fbe1088
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653281"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943481"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>從 PMC 移到合作夥伴中心
 

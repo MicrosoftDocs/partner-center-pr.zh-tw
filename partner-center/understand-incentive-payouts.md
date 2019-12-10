@@ -4,16 +4,16 @@ ms.topic: article
 ms.date: 06/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 檢視獎勵計畫的收益和支付。
+description: 檢視獎勵計畫的收益和支付。 這包括 [付款] 頁面、[交易歷程記錄] 頁面和 [付款狀態]，以及 [匯出資料]。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 911648807a3b2905492f5f15c770aca81726ccbf
-ms.sourcegitcommit: 9b0a129ceba1d5f24ee069fa3a703695e4a96a23
+ms.openlocfilehash: e8eccf310c9ff920fbbfcf0494da6e1fb4010c44
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "74559742"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943181"
 ---
 # <a name="view-your-incentives-payments-information"></a>查看您的獎勵付款資訊
 
@@ -54,21 +54,21 @@ ms.locfileid: "74559742"
 
 ## <a name="payment-status"></a>[付款狀態]
 
-|**賺取狀態** |**原因** |**需要合作夥伴動作嗎？**       |
+|**賺取狀態** |**Reason** |**需要合作夥伴動作嗎？**       |
 |------------------|:-------------------------------------|:-------------------------------------|
 |尚未        | 收益符合付款資格。 如獎勵計畫的程式指南中所定義，它會維持在此狀態的冷卻期間。       |無        |
-|提交      |付款順序會在處理付款前產生擱置內部審核。       |無       |
+|近期      |付款順序會在處理付款前產生擱置內部審核。       |無       |
 |待決的稅務發票      |您的稅務發票不完整或無效。          |您必須先更新您的稅務發票，才能支付費用         |
 |審查期間拒絕        |付款在審查期間遭到拒絕。          |請洽詢 Microsoft 支援服務以取得詳細資料         |
 |Failed        |付款因 Microsoft 系統錯誤而失敗。         |請洽詢 Microsoft 支援服務以取得詳細資料         |
 |進行中     |付款進行中。         |無         |
 |不正確的付款        |付款 recouping 正在進行中。          |無        |
-|發送        |付款已傳送到您的銀行。          |無       |
+|已傳送        |付款已傳送到您的銀行。          |無       |
 |重新處理       |付款發生 Microsoft 系統錯誤，正在進行重新處理。           |無         |
 |反轉        |付款已由您的銀行反轉，並將在下一個付款週期中再次傳送。          |無        |
 |已拒絕稅務發票       |您的稅務發票在審查期間遭到拒絕。 所有暫止的付款都會保留，直到稅務發票審核完成為止。          |請洽詢 Microsoft 支援服務以取得詳細資料         |
 |審查下的稅務發票        |正在審核您的稅務發票。 當稅務發票核准之後，您的付款就會釋出。           |無        |
-|退回        |您的銀行已拒絕付款。           |如需詳細資訊，請洽詢您的銀行。  |
+|Rejected        |您的銀行已拒絕付款。           |如需詳細資訊，請洽詢您的銀行。  |
 
 ## <a name="export-data-page"></a>[匯出資料] 頁面
 遵循此頁面上的指示，匯出您想要的資料。 
@@ -129,7 +129,7 @@ ms.locfileid: "74559742"
 |paymentId   |付款的唯一識別碼。 這個數位通常會顯示在您的 bank 語句中。   |
 |paymentStatus   |[付款狀態]   |
 |paymentStatusDescription   |付款狀態的易記描述   |
-|Id   |客戶識別碼   |
+|customerId   |客戶識別碼   |
 |customerName   |交易客戶名稱   |
 
 
@@ -140,7 +140,7 @@ ms.locfileid: "74559742"
 |partNumber   |連結至交易的元件編號。 Microsoft 術語。   |
 |productName   |以交易為基礎的產品系列名稱   |
 |invoiceNumber   |發票號碼   |
-|訂閱   |與客戶相關聯的訂用帳戶識別碼   |
+|subscriptionId   |與客戶相關聯的訂用帳戶識別碼   |
 |And subscription.subscriptionstartdate   |[訂閱開始日期]   |
 |Subscription.subscriptionenddate   |[訂閱結束日期]   |
 |offerId   |TBD   |
