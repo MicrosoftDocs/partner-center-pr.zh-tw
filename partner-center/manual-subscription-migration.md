@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 12/12/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 基本（合格供應專案）訂用帳戶的 Dynamics 365 for Sales/Customer Engagement 方案無法再續約。
+description: 瞭解如何在現有的訂用帳戶到期之前購買新的訂用帳戶、重新指派使用者授權，然後取消舊的訂用帳戶。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 優惠，續約優惠，新的 Dynamics 365 Sku
-ms.openlocfilehash: 354846973227fd292514454dd6f648934e5156ef
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: bbb7480264a2d3d5ae6ed1f50e0f32b5ebc1c16e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653302"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943351"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>將 Dynamics 365 和 Customer Engagement Plan 從基本 （合格的供應項目） 移轉至較新版本
 
@@ -24,7 +24,7 @@ ms.locfileid: "73653302"
 
 -  合作夥伴中心
 
-自2019年1月1日起，從基本（合格供應專案）訂用帳戶使用 Dynamics 365 for Sales/Customer Engagement 方案的客戶，已無法再續約這些舊供應專案;現有的訂閱將不會在過期時自動更新。 在訂用帳戶的詳細資料頁面上，訂用帳戶狀態會變更為「從 [日期] 自動續約于 [日期] 的到期日]。 
+自2019年1月1日起，從基本（合格供應專案）訂用帳戶使用 Dynamics 365 for Sales/Customer Engagement 方案的客戶，已無法再續約這些舊供應專案;現有的訂閱將不會在過期時自動更新。 在訂用帳戶的詳細資料頁面上，訂用帳戶狀態會變更為「從 [日期] 自動續約于 [日期] 的到期日。 
 
 
 為確保客戶的持續性，您應該將具有過期訂閱的訂用帳戶轉換為支援的選項，如下所示。 我們建議您將客戶移至訂用帳戶的年度結束日期之前的新訂閱，以避免客戶發生任何服務中斷。
@@ -70,7 +70,7 @@ ms.locfileid: "73653302"
 **取代選項**
 - Dynamics 365 for Sales 專業版（新）
 - Dynamics 365 for Sales 專業版（新）
-- 適用于客戶服務的 Dynamics 365
+- Dynamics 365 for Customer Service
 - Dynamics 365 Customer Engagement 方案或
 - Dynamics 365 團隊成員
 
@@ -93,7 +93,7 @@ ms.locfileid: "73653302"
 您的客戶現在會有舊的訂閱和新的訂用帳戶。 下一個步驟是將授權重新指派給客戶的使用者。
 
 1. 從左側導覽中選取 [**客戶**]，然後選取您要移動的客戶。
-2. 選取 \[使用者和授權\]。
+2. 選取 **\[使用者和授權\]** 。
 3. 若要將授權重新指派給使用者，請選取使用者，然後選取 [**管理授權**]。 
 4. 在 [**管理授權**] 頁面上，清除 [基本（限定供應專案）授權] 核取方塊中的 [Dynamics 365 for Sales/Customer Engagement 方案]，然後為客戶即將移動的訂用帳戶選取新的服務方案。 
 5. 選取 **\[提交\]** 。 您將針對需要新授權的每位使用者執行此動作。 

@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 12/12/2018
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Dynamics 365 Business Edition 訂閱無法再續約。
+description: 瞭解如何將您的 Dynamics 365 Business Edition 優惠遷移至較新版本，然後再將其到期。
 ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
 Keywords: Dynamics 365 優惠，續約優惠，新的 Dynamics 365 Sku
-ms.openlocfilehash: fc6964135058a805a32f81b09974b8e6d08e85d6
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 8a6ff7c10854d3b4d4a3a57482b45c741d8e0321
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73653300"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943571"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>將 Dynamics 365 商務版提供移轉至較新版本 
 
@@ -24,7 +24,7 @@ ms.locfileid: "73653300"
 
 - 合作夥伴中心
 
-自2019年1月1日起，使用 Dynamics 365 Business Edition 訂用帳戶的客戶將無法再續約這些舊版供應專案;現有的訂閱將不會在過期時自動更新。 在訂用帳戶的詳細資料頁面上，訂用帳戶狀態會變更為「從 [日期] 自動續約于 [日期] 的到期日]。
+自2019年1月1日起，使用 Dynamics 365 Business Edition 訂用帳戶的客戶將無法再續約這些舊版供應專案;現有的訂閱將不會在過期時自動更新。 在訂用帳戶的詳細資料頁面上，訂用帳戶狀態會變更為「從 [日期] 自動續約于 [日期] 的到期日。
 
 為確保客戶的持續性，您應該將具有過期訂閱的訂用帳戶轉換為支援的選項，如下所示。 我們建議您將客戶移至訂用帳戶的年度結束日期之前的新訂閱，以避免客戶發生任何服務中斷。
 
@@ -32,8 +32,8 @@ ms.locfileid: "73653300"
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>即將淘汰的 Dynamics 365 Business Edition
 
-- Dynamics 365 for 財務和營運，Business edition
-- Dynamics 365，適用于小組成員，Business edition
+- Dynamics 365 for Finance and Operations，Business edition
+- Dynamics 365 的商務小組成員版本
 
 ## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central-Dynamics 365 Business Edition 的新優惠
 
@@ -57,7 +57,7 @@ Dynamics 365 Business Edition 客戶有資格在2020年6月30日前獲得新的�
 您的客戶現在會有舊的訂閱和新的訂用帳戶。 下一個步驟是將授權重新指派給客戶的使用者。
 
 1. 從左側導覽中選取 [**客戶**]，然後選取您要移動的客戶。
-2. 選取 \[使用者和授權\]。
+2. 選取 **\[使用者和授權\]** 。
 3. 若要將授權重新指派給使用者，請選取使用者，然後選取 [**管理授權**]。 
 4. 在 [**管理授權**] 頁面上，清除 [基本（限定供應專案）授權] 核取方塊中的 [Dynamics 365 for Sales/Customer Engagement 方案]，然後為客戶即將移動的訂用帳戶選取新的服務方案。 
 5. 選取 **\[提交\]** 。 您將針對需要新授權的每位使用者執行此動作。 
