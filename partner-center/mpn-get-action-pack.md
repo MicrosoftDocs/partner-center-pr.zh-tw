@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解如何取得 Microsoft 行動套件，無論是首次購買還是續約。
+description: 了解如何購買 Microsoft 行動套件訂用帳戶，並開始使用行動套件的權益。 同時了解如何更新、取消、檢視您的帳單等等。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: 行動套件, MAPS, 續約 MAPS, 續約行動套件, 取得行動套件
 ms.localizationpriority: high
-ms.openlocfilehash: ef1ad6e37fd15274ce6e2272dcd8e563738f263a
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654292"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943341"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>首次購買或續約 Microsoft 行動套件訂閱，或者銀級或金級專長認證
 

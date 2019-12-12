@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/29/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 身為 Microsoft 合作夥伴網路會員，您有資格購買特定會員資格權益。 說明如何在合作夥伴中心啟用及管理您的會員資格權益。
+description: 加入 Microsoft 合作夥伴網路 (MPN)，並管理可協助打造及拓展業務的成員資格權益。
 author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 會員資格權益, 會員資格
 ms.localizationpriority: high
-ms.openlocfilehash: 7d43410e78ef3e7ac47c321171e6f6adabf2a66f
-ms.sourcegitcommit: a7c705c6ee11d866401ff38ab93e7e2ef4a46a7d
+ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "74681941"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943591"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 

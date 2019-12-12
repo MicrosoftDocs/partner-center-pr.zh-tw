@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/09/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解參與雲端解決方案提供者計畫之顧問和合作夥伴的安全性需求。
+description: 啟用多重要素驗證 (MFA) 並採用安全應用程式模型架構的簡介，這些項目現在是合作夥伴的必要元件。
 author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: b481bd3e8729c63425c45e1f9767722130dc0833
-ms.sourcegitcommit: bf10a7123490ab08c6c3a58cec7045c5d38d16cc
+ms.openlocfilehash: c117bd828f5f74a56490e52c1123ac3a973ccae6
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "73964210"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943301"
 ---
 # <a name="partner-security-requirements"></a>合作夥伴安全性需求
 
@@ -135,7 +135,7 @@ ms.locfileid: "73964210"
 
 以下是可以找到支援和範例程式碼的資源：
 
-- [合作夥伴中心安全性指導群組社群](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) - 這是線上社群，您可以在其中了解近期活動，並詢問您可能會遇到的任何問題。
+- [合作夥伴中心安全性指導群組社群](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) - 這是線上社群，您可以在其中瞭解近期活動，並詢問您可能會遇到的任何問題。
 - [合作夥伴中心 .NET 範例](https://github.com/microsoft/partner-center-dotnet-samples) - 此 GitHub 存放庫包含使用 .NET 開發的範例，將示範如何實作安全應用程式模型架構。
 - [合作夥伴中心 Java 範例](https://github.com/microsoft/partner-center-java-samples) - 此 GitHub 存放庫包含使用 Java 開發的範例，將示範如何實作安全應用程式模型架構。
 - [合作夥伴中心 PowerShell - 多重要素驗證](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) - 本文章提供如何使用 PowerShell 來實作安全應用程式模型架構的詳細資料。

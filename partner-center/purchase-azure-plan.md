@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 購買 Azure 方案下的多個 Azure 訂用帳戶
+description: 了解如何在 Azure 方案下購買單一或多個 Azure 訂用帳戶和 Azure 保留、設定資源，以及檢視或新增訂用帳戶。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: f81b338fef2feeeede17db2e1de84b1d9b0d0ca8
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: b259f34266415885215097c54c043a6cb91249bd
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654168"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943271"
 ---
 # <a name="purchase-the-azure-plan"></a>購買 Azure 方案
 

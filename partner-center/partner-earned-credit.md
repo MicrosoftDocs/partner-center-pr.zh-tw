@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/03/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure 方案的合作夥伴所獲得信用點數是什麼
+description: 合作夥伴所獲得信用點數提供簡化的統一 Azure 定價、提供增值的受控服務，並協助消除對利潤的競爭。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: a3084d84d2befda1f2e71dc8d15cd1f3542bd974
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: caab446047745a63dc2116c25b24be2dcade3584
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654208"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943061"
 ---
 # <a name="partner-earned-credit---overview"></a>合作夥伴所獲得信用點數 - 概觀
 

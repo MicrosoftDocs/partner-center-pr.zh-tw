@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/10/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 需要在合作夥伴中心裡工作的每位員工，都必須有指派的角色。
+description: 了解哪些角色最適合管理商業交易、轉介、獎勵或貴公司 MPN 成員資格的使用者。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 權限, 系統管理員, 代理人
 ms.localizationpriority: high
-ms.openlocfilehash: aa2eb2561332f730abedd2416813189abe6dc02d
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652425"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943131"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
 

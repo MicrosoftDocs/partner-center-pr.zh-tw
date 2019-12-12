@@ -3,17 +3,17 @@ title: 合作夥伴安全性需求狀態 | 合作夥伴中心
 ms.date: 10/11/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 透過 MFA 需求隨時保持貴公司合規性的最新狀態。
+description: 深入了解在雲端解決方案提供者計畫中，針對顧問、控制台廠商和合作夥伴增加安全性的新強制需求。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: f3736f73f983fce74620df2f7a8ad1d6cce19984
-ms.sourcegitcommit: 60a20304c2d13bec76fa088bb8af1a9e1a35f43a
+ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
+ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2019
-ms.locfileid: "74295258"
+ms.lasthandoff: 12/09/2019
+ms.locfileid: "74943111"
 ---
 # <a name="partner-security-requirements-status"></a>合作夥伴安全性需求狀態
 
