@@ -8,12 +8,12 @@ description: 在遷移至合作夥伴中心之後，尋找常見的 Office 365 �
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8f709ef9beb42225e9e11d859c21d4576500ee1a
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943321"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005067"
 ---
 # <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a>Office 365 合作夥伴系統管理中心合作夥伴：準備將商務營運移至合作夥伴中心
 
@@ -21,6 +21,12 @@ ms.locfileid: "74943321"
 
 - 合作夥伴中心
 - Office 365 合作夥伴系統管理中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
 
 我們會將 Office 365 合作夥伴系統管理中心功能帶入合作夥伴中心，協助您在整個商務生命週期中管理您的客戶。 除了您所使用的功能之外，您現在還可以： 
 

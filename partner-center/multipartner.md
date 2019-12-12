@@ -9,12 +9,12 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 634645d59503042690e5cbde0fdce3a037eaa5e8
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: ca2db6611d26716d6f8b9cfa166bbc852bbf8b89
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189082"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004907"
 ---
 # <a name="multi-partner-support"></a>多合作夥伴支援
 
@@ -22,6 +22,11 @@ ms.locfileid: "74189082"
 
 -  合作夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   銷售代理人
 
 當客戶想要使用一個以上的夥伴時，合作夥伴中心的多合作夥伴功能支援案例。 例如，客戶可能要雇用有 Office 365 專業的一個合作夥伴，但也雇用專精 Microsoft Azure 的其他合作夥伴。 
 

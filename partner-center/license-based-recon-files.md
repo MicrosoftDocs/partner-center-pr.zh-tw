@@ -7,25 +7,31 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 617b49556851a4d9999e6294d61d79c4fe1befa1
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 60ab5404f3cc2d825a110e61bd7c6bf5744bb786
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389816"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004596"
 ---
 # <a name="license-based-reconciliation-files"></a>授權型對帳檔案
 
-適用於：
+**適用於**
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   帳單管理
+-   系統管理代理人
 
 若要根據客戶的訂單來協調您的變更，請將對帳檔案中的**Syndication_Partner_Subscription_Number**與合作夥伴中心的訂用帳戶**識別碼**進行比較。
 
 ## <a name="fields-in-license-based-reconciliation-files"></a>以授權為基礎的對帳檔案中的欄位
 
-| 欄 | 描述 | 範例值 |
+| Column | 說明 | 範例值 |
 | ------ | ----------- | ------------ |
 | PartnerId | 特定計費實體的唯一識別碼（GUID 格式）。 不需要進行調整。 在所有資料列中都是如此。 | *8ddd03642-測試-測試-測試-46b58d356b4e* |
 | CustomerID | 客戶的唯一 Microsoft 識別碼（GUID 格式）。 | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
@@ -44,11 +50,11 @@ ms.locfileid: "74389816"
 | 數量 | 基座數目。 請確定這符合您的計費系統中儲存的資訊。 | *2* |
 | 金額 | 數量總價。 用來檢查金額計算是否符合您為客戶計算此值的方式。 | *13.32* |
 | TotalOtherDiscount | 套用至這些費用的折扣金額。 專長認證或地圖所附的產品授權，或符合獎勵資格的新訂用帳戶，也會在本專欄中包含折扣金額。 | *2.32* |
-| 小計 | 稅前總計。 檢查您的小計是否符合您的預期總計（以折扣為例）。 | *英寸* |
+| 小計 | 稅前總計。 檢查您的小計是否符合您的預期總計（以折扣為例）。 | *11* |
 | 稅 | 稅金金額費用。 根據您市場的稅務規則和特定情況。 | *0* |
-| TotalForCustomer | 稅後總計。 檢查發票中是否向您收取稅金。 | *英寸* |
+| TotalForCustomer | 稅後總計。 檢查發票中是否向您收取稅金。 | *11* |
 | Currency | 貨幣類型。 每一帳單實體都只有一種貨幣。 檢查它是否符合您的第一個發票。 在任何主要的計費平臺更新之後再次檢查。 | *EUR* |
-| CustomerName | 客戶的組織名稱（如合作夥伴中心所報告）。 *將發票與系統資訊協調的非常重要欄位。* | *測試客戶 A* |
+| CustomerName | Nombre de la organización del cliente, según figura en el Centro de partners. *將發票與系統資訊協調的非常重要欄位。* | *測試客戶 A* |
 | MPNID | CSP 合作夥伴的 MPN 識別碼。 請參閱[如何依合作夥伴進行](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)加入。 | *4390934* |
 | ResellerMPNID | 訂用帳戶之記錄轉銷商的 MPN 識別碼。 請參閱[如何依合作夥伴進行](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)加入。 | *4390934* |
 | DomainName | 客戶的功能變數名稱。 在下一個帳單週期之前，此欄位會是空白的。 *請勿使用此欄位作為客戶的唯一識別碼。客戶/合作夥伴可以透過 Office 365 入口網站更新虛名或預設網域。* | *example.onmicrosoft.com* |

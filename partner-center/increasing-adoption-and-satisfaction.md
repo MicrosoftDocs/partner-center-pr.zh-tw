@@ -9,18 +9,24 @@ ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 3acd6e259487946a7a1005ec9fd2c5d74160bc99
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253694"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004777"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
 **適用於**
 
 -  合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
 
 我們的合作夥伴使用許多標準來衡量事業是否有成長，以及投資的方向。 合作夥伴中心提供的資料有助於瞭解您的客戶是否使用其購買的授權及使用方式。 此資訊適用於 Office 產品 (包含與 SharePoint 一起的商務用 OneDrive)。
 

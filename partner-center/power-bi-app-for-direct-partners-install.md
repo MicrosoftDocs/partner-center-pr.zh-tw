@@ -9,18 +9,24 @@ fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0dd520172ead463207c1f2ac511c85761f9c1ef
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: cd328ce8afed02af377a94b40fcf75125b008d1f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943281"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004967"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安裝和預覽適用於 Microsoft Power BI 的合作夥伴中心分析應用程式
 
 **適用於**
 
 - 合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   銷售代理人
+-   系統管理代理人
 
 ## <a name="before-you-begin"></a>在您開始前
 

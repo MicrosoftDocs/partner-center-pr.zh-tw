@@ -7,25 +7,32 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0eae0dac3cbb4991e85e335082e6c5071c62841f
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 51c37c9ea2110b7666c4d1a9bc92a2b01f92209c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389676"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004897"
 ---
 # <a name="one-time-and-recurring-reconciliation-files"></a>一次性和週期性的對帳檔案
 
-適用於：
+**適用於**
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   帳單管理
+-   系統管理代理人
+-   銷售代理人
 
 本主題說明如何在合作夥伴中心讀取一次性和週期性的對帳檔案。
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>一次性和週期性對帳檔案中的欄位
 
-| 欄 | 描述 |
+| Column | 說明 |
 | ------ | ----------- |
 | PartnerId | 特定計費實體的唯一 Azure Active Directory （Azure AD）租使用者識別碼（GUID 格式）。 不需要進行調整。 在所有資料列中都是如此。 |
 | 客戶識別碼 | GUID 格式的唯一 Azure AD 租使用者識別碼。 識別客戶。 |
@@ -44,7 +51,7 @@ ms.locfileid: "74389676"
 | [產品名稱] | 產品的名稱。 |
 | PublisherName | 產品發行者的名稱。
 | PublisherID | 特定發行者的唯一識別碼。 |
-| 訂用帳戶描述 | 訂用帳戶的易記名稱。 |
+| 訂閱描述 | 訂用帳戶的易記名稱。 |
 | [訂閱識別碼] | Microsoft commerce 平臺中訂用帳戶的唯一識別碼。 不用於對帳。 *此識別碼與合作夥伴系統管理員主控台上的訂用帳戶**ID**不同。* |
 | ChargeStartDate | 開始計算費用的日期。 時間一律是一天的開始時間 (0:00)。 |
 | ChargeEndDate | 結束計算費用的日期。 時間一律是一天的結束時間 (23:59)。 |

@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 0049b2d553e04340ac934c071adc4442eb2f7ce0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943581"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004687"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>從多家公司移到合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
 
 將公司帳戶從 PMC 移至合作夥伴中心時，您可能會移動數個帳戶。 在合作夥伴中心，這些帳戶會彙總到一個全域帳戶 (PGA)。 您移動的第一個帳戶會被視為主要全域帳戶，而所有後續的帳戶將會彙總至第一個帳戶作為位置。 使用您公司總部的 PMC 帳戶開始移動。 如需詳細資訊，請參閱[從 PMC 移轉至合作夥伴中心指南](guide-to-migration.md)，或觀看這段短片：[多位置帳戶很方便](https://vimeo.com/290335248)。
 

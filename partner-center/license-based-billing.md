@@ -7,19 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 計費、付款、授權、授權
 ms.localizationpriority: medium
-ms.openlocfilehash: 2313a01a03114bc36a55d222376e994966f9e088
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 4293b193a58030a17bc63ce4b36111a0285e236c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389826"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004917"
 ---
 # <a name="license-based-billing"></a>授權型帳單
 
-適用於：
+**適用於**
 
 - 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   帳單管理
+-   系統管理代理人
 
 當您在合作夥伴中心購買需要**授權**的產品或線上服務時，會向您購買的*每個授權*支付費用。 貴使用者*不需支付*這些授權的使用量。 （如需以使用量為基礎的計費和其他計費類型的詳細資訊，請參閱[合作夥伴中心的帳單類型](billing-different-types.md)）。
 

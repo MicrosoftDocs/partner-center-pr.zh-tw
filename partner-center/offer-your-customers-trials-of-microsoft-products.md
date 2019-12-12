@@ -9,18 +9,23 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e86c45b6ac721d4fd8edffa981940d212295611
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943291"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005047"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>為客戶提供 Microsoft 產品試用
 
-適用於：
+**適用於**
 
 - 合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員 
+-   使用者系統管理員
+-   銷售代理人
 
 提供 30 天免費試用，讓客戶接觸全新 Microsoft 產品是個不錯的方式。 就像在許多其他線上服務一樣，您可以註冊類別目錄中的試用版。 所有合作夥伴可以都參與。
 

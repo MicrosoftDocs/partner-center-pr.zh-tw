@@ -8,18 +8,24 @@ description: Microsoft Office 365 企業版 E4 從 2017 年 4 月 7 日起淘汰
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: dab5bd048fc04cbf6cc46507dc8f3ecc7bb6d6ce
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654312"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004559"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>將 Office 365 E4 訂閱移轉至新版 Office 365
 
 **適用於**
 
 -  合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
 
 Office 365 企業版 E4 方案已淘汰，自 2017 年 4 月 7 日起生效。 您在這個日期之後無法再購買新的 Office 365 E4 訂閱，而且現有的 E4 訂閱到期時不會自動續約。
 

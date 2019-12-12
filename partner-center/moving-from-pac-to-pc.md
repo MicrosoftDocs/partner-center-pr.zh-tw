@@ -9,18 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PAC, Office 365 admin, PAC features, Office 365 系統管理, PAC 功能
 ms.localizationpriority: medium
-ms.openlocfilehash: c68d09a658bf4d9cf65f54494a3ef30376a9692f
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0dcf232e68b14a2dd4264b489c7325a9eccc190f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943561"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004227"
 ---
 # <a name="moving-from-partner-admin-center-pac-to-the-partner-center"></a>從合作夥伴系統管理中心 (PAC) 移轉到合作夥伴中心
 
-適用於：
+**適用於**
 - 合作夥伴中心
 - 合作夥伴系統管理中心
+
+**適當的角色**
+-   全域系統管理員
 
 合作夥伴中心已發展成讓您管理與 Microsoft 和客戶之間合作關係的單一位置。 在合作夥伴中心中，您可以管理成員資格、客戶推薦、獎勵，以及雲端解決方案提供者計畫 (CSP) 的所有其他方面。您可以在合作夥伴中心執行您在 PAC 執行的大部分工作，但其中某些功能或動作將以不同方式運作。 
 

@@ -7,18 +7,23 @@ author: maggiepuccievans
 ms.author: evansma
 keywords: Office，O365，PSTN 服務，稅金，需求，發票，發票
 ms.localizationpriority: medium
-ms.openlocfilehash: b6359a49503237e72c8cffdb5758bdd418910306
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 2edf62c8a2157bc2b75855833ddbc7a63e7c6bb0
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384817"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005057"
 ---
 # <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 合作夥伴諮詢： Microsoft 365 CSP 中的語音
 
 **適用於**
 
 - 合作夥伴中心  
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
 
 某些國家/地區的公用交換電話網絡（PSTN）服務可能會受到可能會影響合作夥伴訂單和發票的特殊稅金和法規需求。  在美國、波多黎各和加拿大，商務用 Skype PSTN 和 Microsoft 365 Voice 服務受限於特殊的稅務和法規需求。 在美國和波多黎各，Microsoft 價格 PSTN 服務為含稅。  唯一的 PSTN 稅金和法規會影響交易 Microsoft 365 Voice 產品的 Office 365 合作夥伴。  如果合作夥伴會標示 Microsoft PSTN 服務的價格，他們可能要負責計算和代繳 PSTN 稅金及費用。
 

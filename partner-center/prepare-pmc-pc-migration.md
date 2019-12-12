@@ -8,14 +8,20 @@ description: 從 PMC 移至合作夥伴中心之前，請先複習有用的資�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 40ddbd49ad82e1aa5c314da7db366dff6d8a57b4
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 8d0e540282b3e683233c188f9258683809af510e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943261"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004857"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備從合作夥伴成員資格中心（PMC）移至合作夥伴中心
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de ventas
+-   Agente de administración
 
 我們正將成員資格管理從合作夥伴成員中心（PMC）移至合作夥伴中心-單一目的地，以管理您與 Microsoft 的商務關係。 我們希望您的移至合作夥伴中心盡可能有效率且更容易。 我們已識別出合作夥伴中心與 PMC 不同的區域，因此我們認為您會想要先瞭解並準備好，然後再進行移動。
 
@@ -23,7 +29,7 @@ ms.locfileid: "74943261"
 
 **什麼是 Azure Active Directory （Azure AD）工作帳戶？**
 
-Azure 工作帳戶是您公司在 Azure 公用雲端的專用且隔離的虛擬表示，這已在您訂閱 Microsoft 雲端服務 (例如 Azure、Microsoft Intune 或 Office 365) 時建立。
+Una cuenta profesional de Azure es una representación virtual dedicada y aislada de tu empresa en la nube pública de Azure, que se crea automáticamente cuando te suscribes a un servicio en la nube de Microsoft como Azure, Microsoft Intune u Office 365.
 
 您的工作帳戶會主控您的 Azure AD 使用者及其相關資訊（其電子郵件、密碼、設定檔資料、許可權等）。 工作帳戶也包含群組、應用程式，以及與公司和其安全性有關的其他資訊。 如需詳細資訊，請參閱 。
 
@@ -129,11 +135,11 @@ Microsoft 會自動遷移目前的專長認證、權益、位置資訊、獎勵�
  **我們的 Microsoft 帳戶將會接受 Visual Studio 權益嗎？**
 
 
- 可以。 將會接受並保留配置給 MSA 的 Visual Studio 權益。 在合作夥伴中心中續訂之後，也會保留它們。 不過，如果您在合作夥伴中心遷移之後移除 MSA 配置，就無法將其新增回合作夥伴中心。
+ 可以。 Los beneficios de Visual Studio asignados a MSA se respetarán y conservarán. También se conservarán después de la renovación en el Centro de partners. 不過，如果您在合作夥伴中心遷移之後移除 MSA 配置，就無法將其新增回合作夥伴中心。
 
-在合作夥伴中心中，合作夥伴可以加入公司帳戶及來賓使用者帳戶，其為來自合作夥伴為 Azure AD 租用戶中 MPN 系統管理員之相同租用戶的 MSA。 如果合作夥伴是多個 Azure AD 租用戶中的全域系統管理員，且這些租用戶都是與相同的合作夥伴中心帳戶相關聯，則該合作夥伴便可以將所有這些租用戶上的使用者加入 Visual Studio 權益和 Azure 以使用量為基礎的配置。
+En el Centro de partners, un partner puede agregar cuentas profesionales y cuentas de usuario invitado que son MSA del mismo inquilino donde el partner es administrador de MPN en el inquilino de Azure AD. Si el partner es un administrador global en varios inquilinos de Azure AD y todos estos inquilinos están asociados a la misma cuenta del Centro de partners, se permite que el partner agregue usuarios de todos estos inquilinos a los beneficios de Visual Studio y asignaciones basadas en el uso de Azure.
 
-雖然 MPN 系統管理員或全域系統管理員可以將 Visual Studio 以使用量為基礎的訂用帳戶指派給來賓使用者，來賓使用者並無法使用其 MSA 登入合作夥伴中心。 不過，來賓使用者可以登入 Azure 和 Visual Studio 以驗證並使用指派給他的權益。
+Aunque a los usuarios invitados se les pueden asignar suscripciones basadas en el uso de Visual Studio mediante el administrador de MPN o el administrador global, los usuarios invitados no pueden iniciar sesión en el Centro de partners mediante su MSA. Sin embargo, los usuarios invitados pueden iniciar sesión en Azure y Visual Studio para validar y usar sus beneficios asignados.
 
 
  **我們應該如何管理 MCP 關聯和合作夥伴大學的存取權？**

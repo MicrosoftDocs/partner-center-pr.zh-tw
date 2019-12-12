@@ -8,14 +8,20 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 帳單，發票
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3219b5752de59b9dde81343b8bd4e1128037bd
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 05a5f7df1b0abf34680fbc836a99738434758f92
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389836"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004560"
 ---
 # <a name="invoice-files"></a>發票檔案
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   帳單管理
+-   技術服務代理人
 
 您可以使用下表來瞭解合作夥伴中心發票檔案中的欄位。
 
@@ -53,7 +59,7 @@ ms.locfileid: "74389836"
 | 欄位 | 定義 |
 | ----- | ---------- |
 | 日期 | 購買日期。 |
-| 描述 | 產品名稱。 |
+| 說明 | 產品名稱。 |
 | 數量 | 購買的產品數（例如保留）。 |
 | 單價 | 每個產品的價格（例如保留）。 |
 | 折扣 | 適用的任何折扣。 |

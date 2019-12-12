@@ -8,14 +8,20 @@ description: 身為間接供應商或散發者，請瞭解如何與間接轉銷�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7f6a917dfae75549b55071858ad9216b0abe9138
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253683"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004537"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
 
 在複雜與快速變更的技術市場中，客戶需要有技術解決方案可提供的競爭優勢。 在這種市場氣象，合作夥伴投入合作夥伴對合作夥伴業務，以擴充供應項目並讓客戶執行更多是合理的。
 
@@ -30,7 +36,7 @@ ms.locfileid: "74253683"
 -   指定間接經銷商以管理特定客戶和訂閱 
 -   管理您與 Microsoft、客戶和間接經銷商的關係，全都在一個地方
 
-如需 CSP 間接模型的詳細資訊，請參閱 [Microsoft 合作夥伴網路網站](https://partner.microsoft.com/cloud-solution-provider/indirect)上的[探索間接模型]( https://partner.microsoft.com)。 
+如需 CSP 間接模型的詳細資訊，請參閱 [Microsoft 合作夥伴網路網站]( https://partner.microsoft.com)上的[探索間接模型](https://partner.microsoft.com/cloud-solution-provider/indirect)。 
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>合作夥伴中心的間接提供者工作
 
@@ -81,7 +87,7 @@ ms.locfileid: "74253683"
 
 - 在 [訂用帳戶詳細資料] 頁面的 [**轉銷商（MPN 識別碼）** ] 欄位中，新增您想要使用的轉銷商。 這可確保轉銷商會收到適當的獎勵。
 
-| **若要完成此工作** | **請這樣做** | **希望** |
+| **若要完成此工作** | **請這樣做** | **位置** |
 |   ------------------   |   -------   |   -----   |
 | 讓轉銷商管理客戶的帳戶，並擁有管理其訂閱的系統管理員許可權 | 當您新增客戶，關聯經銷商到客戶帳戶 | 在 **\[新客戶\]** 頁面 |
 |讓經銷商管理 Azure 客戶帳戶|當您新增客戶，關聯經銷商到 Azure 客戶帳戶|在 \[**Azure 服務入口網站**\] 中，選取[使用者設定](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)提供間接經銷商**租用戶擁有者**權限|
@@ -170,7 +176,7 @@ ms.locfileid: "74253683"
 
 7.  完成時選取 **\[提交\]** 。 
 
-## <a name="see-also"></a>另請參閱
+## <a name="see-also"></a>請參閱
 
 如需有關如何管理客戶帳戶和訂閱的詳細資訊，請參閱：
 

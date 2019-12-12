@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC，Office 365 Advisor，advisor，新聞訂閱合作夥伴，PAC 淘汰，PAC 淘汰
 ms.localizationpriority: medium
-ms.openlocfilehash: 234e86f166462a38592ebea3e898d45e99ff8edb
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654223"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004887"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作夥伴系統管理中心即將移至合作夥伴中心
 
 **適用於**
 
 -  合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
 
 > [!NOTE]  
 >  自本文最初張貼之後，所有日期都已更新。

@@ -10,14 +10,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 Keywords: 角色、許可權、新增使用者、指派角色、系統管理員、代理程式、MCP 識別碼、Microsoft Learn
 ms.localizationpriority: medium
-ms.openlocfilehash: ef53e08af725130b3c13384929afa0a549d0837c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0457974ff283e8e21a717ca8a0beedf8ce16fa54
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943551"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004277"
 ---
 # <a name="associate-your-microsoft-learn-account-in-partner-center"></a>在合作夥伴中心建立 Microsoft Learn 帳戶的關聯
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
 
 為了讓您的公司能夠查看您對專長認證所採取的訓練和學習途徑，您需要將您的 MCP ID 關聯至您的合作夥伴中心帳戶。 新增為合作夥伴中心使用者之後，您可以手動執行此動作。
 

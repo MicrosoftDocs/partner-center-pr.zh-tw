@@ -9,14 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b62a685dcbce5a462b182ad3015e19ae03bb6ce2
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 57466396cd9c810ab851b01fc08c2f66d4d2b278
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384778"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004847"
 ---
 # <a name="marketplace-exclusive-offers"></a>Marketplace 專屬優惠
+
+**Roles adecuados**
+-   全域系統管理員
+-   Administrador de usuarios
+-   Agente de administración
+-   Agente de ventas
 
 Isv 可以選擇將其供應專案提供給數個精選的 CSP 合作夥伴。 所有 CSP 合作夥伴仍然可以在合作夥伴中心 Marketplace 中查看所有 ISV 供應專案，但標示為專屬的優惠只能由 ISV 已選取的合作夥伴購買。 如果供應專案未指定為「專屬」，所有合作夥伴都可以購買。
 

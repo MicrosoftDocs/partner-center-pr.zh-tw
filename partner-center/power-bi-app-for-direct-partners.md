@@ -10,18 +10,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 67df5278d9c9f9f757e904d55ae6a688bbb8c5bc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: eba413fd3955db8dedc5ffe57747739368adcaa6
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943471"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004957"
 ---
 # <a name="partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>適用於 Power BI 的合作夥伴中心分析應用程式 (雲端解決方案提供者中的直接合作夥伴)
 
 **適用於**
 
 - 合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   銷售代理人
+-   系統管理代理人
 
 使用適用於 Power BI 的合作夥伴中心分析應用程式，以視覺化方式呈現業務資料。 專為雲端解決方案提供者 (CSP) 計畫中直接合作夥伴設計的這個應用程式會插入熟悉的 Power BI 架構中。 
 

@@ -9,14 +9,20 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3736b70d2769e39760db2dc06afc20174fed7bed
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1b6bad1d6909b6ffc597daf2e8eb57f4647a85ef
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654329"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004577"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>雲端解決方案提供者合作夥伴的 Microsoft 合作夥伴合約 
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
 
 Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份簡單、統一、數位化的合作夥伴合約。 Microsoft 合作夥伴合約包含一組核心永久條款，可協助 Microsoft、合作夥伴和客戶支援資料隱私權和安全性、提升合規性，並鼓勵良好的商業實務。   
 

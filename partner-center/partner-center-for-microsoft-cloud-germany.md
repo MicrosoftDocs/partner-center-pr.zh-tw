@@ -9,18 +9,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 7749f61743e38bef63a5f82cbac06f9e9bdcb8dc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 2534610ac551e4b11c1846951936ad939be2191e
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943511"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004877"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心
 
 **適用於**
 
 -  Microsoft Cloud 德國合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
+-   帳單管理
 
 Microsoft Cloud 德國完全符合嚴格的德國資料保護相關規定，且設有德國資料託管單位 (依照德國法律行事) 來負責控管客戶資料的實體與邏輯存取。 所有客戶資料以及用來處理或控管客戶資料存取的系統，皆位於德國資料中心內。 這些資料中心之間為獨立且專屬的網路，且都在德國境內。
 
@@ -31,31 +38,6 @@ Microsoft Cloud 德國提供個別的[Microsoft Azure](https://go.microsoft.com/
 > 根據客戶需求的演進，我們的德國雲端策略將著重于在德國提供與我們的全球雲端服務一致的新雲端區域。 由於這個重點策略，我們將不再從目前可用的 Microsoft Cloud Germany 接受新的客戶或部署任何新的服務。 現有的客戶可以繼續使用目前提供的目前雲端服務，我們將會維護必要的安全性更新。 
 > 
 > 之後，新的客戶可以選擇使用目前提供的歐洲地區，或在德國的新地區可供使用時加以選擇。 如需詳細資訊，請參閱 [Microsoft 即將從德國的新資料中心提供雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
-
-# <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>將客戶從 Microsoft Cloud 德國遷移至另一個歐洲地區
-在您可以將客戶訂用帳戶從 Microsoft Cloud 德國遷移至另一個歐洲地區之前，您必須擁有位於該區域且目前作用中的現有 CSP 帳戶。 如果您沒有此帳戶，系統會提示您在合作夥伴中心選取 CSP 帳戶時，建立一個。 在遷移之後，您的客戶訂用帳戶會與選取的租使用者相關聯。
-
-## <a name="migrate-with-an-existing-csp-account"></a>使用現有的 CSP 帳戶進行遷移
-1.  當您登入 Microsoft Cloud 德國的合作夥伴中心時，系統會提示您選取作用中的 CSP 租使用者。 選取 **\[確定\]** 。
-2.  出現提示時，選取 **[我已經在歐洲地區的租**使用者]，然後選取 **[下一步]** 。 系統會提示您登入新的租使用者。 
-3.  以全域管理員身分登入租使用者。
-4.  查看 [確認] 頁面上的資訊，然後選取 [**確認**]。
-5.  系統會提示您選取 [ **view details** ] 或 [ **view 儀表板**] 以取得詳細資訊。 
-
-如果登入失敗，則可能表示下列其中一項：
-- 您不是所選租使用者的全域管理員
-- 租使用者不是位於歐洲地區
-- 租使用者不在使用中
-
-進行必要的更正，並重複此程式。
-
-## <a name="migrate-without-an-existing-csp-account"></a>不使用現有 CSP 帳戶進行遷移
-1.  當您登入 Microsoft Cloud 德國的合作夥伴中心時，系統會提示您選取作用中的 CSP 租使用者。 選取 **\[確定\]** 。
-2.  出現提示時，選取 **[我在歐洲地區沒有租**使用者]，然後選取 [**建立新帳戶**]。 
-3.  您會進入 [合作夥伴中心註冊] 頁面，您可以在其中于歐洲地區建立新的租使用者和 CSP 帳戶。 
-4.  一旦您簽署合約且帳戶為作用中，請使用目前的 Microsoft Cloud 德國帳戶登入。
-5.  流覽至 [租使用者選取] 表單。
-6.  選取 [**我已經有一個位於歐洲地區的租**使用者]，然後依照指示進行。
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Microsoft Cloud 德國合作夥伴中心：在歐盟和歐洲自由貿易聯盟境內銷售德國雲端解決方案
 

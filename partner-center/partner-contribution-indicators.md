@@ -11,14 +11,19 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 87ee210307f5e3f28ae5ac9c7a73b5319536043c
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943121"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004357"
 ---
 # <a name="partner-contribution-indicators"></a>合作夥伴貢獻指標
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
 
 合作夥伴貢獻指標（PCI）可全面測量合作夥伴對 Dynamics 365 客戶的成功成果的影響。 當合作夥伴達到並維護雲端 Business Applications 專長認證時，會在市場中獲得更高的差異。  合作夥伴可獲得客戶成功的重要量值，例如成功的部署和增加的使用量，並贏得繼續投資和相應放大其技術功能的機會。 
 

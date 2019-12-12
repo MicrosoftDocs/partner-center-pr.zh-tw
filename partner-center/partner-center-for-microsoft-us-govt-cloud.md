@@ -8,18 +8,25 @@ description: 美國政府適用的 Microsoft Cloud 合作夥伴中心是一個�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 1309f14555ff30a91a42d26bc1781315a7bba536
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 9e290242a0a97abdbdca1e222c12cd0072d05073
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73652688"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004247"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適用於**
 
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
+-   帳單管理
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美國政府適用的 Microsoft Cloud ：符合資料保護需求 
 

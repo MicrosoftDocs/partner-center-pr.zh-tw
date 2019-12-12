@@ -7,17 +7,25 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 計費，一次性，週期性，採購，費用，isv
 ms.localizationpriority: medium
-ms.openlocfilehash: f2ccd0d1240d39409db53d668bac32001c678b09
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389686"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005037"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>一次性和所選週期性費用的計費
 
+**適用於**
 - 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   帳單管理
+-   系統管理代理人
+-   銷售代理人
 
 本主題描述適用于 Microsoft 和協力廠商獨立軟體廠商（ISV）產品的一次性計費體驗 **，並選取週期性費用**。 
 

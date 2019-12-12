@@ -8,14 +8,18 @@ description: 利用個別訓練、已完成的模組、已完成的學習路徑�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e97e6b5212b2b55e56e1022e2a5a12bdb0f2f74
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943531"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005104"
 ---
 # <a name="microsoft-learn-analytics-report"></a>Microsoft Learn 分析報告
+
+**適當的角色**
+-   全域系統管理員
+-   MPN 合作夥伴系統管理員
 
 Microsoft Learn 報表會提供您公司中學習工具的相關資訊，包括他們所完成的模組，以及它們所在的學習路徑。 報表會顯示每個個別學習模組的狀態。 您公司的全域管理員和 MPN 管理員可以查看資料。
 

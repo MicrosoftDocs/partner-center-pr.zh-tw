@@ -9,12 +9,12 @@ ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b218d8d82506d50c21957f406eef6874eefbb7a
-ms.sourcegitcommit: 90e44b1453e52fc92d08aaa5904de1a5e6d32f67
+ms.openlocfilehash: 5dfdd0a579f323e7d6cb0af0dffbdb7bac29cf38
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "74189068"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005087"
 ---
 # <a name="multi-channel-support"></a>多通路支援
 
@@ -23,6 +23,10 @@ ms.locfileid: "74189068"
 -  合作夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   銷售代理人
 
 合作夥伴中心的多通路功能支援當客戶想要雇用合作夥伴來管理和支援他們在別處購買的訂用帳戶時的案例。 多通路支援適用於當客戶：
 
@@ -44,7 +48,7 @@ ms.locfileid: "74189068"
 <tr class="even">
 <td><p><strong>基於使用方式的服務</strong></p></td>
 <td>
-<p>對於已經有訂用帳戶從另一個頻道（例如 Advisor、Open 或 EA） Microsoft Azure 的客戶，您必須&#39;在合作夥伴中心建立新的 Azure 訂用帳戶、手動輸入訂用帳戶詳細資料，然後取消個人服務或整個訂用帳戶。 Azure CSP 可以與不同的通道並存。</p>
+<p>對於已經有訂用帳戶從另一個頻道（例如 Advisor、Open 或 EA） Microsoft Azure 的客戶，您必須&#39;在合作夥伴中心建立新的 Azure 訂用帳戶、手動輸入訂用帳戶詳細資料，然後取消個別服務或整個訂用帳戶。 Azure CSP 可以與不同的通道並存。</p>
 <p>針對已經從其他合作夥伴取得 Microsoft Azure 訂閱的客戶，客戶已經裝機費至 Microsoft Azure 來自其他合作夥伴的人員，例如，您可以將 Azure 服務切換到其他合作夥伴。  如需詳細資訊，請參閱<a href="switch-azure-subscriptions-to-a-different-partner.md" data-raw-source="[Switch Azure subscriptions to a different partner](switch-azure-subscriptions-to-a-different-partner.md)">將 Azure 訂用帳戶切換至不同的合作夥伴</a>。</p>
 </td>
 </tr>
@@ -54,7 +58,7 @@ ms.locfileid: "74189068"
 > [!IMPORTANT]  
 > CSP 合作夥伴目前無法轉售線上服務給另一個 CSP 合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 任何有關功能版本的公告都會透過一般的通道（包括合作夥伴中心）來宣告。 
 
-## <a name="see-also"></a>另請參閱
+## <a name="see-also"></a>請參閱
 
 [與其他合作夥伴合作](work-with-other-partners.md)
 

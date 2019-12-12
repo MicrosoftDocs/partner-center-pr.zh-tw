@@ -9,14 +9,21 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 合作夥伴帳戶，位置
 ms.localizationpriority: medium
-ms.openlocfilehash: fe4e2cca922b479bfdec92feb5b21d8824546e23
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 28c5134251eef06194b8c5ee34fcf440c2224839
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943501"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004697"
 ---
 # <a name="manage-your-partner-account-locations"></a>管理您的合作夥伴帳戶：位置
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   帳單管理
+-   系統管理代理人
+-   銷售代理人
 
 Location MPN Id 可識別公司的每個特定位置。 您可以使用 location MPN ID 來註冊獎勵計畫、交易雲端解決方案提供者（CSP）商務、加入新的訂用帳戶，以及其他商業交易。 公司 MPN 識別碼用於非交易式活動，例如支援要求。
 

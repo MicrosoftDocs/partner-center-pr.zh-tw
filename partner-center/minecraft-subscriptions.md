@@ -9,18 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 獲得授權的教育合作夥伴、教育、銷售教育、學校
 ms.localizationpriority: medium
-ms.openlocfilehash: 91dedab427478cd2e7608e35fb3cb1444fd0a7a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943491"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004547"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育機構客戶銷售 Minecraft: Education Edition
 
 **適用於**
 
 -  合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   銷售代理人
+-   系統管理代理人
 
 與教育機構合作的合作夥伴可以提供 **Minecraft: Education Edition** 訂閱給其客戶。 您在合作夥伴中心代表客戶購買訂用帳戶，然後客戶從[Microsoft Store 教育](https://educationstore.microsoft.com)版下載軟體。 
 

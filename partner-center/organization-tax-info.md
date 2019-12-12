@@ -9,18 +9,25 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 8aa501512a86f65c0a78c49f01c843286fcd120f
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384589"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005027"
 ---
 # <a name="company-tax-information"></a>公司稅務資訊
 
-適用於：
+**適用於**
 
 - 合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   帳單管理
+-   系統管理代理人
+-   銷售代理人
 
 合作夥伴中心購買項目的稅金將由您的公司地址決定。 某些國家/地區的企業可以[提供其加值稅（加值稅）](#submit-vat-id-number)或本機對等的值。
 

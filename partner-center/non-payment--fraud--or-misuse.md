@@ -11,12 +11,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: d59ad89c69e21bc2d88fc1229f80cb4f5f660dbc
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 105ae9e31400284148bd7639c6a4498d5b5f5f1c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943521"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005077"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>在合作夥伴中心管理非付款、詐騙或誤用
 
@@ -24,6 +24,12 @@ ms.locfileid: "74943521"
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   帳單管理
 
 您必須承擔因客戶以詐騙方式購買和/或已購買服務客戶未付款的行為而帶來的財務風險。 因此，*我們強烈建議您將詐騙防護和偵測風險降低控制措施放在原地*。
 
