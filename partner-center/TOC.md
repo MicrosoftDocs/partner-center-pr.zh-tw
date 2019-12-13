@@ -21,6 +21,7 @@
 ## 優點
 ### [優點概觀](manage-your-partner-network-benefits.md)
 ### [上市優勢](mpn-learn-about-go-to-market-benefits.md)
+## [管理 Marketplace 獎勵](marketplace-rewards.md)
 ## [軟體保證計畫](software-assurance-lp.md)
 ### [合作夥伴中心的軟體保證訓練憑券 (SATV) 計畫](software-assurance-satv.md)
 ### [使用合作夥伴中心的憑券驗證及兌換工具來驗證、保留和兌換憑券](voucher-validation-tool.md)
@@ -61,6 +62,7 @@
 ## [還原暫時停用的合作夥伴中心帳戶](suspended-partner-center-account.md)
 ## [建立使用者帳戶](create-user-accounts-and-set-permissions.md)
 ## [指派使用者角色和權限](permissions-overview.md)
+## [新增 Azure AD 應用程式](service-principal.md)
 ## [將 Microsoft Learn 帳戶關聯至合作夥伴中心](ms-learn-associate.md)
 ## [確認網域的擁有權](become-global-admin.md)
 ## [重設使用者密碼](reset-a-user-password.md)
