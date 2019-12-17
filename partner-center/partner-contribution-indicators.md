@@ -1,97 +1,87 @@
 ---
-title: 合作夥伴貢獻指標 | 合作夥伴中心
+title: 合作夥伴中心深入解析 |合作夥伴中心
 ms.topic: article
-ms.date: 11/14/2019
+ms.date: 12/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解您的表現如何，以及您可以在 Dynamics 365 Customer Engagement 或 Dynamics 365 財務和營運方面做什麼改進
+description: 瞭解您的表現如何，以及您對銷售和部署和客戶開發的改進程度
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI, performance, customer success, measurements, Dynamics 365, 績效, 客戶成功, 測量
+keywords: PCI，效能，客戶成功，測量，
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cec1fd9121f82392b4bd2bbbbf5ffb946547f83d
+ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004357"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "75033494"
 ---
-# <a name="partner-contribution-indicators"></a>合作夥伴貢獻指標
+# <a name="partner-center-insights"></a>合作夥伴中心深入解析
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   系統管理代理人
+- 全域系統管理員
+- 帳戶系統管理員
+- 執行報表檢視器
+- 報表檢視器
 
-合作夥伴貢獻指標（PCI）可全面測量合作夥伴對 Dynamics 365 客戶的成功成果的影響。 當合作夥伴達到並維護雲端 Business Applications 專長認證時，會在市場中獲得更高的差異。  合作夥伴可獲得客戶成功的重要量值，例如成功的部署和增加的使用量，並贏得繼續投資和相應放大其技術功能的機會。 
+深入解析是合作夥伴中心的整合報表儀表板，適用于在 Microsoft 合作夥伴網路（MPN）方案中註冊的 Microsoft 商業合作夥伴。 深入解析儀表板會針對雲端產品（例如 Office、Azure、Dynamics 和授權模型，如 CSP 和 EA）提供360的關鍵效能指標（kpi）的角度觀點。 它會公開一組豐富的 KPI 報表，可協助您為組織做出資料驅動的決策。 
 
-## <a name="scoring"></a>評分
+## <a name="roles-based-access-control-to-the-insights-dashboard"></a>深入解析儀表板的角色型存取控制
 
-PCI 提供您公司技術功能的精密、整體觀點，以及推動客戶成功和銷售績效的能力。 PCI 會測量您公司在七個關鍵指標上的前一年效能：
+[合作夥伴中心] 中有兩個新的角色，專門設計來存取 Insights-報表檢視器和執行報表檢視器。  執行報表檢視器角色中的使用者可以存取所有報表資料集，而報表檢視器角色中的使用者將無法存取機密資料集，例如收益和客戶/員工個人資料。 
 
-1. **淨新收益**-Microsoft Dynamics 365 產品所有銷售通路的淨新收益。
-2. **Net 客戶加入**-在所有銷售通路中為 Dynamics 365 取得的 net 客戶。
-3. **功能顧問**：擁有目前作用中功能顧問的個人人數，會使 Dynamics 365 的認證產生關聯。
-4. **功能顧問成長**—自2020年3月31日起，功能顧問的數量成長。
-5. **開發人員**：持有目前作用中開發人員的個人，可將 Dynamics 365 的認證相關聯。
-6. **新的大型部署**-過去12個月內跨越高使用量閾值的生產租使用者數目。
-7. **每月作用中使用者成長**-過去12個月內，所有客戶的每月作用中使用者的成長。
+全域管理員或帳戶管理員可以將這些角色指派給使用者，並且指派給整個公司或特定 MPN 位置。  
 
-系統會針對每個達成的指標授與點，產生單編號的 PCI 分數。 100可能的最大點數。 PCI 分數會決定專長認證資格：
+>[!Note] 
+>從2019年12月2日起 MPN 系統管理員的使用者，會自動新增至全公司的報表檢視器角色。 他們能夠以報表檢視器的形式存取報表，而不需要全域管理員或帳戶管理員所需的任何明確動作。全域管理員或帳戶管理員可以視需要覆寫這些指派。 
 
-![PCI 分數](images/pcinew1.png)
+## <a name="reports-available"></a>可用的報表
 
-每個指標都會產生一個分數，並加到總計中。 以下是每個指標的最大分數：
+下列報表可作為 Insights 儀表板的一部分。
 
+**總覽**   [總覽] 報表會針對您感的各種不同 Kpi 提供快照集，例如客戶計數、使用中訂用帳戶計數、Azure 耗用量收益、作用中授權等。
 
-![pci 效能2](images/pci1.png)
+**客戶**客戶報告提供客戶的分析，例如客戶取得資料、使用中客戶等。 
 
-### <a name="thresholds"></a>閾值
+**產品-** 訂用帳戶    訂用帳戶報表會針對您的雲端訂用帳戶（例如 O365、Azure、Dynamics 等）顯示取得和使用方式分析 
 
-每個 PCI 計量都有 Microsoft 設定的閾值，決定您公司可以獲得的最高分。 客戶參與和財務與營運的這些閾值有所不同。 在已開發市場中經營的合作夥伴，與只在新興市場中經營的合作夥伴，其閾值也不同。 如果合作夥伴在已開發市場中有一或多個客戶，則適用已開發市場閾值。 國家/地區的開發或新興市場分類是以[Microsoft 合作夥伴網路定義](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf)為基礎。
+**產品-授權**  [授權] 儀表板會針對以授權為基礎的雲端產品（例如 O365、Dynamics、Power BI 等）提供授權分析。
 
-系統會記錄每個計量的分數，以產生不同的 PCI 分數來進行客戶參與和財務 & 作業，每個月更新。
+**產品-Azure 使用量**  Azure 使用量報表會顯示與您客戶的 Azure 訂用帳戶相關的計量，包括 Azure 使用量收益和依計量分類的使用量。
 
-如果合作夥伴達到或超過以下所示的閾值，就能獲得給定計量的最高分。 除了「功能諮詢人員成長」外，所有計量都是可以獲得部分分數的，例如，「新的淨收入」為 $150,000 的已開發市場合作夥伴，將會獲得最高分 10 分的一半 ($150,000/$300,000)。
+專長認證   專長認證報表會針對您的使用中、合格和具風險的能力提供計量。
 
-![客戶參與](images/pci/table_1.png)
+**優點**   權益報表針對您已獲得與取用的合作夥伴權益提供分析。
 
-![財務](images/pci/TABLE_2.png)
-
-![名](images/pci/table_3.png)
-
-## <a name="detailed-definitions-of-pci-metrics"></a>PCI 計量的詳細定義
-
-![淨新收益](images/net_new1.png)
-
-![net 客戶新增](images/netcustomer.png)
-
-![功能顧問](images/pci/functional_consultants.png)
-
-![growth](images/pci/functional_consultant_growth.png)
-
-![開發人員](images/pci/developers.png)
-
-![新的部署](images/pci/new_large_deployments.png)
-
-![作用中使用者](images/pci/monthly_active_user_growth.png)
+## <a name="navigating-the-insights-reports"></a>導覽見解報告 
 
 
-## <a name="customer-to-partner-association"></a>客戶對合作夥伴關聯性
+**日期範圍篩選**：您可以在每個頁面的右上角找到日期範圍選取專案。 您可以選取以過去3、6或12個月為基礎的日期範圍，或選取自訂的日期範圍，以自訂 [總覽] 頁面圖形的輸出。 預設的日期範圍選取為12個月。 
 
-只有當您是雲端解決方案提供者（CSP）、申報合作夥伴的記錄（CPOR）時，才會在計量定義的範圍內獲得淨新收益、Net 客戶新增、新的大型部署和每月作用中使用者成長的點數。或屬於客戶租使用者的付費訂用帳戶的數位夥伴記錄（DPOR）。
 
-如果合作夥伴已透過 Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) （OSA）獎勵或 Dynamics 365 [online Services 使用量](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program)（OSU）獎勵，與訂用帳戶層級的客戶建立關聯，就會成為 CPOR。
+**意見反應按鈕**：所有 Insights 報告中的每個圖表/控制項都會加上 [意見反應] 按鈕，讓您提供報表功能的實例意見反應。 
 
-如果合作夥伴已在產品內與客戶在訂用帳戶層級建立關聯性，就會成為 DPOR。
+ 
+**頁面層級篩選**：除了 [總覽]、[權益] 和 [專長認證] 報表以外，所有 Insights 報表都可讓您套用頁面層級篩選。 
 
-當給定訂用帳戶的 CPOR 與 DPOR 都存在時，CPOR 會收到與訂用帳戶相關聯之 PCI 計量的所有信用額度。
+- 選取的篩選準則將適用于頁面上的所有圖表和計量，包括 [摘要] 區段。 如果您在該篩選準則中有任何資料，就可以使用篩選項目。 
 
-## <a name="how-to-read-the-charts"></a>如何讀圖表
+- 每個篩選器清單的預設選取專案為 [**全部**]。 例如，如果您尚未選取 [產品] 篩選中的特定產品，預設選項會是 [所有產品]。
 
-![如何讀圖表](images/pci2.png)
+- 選取的篩選器會顯示在頁面頂端。 
+
+ ### <a name="filters-definition"></a>篩選定義：
+
+- 產品：您的組織所銷售/管理的所有 Microsoft Cloud 產品清單，例如 O365、Azure、D365 移轉、EMS、PowerBI 等等。
+- 客戶市場：客戶國家/地區清單
+- 合作夥伴歸屬：您與您的客戶訂用帳戶相關聯的關聯類型，例如，數位合作夥伴記錄（DPOR）、委派的系統管理員許可權（聯盟）、合作夥伴系統管理員連結（PAL）等。 
+- 合作夥伴位置：所有組織的 MPN 位置清單。 
+- 銷售通路：您用來購買/布建產品和服務的所有銷售通路/定價，亦即 CSP、EA、CSP 間接、Direct、Advisor、Open、其他
+- 客戶區段：合作夥伴客戶群之間的客戶區段清單。
+
+
 
 ## <a name="additional-resources"></a>其他資源
 
