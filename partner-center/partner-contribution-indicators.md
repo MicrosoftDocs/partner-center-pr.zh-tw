@@ -1,101 +1,91 @@
 ---
-title: 合作夥伴貢獻指標 | 合作夥伴中心
+title: 合作夥伴中心深入解析 |合作夥伴中心
 ms.topic: article
-ms.date: 11/14/2019
+ms.date: 12/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解您的表現如何，以及您可以在 Dynamics 365 Customer Engagement 或 Dynamics 365 財務和營運方面做什麼改進
+description: 瞭解您的表現如何，以及您對銷售和部署和客戶開發的改進程度
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI, performance, customer success, measurements, Dynamics 365, 績效, 客戶成功, 測量
+keywords: PCI，效能，客戶成功，測量，
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 012e60996c6c34ffb0f71d48d0ba92141e393ae7
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: cec1fd9121f82392b4bd2bbbbf5ffb946547f83d
+ms.sourcegitcommit: 5117782b6f9067894c1c319d022291c6c4219cac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004357"
+ms.lasthandoff: 12/16/2019
+ms.locfileid: "75033494"
 ---
-# <a name="partner-contribution-indicators"></a><span data-ttu-id="bb453-104">合作夥伴貢獻指標</span><span class="sxs-lookup"><span data-stu-id="bb453-104">Partner contribution indicators</span></span>
+# <a name="partner-center-insights"></a><span data-ttu-id="6aca3-104">合作夥伴中心深入解析</span><span class="sxs-lookup"><span data-stu-id="6aca3-104">Partner Center Insights</span></span>
 
-<span data-ttu-id="bb453-105">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="bb453-105">**Appropriate roles**</span></span>
--   <span data-ttu-id="bb453-106">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="bb453-106">Global admin</span></span>
--   <span data-ttu-id="bb453-107">使用者系統管理員</span><span class="sxs-lookup"><span data-stu-id="bb453-107">User admin</span></span>
--   <span data-ttu-id="bb453-108">系統管理代理人</span><span class="sxs-lookup"><span data-stu-id="bb453-108">Admin agent</span></span>
+<span data-ttu-id="6aca3-105">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="6aca3-105">**Appropriate roles**</span></span>
+- <span data-ttu-id="6aca3-106">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="6aca3-106">Global admin</span></span>
+- <span data-ttu-id="6aca3-107">帳戶系統管理員</span><span class="sxs-lookup"><span data-stu-id="6aca3-107">Account admin</span></span>
+- <span data-ttu-id="6aca3-108">執行報表檢視器</span><span class="sxs-lookup"><span data-stu-id="6aca3-108">Executive report viewer</span></span>
+- <span data-ttu-id="6aca3-109">報表檢視器</span><span class="sxs-lookup"><span data-stu-id="6aca3-109">Report viewer</span></span>
 
-<span data-ttu-id="bb453-109">合作夥伴貢獻指標（PCI）可全面測量合作夥伴對 Dynamics 365 客戶的成功成果的影響。</span><span class="sxs-lookup"><span data-stu-id="bb453-109">Partner Contribution Indicators (PCI) provides a holistic measure of a partner’s impact in driving successful customer outcomes for Dynamics 365.</span></span> <span data-ttu-id="bb453-110">當合作夥伴達到並維護雲端 Business Applications 專長認證時，會在市場中獲得更高的差異。</span><span class="sxs-lookup"><span data-stu-id="bb453-110">Partners receive greater differentiation in the market when they attain and maintain the Cloud Business Applications competency.</span></span>  <span data-ttu-id="bb453-111">合作夥伴可獲得客戶成功的重要量值，例如成功的部署和增加的使用量，並贏得繼續投資和相應放大其技術功能的機會。</span><span class="sxs-lookup"><span data-stu-id="bb453-111">Partners receive credit for key measures of customer success, such as successful deployments and increasing usage, and are rewarded for continuing to invest in and scale out their technical capabilities.</span></span> 
+<span data-ttu-id="6aca3-110">深入解析是合作夥伴中心的整合報表儀表板，適用于在 Microsoft 合作夥伴網路（MPN）方案中註冊的 Microsoft 商業合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="6aca3-110">Insights is a unified reporting dashboard in Partner center for Microsoft’s Commercial partners who are enrolled in the Microsoft Partner Network (MPN) program.</span></span> <span data-ttu-id="6aca3-111">深入解析儀表板會針對雲端產品（例如 Office、Azure、Dynamics 和授權模型，如 CSP 和 EA）提供360的關鍵效能指標（kpi）的角度觀點。</span><span class="sxs-lookup"><span data-stu-id="6aca3-111">The Insights dashboard provides 360 degree view of your key performance indicators (kpi) across Cloud products such as Office, Azure, Dynamics, and licensing models such as CSP and EA.</span></span> <span data-ttu-id="6aca3-112">它會公開一組豐富的 KPI 報表，可協助您為組織做出資料驅動的決策。</span><span class="sxs-lookup"><span data-stu-id="6aca3-112">It exposes a rich set of KPI reports that can help you make data driven decisions for your organization.</span></span> 
 
-## <a name="scoring"></a><span data-ttu-id="bb453-112">評分</span><span class="sxs-lookup"><span data-stu-id="bb453-112">Scoring</span></span>
+## <a name="roles-based-access-control-to-the-insights-dashboard"></a><span data-ttu-id="6aca3-113">深入解析儀表板的角色型存取控制</span><span class="sxs-lookup"><span data-stu-id="6aca3-113">Roles based access control to the Insights dashboard</span></span>
 
-<span data-ttu-id="bb453-113">PCI 提供您公司技術功能的精密、整體觀點，以及推動客戶成功和銷售績效的能力。</span><span class="sxs-lookup"><span data-stu-id="bb453-113">PCI provides a sophisticated, holistic view of your company’s technical capabilities, ability to drive customer success, and sales performance.</span></span> <span data-ttu-id="bb453-114">PCI 會測量您公司在七個關鍵指標上的前一年效能：</span><span class="sxs-lookup"><span data-stu-id="bb453-114">PCI measures your company’s prior-year performance across seven key indicators:</span></span>
+<span data-ttu-id="6aca3-114">[合作夥伴中心] 中有兩個新的角色，專門設計來存取 Insights-報表檢視器和執行報表檢視器。</span><span class="sxs-lookup"><span data-stu-id="6aca3-114">There are two new roles in Partner center designed specifically for access to Insights - Report Viewer and Executive Report Viewer.</span></span>  <span data-ttu-id="6aca3-115">執行報表檢視器角色中的使用者可以存取所有報表資料集，而報表檢視器角色中的使用者將無法存取機密資料集，例如收益和客戶/員工個人資料。</span><span class="sxs-lookup"><span data-stu-id="6aca3-115">Users in the Executive Report Viewer role have access to all reporting datasets, while users in the Report Viewer role will not have access to sensitive data sets such as revenue and customer/employee personal data.</span></span> 
 
-1. <span data-ttu-id="bb453-115">**淨新收益**-Microsoft Dynamics 365 產品所有銷售通路的淨新收益。</span><span class="sxs-lookup"><span data-stu-id="bb453-115">**Net new revenue** — Net new revenue across all sales channels for Microsoft Dynamics 365 products.</span></span>
-2. <span data-ttu-id="bb453-116">**Net 客戶加入**-在所有銷售通路中為 Dynamics 365 取得的 net 客戶。</span><span class="sxs-lookup"><span data-stu-id="bb453-116">**Net customer adds** — Net customers acquired for Dynamics 365 across all sales channels.</span></span>
-3. <span data-ttu-id="bb453-117">**功能顧問**：擁有目前作用中功能顧問的個人人數，會使 Dynamics 365 的認證產生關聯。</span><span class="sxs-lookup"><span data-stu-id="bb453-117">**Functional consultants** — Number of individuals holding a currently active Functional Consultant Associate certification for Dynamics 365.</span></span>
-4. <span data-ttu-id="bb453-118">**功能顧問成長**—自2020年3月31日起，功能顧問的數量成長。</span><span class="sxs-lookup"><span data-stu-id="bb453-118">**Functional consultant growth** — Growth in the number of Functional Consultant Associates since March 31, 2020.</span></span>
-5. <span data-ttu-id="bb453-119">**開發人員**：持有目前作用中開發人員的個人，可將 Dynamics 365 的認證相關聯。</span><span class="sxs-lookup"><span data-stu-id="bb453-119">**Developers** — Number of individuals holding a currently active Developer Associate certification for Dynamics 365.</span></span>
-6. <span data-ttu-id="bb453-120">**新的大型部署**-過去12個月內跨越高使用量閾值的生產租使用者數目。</span><span class="sxs-lookup"><span data-stu-id="bb453-120">**New large deployments** — Number of production tenants that cross the high-usage threshold over the past 12 months.</span></span>
-7. <span data-ttu-id="bb453-121">**每月作用中使用者成長**-過去12個月內，所有客戶的每月作用中使用者的成長。</span><span class="sxs-lookup"><span data-stu-id="bb453-121">**Monthly active user growth** — Growth in monthly active users across all your customers over the past 12 months.</span></span>
+<span data-ttu-id="6aca3-116">全域管理員或帳戶管理員可以將這些角色指派給使用者，並且指派給整個公司或特定 MPN 位置。</span><span class="sxs-lookup"><span data-stu-id="6aca3-116">The Global admin or the Account admin can assign users these roles and are assigned either for the entire company or for a specific MPN location.</span></span>  
 
-<span data-ttu-id="bb453-122">系統會針對每個達成的指標授與點，產生單編號的 PCI 分數。</span><span class="sxs-lookup"><span data-stu-id="bb453-122">Points are granted for each achieved indicator, resulting in a single-number PCI score.</span></span> <span data-ttu-id="bb453-123">100可能的最大點數。</span><span class="sxs-lookup"><span data-stu-id="bb453-123">100 maximum points are possible.</span></span> <span data-ttu-id="bb453-124">PCI 分數會決定專長認證資格：</span><span class="sxs-lookup"><span data-stu-id="bb453-124">PCI score determines competency eligibility:</span></span>
+>[!Note] 
+><span data-ttu-id="6aca3-117">從2019年12月2日起 MPN 系統管理員的使用者，會自動新增至全公司的報表檢視器角色。</span><span class="sxs-lookup"><span data-stu-id="6aca3-117">Users who were MPN admins as of Dec 2, 2019 were automatically added to the company-wide report viewer role.</span></span> <span data-ttu-id="6aca3-118">他們能夠以報表檢視器的形式存取報表，而不需要全域管理員或帳戶管理員所需的任何明確動作。全域管理員或帳戶管理員可以視需要覆寫這些指派。</span><span class="sxs-lookup"><span data-stu-id="6aca3-118">They are able to access the reports as a report viewer without any explicit action required by Global admin or Account admin. The Global admins or account admin can override these assignments if necessary.</span></span> 
 
-![PCI 分數](images/pcinew1.png)
+## <a name="reports-available"></a><span data-ttu-id="6aca3-119">可用的報表</span><span class="sxs-lookup"><span data-stu-id="6aca3-119">Reports available</span></span>
 
-<span data-ttu-id="bb453-126">每個指標都會產生一個分數，並加到總計中。</span><span class="sxs-lookup"><span data-stu-id="bb453-126">Each indicator brings a score that is added to the total.</span></span> <span data-ttu-id="bb453-127">以下是每個指標的最大分數：</span><span class="sxs-lookup"><span data-stu-id="bb453-127">Here are the maximum scores for each indicator:</span></span>
+<span data-ttu-id="6aca3-120">下列報表可作為 Insights 儀表板的一部分。</span><span class="sxs-lookup"><span data-stu-id="6aca3-120">The following reports are available as part of the Insights dashboard.</span></span>
 
+<span data-ttu-id="6aca3-121">**總覽**   [總覽] 報表會針對您感的各種不同 Kpi 提供快照集，例如客戶計數、使用中訂用帳戶計數、Azure 耗用量收益、作用中授權等。</span><span class="sxs-lookup"><span data-stu-id="6aca3-121">**Overview**    Overview report presents a snapshot view of various KPIs of interest to you such as Customer count, Active Subscriptions count, Azure Consumption Revenue, Active licenses etc.</span></span>
 
-![pci 效能2](images/pci1.png)
+<span data-ttu-id="6aca3-122">**客戶**客戶報告提供客戶的分析，例如客戶取得資料、使用中客戶等。</span><span class="sxs-lookup"><span data-stu-id="6aca3-122">**Customer** Customer report presents analytics around your customers such as Customer acquisition data, Active customers etc.</span></span> 
 
-### <a name="thresholds"></a><span data-ttu-id="bb453-129">閾值</span><span class="sxs-lookup"><span data-stu-id="bb453-129">Thresholds</span></span>
+<span data-ttu-id="6aca3-123">**產品-** 訂用帳戶    訂用帳戶報表會針對您的雲端訂用帳戶（例如 O365、Azure、Dynamics 等）顯示取得和使用方式分析</span><span class="sxs-lookup"><span data-stu-id="6aca3-123">**Product - Subscriptions**     Subscriptions report presents acquisition and usage analytics for your Cloud subscriptions (e.g. O365, Azure, Dynamics etc.)</span></span> 
 
-<span data-ttu-id="bb453-130">每個 PCI 計量都有 Microsoft 設定的閾值，決定您公司可以獲得的最高分。</span><span class="sxs-lookup"><span data-stu-id="bb453-130">Each PCI metric has Microsoft-set thresholds that can earn your company maximum points.</span></span> <span data-ttu-id="bb453-131">客戶參與和財務與營運的這些閾值有所不同。</span><span class="sxs-lookup"><span data-stu-id="bb453-131">These thresholds differ for Customer Engagement and Finance & Operations.</span></span> <span data-ttu-id="bb453-132">在已開發市場中經營的合作夥伴，與只在新興市場中經營的合作夥伴，其閾值也不同。</span><span class="sxs-lookup"><span data-stu-id="bb453-132">The thresholds also differ for partners operating in developed markets vs those that operate exclusively in emerging markets.</span></span> <span data-ttu-id="bb453-133">如果合作夥伴在已開發市場中有一或多個客戶，則適用已開發市場閾值。</span><span class="sxs-lookup"><span data-stu-id="bb453-133">If a partner has one or more customers in a developed market, the developed market thresholds apply.</span></span> <span data-ttu-id="bb453-134">國家/地區的開發或新興市場分類是以[Microsoft 合作夥伴網路定義](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf)為基礎。</span><span class="sxs-lookup"><span data-stu-id="bb453-134">The developed or emerging market categorization of a country is based on the [Microsoft Partner Network definitions](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf).</span></span>
+<span data-ttu-id="6aca3-124">**產品-授權**  [授權] 儀表板會針對以授權為基礎的雲端產品（例如 O365、Dynamics、Power BI 等）提供授權分析。</span><span class="sxs-lookup"><span data-stu-id="6aca3-124">**Product- Licenses**   Licenses dashboard presents license analytics for license-based Cloud products such as O365, Dynamics, Power BI etc.</span></span>
 
-<span data-ttu-id="bb453-135">系統會記錄每個計量的分數，以產生不同的 PCI 分數來進行客戶參與和財務 & 作業，每個月更新。</span><span class="sxs-lookup"><span data-stu-id="bb453-135">Points across each metric are tallied to yield a distinct PCI score for Customer Engagement and Finance & Operations which will be updated monthly.</span></span>
+<span data-ttu-id="6aca3-125">**產品-Azure 使用量**  Azure 使用量報表會顯示與您客戶的 Azure 訂用帳戶相關的計量，包括 Azure 使用量收益和依計量分類的使用量。</span><span class="sxs-lookup"><span data-stu-id="6aca3-125">**Product - Azure usage**   Azure Usage report presents metrics related to your customers’ Azure subscriptions including Azure consumption revenue and usage by meter categories.</span></span>
 
-<span data-ttu-id="bb453-136">如果合作夥伴達到或超過以下所示的閾值，就能獲得給定計量的最高分。</span><span class="sxs-lookup"><span data-stu-id="bb453-136">Partners can earn the maximum points for a given metric if they meet or exceed the thresholds indicated below.</span></span> <span data-ttu-id="bb453-137">除了「功能諮詢人員成長」外，所有計量都是可以獲得部分分數的，例如，「新的淨收入」為 $150,000 的已開發市場合作夥伴，將會獲得最高分 10 分的一半 ($150,000/$300,000)。</span><span class="sxs-lookup"><span data-stu-id="bb453-137">Partial points can be earned for all metrics except for Functional consultant growth, for example, a developed market partner with $150,000 in Net New Revenue will earn half ($150,000/$300,000) of the maximum 10 pts.</span></span>
+<span data-ttu-id="6aca3-126">專長認證   專長認證報表會針對您的使用中、合格和具風險的能力提供計量。</span><span class="sxs-lookup"><span data-stu-id="6aca3-126">**Competencies**    Competencies report presents metrics on your Active, Qualified and At-risk competencies.</span></span>
 
-![客戶參與](images/pci/table_1.png)
+<span data-ttu-id="6aca3-127">**優點**   權益報表針對您已獲得與取用的合作夥伴權益提供分析。</span><span class="sxs-lookup"><span data-stu-id="6aca3-127">**Benefits**    Benefits reports presents analytics on partner benefits you have earned vs consumed.</span></span>
 
-![財務](images/pci/TABLE_2.png)
-
-![名](images/pci/table_3.png)
-
-## <a name="detailed-definitions-of-pci-metrics"></a><span data-ttu-id="bb453-141">PCI 計量的詳細定義</span><span class="sxs-lookup"><span data-stu-id="bb453-141">Detailed definitions of PCI metrics</span></span>
-
-![淨新收益](images/net_new1.png)
-
-![net 客戶新增](images/netcustomer.png)
-
-![功能顧問](images/pci/functional_consultants.png)
-
-![growth](images/pci/functional_consultant_growth.png)
-
-![開發人員](images/pci/developers.png)
-
-![新的部署](images/pci/new_large_deployments.png)
-
-![作用中使用者](images/pci/monthly_active_user_growth.png)
+## <a name="navigating-the-insights-reports"></a><span data-ttu-id="6aca3-128">導覽見解報告</span><span class="sxs-lookup"><span data-stu-id="6aca3-128">Navigating the Insights reports</span></span> 
 
 
-## <a name="customer-to-partner-association"></a><span data-ttu-id="bb453-149">客戶對合作夥伴關聯性</span><span class="sxs-lookup"><span data-stu-id="bb453-149">Customer-to-partner association</span></span>
+<span data-ttu-id="6aca3-129">**日期範圍篩選**：您可以在每個頁面的右上角找到日期範圍選取專案。</span><span class="sxs-lookup"><span data-stu-id="6aca3-129">**Date range filters**: You can find a date range selection at the top-right corner of each page.</span></span> <span data-ttu-id="6aca3-130">您可以選取以過去3、6或12個月為基礎的日期範圍，或選取自訂的日期範圍，以自訂 [總覽] 頁面圖形的輸出。</span><span class="sxs-lookup"><span data-stu-id="6aca3-130">The output of the overview page graphs can be customized by selecting a date range based on the past 3, 6, or 12 months, or by selecting a custom date range.</span></span> <span data-ttu-id="6aca3-131">預設的日期範圍選取為12個月。</span><span class="sxs-lookup"><span data-stu-id="6aca3-131">The default date range selection is 12 months.</span></span> 
 
-<span data-ttu-id="bb453-150">只有當您是雲端解決方案提供者（CSP）、申報合作夥伴的記錄（CPOR）時，才會在計量定義的範圍內獲得淨新收益、Net 客戶新增、新的大型部署和每月作用中使用者成長的點數。或屬於客戶租使用者的付費訂用帳戶的數位夥伴記錄（DPOR）。</span><span class="sxs-lookup"><span data-stu-id="bb453-150">You receive credit for Net new revenue, Net customer adds, New large deployments, and Monthly active user growth for a given customer, within the bounds of the metric definition, only if you are the Cloud Solution Provider (CSP), the Claiming Partner of Record (CPOR), or Digital Partner of Record (DPOR) for a paid subscription belonging to the customer's tenant.</span></span>
 
-<span data-ttu-id="bb453-151">如果合作夥伴已透過 Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) （OSA）獎勵或 Dynamics 365 [online Services 使用量](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program)（OSU）獎勵，與訂用帳戶層級的客戶建立關聯，就會成為 CPOR。</span><span class="sxs-lookup"><span data-stu-id="bb453-151">A partner becomes the CPOR if they have established association with a customer at the subscription level via the Dynamics 365 [Online Solution Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) incentive or Dynamics 365 [Online Services Usage](https://support.microsoft.com/en-us/help/3082044/become-eligible-for-the-online-services-usage-incentive-program) (OSU) incentive.</span></span>
+<span data-ttu-id="6aca3-132">**意見反應按鈕**：所有 Insights 報告中的每個圖表/控制項都會加上 [意見反應] 按鈕，讓您提供報表功能的實例意見反應。</span><span class="sxs-lookup"><span data-stu-id="6aca3-132">**Feedback button**: Each chart/control in all the Insights reports is incorporated with a feedback button to let you provide instance feedback on a report feature.</span></span> 
 
-<span data-ttu-id="bb453-152">如果合作夥伴已在產品內與客戶在訂用帳戶層級建立關聯性，就會成為 DPOR。</span><span class="sxs-lookup"><span data-stu-id="bb453-152">A partner becomes the DPOR if they have established association with a customer at the subscription level within the product.</span></span>
+ 
+<span data-ttu-id="6aca3-133">**頁面層級篩選**：除了 [總覽]、[權益] 和 [專長認證] 報表以外，所有 Insights 報表都可讓您套用頁面層級篩選。</span><span class="sxs-lookup"><span data-stu-id="6aca3-133">**Page level filters**: Except for the Overview, Benefits, and Competencies reports, all Insights reports enable you to apply page level filters.</span></span> 
 
-<span data-ttu-id="bb453-153">當給定訂用帳戶的 CPOR 與 DPOR 都存在時，CPOR 會收到與訂用帳戶相關聯之 PCI 計量的所有信用額度。</span><span class="sxs-lookup"><span data-stu-id="bb453-153">When both CPOR and DPOR exist for a given subscription, the CPOR receives all credit for PCI metrics associated with the subscription.</span></span>
+- <span data-ttu-id="6aca3-134">選取的篩選準則將適用于頁面上的所有圖表和計量，包括 [摘要] 區段。</span><span class="sxs-lookup"><span data-stu-id="6aca3-134">The filters selected will be applicable for all charts and metrics on a page, including the summary section.</span></span> <span data-ttu-id="6aca3-135">如果您在該篩選準則中有任何資料，就可以使用篩選項目。</span><span class="sxs-lookup"><span data-stu-id="6aca3-135">A filter item will be available if you have any data within that filter criteria.</span></span> 
 
-## <a name="how-to-read-the-charts"></a><span data-ttu-id="bb453-154">如何讀圖表</span><span class="sxs-lookup"><span data-stu-id="bb453-154">How to read the charts</span></span>
+- <span data-ttu-id="6aca3-136">每個篩選器清單的預設選取專案為 [**全部**]。</span><span class="sxs-lookup"><span data-stu-id="6aca3-136">Default selection of each filter list is **all**.</span></span> <span data-ttu-id="6aca3-137">例如，如果您尚未選取 [產品] 篩選中的特定產品，預設選項會是 [所有產品]。</span><span class="sxs-lookup"><span data-stu-id="6aca3-137">For example, if you have not selected a specific product in products filter, default selection will be all products.</span></span>
 
-![如何讀圖表](images/pci2.png)
+- <span data-ttu-id="6aca3-138">選取的篩選器會顯示在頁面頂端。</span><span class="sxs-lookup"><span data-stu-id="6aca3-138">Filters selected will be displayed at the top of the page.</span></span> 
 
-## <a name="additional-resources"></a><span data-ttu-id="bb453-156">其他資源</span><span class="sxs-lookup"><span data-stu-id="bb453-156">Additional resources</span></span>
+ ### <a name="filters-definition"></a><span data-ttu-id="6aca3-139">篩選定義：</span><span class="sxs-lookup"><span data-stu-id="6aca3-139">Filters definition:</span></span>
 
-<span data-ttu-id="bb453-157">請流覽[合作夥伴貢獻指標資源集合](https://partner.microsoft.com/asset/collection/pci-learn#/)，您可以在其中找到詳細的訓練影片、簡報、常見問題和事實表。</span><span class="sxs-lookup"><span data-stu-id="bb453-157">Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets.</span></span> 
+- <span data-ttu-id="6aca3-140">產品：您的組織所銷售/管理的所有 Microsoft Cloud 產品清單，例如 O365、Azure、D365 移轉、EMS、PowerBI 等等。</span><span class="sxs-lookup"><span data-stu-id="6aca3-140">Products: List of all Microsoft Cloud products sold/managed by your organization, for example,  O365, Azure, D365, EMS, PowerBI etc.</span></span>
+- <span data-ttu-id="6aca3-141">客戶市場：客戶國家/地區清單</span><span class="sxs-lookup"><span data-stu-id="6aca3-141">Customer markets: List of customer countries</span></span>
+- <span data-ttu-id="6aca3-142">合作夥伴歸屬：您與您的客戶訂用帳戶相關聯的關聯類型，例如，數位合作夥伴記錄（DPOR）、委派的系統管理員許可權（聯盟）、合作夥伴系統管理員連結（PAL）等。</span><span class="sxs-lookup"><span data-stu-id="6aca3-142">Partner attributions: Your association type with your customers subscriptions, for example,  Digital partner of record (DPOR), Delegated admin privilege (DAP), Partner Admin link (PAL) etc.</span></span> 
+- <span data-ttu-id="6aca3-143">合作夥伴位置：所有組織的 MPN 位置清單。</span><span class="sxs-lookup"><span data-stu-id="6aca3-143">Partner locations: List of all your organization’s MPN locations.</span></span> 
+- <span data-ttu-id="6aca3-144">銷售通路：您用來購買/布建產品和服務的所有銷售通路/定價，亦即 CSP、EA、CSP 間接、Direct、Advisor、Open、其他</span><span class="sxs-lookup"><span data-stu-id="6aca3-144">Sales channels: All sales channel/pricing through which you are purchasing/provisioning products and services namely CSP, EA, CSP indirect, Direct, Advisor, Open, others</span></span>
+- <span data-ttu-id="6aca3-145">客戶區段：合作夥伴客戶群之間的客戶區段清單。</span><span class="sxs-lookup"><span data-stu-id="6aca3-145">Customer segments: List of customer segments across the partners customer base.</span></span>
+
+
+
+## <a name="additional-resources"></a><span data-ttu-id="6aca3-146">其他資源</span><span class="sxs-lookup"><span data-stu-id="6aca3-146">Additional resources</span></span>
+
+<span data-ttu-id="6aca3-147">請流覽[合作夥伴貢獻指標資源集合](https://partner.microsoft.com/asset/collection/pci-learn#/)，您可以在其中找到詳細的訓練影片、簡報、常見問題和事實表。</span><span class="sxs-lookup"><span data-stu-id="6aca3-147">Please visit [Partner Contribution Indicators resource collection](https://partner.microsoft.com/asset/collection/pci-learn#/) where you can find detailed training videos, presentations, FAQs, and fact sheets.</span></span> 
 
 
 
