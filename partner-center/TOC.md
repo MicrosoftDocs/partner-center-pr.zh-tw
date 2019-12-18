@@ -17,11 +17,12 @@
 ### [行動寶盒](mpn-get-action-pack.md)
 ### [續訂您的供應項目方案](renew-mpn-offers.md)
 ## [專長認證](learn-about-competencies.md)
+## [進階專長](advanced-specializations.md)
 ## [Azure 專家管理服務提供者計畫](azure-expert-msp.md)
 ## 優點
 ### [優點概觀](manage-your-partner-network-benefits.md)
 ### [上市優勢](mpn-learn-about-go-to-market-benefits.md)
-## [管理 Marketplace 獎勵](marketplace-rewards.md)
+## [Marketplace 獎勵](marketplace-rewards.md)
 ## [軟體保證計畫](software-assurance-lp.md)
 ### [合作夥伴中心的軟體保證訓練憑券 (SATV) 計畫](software-assurance-satv.md)
 ### [使用合作夥伴中心的憑券驗證及兌換工具來驗證、保留和兌換憑券](voucher-validation-tool.md)
