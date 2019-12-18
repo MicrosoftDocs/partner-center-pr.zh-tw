@@ -9,14 +9,21 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: cbb3cef48b2b4c9141f25ab7cd75bb20e54128de
-ms.sourcegitcommit: 31e9598577981b8a7e484490ed630a2f4db56cf4
+ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/11/2019
-ms.locfileid: "73915036"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004267"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   帳單管理
+-   MPN 合作夥伴系統管理員
 
 此文章包含[合作夥伴安全性需求](partner-security-requirements.md)的常見問題集。
 

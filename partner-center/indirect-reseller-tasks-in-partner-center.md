@@ -11,14 +11,20 @@ ms.author: evansma
 keywords: 間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: c259c28d5a5a16a2b12ebb299a574c0b624d87f9
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253657"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004797"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接提供者成為合作夥伴
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
 
 雲端式解決方案與服務的快速成長需求，為所有大小的 Microsoft 合作夥伴提供許多機會來建立可獲利的雲端解決方案業務。 準備好要進入市場，但不願管理多個廠商，或是端對端客戶關係管理基礎結構可能尚不到位的合作夥伴，可以間接經銷商的身分來參加 Microsoft 的雲端解決方案提供者 (CSP) 計畫成為間接經銷商。
 

@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 7e8226009e9f214e420475dbd350f2bcb3984414
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943111"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005007"
 ---
 # <a name="partner-security-requirements-status"></a>合作夥伴安全性需求狀態
 
@@ -25,6 +25,13 @@ ms.locfileid: "74943111"
   - 間接轉銷商
 - 所有控制台廠商
 - 所有顧問
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   帳單管理
+-   MPN 合作夥伴系統管理員
 
 較高的隱私權保護和安全性是我們最優先的考量。 我們知道最佳的防禦是預防，而且我們只與最弱的連結一樣強大。 這就是為什麼我們需要生態系統中的每個人都採取行動，並確保其具備適當的安全性保護。 為了協助保護合作夥伴和客戶，我們針對參與雲端解決方案提供者計畫的顧問、控制台廠商和合作夥伴推出一組強制性的安全性需求。
 

@@ -10,14 +10,21 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: f22aebcfe9269b15a5916564a5cd1f4707302331
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 776fea7eea91e15f872021356562af05e89f1fcf
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943071"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004997"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作夥伴所獲得信用點數如何計算及付費
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   帳單管理
+-   銷售代理人
 
 針對受控服務 (PEC) 取得的合作夥伴所獲得信用點數，可辨識和獎勵合作夥伴，其擁有全天候 IT 營運控制及管理其客戶的部分或全部 Azure 環境。 根據預設，在 CSP 中，合作夥伴會被授與客戶訂用帳戶的必要存取權，讓他們能夠執行全天候的作業管理，並控制訂用帳戶上的資源。 下一節將說明客戶可以為交易合作夥伴佈建存取權的其他方式。 每月發票金額為合作夥伴所獲得信用點數的淨額。 合作夥伴可以在他們的每月對帳檔案上查看 PEC 詳細資料。 如需客戶可以為交易合作夥伴佈建存取權的其他方式，請參閱[管理 Azure 方案下的訂用帳戶和資源](azure-plan-manage.md)。
 

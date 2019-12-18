@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 行動套件, MAPS, 續約 MAPS, 續約行動套件, 取得行動套件
 ms.localizationpriority: high
-ms.openlocfilehash: fb5515ad0f27ba627d4a4a834be36b4d8f627e10
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 22aebf9d6c7098a36ac551763cd85f4de978a8ab
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943341"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005098"
 ---
 # <a name="buy-for-the-first-time-or-renew-a-microsoft-action-pack-subscription-or-the-silver-or-gold-competencies"></a>首次購買或續約 Microsoft 行動套件訂閱，或者銀級或金級專長認證
 
@@ -22,6 +22,13 @@ ms.locfileid: "74943341"
 
 -  合作夥伴中心
 -  Partner Membership Center
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   MPN 合作夥伴系統管理員
+-   系統管理代理人
+-   銷售代理人
 
 現在，您可以從合作夥伴中心[儀表板](https://docs.microsoft.com/partner-center/)購買或續訂權益優惠方案，包括 Microsoft 行動套件訂閱及銀級和金級專長認證。 
 

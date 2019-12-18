@@ -9,15 +9,19 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 權限, 系統管理員, 代理人
 ms.localizationpriority: high
-ms.openlocfilehash: f49417eea3a2d8b06713cd53355eef68c81d179e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943131"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004127"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
 
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   MPN 合作夥伴系統管理員
 
 您已設定您的合作夥伴設定檔，包括合法的名稱和地址、支援詳細資料、免稅證明、銀行資訊，以及貴公司的主要連絡人。 下一步：讓您的使用者以密碼和角色進行設定，讓他們可以開始在合作夥伴中心與您合作。
 

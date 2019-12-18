@@ -9,14 +9,21 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: caab446047745a63dc2116c25b24be2dcade3584
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943061"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004237"
 ---
 # <a name="partner-earned-credit---overview"></a>合作夥伴所獲得信用點數 - 概觀
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   帳單管理
+-   銷售代理人
 
 在 CSP 的新商務體驗中，合作夥伴所獲得信用點數是一種商務模型，可在 Microsoft 的進入市場載具上完成簡化的統一 Azure 定價，同時培育可提供增值受控服務的合作夥伴生態系統。 合作夥伴所獲得信用點數也有助於消除對於利潤的任何競爭。 
 

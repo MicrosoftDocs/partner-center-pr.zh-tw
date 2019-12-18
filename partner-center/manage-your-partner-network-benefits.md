@@ -9,18 +9,24 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 會員資格權益, 會員資格
 ms.localizationpriority: high
-ms.openlocfilehash: ba501542675c5686177a22b938a425ea24c5d56e
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943591"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004527"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
 **適用於**
 
 -  合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
+-   MPN 合作夥伴系統管理員
 
 >[!IMPORTANT]
 >本文說明如何在合作夥伴中心 (也就是本網站) 中開始使用 Microsoft 合作夥伴網路 (MPN) 會員資格權益。 如果您尚未收到將您的公司資訊從 Partner Membership Center (PMC) 移至合作夥伴中心的邀請，請繼續在 PMC 中管理您的 MPN 會員資格權益。 立即[登入](https://partner.microsoft.com/_login?authType=OpenIdConnect) PMC。

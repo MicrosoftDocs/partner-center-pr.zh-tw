@@ -10,18 +10,23 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617bf213d73b8707479b35e5a900c4293b0f8c35
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943091"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75005017"
 ---
 # <a name="manage-your-partner-center-account"></a>管理您的合作夥伴中心帳戶
 
 **適用於**
 
 -  合作夥伴中心
+
+**適當的角色**
+-   全域系統管理員
+-   使用者系統管理員
+-   系統管理代理人
 
 您註冊時在合作夥伴中心建立的帳戶會是您的工作電子郵件加上商務資訊的組合。 在合作夥伴中心建立帳戶之後，您或您的系統管理員必須完成設定您公司的完整設定檔，包括支援詳細資料、列報免稅 (若適用) 以及主要連絡資訊。 
 

@@ -10,14 +10,20 @@ ms.author: evansma
 keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格, 銀級, 金級, 專長認證
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 9559f4329846855948d67105e0033466756ac0de
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
+ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943311"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "75004197"
 ---
 # <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
+
+**適當的角色**
+-   全域系統管理員
+-   MPN 合作夥伴系統管理員
+-   使用者系統管理員
+-   系統管理代理人
 
 當您加入 Microsoft 合作夥伴計畫，您就成為全球社群的一分子，將您與讓客戶驚豔以及推動業務成長所需的人際關係、見解、工具、資源及計劃連結起來。
 
