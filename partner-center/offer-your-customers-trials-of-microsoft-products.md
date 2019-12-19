@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2c2476c87a319b386df6d5031c776efaecec3bda
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
+ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005047"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "75185538"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>為客戶提供 Microsoft 產品試用
 
@@ -45,7 +45,7 @@ ms.locfileid: "75005047"
 - 沒有 PSTN 的 Office 365 E5
 - Enterprise Mobility & Security E5
 - Dynamics 365 Customer Engagement Plan 1
-- Dynamics 365 for Financials
+- Microsoft Dynamics 365 Business Central
 - Microsoft 365 商務版
 
 我們提供這些產品的免費試用，是因為它們是最全方位也最熱門的商務用供應項目。 未來可能會增加其他免費試用供應項目。
