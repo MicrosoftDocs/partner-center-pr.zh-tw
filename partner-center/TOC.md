@@ -169,6 +169,7 @@
 ## [取得並分析您的商務資料](data-analysis-lp.md)
 ## [適用於 Microsoft Power BI 的合作夥伴分析應用程式](power-bi-app-for-direct-partners.md)
 ## [合作夥伴中心深入解析](partner-contribution-indicators.md)
+## [合作夥伴貢獻指標](pci-updated.md)
 ## [取得您客戶 Azure 訂閱使用狀況的相關資料](analyze-azure-usage.md)
 ## [分析間接經銷商績效](analyze-indirect-resellers.md)
 ## [分析訂閱與授權](analyze-subscriptions-licenses.md)
