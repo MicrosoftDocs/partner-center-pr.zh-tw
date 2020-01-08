@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 0e81ead73308902e75b842c00bbd32ed228ca3a5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ca270413291ba0d09ca03d9b8b270a65f77a46b1
+ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004947"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75631821"
 ---
 # <a name="pricing-and-offers"></a>定價與方案
 
@@ -42,7 +42,7 @@ ms.locfileid: "75004947"
 
 |**項目**        |**定義**      |
 |:-----------   |:-----------   |
-|ADD   |價格表的新增項目|
+|新增   |價格表的新增項目|
 |CHG   |從 month 到 month 的清單價格變更。 可能會發生其他與清單價格不相關的變更，合作夥伴應比較月份與月份的其他屬性，以判斷其他變更。|
 |DEL   |從價格表移除的項目|
 |UNC   |清單價格與上個月的價目表保持不變  |
@@ -79,7 +79,7 @@ CSP 針對特殊市場部門提供一些服務，例如教育、非收益和政�
 
 |**區段**   |**誰必須符合資格**   |**合作夥伴合格客戶**|**啟用的產品類型**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|教育版|合作夥伴和客戶|[是]|僅以授權為基礎|
+|教育版|客戶|否，Microsoft 將會執行客戶資格 |僅以授權為基礎|
 |非營利|客戶|否，客戶在合作夥伴中心外符合資格|僅以授權為基礎|
 |政府社群雲端 (GCC)|合作夥伴和客戶|啟用 GCC 後，合作夥伴可以建立 GCC 客戶| 僅以授權為基礎|
 |Azure gov|合作夥伴|合格後，合作夥伴會在 Azure gov 專屬的 CSP 租使用者中運作|Azure 資源|
