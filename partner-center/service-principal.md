@@ -10,16 +10,16 @@ ms.author: labrenne
 Keywords: Azure、Azure 方案、服務主體、Azure AD 應用程式
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 1fe4211879df2063f7b865c249870c49a346f518
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: bd74d09445d9a2f1745c518362b26f243f00a777
+ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010379"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75716889"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>在合作夥伴中心新增 Azure AD 應用程式 (服務主體)
 
-在合作夥伴中心的商務 Marketplace 計畫中，您現在可以將 Azure AD 應用程式 (服務主體) 新增為 Azure AD 租用戶中的使用者 (您可以先在 Cloud Partner 入口網站 (CPP) 帳戶中執行此動作，但現在您已移轉至合作夥伴中心，而 CPP 帳戶是唯讀的)。請注意，服務主體與 Azure AD 應用程式是同義。
+在合作夥伴中心的商務 Marketplace 計畫中，您現在可以將 Azure AD 應用程式 (服務主體) 新增為合作夥伴中心帳戶中的使用者。 (您可以先在 Cloud Partner 入口網站 (CPP) 帳戶中執行此動作，但現在您已移轉至合作夥伴中心，而 CPP 帳戶是唯讀的)。請注意，服務主體與 Azure AD 應用程式是同義。
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>新增 Azure AD 應用程式 (服務主體)
 
@@ -30,8 +30,9 @@ ms.locfileid: "75010379"
 3. 選取現有的 Azure AD 應用程式，或建立新的應用程式。
 
 4. 如果建立新的 Azure AD 應用程式，請包含下列資訊：  
+
   
-**名稱**：這與 CPP 入口網站中的 [易記名稱] 欄位類似。
+
 
 **回覆 URL**：這是讓使用者登入以使用您的 Azure AD 應用程式的 URL。 
 
@@ -39,4 +40,4 @@ ms.locfileid: "75010379"
 
 **安全性角色**：**管理員** (與 CPP 中的「擁有者」角色相同) 和**開發人員** (與 CPP 中的「參與者」角色相同) 角色適用於合作夥伴中心內的商務 Marketplace 計畫，而且可與此 Azure AD 應用程式相關聯。  
 
-當您選取 [儲存]  以在合作夥伴中心建立此資訊時，此資訊也會同步處理至 CPP 系統。  
+  

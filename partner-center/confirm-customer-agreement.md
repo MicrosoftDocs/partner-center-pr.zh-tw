@@ -1,7 +1,7 @@
 ---
 title: 確認客戶接受 Microsoft 客戶合約 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何確認客戶接受 Microsoft 客戶合約。 這可能需要為客戶訂購 Microsoft 產品和服務。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客戶, 客戶, 同意, MCA, Microsoft Cloud 合約, Microsoft 客戶合約, 客戶合約範本
 ms.localizationpriority: medium
-ms.openlocfilehash: 8beee9ed9035ff846c6e9d84fefd0c5c2ba255de
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 33eddc437360cb80071bf98187a7d4e23b820fb9
+ms.sourcegitcommit: 99a8b2daf52d455d33f15945d52efbcc8ff551c8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721372"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "75752566"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>確認客戶接受 Microsoft 客戶合約
 
@@ -55,7 +55,7 @@ Microsoft 將在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP �
 
 
 ## <a name="confirm-customer-acceptance-in-partner-center"></a>在合作夥伴中心確認客戶接受
-合作夥伴可以在合作夥伴中心針對新客戶和現有客戶，確認客戶接受 Microsoft 客戶合約。
+合作夥伴可以在合作夥伴中心針對新客戶和現有客戶，確認客戶接受 Microsoft 客戶合約。 轉銷商無法代表其客戶進行證明，而且必須與間接提供者合作，才能完成證明。
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>確認新客戶的客戶接受
 

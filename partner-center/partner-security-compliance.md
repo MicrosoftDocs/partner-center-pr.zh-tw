@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 32b185452e8287678e6ae010b435e127bfcf54aa
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 47ab8306c83fb498383ca3c839bfe6ff7ddb0a46
+ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005007"
+ms.lasthandoff: 01/03/2020
+ms.locfileid: "75636989"
 ---
 # <a name="partner-security-requirements-status"></a>合作夥伴安全性需求狀態
 
@@ -30,7 +30,7 @@ ms.locfileid: "75005007"
 -   全域系統管理員
 -   使用者系統管理員
 -   系統管理代理人
--   帳單管理
+-   帳單系統管理員
 -   MPN 合作夥伴系統管理員
 
 較高的隱私權保護和安全性是我們最優先的考量。 我們知道最佳的防禦是預防，而且我們只與最弱的連結一樣強大。 這就是為什麼我們需要生態系統中的每個人都採取行動，並確保其具備適當的安全性保護。 為了協助保護合作夥伴和客戶，我們針對參與雲端解決方案提供者計畫的顧問、控制台廠商和合作夥伴推出一組強制性的安全性需求。
@@ -50,13 +50,22 @@ ms.locfileid: "75005007"
 >[!NOTE]
 >只有在合作夥伴中心才支援合作夥伴安全性需求狀態報告。 不適用於 Microsoft Cloud for US Government 或 Microsoft Cloud Germany。 我們強烈建議所有合作夥伴透過主權雲端 (21Vianet、US Government 和 Germany) 進行交易，並立即採取這些新的安全性需求。 不過，這些合作夥伴不需要符合 2019 年 8 月 1 日生效的新安全性需求。 Microsoft 未來將針對主權雲端的這些安全性需求強制執行，提供額外的詳細資料。
 
-每次您的員工登入合作夥伴中心，或透過 API、透過合作夥伴中心取得或傳送資料時，其安全性狀態會受到挑戰和追蹤。 也包含在安全性狀態追蹤中的，是您的應用程式和任何控制台廠商應用程式。 顯示的是過去 7 天的狀態。
-
 ## <a name="multi-factor-authentication-mfa-report"></a>多重要素驗證 ("MFA") 報告
 
-合作夥伴中心 MFA 報告藉由提供兩個以合作夥伴中心活動為基礎的計量，提供合作夥伴 MFA 實作的深入解析：
+合作夥伴中心 MFA 報告提供合作夥伴 MFA 實作的深入解析，方法是根據 CSP 租用戶上 MFA 設定和合作夥伴中心活動來提供兩種計量類型： 
 
-**使用者完成的 MFA 驗證**
+### <a name="mfa-configuration-on-a-csp-tenant"></a>CSP 租用戶上的 MFA 設定
+
+此計量與 CSP 租用戶上的 MFA 設定有關，該計量每日擷取並提供報告。 其使用任何一個 [MFA 選項](https://aka.ms/partner-mfa-get-started)來測量強制執行 MFA 的已啟用使用者帳戶的百分比。 例如：
+
+- Contoso 是在租用戶中擁有 110 個使用者帳戶的 CSP 合作夥伴，其中 10 個帳戶已停用。 
+- 在其餘 100 個使用者帳戶中，有 90 個帳戶使用提供的 [MFA 選項](https://aka.ms/partner-mfa-get-started)強制執行 MFA。 因此，計量會顯示 90%。 
+
+### <a name="partner-center-activities-with-mfa"></a>使用 MFA 的合作夥伴中心活動
+
+每次您的員工登入合作夥伴中心，或透過 API、透過合作夥伴中心取得或傳送資料時，其安全性狀態會受到挑戰和追蹤。 也包含在安全性狀態追蹤中的，是您的應用程式和任何控制台廠商應用程式。 顯示的是過去 7 天的狀態。
+
+#### <a name="mfa-verification-completed-by-users"></a>使用者完成的 MFA 驗證
 
 此計量與合作夥伴中心儀表板中的活動有關。 它會測量已完成 MFA 驗證的使用者所做的作業百分比。 例如：
 
@@ -67,7 +76,7 @@ ms.locfileid: "75005007"
 - 這兩位代理人在剩餘的 4 天內都沒有執行任何作業。
 - 在 7 天時間範圍內的 10 個作業中，2 個是由具有 MFA 驗證的使用者所進行。 因此，計量會顯示 20%。
 
-**應用程式 + 使用者驗證**
+#### <a name="appuser-authentication"></a>應用程式 + 使用者驗證
 
 此計量與使用應用程式 + 使用者驗證所建立的合作夥伴中心 API 要求有關。 它會測量使用具有 MFA 宣告的存取權杖所建立 API 要求的百分比。 例如：
 
