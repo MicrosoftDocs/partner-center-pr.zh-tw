@@ -10,20 +10,20 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace 供應專案、行銷支援、獎勵、發行者權益
 ms.localizationpriority: medium
-ms.openlocfilehash: 576401337337693f69987e620fc852dce837ad2e
-ms.sourcegitcommit: 369aceafc54e960ac0bd3a023edc85b06361492b
+ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
+ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/12/2019
-ms.locfileid: "75010399"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "75717333"
 ---
 # <a name="manage-marketplace-rewards"></a>管理 Marketplace 獎勵
 
 適當的角色：
 
-- Administrador de partners de MPN
+- MPN 合作夥伴系統管理員
 - 全域系統管理員
-- Agente de administración
+- 系統管理代理人
 
 如果您將軟體供應專案發佈到我們的商業市場，Marketplace 報酬會針對您的所有供應專案提供行銷、銷售和技術優點的目標支援。 
 
@@ -40,11 +40,11 @@ Marketplace 獎勵資格是根據連結至 PGA MPN 公司的所有發行者設�
 
 接下來，執行下列作業：
 
-a. Seleccione un usuario de la lista. 如果您要指派的使用者不在清單中，您可以在 [帳戶設定] 中新增使用者。
+  - 從清單中選取使用者。 如果您要指派的使用者不在清單中，您可以在 [帳戶設定] 中新增使用者。
 
-b。 Proporciona al usuario una dirección de correo electrónico que sea diferente a la dirección de correo electrónico asociada con la cuenta del Centro de partners de tu empresa. 我們會透過電子郵件將您的 Marketplace 獎勵權益提供給指定行銷連絡人的電子郵件地址的指示。
+  - 提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。 我們會透過電子郵件將您的 Marketplace 獎勵權益提供給指定行銷連絡人的電子郵件地址的指示。
 
-c. Proporciona el teléfono y el idioma preferido del contacto de marketing. Cuando termines de introducir esta información, selecciona **Asignar usuario**.
+  - 提供此行銷連絡人的連絡電話和慣用語言。 在您完成輸入此資訊之後，請選取 [指派使用者]。
 
 4. 更新行銷連絡人之後，請選取 [**啟用**] 以取得您想要開始使用的權益。 一旦您啟用權益，您的行銷連絡人會在一周內由獎勵小組成員聯繫。
 
