@@ -1,7 +1,7 @@
 ---
 title: 管理 marketplace 獎勵 |合作夥伴中心
 ms.topic: article
-ms.date: 12/11/2019
+ms.date: 01/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 將供應專案發佈到商業 marketplace 的合作夥伴，有資格享有提供行銷支援的權益。
@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace 供應專案、行銷支援、獎勵、發行者權益
 ms.localizationpriority: medium
-ms.openlocfilehash: f508b69ba03920ab65d7155a4ce5100335aed970
-ms.sourcegitcommit: 0053114ee7568ac980813d3aa673cbb72cc0b186
+ms.openlocfilehash: 512d23bbf3962119b48af89dd08546692a49a0dd
+ms.sourcegitcommit: 75ed00af0b12086f7a51b8d22a3bfc9a02c5d657
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75717333"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "75942896"
 ---
 # <a name="manage-marketplace-rewards"></a>管理 Marketplace 獎勵
 
@@ -53,4 +53,23 @@ Marketplace 獎勵資格是根據連結至 PGA MPN 公司的所有發行者設�
 1. 您可以在雲端和混合式解決方案的售前、設計、部署和應用程式開發階段，使用您的技術優勢來要求技術協助。 若要要求協助，請填寫要求表單，然後選取 [**提交要求**]。
 
 2. 當您將這些權益解除鎖定時，如何利用電子郵件共用 Azure 贊助權益。 
+
+## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>為什麼我看不到儀表板上的商業獎勵 Marketplace 方案？
+
+Marketplace 獎勵資訊可透過用來建立合作夥伴中心帳戶的 Azure AD 租使用者和 MPN 識別碼取得。 此帳戶稱為貴公司的主要通用帳戶（PGA）。 如果您的 AAD 租使用者不同于用於 MPN 上線的帳戶，為了讓您看到 [商業獎勵 Marketplace] 功能表，您必須將它與您公司的 PGA 建立關聯。 
+
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>將 Azure AD 租使用者與您公司的 PGA 產生關聯
+
+1. 身為全域管理員或帳戶管理員，請登入合作夥伴中心的 PGA。
+
+2. 選取 [**設定**] （右上角 **）、[** **夥伴設定**]、[租使用者]。 
+
+3. 選取 [**將另一個 Azure AD 租使用者建立關聯**]，然後選取您想要與 PGA 建立關聯的 Azure AD 租使用者。
+
+4. 在您想要建立關聯的 Azure AD 租使用者中，新增任何使用者的使用者名稱和密碼，然後選取 [**提交**]。
+
+5. 登出合作夥伴中心，然後使用您剛與 PGA 建立關聯的租使用者之使用者名稱和密碼登入。
+
+6. 您現在可以在左側導覽功能表中看到 [商業獎勵 Marketplace 方案] 資訊。
+
 
