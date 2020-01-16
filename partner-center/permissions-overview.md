@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 權限, 系統管理員, 代理人
 ms.localizationpriority: high
-ms.openlocfilehash: e0f53e2f1aae51a1287a2e347fa9014b5d75ea03
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: bf7b1d2b029f2ce4558a2b24c3e1f12a63813339
+ms.sourcegitcommit: bd76d42044ed4e3266395455a1956b2f9ccece76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004127"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75776499"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
 
@@ -44,7 +44,7 @@ ms.locfileid: "75004127"
 |使用者管理系統管理員   | • 檢視、建立和管理使用者
 ||• 檢視所有合作夥伴設定檔
 ||• 檢視、建立和管理合作夥伴使用者  |
-|帳單管理 | - 檢視、建立和管理帳單、發票和對帳檔案|
+|帳單系統管理員 | - 檢視、建立和管理帳單、發票和對帳檔案|
 |預設使用者|  檢視我的設定檔   |
 |系統管理代理人 | • 客戶管理
 ||• 將裝置清單新增至合作夥伴中心
@@ -135,6 +135,13 @@ CPV 開發可供雲端解決方案提供者 (CSP) 合作夥伴使用的應用程
 ||• 可以檢視和起始獎勵宣告
 ||• 檢視回贈和合作收益
 ||• 存取支援
+
+## <a name="view-partner-center-insights-data"></a>檢視合作夥伴中心深入解析資料
+
+|**角色** | **可以執行的作業**|
+|------------------------------|:-------------------------|
+|高階報告檢視人員|存取所有報告資料集|
+|報告檢視人員|存取具有營收、客戶和員工個人資料例外狀況的資料報告|
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: 管理您的合作夥伴中心帳戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 09/25/2019
+ms.date: 01/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作夥伴中心管理貴公司的設定檔、目錄、銀行和稅務資訊、角色、權限等等。
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 62131fa6590898dcb6d59e4bee0f6edb68dfba0c
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f8f15782dec3177596ad5cf0f680f2dfbf34bf84
+ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005017"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "75757201"
 ---
 # <a name="manage-your-partner-center-account"></a>管理您的合作夥伴中心帳戶
 
@@ -45,9 +45,11 @@ ms.locfileid: "75005017"
 |檢閱每個角色需要的權限|[指派使用者角色和權限](permissions-overview.md)
 |管理貴公司的位置|[管理您的合作夥伴帳戶：位置](manage-locations.md)
 |如果員工忘記他們的密碼，您必須加以重設  |[重設使用者密碼](reset-a-user-password.md)|
+|在合作夥伴中心註冊為控制台廠商|[在合作夥伴中心註冊為控制台廠商](enroll-as-cpv.md)|
+|在合作夥伴中心內關聯您的 Microsoft Learn 帳戶|[在合作夥伴中心內關聯您的 Microsoft Learn 帳戶](ms-learn-associate.md)|
 |請務必行銷宣傳您的公司，讓客戶可以找到您   |[建立商務設定檔](create-a-marketing-profile.md)|
 |整理您的類別目錄，讓最重要的產品列在清單頂端   |[自訂型錄](customize-the-catalog.md)|
-|隨時取得在目前定價與方案的最新資訊   |[定價與方案](pricing-and-offers.md)|
+|隨時取得在目前定價與方案的最新資訊   |[定價與供應項目](pricing-and-offers.md)|
 
 
 
