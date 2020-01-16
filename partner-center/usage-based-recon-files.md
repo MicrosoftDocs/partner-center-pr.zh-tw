@@ -1,18 +1,18 @@
 ---
 title: 基於使用方式的對帳檔案 |合作夥伴中心
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: 以使用量為基礎的對帳檔案上的所有專案都會以範例說明。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: d0b50240ec62f10a202c3ad0de3d6425aec878ef
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: e4ce3427f52ccde8f61fa553f3fa0af79bff0a95
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757221"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021750"
 ---
 # <a name="usage-based-file-fields"></a>用量型檔案欄位
 
@@ -34,7 +34,7 @@ ms.locfileid: "75757221"
 | PartnerBillableAccountId | 合作夥伴帳戶識別碼。 | *1010578050* |
 | CustomerCompanyName | 客戶的組織名稱（如合作夥伴中心所報告）。 *將發票與您的系統資訊進行協調非常重要。* | *測試客戶* |
 | MpnId | CSP 合作夥伴的 MPN 識別碼。 | *4390934* |
-| ResellerMpnId | 訂用帳戶之記錄轉銷商的 MPN 識別碼。 目前的活動無法使用。 |
+| ResellerMpnId | 訂用帳戶之記錄轉銷商的 MPN 識別碼。  |
 | InvoiceNumber | 交易的指定位置顯示的發票號碼。 | *D020001IVK* |
 | ChargeStartDate | 計費週期的開始日期，但在呈現先前不收費潛在使用量資料的日期 (來自先前帳單週期) 時除外。 時間一律是一天的開始時間 (0:00)。 | *2/1/2019 0:00* |
 | ChargeEndDate | 計費週期的結束日期，但在呈現先前不收費潛在使用量資料的日期 (來自先前帳單週期) 時除外。 時間一律是一天的結束時間 (23:59)。 | *2/28/2019 23:59* |

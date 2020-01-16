@@ -1,18 +1,18 @@
 ---
 title: 以授權為基礎的對帳檔案 |合作夥伴中心
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 01/14/2020
 description: 瞭解合作夥伴中心內以授權為基礎的對帳檔案。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b7e3140ddcbdbaa5ff75203928b890abc2db852
-ms.sourcegitcommit: fe1f2730a14ec394caccdbb59b00ef5908acaa29
+ms.openlocfilehash: 304c727fea7605f52fc0b99625d21cc6d148a585
+ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "75757181"
+ms.lasthandoff: 01/15/2020
+ms.locfileid: "76021740"
 ---
 # <a name="license-based-reconciliation-files"></a>授權型對帳檔案
 
@@ -37,7 +37,7 @@ ms.locfileid: "75757181"
 | CustomerId | 客戶的唯一 Microsoft 識別碼（GUID 格式）。 | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
 | CustomerName | 客戶的組織名稱（如合作夥伴中心所報告）。 *將發票與系統資訊協調的非常重要欄位。* | *測試客戶 A* |
 | MpnId | CSP 合作夥伴的 MPN 識別碼。 請參閱[如何依合作夥伴進行](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)加入。 | *4390934* |
-| ResellerMpnId | 訂用帳戶之記錄轉銷商的 MPN 識別碼。 目前的活動無法使用。 |
+| ResellerMpnId | 訂用帳戶之記錄轉銷商的 MPN 識別碼。  |
 | OrderId | 訂單在 Microsoft 帳單平台中的唯一識別碼。 在聯繫支援人員時，識別訂單可能會很有用。 不用於對帳。 | *566890604832738111* |
 | SubscriptionId | 訂閱在 Microsoft 帳單平台中的唯一識別碼。 在聯絡支援人員時，識別訂用帳戶可能會很有用。 不用於對帳。 *此值與合作夥伴管理主控台上的**訂**用帳戶識別碼不同。請改為參閱**SyndicationPartnerSubscriptionNumber** 。* | *usCBMgAAAAAAAAIA* |
 | SyndicationPartnerSubscriptionNumber | 訂閱的唯一識別碼。 針對相同的方案，客戶可以有多個訂用帳戶。 此資料行對對帳檔案分析很重要。 此欄位會對應至合作夥伴管理主控台中的訂用帳戶**識別碼**。 | *fb977ab5-測試-測試-測試-24c8d9591708* |
