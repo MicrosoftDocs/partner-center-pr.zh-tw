@@ -1,20 +1,20 @@
 ---
 title: 合作夥伴中心的帳戶結構 |合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解合作夥伴中心內的兩個帳戶層級，主要通用帳戶（PGA）和合作夥伴位置帳戶（PLA）。
+description: 瞭解合作夥伴中心內的兩個帳戶層級、合作夥伴通用帳戶（PGA）和合作夥伴位置帳戶（PLA）。
 author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 3a0a7d0ba985f9610198a64aa87411b1a7da16bd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 65693c6145c6510995badac757f88a982b9a94d5
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722316"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171199"
 ---
 # <a name="the-account-structure-in-partner-center"></a>合作夥伴中心的帳戶結構
 
@@ -32,11 +32,11 @@ ms.locfileid: "74722316"
 
 您的公司在合作夥伴中心有兩個層級的帳戶。
 
-### <a name="the-top-level-is-the-primary-global-account-pga"></a>最上層是主要通用帳戶（PGA）。
+### <a name="the-top-level-is-the-partner-global-account-pga"></a>最上層是合作夥伴通用帳戶（PGA）。
 
-- 主要通用帳戶包含公司的法律公司位址和主要連絡人。 
-- 從 [合作夥伴設定-> 合作夥伴設定檔] 查看主要通用帳戶的詳細資料。
-- 詳細資料也會包含主要通用帳戶 MPN 識別碼。 
+- 合作夥伴通用帳戶包含公司的法律公司位址和主要連絡人。 
+- 從 [合作夥伴設定-> 合作夥伴設定檔]，查看合作夥伴通用帳戶的詳細資料。
+- 詳細資料也會包含合作夥伴通用帳戶的 MPN 識別碼。 
 - PGA 是貴公司的父系，並不會用來與獎勵方案或雲端解決方案提供者產生關聯。 
 - 位置應該用於這類關聯。
 
@@ -46,7 +46,7 @@ ms.locfileid: "74722316"
 
 - 每個合作夥伴位置帳戶都可以有自己的合法位址和主要連絡人。 位置也可以與通用帳戶或其他位置共用合法位址。
 - 從 [合作夥伴設定-> 位置] 中，查看合作夥伴位置帳戶的清單。
-- 所有位置帳戶都位於相同層級，且位於主要通用帳戶之下。
+- 所有位置帳戶都位於相同層級和合作夥伴通用帳戶之下。
 - 帳戶管理員可以新增或移除位置。
 
 ![帳戶結構](images/accountstructure.png)

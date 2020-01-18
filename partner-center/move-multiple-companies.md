@@ -1,20 +1,20 @@
 ---
 title: 將多家公司從 PMC 移轉至合作夥伴中心指南 | 合作夥伴中心
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 01/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 當您將多家公司從 PMC 遷移至合作夥伴中心，並將其合併至主要通用帳戶時，要知道的事項。
+description: 當您將多家公司從 PMC 遷移至合作夥伴中心，並將其合併到合作夥伴的通用帳戶時，要知道的事項。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 86648df24680fb0a5d9b7b494fdcf1110fec26c8
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 574b0fc08984f12d5bfc869c52dcc8ef56417af7
+ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004687"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "76171211"
 ---
 # <a name="moving-your-multiple-companies-to-partner-center"></a>從多家公司移到合作夥伴中心
 
@@ -24,7 +24,7 @@ ms.locfileid: "75004687"
 -   系統管理代理人
 -   銷售代理人
 
-將公司帳戶從 PMC 移至合作夥伴中心時，您可能會移動數個帳戶。 在合作夥伴中心，這些帳戶會彙總到一個全域帳戶 (PGA)。 您移動的第一個帳戶會被視為主要全域帳戶，而所有後續的帳戶將會彙總至第一個帳戶作為位置。 使用您公司總部的 PMC 帳戶開始移動。 如需詳細資訊，請參閱[從 PMC 移轉至合作夥伴中心指南](guide-to-migration.md)，或觀看這段短片：[多位置帳戶很方便](https://vimeo.com/290335248)。
+將公司帳戶從 PMC 移至合作夥伴中心時，您可能會移動數個帳戶。 在合作夥伴中心，這些帳戶會彙總到一個全域帳戶 (PGA)。 您要移動的第一個帳戶會被視為合作夥伴通用帳戶，而所有後續的帳戶將會合並到第一個帳戶作為位置。 使用您公司總部的 PMC 帳戶開始移動。 如需詳細資訊，請參閱[從 PMC 移轉至合作夥伴中心指南](guide-to-migration.md)，或觀看這段短片：[多位置帳戶很方便](https://vimeo.com/290335248)。
 
 ## <a name="move-your-additional-accounts-into-partner-center"></a>將您的其他帳戶移至合作夥伴中心 
 
@@ -90,7 +90,7 @@ ms.locfileid: "75004687"
 
 - [從 PMC 移到合作夥伴中心](move-pmc-pc-map.md)
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [建立使用者帳戶](create-user-accounts-and-set-permissions.md)
 - [指派使用者角色和權限](permissions-overview.md)
