@@ -121,7 +121,7 @@
 ## [為客戶建立多個使用者](adding-multiple-users-to-a-customer-account.md)
 ## [指派支援連絡人](assign-support-contacts.md)
 
-# [雲端解決方案提供者優惠方案](csp-offers.md)
+# [雲端解決方案提供者優惠方案](csp-offers.md) 
 ## 商務 Marketplace
 ### [商務 Marketplace 概觀](csp-commercial-marketplace-overview.md)
 ### [探索 Marketplace 供應項目](csp-commercial-marketplace-discover.md)
@@ -135,7 +135,8 @@
 ### [代表您的客戶購買 Microsoft Azure Reservations](azure-reservations-buying.md)
 ### [代表您的客戶管理 Microsoft Azure Reservations](azure-reservations-manage.md)
 ### [Azure 保留的 VM 執行個體 (RI) + 伺服器訂閱](azure-ri-server-subscriptions.md)
-## [Azure 方案 - 開始使用](azure-plan-get-started.md)
+## [Azure 方案](azure-plan-lp.md)
+### [Azure 方案 - 開始使用](azure-plan-get-started.md)
 ### [購買 Azure 方案](purchase-azure-plan.md)
 ### [比較 Azure 供應項目](compare-azure-offers.md)
 ### [將您的客戶轉換為 Azure 方案](azure-plan-transition.md)
