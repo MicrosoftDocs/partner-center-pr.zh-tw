@@ -37,6 +37,7 @@
 ## [雲端解決方案提供者合作夥伴的 Microsoft 合作夥伴合約](microsoft-partner-agreement.md)
 ## [雲端解決方案提供者直接合作夥伴的新需求](direct-partner-new-requirements.md)
 ## [依地區和語言的 Microsoft Cloud 合約](agreements.md)
+## [受限制的直接計費功能](restricted-direct-bill-capabilities.md)
 ## [從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商](transition-direct-to-indirect.md)
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
 ## [CSP 地區市場及貨幣](regional-authorization-overview.md)

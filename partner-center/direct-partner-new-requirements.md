@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 雲端解決方案提供者, 直接合作夥伴, 直接帳單, 需求
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 64015b298618ef7292433f0aedb5016ef83c1905
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253585"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860459"
 ---
 # <a name="csp-direct-bill-partner-new-requirements"></a>CSP 直接帳單合作夥伴的新需求
 
@@ -50,9 +50,11 @@ ms.locfileid: "74253585"
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>從 direct 轉換至間接轉銷商
 
+目前的直接帳單合作夥伴必須符合新的需求，才能繼續進行 CSP 直接帳單合作夥伴計畫。 否則，其[直接帳單功能的存取權最終會受到限制](restricted-direct-bill-capabilities.md)，而且可能會更長的時間執行特定工作，例如為客戶進行新的購買。 
+
 如果您決定從直接帳單企業移至間接轉銷商企業，您必須採取幾個步驟。 若要深入瞭解如何轉換，請參閱[從雲端解決方案提供者（CSP）直接合作夥伴至 CSP 間接轉銷商](transition-direct-to-indirect.md)。 
 
-## <a name="see-also"></a>另請參閱
+## <a name="see-also"></a>請參閱
 
 - [有關成為間接轉銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [直接帳單至間接轉銷商常見問題](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
