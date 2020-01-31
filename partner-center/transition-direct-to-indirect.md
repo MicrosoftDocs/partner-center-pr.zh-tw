@@ -9,196 +9,309 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帳單、轉換、間接轉銷商
-ms.openlocfilehash: 29a0f4951cac271d0b74a9a5fc3685c5ffb96b32
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
+ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651233"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76860481"
 ---
-# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a><span data-ttu-id="a1e19-104">從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商</span><span class="sxs-lookup"><span data-stu-id="a1e19-104">Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller</span></span> 
+# <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a><span data-ttu-id="8cb9b-104">從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商</span><span class="sxs-lookup"><span data-stu-id="8cb9b-104">Transition from Cloud Solution Provider (CSP) direct bill partner to CSP indirect reseller</span></span> 
 
-<span data-ttu-id="a1e19-105">**適用於：**</span><span class="sxs-lookup"><span data-stu-id="a1e19-105">**Applies to:**</span></span>
+<span data-ttu-id="8cb9b-105">**適用於：**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-105">**Applies to:**</span></span>
 
- - <span data-ttu-id="a1e19-106">雲端解決方案提供者合作夥伴</span><span class="sxs-lookup"><span data-stu-id="a1e19-106">CSP partners</span></span>
+ - <span data-ttu-id="8cb9b-106">雲端解決方案提供者合作夥伴</span><span class="sxs-lookup"><span data-stu-id="8cb9b-106">CSP partners</span></span>
 
 >[!Note] 
-><span data-ttu-id="a1e19-107">本文適用于已決定轉換為間接轉銷商的直接帳單合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="a1e19-107">This article is intended for direct bill partners who have decided to transition to indirect resellers.</span></span> 
+><span data-ttu-id="8cb9b-107">本文適用于已決定轉換為間接轉銷商的直接帳單合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-107">This article is intended for direct bill partners who have decided to transition to indirect resellers.</span></span> <span data-ttu-id="8cb9b-108">不過，即使您尚未做出明確的決策以間接轉銷商的身分進行註冊，Microsoft 將會在其[直接帳單功能受到限制](restricted-direct-bill-capabilities.md)時，通知不符合 CSP 直接帳單合作夥伴計畫之新[需求](direct-partner-new-requirements.md)的直接帳單合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-108">However, even if you have not made an explicit decision yet to enroll as an indirect reseller, direct bill partners who do not meet the new [requirements](direct-partner-new-requirements.md) for the CSP direct bill partner program will be informed by Microsoft when their [direct bill capabilities will be restricted](restricted-direct-bill-capabilities.md).</span></span> 
 
-<span data-ttu-id="a1e19-108">您將能夠使用現有的直接帳單租使用者註冊間接轉銷商計畫。</span><span class="sxs-lookup"><span data-stu-id="a1e19-108">You will be able to enroll in the indirect reseller program using your existing direct bill tenant.</span></span> 
+<span data-ttu-id="8cb9b-109">您將能夠使用現有的直接帳單租使用者註冊間接轉銷商計畫。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-109">You will be able to enroll in the indirect reseller program using your existing direct bill tenant.</span></span> 
 
-## <a name="get-started"></a><span data-ttu-id="a1e19-109">入門</span><span class="sxs-lookup"><span data-stu-id="a1e19-109">Get started</span></span>
+## <a name="get-started"></a><span data-ttu-id="8cb9b-110">入門</span><span class="sxs-lookup"><span data-stu-id="8cb9b-110">Get started</span></span>
 
-1. <span data-ttu-id="a1e19-110">請確定合作夥伴中心和 MPN 識別碼中的夥伴設定檔是最新的。</span><span class="sxs-lookup"><span data-stu-id="a1e19-110">Make sure your partner profile in Partner Center and MPN ID are current.</span></span>
+1. <span data-ttu-id="8cb9b-111">請確定合作夥伴中心和 MPN 識別碼中的夥伴設定檔是最新的。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-111">Make sure your partner profile in Partner Center and MPN ID are current.</span></span>
 
-2. <span data-ttu-id="a1e19-111">以您要轉換至間接轉銷商的直接帳單租使用者的全域管理員身分登入合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="a1e19-111">Sign in to Partner Center as the global admin for the direct bill tenant you are transitioning to indirect reseller.</span></span>
+2. <span data-ttu-id="8cb9b-112">以您要轉換至間接轉銷商的直接帳單租使用者的全域管理員身分登入合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-112">Sign in to Partner Center as the global admin for the direct bill tenant you are transitioning to indirect reseller.</span></span>
 
 ![概觀](images/direct/direct1.png) 
 
-3. <span data-ttu-id="a1e19-113">請在註冊表單上查看您的合作夥伴詳細資料。</span><span class="sxs-lookup"><span data-stu-id="a1e19-113">Review your partner details on the enrollment form.</span></span>
+3. <span data-ttu-id="8cb9b-114">請在註冊表單上查看您的合作夥伴詳細資料。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-114">Review your partner details on the enrollment form.</span></span>
 
 ![立即註冊](images/direct/direct2a.png) 
 
-4. <span data-ttu-id="a1e19-115">選取 [立即註冊]。</span><span class="sxs-lookup"><span data-stu-id="a1e19-115">Select Enroll now.</span></span> <span data-ttu-id="a1e19-116">您的間接轉銷商業務將使用您用於直接業務的相同 AAD 租使用者。</span><span class="sxs-lookup"><span data-stu-id="a1e19-116">Your indirect reseller business will use the same AAD tenant you use for your direct business.</span></span>
+4. <span data-ttu-id="8cb9b-116">選取 [立即註冊]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-116">Select Enroll now.</span></span> <span data-ttu-id="8cb9b-117">您的間接轉銷商業務將使用您用於直接業務的相同 AAD 租使用者。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-117">Your indirect reseller business will use the same AAD tenant you use for your direct business.</span></span>
 
 >[!Note]
-><span data-ttu-id="a1e19-117">一開始，這項新轉換功能將在9月到12月的日期前提供給合作夥伴使用。</span><span class="sxs-lookup"><span data-stu-id="a1e19-117">Initially, this new transition capability will be available for partners with September to December anniversary dates.</span></span> <span data-ttu-id="a1e19-118">如果您沒有在9月和12月之間的週年日，就不會看到這項功能。</span><span class="sxs-lookup"><span data-stu-id="a1e19-118">If you don"t have an anniversary date between September and December, you won't see the capability at this time.</span></span> <span data-ttu-id="a1e19-119">當合作夥伴啟用此功能之後，將會在2018年12月之後收到年度日期的合作夥伴通知。</span><span class="sxs-lookup"><span data-stu-id="a1e19-119">Partners with anniversary dates after December 2018 will be notified later once the feature is enabled for the partners.</span></span>
+><span data-ttu-id="8cb9b-118">一開始，這項新轉換功能將在9月到12月的日期前提供給合作夥伴使用。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-118">Initially, this new transition capability will be available for partners with September to December anniversary dates.</span></span> <span data-ttu-id="8cb9b-119">如果您沒有在9月和12月之間的週年日，就不會看到這項功能。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-119">If you don"t have an anniversary date between September and December, you won't see the capability at this time.</span></span> <span data-ttu-id="8cb9b-120">當合作夥伴啟用此功能之後，將會在2018年12月之後收到年度日期的合作夥伴通知。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-120">Partners with anniversary dates after December 2018 will be notified later once the feature is enabled for the partners.</span></span>
 
 
-5. <span data-ttu-id="a1e19-120">當您的註冊獲得核准後，再次登入合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="a1e19-120">When your enrollment is approved, sign in to Partner Center again.</span></span>
+5. <span data-ttu-id="8cb9b-121">當您的註冊獲得核准後，再次登入合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-121">When your enrollment is approved, sign in to Partner Center again.</span></span>
 
 >[!Note]
-> <span data-ttu-id="a1e19-121">雖然核准通常是立即的，但最多可能需要五個工作天。</span><span class="sxs-lookup"><span data-stu-id="a1e19-121">While approval is usually immediate, it can take up to five business days.</span></span> <span data-ttu-id="a1e19-122">一經核准，您就會收到通知，指向您在註冊表單的 [主要連絡人] 底下指定的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="a1e19-122">Once approved, you will receive a notification to the email address you have specified under primary contact in the enrollment form.</span></span> <span data-ttu-id="a1e19-123">您也可以在 **設定** > 合作夥伴**設定** > **合作夥伴設定檔** > 方案資訊 底下，檢查註冊狀態。</span><span class="sxs-lookup"><span data-stu-id="a1e19-123">You can also check your enrollment status under **Settings** > **Partner Settings** > **Partner Profile** > Program info.</span></span> 
+> <span data-ttu-id="8cb9b-122">雖然核准通常是立即的，但最多可能需要五個工作天。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-122">While approval is usually immediate, it can take up to five business days.</span></span> <span data-ttu-id="8cb9b-123">一經核准，您就會收到通知，指向您在註冊表單的 [主要連絡人] 底下指定的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-123">Once approved, you will receive a notification to the email address you have specified under primary contact in the enrollment form.</span></span> <span data-ttu-id="8cb9b-124">您也可以在 **設定** > 合作夥伴**設定** > **合作夥伴設定檔** > 方案資訊 底下，檢查註冊狀態。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-124">You can also check your enrollment status under **Settings** > **Partner Settings** > **Partner Profile** > Program info.</span></span> 
 
-6. <span data-ttu-id="a1e19-124">在您的 **[總覽**] 頁面上，您會看到間接轉銷商合約。</span><span class="sxs-lookup"><span data-stu-id="a1e19-124">On your **Overview** page, you will see the indirect reseller agreement.</span></span> <span data-ttu-id="a1e19-125">選取 **\[接受並繼續\]** 。</span><span class="sxs-lookup"><span data-stu-id="a1e19-125">Select **Accept and continue**.</span></span> <span data-ttu-id="a1e19-126">這會啟用間接轉銷商功能。</span><span class="sxs-lookup"><span data-stu-id="a1e19-126">This enables the indirect reseller capabilities.</span></span>
+6. <span data-ttu-id="8cb9b-125">在您的 **[總覽**] 頁面上，您會看到間接轉銷商合約。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-125">On your **Overview** page, you will see the indirect reseller agreement.</span></span> <span data-ttu-id="8cb9b-126">選取 **\[接受並繼續\]** 。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-126">Select **Accept and continue**.</span></span> <span data-ttu-id="8cb9b-127">這會啟用間接轉銷商功能。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-127">This enables the indirect reseller capabilities.</span></span>
 
-<span data-ttu-id="a1e19-127">當您接受間接轉銷商合約時，請注意，您的夥伴設定檔**會將您識別為直接**帳單和間接轉銷商。</span><span class="sxs-lookup"><span data-stu-id="a1e19-127">When you have accepted the indirect reseller agreement, notice that your Partner profile identifies you as **both** a direct bill and indirect reseller.</span></span>
+<span data-ttu-id="8cb9b-128">當您接受間接轉銷商合約時，請注意，您的夥伴設定檔**會將您識別為直接**帳單和間接轉銷商。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-128">When you have accepted the indirect reseller agreement, notice that your Partner profile identifies you as **both** a direct bill and indirect reseller.</span></span>
 
 ![間接轉銷商合約](images/direct/direct3.png)
 
 >[!Important] 
-><span data-ttu-id="a1e19-129">當您使用新功能註冊為間接轉銷商後，就不會有任何選項可以回復為直接帳單的租使用者。</span><span class="sxs-lookup"><span data-stu-id="a1e19-129">Once you enroll as an indirect reseller using the new capability, there is no option to roll back to a direct bill- only tenant.</span></span> <span data-ttu-id="a1e19-130">註冊為間接轉銷商之前，請確定您已完整評估您的商務需求。</span><span class="sxs-lookup"><span data-stu-id="a1e19-130">Please make sure that you fully evaluate your business needs before enrolling as an indirect reseller.</span></span>
+><span data-ttu-id="8cb9b-130">當您使用新功能註冊為間接轉銷商後，就不會有任何選項可以回復為直接帳單的租使用者。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-130">Once you enroll as an indirect reseller using the new capability, there is no option to roll back to a direct bill- only tenant.</span></span> <span data-ttu-id="8cb9b-131">註冊為間接轉銷商之前，請確定您已完整評估您的商務需求。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-131">Please make sure that you fully evaluate your business needs before enrolling as an indirect reseller.</span></span>
 
-## <a name="while-you-transition-from-direct-to-indirect-reseller"></a><span data-ttu-id="a1e19-131">當您從直接轉移至間接轉銷商</span><span class="sxs-lookup"><span data-stu-id="a1e19-131">While you transition from direct to indirect reseller</span></span>
+## <a name="while-you-transition-from-direct-to-indirect-reseller"></a><span data-ttu-id="8cb9b-132">當您從直接轉移至間接轉銷商</span><span class="sxs-lookup"><span data-stu-id="8cb9b-132">While you transition from direct to indirect reseller</span></span>
 
-<span data-ttu-id="a1e19-132">在此階段中，您將繼續管理直接客戶的訂用帳戶需求，包括計費程式。</span><span class="sxs-lookup"><span data-stu-id="a1e19-132">During this phase you will continue to manage your direct customers' subscription needs including the billing process.</span></span> <span data-ttu-id="a1e19-133">您也可以開始接受間接提供者的客戶，並以間接轉銷商的身分操作。</span><span class="sxs-lookup"><span data-stu-id="a1e19-133">You can also begin accepting customers from your Indirect provider and operating as an indirect reseller.</span></span>
+<span data-ttu-id="8cb9b-133">在此階段中，您將繼續管理直接客戶的訂用帳戶需求，包括計費程式。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-133">During this phase you will continue to manage your direct customers' subscription needs including the billing process.</span></span> <span data-ttu-id="8cb9b-134">您也可以開始接受間接提供者的客戶，並以間接轉銷商的身分操作。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-134">You can also begin accepting customers from your Indirect provider and operating as an indirect reseller.</span></span>
 
 ![您同時是直接帳單和間接轉銷商](images/direct/direct4.png)
 
-## <a name="find-an-indirect-provider"></a><span data-ttu-id="a1e19-135">尋找間接提供者</span><span class="sxs-lookup"><span data-stu-id="a1e19-135">Find an indirect provider</span></span>
+## <a name="find-an-indirect-provider"></a><span data-ttu-id="8cb9b-136">尋找間接提供者</span><span class="sxs-lookup"><span data-stu-id="8cb9b-136">Find an indirect provider</span></span>
 
-<span data-ttu-id="a1e19-136">註冊後，間接提供者的連結會出現在左側導覽中。</span><span class="sxs-lookup"><span data-stu-id="a1e19-136">After enrolling, a link to Indirect providers will appear in your left nav.</span></span> <span data-ttu-id="a1e19-137">身為間接轉銷商，您將建立與間接提供者的關聯性，然後可以處理您的帳單、為您的客戶購買產品，以及支援基礎結構。</span><span class="sxs-lookup"><span data-stu-id="a1e19-137">As an indirect reseller you will establish a relationship with an indirect provider who then can handle your billing, purchase products for your customers, and support infrastructure.</span></span>
+<span data-ttu-id="8cb9b-137">註冊後，間接提供者的連結會出現在左側導覽中。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-137">After enrolling, a link to Indirect providers will appear in your left nav.</span></span> <span data-ttu-id="8cb9b-138">身為間接轉銷商，您將建立與間接提供者的關聯性，然後可以處理您的帳單、為您的客戶購買產品，以及支援基礎結構。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-138">As an indirect reseller you will establish a relationship with an indirect provider who then can handle your billing, purchase products for your customers, and support infrastructure.</span></span>
 
-<span data-ttu-id="a1e19-138">不同間接提供不同支援和服務，因此您應該評估當地提供者，以判斷何者最符合需求。</span><span class="sxs-lookup"><span data-stu-id="a1e19-138">Different indirect providers offer different support and services, so you should evaluate the providers in your area to determine which ones best meet your needs.</span></span> <span data-ttu-id="a1e19-139">一般而言，大部分提供者會：</span><span class="sxs-lookup"><span data-stu-id="a1e19-139">Generally, most providers will:</span></span> 
+<span data-ttu-id="8cb9b-139">不同間接提供不同支援和服務，因此您應該評估當地提供者，以判斷何者最符合需求。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-139">Different indirect providers offer different support and services, so you should evaluate the providers in your area to determine which ones best meet your needs.</span></span> <span data-ttu-id="8cb9b-140">一般而言，大部分提供者會：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-140">Generally, most providers will:</span></span> 
 
-- <span data-ttu-id="a1e19-140">為您提技術訓練與協助</span><span class="sxs-lookup"><span data-stu-id="a1e19-140">Provide you with technical training and assistance</span></span>
-- <span data-ttu-id="a1e19-141">協助您行銷產品及服務</span><span class="sxs-lookup"><span data-stu-id="a1e19-141">Help you market your products and services</span></span> 
-- <span data-ttu-id="a1e19-142">管理您的財務和信用額度</span><span class="sxs-lookup"><span data-stu-id="a1e19-142">Manage your financing and credit terms</span></span> 
+- <span data-ttu-id="8cb9b-141">為您提技術訓練與協助</span><span class="sxs-lookup"><span data-stu-id="8cb9b-141">Provide you with technical training and assistance</span></span>
+- <span data-ttu-id="8cb9b-142">協助您行銷產品及服務</span><span class="sxs-lookup"><span data-stu-id="8cb9b-142">Help you market your products and services</span></span> 
+- <span data-ttu-id="8cb9b-143">管理您的財務和信用額度</span><span class="sxs-lookup"><span data-stu-id="8cb9b-143">Manage your financing and credit terms</span></span> 
 
-<span data-ttu-id="a1e19-143">搜尋官方的[Microsoft 間接提供者](https://partnercenter.microsoft.com/partner/find-a-provider)清單。</span><span class="sxs-lookup"><span data-stu-id="a1e19-143">Search the list of official [Microsoft indirect providers](https://partnercenter.microsoft.com/partner/find-a-provider).</span></span>
+<span data-ttu-id="8cb9b-144">搜尋官方的[Microsoft 間接提供者](https://partnercenter.microsoft.com/partner/find-a-provider)清單。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-144">Search the list of official [Microsoft indirect providers](https://partnercenter.microsoft.com/partner/find-a-provider).</span></span>
 
-<span data-ttu-id="a1e19-144">深入瞭解，請參閱[合作夥伴與間接提供者](indirect-reseller-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="a1e19-144">Learn more, read  [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
+<span data-ttu-id="8cb9b-145">深入瞭解，請參閱[合作夥伴與間接提供者](indirect-reseller-tasks-in-partner-center.md)</span><span class="sxs-lookup"><span data-stu-id="8cb9b-145">Learn more, read  [Partner with indirect providers](indirect-reseller-tasks-in-partner-center.md)</span></span>
 
-## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a><span data-ttu-id="a1e19-145">接受間接提供者的合作邀請</span><span class="sxs-lookup"><span data-stu-id="a1e19-145">Accept a partnership invitation from your indirect provider</span></span>
+## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a><span data-ttu-id="8cb9b-146">接受間接提供者的合作邀請</span><span class="sxs-lookup"><span data-stu-id="8cb9b-146">Accept a partnership invitation from your indirect provider</span></span>
 
-<span data-ttu-id="a1e19-146">當您找到與合作夥伴合作的間接提供者時，請與合作夥伴中心內的間接提供者建立合作關係。</span><span class="sxs-lookup"><span data-stu-id="a1e19-146">When you find an indirect provider to partner with, establish a partnership with the indirect provider in Partner Center.</span></span>
+<span data-ttu-id="8cb9b-147">當您找到與合作夥伴合作的間接提供者時，請與合作夥伴中心內的間接提供者建立合作關係。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-147">When you find an indirect provider to partner with, establish a partnership with the indirect provider in Partner Center.</span></span>
 
-<span data-ttu-id="a1e19-147">您選取的間接提供者會透過電子郵件傳送合作夥伴邀請連結，讓您前往合作夥伴中心的邀請。</span><span class="sxs-lookup"><span data-stu-id="a1e19-147">The indirect provider you select will send you in email a partnership invitation link that will take you to their invitation in Partner Center.</span></span> <span data-ttu-id="a1e19-148">請確定您的全域管理員登入合作夥伴中心，並遵循邀請連結。</span><span class="sxs-lookup"><span data-stu-id="a1e19-148">Be sure your global admin signs in to Partner Center and follows the invitation link.</span></span> <span data-ttu-id="a1e19-149">當您接受邀請時，提供者的名稱將會出現在您的間接提供者清單中。</span><span class="sxs-lookup"><span data-stu-id="a1e19-149">When you accept the invitation, the provider's name will appear in your indirect provider list.</span></span>
+<span data-ttu-id="8cb9b-148">您選取的間接提供者會透過電子郵件傳送合作夥伴邀請連結，讓您前往合作夥伴中心的邀請。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-148">The indirect provider you select will send you in email a partnership invitation link that will take you to their invitation in Partner Center.</span></span> <span data-ttu-id="8cb9b-149">請確定您的全域管理員登入合作夥伴中心，並遵循邀請連結。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-149">Be sure your global admin signs in to Partner Center and follows the invitation link.</span></span> <span data-ttu-id="8cb9b-150">當您接受邀請時，提供者的名稱將會出現在您的間接提供者清單中。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-150">When you accept the invitation, the provider's name will appear in your indirect provider list.</span></span>
 
-## <a name="acquire-new-customers-as-indirect-reseller"></a><span data-ttu-id="a1e19-150">以間接轉銷商的身分取得新客戶</span><span class="sxs-lookup"><span data-stu-id="a1e19-150">Acquire new customers as indirect reseller</span></span>
+## <a name="acquire-new-customers-as-indirect-reseller"></a><span data-ttu-id="8cb9b-151">以間接轉銷商的身分取得新客戶</span><span class="sxs-lookup"><span data-stu-id="8cb9b-151">Acquire new customers as indirect reseller</span></span>
 
-<span data-ttu-id="a1e19-151">您和您的間接提供者都需要與客戶建立轉銷商關係。</span><span class="sxs-lookup"><span data-stu-id="a1e19-151">Both you and your indirect provider need to have reseller relationships with customers.</span></span> <span data-ttu-id="a1e19-152">這可讓您代表其管理客戶的訂用帳戶和服務。</span><span class="sxs-lookup"><span data-stu-id="a1e19-152">This enables you to manage a customer's subscriptions and services on their behalf.</span></span> <span data-ttu-id="a1e19-153">若要取得具有現有 Azure AD 租使用者的新客戶，您可以邀請客戶同時與您和您的提供者建立轉銷商關係。</span><span class="sxs-lookup"><span data-stu-id="a1e19-153">To acquire a new customer who has an existing Azure AD tenant, you can invite the customer to establish a reseller relationship with both you and your provider at the same time.</span></span> 
+<span data-ttu-id="8cb9b-152">您和您的間接提供者都需要與客戶建立轉銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-152">Both you and your indirect provider need to have reseller relationships with customers.</span></span> <span data-ttu-id="8cb9b-153">這可讓您代表其管理客戶的訂用帳戶和服務。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-153">This enables you to manage a customer's subscriptions and services on their behalf.</span></span> <span data-ttu-id="8cb9b-154">若要取得具有現有 Azure AD 租使用者的新客戶，您可以邀請客戶同時與您和您的提供者建立轉銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-154">To acquire a new customer who has an existing Azure AD tenant, you can invite the customer to establish a reseller relationship with both you and your provider at the same time.</span></span> 
 
-<span data-ttu-id="a1e19-154">若要建立間接轉銷商邀請：</span><span class="sxs-lookup"><span data-stu-id="a1e19-154">To create an indirect reseller invitation:</span></span>
+<span data-ttu-id="8cb9b-155">若要建立間接轉銷商邀請：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-155">To create an indirect reseller invitation:</span></span>
 
-1. <span data-ttu-id="a1e19-155">從您的合作夥伴中心左側導覽選取 [**間接提供者**]。</span><span class="sxs-lookup"><span data-stu-id="a1e19-155">Select **Indirect providers** from your Partner Center left nav.</span></span> 
+1. <span data-ttu-id="8cb9b-156">從您的合作夥伴中心左側導覽選取 [**間接提供者**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-156">Select **Indirect providers** from your Partner Center left nav.</span></span> 
 
-2. <span data-ttu-id="a1e19-156">選取 [邀請新客戶] 以邀請客戶同時與您及間接提供者建立經銷商關係。</span><span class="sxs-lookup"><span data-stu-id="a1e19-156">Select **Invite new customers** to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time.</span></span> <span data-ttu-id="a1e19-157">提供者必須與您的客戶有轉銷商關係，因此當客戶想要購買新的訂用帳戶或將新的授權新增至現有的訂用帳戶時，他們可以代表您的客戶提交訂單。</span><span class="sxs-lookup"><span data-stu-id="a1e19-157">The provider needs to have a reseller relationship with your customer, so they can submit orders on your customer's behalf when the customer wants to buy new subscriptions or add new licenses to existing subscriptions.</span></span>
+2. <span data-ttu-id="8cb9b-157">選取 [邀請新客戶] 以邀請客戶同時與您及間接提供者建立經銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-157">Select **Invite new customers** to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time.</span></span> <span data-ttu-id="8cb9b-158">提供者必須與您的客戶有轉銷商關係，因此當客戶想要購買新的訂用帳戶或將新的授權新增至現有的訂用帳戶時，他們可以代表您的客戶提交訂單。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-158">The provider needs to have a reseller relationship with your customer, so they can submit orders on your customer's behalf when the customer wants to buy new subscriptions or add new licenses to existing subscriptions.</span></span>
 
-3. <span data-ttu-id="a1e19-158">在下一頁，複查草稿電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="a1e19-158">On the next page, review the draft email message.</span></span> <span data-ttu-id="a1e19-159">您可以透過電子郵件開啟草稿訊息，或將郵件複製到剪貼簿，然後貼到電子郵件中。</span><span class="sxs-lookup"><span data-stu-id="a1e19-159">You can open the draft message in email, or you can copy the message to your clipboard and paste it into an email.</span></span>
+3. <span data-ttu-id="8cb9b-159">在下一頁，複查草稿電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-159">On the next page, review the draft email message.</span></span> <span data-ttu-id="8cb9b-160">您可以透過電子郵件開啟草稿訊息，或將郵件複製到剪貼簿，然後貼到電子郵件中。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-160">You can open the draft message in email, or you can copy the message to your clipboard and paste it into an email.</span></span>
 
-4. <span data-ttu-id="a1e19-160">編輯電子郵件中的文字以表達您所需的內容，但請務必包含連結，因為它是個人化的，可將客戶直接連線到您的帳戶和提供者的帳戶。</span><span class="sxs-lookup"><span data-stu-id="a1e19-160">Edit the text in the email to say what you need but be sure to include the link as it is personalized to connect the customer directly to both your account and your provider's account.</span></span> <span data-ttu-id="a1e19-161">然後選取 [**完成**]。</span><span class="sxs-lookup"><span data-stu-id="a1e19-161">Then select **Done**.</span></span>
+4. <span data-ttu-id="8cb9b-161">編輯電子郵件中的文字以表達您所需的內容，但請務必包含連結，因為它是個人化的，可將客戶直接連線到您的帳戶和提供者的帳戶。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-161">Edit the text in the email to say what you need but be sure to include the link as it is personalized to connect the customer directly to both your account and your provider's account.</span></span> <span data-ttu-id="8cb9b-162">然後選取 [**完成**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-162">Then select **Done**.</span></span>
 
-5. <span data-ttu-id="a1e19-162">在客戶授權您和您的提供者成為記錄的轉售商之後，您將會有系統管理員許可權代表其管理其訂用帳戶、授權和使用者，而您的間接提供者將能夠代表他們提交訂單。</span><span class="sxs-lookup"><span data-stu-id="a1e19-162">After the customer authorizes you and your provider to be their resellers of record, you'll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.</span></span>
-6. <span data-ttu-id="a1e19-163">若要管理客戶的帳戶、服務、使用者和授權，請選取其名稱旁邊的向下箭號，以展開客戶的記錄。</span><span class="sxs-lookup"><span data-stu-id="a1e19-163">To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name.</span></span> 
+5. <span data-ttu-id="8cb9b-163">客戶授權您和您的提供者成為其記錄可查經銷商之後，您就會有系統管理員權限，可代表他們管理其訂閱、授權和使用者，並且間接提供者可代表他們提交訂單。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-163">After the customer authorizes you and your provider to be their resellers of record, you'll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.</span></span>
+6. <span data-ttu-id="8cb9b-164">若要管理客戶的帳戶、服務、使用者及授權，請選取客戶名稱旁邊的向下箭頭以展開其記錄。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-164">To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name.</span></span> 
 
-<span data-ttu-id="a1e19-164">與直接帳單合作夥伴不同的是，間接轉銷商無法為合作夥伴中心內的新客戶建立 Azure AD 租使用者。</span><span class="sxs-lookup"><span data-stu-id="a1e19-164">Unlike direct bill partners, indirect resellers can't create Azure AD tenants for their new customers in Partner Center.</span></span> <span data-ttu-id="a1e19-165">您的提供者會建立租使用者，並將您指定為此客戶的間接轉銷商。</span><span class="sxs-lookup"><span data-stu-id="a1e19-165">Your provider will create the tenant and will specify you as the indirect reseller for this customer.</span></span> <span data-ttu-id="a1e19-166">這可確保客戶會出現在合作夥伴中心的客戶清單中。</span><span class="sxs-lookup"><span data-stu-id="a1e19-166">This ensures that the customer will appear in your customer list in Partner Center.</span></span>
+<span data-ttu-id="8cb9b-165">與直接帳單合作夥伴不同的是，間接轉銷商無法為合作夥伴中心內的新客戶建立 Azure AD 租使用者。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-165">Unlike direct bill partners, indirect resellers can't create Azure AD tenants for their new customers in Partner Center.</span></span> <span data-ttu-id="8cb9b-166">您的提供者會建立租使用者，並將您指定為此客戶的間接轉銷商。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-166">Your provider will create the tenant and will specify you as the indirect reseller for this customer.</span></span> <span data-ttu-id="8cb9b-167">這可確保客戶會出現在合作夥伴中心的客戶清單中。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-167">This ensures that the customer will appear in your customer list in Partner Center.</span></span>
 
 >[!Note]
-><span data-ttu-id="a1e19-167">您將無法使用您的直接帳單功能，為您取得作為間接轉銷商的客戶建立購買專案。</span><span class="sxs-lookup"><span data-stu-id="a1e19-167">You will not be able to use your direct bill capability to create purchases for customers you acquire as an indirect reseller.</span></span>
+><span data-ttu-id="8cb9b-168">您將無法使用您的直接帳單功能，為您取得作為間接轉銷商的客戶建立購買專案。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-168">You will not be able to use your direct bill capability to create purchases for customers you acquire as an indirect reseller.</span></span>
 
-## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a><span data-ttu-id="a1e19-168">將您的直接帳單客戶移至您的間接提供者</span><span class="sxs-lookup"><span data-stu-id="a1e19-168">Move your direct bill customers to your indirect provider</span></span>
+## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a><span data-ttu-id="8cb9b-169">管理您的直接帳單客戶和間接轉銷商客戶</span><span class="sxs-lookup"><span data-stu-id="8cb9b-169">Managing your direct bill customers and your indirect reseller customers</span></span>
 
-<span data-ttu-id="a1e19-169">您的間接提供者無法提交現有直接帳單客戶的訂單，直到他們與他們有轉銷商關係為止。</span><span class="sxs-lookup"><span data-stu-id="a1e19-169">Your indirect provider can't submit orders for your existing direct bill customers until they have a reseller relationship with them.</span></span> <span data-ttu-id="a1e19-170">若要在現有客戶與間接提供者之間建立轉銷商關係，請使用間接轉銷商邀請邀請客戶。</span><span class="sxs-lookup"><span data-stu-id="a1e19-170">To establish the reseller relationship between your existing customers and your indirect provider, invite the customer using an indirect reseller invitation.</span></span> 
+<span data-ttu-id="8cb9b-170">您以不同的方式管理您的直接帳單客戶和間接轉銷商客戶。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-170">You manage your direct bill customers and your indirect reseller customers differently.</span></span> 
 
-1. <span data-ttu-id="a1e19-171">從您的合作夥伴中心左側導覽選取 [**間接提供者**]。</span><span class="sxs-lookup"><span data-stu-id="a1e19-171">Select **Indirect providers** from your Partner Center left nav.</span></span>
+<span data-ttu-id="8cb9b-171">**直接帳單客戶（不會做為間接轉銷商的專案）**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-171">**Direct bill customers (things you won't do as an indirect reseller)**</span></span>
 
-2. <span data-ttu-id="a1e19-172">選取 [**邀請新客戶**邀請客戶，同時與您和間接提供者建立轉銷商關係]。</span><span class="sxs-lookup"><span data-stu-id="a1e19-172">Select **Invite new customers**  to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time.</span></span> <span data-ttu-id="a1e19-173">提供者必須與您的客戶有轉銷商關係，因此當客戶想要購買新的訂用帳戶或將新的授權新增至現有的訂用帳戶時，他們可以代表您的客戶提交訂單。</span><span class="sxs-lookup"><span data-stu-id="a1e19-173">The provider needs to have a reseller relationship with your customer, so they can submit orders on your customer's behalf when the customer wants to buy new subscriptions or add new licenses to existing subscriptions.</span></span>
+- <span data-ttu-id="8cb9b-172">建立產品的訂單</span><span class="sxs-lookup"><span data-stu-id="8cb9b-172">Create orders for products</span></span>
+- <span data-ttu-id="8cb9b-173">管理 Azure 保留專案</span><span class="sxs-lookup"><span data-stu-id="8cb9b-173">Manage Azure reservations</span></span>
+- <span data-ttu-id="8cb9b-174">管理其訂單歷程記錄</span><span class="sxs-lookup"><span data-stu-id="8cb9b-174">Manage their order history</span></span>
+- <span data-ttu-id="8cb9b-175">購買軟體</span><span class="sxs-lookup"><span data-stu-id="8cb9b-175">Purchase software</span></span>
+- <span data-ttu-id="8cb9b-176">直接向客戶收費</span><span class="sxs-lookup"><span data-stu-id="8cb9b-176">Bill customers directly</span></span>
 
-3. <span data-ttu-id="a1e19-174">在下一頁，複查草稿電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="a1e19-174">On the next page, review the draft email message.</span></span> <span data-ttu-id="a1e19-175">您可以透過電子郵件開啟草稿訊息，或將郵件複製到剪貼簿，然後貼到電子郵件中。</span><span class="sxs-lookup"><span data-stu-id="a1e19-175">You can open the draft message in email, or you can copy the message to your clipboard and paste it into an email.</span></span> 
+<span data-ttu-id="8cb9b-177">**間接轉銷商客戶**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-177">**Indirect reseller customers**</span></span>
 
-4. <span data-ttu-id="a1e19-176">編輯電子郵件中的文字以表達您所需的內容，但請務必包含連結，因為它是個人化的，可將客戶直接連線到您的帳戶和提供者的帳戶。</span><span class="sxs-lookup"><span data-stu-id="a1e19-176">Edit the text in the email to say what you need but be sure to include the link as it is personalized to connect the customer directly to both your account and your provider's account.</span></span> <span data-ttu-id="a1e19-177">然後選取 [**完成**]。</span><span class="sxs-lookup"><span data-stu-id="a1e19-177">Then select **Done**.</span></span>  
+- <span data-ttu-id="8cb9b-178">您的間接提供者會為您的客戶訂購產品</span><span class="sxs-lookup"><span data-stu-id="8cb9b-178">Your indirect provider orders products for your customers</span></span>
+- <span data-ttu-id="8cb9b-179">管理客戶的授權和使用者</span><span class="sxs-lookup"><span data-stu-id="8cb9b-179">Manage customers' licenses and users</span></span>
+- <span data-ttu-id="8cb9b-180">處理訂用帳戶續訂</span><span class="sxs-lookup"><span data-stu-id="8cb9b-180">Handle subscription renewals</span></span>
 
-5. <span data-ttu-id="a1e19-178">在客戶授權您和您的提供者成為記錄的轉售商之後，您將會有系統管理員許可權代表其管理其訂用帳戶、授權和使用者，而您的間接提供者將能夠代表他們提交訂單。</span><span class="sxs-lookup"><span data-stu-id="a1e19-178">After the customer authorizes you and your provider to be their resellers of record, you'll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.</span></span>
+<span data-ttu-id="8cb9b-181">**識別作為直接帳單合作夥伴取得的客戶**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-181">**To identify customers that you acquired as a direct bill partner**</span></span>
 
-6. <span data-ttu-id="a1e19-179">若要管理客戶的帳戶、服務、使用者和授權，請選取其名稱旁邊的向下箭號，以展開客戶的記錄。</span><span class="sxs-lookup"><span data-stu-id="a1e19-179">To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name.</span></span>
+1. <span data-ttu-id="8cb9b-182">選取**客戶**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-182">Select **Customers**</span></span>
 
+2. <span data-ttu-id="8cb9b-183">選取客戶以查看其詳細資料</span><span class="sxs-lookup"><span data-stu-id="8cb9b-183">Select a customer to view their details</span></span>
 
-## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a><span data-ttu-id="a1e19-180">管理您的直接帳單客戶和間接轉銷商客戶</span><span class="sxs-lookup"><span data-stu-id="a1e19-180">Managing your direct bill customers and your indirect reseller customers</span></span>
+3. <span data-ttu-id="8cb9b-184">如果此客戶是您所取得的直接帳單合作夥伴，您會看到**新增**或**查看產品**的選項，而您將會看到其訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-184">If this customer is one you acquired as a direct bill partner, you will see options to **add** or **view products** and you will see their subscriptions.</span></span>
 
-<span data-ttu-id="a1e19-181">您以不同的方式管理您的直接帳單客戶和間接轉銷商客戶。</span><span class="sxs-lookup"><span data-stu-id="a1e19-181">You manage your direct bill customers and your indirect reseller customers differently.</span></span> 
+4. <span data-ttu-id="8cb9b-185">如果客戶與您具有間接轉銷商關係，這些選項將無法使用。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-185">If the customer has an indirect reseller relationship with you, those options will not be available.</span></span>
 
-<span data-ttu-id="a1e19-182">**直接帳單客戶（不會做為間接轉銷商的專案）**</span><span class="sxs-lookup"><span data-stu-id="a1e19-182">**Direct bill customers (things you won't do as an indirect reseller)**</span></span>
+## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a><span data-ttu-id="8cb9b-186">將您的直接帳單客戶移至您的間接提供者</span><span class="sxs-lookup"><span data-stu-id="8cb9b-186">Move your direct bill customers to your indirect provider</span></span>
 
-- <span data-ttu-id="a1e19-183">建立產品的訂單</span><span class="sxs-lookup"><span data-stu-id="a1e19-183">Create orders for products</span></span>
-- <span data-ttu-id="a1e19-184">管理 Azure 保留專案</span><span class="sxs-lookup"><span data-stu-id="a1e19-184">Manage Azure reservations</span></span>
-- <span data-ttu-id="a1e19-185">管理其訂單歷程記錄</span><span class="sxs-lookup"><span data-stu-id="a1e19-185">Manage their order history</span></span>
-- <span data-ttu-id="a1e19-186">購買軟體</span><span class="sxs-lookup"><span data-stu-id="a1e19-186">Purchase software</span></span>
-- <span data-ttu-id="a1e19-187">直接向客戶收費</span><span class="sxs-lookup"><span data-stu-id="a1e19-187">Bill customers directly</span></span>
+<span data-ttu-id="8cb9b-187">您的間接提供者無法提交現有直接帳單客戶的訂單或現有的訂用帳戶傳輸，直到他們與他們有轉銷商關係為止。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-187">Your indirect provider can not submit orders or existing subscription transfers for your existing direct bill customers until they have a reseller relationship with them.</span></span> <span data-ttu-id="8cb9b-188">若要建立間接提供者與現有間接提供者之間的轉銷商關係，您可以使用下列其中一種方法：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-188">To establish the reseller relationship between your indirect provider and your existing indirect provider, you can use one of the following methods:</span></span> 
 
-<span data-ttu-id="a1e19-188">**間接轉銷商客戶**</span><span class="sxs-lookup"><span data-stu-id="a1e19-188">**Indirect reseller customers**</span></span>
+- [<span data-ttu-id="8cb9b-189">轉售商關係延伸模組</span><span class="sxs-lookup"><span data-stu-id="8cb9b-189">Reseller relationship extension</span></span>](#reseller-relationship-extension) 
 
-- <span data-ttu-id="a1e19-189">您的間接提供者會為您的客戶訂購產品</span><span class="sxs-lookup"><span data-stu-id="a1e19-189">Your indirect provider orders products for your customers</span></span>
-- <span data-ttu-id="a1e19-190">管理客戶的授權和使用者</span><span class="sxs-lookup"><span data-stu-id="a1e19-190">Manage customers' licenses and users</span></span>
-- <span data-ttu-id="a1e19-191">處理訂用帳戶續訂</span><span class="sxs-lookup"><span data-stu-id="a1e19-191">Handle subscription renewals</span></span>
+- [<span data-ttu-id="8cb9b-190">傳送間接轉銷商邀請給客戶</span><span class="sxs-lookup"><span data-stu-id="8cb9b-190">Send an indirect reseller invitation to the customer</span></span>](#send-an-indirect-reseller-invitation-to-the-customer)
 
-<span data-ttu-id="a1e19-192">**識別作為直接帳單合作夥伴取得的客戶**</span><span class="sxs-lookup"><span data-stu-id="a1e19-192">**To identify customers that you acquired as a direct bill partner**</span></span>
+### <a name="reseller-relationship-extension"></a><span data-ttu-id="8cb9b-191">轉售商關係延伸模組</span><span class="sxs-lookup"><span data-stu-id="8cb9b-191">Reseller relationship extension</span></span>
 
-1. <span data-ttu-id="a1e19-193">選取**客戶**</span><span class="sxs-lookup"><span data-stu-id="a1e19-193">Select **Customers**</span></span>
+<span data-ttu-id="8cb9b-192">您可以使用轉銷商關係延伸模組功能，透過合作夥伴中心儀表板，在您現有的直接帳單客戶與間接提供者之間建立轉銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-192">You can use the reseller relationship extension feature to establish reseller relationship between your existing direct bill customers and your indirect provider using Partner Center Dashboard.</span></span> <span data-ttu-id="8cb9b-193">使用此功能之前，請注意下列事項：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-193">Before using the feature, note the following:</span></span> 
 
-2. <span data-ttu-id="a1e19-194">選取客戶以查看其詳細資料</span><span class="sxs-lookup"><span data-stu-id="a1e19-194">Select a customer to view their details</span></span>
+- <span data-ttu-id="8cb9b-194">這項功能僅適用于正在轉換為間接轉銷商完成[間接轉銷商註冊](#get-started)的直接帳單合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-194">This feature is only available to direct bill partner who are transitioning to become an indirect reseller have completed the [indirect reseller enrollment](#get-started).</span></span> 
 
-3. <span data-ttu-id="a1e19-195">如果此客戶是您所取得的直接帳單合作夥伴，您會看到**新增**或**查看產品**的選項，而您將會看到其訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="a1e19-195">If this customer is one you acquired as a direct bill partner, you will see options to **add** or **view products** and you will see their subscriptions.</span></span>
+- <span data-ttu-id="8cb9b-195">您只能將此功能套用到現有的直接帳單客戶。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-195">You can only apply this feature to existing direct bill customers.</span></span> <span data-ttu-id="8cb9b-196">不適用於[間接轉銷商客戶](#acquire-new-customers-as-indirect-reseller)。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-196">It is not applicable to [indirect reseller customers](#acquire-new-customers-as-indirect-reseller).</span></span> 
 
-4. <span data-ttu-id="a1e19-196">如果客戶與您具有間接轉銷商關係，這些選項將無法使用。</span><span class="sxs-lookup"><span data-stu-id="a1e19-196">If the customer has an indirect reseller relationship with you, those options will not be available.</span></span>
+- <span data-ttu-id="8cb9b-197">您只能選取已[接受間接提供者之合作夥伴邀請](#accept-a-partnership-invitation-from-your-indirect-provider)的間接提供者。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-197">You can only select an indirect provider for which you have [accepted a partner invitation from your indirect provider](#accept-a-partnership-invitation-from-your-indirect-provider).</span></span> 
 
-## <a name="what-happens-when-your-direct-bill-capabilities-have-been-restricted"></a><span data-ttu-id="a1e19-197">當您的直接帳單功能受到限制時，會發生什麼事</span><span class="sxs-lookup"><span data-stu-id="a1e19-197">What happens when your direct bill capabilities have been restricted</span></span>
-
-<span data-ttu-id="a1e19-198">無論您是否決定轉換為間接轉銷商，並將雙重註冊同時做為直接帳單和間接轉銷商，或您尚未做出明確的決策來註冊為間接轉銷商，不符合新需求的直接帳單合作夥伴若為 CSP 直接帳單合作夥伴方案，Microsoft 將會在其直接帳單功能受到限制時收到通知。</span><span class="sxs-lookup"><span data-stu-id="a1e19-198">Whether you have decided to transition to indirect reseller and have a dual enrollment as both direct bill and indirect reseller, or you have not made an explicit decision yet to enroll as an indirect reseller, direct bill partners who do not meet the new requirements for the CSP direct bill partner program will be informed by Microsoft when their direct bill capabilities will be restricted.</span></span> 
-
-<span data-ttu-id="a1e19-199">在 [**程式資訊**] 下的**夥伴設定檔**中，您會看到 Microsoft Cloud 解決方案提供者狀態已變更為 [**受限制**]。</span><span class="sxs-lookup"><span data-stu-id="a1e19-199">In your **Partner profile** under **Program info** you will see that your Microsoft Cloud Solution Provider status has changed to **restricted**.</span></span>
-
-## <a name="affected-direct-bill-capabilities"></a><span data-ttu-id="a1e19-200">受影響的直接帳單功能</span><span class="sxs-lookup"><span data-stu-id="a1e19-200">Affected direct bill capabilities</span></span>
-
-<span data-ttu-id="a1e19-201">當您的直接帳單功能受到限制時，您就無法再于合作夥伴中心為您的客戶購買新的產品。</span><span class="sxs-lookup"><span data-stu-id="a1e19-201">When your direct bill capabilities have been restricted, you can no longer make new purchases for your customers in Partner Center.</span></span> <span data-ttu-id="a1e19-202">這包括：</span><span class="sxs-lookup"><span data-stu-id="a1e19-202">This includes:</span></span> 
-
-- <span data-ttu-id="a1e19-203">Azure 訂用帳戶</span><span class="sxs-lookup"><span data-stu-id="a1e19-203">Azure subscriptions</span></span>
-- <span data-ttu-id="a1e19-204">以授權為基礎的訂閱</span><span class="sxs-lookup"><span data-stu-id="a1e19-204">License-based subscriptions</span></span>
-- <span data-ttu-id="a1e19-205">將新的附加元件加入至現有的授權型訂閱</span><span class="sxs-lookup"><span data-stu-id="a1e19-205">Adding new add-ons to existing license-based subscriptions</span></span>
-- <span data-ttu-id="a1e19-206">進行一次性購買軟體和保留產品，例如軟體訂閱、永久軟體和 Azure 保留的虛擬機器實例。</span><span class="sxs-lookup"><span data-stu-id="a1e19-206">Making one-time purchases of software and reservation products such as software subscriptions, perpetual software, and Azure Reserved Virtual Machine instances.</span></span>
-
-<span data-ttu-id="a1e19-207">您也無法使用 CSP 方案下的 Azure 合作夥伴共用服務供應專案，來購買新的 Azure 訂用帳戶供您自己使用。</span><span class="sxs-lookup"><span data-stu-id="a1e19-207">You also cannot purchase new Azure subscriptions for your own use using the Azure partner shared services offer under the CSP program.</span></span> 
-
-<span data-ttu-id="a1e19-208">除了新購買專案以外，您也無法在合作夥伴中心存取下列直接帳單功能：</span><span class="sxs-lookup"><span data-stu-id="a1e19-208">In addition to new purchases, you cannot access the following direct bill capabilities in Partner Center:</span></span> 
-- <span data-ttu-id="a1e19-209">您無法建立新的客戶租使用者。</span><span class="sxs-lookup"><span data-stu-id="a1e19-209">You can't create new customer tenants.</span></span> <span data-ttu-id="a1e19-210">[合作夥伴中心的**客戶**] 底下的 [**建立客戶**] 選項將無法使用。</span><span class="sxs-lookup"><span data-stu-id="a1e19-210">The **Create customer** option under **Customers** in Partner Center will not be available.</span></span> 
-
-- <span data-ttu-id="a1e19-211">您無法為要求直接轉銷商關係的客戶產生邀請。</span><span class="sxs-lookup"><span data-stu-id="a1e19-211">You can't generate invitations to customers requesting a direct reseller relationship.</span></span> <span data-ttu-id="a1e19-212">[合作夥伴中心的**客戶**] 底下的 [**要求轉售商關係**] 選項將無法使用。</span><span class="sxs-lookup"><span data-stu-id="a1e19-212">The **Request a reseller relationship** option under **Customers** in Partner Center will not be available.</span></span> 
+- <span data-ttu-id="8cb9b-198">此客戶的帳單寄送資訊複本將提供給間接提供者。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-198">A copy of the bill-to info you have for this customer will be made available to the indirect provider.</span></span> <span data-ttu-id="8cb9b-199">您可以透過在合作夥伴中心儀表板中存取此客戶的帳戶頁面，存取帳單資訊。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-199">You can access the bill-to info by accessing the Account page for this customer in Partner Center Dashboard.</span></span> 
 
 >[!Note] 
-><span data-ttu-id="a1e19-213">如果您已將您的直接帳單合作夥伴租使用者註冊為間接轉銷商，您可以傳送邀請給要求間接轉銷商關係而非直接帳單的客戶。</span><span class="sxs-lookup"><span data-stu-id="a1e19-213">If you have already enrolled your direct bill partner tenant as indirect reseller, you are able to send invitations to customers requesting an indirect reseller relationship instead of direct bill.</span></span> 
+><span data-ttu-id="8cb9b-200">藉由使用「轉售商關係延伸模組」功能，您同意與間接提供者共用此客戶的帳單資訊。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-200">By using the reseller relationship extension feature, you consent to sharing the bill-to info you have for this customer with the indirect provider.</span></span>
 
-- <span data-ttu-id="a1e19-214">您無法建立新的沙箱租使用者。</span><span class="sxs-lookup"><span data-stu-id="a1e19-214">You can't create a new sandbox tenant.</span></span> <span data-ttu-id="a1e19-215">每個直接帳單合作夥伴租使用者都可以建立一個沙箱租使用者，以供直接帳單 API 整合之用。</span><span class="sxs-lookup"><span data-stu-id="a1e19-215">Each direct bill partner tenant can create one sandbox tenant for the purpose of direct bill API integration.</span></span> <span data-ttu-id="a1e19-216">如果您先前尚未建立，則在直接帳單合作夥伴功能受到限制之後，將不允許您這麼做。</span><span class="sxs-lookup"><span data-stu-id="a1e19-216">If you haven't created one previously, you will not be allowed to do so after you direct bill partner capability has been restricted.</span></span> 
+- <span data-ttu-id="8cb9b-201">您的間接提供者不會提供給客戶租使用者的[委派系統管理許可權](customers_revoke_admin_privileges.md)。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-201">Your indirect provider will not be provided with [delegated administration privileges](customers_revoke_admin_privileges.md) to the customer tenant.</span></span> <span data-ttu-id="8cb9b-202">如果您的間接提供者需要委派的系統管理許可權，您必須改為傳送間接轉銷商邀請給客戶。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-202">If your indirect provider requires delegated administration privileges, you must send an indirect reseller invitation to the customer instead.</span></span>
 
-## <a name="whats-not-affected"></a><span data-ttu-id="a1e19-217">不受影響的內容</span><span class="sxs-lookup"><span data-stu-id="a1e19-217">What's not affected</span></span>
+- <span data-ttu-id="8cb9b-203">建立轉銷商關係之後，間接提供者會在 M365 系統管理中心內的 [合作夥伴關係] 頁面和 [[商務用 Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)] 下，顯示為客戶的 CSP 合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-203">Once the reseller relationship is established, the indirect provider will appear as a CSP partner to the customer under the Partner Relationships page in M365 Admin Center and [Microsoft Store for Business](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business).</span></span>
 
-<span data-ttu-id="a1e19-218">現有的直接帳單訂閱不會受到影響。</span><span class="sxs-lookup"><span data-stu-id="a1e19-218">Existing direct bill subscriptions are not affected.</span></span> <span data-ttu-id="a1e19-219">它們仍然有效，而且會自動更新。</span><span class="sxs-lookup"><span data-stu-id="a1e19-219">They remain valid and are auto-renewed.</span></span> <span data-ttu-id="a1e19-220">您將繼續直接向 Microsoft 收取費用，直到您取消為止。</span><span class="sxs-lookup"><span data-stu-id="a1e19-220">You will continue to be billed directly by Microsoft until you cancel them.</span></span> 
+>[!Note] 
+><span data-ttu-id="8cb9b-204">為避免混淆和誤解，您的合作夥伴合約會依履約不必，以在使用關聯性延伸功能來建立現有的轉銷商關聯性之前，先通知並取得直接帳單客戶的同意直接帳單客戶與間接提供者。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-204">To avoid confusion and misunderstanding, you are contractually obliged by your partner agreement to inform and obtain consent from the direct bill customer before you use the relationship extension feature to establish reseller relationship between an existing direct bill customer and an indirect provider.</span></span> 
 
-<span data-ttu-id="a1e19-221">繼續以下列方式管理現有的訂閱：</span><span class="sxs-lookup"><span data-stu-id="a1e19-221">Continue to manage existing subscriptions in the following ways:</span></span> 
+<span data-ttu-id="8cb9b-205">若要在現有的客戶租使用者上使用這項功能：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-205">To use this feature on an existing customer tenant:</span></span> 
 
-- <span data-ttu-id="a1e19-222">暫止現有的訂閱</span><span class="sxs-lookup"><span data-stu-id="a1e19-222">Suspend existing subscriptions</span></span> 
+1. <span data-ttu-id="8cb9b-206">以系統**管理員代理程式**的身分登入合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-206">Log in to Partner Center as an **Admin Agent**.</span></span> 
 
-- <span data-ttu-id="a1e19-223">調整現有授權型訂用帳戶的基座計數</span><span class="sxs-lookup"><span data-stu-id="a1e19-223">Adjust the seat count of existing license-based subscriptions</span></span> 
+2. <span data-ttu-id="8cb9b-207">在 [**客戶] 頁面**上，選取現有的客戶，然後按一下其 [**快速連結**] 圖示，以展開客戶的 [摘要] 視圖。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-207">In the **Customers page**, select an existing customer and click on its **Quick links** icon to expand the summary view of the customer.</span></span> 
 
-- <span data-ttu-id="a1e19-224">調整現有附加元件對訂用帳戶的基座計數。</span><span class="sxs-lookup"><span data-stu-id="a1e19-224">Adjust seat count of existing add-ons to a subscription.</span></span> <span data-ttu-id="a1e19-225">注意：您無法將新的附加元件加入現有的訂閱，因為附加元件會被視為新的購買專案。</span><span class="sxs-lookup"><span data-stu-id="a1e19-225">Note: You can't add new add-ons to existing subscriptions because add-ons are treated as new purchases.</span></span> 
+3. <span data-ttu-id="8cb9b-208">在 **[間接提供者**] 底下，按一下 [**在間接提供者上傳送客戶**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-208">Under **Indirect provider(s)**, click **Transfer customer on an indirect provider**.</span></span>
 
-- <span data-ttu-id="a1e19-226">部署新的 Azure 資源，並在現有的 Azure 訂用帳戶下管理現有的 Azure 資源。</span><span class="sxs-lookup"><span data-stu-id="a1e19-226">Deploy new Azure resources and manage existing Azure resources under existing Azure subscriptions.</span></span> <span data-ttu-id="a1e19-227">這包括透過 Azure marketplace 和 Visual Studio 訂用帳戶提供的產品。</span><span class="sxs-lookup"><span data-stu-id="a1e19-227">This includes products which are available through Azure marketplace and Visual Studio subscriptions.</span></span> 
+![將客戶轉移至間接提供者](images/direct/direct5.png)
 
-## <a name="enroll-for-indirect-reseller-incentives"></a><span data-ttu-id="a1e19-228">註冊間接轉售商獎勵</span><span class="sxs-lookup"><span data-stu-id="a1e19-228">Enroll for indirect reseller incentives</span></span> 
+4. <span data-ttu-id="8cb9b-210">在快顯對話方塊中，選取您想要與客戶建立轉銷商關係的**間接提供者**。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-210">In the pop-up dialog, select the **Indirect Provider** you would like to have reseller relationship with the customer.</span></span>
 
-<span data-ttu-id="a1e19-229">當您已在現有的直接帳單合作夥伴租使用者上成功註冊為間接轉銷商之後，您將會收到在30天內註冊間接轉售商獎勵的邀請。</span><span class="sxs-lookup"><span data-stu-id="a1e19-229">After you have successfully enrolled as an indirect reseller on your existing direct bill partner tenant, you will receive an invitation to enroll for indirect reseller incentive within 30 days.</span></span> <span data-ttu-id="a1e19-230">此邀請是以目前與您 CSP 合作夥伴租使用者相關聯的合作夥伴 MPN 帳戶為基礎。</span><span class="sxs-lookup"><span data-stu-id="a1e19-230">The invitation is based on the partner MPN account that is currently associated with your CSP partner tenant.</span></span> <span data-ttu-id="a1e19-231">邀請會傳送至與合作夥伴 MPN 帳戶相關聯的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="a1e19-231">The invitation will be sent to the email address associated with the partner MPN account.</span></span> 
+5. <span data-ttu-id="8cb9b-211">按一下 [**儲存並繼續**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-211">Click **Save and continue**.</span></span>
 
-<span data-ttu-id="a1e19-232">您也有資格向同一個夥伴租使用者註冊直接帳單獎勵計畫。</span><span class="sxs-lookup"><span data-stu-id="a1e19-232">You are also eligible to enroll for direct bill incentive programs with that same partner tenant.</span></span> <span data-ttu-id="a1e19-233">您必須分別管理程式。</span><span class="sxs-lookup"><span data-stu-id="a1e19-233">You must manage the programs separately.</span></span>
+6. <span data-ttu-id="8cb9b-212">確認選取的間接提供者顯示在 [**間接提供者**] 之下。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-212">Verify the selected indirect provider shows up under **Indirect provider(s)**.</span></span> 
 
-<span data-ttu-id="a1e19-234">另請參閱做為[間接轉銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)，以及[直接帳單至間接轉銷商常見問題](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)。</span><span class="sxs-lookup"><span data-stu-id="a1e19-234">See also [Additional information on becoming an indirect reseller](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) and the [Direct bill to indirect reseller fAQ](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf).</span></span>
+### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a><span data-ttu-id="8cb9b-213">傳送間接轉銷商邀請給客戶</span><span class="sxs-lookup"><span data-stu-id="8cb9b-213">Send an indirect reseller invitation to the customer</span></span>
+
+<span data-ttu-id="8cb9b-214">您的間接提供者無法提交現有直接帳單客戶的訂單，直到他們與他們有轉銷商關係為止。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-214">Your indirect provider can not submit orders for your existing direct bill customers until they have a reseller relationship with them.</span></span> <span data-ttu-id="8cb9b-215">若要在現有客戶與間接提供者之間建立轉銷商關係，請使用間接轉銷商邀請邀請客戶。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-215">To establish the reseller relationship between your existing customers and your indirect provider, invite the customer using an indirect reseller invitation.</span></span> 
+
+1. <span data-ttu-id="8cb9b-216">從您的合作夥伴中心左側導覽選取 [**間接提供者**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-216">Select **Indirect providers** from your Partner Center left nav.</span></span> 
+
+2. <span data-ttu-id="8cb9b-217">選取 [邀請新客戶] 以邀請客戶同時與您及間接提供者建立經銷商關係。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-217">Select **Invite new customers** to invite a customer to establish a reseller relationship with both you and the indirect provider at the same time.</span></span> <span data-ttu-id="8cb9b-218">提供者必須與您的客戶有轉銷商關係，因此當客戶想要購買新的訂用帳戶或將新的授權新增至現有的訂用帳戶時，他們可以代表您的客戶提交訂單。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-218">The provider needs to have a reseller relationship with your customer, so they can submit orders on your customer's behalf when the customer wants to buy new subscriptions or add new licenses to existing subscriptions.</span></span> 
+
+3. <span data-ttu-id="8cb9b-219">在下一頁，複查草稿電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-219">On the next page, review the draft email message.</span></span> <span data-ttu-id="8cb9b-220">您可以透過電子郵件開啟草稿訊息，或將郵件複製到剪貼簿，然後貼到電子郵件中。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-220">You can open the draft message in email, or you can copy the message to your clipboard and paste it into an email.</span></span> 
+
+4. <span data-ttu-id="8cb9b-221">編輯電子郵件中的文字以表達您所需的內容，但請務必包含連結，因為它是個人化的，可將客戶直接連線到您的帳戶和提供者的帳戶。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-221">Edit the text in the email to say what you need but be sure to include the link as it is personalized to connect the customer directly to both your account and your provider's account.</span></span> <span data-ttu-id="8cb9b-222">然後選取 [**完成**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-222">Then select **Done**.</span></span> 
+
+5. <span data-ttu-id="8cb9b-223">客戶授權您和您的提供者成為其記錄可查經銷商之後，您就會有系統管理員權限，可代表他們管理其訂閱、授權和使用者，並且間接提供者可代表他們提交訂單。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-223">After the customer authorizes you and your provider to be their resellers of record, you'll have administrator permissions to manage their subscriptions, licenses, and users on their behalf, and your indirect provider will be able to submit orders on their behalf.</span></span> 
+
+6. <span data-ttu-id="8cb9b-224">若要管理客戶的帳戶、服務、使用者及授權，請選取客戶名稱旁邊的向下箭頭以展開其記錄。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-224">To manage the customer's account, services, users, and licenses, expand the customer's record by selecting the down arrow near their name.</span></span> 
+
+## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a><span data-ttu-id="8cb9b-225">將現有的直接帳單訂閱傳送至間接提供者</span><span class="sxs-lookup"><span data-stu-id="8cb9b-225">Transfer existing direct bill subscriptions to indirect provider</span></span>
+
+<span data-ttu-id="8cb9b-226">在 CSP 間接模型底下，間接轉銷商沒有與 Microsoft 的計費關係。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-226">Under CSP indirect model, indirect resellers do not have billing relationships with Microsoft.</span></span> <span data-ttu-id="8cb9b-227">相反地，間接轉銷商會透過其間接提供者取得其客戶的訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-227">Instead, indirect resellers obtain subscriptions for their customers through their indirect providers.</span></span> <span data-ttu-id="8cb9b-228">從直接帳單合作夥伴轉換為間接轉銷商時，您必須將您擁有的現有訂用帳戶，以直接帳單合作夥伴的形式轉移至間接提供者。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-228">While transitioning from direct bill partner to indirect reseller, you need to transfer the existing subscriptions you have as the direct bill partner to your indirect provider.</span></span> <span data-ttu-id="8cb9b-229">您可以使用合作夥伴中心儀表板中的自助式訂用帳戶傳輸功能來執行此動作。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-229">You can use the self-served subscription transfer feature in Partner Center Dashboard to do so.</span></span> 
+ 
+### <a name="pre-requisites"></a><span data-ttu-id="8cb9b-230">必要條件</span><span class="sxs-lookup"><span data-stu-id="8cb9b-230">Pre-requisites</span></span>
+
+<span data-ttu-id="8cb9b-231">使用此功能之前，請注意下列事項：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-231">Before using the feature, note the following:</span></span>
+
+- <span data-ttu-id="8cb9b-232">這項功能僅適用于使用現有的直接帳單合作夥伴租使用者完成間接轉銷商註冊的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-232">This feature is only available to transitioning partners who have completed the indirect reseller enrollment using their existing direct bill partner tenants.</span></span> 
+
+- <span data-ttu-id="8cb9b-233">在傳送與特定客戶相關聯的訂閱之前，轉換的夥伴必須將客戶移至間接提供者。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-233">Before transferring subscriptions associated with a given customer, the transitioning partner must move the customer to an indirect provider.</span></span> 
+ 
+### <a name="how-to"></a><span data-ttu-id="8cb9b-234">使用方法</span><span class="sxs-lookup"><span data-stu-id="8cb9b-234">How-to</span></span>
+
+<span data-ttu-id="8cb9b-235">此功能是4個步驟的程式，其中：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-235">The feature is a 4-step process, where:</span></span> 
+
+- <span data-ttu-id="8cb9b-236">轉換的夥伴會建立訂用帳戶轉移要求。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-236">The transitioning partner creates a subscription transfer request.</span></span> <span data-ttu-id="8cb9b-237">此要求包含一個或多個與相同客戶相關聯的現有訂用帳戶，並會被定址為間接提供者。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-237">The request contains one or more existing subscriptions associated with the same customer and is addressed to an indirect provider.</span></span> 
+
+- <span data-ttu-id="8cb9b-238">間接提供者會審查並接受（或拒絕）傳送要求。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-238">The indirect provider reviews and accepts (or reject) the transfer request.</span></span> 
+
+- <span data-ttu-id="8cb9b-239">間接提供者會確認傳送要求已完成。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-239">The indirect provider verifies that the transfer request is complete.</span></span> 
+
+- <span data-ttu-id="8cb9b-240">轉換的夥伴會確認傳送要求已完成。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-240">The transitioning partner verifies that the transfer request is complete.</span></span> 
+ 
+<span data-ttu-id="8cb9b-241">**正在轉換夥伴-建立傳送要求**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-241">**Transitioning partner - Create transfer request**</span></span>
+
+<span data-ttu-id="8cb9b-242">若要建立傳送要求作為轉換夥伴：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-242">To create a transfer request as the transitioning partner:</span></span> 
+
+1. <span data-ttu-id="8cb9b-243">以系統**管理員代理程式**的身分登入合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-243">Log in to Partner Center as an **Admin Agent**.</span></span> 
+
+2. <span data-ttu-id="8cb9b-244">在 [**客戶**] 頁面上，選取想要的客戶，並按一下 [快速連結] 圖示，以展開客戶的 [摘要] 視圖。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-244">In the **Customers** page, select the intended customer and click on the Quick links icon to expand the summary view of the customer.</span></span> 
+
+3. <span data-ttu-id="8cb9b-245">在 [**間接提供者**] 底下，確認已列出預定的間接提供者。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-245">Under **Indirect provider(s)**, confirm that the intended indirect provider is listed.</span></span> 
+
+4. <span data-ttu-id="8cb9b-246">按一下 [ **View 訂閱**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-246">Click **View Subscriptions**.</span></span> 
+
+5. <span data-ttu-id="8cb9b-247">在 [**訂閱**] 頁面中，尋找 [訂用帳戶**轉移**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-247">In the **Subscriptions** page, look for **Subscription Transfer**.</span></span> 
+
+6. <span data-ttu-id="8cb9b-248">在 [訂用帳戶**轉移**] 底下，按一下 [**建立傳輸要求**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-248">Under **Subscription Transfer**, click **Create Transfer Request**.</span></span> 
+
+7. <span data-ttu-id="8cb9b-249">在 [傳送要求] 對話方塊中，選取一或多個要轉移的訂閱。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-249">In the transfer request dialog, select one or more subscriptions to be transferred.</span></span> 
+
+8. <span data-ttu-id="8cb9b-250">按一下 \[建立\]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-250">Click **Create**.</span></span> 
+
+9. <span data-ttu-id="8cb9b-251">作用中的訂用帳戶轉移要求會顯示在 [訂用帳戶**轉移**] 底下。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-251">An active subscription transfer request will appear under **Subscription Transfer**.</span></span> 
+
+10. <span data-ttu-id="8cb9b-252">通知您的間接提供者，您已建立訂用帳戶轉移要求。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-252">Inform your indirect provider that you have created a subscription transfer request to them.</span></span> 
+ 
+<span data-ttu-id="8cb9b-253">**間接提供者-接受傳輸要求**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-253">**Indirect provider - Accept transfer request**</span></span>
+
+<span data-ttu-id="8cb9b-254">若要查看並接受作為間接提供者的傳輸要求：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-254">To review and accept a transfer request as the indirect provider:</span></span> 
+
+1. <span data-ttu-id="8cb9b-255">以**管理員**代理程式或**銷售代理程式**的身分登入合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-255">Log in to Partner Center as an **Admin** Agent or **Sales Agent**.</span></span> 
+
+2. <span data-ttu-id="8cb9b-256">在 [**客戶**] 頁面上，選取想要的客戶，然後按一下其 [快速連結] 圖示，以展開客戶的 [摘要] 視圖。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-256">In the **Customers** page, select the intended customer and click on its Quick links icon to expand the summary view of the customer.</span></span> 
+
+3. <span data-ttu-id="8cb9b-257">在 [**間接轉銷商**] 底下，確認已列出 [轉換夥伴]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-257">Under **Indirect reseller(s)**, confirm the transitioning partner is listed.</span></span> 
+
+4. <span data-ttu-id="8cb9b-258">按一下 [ **View 訂閱**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-258">Click **View Subscriptions**.</span></span> 
+
+5. <span data-ttu-id="8cb9b-259">在 [**訂閱**] 頁面中，尋找 [訂用帳戶**轉移**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-259">In the **Subscriptions** page, look for **Subscription Transfer**.</span></span> 
+
+6. <span data-ttu-id="8cb9b-260">在 [**訂閱轉移**] 底下，按一下要審查的傳送要求。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-260">Under **Subscription Transfer**, click on the transfer request to review.</span></span> 
+
+7. <span data-ttu-id="8cb9b-261">視需要按一下 [**接受**] （或 [**拒絕**]）。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-261">Click **Accept** (or **Reject**) as appropriate.</span></span> 
+
+8. <span data-ttu-id="8cb9b-262">等待傳送要求完成。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-262">Wait for the transfer request to complete.</span></span> 
+ 
+<span data-ttu-id="8cb9b-263">**間接提供者確認傳送要求已完成**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-263">**Indirect provider � Verify transfer request is complete**</span></span>
+
+1. <span data-ttu-id="8cb9b-264">成功完成傳輸要求之後，請確認您可以看到**訂用帳戶**出現在 [訂用帳戶] 底下。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-264">After the transfer request is completed successfully, verify that you can see the subscriptions appear under **Subscriptions**.</span></span> 
+
+2. <span data-ttu-id="8cb9b-265">通知轉換的夥伴。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-265">Inform the transitioning partner.</span></span> 
+ 
+<span data-ttu-id="8cb9b-266">**正在轉換夥伴-確認傳輸要求已完成**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-266">**Transitioning partner - Verify transfer request is complete**</span></span> 
+
+<span data-ttu-id="8cb9b-267">轉換的夥伴應執行下列動作：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-267">The transitioning partner should do the following:</span></span>
+ 
+1. <span data-ttu-id="8cb9b-268">以**管理員代理程式**或**銷售代理程式**的身分登入合作夥伴中心。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-268">Log in to Partner Center as an **Admin Agent** or **Sales Agent**.</span></span> 
+
+2. <span data-ttu-id="8cb9b-269">在 [**客戶**] 頁面上，選取想要的客戶，並按一下 [**快速連結**] 圖示，以展開客戶的 [摘要] 視圖。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-269">In the **Customers** page, select the intended customer and click on the **Quick links** icon to expand the summary view of the customer.</span></span> 
+
+3. <span data-ttu-id="8cb9b-270">按一下 [ **View 訂閱**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-270">Click **View Subscriptions**.</span></span> 
+
+4. <span data-ttu-id="8cb9b-271">在 [**訂閱**] 頁面中，尋找 [訂用帳戶**轉移**]。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-271">In the **Subscriptions** page, look for **Subscription Transfer**.</span></span> 
+
+5. <span data-ttu-id="8cb9b-272">確認傳送要求已標示為**完成**。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-272">Verify that the transfer request is marked as **Complete**.</span></span> 
+
+6. <span data-ttu-id="8cb9b-273">確認訂用帳戶在 [**訂閱**] 頁面中不會再顯示為 [使用中]：</span><span class="sxs-lookup"><span data-stu-id="8cb9b-273">Verify that the subscription(s) no longer appear as active in the **Subscriptions** page:</span></span> 
+
+   1. <span data-ttu-id="8cb9b-274">如果這是 Azure 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p），則不會再列出。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-274">If this is an Azure subscription (MS-AZR-0145P), it will no longer be listed.</span></span> 
+
+   2. <span data-ttu-id="8cb9b-275">如果這是以基座為基礎的訂用帳戶（Office 365、Dynamics、Intune），則會以「已**暫停**」狀態列出。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-275">If this is a seat-based subscription (Office 365, Dynamics, Intune), it will be listed with state as **Suspended**.</span></span> 
+ 
+### <a name="considerations"></a><span data-ttu-id="8cb9b-276">考量</span><span class="sxs-lookup"><span data-stu-id="8cb9b-276">Considerations</span></span>
+
+- <span data-ttu-id="8cb9b-277">**相同的訂用帳戶無法由多個傳送要求參考。**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-277">**The same subscription cannot be referenced by multiple transfer requests.**</span></span> <span data-ttu-id="8cb9b-278">建立包含現有訂用帳戶的傳輸要求之後，您將無法建立額外的傳輸要求（包括相同的訂用帳戶），直到第一次轉移要求取消為止。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-278">After you have created a transfer request which includes an existing subscription, you cannot create additional transfer requests including the same subscription, until the first transfer request is cancelled.</span></span> 
+
+- <span data-ttu-id="8cb9b-279">**以基座訂用帳戶為基礎的附加元件，必須連同其基本訂用帳戶一起傳輸。**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-279">**Add-ons for seat-based subscriptions must be transferred along with their base subscription.**</span></span> <span data-ttu-id="8cb9b-280">建立傳送要求時，如果您挑選具有一或多個附加元件的現有訂用帳戶，此附加元件將會自動包含在傳送要求中。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-280">When creating a transfer request, if you pick an existing subscription with one or more add-ons, the add-ons will automatically be included in the transfer request.</span></span> 
+
+- <span data-ttu-id="8cb9b-281">**對訂用帳戶的基座計數變更不會反映在現有的傳輸要求中。**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-281">**Seat count changes to a subscription will not be reflected in existing transfer request.**</span></span> <span data-ttu-id="8cb9b-282">建立包含現有訂用帳戶的傳送要求之後，您應該避免更新訂用帳戶的基座數量（或相關聯的附加元件）。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-282">After you have created a transfer request which includes an existing subscription, you should avoid updating the seat quantity of the subscription (or associated addons).</span></span> <span data-ttu-id="8cb9b-283">如果您這樣做，新的數量將不會反映在傳送要求中。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-283">If you do so, the new quantity will not be reflected in the transfer request.</span></span> <span data-ttu-id="8cb9b-284">當間接提供者接受傳輸要求之後，結果訂用帳戶將會有舊的數量。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-284">After the indirect provider accepts the transfer request, the resultant subscription will have the old quantity.</span></span> <span data-ttu-id="8cb9b-285">如果您想要將新的數量轉移給間接提供者，您必須取消現有的傳輸要求，然後重新建立一個新的。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-285">If you wish for the new quantity to be transferred to the indirect provider, you must cancel the existing transfer request and recreate a new one.</span></span> 
+
+- <span data-ttu-id="8cb9b-286">**並非所有購買都可以使用自助式訂用帳戶傳輸來傳輸。**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-286">**Not all purchases can be transferred using self-served subscription transfer.**</span></span> <span data-ttu-id="8cb9b-287">目前，您只能使用這項功能來傳送 O365 訂用帳戶和 Azure PAGY 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p）。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-287">Currently, you can only transfer O365 subscriptions and Azure PAGY subscriptions (MS-AZR-0145P) using this feature.</span></span> <span data-ttu-id="8cb9b-288">不支援其他購買專案，包括 Azure 方案、Azure 保留實例、以詞彙為基礎的訂用帳戶，以及適用于 Azure Marketplace 的 SaaS 訂閱。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-288">Other purchases including Azure Plans, Azure Reserved Instances, Term-based Subscriptions and SaaS subscriptions for Azure Marketplace are not supported.</span></span> <span data-ttu-id="8cb9b-289">您會在 [提交轉移要求] 頁面中看到無法轉移訂用帳戶的原因。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-289">You will see a reason why a subscription cannot be transferred in the submit transfer request page.</span></span>
+
+- <span data-ttu-id="8cb9b-290">**無法使用沙箱環境進行測試。**</span><span class="sxs-lookup"><span data-stu-id="8cb9b-290">**Cannot be tested using sandbox environment.**</span></span> 
+
+## <a name="enroll-for-indirect-reseller-incentives"></a><span data-ttu-id="8cb9b-291">註冊間接轉售商獎勵</span><span class="sxs-lookup"><span data-stu-id="8cb9b-291">Enroll for indirect reseller incentives</span></span> 
+
+<span data-ttu-id="8cb9b-292">當您已在現有的直接帳單合作夥伴租使用者上成功註冊為間接轉銷商之後，您將會收到在30天內註冊間接轉售商獎勵的邀請。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-292">After you have successfully enrolled as an indirect reseller on your existing direct bill partner tenant, you will receive an invitation to enroll for indirect reseller incentive within 30 days.</span></span> <span data-ttu-id="8cb9b-293">此邀請是以目前與您 CSP 合作夥伴租使用者相關聯的合作夥伴 MPN 帳戶為基礎。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-293">The invitation is based on the partner MPN account that is currently associated with your CSP partner tenant.</span></span> <span data-ttu-id="8cb9b-294">邀請會傳送至與合作夥伴 MPN 帳戶相關聯的電子郵件地址。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-294">The invitation will be sent to the email address associated with the partner MPN account.</span></span> 
+
+<span data-ttu-id="8cb9b-295">您也有資格向同一個夥伴租使用者註冊直接帳單獎勵計畫。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-295">You are also eligible to enroll for direct bill incentive programs with that same partner tenant.</span></span> <span data-ttu-id="8cb9b-296">您必須分別管理程式。</span><span class="sxs-lookup"><span data-stu-id="8cb9b-296">You must manage the programs separately.</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="8cb9b-297">請參閱</span><span class="sxs-lookup"><span data-stu-id="8cb9b-297">See also</span></span> 
+- [<span data-ttu-id="8cb9b-298">有關成為間接轉銷商的其他資訊</span><span class="sxs-lookup"><span data-stu-id="8cb9b-298">Additional information on becoming an indirect reseller</span></span>](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
+- [<span data-ttu-id="8cb9b-299">雲端解決方案提供者直接合作夥伴的新需求</span><span class="sxs-lookup"><span data-stu-id="8cb9b-299">CSP direct partner new requirements</span></span>](direct-partner-new-requirements.md)
+- [<span data-ttu-id="8cb9b-300">限制的直接帳單功能</span><span class="sxs-lookup"><span data-stu-id="8cb9b-300">Restricted direct bill capabilities</span></span>](restricted-direct-bill-capabilities.md)
 
 
