@@ -1,19 +1,19 @@
 ---
 title: 在 CSP 中與間接經銷商建立合作關係 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 身為間接供應商或散發者，請瞭解如何與間接轉銷商合作來擴展。 這包括您可以在合作夥伴中心執行的工作。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: a6770e459b0e3b1c05dba91107cbfdb729eeda14
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: b3ce97e6463681670ff65344d9b94baabc84a170
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004537"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012136"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
 
@@ -66,6 +66,8 @@ ms.locfileid: "75004537"
 
 若要建立合作關係，請透過電子郵件傳送建立合作關係要求給經銷商。 開始之前，請務必先取得轉售商的電子郵件地址。 
 
+在 [訂用帳戶詳細資料] 頁面的 [轉銷商（MPN 識別碼）] 欄位中，新增您想要使用的轉銷商。 請務必使用與轉銷商的合作夥伴位置帳戶相關聯的 MPN 識別碼，其用於上架至合作夥伴中心。 這可確保轉銷商會收到適當的獎勵，而且他們有作用中的 Microsoft 合作夥伴合約可參與交易。
+
 1. 從您的**合作夥伴中心**功能表選取 [**間接轉銷商**]。 
 
 2. 在 **\[間接經銷商\]** 頁面上，選取 **\[要求建立經銷商關係\]** 。 出現草稿電子郵件訊息。
@@ -87,9 +89,9 @@ ms.locfileid: "75004537"
 
 - 在 [訂用帳戶詳細資料] 頁面的 [**轉銷商（MPN 識別碼）** ] 欄位中，新增您想要使用的轉銷商。 這可確保轉銷商會收到適當的獎勵。
 
-| **若要完成此工作** | **請這樣做** | **位置** |
+| **若要完成此工作** | **請這樣做** | **希望** |
 |   ------------------   |   -------   |   -----   |
-| 讓轉銷商管理客戶的帳戶，並擁有管理其訂閱的系統管理員許可權 | 當您新增客戶，關聯經銷商到客戶帳戶 | 在 **\[新客戶\]** 頁面 |
+|讓轉銷商管理客戶的帳戶，並擁有管理其訂閱的系統管理員許可權 | 當您新增客戶，關聯經銷商到客戶帳戶 | 在 **\[新客戶\]** 頁面 |
 |讓經銷商管理 Azure 客戶帳戶|當您新增客戶，關聯經銷商到 Azure 客戶帳戶|在 \[**Azure 服務入口網站**\] 中，選取[使用者設定](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)提供間接經銷商**租用戶擁有者**權限|
 | 提供經銷商獎勵的信用點數 | 關聯經銷商到訂閱（新或現有） | 在 **\[新訂閱\]** 頁面上 |
 | 委派特定訂閱的客戶支援給經銷商 | 從 **\[指派的支援連絡人\]** 清單選取經銷商 | 在訂用帳戶的詳細資料頁面上：選取 [**客戶] 頁面，** 然後從 [客戶的**訂閱**] 頁面中選取訂用帳戶 |
