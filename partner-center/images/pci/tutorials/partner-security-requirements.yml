@@ -1,0 +1,150 @@
+### YamlMime:Tutorial
+title: 實作合作夥伴安全性需求
+metadata:
+  title: 實作合作夥伴安全性需求
+  description: 在本教學課程中，您將瞭解合作夥伴的安全性需求，以及如何滿足這些需求。
+  audience: Partners
+  level: Beginner
+  ms.date: 06/24/2019
+  displayType: two-column
+  ms.custom: mvc
+  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
+  ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+  ms.translationtype: MT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 02/04/2020
+  ms.locfileid: "77013336"
+items:
+- title: 簡介
+  durationInMinutes: 5
+  content: >
+    確保客戶及合作夥伴的安全性和隱私權是 Microsoft 最為優先的工作。 我們持續看到更多更為複雜的安全性攻擊，這些攻擊主要與身分識別遭到入侵有關。 由於預防性控制項在對抗安全性攻擊的整體防禦策略中扮演重要角色，我們將會開始強制執行一組強制的安全性需求，以協助保護合作夥伴與其客戶。
+
+
+    在本教學課程中，您將深入了解合作夥伴的安全性需求、如何滿足這些需求，以及對合作夥伴目錄中的使用者所造成的影響。
+- title: 合作夥伴的安全性需求為何？
+  durationInMinutes: 1
+  content: >
+    所有參與雲端解決方案提供者方案的合作夥伴、控制台廠商和 Advisor 合作夥伴，都必須針對其合作夥伴租用戶中的每位使用者強制執行多重要素驗證 (MFA)。 這可藉由啟用兩個 [Azure Active Directory 基準原則](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)來完成。 基準原則是一組預先定義的原則，可協助組織抵禦許多常見的攻擊。 這些常見的攻擊可能包括密碼噴灑、重播和網路釣魚。 基準保護原則適用於所有版本的 Azure Active Directory。 Microsoft 將這些基準保護原則提供給所有人使用的原因，是因為以身分識別為基礎的攻擊在過去幾年一直持續攀升。
+
+
+    下表說明應啟用的兩個基準原則。
+
+
+    |**原則**| |
+
+    |-----|-----|
+
+    |**要求系統管理員使用 MFA**|啟用 [要求系統管理員使用 MFA] 原則時，將要求系統管理員角色中的使用者使用 Authenticator 應用程式來註冊使用 MFA。 完成 MFA 註冊後，管理員每次登入時都必須執行 MFA。|
+
+    |**使用者保護**|使用者保護是以風險為基礎的 MFA 基準原則，可保護目錄中的所有使用者。 啟用此原則會要求所有使用者都必須使用驗證器應用程式註冊 MFA。 使用者可以略過 MFA 註冊提示 14 天，在這之後，他們將會遭到封鎖而無法登入，直到他們註冊 MFA 為止。 註冊 MFA 之後，只有在有風險的登入嘗試時，才會提示使用者進行 MFA。 遭盜用的使用者帳戶會遭到封鎖，直到重設其密碼且風險事件已解除為止。|
+
+
+    啟用這些原則時，每個使用者都能夠利用 Azure MFA 來進行驗證，而不需要額外付費。 如果您使用第三方解決方案，則在存取 Microsoft 商業雲端服務時，您必須為每位使用者強制執行 MFA。
+
+
+    > [!IMPORTANT]
+
+    > 由於會針對合作夥伴目錄中的每個使用者強制執行 MFA，因此會影響任何利用使用者認證的自動化或整合作業。 若要解決這種影響，您必須修改自動化或整合連線到 Microsoft 商業雲端服務的方式。 如果您要連線的服務支援以權杖為基礎的驗證，則建議您實作[安全的應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)。
+- title: 如何啟用「要求系統管理員使用 MFA」基準原則？
+  durationInMinutes: 5
+  content: >
+    [要求管理員使用 MFA] 基準原則需要下列目錄角色的 MFA，它們被視為最具特殊權限的 Azure AD 角色：
+
+
+    - 全域管理員
+
+    - SharePoint 系統管理員
+
+    - Exchange 系統管理員
+
+    - 條件式存取管理員
+
+    - 安全性系統管理員
+
+    - 服務台管理員/密碼管理員
+
+    - 計費管理員
+
+    - 使用者管理員
+
+
+    啟用 [要求系統管理員使用 MFA] 原則時，需要以上九個系統管理員角色，才能使用 Authenticator 應用程式來註冊使用 MFA。 完成 MFA 註冊後，管理員每次登入時都必須執行 MFA。
+
+
+    如果您的組織在指令碼或程式碼中使用這些帳戶，請考慮將它們取代為 [受管理的身分識別](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/overview)。
+
+
+    若要啟用此原則並保護您的系統管理員：
+
+
+    1. 以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入  **Azure 入口網站** 。
+
+    2. 瀏覽至 [Azure Active Directory] >  [條件式存取]。
+
+    3. 在原則清單中，選取 [**基準原則：需要系統管理員的 MFA**]。
+
+    4. 將 [啟用原則] 設定為 [立即使用原則]。
+
+    5. 按一下 [儲存] ****。
+
+
+    > [!WARNING]
+
+    > 啟用此原則之前，請確定您的使用者未使用舊版驗證通訊協定。 如需詳細資訊，請參閱[如何：封鎖舊版驗證與條件式存取 Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)一文。
+
+
+    在您啟用 [要求系統管理員使用 MFA] 基準原則後，身為上述管理員角色成員的使用者會在登入時遇到新的體驗。 下圖是受此原則影響的使用者將會遇到的情況
+
+      ![提示要求詳細資訊](../images/security/baseline-require-more-info.png)
+
+      ![其他安全性驗證](../images/security/baseline-security-verification-setup.png)
+
+      ![設定行動應用程式](../images/security/baseline-configure-mobile-app.png)
+
+      ![其他安全性驗證設定已完成](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![已驗證其他安全性驗證](../images/security/baseline-security-verification-confirmed.png)
+
+    使用者完成上述動作之後，他們就能夠登入其嘗試存取的 Microsoft 雲端服務。
+- title: 如何啟用「使用者保護」基準原則？
+  durationInMinutes: 5
+  content: >-
+    使用者保護基準原則會保護目錄中的所有使用者。 啟用此原則會要求所有使用者都必須在 14 天內註冊 Azure MFA。 註冊之後，只有在有風險的登入嘗試時間，才會提示使用者進行 MFA，合作夥伴租用戶的此種行為未來將會改變。 遭盜用的使用者帳戶會遭到封鎖，直到重設密碼和風險解除為止。
+
+
+    原則**基準原則：終端使用者保護**已預先設定，而且當您流覽至 Azure 入口網站中的 [條件式存取] 分頁時，會顯示在頂端。
+
+
+    若要啟用此原則並保護您的使用者：
+
+
+    1. 以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入  **Azure 入口網站** 。
+
+    2. 瀏覽至 [Azure Active Directory] >  [條件式存取]。
+
+    3. 在原則清單中，選取 [**基準原則：終端使用者保護（預覽）**]。
+
+    4. 將 [啟用原則] 設定為 [立即使用原則]。
+
+    5. 按一下 [儲存] ****。
+
+
+    > [!WARNING]
+
+    > 啟用此原則之前，請確定您的使用者未使用舊版驗證通訊協定。 如需詳細資訊，請參閱[如何：封鎖舊版驗證與條件式存取 Azure AD](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)一文。
+
+
+    一旦啟用「終端使用者保護」基準原則，所有使用者都會在登入時遇到新的體驗。 下圖是使用者將會體驗的情況
+
+      ![提示要求詳細資訊](../images/security/baseline-require-more-info.png)
+
+      ![其他安全性驗證](../images/security/baseline-security-verification-setup.png)
+
+      ![設定行動應用程式](../images/security/baseline-configure-mobile-app.png)
+
+      ![其他安全性驗證設定已完成](../images/security/baseline-security-verification-setup-completed.png)
+
+      ![已驗證其他安全性驗證](../images/security/baseline-security-verification-confirmed.png)
+
+    使用者完成上述動作之後，他們就能夠登入其嘗試存取的 Microsoft 雲端服務。 請注意，在強制執行合作夥伴安全性需求之前，系統只會根據風險提示不受 [要求系統管理員使用 MFA] 基準原則限制的使用者進行 MFA。
