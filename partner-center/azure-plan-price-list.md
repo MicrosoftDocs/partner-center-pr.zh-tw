@@ -1,7 +1,7 @@
 ---
 title: Azure 方案價目表 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 01/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何使用合作夥伴中心查看 Azure 方案下訂用帳戶的價目表。
@@ -10,19 +10,19 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a0111883374fd12c3d4a2930347c0840231d437c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
+ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722044"
+ms.lasthandoff: 01/29/2020
+ms.locfileid: "76812640"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>適用於 Azure 的 CSP 中新商務體驗的價目表 
 
 **適當的角色**
 
 - 系統管理代理人
-- 帳單管理
+- 帳單系統管理員
 - 全域系統管理員
 - 技術服務代理人
 - 銷售代理人
@@ -75,7 +75,7 @@ CSP 中新 Azure 商務體驗的價目表會張貼在合作夥伴中心。 價�
 |SkuDescription|SKU 的描述|
 |UnitOfMeasure|收取費用或計費的單位|
 |TermDuration|針對期間型的產品，期間的長度，適用於保留|
-|市場|定價的市場|
+|Market|定價的市場|
 |貨幣|定價的貨幣|
 |UnitPrice|每一單位價格|
 |PricingTierRangeMin|針對分層定價，適用的最低價格|
@@ -86,4 +86,17 @@ CSP 中新 Azure 商務體驗的價目表會張貼在合作夥伴中心。 價�
 |MeterType|計量類型|
 |標記|項目的屬性，對於 Azure 方案定價，這會是 Azure 或 Azure 和 Reservations (特別適用於保留)|
 
-詳細的[價目表資訊](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)  
+Azure 方案的價目表可以從 [Azure 方案定價和 Marketplace 頁面](https://partner.microsoft.com/commerce/sales?type=Any&category=Any)匯出
+
+## <a name="pricing-api-for-azure-plan"></a>Azure 方案的定價 API
+
+您可以使用[定價 API](https://docs.microsoft.com/partner/develop/pricing)，透過程式設計來擷取 Azure 方案的取用和保留定價。 您也可以擷取外幣匯率。 
+
+定價 API 所在的端點與其他合作夥伴中心的 API 不同。 定價資訊包含 Azure 方案資源的計量定價 (以美元為單位) 以及適用於 Azure 方案訂用帳戶的保留定價。
+
+此 API 也可讓合作夥伴擷取每月匯率，原因則是 Azure 方案僅以美元定價。 您可以使用 API 來擷取當月或先前月份的定價和外幣匯率。
+
+>[!NOTE]
+> 定價 API 是用於 Azure 方案定價的專屬 API。 針對 Azure 資源或部署至非 Azure 方案訂用帳戶的保留，則仍請使用合作夥伴中心 [定價與供應項目] 頁面中所公佈的現有 RateCard API 和價目表。 Azure 方案定價 API 不支援軟體、市集或基座型定價，例如 Microsoft 365 或 Dynamics 365。
+
+如需 Azure 方案定價和外幣匯率 API 的詳細資訊，請參閱完整的[定價 API 文件](https://docs.microsoft.com/partner/develop/pricing)。

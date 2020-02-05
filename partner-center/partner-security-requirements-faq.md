@@ -9,21 +9,17 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 1a452b3d67abdfb1eabe4a3e85f458b085cc141d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: dd2bd327da0259f66b7feb9f90b7f6a75089524b
+ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004267"
+ms.lasthandoff: 01/24/2020
+ms.locfileid: "76723475"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
 
-**適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   系統管理代理人
--   帳單管理
--   MPN 合作夥伴系統管理員
+**適當的使用者**
+-   所有已啟用的使用者，包括來賓使用者
 
 此文章包含[合作夥伴安全性需求](partner-security-requirements.md)的常見問題集。
 
@@ -151,7 +147,7 @@ Microsoft 已不再針對獨立身分識別提供者提供驗證測試，以確�
 
 ### <a name="will-enabling-mfa-effect-how-i-interact-with-my-customers-tenant"></a>啟用 MFA 是否會影響我與客戶租用戶之間的互動方式？
 
-不。 履行這些安全性需求將不會影響您管理客戶的方式。 您執行委派系統管理作業的能力將不會中斷。
+不可以。 履行這些安全性需求將不會影響您管理客戶的方式。 您執行委派系統管理作業的能力將不會中斷。
 
 ### <a name="are-my-customers-subject-to-the-partner-security-requirements"></a>我的客戶是否需要遵守合作夥伴安全性需求？
 
