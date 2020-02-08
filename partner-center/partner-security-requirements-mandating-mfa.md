@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: medium
-ms.openlocfilehash: 46d485f8d3edf916fce478812c6d8243909e4ed4
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b71f1a2b8a42e108a521b33c1e747ca186cb1c70
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723485"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044731"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>對您的合作夥伴租使用者強制多重要素驗證（MFA）
 
@@ -31,8 +31,8 @@ ms.locfileid: "76723485"
 
 這些合作夥伴將需要完成下欄區域的 MFA 驗證：
 
-- [合作夥伴中心儀表板](#partner-center-dashboard)（目標為 H1 CY2020）
-- [合作夥伴中心 API](#partner-center-api) （目標為 H1 CY2020）
+- [合作夥伴中心儀表板](#partner-center-dashboard)（目標為 Q2 CY2020）
+- [合作夥伴中心 API](#partner-center-api) （以 Q2 CY2020 為目標）
 - [合作夥伴委派管理](#partner-delegated-administration)（自2019年11月18日起）
 
 這項功能的目的是協助合作夥伴保護其對客戶資源的存取，以防止認證洩漏。
@@ -61,9 +61,9 @@ ms.locfileid: "76723485"
 
 **範例2：合作夥伴已使用身分識別同盟來執行協力廠商 MFA**
 1. Trent 適用于 CSP Wingtip。 Wingtip 已使用協力廠商 MFA （透過身分識別同盟與 Azure AD 整合），為其下的所有使用者執行 MFA。
-2. Trent 會從他的工作站開始新的瀏覽器會話，並導覽至合作夥伴中心儀表板的 [總覽] 頁面（不受 MFA 保護）。 合作夥伴中心會將 Justin 重新導向至 Azure AD 以進行登入。
+2. Trent 會從他的工作站開始新的瀏覽器會話，並導覽至合作夥伴中心儀表板的 [總覽] 頁面（不受 MFA 保護）。 合作夥伴中心會將 Trent 重新導向至 Azure AD 以進行登入。
 3. 由於 Wingtip 已設定身分識別同盟，Azure AD 會將 Trent 重新導向至同盟身分識別提供者，以完成登入和 MFA 驗證。 成功登入和 MFA 驗證之後，Trent 會重新導向回到 Azure AD，然後到合作夥伴中心儀表板的 [總覽] 頁面。
-4. Justin 嘗試存取合作夥伴中心內受 MFA 保護的其中一個頁面。 由於 Trent 在先前的登入期間已完成 MFA 驗證，Trent 可以存取受 MFA 保護的頁面，而不需要再次進行 MFA 驗證。
+4. Trent 嘗試存取合作夥伴中心內受 MFA 保護的其中一個頁面。 由於 Trent 在先前的登入期間已完成 MFA 驗證，Trent 可以存取受 MFA 保護的頁面，而不需要再次進行 MFA 驗證。
 
 **範例3：合作夥伴尚未實作為 MFA**
 1. John 適用于 CSP Fabrikam。 Fabrikam 尚未為 Fabrikam 合作夥伴租使用者下的任何使用者實作為 MFA。
@@ -127,7 +127,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 - 如果夥伴**帳戶是同盟身分識別，** 則此體驗取決於夥伴管理員如何在 Azure Active Directory 中設定同盟。 在 Azure Active Directory 中設定同盟時，合作夥伴系統管理員可以指出是否要 Azure Active Directory 聯盟識別提供者是否支援 MFA。 若是如此，Azure Active Directory 會將使用者重新導向至同盟身分識別提供者，以完成 MFA 驗證。 否則，Azure Active Directory 會直接提示使用者完成 MFA 驗證。 如果合作夥伴帳戶尚未向 Azure Active Directory 註冊 MFA，則會要求使用者先[完成 mfa 註冊](#mfa-registration-experience)。
 
-整體體驗非常類似于終端客戶租使用者為其系統管理員實作為 MFA 的案例。 例如，客戶租使用者已啟用[Azure AD 的基準原則-適用于系統管理員的 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，這需要具有系統管理許可權的所有帳戶，才能使用 MFA 驗證（包括管理員代理程式和技術服務人員代理程式）來登入客戶租使用者。 基於測試目的，合作夥伴可以在客戶租使用者中啟用 [系統[管理員的 MFA] 原則](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，然後嘗試使用合作夥伴委派的系統管理許可權來存取客戶租使用者。
+整體體驗非常類似于終端客戶租使用者為其系統管理員實作為 MFA 的案例。 例如，客戶租使用者已啟用[Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，這需要具有系統管理許可權的所有帳戶，才能使用 MFA 驗證來登入客戶租使用者，包括系統管理員代理程式和技術服務人員代理程式。 基於測試目的，合作夥伴可以啟用客戶租使用者中的[Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，然後嘗試使用合作夥伴委派的系統管理許可權來存取客戶租使用者。
 
 > [!NOTE]
 > 並非所有的 Microsoft 線上服務入口網站都需要合作夥伴帳戶，才能在使用合作夥伴委派的系統管理員許可權存取客戶資源時，登入客戶租使用者。 相反地，他們只需要合作夥伴帳戶來登入合作夥伴租使用者。 例如 Exchange 系統管理中心。 經過一段時間，我們預期這些入口網站會要求合作夥伴帳戶在使用合作夥伴委派的系統管理員許可權時，登入客戶租使用者。
@@ -141,7 +141,7 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 - 合作夥伴必須避免搭配 Azure AD 使用非互動式使用者驗證方法來取得存取權杖。 使用非互動式使用者驗證方法（例如[密碼流程](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)）時，Azure AD 將無法提示使用者完成 MFA 驗證。 合作夥伴必須改用互動式使用者驗證方法（例如[OpenID connect 流程](https://docs.microsoft.com/azure/active-directory/develop/v1-protocols-openid-connect-code)）切換為使用。
 - 在互動式使用者驗證方法期間，合作夥伴應使用已啟用 MFA 的合作夥伴使用者帳戶。 或者，當 Azure AD 出現提示時，合作夥伴可以在登入期間完成 MFA 註冊和 MFA 驗證。
-- 這非常類似于終端客戶租使用者為其系統管理員實作為 MFA 的案例。 例如，客戶租使用者已啟用[Azure AD 的基準原則-適用于系統管理員的 MFA](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，這需要具有系統管理許可權的所有使用者帳戶，才能使用 MFA 驗證來登入客戶租使用者，包括系統管理員代理程式和技術服務人員代理程式。 基於測試目的，合作夥伴可以在客戶租使用者中啟用 [系統[管理員的 MFA] 原則](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-administrators)，然後嘗試使用合作夥伴委派的系統管理許可權，以程式設計方式存取客戶租使用者。
+- 這非常類似于終端客戶租使用者為其系統管理員實作為 MFA 的案例。 例如，客戶租使用者已啟用[Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，這需要具有系統管理許可權的所有使用者帳戶，才能使用 MFA 驗證來登入客戶租使用者，包括系統管理員代理程式和技術服務人員代理程式。 基於測試目的，合作夥伴可以在客戶租使用者中啟用[Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，然後嘗試使用合作夥伴委派的系統管理許可權，以程式設計方式存取客戶租使用者。
 
 ### <a name="mfa-registration-experience"></a>MFA 註冊體驗
 在 MFA 驗證期間，如果合作夥伴帳戶之前尚未註冊 MFA，Azure AD 會先提示使用者完成 MFA 註冊：

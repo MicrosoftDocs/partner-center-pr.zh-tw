@@ -1,7 +1,7 @@
 ---
 title: 雲端解決方案提供者合約、價目表和優惠 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 02/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 此文章包括雲端解決方案提供者計畫指南、合作夥伴合約、客戶合約、價目表與供應項目的連結。
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: csp program guides, program guide, partner agreements, customer agreement, price lists, offers, 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 供應項目
 ms.localizationpriority: high
-ms.openlocfilehash: 8c7543b00b45a2c690064b8b50caa4737ef5bb7d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 6a22599a986fed7e67b15a279ae8a2ddba598cec
+ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252130"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "77012106"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、合約、價目表和優惠
 
@@ -40,12 +40,14 @@ ms.locfileid: "74252130"
 
 [線上服務訂閱和軟體通路授權的補充供應項目條款指南](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-cloud-agreement-customer-templates"></a>Microsoft Cloud 合約客戶範本
+## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft 客戶合約客戶範本
 
-客戶必須先接受並簽署適用的 Microsoft Cloud 合約，您才能代表客戶下訂單。 Microsoft Cloud 合約是地區特定的，且提供多個語言。 請移置 Microsoft Cloud 合約[客戶範本](agreements.md)，尋找您必須與新客戶一起檢閱的 Microsoft Cloud 合約。
+客戶必須先接受並簽署適用的 Microsoft 客戶合約，您才能代表客戶下訂單。 Microsoft 客戶合約為區域特定。 請務必根據客戶的位置選取正確的國家/地區。
+
+若要手動下載最新版本的 Microsoft 客戶合約範本，請選取此 [URL](https://aka.ms/customeragreement)。
 
 >[!IMPORTANT]
->您必須提供簽署 Microsoft Cloud 合約之人員的資訊，以確認客戶已接受合約。 請參閱[確認客戶接受 Microsoft Cloud 合約](confirm-consent.md) 
+>您必須確認客戶已接受 Microsoft 客戶合約。 您可以透過證明客戶已接受合約或邀請客戶直接接受合約來確認。 請參閱[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)。
 
 ### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Microsoft Cloud 合約的個人機密資訊條款 (德國)
 

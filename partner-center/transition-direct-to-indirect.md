@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帳單、轉換、間接轉銷商
-ms.openlocfilehash: 37085f151b2cff2a32026266423240417152b950
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
+ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860481"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "77044745"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商 
 
@@ -27,7 +27,7 @@ ms.locfileid: "76860481"
 
 您將能夠使用現有的直接帳單租使用者註冊間接轉銷商計畫。 
 
-## <a name="get-started"></a>入門
+## <a name="get-started"></a>開始使用
 
 1. 請確定合作夥伴中心和 MPN 識別碼中的夥伴設定檔是最新的。
 
@@ -239,7 +239,7 @@ ms.locfileid: "76860481"
 
 7. 在 [傳送要求] 對話方塊中，選取一或多個要轉移的訂閱。 
 
-8. 按一下 \[建立\]。 
+8. 按一下 [建立]。 
 
 9. 作用中的訂用帳戶轉移要求會顯示在 [訂用帳戶**轉移**] 底下。 
 
@@ -309,9 +309,9 @@ ms.locfileid: "76860481"
 
 您也有資格向同一個夥伴租使用者註冊直接帳單獎勵計畫。 您必須分別管理程式。
 
-## <a name="see-also"></a>請參閱 
+## <a name="see-also"></a>另請參閱 
 - [有關成為間接轉銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
 - [雲端解決方案提供者直接合作夥伴的新需求](direct-partner-new-requirements.md)
-- [限制的直接帳單功能](restricted-direct-bill-capabilities.md)
+- [受限制的直接計費功能](restricted-direct-bill-capabilities.md)
 
 
