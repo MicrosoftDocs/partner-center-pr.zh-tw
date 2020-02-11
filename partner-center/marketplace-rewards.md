@@ -10,12 +10,12 @@ author: laurabrenner
 ms.author: labrenne
 Keywords: marketplace 供應專案、行銷支援、獎勵、發行者權益
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ed3def75a294b5b6050eedccb1cf8d6a5bebfc0
-ms.sourcegitcommit: 7adb6c451fa655336e1d7692c6fc6915dacef385
+ms.openlocfilehash: 3fadda03e0a879aabf858954d0bea55414e81137
+ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "76171206"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77075613"
 ---
 # <a name="manage-marketplace-rewards"></a>管理 Marketplace 獎勵
 
@@ -38,7 +38,7 @@ Marketplace 獎勵資格是根據連結至 PGA MPN 公司的所有發行者設�
 
 3. 若要新增或更新您的行銷連絡人資訊，請移至 Marketplace 獎勵頁面上 [銷售與行銷權益] 索引標籤的頂端，然後選取 [**新增]、[更新] 或 [變更**]。 
 
-接下來，執行下列作業：
+接下來，請執行下列動作：
 
   - 從清單中選取使用者。 如果您要指派的使用者不在清單中，您可以在 [帳戶設定] 中新增使用者。
 
@@ -48,15 +48,15 @@ Marketplace 獎勵資格是根據連結至 PGA MPN 公司的所有發行者設�
 
 4. 更新行銷連絡人之後，請選取 [**啟用**] 以取得您想要開始使用的權益。 一旦您啟用權益，您的行銷連絡人會在一周內由獎勵小組成員聯繫。
 
-## <a name="technical-benefits"></a>技術權益
+## <a name="technical-benefits"></a>技術優勢
 
 1. 您可以在雲端和混合式解決方案的售前、設計、部署和應用程式開發階段，使用您的技術優勢來要求技術協助。 若要要求協助，請填寫要求表單，然後選取 [**提交要求**]。
 
 2. 當您將這些權益解除鎖定時，如何利用電子郵件共用 Azure 贊助權益。 
 
-## <a name="why-cant-i-see-the-commercial-rewards-marketplace-program-on-my-dashboard"></a>為什麼我看不到儀表板上的商業獎勵 Marketplace 方案？
+## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>為什麼我看不到儀表板上的商用 Marketplace 獎勵方案？
 
-Marketplace 獎勵資訊可透過用來建立合作夥伴中心帳戶的 Azure AD 租使用者和 MPN 識別碼取得。 此帳戶稱為貴公司的合作夥伴通用帳戶（PGA）。 如果您的 AAD 租使用者不同于用於 MPN 上線的帳戶，為了讓您看到 [商業獎勵 Marketplace] 功能表，您必須將它與您公司的 PGA 建立關聯。 
+Marketplace 獎勵資訊可透過用來建立合作夥伴中心帳戶的 Azure AD 租使用者和 MPN 識別碼取得。 此帳戶稱為貴公司的合作夥伴通用帳戶（PGA）。 如果您的 Azure AD 租使用者不同于用於 MPN 上架的租使用者，為了讓您看到 [商業獎勵 Marketplace] 功能表，您必須將它與您公司的 PGA 建立關聯。 
 
 ### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>將 Azure AD 租使用者與您公司的 PGA 產生關聯
 
