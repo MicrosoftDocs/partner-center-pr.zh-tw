@@ -1,19 +1,19 @@
 ---
 title: 建立合作夥伴中心帳戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 02/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft 合作夥伴網路成員需要建立合作夥伴中心帳戶，才能管理他們的網路權益和專長認證，以及建立商務設定檔。
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
-ms.openlocfilehash: 46a299f8e882f6f55d4f674c989446250c0c26d6
-ms.sourcegitcommit: f95cd3e5650451a45c7fe6906202420dd80c5a88
+ms.openlocfilehash: 6e9a2adf925ae8fc9fca81be4bd87cf3064d18b6
+ms.sourcegitcommit: b706969f19a6d4ba1d9d9b8408abdd90591d81bd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "74096481"
+ms.lasthandoff: 02/07/2020
+ms.locfileid: "77069694"
 ---
 # <a name="create-a-partner-center-account"></a>建立合作夥伴中心帳戶
 
@@ -22,9 +22,9 @@ ms.locfileid: "74096481"
 - 全域系統管理員
 - 系統管理代理人
 
-您的公司必須是 Microsoft 合作夥伴網路的成員，才能建立在合作夥伴中心建立帳戶。 如果您還不是該網路的成員，您可以[立即加入](https://partners.microsoft.com/PartnerProgram/simplifiedenrollment.aspx)。  [深入了解](https://partner.microsoft.com/membership) Microsoft 合作夥伴網路的成員資格。 建立合作夥伴中心帳戶之後，請觀看這段短片來[探索您的儀表板](https://vimeo.com/290338211)。
+您的公司必須是 Microsoft 合作夥伴網路的成員，才能建立在合作夥伴中心建立帳戶。 如果您還不是該網路的成員，您可以[立即加入](https://partner.microsoft.com/commercial#)。 建立合作夥伴中心帳戶之後，請觀看這段短片來[探索您的儀表板](https://vimeo.com/290338211)。
 
-## <a name="before-you-begin"></a>開始之前
+## <a name="before-you-begin"></a>在您開始前
 
 若要在合作夥伴中心建立帳戶，您必須備妥下列資訊。 您可能需要先花幾分鐘時間收集這些項目，再開始進行：
 
@@ -65,7 +65,7 @@ ms.locfileid: "74096481"
 
     b. 從使用者清單中選取您的名稱，然後選取 [系統管理代理人]  (如果尚未選取)。 選取 [更新]  。  
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 -   [新增帳戶使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
 
