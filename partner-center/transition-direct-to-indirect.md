@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帳單、轉換、間接轉銷商
-ms.openlocfilehash: ff912c2b970aa4caac928a7d0975f4b1bab7f056
-ms.sourcegitcommit: 75ff45d6216f716114b30b430363d546ca612fc5
+ms.openlocfilehash: d02b6101384b6c9fae986bbe45ce4865fd450308
+ms.sourcegitcommit: b74437db6aead02c9be3b865d36086f750802041
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "77044745"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "77213336"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商 
 
@@ -50,7 +50,7 @@ ms.locfileid: "77044745"
 >[!Note]
 > 雖然核准通常是立即的，但最多可能需要五個工作天。 一經核准，您就會收到通知，指向您在註冊表單的 [主要連絡人] 底下指定的電子郵件地址。 您也可以在 **設定** > 合作夥伴**設定** > **合作夥伴設定檔** > 方案資訊 底下，檢查註冊狀態。 
 
-6. 在您的 **[總覽**] 頁面上，您會看到間接轉銷商合約。 選取 **\[接受並繼續\]** 。 這會啟用間接轉銷商功能。
+6. 在您的 **[總覽**] 頁面上，您會看到間接轉銷商合約。 選取 \[Accept and continue\] (接受並繼續)。 這會啟用間接轉銷商功能。
 
 當您接受間接轉銷商合約時，請注意，您的夥伴設定檔**會將您識別為直接**帳單和間接轉銷商。
 
@@ -137,7 +137,7 @@ ms.locfileid: "77044745"
 
 ## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>將您的直接帳單客戶移至您的間接提供者
 
-您的間接提供者無法提交現有直接帳單客戶的訂單或現有的訂用帳戶傳輸，直到他們與他們有轉銷商關係為止。 若要建立間接提供者與現有間接提供者之間的轉銷商關係，您可以使用下列其中一種方法： 
+您的間接提供者無法提交現有直接帳單客戶的訂單或現有的訂用帳戶傳輸，直到他們與他們有轉銷商關係為止。 若要建立間接提供者與現有直接帳單客戶之間的轉銷商關係，您可以使用下列其中一種方法： 
 
 - [轉售商關係延伸模組](#reseller-relationship-extension) 
 
@@ -147,7 +147,7 @@ ms.locfileid: "77044745"
 
 您可以使用轉銷商關係延伸模組功能，透過合作夥伴中心儀表板，在您現有的直接帳單客戶與間接提供者之間建立轉銷商關係。 使用此功能之前，請注意下列事項： 
 
-- 這項功能僅適用于正在轉換為間接轉銷商完成[間接轉銷商註冊](#get-started)的直接帳單合作夥伴。 
+- 這項功能僅適用于轉換成間接轉銷商的直接帳單合作夥伴，已完成[間接轉銷商註冊](#get-started)。 
 
 - 您只能將此功能套用到現有的直接帳單客戶。 不適用於[間接轉銷商客戶](#acquire-new-customers-as-indirect-reseller)。 
 
@@ -160,7 +160,7 @@ ms.locfileid: "77044745"
 
 - 您的間接提供者不會提供給客戶租使用者的[委派系統管理許可權](customers_revoke_admin_privileges.md)。 如果您的間接提供者需要委派的系統管理許可權，您必須改為傳送間接轉銷商邀請給客戶。
 
-- 建立轉銷商關係之後，間接提供者會在 M365 系統管理中心內的 [合作夥伴關係] 頁面和 [[商務用 Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)] 下，顯示為客戶的 CSP 合作夥伴。
+- 建立轉銷商關係之後，間接提供者會在[M365 系統管理中心](https://admin.microsoft.com/AdminPortal/Home#/partners)內的 [合作夥伴關係] 頁面和 [[商務用 Microsoft Store](https://docs.microsoft.com/microsoft-store/work-with-partner-microsoft-store-business)] 下，顯示為客戶的 CSP 合作夥伴。
 
 >[!Note] 
 >為避免混淆和誤解，您的合作夥伴合約會依履約不必，以在使用關聯性延伸功能來建立現有的轉銷商關聯性之前，先通知並取得直接帳單客戶的同意直接帳單客戶與間接提供者。 
@@ -197,6 +197,22 @@ ms.locfileid: "77044745"
 
 6. 若要管理客戶的帳戶、服務、使用者及授權，請選取客戶名稱旁邊的向下箭頭以展開其記錄。 
 
+### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft 客戶合約接受
+
+Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所有客戶（現有和新的）都必須簽署新的[Microsoft 客戶合約](https://docs.microsoft.com/partner-center/confirm-customer-agreement)。 針對轉換客戶，如果：
+
+- **客戶尚未接受 Microsoft 客戶合約**
+
+   請與間接提供者合作，讓客戶[接受 Microsoft 客戶合約]( https://docs.microsoft.com/partner-center/confirm-customer-agreement)。
+
+- **客戶已透過 Microsoft 365 系統管理中心，接受與您的 Microsoft 客戶合約**
+
+   一旦轉銷商關聯性與間接提供者建立後，就會保留接受。 您不需要執行任何動作。
+
+- **客戶已透過合作夥伴證明與您一起接受 Microsoft 客戶合約**
+
+   將不會保留接受。 請與間接提供者合作，以[在合作夥伴中心更新客戶的接受]( https://docs.microsoft.com/partner-center/confirm-customer-agreement#confirm-customer-acceptance-for-existing-customers)度。
+
 ## <a name="transfer-existing-direct-bill-subscriptions-to-indirect-provider"></a>將現有的直接帳單訂閱傳送至間接提供者
 
 在 CSP 間接模型底下，間接轉銷商沒有與 Microsoft 的計費關係。 相反地，間接轉銷商會透過其間接提供者取得其客戶的訂用帳戶。 從直接帳單合作夥伴轉換為間接轉銷商時，您必須將您擁有的現有訂用帳戶，以直接帳單合作夥伴的形式轉移至間接提供者。 您可以使用合作夥伴中心儀表板中的自助式訂用帳戶傳輸功能來執行此動作。 
@@ -208,6 +224,8 @@ ms.locfileid: "77044745"
 - 這項功能僅適用于使用現有的直接帳單合作夥伴租使用者完成間接轉銷商註冊的合作夥伴。 
 
 - 在傳送與特定客戶相關聯的訂閱之前，轉換的夥伴必須將客戶移至間接提供者。 
+
+- 客戶已[透過間接提供者接受 Microsoft 客戶合約](#microsoft-customer-agreement-acceptance)。
  
 ### <a name="how-to"></a>使用方法
 
@@ -293,13 +311,15 @@ ms.locfileid: "77044745"
  
 ### <a name="considerations"></a>考量
 
+- **傳送之後，訂用帳戶識別碼會不同。** 如果它是 Azure 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p），則會有 Azure 訂用帳戶識別碼，其會由先前的擁有者保留，並會出現在 Azure 管理入口網站中。
+
 - **相同的訂用帳戶無法由多個傳送要求參考。** 建立包含現有訂用帳戶的傳輸要求之後，您將無法建立額外的傳輸要求（包括相同的訂用帳戶），直到第一次轉移要求取消為止。 
 
 - **以基座訂用帳戶為基礎的附加元件，必須連同其基本訂用帳戶一起傳輸。** 建立傳送要求時，如果您挑選具有一或多個附加元件的現有訂用帳戶，此附加元件將會自動包含在傳送要求中。 
 
 - **對訂用帳戶的基座計數變更不會反映在現有的傳輸要求中。** 建立包含現有訂用帳戶的傳送要求之後，您應該避免更新訂用帳戶的基座數量（或相關聯的附加元件）。 如果您這樣做，新的數量將不會反映在傳送要求中。 當間接提供者接受傳輸要求之後，結果訂用帳戶將會有舊的數量。 如果您想要將新的數量轉移給間接提供者，您必須取消現有的傳輸要求，然後重新建立一個新的。 
 
-- **並非所有購買都可以使用自助式訂用帳戶傳輸來傳輸。** 目前，您只能使用這項功能來傳送 O365 訂用帳戶和 Azure PAGY 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p）。 不支援其他購買專案，包括 Azure 方案、Azure 保留實例、以詞彙為基礎的訂用帳戶，以及適用于 Azure Marketplace 的 SaaS 訂閱。 您會在 [提交轉移要求] 頁面中看到無法轉移訂用帳戶的原因。
+- **並非所有購買都可以使用自助式訂用帳戶傳輸來傳輸。** 目前，您只能使用這項功能來傳送 O365 訂用帳戶和 Azure PAGY 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p）。 不支援其他購買專案，包括 Azure 方案、Azure 保留實例、以詞彙為基礎的訂用帳戶，以及適用于 Azure Marketplace 的 SaaS 訂閱。 您會在 [提交轉移要求] 頁面中看到無法轉移訂用帳戶的原因。 若要傳送這些訂用帳戶，您必須[取消現有的訂](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription)用帳戶，並透過間接提供者購買客戶的新供應專案。
 
 - **無法使用沙箱環境進行測試。** 
 
