@@ -18,11 +18,11 @@ ms.locfileid: "75004847"
 ---
 # <a name="marketplace-exclusive-offers"></a>Marketplace 專屬優惠
 
-**Roles adecuados**
+**適當的角色**
 -   全域系統管理員
--   Administrador de usuarios
--   Agente de administración
--   Agente de ventas
+-   使用者系統管理員
+-   系統管理代理人
+-   銷售代理人
 
 Isv 可以選擇將其供應專案提供給數個精選的 CSP 合作夥伴。 所有 CSP 合作夥伴仍然可以在合作夥伴中心 Marketplace 中查看所有 ISV 供應專案，但標示為專屬的優惠只能由 ISV 已選取的合作夥伴購買。 如果供應專案未指定為「專屬」，所有合作夥伴都可以購買。
 

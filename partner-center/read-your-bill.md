@@ -1,5 +1,5 @@
 ---
-title: Leer factura | Centro de partners
+title: 閱讀您的帳單 |合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
 description: 您的發票是目前每月期間的所有合作夥伴中心費用（跨方案、產品和客戶）的摘要。
@@ -8,7 +8,7 @@ ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: facturación de suscripción, facturación, facturación en el centro de partners, facturación del centro de partners, leer mi factura, factura, factura del centro de partners, factura CSP, ¿dónde está mi factura?
+keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
 ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
 ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
@@ -17,19 +17,19 @@ ms.contentlocale: zh-TW
 ms.lasthandoff: 12/11/2019
 ms.locfileid: "75004827"
 ---
-# <a name="read-your-bill"></a>Leer tu factura
+# <a name="read-your-bill"></a>閱讀您的帳單
 
 **適用於**
 
-- 合作夥伴中心
-- Centro de partners para Microsoft Cloud for US Government
+- 夥伴中心
+- Microsoft Cloud for US Government 適用的合作夥伴中心
 
-**Roles adecuados**
+**適當的角色**
 -   全域系統管理員
--   Administrador de usuarios
--   Administrador de facturación
--   Agente de administración
--   Administrador de partners de MPN
+-   使用者系統管理員
+-   帳單管理
+-   系統管理代理人
+-   MPN 合作夥伴系統管理員
 
 您的**發票**是**目前計費期間** **所有合作夥伴中心費用的摘要**（整個方案、所有產品和所有客戶）。
 
@@ -71,4 +71,4 @@ ms.locfileid: "75004827"
 
 您可以使用您的對帳檔案來瞭解費用的詳細資料。 對帳檔案包含您可以用來建立客戶發票的客戶識別碼和訂用帳戶識別碼。
 
-Para obtener más información, consulta el tema sobre [cómo usar archivos de conciliación](use-the-reconciliation-files.md).
+如需詳細資訊，請參閱[如何使用對帳檔案](use-the-reconciliation-files.md)。
