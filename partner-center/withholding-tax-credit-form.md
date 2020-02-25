@@ -1,115 +1,95 @@
 ---
 title: 請確定您已支付預繳稅金 |合作夥伴中心
 ms.topic: article
-ms.date: 11/07/2019
-description: 請確定您的合作夥伴中心帳戶已為預繳稅金貸付，並在必要時開啟服務要求。
+ms.date: 2/16/2020
+description: 在合作夥伴中心建立稅額預繳要求，以確保您的合作夥伴中心帳戶會針對預繳稅金而貸。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: LauraBrenner
-ms.author: labrenne
-keywords: 預繳稅金、稅務點數、德文稅點數表、表單稅務點數
+author: brentserbus
+ms.author: brserbus
+keywords: 預繳稅金、稅務點數、德文稅點數表、稅務憑證
 ms.localizationpriority: medium
-ms.openlocfilehash: 98449ae99b0acc549ba10129c49102d4e498b96b
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943161"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77520997"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a><span data-ttu-id="2cdd3-104">確定您的扣繳稅額已減免</span><span class="sxs-lookup"><span data-stu-id="2cdd3-104">Make sure you are credited for withholding tax</span></span>
+# <a name="make-sure-you-are-credited-for-withholding-tax"></a><span data-ttu-id="cb926-104">請確定您已為預繳稅金貸記</span><span class="sxs-lookup"><span data-stu-id="cb926-104">Make sure you are credited for withholding tax</span></span>
 
-<span data-ttu-id="2cdd3-105">適用於：</span><span class="sxs-lookup"><span data-stu-id="2cdd3-105">Applies to:</span></span>
+<span data-ttu-id="cb926-105">適用於：</span><span class="sxs-lookup"><span data-stu-id="cb926-105">Applies to:</span></span>
 
-- <span data-ttu-id="2cdd3-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="2cdd3-106">Partner Center</span></span>
+- <span data-ttu-id="cb926-106">夥伴中心</span><span class="sxs-lookup"><span data-stu-id="cb926-106">Partner Center</span></span>
 
-<span data-ttu-id="2cdd3-107">本主題說明如何確保您在合作夥伴中心支付預繳稅金。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-107">This topic explains how to make sure that you are credited for withholding tax in Partner Center.</span></span> <span data-ttu-id="2cdd3-108">它說明如何使用國際預繳稅金表單或德國的預繳稅金形式開啟服務要求。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-108">It explains how to open a service request using the global withholding tax form or the withholding tax form for Germany.</span></span>
+<span data-ttu-id="cb926-107">本主題說明如何確保您在合作夥伴中心支付預繳稅金。</span><span class="sxs-lookup"><span data-stu-id="cb926-107">This topic explains how to make sure that you are credited for withholding tax in Partner Center.</span></span> <span data-ttu-id="cb926-108">其中說明如何在合作夥伴中心建立稅額預繳要求。</span><span class="sxs-lookup"><span data-stu-id="cb926-108">It explains how to create a tax withholding request in Partner Center.</span></span>
+
+## <a name="overview"></a><span data-ttu-id="cb926-109">概觀</span><span class="sxs-lookup"><span data-stu-id="cb926-109">Overview</span></span>
+
+<span data-ttu-id="cb926-110">某些國家/地區的 CSP 合作夥伴會收到包含稅金的發票金額。</span><span class="sxs-lookup"><span data-stu-id="cb926-110">CSP partners in some countries receive invoice amounts that include taxes.</span></span> <span data-ttu-id="cb926-111">其中一些合作夥伴會支付當地的稅務機關，而不是 Microsoft。</span><span class="sxs-lookup"><span data-stu-id="cb926-111">Some of these partners pay their local tax authority instead of Microsoft.</span></span> <span data-ttu-id="cb926-112">這些合作夥伴需要提交包含其稅務憑證的稅務預繳要求，以清除先前發票的估價金額。</span><span class="sxs-lookup"><span data-stu-id="cb926-112">These partners need to submit a tax withholding request including their tax certificate to clear the taxed amount from previous invoices.</span></span> <span data-ttu-id="cb926-113">這些已清除的金額會在後續的每月發票中顯示為信用額度，因此合作夥伴不會再向 Microsoft 支付未付款金額。</span><span class="sxs-lookup"><span data-stu-id="cb926-113">These cleared amounts show as credits in subsequent monthly invoices, so the partner no longer owes Microsoft the unpaid amount.</span></span>
+
+<span data-ttu-id="cb926-114">從2020年1月起，CSP 合作夥伴應在**帳單頁面**上提交稅金預繳要求，而不是建立支援要求。</span><span class="sxs-lookup"><span data-stu-id="cb926-114">Starting January 2020 CSP partners should submit tax withholding requests at the **Billing page** instead of creating Support Requests.</span></span> <span data-ttu-id="cb926-115">若要在帳單頁面中提交要求，CSP 合作夥伴應前往**合作夥伴中心**，然後選取左側導覽中的 [**帳單**]。</span><span class="sxs-lookup"><span data-stu-id="cb926-115">To submit the requests in the Billing page, CSP partners should go to the **Partner Center** and select **Billing** in the left-hand navigation.</span></span> <span data-ttu-id="cb926-116">**計費頁面**是提交稅金預繳要求的新位置。</span><span class="sxs-lookup"><span data-stu-id="cb926-116">The **Billing page** is the new location to submit tax withholding requests.</span></span> 
+
+### <a name="submit-a-new-tax-withholding-request"></a><span data-ttu-id="cb926-117">提交新的稅金預繳要求</span><span class="sxs-lookup"><span data-stu-id="cb926-117">Submit a new tax withholding request</span></span>
+
+<span data-ttu-id="cb926-118">請遵循下列步驟來提交新的稅金預繳：</span><span class="sxs-lookup"><span data-stu-id="cb926-118">Follow these steps to submit a new tax withholding:</span></span>
+
+1. <span data-ttu-id="cb926-119">登入合作夥伴中心儀表板。</span><span class="sxs-lookup"><span data-stu-id="cb926-119">Sign in to the Partner Center dashboard.</span></span>
+2. <span data-ttu-id="cb926-120">在左側功能表中，選擇 [**計費**]</span><span class="sxs-lookup"><span data-stu-id="cb926-120">In the left-hand menu, choose **Billing**</span></span>
+3. <span data-ttu-id="cb926-121">在**計費**頁面的 [**帳單記錄**] 區段上，尋找您想要為其提交稅額的發票。</span><span class="sxs-lookup"><span data-stu-id="cb926-121">Find the invoice you want to submit the tax withholding for on the **Billing** page's **Billing history** section.</span></span>
+4. <span data-ttu-id="cb926-122">按一下 [**提交新**的]，將會帶您前往 [**新的稅金要求**] 頁面。</span><span class="sxs-lookup"><span data-stu-id="cb926-122">Click **Submit new** which will take you to the **New tax withholding request** page.</span></span>
+
+![提交發票的新預繳稅](images/wht1.png)
+
+5. <span data-ttu-id="cb926-124">請參閱發票詳細資料，以確保您會提交正確發票的要求。</span><span class="sxs-lookup"><span data-stu-id="cb926-124">Review the invoice details to ensure you are submitting the request for the correct invoice.</span></span>
+
+![完成發票的稅款預繳詳細資料](images/wht2.png)
+
+6. <span data-ttu-id="cb926-126">在 [**稅務預繳 details**] 底下輸入 [預繳 Total]。</span><span class="sxs-lookup"><span data-stu-id="cb926-126">Enter the "Withholding Total" under **Tax withholding details**.</span></span> <span data-ttu-id="cb926-127">「預繳 Total」是您預期要貸記的金額。</span><span class="sxs-lookup"><span data-stu-id="cb926-127">The "Withholding Total" is the amount you expect to be credited.</span></span>
+7. <span data-ttu-id="cb926-128">**附加**稅務憑證。</span><span class="sxs-lookup"><span data-stu-id="cb926-128">**Attach** a tax certificate.</span></span> <span data-ttu-id="cb926-129">您必須在稅金預繳要求中包含**預繳稅金憑證**的**數位複本**。</span><span class="sxs-lookup"><span data-stu-id="cb926-129">You will need to include a **digital copy** of your **withholding tax certificates** in your tax withholding request.</span></span> <span data-ttu-id="cb926-130">當您在合作夥伴中心提交要求時，您會從當地稅務機構收到此憑證。</span><span class="sxs-lookup"><span data-stu-id="cb926-130">You received this certificate from your local tax agency when you submitted your request in Partner Center.</span></span> <span data-ttu-id="cb926-131">如果您使用**稅務預繳要求**程式提交**非英文的語言稅務憑證**，則必須包含稅務憑證的**翻譯**。</span><span class="sxs-lookup"><span data-stu-id="cb926-131">If you are submitting a **non-English language tax certificate** using the **tax withholding request process**, you must include a **translation** of the tax certificate.</span></span> <span data-ttu-id="cb926-132">預繳稅金憑證中的發票稅額必須符合您的稅金預繳要求中的總金額。</span><span class="sxs-lookup"><span data-stu-id="cb926-132">The invoice tax amount in the withholding tax certificate must match total amount in your tax withholding request.</span></span> 
 
 > [!IMPORTANT]
-> <span data-ttu-id="2cdd3-109">Microsoft 必須收到您的**預繳稅金形式**和您的預繳稅金**憑證**複本，才能讓帳戶收取預繳稅金。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-109">Microsoft must receive your **withholding tax credit form** and a copy of your **withholding tax certificate** for your account to be credited for withholding tax.</span></span>
+> <span data-ttu-id="cb926-133">合作夥伴提供的總金額應符合附加的稅務憑證中的發票明細專案。</span><span class="sxs-lookup"><span data-stu-id="cb926-133">The amount totals the partner provides should match the invoice line item from the attached tax certificate.</span></span>
 
-## <a name="withholding-tax-credit-form"></a><span data-ttu-id="2cdd3-110">預繳稅點數表單</span><span class="sxs-lookup"><span data-stu-id="2cdd3-110">Withholding tax credit form</span></span>
+8. <span data-ttu-id="cb926-134">**提交**稅金預繳要求。</span><span class="sxs-lookup"><span data-stu-id="cb926-134">**Submit** the tax withholding request.</span></span>
 
-- <span data-ttu-id="2cdd3-111">請確定表單包含您的公司名稱和國家/地區、預繳稅金憑證編號，且表單已簽署且正確。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-111">Ensure the form includes your company name and country, the withholding tax certificate number, and the form is signed and dated accurately.</span></span> <span data-ttu-id="2cdd3-112">以下是適用于[德國](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)和[所有其他國家/地區](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311)的稅務點數形式：。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-112">Here are the tax credit forms: For [Germany](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) and [All other countries](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311).</span></span>
+<span data-ttu-id="cb926-135">提交要求之後，將會進入核准程式，在此期間會核准完成，或在需要更正時將其送回給合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="cb926-135">Once submitted the request will go into the approval process where it will be approved for completion or sent back to the partner if corrections are needed.</span></span> <span data-ttu-id="cb926-136">合作夥伴可以在**計費歷程記錄**中，從提交新要求的位置，查看其要求的狀態。</span><span class="sxs-lookup"><span data-stu-id="cb926-136">Partners can view the status of their requests in the **Billing history** where they submitted the new request from.</span></span> <span data-ttu-id="cb926-137">要求識別碼和狀態會顯示在 [**帳單記錄**] 中。</span><span class="sxs-lookup"><span data-stu-id="cb926-137">The request ID and status will be displayed in the **Billing history**.</span></span>
 
-<span data-ttu-id="2cdd3-113">[預繳稅金信用額度] 表單會提供 Microsoft 下列資訊：</span><span class="sxs-lookup"><span data-stu-id="2cdd3-113">The withholding tax credit form provides Microsoft with the following information:</span></span>
+<span data-ttu-id="cb926-138">送回給合作夥伴的要求可讓合作夥伴變更預繳金額，並在發生問題時取代憑證。</span><span class="sxs-lookup"><span data-stu-id="cb926-138">Requests sent back to the partner will enable the partner to change the withholding amount and replace the certificate if there is a problem with it.</span></span> 
 
-- <span data-ttu-id="2cdd3-114">發票</span><span class="sxs-lookup"><span data-stu-id="2cdd3-114">Invoice(s)</span></span>
-- <span data-ttu-id="2cdd3-115">向 Microsoft 支付的金額</span><span class="sxs-lookup"><span data-stu-id="2cdd3-115">Amount paid to Microsoft</span></span>
-- <span data-ttu-id="2cdd3-116">扣繳稅賦金額</span><span class="sxs-lookup"><span data-stu-id="2cdd3-116">Withholding tax amount</span></span>
-- <span data-ttu-id="2cdd3-117">預繳稅金百分比</span><span class="sxs-lookup"><span data-stu-id="2cdd3-117">Withholding tax percentage</span></span>
-- <span data-ttu-id="2cdd3-118">付款類型</span><span class="sxs-lookup"><span data-stu-id="2cdd3-118">Type of payment</span></span>
-- <span data-ttu-id="2cdd3-119">已支付的公司（如果不是 Microsoft）</span><span class="sxs-lookup"><span data-stu-id="2cdd3-119">Company that was paid (if other than Microsoft)</span></span>
+### <a name="update-request-and-resubmit"></a><span data-ttu-id="cb926-139">更新要求並重新提交</span><span class="sxs-lookup"><span data-stu-id="cb926-139">Update request and resubmit</span></span>
 
-- <span data-ttu-id="2cdd3-120">備妥此資訊後，請建立服務要求。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-120">Once you have this information ready, create the service request.</span></span>
+<span data-ttu-id="cb926-140">審查小組可能需要合作夥伴進行修正並重新提交要求，才能核准。</span><span class="sxs-lookup"><span data-stu-id="cb926-140">The review team may require the partner to make corrections and resubmit a request before it can be approved.</span></span> <span data-ttu-id="cb926-141">他們會將狀態變更為「正在等待合作夥伴動作」。</span><span class="sxs-lookup"><span data-stu-id="cb926-141">They will change the status to "Pending partner action".</span></span> <span data-ttu-id="cb926-142">若要更正並重新提交要求：</span><span class="sxs-lookup"><span data-stu-id="cb926-142">To correct and resubmit the request:</span></span>
+ 
+1. <span data-ttu-id="cb926-143">登入合作夥伴中心儀表板。</span><span class="sxs-lookup"><span data-stu-id="cb926-143">Sign in to the Partner Center dashboard.</span></span>
+2. <span data-ttu-id="cb926-144">在左側功能表中，選擇 [**計費**]</span><span class="sxs-lookup"><span data-stu-id="cb926-144">In the left-hand menu, choose **Billing**</span></span>
+3. <span data-ttu-id="cb926-145">在**計費**頁面的 [**帳單記錄**] 中，尋找 [稅金預繳要求]。</span><span class="sxs-lookup"><span data-stu-id="cb926-145">On the **Billing** page's **Billing history**, find tax withholding request.</span></span> <span data-ttu-id="cb926-146">需要讓合作夥伴注意的要求，其狀態會是「正在等待合作夥伴動作」</span><span class="sxs-lookup"><span data-stu-id="cb926-146">Requests needing partner attention will have a status of "Pending partner action"</span></span>
+4. <span data-ttu-id="cb926-147">按一下 [稅務預繳 request ID] 和 [status]，將您帶到要求的頁面。</span><span class="sxs-lookup"><span data-stu-id="cb926-147">Click the tax withholding request ID and status taking you to the request's page.</span></span>
+5. <span data-ttu-id="cb926-148">選取 [**狀態**] 底下的 [更新並重新提交]。</span><span class="sxs-lookup"><span data-stu-id="cb926-148">Select "Update and resubmit" under **Status**.</span></span>
+6. <span data-ttu-id="cb926-149">檢查審核者所留下的批註，以強調需要變更的內容。</span><span class="sxs-lookup"><span data-stu-id="cb926-149">Review the comments left by the reviewers highlighting what needs to be changed.</span></span>
+7. <span data-ttu-id="cb926-150">請重新提交更新的憑證或調整預繳金額，以進行更正。</span><span class="sxs-lookup"><span data-stu-id="cb926-150">Make the corrections by either resubmitting an updated certificate or adjust the withholding amounts.</span></span>
+8. <span data-ttu-id="cb926-151">**提交**要求。</span><span class="sxs-lookup"><span data-stu-id="cb926-151">**Submit** the request.</span></span> 
 
-<span data-ttu-id="2cdd3-121">建立支援要求之前，您必須先填寫您的**預繳稅金信用額度表單**。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-121">You'll need to fill out your **withholding tax credit form** before creating your support request.</span></span> <span data-ttu-id="2cdd3-122">您將會在支援要求中包含此表單。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-122">You will include this form with your support request.</span></span>
+<span data-ttu-id="cb926-152">這會將要求傳回給審查小組，他們會在其中核准或要求更多變更。</span><span class="sxs-lookup"><span data-stu-id="cb926-152">This will send the request back to the review team where they will either approve or ask for more changes.</span></span>
+ 
+### <a name="approved-requests"></a><span data-ttu-id="cb926-153">核准的要求</span><span class="sxs-lookup"><span data-stu-id="cb926-153">Approved requests</span></span>
 
-<span data-ttu-id="2cdd3-123">針對您的國家或地區填寫適當的表單：</span><span class="sxs-lookup"><span data-stu-id="2cdd3-123">Fill out the appropriate form for your country or region:</span></span>
+<span data-ttu-id="cb926-154">核准的稅金預繳要求將會針對合作夥伴的下一張發票執行，只要憑證證明合作夥伴已向其當地稅務機關支付該金額，就會寫出欠款金額。</span><span class="sxs-lookup"><span data-stu-id="cb926-154">Approved tax withholding requests will be executed against the partner’s next invoice, writing off the owed amount as long as the certification proves the partner has paid that amount to their local tax authority.</span></span>
 
-- <span data-ttu-id="2cdd3-124">[**全域預繳稅金信用額度表單**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311)（所有國家/地區，德國除外）</span><span class="sxs-lookup"><span data-stu-id="2cdd3-124">[**Global withholding tax credit form**](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE30311) (all countries, excluding Germany)</span></span>
-- [<span data-ttu-id="2cdd3-125">**德國預繳稅金信用額度表單**</span><span class="sxs-lookup"><span data-stu-id="2cdd3-125">**Germany withholding tax credit form**</span></span>](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)
+<span data-ttu-id="cb926-155">如果稅務憑證和數量正確，則處理稅金預繳要求應需要兩天的時間才能完成。</span><span class="sxs-lookup"><span data-stu-id="cb926-155">Processing of the tax withholding requests should take two days to complete assuming the tax certificate and amount are correct.</span></span> <span data-ttu-id="cb926-156">如果需要變更，可能需要較長的時間，要求合作夥伴在重新提交之前進行更正。</span><span class="sxs-lookup"><span data-stu-id="cb926-156">If there are changes required it may take longer, asking the partner to make corrections before resubmitting.</span></span>
 
-<span data-ttu-id="2cdd3-126">在提交給 Microsoft 之前，請先確定您的表單正確無誤：</span><span class="sxs-lookup"><span data-stu-id="2cdd3-126">Make sure that your form is accurate before submitting it to Microsoft:</span></span>
+<span data-ttu-id="cb926-157">完成後，下列月份的發票應該會以信用額度的形式來反映變更。</span><span class="sxs-lookup"><span data-stu-id="cb926-157">After completion, the following months invoices should reflect the changes in the form of a credit.</span></span>
+ 
+<span data-ttu-id="cb926-158">在合作夥伴中心內建立支援票證，即可解決有關提交稅務預繳要求的問題。</span><span class="sxs-lookup"><span data-stu-id="cb926-158">Questions about submission of a tax withholding request can be resolved by creating a support ticket in partner center.</span></span> <span data-ttu-id="cb926-159">請注意，稅金預繳要求識別碼將是解決問題的必要欄位。</span><span class="sxs-lookup"><span data-stu-id="cb926-159">Realize a tax withholding request ID will be a required field for resolving questions.</span></span>
 
-1. <span data-ttu-id="2cdd3-127">在 [合作夥伴中心] 中，選取儀表板 uppor 右上角的**問號** **（？）** 。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-127">Select the **question mark** **(?)** in the uppor right corner of your dashboard in Partner Center.</span></span>
+## <a name="german-tax-withholding"></a><span data-ttu-id="cb926-160">德文稅預繳</span><span class="sxs-lookup"><span data-stu-id="cb926-160">German tax withholding</span></span>
 
-2. <span data-ttu-id="2cdd3-128">選取 [ **CSP**]。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-128">Select **CSP**.</span></span>
+<span data-ttu-id="cb926-161">提交德國稅務預繳要求的合作夥伴，應記得將您的預繳稅務憑證的硬碟複本郵寄到下列位址：</span><span class="sxs-lookup"><span data-stu-id="cb926-161">Partners who submit German tax withholding requests should remember to mail hard copies of your withholding tax certificate to the following address:</span></span> 
 
-3. <span data-ttu-id="2cdd3-129">在 [ **CSP-帳單和付款**] 底下，選取問題類型 [**預繳稅金**]，然後選取 **[是]** 。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-129">Under **CSP - billing and payments**, select the issue type - **Withholding tax** and select **Yes**.</span></span> 
+- <span data-ttu-id="cb926-162">ATTN： EOC 稅務團隊 Marianne Gannon</span><span class="sxs-lookup"><span data-stu-id="cb926-162">ATTN: EOC Tax Team Marianne Gannon</span></span>
+- <span data-ttu-id="cb926-163">Microsoft EMEA 營運中心</span><span class="sxs-lookup"><span data-stu-id="cb926-163">Microsoft EMEA Operations Centre</span></span>
+- <span data-ttu-id="cb926-164">一個 Microsoft 場所，</span><span class="sxs-lookup"><span data-stu-id="cb926-164">One Microsoft Place,</span></span>
+- <span data-ttu-id="cb926-165">南部市公司公園</span><span class="sxs-lookup"><span data-stu-id="cb926-165">South County Business Park</span></span>
+- <span data-ttu-id="cb926-166">Leopardstown，都柏林18，愛爾蘭</span><span class="sxs-lookup"><span data-stu-id="cb926-166">Leopardstown, Dublin 18, Ireland</span></span>
 
-4. <span data-ttu-id="2cdd3-130">當您提交服務要求時，請務必附加稅務憑證的稅額和數位複本。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-130">When you submit the service request be sure to attach the tax credit form and digital copies of the tax certificates.</span></span>
-
-5. <span data-ttu-id="2cdd3-131">如果您是透過英文服務要求提交非英文的稅務憑證，就需要稅務憑證的翻譯。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-131">If you are submitting a non-English tax certificate via an English service request, a translation of the tax certificate is required.</span></span>
-
-6. <span data-ttu-id="2cdd3-132">我們會透過電子郵件或電話直接與您聯繫。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-132">We will contact you directly by email or phone.</span></span>
-
-- <span data-ttu-id="2cdd3-133">在表單上包含您的**公司名稱**和**國家/地區**。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-133">Include your **company name** and **country** on the form.</span></span>
-- <span data-ttu-id="2cdd3-134">正確的**符號**和**日期**格式。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-134">Accurate **sign** and **date** the form.</span></span>
-- <span data-ttu-id="2cdd3-135">根據當地稅務機關的資訊，在表單上記錄適當的**預繳稅金百分比**。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-135">Record the proper **withholding tax amount percentage** on the form, based on your local tax authority's information.</span></span>
-- <span data-ttu-id="2cdd3-136">請確定表單上的**總金額**符合您所提交發票的總計。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-136">Make sure that the **total amount** on the form matches the totals from the invoices you are submitting.</span></span>
-
-## <a name="include-withholding-tax-certificates"></a><span data-ttu-id="2cdd3-137">包含預繳稅金憑證</span><span class="sxs-lookup"><span data-stu-id="2cdd3-137">Include withholding tax certificates</span></span>
-
-<span data-ttu-id="2cdd3-138">稅務憑證應僅適用于 Microsoft 發票。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-138">The tax certificates should be for Microsoft invoices only.</span></span> <span data-ttu-id="2cdd3-139">如果憑證中包含其他公司，請指定金額，讓我們可以在我們的內部處理中將其排除，但仍然可以完整看到憑證包含的內容。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-139">If there are other companies included in the certificates, please specify the amount so that we can exclude it in our internal processing, but still have full visibility to what the total certificates include.</span></span> 
-
-<span data-ttu-id="2cdd3-140">您必須包含一份您的**預繳稅金憑證**的**數位複製**，以及您的支援要求。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-140">You'll need to include a **digital copy** of your **withholding tax certificates** along with your support request.</span></span> <span data-ttu-id="2cdd3-141">當您在合作夥伴中心提交要求時，您會從當地稅務機構收到此憑證。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-141">You received this certificate from your local tax agency when you submitted your request in Partner Center.</span></span>
-
-<span data-ttu-id="2cdd3-142">預繳稅金憑證中的總計必須符合 [預繳稅金] 格式的支援詳細資料。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-142">The total in the withholding tax certificate must match the supporting detail in the withholding tax credit form.</span></span>
-
-<span data-ttu-id="2cdd3-143">在合作夥伴中心或您的 Azure/O365/CRM/Intune 入口網站提交要求時，完整填寫[預繳稅點數表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo)，並將其連同預繳稅金憑證的掃描複本一起傳送。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-143">Fill out the [withholding tax credit form](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE305Lo) completely and send it along with the scanned copy of the Withholding Tax Certificate upon submission of your request in Partner Center or your Azure/O365/CRM/Intune Portal.</span></span> 
-
-<span data-ttu-id="2cdd3-144">如果您是透過**英文版服務要求**提交**非英文的語言稅務憑證**，則必須包含稅務憑證的**翻譯**。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-144">If you are submitting a **non-English language tax certificate** through an **English language service request**, you must include a **translation** of the tax certificate.</span></span>
-
-<span data-ttu-id="2cdd3-145">稅務憑證應僅適用于**Microsoft 發票**。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-145">The tax certificates should be for **Microsoft invoices only**.</span></span> <span data-ttu-id="2cdd3-146">如果您有**其他公司**包含憑證，請指定可在我們的內部處理中排除數量的金額，但仍能完整看到憑證總計包含的內容。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-146">If you have **other companies** that the certificates include, specify the amount such that we can exclude the amount in our internal processing, but still have full visibility to what the total certificates include.</span></span>
-
-## <a name="create-a-service-request"></a><span data-ttu-id="2cdd3-147">建立服務要求</span><span class="sxs-lookup"><span data-stu-id="2cdd3-147">Create a service request</span></span>
-
-<span data-ttu-id="2cdd3-148">下列資訊*僅*適用于**雲端解決方案提供者（CSP）方案**中的合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-148">The following information applies *only* to partners in the **Cloud Solution Provider (CSP) program**.</span></span> <span data-ttu-id="2cdd3-149">這些僅包含**直接帳單合作夥伴**和**間接提供者**。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-149">These include only **direct bill partners** and **indirect providers**.</span></span> <span data-ttu-id="2cdd3-150">**間接轉銷**商必須改為與**間接提供者**合作。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-150">**Indirect resellers** must work with their **indirect providers** instead.</span></span>
-
-1. <span data-ttu-id="2cdd3-151">登入合作夥伴中心內的儀表板。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-151">Sign in to the dashboard in Partner Center.</span></span>
-2. <span data-ttu-id="2cdd3-152">在儀表板的左側功能表上，選擇 [**支援**]，然後選取 [**合作夥伴支援要求**]。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-152">On the left-hand menu in the dashboard, choose **Support**, then select **Partner support requests**.</span></span>
-3. <span data-ttu-id="2cdd3-153">選擇 [**新增要求**]。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-153">Choose **New request**.</span></span>
-4. <span data-ttu-id="2cdd3-154">在 [**啟動要求**] 頁面的 [ **CSP-帳單和付款**] 底下，選擇 [**選取問題類型**]。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-154">On the **Start the request** page, under **CSP - billing and payments**, choose **Select an issue type**.</span></span> <span data-ttu-id="2cdd3-155">選取 [**預繳稅金**] 作為您的問題類型。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-155">Select **withholding tax** as your issue type.</span></span>
-5. <span data-ttu-id="2cdd3-156">在 [**建議的解決方案**] 頁面上，檢查資訊。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-156">On the **Recommended solutions** page, review the information.</span></span> <span data-ttu-id="2cdd3-157">然後，在 [**您需要其他協助嗎？** ] 底下，選擇 [**是]** 。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-157">Then, under **Do you need more help?**, choose **Yes**.</span></span>
-6. <span data-ttu-id="2cdd3-158">在 [**詳細資料**] 頁面上，填寫 [**問題詳細資料**] 底下的所有必要欄位。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-158">On the **Details** page, fill out all required fields under **Issue details**.</span></span>
-7. <span data-ttu-id="2cdd3-159">使用表單中的最後一個欄位，上傳您的[**預繳稅金點數表**](#withholding-tax-credit-form)。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-159">Upload your [**withholding tax credit form**](#withholding-tax-credit-form) using the last field in the form.</span></span>
-8. <span data-ttu-id="2cdd3-160">上傳您的[**預繳稅金憑證**](#include-withholding-tax-certificates)，以及（如果適用的話）憑證的轉譯。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-160">Upload your [**withholding tax certificate**](#include-withholding-tax-certificates) and, if applicable, a translation of the certificate.</span></span>
-9. <span data-ttu-id="2cdd3-161">選擇 [**提交**] 以在您的支援要求中傳送。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-161">Choose **Submit** to send in your support request.</span></span> <span data-ttu-id="2cdd3-162">Microsoft 接著會透過電子郵件或電話直接與您聯繫。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-162">Microsoft will then contact you directly by email or phone.</span></span> 
-10. <span data-ttu-id="2cdd3-163">如果您是在**德國**，請參閱[德國的特殊指示](#germany-tax-withholding)，以郵件在您的預繳稅金憑證強制性**複本**中。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-163">If you are in **Germany**, see [special instructions for Germany](#germany-tax-withholding) to mail in mandatory **hard copies** of your withholding tax certificate.</span></span>
-
-<span data-ttu-id="2cdd3-164">使用**發票付款付款條件**，一旦收到稅務憑證並成功驗證之後，您發票上的剩餘餘額將會在大約一周內清除。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-164">Using the **invoice-pay payment** method, once tax certificates are received and validated successfully, the remaining balance on your invoice will clear in approximately one week.</span></span>
-
-<span data-ttu-id="2cdd3-165">當您的稅務憑證成功收到並通過 Microsoft 驗證之後，請使用**發票付款**方法。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-165">After your tax certificates are received and validated successfully by Microsoft, use the **invoice-pay payment** method.</span></span> <span data-ttu-id="2cdd3-166">您發票上的剩餘餘額將會在大約一周內清除。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-166">The remaining balance on your invoice will clear in approximately one week.</span></span>
-
-## <a name="germany-tax-withholding"></a><span data-ttu-id="2cdd3-167">德國稅金預繳</span><span class="sxs-lookup"><span data-stu-id="2cdd3-167">Germany tax withholding</span></span>
-
-<span data-ttu-id="2cdd3-168">*僅*適用于德國，請遵循相同的一般步驟來執行下列動作：</span><span class="sxs-lookup"><span data-stu-id="2cdd3-168">For Germany *only*, follow the same normal steps to:</span></span>
-
-1. [<span data-ttu-id="2cdd3-169">填寫您的德國預繳稅金點數表</span><span class="sxs-lookup"><span data-stu-id="2cdd3-169">Fill out your Germany withholding tax credit form</span></span>](#withholding-tax-credit-form)
-2. [<span data-ttu-id="2cdd3-170">包含您的預繳稅金憑證</span><span class="sxs-lookup"><span data-stu-id="2cdd3-170">Include your withholding tax certificates</span></span>](#include-withholding-tax-certificates)
-3. <span data-ttu-id="2cdd3-171">[建立合作夥伴中心支援要求](#create-a-service-request)，並附上預繳稅金信用額度表單和預繳稅金憑證。</span><span class="sxs-lookup"><span data-stu-id="2cdd3-171">[Create a Partner Center support request](#create-a-service-request) with the withholding tax credit form and withholding tax certificates attached.</span></span>
-
-<span data-ttu-id="2cdd3-172">然後，將您的預繳稅金憑證的郵件複製到下列位址：</span><span class="sxs-lookup"><span data-stu-id="2cdd3-172">Then, mail hard copies of your withholding tax certificates to the following address:</span></span>
-
-> <span data-ttu-id="2cdd3-173">ATTN： EOC 稅務團隊 Marianne Gannon Microsoft EMEA 營運中心一個 Microsoft 地點，南部國家/地區業務公園 Leopardstown，都柏林18，愛爾蘭</span><span class="sxs-lookup"><span data-stu-id="2cdd3-173">ATTN: EOC Tax Team Marianne Gannon Microsoft EMEA Operations Centre One Microsoft Place, South County Business Park Leopardstown, Dublin 18, Ireland</span></span>
