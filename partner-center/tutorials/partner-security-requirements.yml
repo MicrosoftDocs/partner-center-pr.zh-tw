@@ -8,12 +8,12 @@ metadata:
   ms.date: 06/24/2019
   displayType: two-column
   ms.custom: mvc
-  ms.openlocfilehash: 72ecb3cff206887143cff52c2a4102096dbaa783
-  ms.sourcegitcommit: 9dd6f1ee0ebc132442126340c9df8cf7e3e1d3ad
-  ms.translationtype: MT
+  ms.openlocfilehash: b3dc7dcbcea316500521071f332e7b7817bbcfb2
+  ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+  ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 10/16/2019
-  ms.locfileid: "72425218"
+  ms.lasthandoff: 02/21/2020
+  ms.locfileid: "77521031"
 items:
 - title: 簡介
   durationInMinutes: 5
@@ -25,7 +25,7 @@ items:
 - title: 合作夥伴的安全性需求為何？
   durationInMinutes: 1
   content: >
-    所有參與雲端解決方案提供者方案的合作夥伴、控制台廠商和 Advisor 合作夥伴，都必須針對其合作夥伴租用戶中的每位使用者強制執行多重要素驗證 (MFA)。 這可藉由啟用兩個 [Azure Active Directory 基準原則](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)來完成。 基準原則是一組預先定義的原則，可協助組織抵禦許多常見的攻擊。 這些常見的攻擊可能包括密碼噴灑、重播和網路釣魚。 基準保護原則適用於所有版本的 Azure Active Directory。 Microsoft 將這些基準保護原則提供給所有人使用的原因，是因為以身分識別為基礎的攻擊在過去幾年一直持續攀升。
+    所有參與雲端解決方案提供者方案的合作夥伴、控制台廠商和 Advisor 合作夥伴，都必須針對其合作夥伴租用戶中的每位使用者強制執行多重要素驗證 (MFA)。 這項強制執行的驗證可藉由啟用兩個 [Azure Active Directory 基準原則](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-baseline-protection)來完成。 基準原則是一組預先定義的原則，可協助組織抵禦許多常見的攻擊。 這些常見的攻擊可能包括密碼噴灑、重播和網路釣魚。 基準保護原則適用於所有版本的 Azure Active Directory。 Microsoft 將這些基準保護原則提供給所有人使用的原因，是因為以身分識別為基礎的攻擊在過去幾年一直持續攀升。
 
 
     下表說明應啟用的兩個基準原則。
@@ -80,7 +80,7 @@ items:
 
     1. 以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入  **Azure 入口網站** 。
 
-    2. 瀏覽至 [Azure Active Directory]  >  [條件式存取]。
+    2. 瀏覽至 [Azure Active Directory] >  [條件式存取]。
 
     3. 在原則清單中，選取 [基準原則:要求系統管理員使用 MFA]。
 
@@ -94,7 +94,7 @@ items:
     > 啟用此原則之前，請確定您的使用者未使用舊版驗證通訊協定。 請參閱[如何：使用條件式存取封鎖 Azure AD 的舊版驗證](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)，以取得詳細資訊。
 
 
-    在您啟用 [要求系統管理員使用 MFA] 基準原則後，身為上述管理員角色成員的使用者會在登入時遇到新的體驗。 下圖是受此原則影響的使用者將會遇到的情況
+    在您啟用 [要求系統管理員使用 MFA] 基準原則後，身為上述系統管理員角色成員的使用者會在登入時遇到新的體驗。 下圖是受此原則影響的使用者將會遇到的情況
 
       ![提示要求詳細資訊](../images/security/baseline-require-more-info.png)
 
@@ -121,7 +121,7 @@ items:
 
     1. 以全域管理員、安全性系統管理員或條件式存取系統管理員的身分登入  **Azure 入口網站** 。
 
-    2. 瀏覽至 [Azure Active Directory]  >  [條件式存取]。
+    2. 瀏覽至 [Azure Active Directory] >  [條件式存取]。
 
     3. 在原則清單中，選取 [基準原則:終端使用者保護 (預覽)]。
 
@@ -135,7 +135,7 @@ items:
     > 啟用此原則之前，請確定您的使用者未使用舊版驗證通訊協定。 請參閱[如何：使用條件式存取封鎖 Azure AD 的舊版驗證](https://docs.microsoft.com/azure/active-directory/conditional-access/howto-baseline-protect-legacy-auth#identify-legacy-authentication-use)，以取得詳細資訊。
 
 
-    一旦啟用「終端使用者保護」基準原則，所有使用者都會在登入時遇到新的體驗。 下圖是使用者將會體驗的情況
+    一旦啟用 [終端使用者保護] 基準原則，所有使用者都會在登入時遇到新的體驗。 下圖是使用者將會體驗的情況
 
       ![提示要求詳細資訊](../images/security/baseline-require-more-info.png)
 
