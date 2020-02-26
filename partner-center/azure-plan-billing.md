@@ -1,7 +1,7 @@
 ---
 title: Azure 方案計費 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 02/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何存取及了解與 Azure 方案計費相關的發票和對帳檔案結構。
@@ -10,22 +10,22 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7aade0443c6418c9044a58d37b2351a89f86266d
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722215"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521041"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商務體驗 - Azure 計費 
 
 **適當的角色：**
 
 - 系統管理代理人
-- 帳單管理
+- 帳單系統管理員
 - 全域系統管理員
 
-Azure 方案下的計費，是藉由使用一致的單一計費日期和以行事曆月份為基礎的計費期間，簡化的計費體驗。 如需計費平台的詳細資訊，請參閱[計費概觀](billing-basics.md)。
+Azure 方案下的計費，是藉由使用一致的單一計費日期和以行事曆月份為基礎的計費期間，簡化的計費體驗。
 
 ## <a name="summary-of-billing-essentials"></a>計費基本資訊摘要
 
