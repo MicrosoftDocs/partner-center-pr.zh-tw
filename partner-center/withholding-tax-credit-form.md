@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 預繳稅金、稅務點數、德文稅點數表、稅務憑證
 ms.localizationpriority: medium
-ms.openlocfilehash: 99b08766efa17f1ee0d52ec88147989f1f11047b
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
+ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77520997"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "77618519"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>請確定您已為預繳稅金貸記
 
@@ -47,7 +47,7 @@ ms.locfileid: "77520997"
 ![完成發票的稅款預繳詳細資料](images/wht2.png)
 
 6. 在 [**稅務預繳 details**] 底下輸入 [預繳 Total]。 「預繳 Total」是您預期要貸記的金額。
-7. **附加**稅務憑證。 您必須在稅金預繳要求中包含**預繳稅金憑證**的**數位複本**。 當您在合作夥伴中心提交要求時，您會從當地稅務機構收到此憑證。 如果您使用**稅務預繳要求**程式提交**非英文的語言稅務憑證**，則必須包含稅務憑證的**翻譯**。 預繳稅金憑證中的發票稅額必須符合您的稅金預繳要求中的總金額。 
+7. **附加**稅務憑證。 您必須在稅金預繳要求中包含**預繳稅金憑證**的**數位複本**。 當您在合作夥伴中心提交要求時，您會從當地稅務機構收到此憑證。 預繳稅金憑證中的發票稅額必須符合您的稅金預繳要求中的總金額。 
 
 > [!IMPORTANT]
 > 合作夥伴提供的總金額應符合附加的稅務憑證中的發票明細專案。
