@@ -1,7 +1,7 @@
 ---
 title: 確認客戶接受 Microsoft 客戶合約 | 合作夥伴中心
 ms.topic: article
-ms.date: 02/04/2020
+ms.date: 02/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何確認客戶接受 Microsoft 客戶合約。 這可能需要為客戶訂購 Microsoft 產品和服務。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客戶, 客戶, 同意, MCA, Microsoft Cloud 合約, Microsoft 客戶合約, 客戶合約範本
 ms.localizationpriority: high
-ms.openlocfilehash: c9445ae24de16d25cf887299521eef8d6d793c6f
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: e40272f40bb3aeb67d77fd9b5f122bd92a1384fb
+ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012157"
+ms.lasthandoff: 02/21/2020
+ms.locfileid: "77521021"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>確認客戶接受 Microsoft 客戶合約
 
@@ -104,7 +104,7 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 5. 選取 [儲存]  並繼續作業。
 
-![現有客戶](images/mcua2.png)
+![現有客戶](images/mcua2-update2.png)
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>取得客戶接受的確認
 
@@ -125,6 +125,9 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 - 邀請新客戶檢閱及接受轉銷商關係和合約
 
 - 邀請現有的客戶檢閱及接受合約
+
+>[!NOTE]
+> 您可以使用[合作夥伴中心 API/SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement)，取得客戶直接接受 Microsoft 客戶合約的狀態。  
 
 ## <a name="create-a-net-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>建立全新的客戶，並邀請客戶檢閱及接受合約
 
