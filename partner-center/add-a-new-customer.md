@@ -10,18 +10,18 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
-ms.openlocfilehash: 7a97dbbd72cf5b1a16d4cd4e805e4d33bf9c4b53
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
+ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860439"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672708"
 ---
 # <a name="add-a-new-customer"></a>加入新的客戶 
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 - 雲端解決方案提供者計畫合作夥伴
 
@@ -42,10 +42,10 @@ ms.locfileid: "76860439"
 
 1. 選取 [合作夥伴中心] 功能表中的 [**客戶**]，然後選取 [**新增客戶**]。
 
-2. 在 [**帳戶資訊**] 頁面上，輸入客戶的詳細資料和主要連絡人資訊，並確認客戶已接受並簽署最新的[Microsoft Cloud 合約](agreements.md)。
+2. 在 [**帳戶資訊**] 頁面上，輸入客戶的詳細資料和主要連絡人資訊，並確認客戶已接受並簽署最新的[Microsoft 客戶合約](agreements.md)。
 
 >[!IMPORTANT] 
-> 在2019年10月1日，Microsoft 引進了 CSP 計畫的**Microsoft 客戶合約**來取代 Microsoft Cloud 合約。 為了協助合作夥伴遷移至新的合約，在 2020 年 1 月 31 日前，CSP 計畫中將支援目前的 Microsoft Cloud 合約。 閱讀[Microsoft 客戶合約和如何確認同意](confirm-customer-agreement.md)
+> Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計畫，以取代 Microsoft Cloud 合約。 閱讀[Microsoft 客戶合約和如何確認同意](confirm-customer-agreement.md)
   
 3. 如果您是間接提供者，請從清單中選取您想要與此客戶訂用帳戶產生關聯的間接轉銷商。
 
@@ -60,7 +60,7 @@ ms.locfileid: "76860439"
 
 7. 當您完成新增客戶資訊並購買必要的訂閱時，請選取 [**完成**]。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 - 如需可透過雲端解決方案提供者方案銷售給客戶之專案的詳細資訊，請參閱[雲端解決方案提供者方案中的合作夥伴優惠](csp-offers.md)。
 

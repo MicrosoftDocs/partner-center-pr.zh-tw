@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, CSP, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 過雲端解決方案提供者銷售, 直接合作夥伴, 間接雲端解決方案提供者合作夥伴, 間接雲端解決方案提供者經銷商, 直接雲端解決方案提供者, 間接雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 散發者, 雲端解決方案提供者計畫
 ms.localizationpriority: medium
-ms.openlocfilehash: a00c95c4a24fea9fd76779bb970375906af999c4
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 203168cd57724723261e661627343594a1e8be00
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252833"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672828"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>雲端解決方案提供者計畫 - 銷售炙手可熱的雲端解決方案 
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
 雲端解決方案提供者方案（CSP）可協助您超越轉售授權，使其更牽涉于客戶的業務。
@@ -65,7 +65,7 @@ ms.locfileid: "74252833"
 
 貴公司的地點決定您的市場。 您的市場包含您可以銷售 CSP 供應項目的地區和/或國家/地區。 如需 CSP 市場和貨幣的完整清單，請參閱[雲端解決方案提供者方案的區域市場和貨幣](regional-authorization-overview.md)。
 
-客戶必須簽署 Microsoft Cloud 合約，才可代表客戶訂購 CSP 供應專案。 您可以在[這裡](agreements.md)找到適用于您客戶位置的 Microsoft Cloud 合約。  
+客戶必須先簽署 Microsoft 客戶合約，才可代表客戶訂購 CSP 供應專案。 您可以在[這裡](agreements.md)找到適用于您客戶位置的 Microsoft 客戶合約。  
 
 ## <a name="what-can-i-sell-through-the-csp-program"></a>可以透過雲端解決方案提供者計畫銷售哪些項目？
 
@@ -78,6 +78,6 @@ ms.locfileid: "74252833"
 |:---------------------------|:--------------------|
 |每個雲端解決方案提供者模型的需求   | [雲端解決方案提供者方案](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
 |在 Microsoft 國内雲銷售   | [申請在 Microsoft 國家雲端銷售](csp-national-clouds-overview.md)|
-|Microsoft Cloud 合約客戶範本   |[依地區和語言的 Microsoft Cloud 合約](agreements.md)|
+|Microsoft 客戶合約客戶範本   |[依地區和語言的 Microsoft 客戶合約](agreements.md)|
 |合作夥伴中心上的間接提供者工作  |[雲端解決方案提供者方案中與間接轉銷商的合作夥伴](indirect-provider-tasks-in-partner-center.md)|
 |合作夥伴中心上的間接轉銷商工作   |[雲端解決方案提供者方案中與間接提供者的合作夥伴](indirect-reseller-tasks-in-partner-center.md)|

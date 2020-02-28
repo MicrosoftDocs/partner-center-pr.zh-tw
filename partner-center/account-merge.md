@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: e431d14c90e1884076e0aebf14dbca6644b1796b
-ms.sourcegitcommit: 37aae4668fb7dbf0e262d1e2d0395ced2745bef9
+ms.openlocfilehash: 5194f9ca6bcd843a748a2f6035fdd14422712548
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/07/2020
-ms.locfileid: "77076001"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672650"
 ---
 # <a name="merging-your-partner-account-with-another-partner-account"></a>合併夥伴帳戶與另一個夥伴帳戶
 
@@ -43,7 +43,8 @@ ms.locfileid: "77076001"
 
 ### <a name="view-of-merged-accounts"></a>合併帳戶的觀點
 
-![合併的帳戶](images/accountmerge1.png)
+![合併的帳戶](images/AccountMerge_graphic.png)
+
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>如果您已受邀將合作夥伴中心帳戶與另一個合作夥伴中心帳戶合併，該怎麼辦
 

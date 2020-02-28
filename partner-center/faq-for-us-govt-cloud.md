@@ -8,12 +8,12 @@ description: 如需適用于美國政府 Microsoft Cloud 的雲端解決方案�
 author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: medium
-ms.openlocfilehash: 6aa9b3d3e4a6f73254ad0ea843a0f37be824f23d
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 051e7dfabb8e29f3831ecfb2cc510e5057f062f8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253640"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672668"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 適用的合作夥伴中心常見問題集
 
@@ -37,11 +37,11 @@ ms.locfileid: "74253640"
 
 **客戶定價是否與 CSP 商業相同？**
 
-不。 定價將反映提供 Microsoft Cloud for US Government 適用之獨特價值的額外成本。
+No。 定價將反映提供 Microsoft Cloud for US Government 適用之獨特價值的額外成本。
 
 **合作夥伴折扣模式是否相同？**
 
-可以。 Microsoft Cloud for US Government 雲端解決方案提供者計畫的合作夥伴折扣模式與 CSP Commercial 的合作夥伴折扣模式相同。
+是的。 Microsoft Cloud for US Government 雲端解決方案提供者計畫的合作夥伴折扣模式與 CSP Commercial 的合作夥伴折扣模式相同。
 
 **CSP 商業是現有的合作夥伴計畫。Microsoft 政府雲端的 CSP 計畫有何不同？**
 
@@ -71,13 +71,13 @@ MCRA 授與合作夥伴使用雲端解決方案提供者進行轉售的權限。
 
 -   美國政府雲端增補合約包含合作夥伴負責進行美國政府雲端服務交易的其他義務。
 
--   展示包含 Microsoft Cloud 合約（Microsoft Cloud 合約），此合約必須併入在 CSP 及其客戶之間輸入的美國政府雲端服務的每個合約。
+-   展示包含的 Microsoft 客戶合約（Microsoft 客戶合約），必須納入在 CSP 和其客戶之間輸入之美國政府雲端服務的每個合約。
 
-*Microsoft Cloud 合約（Microsoft Cloud 合約）在 MCRA 中呈現為展示 A*
+*Microsoft 客戶合約（Microsoft 客戶合約）呈現為 MCRA 中的展示*
 
 雲端解決方案提供者必須將附件 A 納入雲端解決方案提供者與購買美國政府適用的 Microsoft Cloud 之客戶間締結的政府合約。 合約是在合作夥伴中心發佈，並以英文版來提供。
 
-美國政府雲端的 Microsoft Cloud 合約與標準 Microsoft Cloud 合約不同，其差異包括下列兩個方面：
+美國政府雲端的 microsoft 客戶合約與標準 Microsoft 客戶合約有下列兩種不同之處：
 
 -   必須將其與客戶合併在 CSP 的合約中。
 
@@ -91,7 +91,7 @@ Microsoft Cloud 代理商合約 (MCDA) 授與代理商透過雲端解決方案�
 
 -   美國政府適用的 Microsoft Cloud 增補合約包含合作夥伴負責進行美國政府雲端服務交易的其他義務。
 
--   展示一個包含 Microsoft Cloud 合約（Microsoft Cloud 合約），此合約必須合併到在 CSP 及其客戶之間輸入的美國政府雲端服務的每個合約。
+-   展示包含的 Microsoft 客戶合約（Microsoft 客戶合約），必須納入在 CSP 及其客戶之間輸入之美國政府雲端服務的每個合約。
 
 **為美國政府銷售 Microsoft Cloud 的資格有哪些？**
 
@@ -103,11 +103,11 @@ Microsoft Cloud 代理商合約 (MCDA) 授與代理商透過雲端解決方案�
 
 **合作夥伴獎勵是否有任何差異？**
 
-不。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的合作夥伴獎勵，與 CSP Commercial 的合作夥伴獎勵相同。 若要深入了解合作夥伴獎勵，請登入 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/partner-incentives)。
+No。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的合作夥伴獎勵，與 CSP Commercial 的合作夥伴獎勵相同。 若要深入了解合作夥伴獎勵，請登入 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/partner-incentives)。
 
 **是否有任何帳單變更？**
 
-不。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的計費條件及需求，與 CSP Commercial 的計費條件及需求相同。 若要深入了解計費，請檢閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/cloud-solution-provider/resources)上的資源。
+No。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的計費條件及需求，與 CSP Commercial 的計費條件及需求相同。 若要深入了解計費，請檢閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/cloud-solution-provider/resources)上的資源。
 
 **針對在商業資料中心內裝載的資料，是否可以變更為美國政府的 Microsoft Cloud？**
 

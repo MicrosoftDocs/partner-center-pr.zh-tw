@@ -1,25 +1,25 @@
 ---
-title: 確認客戶接受 Microsoft Cloud 合約 | 合作夥伴中心
+title: 確認客戶接受 Microsoft 客戶合約 | 合作夥伴中心
 ms.topic: article
 ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解如何確認客戶接受 Microsoft Cloud 合約。 這可能需要為客戶訂購 Microsoft 產品和服務。
+Description: 了解如何確認客戶接受 Microsoft 客戶合約。 這可能需要為客戶訂購 Microsoft 產品和服務。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 客戶、客戶、同意、MCA、Microsoft Cloud 合約、客戶合約範本
+keywords: 客戶、客戶、同意、MCA、Microsoft 客戶合約、客戶合約範本
 ms.localizationpriority: medium
-ms.openlocfilehash: 8e6493fccee9b00c953e18446ec6f101bf267210
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0478a2fe1aad8ba04e2ac51b9a85e94491627e2c
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722085"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672838"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-cloud-agreement"></a>確認客戶接受 Microsoft Cloud 合約
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>確認客戶接受 Microsoft 客戶合約
 
 **適用於**
--  合作夥伴中心
+-  夥伴中心
 
 **適當的角色**
 
@@ -33,23 +33,23 @@ ms.locfileid: "74722085"
 > * Microsoft Cloud for US Government 適用的合作夥伴中心
 
 >[!NOTE]
->此合約會在2020年1月31日前生效。 在該日期之後，所有客戶（現有和新的）都必須簽署新的 Microsoft 客戶合約。 若要深入瞭解，請閱讀[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)。
+>自2020年1月31日起，所有客戶（現有和新的）都必須簽署新的 Microsoft 客戶合約。 若要深入瞭解，請閱讀[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)。
 
-身為合作夥伴，您必須先取得客戶的 Microsoft Cloud 合約接受者，才能訂購該客戶的 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的下列相關詳細資料，以確認接受： 
+身為合作夥伴，您必須先取得客戶的 Microsoft 客戶合約接受者，才能訂購該客戶的 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的下列相關詳細資料，以確認接受： 
 
 -   名字
 
 -   姓氏
 
--   Email address
+-   電子郵件地址
 
 -   電話號碼 (選用)
 
 -   接受日期
 
-若要深入瞭解，請參閱 Microsoft Cloud 合約客戶接受確認[常見問題](https://docs.microsoft.com/partner-center/confirm-consent-faq)。
+若要深入瞭解，請參閱 Microsoft 客戶合約客戶接受確認[常見問題](https://docs.microsoft.com/partner-center/confirm-consent-faq)。
 
-直接帳單合作夥伴和間接提供者必須在透過合作夥伴中心或合作夥伴中心 API 交易時，確認客戶接受 Microsoft Cloud 合約。 確認是*必要*的。
+直接帳單合作夥伴和間接提供者必須在透過合作夥伴中心或合作夥伴中心 API 交易時，確認客戶接受 Microsoft 客戶合約。 確認是*必要*的。
 
 如果未為指定客戶提供確認：
 
@@ -79,7 +79,7 @@ ms.locfileid: "74722085"
 
 ![公司資訊](images/mca/mca1.png)
 
-3. 在 **\[Microsoft Cloud 合約\]** 中，選取 **\[客戶已接受最新的 Microsoft cloud 合約\]** 。
+3. 在 [ **Microsoft 客戶合約**] 底下，選取 **[客戶已接受最新的 microsoft 客戶合約**]。
 4. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此日期設定為未來日期。
 5. 輸入提供接受的使用者詳細資料。
 
@@ -95,9 +95,9 @@ ms.locfileid: "74722085"
 
 1. 選取 [客戶]，然後尋找並選取您想要查看的客戶。
 2. 選取 [帳戶資訊]。
-3. 在 **\[Microsoft Cloud 合約\]** 下方，選取 **\[更新\]** 。
+3. 在 [ **Microsoft 客戶合約**] 底下，選取 [**更新**]。
 
-![[更新]](images/mca/mca4.png)
+![更新](images/mca/mca4.png)
 
 4. 輸入接受合約之使用者的 **\[名字\]** 、 **\[姓氏\]** 、 **\[電子郵件地址\]** 和 **\[電話號碼\]** (選用)。
 5. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此日期設定為未來日期。
@@ -117,4 +117,4 @@ ms.locfileid: "74722085"
 
 1. 選取 [客戶]，然後尋找並選取您想要查看的客戶。
 2. 選取 [帳戶資訊]。
-3. 在 [ **Microsoft cloud 合約**] 底下，您會看到是否已為此客戶提供確認。
+3. 在 [ **Microsoft 客戶合約**] 底下，您會看到是否已為此客戶提供確認。

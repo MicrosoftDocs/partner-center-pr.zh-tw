@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 3e71d9c09e03c4464774fc80f0bd27af1dc82ea1
-ms.sourcegitcommit: 780776ee32f20d03101a4ee39ee2dc985541d7c1
+ms.openlocfilehash: 830965f4d44cefea2a66adeac681f6350a562503
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "75716926"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672688"
 ---
 # <a name="partner-contribution-indicators"></a>合作夥伴貢獻指標
 
@@ -44,7 +44,7 @@ PCI 提供合作夥伴技術功能的精密全面觀點，他們能夠推動客�
 
 ### <a name="thresholds"></a>閾值
 
-每個 PCI 計量都有 Microsoft 設定的閾值，決定您公司可以獲得的最高分。 客戶參與和財務 & 作業路徑的這些閾值會因取得雲端 Business Applications 專長認證而有所不同。 在開發市場中操作的合作夥伴，以及專門在開發市場上運作的夥伴，其閾值也會有所不同。  開發或開發國家/地區的市場分類是以[Microsoft 合作夥伴網路定義](https://assets.microsoft.com/MPN-developed-and-emerging-countries-list.pdf)為基礎。
+每個 PCI 計量都有 Microsoft 設定的閾值，決定您公司可以獲得的最高分。 客戶參與和財務 & 作業路徑的這些閾值會因取得雲端 Business Applications 專長認證而有所不同。 在開發市場中操作的合作夥伴，以及專門在開發市場上運作的夥伴，其閾值也會有所不同。  開發或開發國家/地區的市場分類是以[Microsoft 合作夥伴網路定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)為基礎。
 
 系統會記錄每個計量的分數，以產生不同的 PCI 分數來進行客戶參與和財務 & 作業，每個月更新。
 
