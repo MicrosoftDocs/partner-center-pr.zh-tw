@@ -9,24 +9,24 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: 訂用帳戶，產品，採購，Marketplace，協力廠商，ISV，帳單，發票，調整，偵察檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: bc4dcca3d8c3d454a17eca676d5fadd1dac202d3
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 983cdfbe67b04205a6c863d92577225449572c52
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384915"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161444"
 ---
 # <a name="billing-for-commercial-marketplace-products"></a>商業 marketplace 產品的帳單
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
 
 - 全域系統管理員
-- 帳單管理
+- 帳單系統管理員
 
 身為 CSP 計畫的合作夥伴，您可以使用合作夥伴中心，從商用 marketplace 中的 ISV 發行者購買授權型 SaaS 產品。 這麼做之後，您就可以存取這些購買類型的帳單。 計費週期會在日曆月份的第一天開始，並在日曆月份的最後一天結束。 在下個月的第8天可取得發票。
 
@@ -35,7 +35,7 @@ ms.locfileid: "74384915"
 CSP 計畫中的合作夥伴會針對客戶購買的 ISV 商業 marketplace 解決方案計費，其方式是從合作夥伴中心或 Azure 入口網站購買這些產品（使用客戶先前的 CSP 購買 Azure 租使用者）。
 
 >[!NOTE]
->如果客戶使用自己的 Azure AD 租使用者（而不是從 CSP 方案中的合作夥伴購買），客戶也可以選擇直接從（[Microsoft AppSource](https://appsource.microsoft.com/)或[Azure Marketplace](https://azuremarketplace.microsoft.com/)）購買自己的 ISV SaaS 解決方案。 如果他們這麼做，他們會直接從 Microsoft 收到自己的帳單。 同樣地，如果 CSP 計畫中的合作夥伴向客戶銷售 Azure AD 租使用者，並將該租使用者的[角色型存取權](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles)授與給客戶（除了**Reader**以外的客戶），該客戶也可以購買商用 marketplace 供應專案，而不需要事先核准或通知給 CSP 合作夥伴。 在這些情況下，Microsoft 不會直接向 CSP 計畫中的合作夥伴通知其客戶所進行的購買。 不過，Microsoft 會提供選擇性的[Azure 監視器](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)機制，讓您可以用來設定 Azure 訂用帳戶上活動的警示或通知。
+>如果客戶使用自己的 Azure AD 租使用者（而不是從 CSP 方案中的合作夥伴購買），客戶也可以選擇直接從（[Microsoft AppSource](https://appsource.microsoft.com/)或[Azure Marketplace](https://azuremarketplace.microsoft.com/)）購買自己的 ISV SaaS 解決方案。 如果他們這麼做，他們會直接從 Microsoft 收到自己的帳單。 同樣地，如果 CSP 計畫中的合作夥伴將 Azure 訂用帳戶或新的 Azure 方案銷售給客戶，並將該租使用者的[角色型存取權](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles)授與給客戶（除了**Reader**以外的客戶），該客戶也可以購買商用 marketplace 供應專案，而不需要事先核准或通知給 CSP 合作夥伴。 在這些情況下，Microsoft 不會直接向 CSP 計畫中的合作夥伴通知其客戶所進行的購買。 不過，Microsoft 會提供選擇性的[Azure 監視器](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)機制，讓您可以用來設定 Azure 訂用帳戶上活動的警示或通知。
 
 ## <a name="access-billing-information-for-commercial-marketplace-products"></a>存取商業 marketplace 產品的帳單資訊
 
