@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 預繳稅金、稅務點數、德文稅點數表、稅務憑證
 ms.localizationpriority: medium
-ms.openlocfilehash: dd8edceaa69ce3ca29e152cc19043b805b5748da
-ms.sourcegitcommit: 18cea2726e69b6bf6e286641e28bbe6041309ae3
+ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "77618519"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240225"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>請確定您已為預繳稅金貸記
 
@@ -50,7 +50,7 @@ ms.locfileid: "77618519"
 7. **附加**稅務憑證。 您必須在稅金預繳要求中包含**預繳稅金憑證**的**數位複本**。 當您在合作夥伴中心提交要求時，您會從當地稅務機構收到此憑證。 預繳稅金憑證中的發票稅額必須符合您的稅金預繳要求中的總金額。 
 
 > [!IMPORTANT]
-> 合作夥伴提供的總金額應符合附加的稅務憑證中的發票明細專案。
+> 合作夥伴提供的總金額應符合附加的稅務憑證中的發票明細專案。 附加的稅務憑證檔案必須是下列其中一種檔案格式：。僅限 PDF 和影像（。JPEG、。PNG 和。GIF）。 此外，檔案名不應包含空格或特殊字元。
 
 8. **提交**稅金預繳要求。
 

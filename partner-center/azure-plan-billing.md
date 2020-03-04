@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 3d21c796aebe41322d8f390ce54d13b1f80ec309
-ms.sourcegitcommit: 78b2e922f3ee568c507800da4557f42fb550e5a7
+ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "77521041"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240237"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商務體驗 - Azure 計費 
 
@@ -53,7 +53,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 3. 選取 [週期性]  和 [一次性]  的索引標籤，以及您感興趣的貨幣。
 
-![計費](images/azure/billing1.png)
+![計費](images/azure/billing3.png)
 
 4. 選取 [發票]  或 [對帳檔案]  。  
 

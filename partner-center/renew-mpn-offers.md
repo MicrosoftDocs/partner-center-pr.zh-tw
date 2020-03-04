@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, Microsoft 行動套件, MAPS, 專長認證更新, 續約日期
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: a4043209b701d4cf5f4fd475321b592edd7410f3
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 0495b519aeefbe927c43b48105c6672894fb46a2
+ms.sourcegitcommit: 2634057663a0ea27393212f898018538dada796e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651955"
+ms.lasthandoff: 02/28/2020
+ms.locfileid: "78161432"
 ---
 # <a name="renew-your-mpn-offers"></a>續訂您的 MPN 供應項目
 
@@ -39,6 +39,3 @@ ms.locfileid: "73651955"
 
 當您在續約時間範圍期間續訂時，新的週年日將會落在目前週年日後的 365 天。
 
-## <a name="manage-auto-renewal"></a>管理自動續約
-
-當您開啟自動續約時，將會在週年日隔天向您的信用卡收費。 您隨時都可以在週年日之前關閉自動續約。
