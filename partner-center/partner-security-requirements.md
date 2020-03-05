@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: dd7590634339acd3bfb6f1fe3fafd08aa7bdbf5c
-ms.sourcegitcommit: a620880aad1f5f8a4274a0ec3f257056363082e1
+ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "76723445"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672798"
 ---
 # <a name="partner-security-requirements"></a>合作夥伴安全性需求
 
@@ -64,13 +64,21 @@ ms.locfileid: "76723445"
 
 ## <a name="security-defaults"></a>安全性預設值
 
-- 安全性預設值即將取代基準原則。 
+安全性預設原則是其中一個[選項](#actions-that-you-need-to-take)，合作夥伴可以根據其商務需求，針對安全性需求選擇此選項來執行 MFA。 其提供基本層級的安全性，而且不需額外費用即可啟用。 啟用安全性預設值之前，請先檢閱如何使用 Azure AD 為您的組織啟用 MFA，以及下列主要考量。
 
 - 在接下來的幾個月仍會持續使用基準原則，預訂在 2020 年 2 月底將其淘汰。
 
 - 已採用基準原則的合作夥伴必須採取動作，才能轉換成安全性預設值。
 
+- 安全性預設值可取代預覽基準原則的一般可用性。 當合作夥伴啟用安全性預設值之後，他們將無法再啟用基準原則。
+
 - 使用安全性預設值時，將會一次啟用所有原則。 
+
+- 使用[條件式存取](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作夥伴將[無法使用安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)。
+
+- 目前我們不會對合作夥伴強制封鎖舊版驗證。 不過，由於與身分盜用相關的大部分事件都來自使用舊版驗證的登入嘗試，因此我們鼓勵合作夥伴捨棄這些較舊的通訊協定。
+
+- Azure AD Connect 同步帳戶已從安全性預設值中排除。
 
 - 如需詳細資訊，請閱讀[針對貴組織啟用 Multi-Factor Authentication](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) 和 [Azure Active Directory 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)。
 

@@ -1,7 +1,7 @@
 ---
 title: 管理您的合作夥伴中心帳戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 01/08/2020
+ms.date: 03/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作夥伴中心管理貴公司的設定檔、目錄、銀行和稅務資訊、角色、權限等等。
@@ -10,38 +10,48 @@ author: MaggiePucciEvans
 ms.author: evansma
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: ec5934e4d35b653e8e781e8eb1290bfbaee0d737
-ms.sourcegitcommit: 255bd1b68f9cd6d8df22da5ea9edf7c4dabfa3ff
+ms.openlocfilehash: 6955ba66c95557d8e704ec4737f6be6b9006e344
+ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76812668"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "78240178"
 ---
 # <a name="manage-your-partner-center-account"></a>管理您的合作夥伴中心帳戶
 
 **適用於**
 
--  合作夥伴中心
-
-**適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   系統管理代理人
+- 合作夥伴中心
 
 您註冊時在合作夥伴中心建立的帳戶會是您的工作電子郵件加上商務資訊的組合。 在合作夥伴中心建立帳戶之後，您或您的系統管理員必須完成設定您公司的完整設定檔，包括支援詳細資料、列報免稅 (若適用) 以及主要連絡資訊。 若有任何人員將會使用合作夥伴中心來新增或管理客戶、銷售訂閱、開立帳單和發票、建立商務設定檔、管理轉介、使用獎勵計畫以及提供支援，貴公司的帳戶也必須納入其使用者帳戶。
 
+## <a name="programs-in-which-you-are-enrolled"></a>您註冊的計畫
+
+您用來管理合作夥伴中心帳戶的大部分工作，都與您註冊的特定計畫，以及您在合作夥伴中心中獲派的使用者角色和權限有關。
+
+在合作夥伴中心中，您可以輕鬆查看可存取的計畫：
+
+1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
+2. 查看左側導覽窗。 其中會顯示已註冊計畫的相關選項。
+
+以下是其中一個範例。 假設某個使用者可以存取合作夥伴中心儀表板中的三個計畫：**MPN** 計畫、**推薦**計畫及**商業市集**計畫。 當他們登入合作夥伴中心儀表板時，他們會在畫面的左側看到這三個計畫。
+
+![已註冊計畫功能表](images/accountsettings/programs-enrolled-left-nav.png)
+
 ## <a name="account-management"></a>帳戶管理
 
-合作夥伴中心目前可在兩個不同的區段中管理帳戶：**合作夥伴**設定和**開發人員**設定。 
+合作夥伴中心目前可在兩個不同的區段中管理帳戶：**合作夥伴設定**和**開發人員**設定。
 
 >[!NOTE]
->帳戶設定位於合作夥伴中心的右上角。 當您選取圖示，就可以選取想要管理的項目。 
+>若要存取**合作夥伴設定**或**開發人員設定**，您必須登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)，然後選取畫面右上角的 [設定]  選項 (齒輪圖示)。 然後，您可以從下拉式功能表中選取 [合作夥伴設定]  或 [開發人員設定]  。
 
 ![帳戶設定](images/accountsettings/account1.png)
 
-合作夥伴會根據其公司是否已在相關計畫中註冊，而能夠看到用來管理合作夥伴設定和 (或) 開發人員設定的選項。 貴公司只有在已於至少一個與該設定相關聯的計畫中完成註冊時，才可以使用設定選項。 
+合作夥伴可根據其公司是否已在相關計畫中註冊，而看到用來管理**合作夥伴設定**和 (或) **開發人員**設定的選項。 貴公司只有在已於至少一個與該設定相關聯的計畫中完成註冊時，才可以使用設定選項。
 
-若要管理帳戶設定，您必須選取適用於該計畫的帳戶設定選項。 貴公司註冊所在的計畫會顯示在合作夥伴中心的左側導覽中。 以下是計畫的清單 (並非完整內容) 和其對應的設定選項：
+若要管理帳戶設定，您必須針對有問題的計畫選取適當的帳戶設定選項。  
+
+這是可用計畫的部分清單，以及與該計畫相關聯的對應設定選項：
 
 |**計畫名稱**   |**設定選項** |
 |---------------------|:-----------------------|
@@ -55,17 +65,28 @@ ms.locfileid: "76812668"
 
 ## <a name="the-differences-in-partner-and-developer-settings-options"></a>合作夥伴和開發人員設定選項的差異
 
-**合作夥伴帳戶設定選項**：
+[合作夥伴設定]  選項會與 [開發人員設定]  選項不同。 請參閱下列每組選項的範例螢幕擷取畫面。 如果您有其他計畫的存取權，您可能也會看到與此處所示螢幕擷取畫面範例不同的選項。
+
+**合作夥伴設定選項**：
 
 ![合作夥伴選項](images/accountsettings/partneroptions.png)
 
-**開發人員帳戶設定選項**：
+**開發人員設定選項**：
 
 ![開發人員選項](images/accountsettings/devoptions.png)
 
 ## <a name="enrolling-in-programs"></a>在計畫中註冊
 
-合作夥伴中心有許多種計畫，而且每個計畫都有不同的公司註冊需求。 若要了解如何在合作夥伴中心計畫中完成註冊，請參閱[合作夥伴網路](https://partner.microsoft.com/)。 
+有多個合作夥伴中心計畫可供您使用。 每個計畫都有不同的需求，您的公司必須符合這些需求，才可以在該計畫中註冊。
+
+若要了解如何在特定合作夥伴中心計畫中註冊，請參閱下列部分清單：
+
+- [商業市集計畫](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [MPN 計畫](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
+- [雲端解決方案提供者計畫](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [Office 市集](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
+
+若要深入了解如何在合作夥伴中心計畫中註冊，請參閱[合作夥伴網路資源](https://partner.microsoft.com/)。
 
 ## <a name="the-account-picker"></a>帳戶選擇器
 
@@ -73,7 +94,9 @@ ms.locfileid: "76812668"
 
 ![帳戶選擇器](images/accountsettings/accountpicker.png)
 
-## <a name="resources-to-help-you-manage-your-partner-center-account"></a>可協助您管理合作夥伴中心帳戶的資源
+## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>可協助您管理合作夥伴中心帳戶的其他資源
+
+如果您已在 MPN 計畫或雲端解決方案提供者 (CSP) 計畫之類的計畫中註冊，下列資源可協助您管理帳戶。
 
 |**進行此動作**   |**請閱讀本文**   |
 |-----------------------|:-----------------------|
@@ -87,22 +110,3 @@ ms.locfileid: "76812668"
 |請務必行銷宣傳您的公司，讓客戶可以找到您   |[建立商務設定檔](create-a-marketing-profile.md)|
 |整理您的類別目錄，讓最重要的產品列在清單頂端   |[自訂型錄](customize-the-catalog.md)|
 |隨時取得在目前定價與方案的最新資訊   |[定價與供應項目](pricing-and-offers.md)|
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
-
-
-

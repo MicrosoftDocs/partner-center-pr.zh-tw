@@ -1,22 +1,22 @@
 ---
-title: Microsoft Cloud 合約客戶範本 | 合作夥伴中心
+title: Microsoft 客戶合約客戶範本 | 合作夥伴中心
 ms.topic: article
 ms.date: 11/13/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何尋找並下載 Microsoft Cloud 合約的地區和語言特定版本，以與您的客戶進行檢閱。
+description: 了解如何尋找並下載 Microsoft 客戶合約的地區和語言特定版本，以與您的客戶進行檢閱。
 author: MaggiePucciEvans
 ms.author: evansma
-keywords: Microsoft Cloud 合約, 客戶合約範本, 雲端解決方案提供者客戶合約, Microsoft Cloud 合約, MCA, 雲端解決方案提供者, 可以透過雲端解決方案提供者在哪些地方進行銷售？, 雲端解決方案提供者國家/地區, 多種語言的雲端解決方案提供者 MCA, 北美洲雲端解決方案提供者, 中美洲雲端解決方案提供者, 南美洲雲端解決方案提供者, 加勒比海雲端解決方案提供者, CSP Microsoft Cloud for US Government, 雲端解決方案提供者 Microsoft Cloud 德國, 中東雲端解決方案提供者, 非洲雲端解決方案提供者, 歐洲雲端解決方案提供者, 亞洲雲端解決方案提供者, 太平洋雲端解決方案提供者, 雲端解決方案提供者 MCA
+keywords: Microsoft 客戶合約, 客戶合約範本, 雲端解決方案提供者客戶合約, Microsoft 客戶合約, MCA, 雲端解決方案提供者, 可以透過雲端解決方案提供者在哪些地方進行銷售？, 雲端解決方案提供者國家/地區, 多種語言的雲端解決方案提供者 MCA, 北美洲雲端解決方案提供者, 中美洲雲端解決方案提供者, 南美洲雲端解決方案提供者, 加勒比海雲端解決方案提供者, CSP Microsoft Cloud for US Government, 雲端解決方案提供者 Microsoft Cloud 德國, 中東雲端解決方案提供者, 非洲雲端解決方案提供者, 歐洲雲端解決方案提供者, 亞洲雲端解決方案提供者, 太平洋雲端解決方案提供者, 雲端解決方案提供者 MCA
 ms.localizationpriority: high
-ms.openlocfilehash: a65e9dc0e94fa387631ea289c963d6e0f1bae7dd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 9acf143bdbeeea29c7fc7ec71ca459c57b20e8ca
+ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722415"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "77672788"
 ---
-# <a name="microsoft-cloud-agreements-by-region-and-language"></a>依地區和語言的 Microsoft Cloud 合約
+# <a name="microsoft-customer-agreements-by-region-and-language"></a>依地區和語言的 Microsoft 客戶合約
 
 **適用於**
 
@@ -30,19 +30,19 @@ ms.locfileid: "74722415"
 - 銷售代理人
 - 技術服務代理人
 
-客戶必須先接受並簽署 Microsoft Cloud 合約，您才能代表客戶下訂單。
+客戶必須先接受並簽署 Microsoft 客戶合約，您才能代表客戶下訂單。
 
 >[!IMPORTANT]
-> 從 2018 年 11 月 7 日起，您必須提供簽署 Microsoft Cloud 合約人員的資訊，以確認客戶已接受合約。 如需詳細資訊，請參閱[確認客戶接受 Microsoft Cloud 合約](confirm-consent.md)。
+> 您必須提供簽署 Microsoft 客戶合約之人員的資訊，以確認客戶已接受合約。 如需詳細資訊，請參閱[確認客戶接受 Microsoft 客戶合約](confirm-consent.md)。
 
-Microsoft Cloud 合約是地區特定的，且提供多個語言。 在下列其中一份清單中尋找客戶的位置和慣用語言，以下載正確的合約。
+各地區皆有專屬的 Microsoft 客戶合約，且提供多個語言。 在下列其中一份清單中尋找客戶的位置和慣用語言，以下載正確的合約。
 
 如果您不確定可以銷售哪些地區和市場，請在此清單中尋找貴公司的位置：[雲端解決方案提供者計畫的區域市場和貨幣](regional-authorization-overview.md)。
 
 <!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
 
 > [!NOTE]  
-> The Microsoft Cloud Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
+> The Microsoft Customer Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
 -->
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北美洲、中美洲、南美洲及加勒比海
