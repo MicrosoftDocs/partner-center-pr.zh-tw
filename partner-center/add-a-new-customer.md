@@ -1,7 +1,7 @@
 ---
 title: 新增新的客戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 03/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心新增新的客戶記錄。 然後，您可以銷售客戶訂用帳戶、管理帳單，或提供客戶支援。
@@ -10,12 +10,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
-ms.openlocfilehash: 81fd5d50db67b32ab6dac22c008dfcab0e347893
-ms.sourcegitcommit: 5379fbbe7fab1a26314c42bca40674c7f2faa432
+ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "77672708"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340077"
 ---
 # <a name="add-a-new-customer"></a>加入新的客戶 
 
@@ -43,6 +43,15 @@ ms.locfileid: "77672708"
 1. 選取 [合作夥伴中心] 功能表中的 [**客戶**]，然後選取 [**新增客戶**]。
 
 2. 在 [**帳戶資訊**] 頁面上，輸入客戶的詳細資料和主要連絡人資訊，並確認客戶已接受並簽署最新的[Microsoft 客戶合約](agreements.md)。
+
+>[!NOTE]
+>
+>為確保客戶驗證期間的正確性，請確定您：
+>- 使用官方檔中所顯示的確切合法/官方名稱
+>- 避免使用縮寫或簡短形式
+>- 不要使用測試名稱
+>- 提供完整的確切位址（位置詳細資料、城市、州、國家和郵遞區號）
+
 
 >[!IMPORTANT] 
 > Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計畫，以取代 Microsoft Cloud 合約。 閱讀[Microsoft 客戶合約和如何確認同意](confirm-customer-agreement.md)
