@@ -11,24 +11,24 @@ ms.author: labrenne
 Keywords: 訂用帳戶，建立新的訂用帳戶，暫停，取消，暫停，暫停，SaaS，授權，ISV，協力廠商
 ms.localizationpriority: medium
 ms.openlocfilehash: 05df57bc744263fd0bbd0eb52411a6e9368926f4
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721715"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340144"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
 **適用於**
 
--  合作夥伴中心
+-  夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 -  雲端解決方案提供者合作夥伴
 
 **適當的角色**
 
 - 系統管理代理人
-- 帳單管理
+- 帳單系統管理員
 - 全域系統管理員
 - 技術服務代理人
 - 銷售代理人
@@ -82,7 +82,7 @@ ms.locfileid: "74721715"
 
 ### <a name="suspend-a-subscription"></a>暫停訂閱
 
-當您將訂閱的狀態變更為 **\[已暫停\]** 時，使用者就無法登入或存取服務。
+當您將訂閱的狀態變更為 \[已暫停\] 時，使用者就無法登入或存取服務。
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
@@ -90,7 +90,7 @@ ms.locfileid: "74721715"
 
 3. 選擇您要管理的訂閱。
 
-4. 在 [狀態] 區段中，選擇 [已暫停]。 然後 **\[提交\]** 變更。
+4. 在 [狀態] 區段中，選擇 [已暫停]。 然後 \[提交\] 變更。
 
 5. 所有的資料將被刪除，除非訂用帳戶在 90 日内重新啟用，或 90 天加上開啟帳戶的時間和第一個計費期間之間的天數 (最多 120 天)。
 
@@ -125,7 +125,7 @@ ms.locfileid: "74721715"
 
 3. 找出您想要取消的訂用帳戶。
 
-4. 在 [**狀態**] 欄中，選取 [**取消**]。 然後 **\[提交\]** 變更。
+4. 在 [**狀態**] 欄中，選取 [**取消**]。 然後 \[提交\] 變更。
 
 5. 如果出現對話方塊，請填寫任何相關的詳細資料，然後選取 [**提交**]。
 
@@ -150,9 +150,9 @@ ms.locfileid: "74721715"
 
 5. 在 [訂閱詳細資料] 頁面中，找出 [**狀態**] 區段，然後取消核取 [**自動續約**] 方塊。 
 
-6. 選取 **\[提交\]** 。
+6. 選取 [提交]。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 - [為您的客戶購買商用 marketplace 產品](csp-commercial-marketplace-purchase.md)
 - [為您的客戶管理商業 marketplace 產品](csp-commercial-marketplace-manage.md)
