@@ -142,6 +142,7 @@
 ### [購買 Azure 方案](purchase-azure-plan.md)
 ### [比較 Azure 供應項目](compare-azure-offers.md)
 ### [將您的客戶轉換為 Azure 方案](azure-plan-transition.md)
+### [Azure CSP 中可用的 Azure 服務](azure-plan-available.md)
 ### [合作夥伴所獲得信用點數 - 概觀](partner-earned-credit.md)
 ### [合作夥伴所獲得信用點數如何計算及付費](partner-earned-credit-explanation.md)
 ### [CSP 中的新商務體驗 - Azure 計費](azure-plan-billing.md) 
