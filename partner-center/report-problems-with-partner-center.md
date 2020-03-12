@@ -6,38 +6,37 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 如何報告合作夥伴中心的問題並收集要提供給支援小組的診斷資訊。
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: MaggiePucciEvans
-ms.author: evansma
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: ba571a8d0810919353b01a5199c77af3dbbb3075
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
+ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651718"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "79023474"
 ---
 # <a name="report-problems-with-partner-center"></a>報告合作夥伴中心的問題
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 
-如果您發現合作夥伴中心的問題，包括錯誤、服務中斷或其他領域，例如報告、帳單、Api 或訂閱，請聯繫合作夥伴中心支援。
-
+如果您發現問題或需要合作夥伴中心的協助，請聯繫合作夥伴中心支援。
 
 **回報合作夥伴中心的問題**
 
 1. 從您的**合作夥伴中心**儀表板中，選取 [**支援**]，然後選取 [**合作夥伴支援要求**]。
 
-2. 選取 [**新增要求**]，然後從顯示的選項中選取適當的問題類型。
+2. 選取 [**新增要求**]，然後搜尋最能描述您問題的問題類型。 選取 [問題類型] 和 [**審查解決方案**]。
 
 3. 請參閱**建議的解決方案**頁面，以取得可協助您解決問題的步驟或相關檔。
 
-4. 您需要其他協助嗎？ 如果建議的解決方案能解決您的問題，請選取 [**否**]。 如果您需要提交新的支援要求，請選取 **[是]** 。
+4. 如果**建議的解決方案**能解決您的問題，您可以選取 **[返回儀表板**]。 如果您仍然需要協助，您可以繼續並**提供問題詳細資料**。
 
-5. 如果您選取 **[是]** ，請完成**詳細資料**頁面要求表單。 然後選取 [**提交**]。 合作夥伴支援代表會再與你連絡。
+5. 完成**問題詳細資料**，然後**提交**。 合作夥伴支援代表會與您一起追蹤。
 
 **傳送診斷**
 
