@@ -8,13 +8,13 @@ description: 簡單、統一、數位化的合作夥伴合約。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
-ms.openlocfilehash: 1b6bad1d6909b6ffc597daf2e8eb57f4647a85ef
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: 54f4fff4170b97c98108961ecf21443148c7d0d9
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004577"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340196"
 ---
 # <a name="microsoft-partner-agreement-for-csp-partners"></a>雲端解決方案提供者合作夥伴的 Microsoft 合作夥伴合約 
 
@@ -32,7 +32,7 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份簡單、�
 
 ## <a name="microsoft-customer-agreement"></a>Microsoft 客戶合約
 
-在 CSP 中，客戶必須接受 Microsoft 客戶合約（MCuA），才能透過 Azure 方案購買 Azure 服務，以及在2020年1月31日之後購買的所有其他供應專案。 閱讀[確認客戶接受 Microsoft 客戶合約（預覽）](confirm-customer-agreement.md)
+針對在雲端解決方案提供者中透過 Azure 方案購買的 Azure 服務，以及 2020 年 1 月 31 日之後在雲端解決方案提供者中購買的所有其他供應項目，客戶必須接受 Microsoft 客戶合約 (MCuA)。 請參閱[確認客戶接受 Microsoft 客戶合約 (預覽)](confirm-customer-agreement.md)
  
 
 

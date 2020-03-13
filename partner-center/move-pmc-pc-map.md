@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/14/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解 PMC 與合作夥伴中心之間有關續約、帳戶結構、登入、使用者角色、專長認證等的差異和相似性。
+description: 了解 PMC 與合作夥伴中心在續約、帳戶結構、登入、使用者角色、專長認證等方面的差異和相似性。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
-ms.localizationpriority: medium
-ms.openlocfilehash: a05225d9f6a6de9f6bdf66912f8e35b47ccae78f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
-ms.translationtype: MT
+ms.localizationpriority: high
+ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004287"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340176"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>從 PMC 移到合作夥伴中心
 
@@ -23,7 +23,7 @@ ms.locfileid: "75004287"
 
 我們引進了能作為互動中心點的單一網站 (合作夥伴中心)，來使您能夠更輕鬆地與我們合作。 您可以在合作夥伴中心的儀表板中，執行先前在 Partner Membership Center (PMC) 中所進行的所有動作。 
 
-您也可以完成更多其他工作，而且完全不需要離開這個單一網站。 不過，某些術語和功能看起來可能會有所不同。 若要減輕任何關於何處和專案的初步考慮，請務必流覽儀表板的網站。
+您也可以完成更多其他工作，而且完全不需要離開這個單一網站。 不過，某些術語和功能看起來可能會有所不同。 為了減輕關於功能位置及內容的任何初始顧慮，請務必進行儀表板的網站導覽。
 
 此表格顯示 PMC 和合作夥伴中心之間的一些差異。
 
@@ -37,7 +37,7 @@ ms.locfileid: "75004287"
 
 |**PMC**   |**合作夥伴中心**|
 |----------------------|:-----------------------------|
-|總部加上位置-分別評估。 專長認證評估是在本機層級完成|單一全球公司、您的合作夥伴全域帳戶 (PGA) (包括位置)，會一起進行整體評估；效能和技術資料會在 PGA 層級進行彙總；包括適用於合作夥伴設定檔及商務設定檔等程式的數個設定檔檢視供轉介及行銷使用，如需詳細資訊，請參閱[合作夥伴中心的帳戶結構](https://docs.microsoft.com/partner-center/account-structure.md) \(部分機器翻譯\)。|
+|總部加上位置 - 會個別進行評估。 專長認證評估是在本機層級完成|單一全球公司、您的合作夥伴全域帳戶 (PGA) (包括位置)，會一起進行整體評估；效能和技術資料會在 PGA 層級進行彙總；包括適用於合作夥伴設定檔及商務設定檔等程式的數個設定檔檢視供轉介及行銷使用，如需詳細資訊，請參閱[合作夥伴中心的帳戶結構](https://docs.microsoft.com/partner-center/account-structure.md) \(部分機器翻譯\)。|
 
 ## <a name="sign-in"></a>登入
 
@@ -68,7 +68,7 @@ ms.locfileid: "75004287"
 
 |**PMC**   |**合作夥伴中心**   |
 |-------------------------|:-------------------|
-|您可以將相同的 MCP 識別碼與多家公司產生關聯。| 只有一個 MCP 識別碼可與單一合作夥伴中心帳戶相關聯。 您必須手動建立關聯。 從合作夥伴中心儀表板，選取儀表板右上角的 [您的帳戶] 圖示，然後選取 [我的設定檔]。 在 [您的學習] 之下，您將能夠關聯 Microsoft Learning 帳戶，也可以將您的 Microsoft 帳戶連線到 Partner University。
+|您可以將相同的 MCP 識別碼與多家公司產生關聯。| 只有一個 MCP 識別碼可與單一合作夥伴中心帳戶相關聯。 您必須手動建立關聯。 從合作夥伴中心儀表板，選取儀表板右上角的 [您的帳戶]  圖示，然後選取 [我的設定檔]  。 在 [您的學習]  之下，您將能夠關聯 Microsoft Learning 帳戶，也可以將您的 Microsoft 帳戶連線到 Partner University。
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio 權益及 MSA
 
@@ -82,14 +82,14 @@ ms.locfileid: "75004287"
 
 |**PMC**   |**合作夥伴中心**|
 |----------------------|:-----------------------------|
-|PDD  |權益|
+|PDD  |優點|
 |CHIP、ICP、PIE | 獎勵|
-||推薦|
+||轉介|
 |合作夥伴見解| 分析|
 |憑券驗證及兌換工具| 憑券驗證及兌換工具|
 |           |雲端解決方案提供者計畫|
 
-將會接受並保留配置給 MSA 的 Visual Studio 權益。 在合作夥伴中心中續訂之後，也會保留它們。 不過，如果您在合作夥伴中心遷移之後移除 MSA 配置，就無法將其新增回合作夥伴中心。
+將會接受並保留配置給 MSA 的 Visual Studio 權益。 在合作夥伴中心中續訂之後，也會保留它們。 不過，如果您在移轉至合作夥伴中心後移除 MSA 配置，便無法將其重新新增至合作夥伴中心。
 
 在合作夥伴中心，合作夥伴可以新增公司帳戶及來賓使用者帳戶，其為來自合作夥伴為 Azure AD 租用戶中 MPN 系統管理員之相同租用戶的 MSA。 如果合作夥伴是多個 Azure AD 租用戶中的全域系統管理員，且這些租用戶都是與相同的合作夥伴中心帳戶相關聯，則該合作夥伴便可以將所有這些租用戶上的使用者加入 Visual Studio 權益和 Azure 以使用量為基礎的配置。
 

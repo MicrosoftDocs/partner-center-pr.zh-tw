@@ -4,24 +4,24 @@ ms.topic: article
 ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 如果您是 CSP 計畫的直接合作夥伴，您可以瞭解更新的支援和服務需求，以及如何滿足這些需求。
+Description: 如果您是雲端解決方案提供者計畫中的直接合作夥伴，您可以了解更新的支援和服務需求，以及如何符合這些需求。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 雲端解決方案提供者, 直接合作夥伴, 直接帳單, 需求
-ms.localizationpriority: medium
+keywords: 雲端解決方案提供者, 直接合作夥伴, 直接計費, 需求
+ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 0b8a34d4539180d99bcb76396dcf3dad6a0cf699
-ms.sourcegitcommit: d11c52e1386c181e177df72d6c7244508f1d6c0e
-ms.translationtype: MT
+ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
+ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2020
-ms.locfileid: "76860459"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "78340096"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>CSP 直接帳單合作夥伴的新需求
+# <a name="csp-direct-bill-partner-new-requirements"></a>雲端解決方案提供者直接計費合作夥伴的新需求
 
 **適用於**
 
-- 雲端解決方案提供者方案中的直接帳單合作夥伴
+- 雲端解決方案提供者計畫中的直接計費合作夥伴
 
 ## <a name="enroll-as-a-direct-partner"></a>註冊為直接合作夥伴
 
@@ -33,7 +33,7 @@ ms.locfileid: "76860459"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN 識別碼**   |您的營業地點的使用中 Microsoft 合作夥伴網路 (MPN) 識別碼。    |
 |**委任背書**   |代表您的組織接受和簽署法律合約的職權。|
-|**支援**   |為您客戶提供第一層級雲端產品支援的能力。 <br>一項 Microsoft 支援方案；視您的需求而定，可以是合作夥伴進階支援 (ASfP) 或合作夥伴頂級支援 (PSfP)。 [比較支援方案](https://partner.microsoft.com/support/partnersupport)。<br> 重要：您必須先通過信用額度檢查，才能購買支援方案。 當您通過信用查核之後，我們會傳送電子郵件給您。 |
+|**支援**   |為您客戶提供第一層級雲端產品支援的能力。 <br>一項 Microsoft 支援方案；視您的需求而定，可以是合作夥伴進階支援 (ASfP) 或合作夥伴頂級支援 (PSfP)。 [比較支援方案](https://partner.microsoft.com/support/partnersupport)。<br> 重要事項：您必須先通過信用查核，才能購買支援方案。 當您通過信用查核之後，我們會傳送電子郵件給您。 |
 |**受管理的服務**   |至少一個受管理的服務、IP 服務或客戶解決方案應用程式。 深入了解如何新增[受管理的服務](https://partner.microsoft.com/business-opportunities/managed-services-provider)。|
 |**應收帳款** |可管理客戶計費及佈建的完善組織基礎結構。
 
@@ -48,13 +48,13 @@ ms.locfileid: "76860459"
 >[!IMPORTANT]
 >查核貴公司信用可能需要數天或更久時間才能完成。 在這段期間，請勿購買 Microsoft 支援方案。 只有在我們通知您已通過信用查核之後，才購買 Microsoft 支援方案。
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>從 direct 轉換至間接轉銷商
+## <a name="transition-from-direct-to-indirect-reseller"></a>從直接轉換為間接轉銷商
 
-目前的直接帳單合作夥伴必須符合新的需求，才能繼續進行 CSP 直接帳單合作夥伴計畫。 否則，其[直接帳單功能的存取權最終會受到限制](restricted-direct-bill-capabilities.md)，而且可能會更長的時間執行特定工作，例如為客戶進行新的購買。 
+目前的直接計費合作夥伴必須符合新的需求，才能繼續參與雲端解決方案提供者直接計費合作夥伴計畫。 否則，其[對直接計費功能的存取權最終將會受到限制](restricted-direct-bill-capabilities.md)，且可能無法再執行特定工作，例如為客戶進行新的購買。 
 
-如果您決定從直接帳單企業移至間接轉銷商企業，您必須採取幾個步驟。 若要深入瞭解如何轉換，請參閱[從雲端解決方案提供者（CSP）直接合作夥伴至 CSP 間接轉銷商](transition-direct-to-indirect.md)。 
+如果您決定從直接計費業務轉換為間接轉銷商業務，您必須採取幾個步驟。 若要深入了解轉換程序，請參閱[從雲端解決方案提供者 (CSP) 直接計費合作夥伴轉換為雲端解決方案提供者間接轉銷商](transition-direct-to-indirect.md)。 
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
-- [有關成為間接轉銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
-- [直接帳單至間接轉銷商常見問題](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [關於成為間接轉銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [直接計費轉換為間接轉銷商的常見問題集](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
