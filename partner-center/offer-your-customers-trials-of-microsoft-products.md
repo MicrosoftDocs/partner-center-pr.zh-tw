@@ -1,26 +1,26 @@
 ---
 title: 為客戶提供 Microsoft 產品試用 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 您的客戶可以試用 Microsoft 訂閱產品 30 天。 如同其他許多線上服務，在目錄中註冊這些試用版。
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a0f511ad2275866552e9646cf433351ae4fc3be3
-ms.sourcegitcommit: a80838c0e79f66c28b958165e910871dd37d39f0
+ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "75185538"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112457"
 ---
 # <a name="offer-your-customers-trials-of-microsoft-products"></a>為客戶提供 Microsoft 產品試用
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 
 **適當的角色**
 -   全域系統管理員 
@@ -45,7 +45,7 @@ ms.locfileid: "75185538"
 - 沒有 PSTN 的 Office 365 E5
 - Enterprise Mobility & Security E5
 - Dynamics 365 Customer Engagement Plan 1
-- Microsoft Dynamics 365 Business Central
+- Dynamics 365 Business Central
 - Microsoft 365 商務版
 
 我們提供這些產品的免費試用，是因為它們是最全方位也最熱門的商務用供應項目。 未來可能會增加其他免費試用供應項目。
@@ -91,13 +91,24 @@ ms.locfileid: "75185538"
 - [將試用版訂用帳戶轉換成付費版](https://docs.microsoft.com/partner-center/develop/convert-a-trial-subscription-to-paid)
 - [取得試用版轉換方案的清單](https://docs.microsoft.com/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
+### <a name="trials-without-conversions"></a>沒有轉換的試用
+
+並非所有試用版都可以轉換成付費訂閱。 合作夥伴可以使用沒有任何轉換的試用版，直到到期日為止。 合作夥伴可以購買相容的供應專案，以支援與試用版供應專案相同的服務。  這應該在試用版到期之前完成，以確保新購買的供應專案服務與試用版的服務一致。 
+
+|**試用**   |**相容的小型企業提供**   |**相容的企業提供**   |
+|----------------------------|:---------------------------------|:------------------------------------------|
+|Microsoft 小組商業雲端（使用者起始）試用版   |Business Essentials、Business Premium、M365 Business   | F3 （先前為 F1）、Office 365 for Enterprise （E1、E3 和 E5）、M365 F1/F3、M365 Enterprise （E3）   |
+
+>[!Note] 
+>以上的供應專案具有類似功能的類似服務方案，但供應專案之間可能會有一些差異。 
+
 ### <a name="expiring-offers"></a>即將到期的優惠
 
 您不會收到過期供應專案的通知。 您可以使用合作夥伴中心的客戶觀點或藉由查詢 API，來追蹤即將到期的日期。 我們建議您頻繁監視這些日期，以便可以針對接近決策點的客戶採取適當的行動。
 
 試用期到期後，嘗試登入該試用版的客戶會看到到期訊息。 不過，資料會以資料保留標準來儲存。 當您使用相同的服務方案購買新的訂用帳戶之後，就可以從新啟動的訂用帳戶再次存取您的客戶資訊。
 
-## <a name="billing"></a>帳單
+## <a name="billing"></a>帳務
 
 年度計費和免費試用版在主權雲端和公用雲端中都相同。 唯一的差異在於啟動時可用的試用 Sku。
 

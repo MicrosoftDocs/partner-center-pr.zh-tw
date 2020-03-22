@@ -10,11 +10,11 @@ ms.author: v-mihope
 keywords: 訂用帳戶，marketplace，商業 marketplace，協力廠商，ISV，SaaS 優惠，雲端解決方案提供者方案，CSP 計畫，CSP 合作夥伴
 ms.localizationpriority: medium
 ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340143"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114940"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>探索商業 marketplace 中的供應專案和定價
 

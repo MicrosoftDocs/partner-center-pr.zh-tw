@@ -10,12 +10,12 @@ author: brentserbus
 ms.author: brserbus
 keywords: 預繳稅金、稅務點數、德文稅點數表、稅務憑證
 ms.localizationpriority: medium
-ms.openlocfilehash: ceb8958faa2d2e826cb74caa0484fb90c9667bb0
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: ea99adb0bc2b9e010290ce7a74afe07c8b111888
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240225"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80112467"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax"></a>請確定您已為預繳稅金貸記
 
@@ -30,6 +30,9 @@ ms.locfileid: "78240225"
 某些國家/地區的 CSP 合作夥伴會收到包含稅金的發票金額。 其中一些合作夥伴會支付當地的稅務機關，而不是 Microsoft。 這些合作夥伴需要提交包含其稅務憑證的稅務預繳要求，以清除先前發票的估價金額。 這些已清除的金額會在後續的每月發票中顯示為信用額度，因此合作夥伴不會再向 Microsoft 支付未付款金額。
 
 從2020年1月起，CSP 合作夥伴應在**帳單頁面**上提交稅金預繳要求，而不是建立支援要求。 若要在帳單頁面中提交要求，CSP 合作夥伴應前往**合作夥伴中心**，然後選取左側導覽中的 [**帳單**]。 **計費頁面**是提交稅金預繳要求的新位置。 
+
+> [!IMPORTANT]
+> 合作夥伴只能提交**付費**發票的預繳稅金要求。
 
 ### <a name="submit-a-new-tax-withholding-request"></a>提交新的稅金預繳要求
 

@@ -10,24 +10,24 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74384807"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "80114960"
 ---
 # <a name="use-your-reconciliation-files"></a>使用您的對帳檔案
 
 適用於：
 
-- 合作夥伴中心
+- 夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 您可以從合作夥伴中心下載您的對帳檔案，以取得計費週期中每個費用的詳細明細專案。 明細專案詳細資料包括每個客戶的訂用帳戶的費用，以及詳細的事件（例如，將基座加入訂用帳戶中）。
 
 適當的角色：
 
-- 帳單管理
+- 帳單系統管理員
 - 全域系統管理員
 
 如需有關如何讀取**發票**的詳細資訊，請參閱[閱讀您的帳單](read-your-bill.md)。
