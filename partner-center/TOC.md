@@ -162,6 +162,7 @@
 ### [將授權型服務客戶移轉到雲端服務提供者計畫](transition-seat-based-services.md)
 ### [銷售 Minecraft：Education Edition 訂閱](minecraft-subscriptions.md)
 ### [銷售到特色產業](Get-special-pricing-for-offers.md)
+### [銷售到教育機構客戶](sell-to-education-customers.md)
 ### [提高採用率與滿意度](increasing-adoption-and-satisfaction.md)
 ### [透過 Windows Autopilot 簡化裝置設定](autopilot.md)
 ##  將供應項目方案升級或轉移至較新版本
