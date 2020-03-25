@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴中心深入解析-權益報表 |合作夥伴中心
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解您已授與哪些類型的 Microsoft 合作夥伴權益，以協助拓展業務、提升效率並提升小組的技能。
@@ -11,12 +11,12 @@ author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 9d1f3a8ff31622c17245743f79ba4dc3ea199c3b
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648249"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226194"
 ---
 # <a name="benefits-report"></a>權益報告
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648249"
 - 報表檢視器
 - 執行報表檢視器
 
-身為 Microsoft 合作夥伴，您可以存取使用最新技術和創新的優勢主機，協助您強化小組的技能、提升效率，並拓展您的業務。 權益套件包括：已授權的軟體、雲端服務、Visual Studio 訂用帳戶和支援的配置。 權益套件也可以包含特定的進入市場（轉型）權益。 [權益] 報告會顯示您所存取之權益的趨勢，以及在選取的日期範圍內的使用量。
+身為 Microsoft 合作夥伴，您可以存取使用最新技術和創新的優勢主機，協助您強化小組的技能、提升效率，並拓展您的業務。 權益套件包括：已授權的軟體、雲端服務、Visual Studio 訂用帳戶和支援的配置。 這些套件也可以包含特定的進入市場資源、供應專案和方案。 [權益] 報告會顯示您所存取之權益的趨勢，以及在選取的日期範圍內的使用量。
 
 ![權益頁面總覽](images/pci/pci_benefits_intro_1.png)
 
@@ -36,7 +36,7 @@ ms.locfileid: "75648249"
 - 已授與雲端服務
 - 軟體產品
 - Visual Studio 訂閱
-- 技術權益
+- 技術優勢
 - 進入市場
 
  > [!NOTE]
@@ -44,7 +44,7 @@ ms.locfileid: "75648249"
 
 **摘要**
 
-「摘要」一節提供授權軟體、雲端服務（非 Azure）、Visual Studio 訂用帳戶、技術支援和特定上市服務所授與的權益。
+「摘要」一節提供授權軟體、雲端服務（非 Azure）、Visual Studio 訂用帳戶、技術支援和特定上市服務或供應專案的授權權益。
 
 範例： Microsoft 合作夥伴網路（MPN）成員資格合作夥伴符合內部部署產品和雲端產品的技術支援。 取得銀級專長認證的合作夥伴會獲得內部部署產品15個事件的技術支援。 他們可以視需要取用此支援。 
 
@@ -79,10 +79,10 @@ ms.locfileid: "75648249"
 
 ![技術優勢](images/pci/pci_benefits_technical_benefits_6.png)
 
-**進入市場**
+**上市提供或服務**
 
-此圖表顯示在選取的日期範圍內，以及針對選取的 [通過] 權益類別所配置的進入市場（轉型）權益的每月趨勢。
+此圖表顯示在選取的日期範圍內，以及針對所選的進入市場供應專案或服務類別，針對所配置的進入市場供應專案或服務所啟用的每月趨勢。
 
-從圖表頂端的下拉式清單中選取 [通過] 權益類別，以查看授與您公司的所選 [通過] 權益類別的趨勢。 圖表中的資料行代表已啟動的「啟動」權益。 折線圖代表授與貴公司的整體營運權益。
+從圖表頂端的下拉式清單中，選取 [進入市場供應專案] 或 [服務] 類別，以查看授與貴公司之所選進入市場服務的趨勢。 圖表中的資料行代表進入市場的供應專案或服務已啟用。 折線圖代表貴公司所授與的整體上市提供或服務。
 
-![前往市場權益](images/pci/pci_benefits_go_to_market_7.png)
+![上市優惠](images/pci/pci_benefits_go_to_market_7.png)

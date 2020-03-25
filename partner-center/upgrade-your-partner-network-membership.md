@@ -1,7 +1,7 @@
 ---
 title: 升級您的 Microsoft 合作夥伴網路會員資格 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 將您的 MPN 成員資格升級為 Microsoft 行動套件訂用帳戶成員資格或 Microsoft 專長認證，以符合專屬權益。
@@ -9,33 +9,32 @@ author: MaggiePucciEvans
 ms.author: evansma
 robots: noindex,nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: e608646d1c6f76b5081d38648a4afa95660e2bf0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 7cc8d2023544d510dcf8cd51f89c79d427a849d1
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943401"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226144"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership"></a>升級您的 Microsoft 合作夥伴網路會員資格
 
 **適用於**
 
--  合作夥伴中心
+-  夥伴中心
 
-Microsoft 的合作夥伴計畫提供下列三種成員資格選項，具有累加的優勢，可協助您達成商務目標。
+Microsoft 的合作夥伴計畫提供下列三種成員資格選項，其中包含累加的優點和行銷資源、供應專案和計畫，可協助您達成商務目標。
 
-- **網路成員資格。** 核心會員資格層級，提供訓練、支援和客戶連接的入門級權益。 您必須是網路會員才能升級您的會員資格。
+- **網路成員資格。** 核心成員資格層級，為訓練、支援和客戶連線提供入門級的行銷資源。 您必須是網路會員才能升級您的會員資格。
 
-- **Microsoft 行動套件訂用帳戶成員資格。** 服務中小型合作夥伴公司的實惠年度訂閱。 包括入門級權益，隨附基本網路會員資格，加上內部使用權服務訂閱、軟體授權和支援的配置。
+- **Microsoft 行動套件訂用帳戶成員資格。** 服務中小型合作夥伴公司的實惠年度訂閱。 包含基本網路成員資格以及其他行銷供應專案和方案的入門層級行銷資源，例如：內部使用許可權服務訂用帳戶、軟體授權和支援的配置。
 
-- **Microsoft 專長認證。** 展示您公司的功能，這是一種贏得的指定。 包括入門級權益、其他內部使用權、合作夥伴獎勵的資格，以及其他支援與諮詢時數。
+- **Microsoft 專長認證。** 展示您公司的功能，這是一種贏得的指定。 包含入門層級的行銷資源，以及其他供應專案和方案，例如：內部使用權利、合作夥伴獎勵的資格，以及其他支援和諮詢時數。
 
   - 銀級專長認證-一致的功能、專長和承諾
 
   - 黃金專長認證-特定 Microsoft 解決方案區域內的絕佳功能
 
-加入 Microsoft 合作夥伴網路之後，您就有資格升級您的成員資格和購買專屬的成員資格權益優惠。 如需有關 Microsoft 合作夥伴網路中會員資格的詳細資訊，請移至 [https://partner.microsoft.com](https://partner.microsoft.com)。
-
+加入 Microsoft 合作夥伴網路之後，您就有資格升級您的成員資格和購買專屬的成員資格供應專案。 如需有關 Microsoft 合作夥伴網路中會員資格的詳細資訊，請移至 [https://partner.microsoft.com](https://partner.microsoft.com)。
 
 ## <a name="purchase-a-microsoft-action-pack-subscription"></a>購買 Microsoft 行動套件訂閱
 
@@ -63,13 +62,13 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，具有累�
 
 3. 選取 **\[下一步\]** 新增付款詳細資料。 
 
-4. 選取 **\[馬上開始! 新增付款方式\]** (如果您需要輸入付款詳細資料)。 
+4. 選取 **\[馬上開始! 新增付款方式\]** (如果您需要輸入付款詳細資料)。
 
 5. 輸入您的付款詳細資訊，然後選取 **\[下一步\]** 。
 
 6. 請檢查訂單詳細資料，然後在準備好購買行動套件時選取 [**購買**]。 我們會立即向您的信用卡收費。
 
-7. 您的訂單已確認。 選取 **\[關閉\]** 。
+7. 您的訂單已確認。 選取 [關閉]。
 
 您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從已購買的優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 
 
@@ -103,7 +102,7 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，具有累�
 
 8. 請檢查訂單詳細資料，然後在準備好購買行動套件時選取 [**購買**]。 我們會立即向您的信用卡收費。
 
-9. 您的訂單已確認。 選取 **\[關閉\]** 。
+9. 您的訂單已確認。 選取 [關閉]。
 
     您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從已購買的優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 
 
@@ -112,7 +111,7 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，具有累�
 
 若要取消您的 Microsoft 行動套件訂閱，您必須連絡合作夥伴中心支援。
 
-1. 移至 https://partnercenter.microsoft.com/partner/support 。
+1. 移至 https://partnercenter.microsoft.com/partner/support。
 
 2. 選取 [回報合作夥伴中心的問題]，然後在下一頁選取 [新增要求]。
 
@@ -131,8 +130,3 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，具有累�
 ### <a name="related-topics"></a>相關主題
 
 [新增使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
-
-
-
-
-

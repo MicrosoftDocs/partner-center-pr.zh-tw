@@ -1,22 +1,22 @@
 ---
 title: 合作夥伴中心深入解析-專長認證報表 |合作夥伴中心
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 03/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解您的表現如何，以及您可以如何改善 Microsoft 的專長、專長認證等級和優點，以協助您提供 Microsoft 解決方案。
+description: 瞭解您的表現如何，以及您可以如何改善 Microsoft 專長認證、專長認證等級和優惠，以協助您提供 Microsoft 解決方案。
 ms.assetid: ''
 keywords: PCI，效能，度量，客戶成功，專長認證，優點，分析，報告
 author: MicheleHope
 ms.author: v-mihope
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9b395e67848bca73d0fe65073562c2478ced304
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648089"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226184"
 ---
 # <a name="competencies-report"></a>專長認證報表
 
@@ -26,7 +26,7 @@ ms.locfileid: "75648089"
 - 報表檢視器
 - 執行報表檢視器
 
-專長認證可讓您的公司示範提供 Microsoft 解決方案的技術能力。 Microsoft 專長認證是專為滿足客戶的需求而設計，並向潛在客戶展示您的專業知識。 他們提供 Microsoft 的豐富權益，例如包含的 Azure 耗用量數量、雲端產品的權利（例如 O365、技術支援、進入市場（轉型）權益等）。目前在下列類別中總共有19個專長認證：**應用程式和基礎結構**、**商務應用程式**、**資料和 AI** ，以及**新式工作場所**。 專長認證會分層成銀級或金級，例如，具有更高的金級專長認證和相關聯的更高優點。  
+專長認證可讓您的公司示範提供 Microsoft 解決方案的技術能力。 Microsoft 專長認證是專為滿足客戶的需求而設計，並向潛在客戶展示您的專業知識。 他們提供 Microsoft 的豐富權益，例如包含的 Azure 耗用量數量、雲端產品的權利（例如 O365、技術支援、上市供應專案等等）。目前在下列類別中總共有19個專長認證：**應用程式和基礎結構**、**商務應用程式**、**資料和 AI** ，以及**新式工作場所**。 例如，職稱會分層成銀級或金級。 有更高的金級專長認證，以及相關聯的行銷資源、供應專案和方案。  
 
 **專長認證生命週期**
 
