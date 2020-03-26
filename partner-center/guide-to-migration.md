@@ -1,7 +1,7 @@
 ---
 title: 從 PMC 移轉至合作夥伴中心的指南 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何將您的公司從 Partner Membership Center (PMC) 遷移至合作夥伴中心。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: high
-ms.openlocfilehash: c656981bfd5eb99e34a24f70960d4bc7da581896
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 0e1538258199c503d38a08f3e070a6cc6ec97253
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721880"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226174"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>從 PMC 移轉至合作夥伴中心的指南
 
@@ -29,7 +29,7 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 >[!Note]
 >即使您的公司有多個帳戶或位置，移至合作夥伴中心一開始會先將某個 (您的第一個) 帳戶移至合作夥伴中心。
 
-## <a name="get-started"></a>立即開始
+## <a name="get-started"></a>開始使用
 
 移動開始於 PMC。 您的全域系統管理員會收到開始移動的邀請。 
 
@@ -43,7 +43,7 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 選取您邀請上的 [開始]  。 您將會進入合作夥伴中心的登入頁面。
 
-![立即開始](images/migration/getstarted.jpg)
+![開始使用](images/migration/getstarted.jpg)
 
 ## <a name="start-with-your-work-email"></a>從您的工作電子郵件開始
 
@@ -61,11 +61,11 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 選取 [接受並繼續]  也會執行下列動作：
 
-•   將您的帳戶連同其所有位置移轉至合作夥伴中心
+- 將您的帳戶連同其所有位置移轉至合作夥伴中心
 
-•   移轉您可能已在 PMC 購買的任何專長認證或 MAP
+- 移轉您可能已在 PMC 中購買的任何專長認證或 MAP
 
-•   移轉您在 PMC 中擁有的任何權益 (MAP、銀級、金級)
+- 移轉您已在 PMC 中擁有的任何行銷資源、供應項目及方案 (MAP、銀級、金級)
 
 ## <a name="invite-employees-to-join-you"></a>邀請員工加入您
 
@@ -95,7 +95,7 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 ![進行導覽](images/migration/fre.png)
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [建立使用者帳戶](create-user-accounts-and-set-permissions.md)
 - [指派使用者角色和權限](permissions-overview.md)
@@ -103,6 +103,6 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 - [建立公司的商務設定檔](create-a-marketing-profile.md)
 - [透過推薦與客戶保持聯繫](responding-to-referrals.md)
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 - [將多家公司從 PMC 移轉至合作夥伴中心的指南](move-multiple-companies.md)

@@ -1,7 +1,7 @@
 ---
 title: 管理您的 Microsoft 合作夥伴網路權益 | 合作夥伴中心
 ms.topic: article
-ms.date: 10/29/2019
+ms.date: 03/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作夥伴網路 (MPN)，並管理可協助打造及拓展業務的成員資格權益。
@@ -9,12 +9,12 @@ author: MaggiePucciEvans
 ms.author: evansma
 keywords: MPN, 會員資格權益, 會員資格
 ms.localizationpriority: high
-ms.openlocfilehash: 0e1ad3c5ebc7406e815ba7e7d0c9fdc75d8bf5cf
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: e7ec97485467d997e770337fa249065d87e6838f
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004527"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226084"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits"></a>管理您的 Microsoft 合作夥伴網路會員資格權益
 
@@ -23,10 +23,10 @@ ms.locfileid: "75004527"
 -  合作夥伴中心
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   系統管理代理人
--   MPN 合作夥伴系統管理員
+-    全域系統管理員
+-    使用者系統管理員
+-    系統管理代理人
+-    MPN 合作夥伴系統管理員
 
 >[!IMPORTANT]
 >本文說明如何在合作夥伴中心 (也就是本網站) 中開始使用 Microsoft 合作夥伴網路 (MPN) 會員資格權益。 如果您尚未收到將您的公司資訊從 Partner Membership Center (PMC) 移至合作夥伴中心的邀請，請繼續在 PMC 中管理您的 MPN 會員資格權益。 立即[登入](https://partner.microsoft.com/_login?authType=OpenIdConnect) PMC。
@@ -41,7 +41,7 @@ ms.locfileid: "75004527"
 >[!IMPORTANT]
 >您不必是組織中的全域系統管理員就能購買權益，但您必須是全域系統管理員才能指派權益給員工。 如有需要，您可以依照 [[權益]  頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)中的指示 (需要登入) 成為全域系統管理員。 貴公司可能已經有全域系統管理員，請務必洽詢您的團隊。
 
-權益套件包括配置授權軟體、雲端服務、Visual Studio 訂閱和支援。 權益套件也可以包括特定的上市權益。 您可以在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/internal-use-software)網站找到行動套件訂閱的詳細資料。  
+權益套件包括配置授權軟體、雲端服務、Visual Studio 訂閱和支援。 權益套件也可以包括特定的進入市場資源、供應項目和方案。 您可以在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/internal-use-software)網站找到行動套件訂閱的詳細資料。  
 
 若要檢視和管理您的所有會員資格權益，請前往您的 [[權益]  頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits) (需要登入)。 或者，您可以登入合作夥伴中心[儀表板](https://docs.microsoft.com/partner-center/)，從左側功能表中選取 [權益選項]  ，然後選取所顯示的任何權益選項。  
 
@@ -99,7 +99,7 @@ ms.locfileid: "75004527"
 
 3. 若要啟用支援權益，請將使用者指派給此項權益。 
    
-    a.  從清單中選取一個使用者。 若想要指派的使用者不在清單中，您可以在 [帳戶設定]  中[新增使用者](create-user-accounts-and-set-permissions.md)。
+    a.  從清單中選取使用者。 若想要指派的使用者不在清單中，您可以在 [帳戶設定]  中[新增使用者](create-user-accounts-and-set-permissions.md)。
 
     b.  提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。 
     
@@ -109,7 +109,7 @@ ms.locfileid: "75004527"
 
 4. 在雲端和混合式解決方案的售前、設計、部署及應用程式開發階段，您可以使用您的技術售前協助或諮詢時數權益來請求技術協助。 若要請求協助，請填寫[要求表單](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)，然後選取 [提交要求]  。
 
-#### <a name="manage-go-to-market-benefits"></a>管理上市權益
+#### <a name="manage-go-to-market-offers"></a>管理進入市場供應項目
 
 **執行此工作的適當角色：**
 
@@ -117,39 +117,39 @@ ms.locfileid: "75004527"
 - MPN 合作夥伴系統管理員
 
 
-1. 選取 [上市權益]  以查看您的 Microsoft 上市權益清單。
+1. 選取 [權益]  ，然後選取 [進入市場]  以查看和「與 Microsoft 並肩進入市場」計畫相關聯的供應項目清單。
 
-    [上市權益](mpn-learn-about-go-to-market-benefits.md) 提供可供您使用的其他行銷資源和協助。 可用的權益類型取決於您的特定合作夥伴層級，以及您可能已取得的任何專認證。
+    [進入市場功能](mpn-learn-about-go-to-market-benefits.md)提供可能可供您使用的其他行銷資源、供應項目、方案和協助。 可用的供應項目類型取決於您的特定合作夥伴層級，以及您可能已取得的任何專長認證。
 
-2. 若要啟用任何上市權益，您必須先指派公司行銷連絡人。 此連絡人將會收到有關您使用中上市權益的後續通訊。
+2. 若要啟用任何進入市場供應項目或方案，您必須先指派公司行銷連絡人。 此連絡人將會收到有關您作用中進入市場供應項目的後續通訊。
 
-3. 若要新增或更新您的行銷連絡人資訊，請移至 [上市] 頁面頂端，然後選取 [新增]  、[更新]  或 [變更]  。 現在，執行下列動作：  
+3. 若要新增或更新您的行銷連絡人資訊，請移至 [進入市場] 頁面的頂端，然後選取 [新增]  、[更新]  或 [變更]  。 現在，執行下列動作：  
    
-    a.  從清單中選取一個使用者。 若想要指派的使用者不在清單中，您可以在 [帳戶設定]  中[新增使用者](create-user-accounts-and-set-permissions.md)。
+    a.  從清單中選取使用者。 若想要指派的使用者不在清單中，您可以在 [帳戶設定]  中[新增使用者](create-user-accounts-and-set-permissions.md)。
 
     b.  提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。 
     
-    我們會透過電子郵件將如何使用您上市權益的權益寄給您指定的行銷連絡人電子郵件地址。 
+    我們會透過電子郵件將使用您進入市場供應項目的指示寄給您指定的行銷連絡人電子郵件地址。 
     
     c.  提供此行銷連絡人的連絡電話和慣用語言。 在您完成輸入此資訊之後，請選取 [指派使用者]  。 
 
-4. 在您更新行銷連絡人之後，請尋找您要開始使用的上市權益，然後選取資料列最右邊的向下箭頭，即可展開此權益的詳細資料。 此清單會在權益名稱底下顯示每一種可用的權益 (例如，[銀級核心]  或 [金級核心]  )。
+4. 在您更新行銷連絡人之後，請尋找您要開始使用的進入市場供應項目，然後選取該列最右邊的向下箭頭，以展開該供應項目的詳細資料。 此清單會在權益名稱底下顯示每一種可用的供應項目 (例如，[銀級核心]  或 [金級核心]  )。
 
-5. 選取 [啟用]  以啟用權益。
+5. 選取 [啟用]  以啟用該供應項目。
 
 > [!NOTE]
->可能需要幾天的時間，才能透過電子郵件將指示寄給指派的行銷連絡人，並啟用上市權益。 一旦啟用權益後，您就會在 [上市] 頁面上看到變更。 在 [狀態]  欄中，您會看到權益變更為 [使用中]  。 在 [到期]  欄中，您會看到權益的到期日。 在到期日之前，您都可以使用此權益。 深入瞭解[有哪些不同類型的上市權益](mpn-learn-about-go-to-market-benefits.md)可用。  
+>可能需要幾天的時間，才會透過電子郵件將指示寄給指派的行銷連絡人，並啟用進入市場供應項目。 一旦啟用供應項目之後，您將會在 [進入市場] 頁面上看到變更。 在 [狀態]  欄中，您會看到供應項目變更為 [作用中]  。 在 [到期]  欄中，您會看到供應項目的到期日。 在到期日之前，您都可以使用此供應項目。 深入了解[有哪些不同類型的進入市場資源、供應項目和方案](mpn-learn-about-go-to-market-benefits.md)可用。  
 
 
-## <a name="cancel-a-membership-benefit"></a>取消會員資格權益
+## <a name="cancel-a-membership-benefit-or-offer"></a>取消會員資格權益或供應項目
 
-若要取消權益並獲得退款，您必須在購買後的 30 天內提出要求，而且尚未啟用軟體權益。 透過服務要求來要求取消。
+若要取消權益或供應項目並獲得退款，您必須在購買後的 30 天內提出要求，而且尚未啟用該軟體權益。 透過服務要求來要求取消。
 
 
-#### <a name="see-also"></a>請參閱
+#### <a name="see-also"></a>另請參閱
 
 [新增使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
 
 [購買或續約 Microsoft 行動套件的訂閱](mpn-get-action-pack.md)
 
-[了解 MPN 上市權益](mpn-learn-about-go-to-market-benefits.md)
+[了解 MPN 進入市場供應項目和資源](mpn-learn-about-go-to-market-benefits.md)

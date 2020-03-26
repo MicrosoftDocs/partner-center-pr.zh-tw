@@ -1,7 +1,7 @@
 ---
 title: 銀級及金級會員資格的 Microsoft 專長認證要求條件 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 03/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解取得金級及銀級會員資格等級的專長認證要求條件。
@@ -9,18 +9,18 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格, 進階專長
 ms.localizationpriority: high
-ms.openlocfilehash: 1927ccdb7c24e018ff1f656f46ba1580529d127f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
+ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004807"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "80226214"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft 銀級及金級專長認證和進階專長的相關資訊
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
+-    全域系統管理員
+-    使用者系統管理員
 
 證明您在一或多個特殊業務領域中提供高品質解決方案方面卓有建樹的專長。 Microsoft 專長認證是設計來讓您做好滿足客戶需求的準備，以及協助您吸引正在尋找 Microsoft 認證解決方案提供者的新客戶。 加入 Microsoft 合作夥伴菁英層，從同儕中脫穎而出。
 
@@ -30,7 +30,7 @@ ms.locfileid: "75004807"
 
 - 身為金級合作夥伴成員，您也可以將進階專長新增至您的公事包。
 
-獲得**銀級會員資格**或**金級會員資格**專長認證也會解除鎖定強大的[上市](mpn-learn-about-go-to-market-benefits.md)行銷和銷售優勢，以協助您拓展並提高業務。
+獲得**銀級會員資格**或**金級會員資格**專長認證也會解除鎖定強大的[進入市場](mpn-learn-about-go-to-market-benefits.md)供應項目和方案，以協助您拓展業務並使其成長。
 
 ## <a name="competency-areas"></a>專長認證領域
 
@@ -54,7 +54,7 @@ ms.locfileid: "75004807"
 
 ## <a name="advanced-specializations"></a>進階專長
 
-具備進階專長，超越您的金級專長認證。 這些認證可讓您展示您在產品、解決方案領域或服務中具有經過證實、可驗證的專長。 客戶能夠在您於合作夥伴目錄的商務設定檔中，看到您的金級專長認證和您的進階專長。 若要收到進階專長標記，您的企業必須完全符合一組已發佈的準則，並且經過 Microsoft 驗證。 [進一步瞭解](https://partner.microsoft.com/membership/competencies#tab-content-2)。 
+具備進階專長，超越您的金級專長認證。 這些認證可讓您展示您在產品、解決方案領域或服務中具有經過證實、可驗證的專長。 客戶能夠在您於合作夥伴目錄的商務設定檔中，看到您的金級專長認證和您的進階專長。 若要收到進階專長標記，您的企業必須完全符合一組已發佈的準則，並且經過 Microsoft 驗證。 [深入了解](https://partner.microsoft.com/membership/competencies#tab-content-2)。 
 
 ## <a name="the-current-advanced-specializations"></a>目前的進階專長
 
