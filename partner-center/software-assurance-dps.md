@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴中心的軟體保證規劃服務 |合作夥伴中心
 ms.topic: article
-ms.date: 01/31/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在 Microsoft 規劃服務參與中註冊並符合資格，讓您可以提供訓練和其他服務給具有軟體保證的客戶。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 預先部署、規劃、軟體保證
 ms.localizationpriority: medium
-ms.openlocfilehash: a8bce7d7e9d52071af3ffc8c483a4aa4c40cc54f
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76915749"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296401"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作夥伴中心的軟體保證規劃服務
 
@@ -25,7 +25,7 @@ ms.locfileid: "76915749"
 
 作為核准的規劃服務合作夥伴，Microsoft 會補償您為企業客戶提供預先部署的規劃活動。 參與此計畫可協助您吸引更多客戶、成為其受信任的規劃合作夥伴，並導致其他客戶參與。
 
-## <a name="get-started"></a>入門
+## <a name="get-started"></a>開始使用
 
 如果您不熟悉軟體保證規劃服務，請遵循下列所有步驟。 如果您已經在規劃服務程式中使用，請在下面的步驟四（4）開始每個新的 engagement。
 
@@ -103,8 +103,9 @@ ms.locfileid: "76915749"
 
 若要透過 SAVB 將發票提交給 Microsoft，請遵循工作流程[步驟 8](https://go.microsoft.com/fwlink/?linkid=2115983)中的指示。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 - [軟體保證規劃服務工作流程](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [軟體保證規劃服務常見問題](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [軟體保證規劃服務原則](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [軟體保證規劃服務已淘汰的合作](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

@@ -1,7 +1,7 @@
 ---
 title: 查看規劃服務合作的資格需求 |合作夥伴中心
 ms.topic: article
-ms.date: 01/29/2020
+ms.date: 03/24/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解公司可能想要提供給企業客戶的每項軟體保證規劃服務參與的資格需求。
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: 預先部署、規劃、軟體保證、參與、需求、資格、供應專案
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f53d12c470ec72bd8eb59ea7d21db06d813a763
-ms.sourcegitcommit: 3d9da42e1995c456f6409fbaa7e93cba11c0cfaa
+ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "76928887"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296436"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>查看規劃服務合作的資格需求
 
@@ -41,8 +41,9 @@ ms.locfileid: "76928887"
 | Exchange 部署規劃<br> 商務用 Skype 部署規劃</br>  | [商務用 Skype 和 Exchange 部署規劃服務（S-EDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | 資料資產現代化  | [SQL Server 部署規劃服務（SSDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 - [軟體保證規劃服務工作流程](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [軟體保證規劃服務常見問題](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [軟體保證規劃服務原則](https://go.microsoft.com/fwlink/?linkid=2115984)
+- [軟體保證規劃服務已淘汰的合作](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

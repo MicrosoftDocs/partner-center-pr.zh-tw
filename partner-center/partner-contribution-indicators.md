@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴貢獻指標 | 合作夥伴中心
 ms.topic: article
-ms.date: 1/06/2020
+ms.date: 03/25/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 顯示您公司的「Dynamics 365 客戶參與」或「Dynamics 365 財務與營運」之情況的資料
@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: b9892c1a1f46450b0ea8def1b10dba104c5cb1b0
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 6b100d4dbac6d311942f06ab895ce57f89921c42
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112447"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296457"
 ---
 # <a name="partner-contribution-indicators"></a>合作夥伴貢獻指標
 
@@ -24,12 +24,12 @@ ms.locfileid: "80112447"
 
 ## <a name="scoring"></a>評分
 
-PCI 提供合作夥伴技術功能的精密全面觀點，他們能夠推動客戶的成功，以及銷售績效。 PCI 會測量您公司在七個關鍵指標上的前一年效能：
+PCI 提供合作夥伴技術功能的精密觀點，他們能夠推動客戶的成功，以及銷售績效。 PCI 會測量您公司在七個關鍵指標上的前一年效能：
 
 1. **淨新收益**-Microsoft Dynamics 365 產品所有銷售通路的淨新收益。
 2. **Net 客戶加入**-在所有銷售通路中為 Dynamics 365 取得的 net 客戶。
-3. **功能顧問**：擁有目前作用中功能顧問的個人人數，會使 Dynamics 365 的認證產生關聯。
-4. **功能顧問成長**-功能顧問關聯的數量成長。
+3. **功能顧問**：擁有目前作用中功能顧問的個人人數，會使 Dynamics 365 的認證產生關聯。 
+4. **功能顧問成長**-功能顧問關聯的數量成長。 我們會重新評估何時將採用此計量的基準快照集的時機。 如先前所述，2020年3月31日不會發生此情況。 當我們設定了新的日期時，我們將會更新這份檔、在合作夥伴中心通知您，以及透過電子郵件通知您。
 5. **開發人員**：持有目前作用中開發人員的個人，可將 Dynamics 365 的認證相關聯。
 6. **新的大型部署**-過去12個月內跨越高使用量閾值的生產租使用者數目。
 7. **每月作用中使用者成長**-過去12個月內，所有客戶的每月作用中使用者的成長。
@@ -52,8 +52,7 @@ PCI 提供合作夥伴技術功能的精密全面觀點，他們能夠推動客�
 
 ![客戶參與](images/pci/custengagethresh.png)
 
-![財務](images/pci/table_2.png
-)
+![財務](images/pci/table_2.png)
 
 ![名](images/pci/table_3.png)
 
@@ -65,7 +64,7 @@ PCI 提供合作夥伴技術功能的精密全面觀點，他們能夠推動客�
 
 ![功能顧問](images/pci/funcconsult.png)
 
-![功能諮詢人員成長](images/pci/funcgrowth2.png)
+![功能諮詢人員成長](images/pci/4_Functional_consultant_growth.png)
 
 ![開發人員](images/pci/developers.png) 
 
@@ -73,13 +72,11 @@ PCI 提供合作夥伴技術功能的精密全面觀點，他們能夠推動客�
 
 ![作用中的使用者](images/pci/activeusers.png)
 
-
-
 ## <a name="customer-to-partner-association"></a>客戶對合作夥伴關聯性
 
 只有當您是雲端解決方案提供者（CSP）、申報合作夥伴的記錄（CPOR）時，才會在計量定義的範圍內獲得淨新收益、Net 客戶新增、新的大型部署和每月作用中使用者成長的點數。或屬於客戶租使用者的付費訂用帳戶的數位夥伴記錄（DPOR）。
 
-如果合作夥伴已透過 Dynamics 365 [Online Services Advisor](https://support.microsoft.com/en-us/help/4501560/online-services-advisor-osa-sell-incentives-faq) （OSA）獎勵或 Dynamics 365 [online services 使用量](https://support.microsoft.com/en-us/help/4489988/online-services-usage-osu-incentives-faq)（OSU）獎勵，與訂用帳戶層級的客戶建立關聯，就會成為 CPOR。
+如果合作夥伴已透過 Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) （OSA）獎勵或 Dynamics 365 [online services 使用量](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq)（OSU）獎勵，與訂用帳戶層級的客戶建立關聯，就會成為 CPOR。
 
 如果合作夥伴已在產品內與客戶在訂用帳戶層級建立關聯性，就會成為 DPOR。
 
@@ -91,7 +88,7 @@ PCI 提供合作夥伴技術功能的精密全面觀點，他們能夠推動客�
 
 ## <a name="additional-resources"></a>其他資源
 
-請流覽[合作夥伴貢獻指標資源集合](https://aka.ms/pcilearn)，您可以在其中找到詳細的訓練影片、簡報、常見問題和事實表。 
+流覽[合作夥伴貢獻指標資源集合](https://aka.ms/pcilearn)，您可以在其中找到詳細的訓練影片、簡報、常見問題和事實表。 
 
 
 
