@@ -6,35 +6,35 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解客戶可以執行自我支援的時機和位置，以管理自己的帳戶，以及何時應洽詢其雲端解決方案提供者合作夥伴。
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 客戶自我支援, 自我支援,
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1aad1f95fcc8e0c2cfd764a58e48f5474ac24ae2
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 91ef76a74b59627a943043156679b927e2279649
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252693"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391037"
 ---
-# <a name="customer-self-support"></a><span data-ttu-id="731b8-104">客戶自我支援</span><span class="sxs-lookup"><span data-stu-id="731b8-104">Customer self-support</span></span>
+# <a name="customer-self-support"></a><span data-ttu-id="483bf-104">客戶自我支援</span><span class="sxs-lookup"><span data-stu-id="483bf-104">Customer self-support</span></span>
 
-<span data-ttu-id="731b8-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="731b8-105">**Applies to**</span></span>
+<span data-ttu-id="483bf-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="483bf-105">**Applies to**</span></span>
 
--  <span data-ttu-id="731b8-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="731b8-106">Partner Center</span></span>
--  <span data-ttu-id="731b8-107">Microsoft Cloud for US Government 適用的合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="731b8-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="483bf-106">夥伴中心</span><span class="sxs-lookup"><span data-stu-id="483bf-106">Partner Center</span></span>
+-  <span data-ttu-id="483bf-107">Microsoft Cloud for US Government 適用的合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="483bf-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
 
-<span data-ttu-id="731b8-108">客戶可以登入他們的 Microsoft Office 365 系統管理中心或 Azure 管理入口網站，並管理其帳戶：</span><span class="sxs-lookup"><span data-stu-id="731b8-108">Customers can sign into their own Microsoft Office 365 admin center or Azure Management portal and manage their own accounts:</span></span>
+<span data-ttu-id="483bf-108">客戶可以登入他們的 Microsoft Office 365 系統管理中心或 Azure 管理入口網站，並管理其帳戶：</span><span class="sxs-lookup"><span data-stu-id="483bf-108">Customers can sign into their own Microsoft Office 365 admin center or Azure Management portal and manage their own accounts:</span></span>
 
--   <span data-ttu-id="731b8-109">在「訊息中心」檢視產品內通訊和通知，例如服務健康狀況資訊。</span><span class="sxs-lookup"><span data-stu-id="731b8-109">View in-product communications and notifications, such as service health information, in the Message Center.</span></span>
+-   <span data-ttu-id="483bf-109">在「訊息中心」檢視產品內通訊和通知，例如服務健康狀況資訊。</span><span class="sxs-lookup"><span data-stu-id="483bf-109">View in-product communications and notifications, such as service health information, in the Message Center.</span></span>
 
--   <span data-ttu-id="731b8-110">執行所有的服務設定和系統管理工作，如同直接向 Microsoft 購買一樣。</span><span class="sxs-lookup"><span data-stu-id="731b8-110">Perform all the service configuration and admin tasks as if they had purchased directly from Microsoft.</span></span> <span data-ttu-id="731b8-111">這包含設定 Exchange Online、SharePoint Online、商務用 Skype，或是其他已購買的服務。</span><span class="sxs-lookup"><span data-stu-id="731b8-111">This includes configuring Exchange Online, SharePoint Online, Skype for Business, or other services that they have purchased.</span></span>
+-   <span data-ttu-id="483bf-110">執行所有的服務設定和系統管理工作，如同直接向 Microsoft 購買一樣。</span><span class="sxs-lookup"><span data-stu-id="483bf-110">Perform all the service configuration and admin tasks as if they had purchased directly from Microsoft.</span></span> <span data-ttu-id="483bf-111">這包含設定 Exchange Online、SharePoint Online、商務用 Skype，或是其他已購買的服務。</span><span class="sxs-lookup"><span data-stu-id="483bf-111">This includes configuring Exchange Online, SharePoint Online, Skype for Business, or other services that they have purchased.</span></span>
 
-<span data-ttu-id="731b8-112">若要購買額外的訂閱，或是取消訂閱，客戶應該連絡他們的雲端解決方案提供者合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="731b8-112">To purchase additional subscriptions or cancel their subscriptions, customers should contact their Cloud Solution Provider partner.</span></span> <span data-ttu-id="731b8-113">客戶不能直接向 Microsoft 變更他們的訂閱。</span><span class="sxs-lookup"><span data-stu-id="731b8-113">Customers cannot change their own subscriptions directly with Microsoft.</span></span>
+<span data-ttu-id="483bf-112">若要購買額外的訂閱，或是取消訂閱，客戶應該連絡他們的雲端解決方案提供者合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="483bf-112">To purchase additional subscriptions or cancel their subscriptions, customers should contact their Cloud Solution Provider partner.</span></span> <span data-ttu-id="483bf-113">客戶不能直接向 Microsoft 變更他們的訂閱。</span><span class="sxs-lookup"><span data-stu-id="483bf-113">Customers cannot change their own subscriptions directly with Microsoft.</span></span>
 
-<span data-ttu-id="731b8-114">如果客戶需要產品方面的協助，他們可以在[支援](https://partnercenter.microsoft.com/partner/support)中找到產品資源。</span><span class="sxs-lookup"><span data-stu-id="731b8-114">When customers need help with products, they can find product resources on [Support](https://partnercenter.microsoft.com/partner/support).</span></span> <span data-ttu-id="731b8-115">我們鼓勵合作夥伴將客戶指向這些資源，做為解答問題的第一個步驟。</span><span class="sxs-lookup"><span data-stu-id="731b8-115">We encourage partners to point their customers to these resources as a first step.</span></span>
+<span data-ttu-id="483bf-114">如果客戶需要產品方面的協助，他們可以在[支援](https://partnercenter.microsoft.com/partner/support)中找到產品資源。</span><span class="sxs-lookup"><span data-stu-id="483bf-114">When customers need help with products, they can find product resources on [Support](https://partnercenter.microsoft.com/partner/support).</span></span> <span data-ttu-id="483bf-115">我們鼓勵合作夥伴將客戶指向這些資源，做為解答問題的第一個步驟。</span><span class="sxs-lookup"><span data-stu-id="483bf-115">We encourage partners to point their customers to these resources as a first step.</span></span>
 
  
 
