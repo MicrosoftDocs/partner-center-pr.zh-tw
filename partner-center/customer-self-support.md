@@ -6,23 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解客戶可以執行自我支援的時機和位置，以管理自己的帳戶，以及何時應洽詢其雲端解決方案提供者合作夥伴。
 ms.assetid: 980116E0-AA02-45DA-BBBA-482E28DC8BC4
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 客戶自我支援, 自我支援,
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1aad1f95fcc8e0c2cfd764a58e48f5474ac24ae2
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 91ef76a74b59627a943043156679b927e2279649
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74252693"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391037"
 ---
 # <a name="customer-self-support"></a>客戶自我支援
 
 **適用於**
 
--  合作夥伴中心
+-  夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 

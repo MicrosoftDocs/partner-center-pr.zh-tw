@@ -5,27 +5,27 @@ ms.date: 08/22/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在發行之前測試新的合作夥伴中心功能，並讓我們知道您的想法。 協助打造合作夥伴中心的未來！
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 6e480d29a5dd1cfedd90d479b107bf3f56f4f3ce
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.openlocfilehash: 367fe22b984277b02e4161bf12cf2198ab663c5b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73651209"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390567"
 ---
 # <a name="test-drive-new-partner-center-features"></a>測試新的合作夥伴中心功能
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 
 ## <a name="help-shape-the-future-of-partner-center"></a>協助打造合作夥伴中心的未來！
 
 我們會持續發行合作夥伴中心的新特色與功能，並想要您的意見反應！ 
 
-我們邀請您在新功能發行至合作夥伴中心全球社群之前搶先試用，並分享您的想法。 請查看[合作夥伴中心公告頁面](https://partnercenter.microsoft.com/pcv/announcements)，以取得即將發行之功能的相關資訊，讓您開始計畫如何使用它們來擴展您的業務。 請注意，同一時間可能會有多個功能可供測試。
+我們邀請您在新功能發行至合作夥伴中心全球社群之前搶先試用，並分享您的想法。 請查看[合作夥伴中心公告頁面](https://partnercenter.microsoft.com/pcv/announcements)，以取得即將發行之來功能的相關資訊，讓您開始計畫如何使用它們來擴展您的業務。 請注意，同一時間可能會有多項功能可供測試。
 
 ### <a name="test-drive-a-feature"></a>測試功能
 
@@ -44,13 +44,13 @@ ms.locfileid: "73651209"
 - 請參閱我們的目標日期，以便在我們將功能發行到全球合作夥伴中心的社區時，將功能提供給預覽和我們的目標上線日期
 
 > [!NOTE]  
->  根據*目標上線日期*，我們是指我們打算將此功能提供給所有全球合作夥伴中心使用者的日期。 不過，幾件事可能會影響目標上線日期，包括納入改進功能之意見反應的決策，而且我們可能會重新安排上線日期，或是不發行某個功能的商業版本。  
+>  根據*目標上線日期*，我們是指我們打算將此功能提供給所有全球合作夥伴中心使用者的日期。 不過，幾件事可能會影響目標上線日期，包括納入改進功能之意見反應的決策，而且我們可能會重新安排上線日期或者不發行功能的商業版本。  
 
 
  
 ## <a name="tell-us-what-you-think"></a>告訴我們您的想法
 
-我們為合作夥伴中心開發的所有內容，都是為了讓您成就更多。 我們想要專注于協助您拓展業務的特性和功能，因此我們邀請您嘗試新功能，並在他們發行到全球合作夥伴中心的社區之前，分享您對他們的意見反應。 
+我們在合作夥伴中心所有開發中的任務是讓您成就更多。 我們想要專注于協助您拓展業務的特性和功能，因此我們邀請您嘗試新功能，並在他們發行到全球合作夥伴中心的社區之前，分享您對他們的意見反應。 
 
 我們鼓勵您分享關於特定預覽版本或整個合作夥伴中心的想法與想法，以及建議您想要在網站中新增的新功能。 若要提供意見反應給我們，您可以：  
 
@@ -60,5 +60,5 @@ ms.locfileid: "73651209"
 
 
 
--- 合作夥伴中心團隊
+-- 合作夥伴中心團隊  敬上
 

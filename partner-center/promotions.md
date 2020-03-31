@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 身為雲端解決方案提供者計畫的 Microsoft 合作夥伴，您可以用促銷定價購買訂閱，再將省下的金額回饋給您的客戶。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: dd69d76c2158b454190c5cfac568f7260472c9dc
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 11bf5ae35ce20cf7290e1fbbdc1aa21c368c9a1b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004837"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390737"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促銷吸引新客戶  
 

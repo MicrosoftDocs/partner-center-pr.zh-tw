@@ -3,21 +3,21 @@ title: 一次性和選取週期性費用的帳單 |合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
 Description: 針對預設詞彙（每月和年度訂用帳戶）預先計費的相關資訊，以及合作夥伴中心選取週期性費用的計費（適用于 Microsoft 和協力廠商 ISV 產品）。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 計費，一次性，週期性，採購，費用，isv
 ms.localizationpriority: medium
-ms.openlocfilehash: 1bed32e8068f1f9276c385f790f31222ec6b269d
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 573334ce309c3b734da432c73975e3826b284498
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005037"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390777"
 ---
 #  <a name="billing-for-one-time-and-select-recurring-charges"></a>一次性和所選週期性費用的計費
 
 **適用於**
-- 合作夥伴中心
+- 夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
@@ -59,6 +59,6 @@ ms.locfileid: "75005037"
 
 目前的**計費活動***適用于這些*類型的費用。 您可以隨時在合作夥伴中心檢查帳戶餘額和帳單。 請注意，您的最終發票金額可能會與您在計費期間可看到的帳戶不同。 這是因為您的發票會包含稅金和任何其他適用的費用和信用額度。
 
-## <a name="common-billing-scenarios"></a>一般帳單案例
+## <a name="common-billing-scenarios"></a>常見帳單案例
 
 如需這些費用類型常見計費案例的詳細說明，請參閱單次[和週期性購買的常見計費案例](common-billing-scenarios-onetime-recurring.md)。

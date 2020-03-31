@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心新增新的客戶記錄。 然後，您可以銷售客戶訂用帳戶、管理帳單，或提供客戶支援。
 ms.assetid: 4F53DFAF-1792-4E91-BBEB-E9A65026A81C
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
-ms.openlocfilehash: 3ff14f57688e377286d46d6aa9cf2d235f032629
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 70961af4dfc4996a62fdb23bc965f0a3d2fb8f37
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340077"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390957"
 ---
 # <a name="add-a-new-customer"></a>加入新的客戶 
 
@@ -50,7 +50,7 @@ ms.locfileid: "78340077"
 >- 使用官方檔中所顯示的確切合法/官方名稱
 >- 避免使用縮寫或簡短形式
 >- 不要使用測試名稱
->- 提供完整的確切位址（位置詳細資料、城市、州、國家/地區和郵遞區號）
+>- 提供完整的確切位址（位置詳細資料、城市、州、國家和郵遞區號）
 
 
 >[!IMPORTANT] 

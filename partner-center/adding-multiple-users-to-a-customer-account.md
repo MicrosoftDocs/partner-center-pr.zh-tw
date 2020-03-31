@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 以逗點分隔值檔案格式（.csv）將資料檔案上傳至合作夥伴中心，以瞭解如何一次將多個使用者新增至客戶的帳戶。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 大量上傳, 新增多個使用者至客戶的帳戶, 新增客戶使用者, 大量上傳客戶使用者, 客戶帳戶, 客戶使用者, 使用者
 ms.localizationpriority: medium
-ms.openlocfilehash: 2195d23074a3e7c397b5f557fd3bed9ec0cc518e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 499aff67d18b0d8f9fbaf098fecbab2d888d9ac7
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721991"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390367"
 ---
 # <a name="add-multiple-users-to-a-customer-account"></a>將多個使用者新增到客戶帳戶
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 
 **適當的角色**
 
@@ -29,7 +29,7 @@ ms.locfileid: "74721991"
 
 您可以將多個使用者一次新增至客戶的帳戶，方法是將以逗點分隔值檔案格式（.csv）中的資料檔案上傳至合作夥伴中心。 您可以從合作夥伴中心下載範例資料檔案，然後進行編輯以供您使用，或者您可以使用以下定義的資料模型來建立新的資料檔案。
 
-## <a href="" id="creatingtheimportcsvfile"></a>資料檔案需求
+## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>資料檔案需求
 
 若要使用大量上傳程式，將多個使用者新增至客戶的帳戶，您必須符合下列需求：
 
@@ -50,11 +50,11 @@ ms.locfileid: "74721991"
 | 電子郵件           | 使用者在 customer 公司的公司電子郵件地址（必要欄位）           | 每位使用者都必須有唯一電子郵件地址 |
 | 狀態更新   | 用來指示是否已經成功建立新的使用者記錄 | \*\*留空的\*\*                        |
 
-### <a href="" id="createmultipleuseraccounts"></a>建立多個使用者帳戶
+### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>建立多個使用者帳戶
 
 <a href="" id="creatingtheaccounts"></a>
 
-1. 建立包含上述資料並以逗號分隔值 (.csv) 的資料檔案。 儲存檔案以便您在之後的步驟中瀏覽該檔案。
+1. 建立包含上述資料的逗號分隔值 (.csv) 資料檔案。 儲存檔案以便您在之後的步驟中瀏覽該檔案。
 
 2. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
@@ -62,7 +62,7 @@ ms.locfileid: "74721991"
 
 4. 選取客戶的 [**使用者和授權**] 索引標籤，然後選取 [**上傳使用者**]。
 
-5. 在 **\[上傳使用者資訊\]** 底下，選取 **\[瀏覽\]** 。
+5. 在 \[上傳使用者資訊\] 底下，選取 \[瀏覽\]。
 
 6. 在檔案選取器中，選取您的資料檔案，然後選取 **\[開啟\]** 。
 
@@ -71,7 +71,7 @@ ms.locfileid: "74721991"
     **注意**  大部分的帳戶建立錯誤是由資料檔案問題所造成，包括遺漏資訊、格式不正確或重複的電子郵件地址，或檔案中的記錄太多。
 
 8. 合作夥伴中心驗證檔案之後，請選取新使用者的地理**位置**。
-9. 選取 **\[儲存\]** 。
+9. 選取 [儲存]。
 10. 下載使用者的暫時密碼資訊。
 
 **重要：** 請務必立即下載包含暫時密碼的檔案，因為您無法在之後執行此作業。 新的使用者必須他們新帳戶的暫時密碼登入他們的新帳戶。

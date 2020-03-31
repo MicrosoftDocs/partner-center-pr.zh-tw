@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 概述您可以為客戶提供的各種技術支援方法和類型。
 ms.assetid: 6199AD1B-239C-4B57-8540-E0038FF34725
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 631a5273c7ab373d135904aa6202bbfc21bc0fa2
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 068d53a72608b29cc4dd7854caf20d32ffe77b06
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004817"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390717"
 ---
 # <a name="provide-technical-support"></a>提供技術支援
 
 **適用於**
 
--  合作夥伴中心
+-  夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
@@ -39,7 +39,7 @@ ms.locfileid: "75004817"
 **為您的客戶執行系統管理工作**
 
 1.  從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]。 從清單中選擇客戶。
-2.  在 \[客戶\] 功能表中選取 **\[服務管理\]** 。
+2.  在 \[客戶\] 功能表中選取 \[服務管理\]。
 3.  在 **\[管理服務\]** 區段中，選擇您需要處理的服務來開啟該服務的管理入口網站。
 4.  如果您發現客戶的帳戶發生問題，例如服務已關閉或效能已降低，您應該先檢查服務健康狀態。 請參[閱檢查服務健康狀況](check-service-health.md)。
 5.  若要將問題向上呈報給 Microsoft，請提出服務要求。 請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。

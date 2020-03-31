@@ -5,15 +5,15 @@ ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 身為間接供應商或散發者，請瞭解如何與間接轉銷商合作來擴展。 這包括您可以在合作夥伴中心執行的工作。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5e3f4455d4572926c680978b87858485c991681b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 969ac33c7e5d5fda0a97eb93a696eda32d2f100c
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112477"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390927"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商成為合作夥伴
 

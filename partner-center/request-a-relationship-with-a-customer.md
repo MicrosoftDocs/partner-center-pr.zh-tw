@@ -6,15 +6,15 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 要求關係是用於多重合作夥伴和多重通路案例。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: c89c1c9880adf1a6d91302251bc332dd537e1e83
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "77012126"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390677"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作夥伴中心中與客戶保持聯繫
 
@@ -51,7 +51,7 @@ ms.locfileid: "77012126"
 
 
 > [!IMPORTANT]  
-> 客戶可以在服務的管理員入口網站中重新指派或移除系統管理員許可權。 不過，除非您與客戶重新協商合約，否則您會繼續負責提供客戶支援並遵守 Microsoft 合作夥伴合約的條款，即使在客戶重新指派或移除系統管理員之後也一樣。無權. 在此情況下，如果客戶需要協助，您可以連絡 Microsoft 支援服務，以代表客戶開啟服務要求。
+> 客戶可以在服務的管理入口網站中重新指派或移除管理員權限。 不過，除非您與客戶重新協商合約，否則您會繼續負責提供客戶支援並遵守 Microsoft 合作夥伴合約的條款，即使在客戶重新指派或移除系統管理員之後也一樣。無權. 在此情況下，如果客戶需要協助，您可以連絡 Microsoft 支援服務，以代表客戶開啟服務要求。
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>客戶邀請體驗的變更
 

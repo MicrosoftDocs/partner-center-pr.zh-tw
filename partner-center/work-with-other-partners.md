@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解間接提供者如何與雲端解決方案提供者（CSP）計畫中的間接轉銷商協力合作，並判斷哪一個角色適合您。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 720d4890eb4d131484a26d489c202ca3f173a006
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: ffa27c8f0c099182dc24d44d0ccaef1a6231dead
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943151"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390447"
 ---
 # <a name="work-with-other-partners"></a>與其他合作夥伴合作
 
 **適用於**
 
--  合作夥伴中心
+-  夥伴中心
 
 Microsoft 的雲端解決方案提供者（CSP）方案提供了機會，讓合作夥伴以這些方式共同合作。
 
@@ -39,7 +39,7 @@ Microsoft 的雲端解決方案提供者（CSP）方案提供了機會，讓合�
 
 如果您是間接經銷商，或如果您有興趣註冊為 CSP 計畫的間接經銷商，請參閱[在 CSP 中與間接提供者建立合夥關係](indirect-reseller-tasks-in-partner-center.md)，以深入了解如何與間接提供者和客戶保持聯繫。
 
-不確定是否要在 CSP 計畫中註冊為間接經銷商或直接合作夥伴嗎？ 請參閱 [Microsoft 合作夥伴網路網站](https://partner.microsoft.com)上的[探索間接模型](https://partner.microsoft.com/cloud-solution-provider/indirect)。   
+不確定是否要在 CSP 計畫中註冊為間接經銷商或直接合作夥伴嗎？ 請參閱 [Microsoft 合作夥伴網路網站](https://partner.microsoft.com/cloud-solution-provider/indirect)上的[探索間接模型](https://partner.microsoft.com)。   
 
 ## <a name="multi-partner-support"></a>多合作夥伴支援
 

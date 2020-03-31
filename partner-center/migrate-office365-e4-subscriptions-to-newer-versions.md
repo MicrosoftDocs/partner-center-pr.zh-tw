@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 企業版 E4 從 2017 年 4 月 7 日起淘汰。 了解如何將您的客戶訂閱移轉至新版 Office 365。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 314711a3f640ad6a228a437e35fe0d8a543e4da5
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ead92169ce7b3f1c2e697b6d4e983603c17d39fc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004559"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390877"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>將 Office 365 E4 訂閱移轉至新版 Office 365
 
 **適用於**
 
--  合作夥伴中心
+-  夥伴中心
 
 **適當的角色**
 -   全域系統管理員
@@ -55,14 +55,14 @@ E4 訂閱會設定為自動續約 = False 於 2017 年 4 月 7 日。 您可以�
 
 | 功能 | 選項 1 | 選項 2 | 選項 3 | 選項 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| 取得 Office 365 企業版 E4 中包含所有的功能？ | [是] | [是] | [是] | 無 |
-| 在 Office 365 中管理電話號碼？ | [是] | [是] | 無 | 無 |
-| 在內部部署和 Office 365（混合部署）中管理電話號碼？ | [是] | [是] | 無 | 無 |
-| 選項可新增 PSTN 語音通話方案嗎？ | [是] | [是] | 無 | 無 |
-| PSTN 會議？ | [是] | 無 | 無 | 無 |
-| 共同作業、分析和安全性的進階工具？ | [是] | 無 | 無 | 無 |
-| 互動式報告、儀表板，以及資料視覺效果？ | [是] | 無 | 無 | 無 | 
-| 使用內建隱私權、透明度及精簡使用者控制項，對資料安全性與合規性的更多控制權？ | [是] | 無 | 無 | 無 | 
+| 取得 Office 365 企業版 E4 中包含所有的功能？ | 是 | 是 | 是 | 否 |
+| 在 Office 365 中管理電話號碼？ | 是 | 是 | 否 | 否 |
+| 在內部部署和 Office 365（混合部署）中管理電話號碼？ | 是 | 是 | 否 | 否 |
+| 選項可新增 PSTN 語音通話方案嗎？ | 是 | 是 | 否 | 否 |
+| PSTN 會議？ | 是 | 否 | 否 | 否 |
+| 共同作業、分析和安全性的進階工具？ | 是 | 否 | 否 | 否 |
+| 互動式報告、儀表板，以及資料視覺效果？ | 是 | 否 | 否 | 否 | 
+| 使用內建隱私權、透明度及精簡使用者控制項，對資料安全性與合規性的更多控制權？ | 是 | 否 | 否 | 否 | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>將客戶轉換到新產品方案
 
@@ -90,7 +90,7 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 3. 在 **\[管理授權\]** 頁面中，清除 **\[Office 365 企業版 E4\]**  授權核取方塊，然後選取客戶訂閱移動到的新服務方案。
 
-4. 選取 **\[提交\]** 。 確認頁面會列出新的授權指派。
+4. 選取 [提交]。 確認頁面會列出新的授權指派。
 
 5. 針對需要重新指派授權的任何其他客戶使用者繼續執行相同步驟。
 
@@ -102,7 +102,7 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 2. 在訂閱詳細資料頁面中，將訂閱狀態設定為 **\[已暫停\]** 。
 
-3. 選取 **\[提交\]** 。
+3. 選取 [提交]。
 
 舊訂閱已暫停，而新訂閱為使用中。 暫停的訂閱將在 120 天後自動解除佈建。 客戶不會因為舊訂閱而產生額外費用。
 

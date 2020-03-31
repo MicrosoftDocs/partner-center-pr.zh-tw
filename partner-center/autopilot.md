@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在您將裝置傳遞給客戶之前，使用 Autopilot 設定檔自訂或預先設定新裝置的全新體驗。
-author: maggiepuccievans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: autopilot，windows autopilot，microsoft autopilot，零接觸部署，oobe，登入畫面，現成的
 ms.localizationpriority: medium
-ms.openlocfilehash: 16653865ff251bcf73dcd79c4948d3326bcc0fab
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: c69b61256e19fd3a8becbfd546fd5b9a0b54654f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721430"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390997"
 ---
 # <a name="customize-the-out-of-box-experience-for-a-device-with-windows-autopilot-profiles"></a>使用 Windows Autopilot 設定檔自訂裝置的全新體驗
 
@@ -52,7 +52,7 @@ ms.locfileid: "74721430"
 
 - 略過 Cortana、OneDrive 和 OEM 註冊設定頁面。 向 Autopilot 註冊的所有裝置都會在全新體驗（OOBE）程式期間自動略過這些頁面。
 
-- 略過使用者授權合約（EULA）。 從 Windows 10 1709 版開始，組織可以決定略過在 OOBE 程式中顯示的 EULA 頁面。 請參閱下面的 [Windows AUTOPILOT EULA 關閉](#windows-autopilot-eula-dismissal)，以取得在 Windows 安裝期間略過 EULA 頁面的重要資訊。
+- 略過使用者授權合約（EULA）。 從 Windows 10 1709 版開始，組織可以決定略過在 OOBE 程式中顯示的 EULA 頁面。 請參閱下面的 < [Windows AUTOPILOT EULA 關閉](#windows-autopilot-eula-dismissal)，以取得在 Windows 安裝期間略過 EULA 頁面的重要資訊。
 
 以下是適用的設定檔和裝置管理許可權和限制：
 
@@ -88,7 +88,7 @@ ms.locfileid: "74721430"
   
    - 略過使用者授權合約（EULA）<br> 
        >[!IMPORTANT] 
-       >請參閱下面的 [Windows AUTOPILOT EULA 關閉](#windows-autopilot-eula-dismissal)，以取得在 Windows 安裝期間略過 EULA 頁面的重要資訊。
+       >請參閱下面的 < [Windows AUTOPILOT EULA 關閉](#windows-autopilot-eula-dismissal)，以取得在 Windows 安裝期間略過 EULA 頁面的重要資訊。
 
 5. 完成時選取 **\[提交\]** 。
 
@@ -109,7 +109,7 @@ ms.locfileid: "74721430"
 
     a.  將裝置連線到網路，並將它開啟。
 
-    b。  確認是否會顯示適當的 OOBE 畫面 (如果有的話)。
+    b.  確認是否會顯示適當的 OOBE 畫面 (如果有的話)。
 
     c.  當 OOBE 程式停止時，將裝置重設為其原廠預設值，為新的使用者準備它。
 

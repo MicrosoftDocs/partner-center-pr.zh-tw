@@ -6,22 +6,23 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何與客戶合作，以變更客戶將用於 Azure 服務的雲端解決方案提供者方案中的哪個合作夥伴。
 ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d7c3e85b96e52aa2fa3e09261aee81f364996d3
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 3a709ad7eac9b2a4db7063a47713c27dc41d7833
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943391"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390617"
 ---
 # <a name="transfer-azure-subscriptions"></a>轉移 Azure 訂閱 
 
 **適用於**
 
--  合作夥伴中心
+- Microsoft Cloud for US Government 適用的合作夥伴中心
+- Microsoft 全球雲端的合作夥伴中心
 
 客戶可以決定切換至雲端解決方案提供者或其 Microsoft Azure 服務中的其他合作夥伴。 不過，這是需要合作夥伴和客戶雙方手動操作的程序。
 
@@ -40,7 +41,7 @@ ms.locfileid: "74943391"
 2. 該訂閱的合作夥伴必須執行下列工作：
 
 從合作夥伴中心建立 Azure 服務票證以要求訂用帳戶移轉：
--   從 [合作夥伴中心] 功能表中，選取 [**客戶**]，並從清單中選取您的客戶，然後選取 [**服務管理**]。 在 **\[支援票證\]** 區段底下，選取 **\[新增票證\]** 下拉式清單並選擇 **\[Microsoft Azure\]** 。
+-   從 [合作夥伴中心] 功能表中，選取 [**客戶**]，並從清單中選取您的客戶，然後選取 [**服務管理**]。 在 \[支援票證\] 區段底下，選取 \[新增票證\] 下拉式清單並選擇 \[Microsoft Azure\]。
 
 -   在 Azure 入口網站中，選取 **\[新增支援要求\]** 。
 
@@ -77,13 +78,13 @@ ms.locfileid: "74943391"
 
 6. 新的合作夥伴：
 
-更新 Azure 訂用帳戶設定以將舊合作夥伴從帳戶中移除。 如果要查看已佈建的角色指派，請執行兩個 Powershell Commandlet。
+更新 Azure 訂用帳戶設定以將舊合作夥伴從帳戶中移除。 若要查看已佈建的角色指派，請執行兩個 Powershell Commandlet。
 
 -   在帳戶上將新合作夥伴新增為經銷商：
 
 **PS C：\\&gt; 新增-AzureRMAccount-租使用者 "CustomerDomainName"**
 
-尋找 customerDomainName：在 \[合作夥伴中心\] 功能表中，選取 \ **[客戶\]** 。 從客戶清單中選取客戶。 在 \[客戶\] 功能表中，選取 **\[帳戶\]** ，並使用 **\[網域名稱\]** 的內容。
+尋找 customerDomainName：在 \[合作夥伴中心\] 功能表中，選取 \ **[客戶\]** 。 從客戶清單中選取客戶。 在 \[客戶\] 功能表中，選取 \[帳戶\]，並使用 \[網域名稱\] 的內容。
 
 -   在帳戶上檢視角色，包括先前的雲端解決方案提供者合作夥伴：
 
@@ -92,9 +93,9 @@ ms.locfileid: "74943391"
 7. 移除過時存取權限
 
 -  在 \[合作夥伴中心\] 功能表中，選取 **\[客戶\]** 。 
--  展開客戶的列表並選取 **\[檢視訂閱\]** 。 
--  在 \[客戶\] 功能表中選取 **\[服務管理\]** 。 
--  在 **\[Microsoft Azure\]** 下方，按一下連結以移至 **\[Microsoft Azure 管理入口網站\]** 。
+-  展開客戶的列表並選取 \[檢視訂閱\]。 
+-  在 \[客戶\] 功能表中選取 \[服務管理\]。 
+-  在 \[Microsoft Azure\] 下方，按一下連結以移至 \[Microsoft Azure 管理入口網站\]。
 
  
 

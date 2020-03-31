@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解 Microsoft 對於特定客戶群組的特殊價格降低定價，包括教育客戶、非獲利客戶和政府使用者。
 ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 5479829dc73c8c45eb6db66b95f481bbddee2efa
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.openlocfilehash: 0d6f79e6bfe04d065318e4f927233877db0286f9
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631803"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390977"
 ---
 # <a name="sell-to-specialized-industries"></a>銷售到特色產業
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 
 **適當的角色**
 
@@ -34,7 +34,7 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 |**特殊定價**   |**轉銷商需要資格**   |**客戶所需的資格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育版   |無   | 必須是[合格教育版使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|教育   |無   | 必須是[合格教育版使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
 |政府   |若要銷售 Azure，請使用[MICROSOFT 美國政府雲端驗證表單](https://azuregov.microsoft.com/csp)進行註冊。 若要銷售授權型訂閱給政府機構，沒有要求資格。|   無|
 |非營利事業  |無<br>必須有非營利 Azure Active Directory 租用戶。<br>深入了解[非營利特別優惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)。   |透過 [Microsoft 非營利計畫](https://nonprofit.microsoft.com/#/register)註冊以便符合資格。   |
 
@@ -50,14 +50,14 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 ## <a name="check-the-customer-qualifications"></a>檢查客戶資格
 
 1.  從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]。 從清單中選擇客戶。
-2.  從客戶功能表中，選取 **\[帳戶\]** 。 在 **\[公司資訊\]** 區段中，尋找 **\[特殊資格\]** 。
+2.  從客戶功能表中，選取 \[帳戶\]。 在 \[公司資訊\] 區段中，尋找 \[特殊資格\]。
 3.  如果 **\[特殊資格\]** 是設為 **\[無\]** ，但該客戶確實符合資格，您可以 **\[更新\]** 他們的詳細資料以包含他們。
 
 ## <a name="where-to-find-special-offers"></a>哪裡可以找到特別優惠
 
 一旦您與您的客戶符合特殊優惠計畫的資格，請依照步驟來[新增訂閱](create-a-new-subscription.md)。 在 **\[新訂閱]** 頁面的 **\[類別目錄\]** 區段中，選取特色產業以查看您可以銷售的特別優惠。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 [銷售 Minecraft：教育版教育客戶的訂閱](minecraft-subscriptions.md)
 

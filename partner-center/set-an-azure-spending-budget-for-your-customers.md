@@ -6,21 +6,21 @@ description: 瞭解如何為您的客戶設定或移除每月的 Azure 費用預
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 81f2bfa0b8e9864e0fc1a90ff5a5a11111c2a433
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943201"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390647"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>為客戶設定 Azure 消費預算
 
 適用於：
 
-- 合作夥伴中心
+- 夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 您可以在合作夥伴中心[為您的客戶設定每月的 Azure 費用預算](#set-azure-spending-budget)。 這可協助您的客戶管理其 Azure 費用。 此選項可讓您將客戶的 Azure 費用與當月的預算進行比較。 它也可協助您的客戶預算其 Azure 費用，讓其每月帳單不會高於預期。

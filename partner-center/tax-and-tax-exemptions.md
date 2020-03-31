@@ -6,22 +6,22 @@ description: 瞭解您特定地理區域的稅務責任，以及如何為您的 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: MaggiePucciEvans
+author: jasonwhowell
 keywords: 稅金，免稅，vat，轉銷商，帳單
-ms.author: evansma
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: b0fdf5bd78a6ce8ac98a18b85551bd7d57ffdabd
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943191"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390627"
 ---
 # <a name="taxes-and-tax-exemptions"></a>稅金與免稅
 
 適用於：
 
-- 合作夥伴中心
+- 夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 雲端解決方案提供者（CSP）計畫是一種銷售通路，著重于合作夥伴轉售的產品。 因此，Microsoft 不一定需要向交易夥伴發票收取銷售稅務費用。 這些規則會因國家/地區和（或）區域而異。 您可以查看[國家/地區特定和特定區域的免稅詳細資料](#country-and-region-tax-details)。

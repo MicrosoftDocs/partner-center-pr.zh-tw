@@ -6,16 +6,16 @@ description: 您的發票是目前每月期間的所有合作夥伴中心費用�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4c8ad1e0f12586ed1e75670806c463ca9cee54
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 7e5171a44ba8f23955847f6450e59b948f3c7d52
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004827"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390707"
 ---
 # <a name="read-your-bill"></a>閱讀您的帳單
 
@@ -43,7 +43,7 @@ ms.locfileid: "75004827"
 
 如需發票檔案中所有欄位的詳細描述（包括一次性費用的欄位），請參閱[發票檔案欄位](invoice-file.md)。
 
-## <a name="find-your-bill"></a>尋找您的帳單
+## <a name="find-your-bill"></a>尋找帳單
 
 您可以在 [合作夥伴中心] 儀表板的 [**帳單**] 頁面上找到您的發票。 您也可以在此頁面上找到您的帳單歷程記錄、支出趨勢和對帳檔案。
 

@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何以及在何處管理合作夥伴中心，以取得美國政府合作夥伴、客戶和授權的 Microsoft Cloud，以及密碼重設。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 56121b91fd0e1eae02fc232d45d0c7b06c5dd8ea
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.openlocfilehash: 9940350c9b3b09f8a4fef32251394614a6f91d2f
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943601"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390457"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美國政府適用的 Microsoft Cloud 合作夥伴中心內的使用者及授權管理
 
@@ -32,7 +32,7 @@ ms.locfileid: "74943601"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>如何在 Azure 入口網站中為美國政府適用的 Microsoft Cloud 管理使用者
 
-如果您已登入美國政府適用的 Microsoft Cloud 合作夥伴中心，便可直接開啟美國政府適用的 Microsoft Cloud 的 Azure 入口網站，而不需再次登入。 不過，如果您需要直接登入 Microsoft Cloud for US Government 適用的 Azure 入口網站，請移至 (https://portal.azure.us/) ，並使用 Microsoft Cloud for US Government 適用的 Azure AD 租用戶全域管理員認證來登入。
+如果您已登入美國政府適用的 Microsoft Cloud 合作夥伴中心，便可直接開啟美國政府適用的 Microsoft Cloud 的 Azure 入口網站，而不需再次登入。 不過，如果您需要直接登入 Microsoft Cloud for US Government 適用的 Azure 入口網站，請移至 (https://portal.azure.us/)，並使用 Microsoft Cloud for US Government 適用的 Azure AD 租用戶全域管理員認證來登入。
 
 成功登入美國政府適用的 Microsoft Cloud 的 Azure 入口網站後，請開啟 Azure Active Directory (Azure AD) 概觀頁面，然後按照下列主題中的指示進行：
 

@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 Microsoft 如何預期在雲端解決方案提供者方案中的客戶與合作夥伴之間進行客戶溝通。
 ms.assetid: EE52153B-6B91-4A9C-8F26-8ECAC3391D4B
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 通訊, 客戶通訊, 與 Microsoft 對話
 ms.localizationpriority: medium
-ms.openlocfilehash: 4a02e5befab4553c9fbd6e5a99a6565c4ddc9b8c
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: 93e2479e02c593971d10c432e2a237e97af41b13
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253562"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390987"
 ---
 # <a name="customer-communication-from-microsoft"></a>Microsoft 的客戶通訊
 
 **適用於**
 
--  合作夥伴中心
+-  夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 

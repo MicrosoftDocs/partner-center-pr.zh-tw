@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何查看和匯出活動記錄，以深入瞭解客戶帳戶交易和其他客戶相關的合作夥伴管理活動。
 ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions, 活動記錄, 訂用帳戶, 付款, 帳單, 交易
 ms.localizationpriority: medium
-ms.openlocfilehash: 48871571fb35a17ab824be805233ee11168765b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: ef848b729079e54df5e898ea67fafdb1d1e87d25
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721784"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390377"
 ---
 # <a name="view-customer-activity-logs"></a>檢視客戶活動記錄
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 - 雲端解決方案提供者計畫合作夥伴
 
@@ -43,7 +43,7 @@ ms.locfileid: "74721784"
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
 2. 從 [帳戶設定] 功能表，選取 [活動記錄]。
-2.  在 **\[從\]** 和 **\[到\]** 欄位中選取活動記錄期間。 活動記錄預設會匯出最近月份的記錄。
+2.  在 \[從\] 和 \[到\] 欄位中選取活動記錄期間。 活動記錄預設會匯出最近月份的記錄。
 
     每個活動記錄都會提供對所列出客戶的**訂閱**頁面連結。
 
@@ -51,11 +51,11 @@ ms.locfileid: "74721784"
 
 3.   記錄的資料欄包含下列項目：
     -   **日期 / 時間**：動作的日期和時間；
-    -   **受影響客戶**：客戶的公司名稱；
+    -   **受影響客戶**—客戶的公司名稱；
     -   **動作**：由客戶所採取的動作，例如「已建立轉介」；
     -   **合作夥伴使用者**：與活動相關聯的合作夥伴。
 
-4.  選取 [匯出記錄] 以將客戶的訂閱資料複製到 .csv 檔案，然後將該檔案下載到您電腦中的預設下載資料夾。
+4.  選取 **\[匯出記錄\]** 以將客戶的訂閱資料複製到 .csv 檔案，然後將檔案下載到您電腦中的預設下載資料夾。
     
  
 
