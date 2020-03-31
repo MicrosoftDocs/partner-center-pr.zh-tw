@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解當客戶遇到服務問題時，如何檢查其服務健康狀態。
 ms.assetid: 05536BE7-A581-45D3-A390-2B9F139B5C6D
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 健全狀況，服務健全狀況，服務問題
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d43782a53e09f6589e735792a2de46987822a4b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 588145555426cf49c2bf0410078c158f142a74ba
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721663"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390207"
 ---
 # <a name="check-service-health"></a>檢查服務健康狀況
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 
 **適當的角色**
 
@@ -38,7 +38,7 @@ ms.locfileid: "74721663"
 
 2.  您會看到您所有的服務，並指出是否有任何項目不是處於良好健康情況。 
 
-在服務中斷期間，Microsoft 會在解決問題期間提供定期更新。 查看這些更新的最佳方式是從合作夥伴中心的**通知中心**。 這些通知也會在 Microsoft Azure 入口網站或 Office 395 系統管理中心上顯示。
+在服務中斷期間，Microsoft 會在解決問題期間提供定期更新。 查看這些更新的最佳方式是從合作夥伴中心的**通知中心**。 這些通知也會在 Microsoft Azure 入口網站或 Office 365 系統管理中心上顯示。
 
 如果問題在服務中斷結束後仍然持續，請提交服務要求。 請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。
 

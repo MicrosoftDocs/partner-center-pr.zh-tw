@@ -3,20 +3,20 @@ title: 以使用量為基礎的計費 |合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
 Description: 在合作夥伴中心以使用量為基礎的計費資訊，其中會以每月使用量費率計費。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 計費，使用量為基礎，使用量
 ms.localizationpriority: medium
-ms.openlocfilehash: c92c6f9014a40a0f8804ba83ba7cc85939e90281
-ms.sourcegitcommit: 1c3d3b95135e1daad5ba5585a090e84ab0b97594
+ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "74389736"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390497"
 ---
 # <a name="usage-based-billing"></a>用量型帳單
 
-- 合作夥伴中心
+- 夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
 當您購買線上服務（例如 Azure 訂用帳戶）時，您需支付每月使用費率的費用。 以使用量為基礎的服務（例如 Azure）會根據耗用量，依據計量付費費率計費。

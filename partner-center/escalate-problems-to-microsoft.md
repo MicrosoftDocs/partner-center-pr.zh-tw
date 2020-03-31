@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 Microsoft 合作夥伴預期會為客戶解決的問題，以及他們可能需要向 Microsoft 呈報哪些問題。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 38797b12a4f32d7feea01f4ca320eee3faf19799
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722242"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389857"
 ---
 # <a name="escalate-problems-to-microsoft"></a>向上呈報問題給 Microsoft
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**

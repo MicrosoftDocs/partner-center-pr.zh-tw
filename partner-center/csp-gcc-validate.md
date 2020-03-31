@@ -5,21 +5,21 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解直接帳單合作夥伴（直接轉銷商、間接提供者）的步驟，以驗證適用于 CSP 的 Office 365 政府版 GCC 的合作夥伴和客戶。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 3819362421c19a9331760ff4c2068c1a781dd00c
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a0cbdcd0ac4bcf6eda9df43f4b3a92bfcb4ce91b
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721943"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389727"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>適用於雲端解決方案提供者的 Office 365 政府版 GCC 的合作夥伴和客戶資格條件
 
 **適用於**
 
--  合作夥伴中心
+-  夥伴中心
 -  雲端解決方案提供者合作夥伴
 
 **適當的角色**
@@ -48,7 +48,7 @@ ms.locfileid: "74721943"
 2.  透過 GSA 或其他合約媒介服務美國政府客戶
 
 **客戶準則**
-1.  各級職權的美國政府實體。 例如：
+1.  各級職權的美國政府實體。 例如，
  
     -  聯邦機構 (例如局、機構、部門或其他美國政府實體)
     -   州/當地實體 

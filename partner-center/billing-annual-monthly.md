@@ -4,27 +4,27 @@ ms.topic: article
 ms.date: 11/25/2019
 Description: 瞭解合作夥伴中心的每月和年度計費週期之間的差異。
 ms.assetid: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b5d9b8175f2d64998efaf2e64e3d1adbdbc2f75
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: a05f64ac919cce0339f0033fa38a4b43e61d3c08
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722410"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390307"
 ---
 # <a name="monthly-and-annual-billing-differences"></a>每月和每年計費差異
 
 **適用於**
 
-- 合作夥伴中心
+- 夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
 
 - 系統管理代理人
-- 帳單管理
+- 帳單系統管理員
 - 全域系統管理員
 - 獎勵管理員
 - 獎勵使用者
@@ -51,7 +51,7 @@ ms.locfileid: "74722410"
 
 每月和每年計費（適用供應專案）均適用于目前提供 CSP 計畫的所有市場。
 
-## <a name="change-billing-frequency"></a>變更計費頻率
+## <a name="change-billing-frequency"></a>變更帳單週期
 
 您可以隨時在每月和每年計費之間切換。 如果您的業務需求變更，您可能會想要變更計費頻率。
 
@@ -145,7 +145,7 @@ ms.locfileid: "74722410"
 
 您可以重新啟用訂用帳戶最多90天后的暫停日期。 您會在接下來的帳單日期收到依比例計算的費用。 訂閱續約日期保持不變。
 
-## <a name="pricing"></a>定價
+## <a name="pricing"></a>Pricing
 
 ### <a name="offer-pricing"></a>供應專案定價
 
@@ -223,13 +223,13 @@ ms.locfileid: "74722410"
 
 如有關于獎勵的問題，請洽詢適當的區域獎勵支援小組：
 
-| 地區 | Email address |
+| 區域 | 電子郵件地址 |
 | ------ | ------------- |
 | 北美洲 | <ocina@microsoft.com> |
 |拉丁美洲 & 巴西 | <ocilatam@microsoft.com> |
 | EMEA | <ociemea@microsoft.com> |
 | APOAC （日本除外） | <ociapgc@microsoft.com> |
-| 日本 | <ocijp@microsoft.com> |
+| Japan | <ocijp@microsoft.com> |
 
 
 ### <a name="suspension"></a>擱置

@@ -5,15 +5,15 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在您註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫之前，請先深入了解 CSP 計畫需求。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 13ec7eddd2fef9be9f120729b54e6f9e2cf58f9b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 4d6215927f5c1c922f9c124d78a41694703cb0bf
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722579"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389797"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
@@ -29,7 +29,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 美國政府適用的 Microsoft Cloud 提供不公開、專用且隔離的 Microsoft Azure 執行個體，這個執行個體符合美國政府對資料安全性、隱私權及法務遵循的規定。 您的公司必須符合 Microsoft 的資格要求，才能參與美國政府適用的 Microsoft Cloud 的 CSP 計畫。 如需詳細資訊，請參閱[美國政府適用的 Microsoft Cloud 合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
-## <a name="before-you-begin"></a>在您開始前
+## <a name="before-you-begin"></a>開始之前
 
 在您註冊加入美國政府適用的 Microsoft Cloud 的 CSP 計畫之前，我們必須確認您的公司是否符合向美國政府實體進行銷售的要求條件。 在您開始進行註冊程序之前，請先完成 [Microsoft 政府機構雲端驗證表單](https://azuregov.microsoft.com/csp)，方便我們確認貴公司的資格。 確認貴公司的資格後，我們會提供給您美國政府適用的 Microsoft Cloud 專用的 Azure Active Directory (Azure AD) 租用戶。  
 
@@ -55,7 +55,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 1.  補上註冊表單上所有漏填的資訊，包括 Microsoft 合作夥伴網路識別碼和您組織的客戶支援詳細資料。 
 
-2.  選取 **\[接受並繼續\]** 。 審查您的應用程式可能需要我們幾天的時間。 審查完成後，我們會通過電子郵件通知您。
+2.  選取 \[Accept and continue\] (接受並繼續)。 審查您的應用程式可能需要我們幾天的時間。 審查完成後，我們會通過電子郵件通知您。
 
     > [!IMPORTANT]  
     > 選取 **\[接受並繼續\]** 即表示您確定自己有權代表組織行事，且您同意允許 Microsoft 在審查您組織的雲端解決方案提供者計畫申請前，先進行背景信用查核。
@@ -75,11 +75,11 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 > [!NOTE]  
 > 您將使用者指派給系統管理代理人角色之後，這些使用者就可以存取您在 **\[客戶\]** 頁面上的客戶清單，並[新增客戶](add-a-new-customer.md)。   
 
-1.  登入 Microsoft Azure 管理入口網站： https://portal.azure.us/ 。
+1.  登入 Microsoft Azure 管理入口網站： https://portal.azure.us/。
 
 2.  將系統管理代理人角色指派給組織中的適當使用者。 若要這樣做，您需要將這些使用者新增到內建的 **AdminAgent** 群組。 如需做法詳細資訊，請參閱[在 Azure Active Directory 中管理群組的成員](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)。
  
-## <a name="connect-with-us"></a>與我們的聯繫
+## <a name="connect-with-us"></a>與我們連絡
 
 - 有任何問題嗎？ 電子郵件請寄到 azgovcsp@microsoft.com
 
