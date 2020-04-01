@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何升級或修改客戶的訂閱，例如新增更多授權或基座，或移至其他服務的不同版本。
 ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權
 ms.localizationpriority: high
-ms.openlocfilehash: c1f2e523c325356959e9b89d2d7082ee9a6cb95c
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 9f6f9ca4c1c8ca6b530e1e42e925da27ca088a46
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340066"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80391017"
 ---
 # <a name="add-licenses-or-services-to-an-existing-subscription"></a>將授權或服務新增到現有的訂閱
 

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 權限, 系統管理員, 代理人
 ms.localizationpriority: high
-ms.openlocfilehash: 20930ad547bed2399fd60a5c419d8d5c3be8329e
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: fbff7f353a0055aa645467fccaa049b598b4c880
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226164"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296392"
 ---
 # <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
 
@@ -154,3 +154,4 @@ CPV 開發可供雲端解決方案提供者 (CSP) 合作夥伴使用的應用程
 
 
 
+                                    

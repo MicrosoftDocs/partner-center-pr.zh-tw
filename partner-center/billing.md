@@ -6,18 +6,18 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解合作夥伴中心的帳單主題，包括帳單資源、發票和 CSP 計費的相關資訊。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: high
-ms.openlocfilehash: b3052f33b55ea7aa57d5ee9d29d2839791a92088
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 1f782b3696f82bb16487fb4ecae68b806cabfcac
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722172"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390277"
 ---
-# <a name="billing"></a>帳單
+# <a name="billing"></a>計費
 
 **適用於**
 
@@ -27,11 +27,11 @@ ms.locfileid: "74722172"
 **適當的角色**
 
 - 系統管理代理人
-- 帳單管理
+- 帳單系統管理員
 - 全域系統管理員
 - 銷售代理人
 
-| 主題 | 描述 |
+| 主題 | 說明 |
 | ----- | ----------- |
 | [帳單概觀](billing-basics.md) | 合作夥伴中心帳單的基本概念 (包括付款、發票和對帳檔案)。 |
 | [帳單類型](billing-different-types.md) | 合作夥伴中心的不同帳單類型說明。 |

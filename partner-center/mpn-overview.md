@@ -5,17 +5,17 @@ ms.date: 10/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解與 Microsoft 合作的優點，包括 Microsoft 行動套件、專長認證和方案選項，可讓您的企業脫穎而出、走向市場並銷售您的解決方案。
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格, 銀級, 金級, 專長認證
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: e1d54af9ab156c94c1b9376e5e7de71a0e9d010a
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ef6ef1aacfc02205f0c2eab9d3a084b5d4d51b13
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004197"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390857"
 ---
 # <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
 
@@ -82,5 +82,5 @@ Microsoft 合作夥伴網路提供您業界最廣泛的產品，也會提供方�
 - [在合作夥伴中心管理您的 MPN 權益](manage-your-partner-network-benefits.md)
 - [核心要求](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 - [拓展您的 Microsoft 合作夥伴業務](grow-your-business.md)

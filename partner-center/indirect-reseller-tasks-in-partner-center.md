@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 計畫中的間接轉銷商如何與 Microsoft 間接提供者 (或散發者) 合作，以協助提供客戶支援和計費服務。
 ms.prod: ''
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 keywords: 間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 66334277c0169b66243ae3c6da4bd09a346ff022
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: ff486a7d6f23ce13fddfcccb29ce4389ca44d3cb
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004797"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390917"
 ---
 # <a name="partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接提供者成為合作夥伴
 
@@ -47,7 +47,7 @@ ms.locfileid: "75004797"
 > [!NOTE]  
 > 如果您已經註冊雲端解決方案提供者，可能只需要提供客戶支援連絡資訊，在合作夥伴中心建立經銷商帳戶。 
 
-### <a name="before-you-begin"></a>開始之前
+### <a name="before-you-begin"></a>在您開始前
 
 如果您是雲端解決方案提供者新手，您將需要註冊計畫做為間接經銷商並在合作夥伴中心建立帳戶。 若要這樣做，您將需要在註冊程序期間提供下列資訊。 您可能需要先花幾分鐘時間收集這些項目，再開始進行：
 
@@ -63,7 +63,7 @@ ms.locfileid: "75004797"
  
 請注意，我們可能需要數天來複查並確認您所提供的資訊。 複查完成後，我們會傳送電子郵件通知您的主要連絡人。
 
-### <a name="get-started"></a>立即開始
+### <a name="get-started"></a>開始使用
 
 1.  從[這裡](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)開始進行註冊程序。
 
@@ -197,7 +197,7 @@ b.  從使用者清單中選取您的名稱，然後選取 [系統管理代理�
 5.  若要管理客戶的帳戶、服務、使用者及授權，請選取客戶名稱旁邊的向下箭頭以展開其記錄。
 
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 [管理您的合作夥伴中心帳戶](partner-center-account-setup.md)
 
