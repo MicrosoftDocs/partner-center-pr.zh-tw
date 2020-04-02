@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在合作夥伴中心內，為每位需要存取權的員工建立使用者帳戶並指派角色。 具有不同系統管理員權限的使用者都可以執行此動作。
 ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 Keywords: 角色, 權限, 新增使用者, 指派角色, 系統管理員, 代理人,
 ms.localizationpriority: high
-ms.openlocfilehash: 6bbae5b8bcd2882c7ba32a8b660fc256dec4e49a
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.openlocfilehash: 98dce89c0eab132ec0f247d25632617d8dd503cc
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240205"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80389647"
 ---
 # <a name="create-user-accounts-and-assign-permissions"></a>建立使用者帳戶和指派權限
 
@@ -43,15 +43,24 @@ ms.locfileid: "78240205"
 > [!IMPORTANT]  
 > 記下此頁面上顯示的新使用者登入資訊。 請務必將這項資訊複製及傳送給新的使用者，因為稍後您將無法再次存取。 
 
+
 使用者必須使用其使用者名稱和暫時密碼登入合作夥伴中心。 當使用者第一次登入合作夥伴中心時，系統會提示他們變更密碼。 
 
-> [!NOTE]  
->  如果您的全域管理員已離開您的組織或轉任其他角色，而您需要新增新的全域管理員時，您必須在 [MPN 入口網站](https://partner.microsoft.com/support)登錄服務要求。 如果要求者可以提供必要的個人身分識別資訊並提供關於您組織的其他資訊，支援專員可能會要求將某個使用者的權限提高至全域管理員。
 
 ### <a name="find-your-global-admin"></a>尋找您的全域系統管理員
 
 有時候使用者可能需要變更其角色，或者新的使用者可能想要特定的角色指派。  
 若要尋找可進行角色變更或將角色指派給新使用者的全域系統管理員，請從合作夥伴中心右上角的 [設定]  圖示中選取 [使用者管理]  ，然後篩選全域系統管理員。 
+
+
+### <a name="new-global-admin"></a>新的全域系統管理員
+
+如果您的全域系統管理員離開組織，而需要其他人擔任此角色，則可以將票證提交給 Azure 或 Office 365 小組。 如需執行這項操作的相關資訊，請選取下列其中一個選項。
+
+[新的 Azure 全域系統管理員](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
+
+[新的 Office 365 全域系統管理員](https://admin.microsoft.com/)
+
 
 ## <a name="assign-user-roles"></a>指派使用者角色
 
@@ -94,7 +103,6 @@ ms.locfileid: "78240205"
 1. 從合作夥伴中心儀表板，選取儀表板右上角的 [您的帳戶]  圖示，然後選取 [我的設定檔]  。
 
 2. 在 [您的學習]  之下，您將能夠關聯 Microsoft Learning 帳戶，也可以將您的 Microsoft 帳戶連線到 Partner University。
-
 
 
 

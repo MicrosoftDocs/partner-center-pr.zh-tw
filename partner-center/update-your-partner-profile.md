@@ -7,50 +7,48 @@ ms.assetid: B7FCD670-465F-443A-A80C-4E83B74E2D1E
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.date: 03/05/2020
-ms.openlocfilehash: a6558faba3171d96791225a625c62d282014563c
-ms.sourcegitcommit: e98684319d8f9bfc2cadad77fd7c51d7aa32c419
+ms.date: 03/23/2020
+ms.openlocfilehash: 9a68953cc63aafae36e343d6d494044e18c6699c
+ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80136309"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "80296425"
 ---
-# <a name="verify-your-partner-profile"></a>確認您的合作夥伴設定檔
+# <a name="verify-your-partner-profile-information"></a>確認您的合作夥伴設定檔資訊
 
-當您第一次以全域管理員身分登入合作夥伴中心時，應該確認所有的公司詳細資料都正確無誤。 包括主要連絡人、法定公司名稱和地址、計畫資訊。 如果您的公司有多個位置，請複查您的位置資料的正確性。 身為全域管理員、帳單管理員或系統管理代理人，您也可以查看並更新您的帳單和稅務資訊。 
-
-**確認您的合作夥伴設定檔資訊**
+當您第一次以全域管理員身分登入合作夥伴中心時，應該確認所有的公司詳細資料都正確無誤。 包括主要連絡人、法定公司名稱和地址、計畫資訊。 如果您的公司有多個位置，請複查您的位置資料的正確性。 身為全域管理員、帳單管理員或系統管理代理人，您也可以查看並更新您的帳單和稅務資訊。
 
 您的合作夥伴設定檔包含您的法定公司資訊、主要連絡人姓名和電子郵件、公司參與的計畫，以及您的其他現已合併在法定公司下的公司 (如果相關)。
 
-1.  移至 [設定]  ，然後選取 [合作夥伴設定檔]  。
+1. 移至 [設定]  ，然後選取 [合作夥伴設定檔]  。
 
-2.  複查您的**法定公司設定檔**、**主要連絡人資訊**以及您的**計畫資訊**。
+2. 複查您的**法定公司設定檔**、**主要連絡人資訊**以及您的**計畫資訊**。
 
 如果您已經將其他公司合併在您的法定公司下，您也可以在此頁面上複查其資訊。
 
-## <a name="update-your-legal-address"></a>更新您的法定地址
+## <a name="update-your-legal-business-profile"></a>更新您的法定公司設定檔
 
 您現在可以在合作夥伴中心上更新您的法定地址。
 
 1. 移至 [設定]  ，然後選取 [合作夥伴設定檔]  。 
 
-2. 選取法定地址旁的 [更新]  。 
+2. 選取法定地址旁的 [更新]  。 ""
 
 >[!Important]
->您無法變更與您的法定地址相關聯的國家/地區。您的法定地址國家/地區會繫結至您的租用戶和服務，以及您執行業務所使用的貨幣。 
+>如果您是 CSP 合作夥伴，則無法變更與您的法定地址相關聯的國家/地區。您的法定地址國家/地區會繫結至您的租用戶和服務，以及執行業務所使用的貨幣。 如果不在 CSP 計畫中，則可以變更與您的法定地址相關聯的國家/地區。 如果您的審查狀態為「已授權」，則無法在合作夥伴中心更新法定公司名稱。 您需要[建立支援票證](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0)。
 
 3. 當您選取 [提交]  時，系統將會重新評估您的合法身分識別，您會收到另一封電子郵件，而且您必須接受。
 
-## <a name="update-legal-business"></a>更新法定公司
+## <a name="update-your-mpn-global-business-account"></a>更新您的 MPN Global 商業帳戶
 
 如果您在從 Partner Membership Center 移轉到合作夥伴中心期間，將錯誤的公司識別為法定公司，您可以將其變更為正確的公司。
 
 1. 在 [帳戶設定]  中，移至 [位置]  ，確定您想要作為您的法定公司的公司在清單中。 如果沒有，您可以將它新增。 選取 [新增位置]  。
 
-2.    接著，移至 [合作夥伴設定檔]  ，然後選取 [更新法定公司設定檔]  。
+2. 接著，移至 [合作夥伴設定檔]  ，然後選取 [更新法定公司設定檔]  。
 
-3.    選取您想要用來作為法定公司的位置和公司，然後選取 [儲存]  。
+3. 選取您想要用來作為法定公司的位置和公司，然後選取 [儲存]  。
 
 ## <a name="update-your-billing-address"></a>更新帳單地址
 

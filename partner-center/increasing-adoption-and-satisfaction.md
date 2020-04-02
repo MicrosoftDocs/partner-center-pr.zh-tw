@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何使用合作夥伴中心內的計量來查看您的業務是否成長、客戶如何使用其授權，以及要將投資放在何處。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: MaggiePucciEvans
-ms.author: evansma
+author: jasonwhowell
+ms.author: jasonh
 ms.localizationpriority: medium
-ms.openlocfilehash: 728ef5c3df62acc3037e0f8a6a3578682d507980
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
+ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004777"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "80390937"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
 **適用於**
 
--  合作夥伴中心
+-  夥伴中心
 
 **適當的角色**
 -   全域系統管理員
