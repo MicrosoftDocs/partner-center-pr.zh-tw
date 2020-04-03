@@ -40,7 +40,6 @@
 ## [從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商](transition-direct-to-indirect.md)
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
 ## [CSP 地區市場及貨幣](regional-authorization-overview.md)
-## [確認客戶接受 Microsoft 客戶合約](confirm-consent.md)
 ## [確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)
 ### [證明代表客戶接受客戶合約的時機](attest-acceptance-customer-agreement.md)
 
@@ -65,12 +64,15 @@
 ## [還原暫時停用的合作夥伴中心帳戶](suspended-partner-center-account.md)
 ## [新增 Azure AD 應用程式](service-principal.md)
 ## [將 Microsoft Learn 帳戶關聯至合作夥伴中心](ms-learn-associate.md)
+
 # 管理您的合作夥伴中心帳戶 - 使用者
 ## [建立使用者帳戶](create-user-accounts-and-set-permissions.md)
 ## [指派使用者角色和權限](permissions-overview.md)
 ## [註冊為控制台廠商](enroll-as-cpv.md)
 ## [重設使用者密碼](reset-a-user-password.md)
 ## [重設我的密碼](reset-my-pasword.md)
+## [如果您無法登入合作夥伴中心](unable-to-sign-in.md)
+
 # 管理您的合作夥伴中心帳戶 - 業務
 ## [新增 Azure 合作夥伴共用服務](shared-services.md)
 ## [定價與供應項目](pricing-and-offers.md)
