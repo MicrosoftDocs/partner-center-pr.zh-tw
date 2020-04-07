@@ -1,7 +1,7 @@
 ---
 title: 無法登入合作夥伴中心 |合作夥伴中心
 ms.topic: article
-ms.date: 04/01/2020
+ms.date: 04/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 如果您無法登入合作夥伴中心，應採取的步驟。
@@ -9,28 +9,20 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 登入問題，忘記密碼，密碼
 ms.localizationpriority: medium
-ms.openlocfilehash: 99b0f40c0fe1ebd3185344e25d9de48d3a88a87e
-ms.sourcegitcommit: c856a0e90d58e90f87e244e49dc3ce66b4e0b0fb
+ms.openlocfilehash: 2778462faac42e245fe8c3f1e16b242d3ed50f3b
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "80589519"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676823"
 ---
 # <a name="if-you-cant-sign-into-partner-center"></a>如果您無法登入合作夥伴中心
 
-如果您忘記密碼，而且無法登入合作夥伴中心，您將需要在[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/commercial#/)上建立服務要求。 如果您能夠提供必要的個人身分識別資訊，並提供貴公司的其他相關資訊，則支援代理程式可以要求您提高許可權給全域管理員。
+如果您忘記密碼，而且無法登入合作夥伴中心，您將需要在[Microsoft 合作夥伴網路入口網站](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_)上建立服務要求。 
 
-一旦您是全域系統管理員，您可以在合作夥伴中心重設密碼。
+如需如何重設密碼及重新取得公司帳戶存取權的不同方式，請參閱[使用安全性資訊來重設工作或學校密碼](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)。
 
-1. 在 [登**入**] 畫面上，選取 [**無法存取您的帳戶？** ]，然後選取 **[下一步]** 。
-
-![存取帳戶](images/password/password/accessaccount1.png)
-
-2. 選取 [**公司或學校帳戶**]。
-
-3. 輸入您的使用者識別碼和圖片或音訊中的字元。 然後選取 **[下一步]** 。
-
-4. 設定新密碼。
+在您的工作帳戶密碼重設之後，您將能夠存取合作夥伴中心。 
 
 ## <a name="see-more"></a>See more
 

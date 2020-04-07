@@ -1,7 +1,7 @@
 ---
 title: 瞭解您的帳單 |合作夥伴中心
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 04/03/2020
 description: 您的發票是目前每月期間的所有合作夥伴中心費用（跨方案、產品和客戶）的摘要。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ author: jasonwhowell
 ms.author: jasonh
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: e356dfbe3243db176393f614c92540e40d92f055
-ms.sourcegitcommit: e8e44bba412e7f4c7ae0abb48fddad1b050f9d47
+ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "80634808"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676829"
 ---
 # <a name="understand-your-bill"></a>瞭解您的帳單
 
@@ -27,7 +27,7 @@ ms.locfileid: "80634808"
 **適當的角色**
 
 - 全域系統管理員
-- 帳單管理
+- 帳單系統管理員
 - 系統管理代理人
 
 
@@ -93,11 +93,11 @@ Microsoft 會針對任何以授權為基礎的費用（例如，Office 365）和
 
 **付款指示**：根據您的區域支付發票費用的說明。 付款時務必要包含您的發票號碼。 
 
-如需發票檔案中所有欄位的詳細描述（包括一次性費用的欄位），請參閱 [發票檔案欄位](https://docs.microsoft.com/partner-center/invoice-file)。 
+如需發票檔案中所有欄位的詳細描述（包括一次性費用的欄位），請參閱 [發票檔案欄位](invoice-file.md)。 
 
 ## <a name="understand-reconciliation-file"></a>瞭解對帳檔案 
 
- 對帳檔案提供您費用的向下切入/詳細資料，可與發票 PDF 一起下載。 對帳檔案包含您可以用來建立客戶發票的客戶識別碼和訂用帳戶識別碼。 請參閱 [如何使用對帳](https://docs.microsoft.com/partner-center/use-the-reconciliation-files)檔案，以取得更多有關偵察檔案的詳細資料。 
+ 對帳檔案提供您費用的向下切入/詳細資料，可與發票 PDF 一起下載。 對帳檔案包含您可以用來建立客戶發票的客戶識別碼和訂用帳戶識別碼。 請參閱 [如何使用對帳](use-the-reconciliation-files.md)檔案，以取得更多有關偵察檔案的詳細資料。 
 
 
 
