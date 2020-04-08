@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 03/23/2020
-ms.openlocfilehash: 9a68953cc63aafae36e343d6d494044e18c6699c
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: 0439969c6799ab047c18e51dbed0c0b174ed8f42
+ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296425"
+ms.lasthandoff: 04/06/2020
+ms.locfileid: "80676791"
 ---
 # <a name="verify-your-partner-profile-information"></a>確認您的合作夥伴設定檔資訊
 
@@ -36,7 +36,7 @@ ms.locfileid: "80296425"
 2. 選取法定地址旁的 [更新]  。 ""
 
 >[!Important]
->如果您是 CSP 合作夥伴，則無法變更與您的法定地址相關聯的國家/地區。您的法定地址國家/地區會繫結至您的租用戶和服務，以及執行業務所使用的貨幣。 如果不在 CSP 計畫中，則可以變更與您的法定地址相關聯的國家/地區。 如果您的審查狀態為「已授權」，則無法在合作夥伴中心更新法定公司名稱。 您需要[建立支援票證](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpartner.microsoft.com%2Fdashboard%2Fsupport%2Fcsp%2Fservicerequests%2Fcreate%3Fstage%3D2%26topicid%3D21655de7-7dbb-4927-33a2-f60f45feadf3&data=02%7C01%7CLaura.Brenner%40microsoft.com%7C2998df3c6bed41f5585a08d7cf7fbc39%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637206019881666017&sdata=9CBn9KSe3hi2nApRNVP6mLE9UX2JBOM1denAKXCutcI%3D&reserved=0)。
+>如果您是 CSP 合作夥伴，則無法變更與您的法定地址相關聯的國家/地區。您的法定地址國家/地區會繫結至您的租用戶和服務，以及執行業務所使用的貨幣。 如果不在 CSP 計畫中，則可以變更與您的法定地址相關聯的國家/地區。 如果您的審查狀態為「已授權」，則無法在合作夥伴中心更新法定公司名稱。 您需要[建立支援票證](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
 
 3. 當您選取 [提交]  時，系統將會重新評估您的合法身分識別，您會收到另一封電子郵件，而且您必須接受。
 
