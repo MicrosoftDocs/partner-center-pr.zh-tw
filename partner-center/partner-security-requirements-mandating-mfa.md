@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: bf57b489f84540e50e28df5568391818f50c79d4
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 5c68d86b770286ef916f68eefd93e5648d35999a
+ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340186"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "80529783"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>對您的合作夥伴租用戶強制使用多重要素驗證 (MFA)
 
@@ -26,35 +26,57 @@ ms.locfileid: "78340186"
   - 間接轉銷商
 - 所有顧問
 
-**適當的使用者**
--    所有已啟用的使用者，包括來賓使用者
+**受影響的角色**
 
-下列合作夥伴將必須完成下列區域的 MFA 驗證：
+- 系統管理代理人
+- 銷售代理人
+- 技術服務代理人
+- 計費管理員
+- 全域管理員
+
+這項功能的目的是要協助合作夥伴保護其對客戶資源的存取，以防止認證洩漏。
+合作夥伴必須針對其合作夥伴租用戶中的所有使用者帳戶 (包括來賓使用者) 強制執行多重要素驗證 (MFA)，這項功能會強制要求這些合作夥伴角色針對下列區域完成 MFA 驗證：
 
 - [合作夥伴中心儀表板](#partner-center-dashboard) (以 Q2 CY2020 為目標)
 - [合作夥伴中心 API](#partner-center-api) (以 Q2 CY2020 為目標)
-- [合作夥伴委派的管理](#partner-delegated-administration) (自 2019 年 11 月 18 日起)
+- [合作夥伴委派的管理](#partner-delegated-administration)
 
-這項功能的目的是要協助合作夥伴保護其對客戶資源的存取，以防止認證洩漏。
+更好且持續的安全性和隱私權保護是我們最優先的考量，而且我們一直在協助合作夥伴保護其客戶和租用戶。 參與「雲端解決方案提供者 (CSP)」計畫、「控制台廠商 (CPV)」和「顧問」的所有合作夥伴，都應該實作[合作夥伴安全性需求](partner-security-requirements.md)才能繼續符合規範。
+
+Microsoft 已開始為合作夥伴租用戶啟用額外的安全性保護。 此一啟用保護的舉措可協助合作夥伴保護其租用戶和客戶，方法是強制使用多重要素驗證 (MFA) 驗證，以防止未經授權的存取。
+
+我們已成功對所有合作夥伴租用戶完成合作夥伴「委派的管理」功能的啟用。 為了進一步協助保護合作夥伴和客戶，自 Q2 CY2020 起，我們將開始在 CSP 中啟用合作夥伴中心交易，協助合作夥伴保護其企業和客戶免於遭遇身分識別竊取相關事件。
+
+本文件可為合作夥伴提供有關如何啟用安全性保護的詳細體驗和指導方針。
 
 ## <a name="partner-center-dashboard"></a>合作夥伴中心儀表板
+
 合作夥伴中心儀表板中的特定頁面會受到 MFA 保護，包括：
 
-* [客戶]  索引標籤下的所有頁面。
-* [支援 > 客戶要求]  索引標籤下的所有頁面。
+* [客戶]  索引標籤底下的所有頁面，例如可透過下列 URL 來存取的所有頁面： https://partner.microsoft.com/commerce/*
+* [支援 > 客戶要求]  索引標籤底下的所有頁面，例如在 https://partner.microsoft.com/dashboard/support/csp/customers/* 底下存取的頁面
+* 帳單頁面
 
 如果您未先完成 MFA 驗證即嘗試存取其中任何頁面，您必須執行該驗證。
 
-下列使用者類型有權存取這些受 MFA 保護的頁面，因而會受到這項功能的影響，這類使用者包括：
+> [!NOTE]
+> 合作夥伴中心上的其他頁面 (例如 [概觀] 頁面、[服務健康情況狀態] 檢查頁面) 將不會受 MFA 保護。
 
-* 系統管理代理人
-* 銷售代理人
-* 技術服務代理人
+下列使用者類型有權存取這些受 MFA 保護的頁面，因而會受到這項功能的影響
+
+
+| 受 MFA 保護的頁面       | 系統管理代理人      |  銷售代理人     |   技術服務代理人     | 全域管理員      |  計費管理員     | 
+|---    |---    |---    |---    |---    |---    |
+| [客戶] 索引標籤下的所有頁面      |   x    |    x   |  x     |       |       |
+| [支援 > 客戶要求] 索引標籤底下的所有頁面     | x      |       |    x   |       |       |
+| 帳單頁面     |   x    |       |       |    x   |   x    |
+
+**範例**
 
 為了說明驗證的運作方式，請考量以下兩個範例。
 
 **範例 1：合作夥伴已實作 Azure AD MFA**
-1.    Jane 任職於 CSP Contoso。 針對使用 Azure AD MFA 的 Contoso 合作夥伴租用戶，Contoso 為其下的所有使用者實作了 MFA。
+1.    Jane 任職於 CSP Contoso。 針對使用 Azure Active Directory (Azure AD) MFA 的 Contoso 合作夥伴租用戶，Contoso 為其下的所有使用者實作了 MFA。
 2.    Jane 啟動了新的瀏覽器工作階段，並導覽至合作夥伴中心儀表板的 [概觀] 頁面 (未受 MFA 保護)。 合作夥伴中心將 Jane 重新導向至 Azure AD 以進行登入。
 3.    基於 Contoso 所設定的現有 Azure AD MFA，Jane 必須完成 MFA 驗證。 成功登入並通過 MFA 驗證後，Jane 重新導向回合作夥伴中心儀表板的 [概觀] 頁面。
 4.    Jane 嘗試存取合作夥伴中心內受 MFA 保護的其中一個頁面。 由於 Jane 在稍早的登入期間已完成 MFA 驗證，因此 Jane 可存取受 MFA 保護的頁面，而無須再次進行 MFA 驗證。
@@ -69,11 +91,23 @@ ms.locfileid: "78340186"
 1. John 任職於 CSP Fabrikam。 Fabrikam 並未針對 Fabrikam 合作夥伴租用戶下的任何使用者實作 MFA。
 2. John 啟動了新的瀏覽器工作階段，並導覽至合作夥伴中心儀表板的 [概觀] 頁面 (未受 MFA 保護)。 合作夥伴中心將 John 重新導向至 Azure AD 以進行登入。
 3. Fabrikam 並未實作 MFA，因此 John 不需要完成 MFA 驗證。 成功登入後，John 重新導向回合作夥伴中心儀表板的 [概觀] 頁面。
-4. John 嘗試存取合作夥伴中心內受 MFA 保護的其中一個頁面。 由於 John 未完成 MFA 驗證，因此合作夥伴中心將 John 重新導向至 Azure AD，以完成 MFA 驗證。 這是系統第一次要求 John 完成 MFA，因此 John 也必須使用 Microsoft Authenticator 應用程式進行 MFA 的註冊。 成功註冊 MFA 後，John 此時即可存取受 MFA 保護的頁面。
+4. John 嘗試存取合作夥伴中心內受 MFA 保護的其中一個頁面。 由於 John 未完成 MFA 驗證，因此合作夥伴中心將 John 重新導向至 Azure AD，以完成 MFA 驗證。 這是系統第一次要求 John 完成 MFA，因此 John 也必須[註冊 MFA](#mfa-registration-experience)。 成功註冊 MFA 後，John 此時即可存取受 MFA 保護的頁面。
+5. 改天，在 Fabrikam 為任何使用者實作 MFA 之前，John 啟動新的瀏覽器工作階段，並瀏覽至合作夥伴中心儀表板的 [概觀] 頁面 (不受 MFA 保護)。 合作夥伴中心將 John 重新導向至 Azure AD 以在沒有 MFA 提示的情況下登入。 
+6. John 嘗試存取合作夥伴中心內受 MFA 保護的其中一個頁面。 由於 John 未完成 MFA 驗證，因此合作夥伴中心將 John 重新導向至 Azure AD，以完成 MFA 驗證。 因為 John 已註冊 MFA，所以這次只會要求他完成 MFA 驗證。
+
+> [!NOTE]
+>動作：公司系統管理員應立即透過合作夥伴中心所建議的任何[選項](partner-security-requirements.md#actions-that-you-need-to-take)來實作 MFA。
 
 ## <a name="partner-center-api"></a>合作夥伴中心 API
 
-合作夥伴中心 API 支援僅限應用程式的驗證，以及「應用程式 + 使用者」驗證。 使用「應用程式 + 使用者」驗證時，合作夥伴中心會要求進行 MFA 驗證。 更明確地說，合作夥伴應用程式需要將 API 要求傳送至合作夥伴中心時，必須在要求的授權標頭中包含存取權杖。 當合作夥伴中心收到 API 要求和使用「應用程式 + 使用者」驗證取得的存取權杖時，合作夥伴中心 API 會檢查*驗證方法參考 (AMR)* 宣告中是否有 *MFA* 值存在。 您可以使用 JWT 解碼器來驗證存取權杖是否包含預期的驗證方法參考 (AMR) 值：
+合作夥伴中心 API 支援僅限應用程式的驗證，以及「應用程式 + 使用者」驗證。 
+
+使用「應用程式 + 使用者」驗證時，合作夥伴中心會要求進行 MFA 驗證。 更明確地說，合作夥伴應用程式需要將 API 要求傳送至合作夥伴中心時，必須在要求的授權標頭中包含存取權杖。 
+
+> [!NOTE]
+>[安全應用程式模型](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)是一種安全、可擴縮的架構，可在您呼叫合作夥伴中心 API 時，透過 Microsoft Azure MFA 架構來驗證 CSP 合作夥伴和 CPV，請先實作此模型再於租用戶上啟用 MFA。 
+
+當合作夥伴中心收到 API 要求和使用「應用程式 + 使用者」驗證取得的存取權杖時，合作夥伴中心 API 會檢查*驗證方法參考 (AMR)* 宣告中是否有 *MFA* 值存在。 您可以使用 JWT 解碼器來驗證存取權杖是否包含預期的驗證方法參考 (AMR) 值：
 
 ``` csharp
 {
@@ -89,16 +123,16 @@ ms.locfileid: "78340186"
   ],
   "appid": "23ec45a3-5127-4185-9eff-c8887839e6ab",
   "appidacr": "0",
-  "family_name": "Williams",
-  "given_name": "Isaiah",
+  "family_name": "Adminagent",
+  "given_name": "CSP",
   "ipaddr": "127.0.0.1",
-  "name": "Isaiah Williams",
+  "name": "Adminagent CSP",
   "oid": "4988e250-5aee-482a-9136-6d269cb755c0",
   "scp": "user_impersonation",
   "tenant_region_scope": "NA",
   "tid": "df845f1a-7b35-40a2-ba78-6481de91f8ae",
-  "unique_name": "Isaiah.Williams@testtestpartner.onmicrosoft.com",
-  "upn": "Isaiah.Williams@testtestpartner.onmicrosoft.com",
+  "unique_name": "Adminagent.csp@testtestpartner.onmicrosoft.com",
+  "upn": "Adminagent.csp@testtestpartner.onmicrosoft.com",
   "ver": "1.0"
 }
 ```
@@ -113,13 +147,15 @@ WWW-Authenticate: Bearer error="invalid_token"
 Date: Thu, 14 Feb 2019 21:54:58 GMT
 ```
 
+如果使用「僅限應用程式」驗證，支援「僅限應用程式」驗證的 API 將會持續運作，而不會要求 MFA。
+
 ## <a name="partner-delegated-administration"></a>合作夥伴委派的管理
 
 ### <a name="using-service-portals"></a>使用服務入口網站
 
 合作夥伴帳戶 (包含系統管理代理人和技術服務代理人) 可使用其「合作夥伴委派的管理」權限，透過 Microsoft Online Services 入口網站、命令列介面 (CLI) 和 API (使用「應用程式 + 使用者驗證」) 來管理客戶資源。
 
-使用「合作夥伴委派的管理員」權限存取 Microsoft Online Services 入口網站以管理客戶資源時，其中有許多入口網站會要求合作夥伴帳戶以互動方式進行驗證 (將客戶 Azure Active Directory 租用戶設定為驗證內容) - 合作夥伴帳戶必須登入客戶租用戶。
+使用「合作夥伴委派的管理員」權限 (Admin-On-Behalf-Of) 存取 Microsoft Online Services 入口網站以管理客戶資源時，其中有許多入口網站會要求合作夥伴帳戶以互動方式進行驗證 (將客戶 Azure Active Directory 租用戶設定為驗證內容) - 合作夥伴帳戶必須登入客戶租用戶。
 
 Azure Active Directory 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 驗證。 可能的使用者體驗有兩種，這取決於合作夥伴帳戶是受控識別還是同盟身分識別：
 
@@ -148,7 +184,7 @@ Azure AD 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 
 
 ![MFA 註冊步驟 1](images/MfaRegistration1.png)
 
-按 [下一步]  後，系統會要求使用者從驗證方法清單中進行選擇 (包括電話、SMS 和驗證器應用程式)。
+在按 [下一步]  之後，系統會要求使用者從驗證方法清單中進行選擇。
 
 ![MFA 註冊步驟 2](images/MfaRegistration2.png)
 
@@ -185,10 +221,9 @@ Azure AD 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 
 **答**：不可以。 由於這些使用者帳戶不會使用「合作夥伴委派的管理」權限來管理客戶資源，因此不需要登入客戶租用戶。 在登入客戶租用戶期間，需要 MFA 驗證的 Azure AD 將不會影響到這些帳戶。
 
 #### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>問題 4：合作夥伴無法使用 MS 驗證器應用程式來實作 MFA
-合作夥伴採行「簡潔桌面」原則，不允許員工將其個人行動裝置帶入工作區域中。 無法存取個人行動裝置，員工就無法安裝 MS 驗證器應用程式，但這是 Azure AD 基準原則唯一支援的 MFA 驗證。 此問題是否為技術例外狀況的合理原因？
+合作夥伴採行「簡潔桌面」原則，不允許員工將其個人行動裝置帶入工作區域中。 無法存取個人行動裝置，員工就無法安裝 MS 驗證器應用程式，但這是 Azure AD 安全性預設值唯一支援的 MFA 驗證。 此問題是否為技術例外狀況的合理原因？
 
 **答**：否，這不是技術例外狀況的合理原因。 合作夥伴應考慮使用下列替代方案，讓其員工仍可藉由存取合作夥伴中心來完成 MFA 驗證：
-- 除了 MS 驗證器應用程式以外，Azure AD 基準原則也可用於相容的第三方驗證器應用程式，例如執行 Microsoft Windows 的 Windows 電腦。
 - 合作夥伴也可以註冊 Azure AD Premium，或是可提供額外驗證方法的第三方 MFA 解決方案 (與 Azure AD 相容)。
 
 #### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>問題 5：合作夥伴因使用了舊版驗證通訊協定而無法實作 MFA
@@ -196,21 +231,19 @@ Azure AD 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 
 
 **答**：否，這不是技術例外狀況的合理原因。 基於潛在的安全問題，強烈建議合作夥伴不要再使用舊版驗證通訊協定，因為這些通訊協定無法受到 MFA 驗證的保護，且認證洩漏的風險會高出許多。 如果無法不繼續使用舊版驗證通訊協定，合作夥伴應考慮註冊支援使用應用程式密碼的 Azure AD Premium。 應用程式密碼是系統產生的一次性密碼，通常比人類產生的密碼更嚴密。 使用應用程式密碼時，合作夥伴可為其使用者實作 MFA，且舊版驗證通訊協定只會回復至應用程式密碼。
 
+閱讀有關[基本驗證和 Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) 的文章，以了解關於支援 Outlook 舊版驗證的最新計畫，並遵循 [Exchange 小組部落格](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange)來獲取即將推出的新聞。 
+
 > [!NOTE]
 > 即使合作夥伴尚未對其合作夥伴代理人執行 MFA，合作夥伴代理人仍可使用「合作夥伴委派的管理」權限存取 Microsoft Online Services 入口網站，只要他們在登入客戶租用戶期間能夠按照提示完成 MFA 註冊和 MFA 驗證即可。 完成 MFA 註冊並不會自動為使用者啟用 MFA。
 
-#### <a name="issue-6-partner-is-using-exchange-online-powershell-that-does-not-support-mfa"></a>問題 6：合作夥伴使用的 Exchange Online PowerShell 不支援 MFA
-合作夥伴使用 Exchange Online PowerShell 以「合作夥伴委派的管理」權限代表其客戶管理 Exchange Online Service。 Exchange Online PowerShell 不支援 MFA。 如果合作夥伴為其使用者實作 MFA，則這些使用者將無法再存取 Exchange Online PowerShell。 此問題是否為技術例外狀況的合理原因？
-
-**答**：是的，此問題可能會被視為技術例外狀況的合理原因。 [支援「合作夥伴委派的管理」的現有 Exchange Online PowerShell 模組](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)並不需要合作夥伴使用者登入客戶租用戶，因此需要 MFA 驗證的 Azure AD 不會對其造成影響。 不過，該模組與 MFA 不相容。 Microsoft Exchange Online 小組正在開發新的 PowerShell 模組，可同時支援「合作夥伴委派的管理」權限和 MFA。 在新的 PowerShell 模組推出之前，合作夥伴將無法為需要使用現有 PowerShell 模組的使用者實作 MFA。 如果這些使用者在跨租用戶登入期間因 Azure AD 需要 MFA 驗證而無法存取其他 Microsoft Online Services，合作夥伴可提出技術例外狀況的要求，以抑制 MFA 驗證。
-
-> [!NOTE]
-> 即使合作夥伴無法為需要存取 Exchange Online PowerShell 模組的使用者實作 MFA，這些使用者仍可使用「合作夥伴委派的管理」權限存取 Microsoft Online Services 以管理客戶資源，只要他們在登入客戶租用戶期間能夠按照提示完成 MFA 註冊和 MFA 驗證即可。 完成 MFA 註冊並不會自動為使用者啟用 MFA，因此不會影響對 Exchange Online PowerShell 模組的存取。
-
-#### <a name="issue-7-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>問題 7：合作夥伴實作了 Azure AD 無法辨識的第三方 MFA
+#### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>問題 6：合作夥伴實作了 Azure AD 無法辨識的第三方 MFA
 合作夥伴使用第三方 MFA 解決方案為其使用者實作了 MFA。 不過，合作夥伴無法正確設定第三方 MFA 解決方案，以轉送至已在使用者驗證期間完成 MFA 驗證的 Azure AD。 這是技術例外狀況的合理原因嗎？
 
-**答**：是的，此問題可能會被視為技術例外狀況的合理原因。 在提交技術例外狀況的要求之前，請先向第三方 MFA 解決方案提供者確認無法設定 MFA 解決方案，使其將 *authenticationmethodsreferences* 宣告 (使用 *multipleauthn* 值) 傳送至 Azure AD，以指出已在使用者驗證期間完成 MFA 驗證。 提交技術例外狀況的要求時，您必須提供所使用的第三方 MFA 解決方案的詳細資料，並指出整合方法 (例如，透過身分識別同盟或使用 Azure AD 自訂控制項)。
+**答**：是的，此問題可能會被視為技術例外狀況的合理原因。 在提交技術例外狀況的要求之前，請先向第三方 MFA 解決方案提供者確認無法設定 MFA 解決方案，使其將 *authenticationmethodsreferences* 宣告 (使用 *multipleauthn* 值) 傳送至 Azure AD，以指出已在使用者驗證期間完成 MFA 驗證。 在提交技術例外狀況的要求時，您必須提供所使用第三方 MFA 解決方案的詳細資料，並指出整合方法 (例如透過身分識別同盟或使用 Azure AD 自訂控制)，並在技術例外狀況要求中提供下列資訊來作為支援文件：
+* 第三方 MFA 設定。 
+* [測試合作夥伴安全性需求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)的結果，此測試必須由已啟用第三方 MFA 的帳戶來執行。
+* 您所使用或打算使用的第三方 MFA 解決方案採購單。
+
 
 ### <a name="how-to-submit-a-request-for-technical-exception"></a>如何提交技術例外狀況的要求
 
@@ -218,7 +251,7 @@ Azure AD 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 
 
 1. 以全域管理員或系統管理代理人的身分登入合作夥伴中心。
 2. 若要建立新的合作夥伴服務要求，請導覽至 [支援]   > [合作夥伴支援要求]  ，然後按一下 [新增要求]  。
-4. 在 [MFA 和保護應用程式模型]  主題下，選取 [提交技術例外狀況的要求]  作為問題類型。
-6. 提供提交技術例外狀況的服務要求所需的詳細資料，然後按一下 [提交]  。
+3. 在搜尋方塊中搜尋 **MFA - 例外狀況要求**；或者，從 [類別] 選取 [CSP]  ，然後從 [主題] 選取 [帳戶、上架、存取]  ，然後從 [子主題] 選取 [MFA - 例外狀況要求]  ，然後選取 [下一步]  。
+4. 提供提交技術例外狀況的服務要求所需的詳細資料，然後按一下 [提交]  。
 
 Microsoft 最多可能需要三個工作天，才能對技術例外狀況的要求提供回應。
