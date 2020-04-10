@@ -1,0 +1,37 @@
+### YamlMime:Hub
+title: 合作夥伴中心服務文件
+summary: 使用合作夥伴中心發佈應用程式和遊戲、取得資料、取得硬體認證、發佈驅動程式至 Windows Update，或是以經銷商身分進行交易。
+brand: windows
+metadata:
+  title: 合作夥伴中心服務文件
+  description: 使用合作夥伴中心發佈應用程式和遊戲、取得資料、取得硬體認證、發佈驅動程式至 Windows Update，或是以經銷商身分進行交易。
+  services: partner-dashboard
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: hub-page
+  author: LauraBrenner
+  ms.author: labrenne
+  ms.date: 03/15/2019
+  ms.openlocfilehash: 407ccc415543a1bd46aa375edb634ad7b3841295
+  ms.sourcegitcommit: e2713ab40da4221334821f5bf9daf27bc548a6ec
+  ms.translationtype: HT
+  ms.contentlocale: zh-TW
+  ms.lasthandoff: 04/08/2020
+  ms.locfileid: "80930059"
+highlightedContent:
+  items:
+  - title: 發佈 Windows 應用程式與遊戲
+    itemType: how-to-guide
+    url: https://docs.microsoft.com/windows/uwp/publish/
+  - title: 取得詳細的遙測資料和分析報告
+    itemType: how-to-guide
+    url: https://msdn.microsoft.com/library/windows/desktop/mt826504(v=vs.85).aspx
+  - title: 適用於 Windows 硬體的合作夥伴中心
+    itemType: overview
+    url: https://docs.microsoft.com/windows-hardware/drivers/dashboard/
+  - title: 雲端解決方案提供者與 MPN 合作夥伴
+    itemType: overview
+    url: /partner-center/
+  - title: 開發人員 API 與 SDK
+    itemType: overview
+    url: /partner-center/develop/
