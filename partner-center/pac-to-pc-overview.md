@@ -1,7 +1,7 @@
 ---
 title: 準備從合作夥伴系統管理中心移往合作夥伴中心 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365 合作夥伴系統管理中心功能即將移轉到合作夥伴中心。
@@ -9,24 +9,24 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC，Office 365 Advisor，advisor，新聞訂閱合作夥伴，PAC 淘汰，PAC 淘汰
 ms.localizationpriority: medium
-ms.openlocfilehash: 37c76a3454cb5d7a995d32cc01317b938a534405
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004887"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123306"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作夥伴系統管理中心即將移至合作夥伴中心
 
 **適用於**
 
--  合作夥伴中心
+-  夥伴中心
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   系統管理代理人
--   銷售代理人
+-    全域系統管理員
+-    使用者系統管理員
+-    系統管理代理人
+-    銷售代理人
 
 > [!NOTE]  
 >  自本文最初張貼之後，所有日期都已更新。
@@ -46,11 +46,9 @@ Office 365 合作夥伴系統管理中心（PAC）即將移至 Microsoft 合作�
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>立即開始使用 Microsoft 合作夥伴中心！
 
-立即開始使用[Microsoft 合作夥伴中心](https://partnercenter.microsoft.com/)，準備好從 PAC 進行移動。  您將針對用於 PAC 的合作夥伴中心使用相同的認證。 
+立即開始使用[Microsoft 合作夥伴中心](https://partnercenter.microsoft.com/)，準備好從 PAC 進行移動。  您將針對用於 PAC 的合作夥伴中心使用相同的認證。
 
 > [!IMPORTANT]  
 > PAC 中提供的部分功能和功能將無法在合作夥伴中心使用。
 
- 請閱讀[並排比較](moving-from-pac-to-pc.md)以了解並熟悉這些變更。  您可在 [Microsoft 合作夥伴中心說明](https://partnercenter.microsoft.com/partner/help)找到關於帳戶管理、客戶管理、授權和訂閱、定價與方案，以及其他更多項目的相關資訊。
-
- 
+ 請閱讀[並排比較](moving-from-pac-to-pc.md)以了解並熟悉這些變更。  您可在 [Microsoft 合作夥伴中心說明](https://docs.microsoft.com/partner-center/)找到關於帳戶管理、客戶管理、授權和訂閱、定價與方案，以及其他更多項目的相關資訊。
