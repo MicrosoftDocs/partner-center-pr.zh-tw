@@ -89,12 +89,9 @@
 ## [獎勵宣告](claims-overview.md)
 ### [建立和管理獎勵宣告](create-incentives-claims.md)
 ### [獎勵宣告的核心要求](core-requirements.md)
-
-
-### [瞭解您的支出資訊](incentives-unified-user-guide.md)
-
 ### [存取您的獎勵支出頁面](incentives-unified-user-guide.md)
-
+### [查看您的獎勵付款和計畫](understand-incentive-payouts.md)
+### [使用 CPOR 模型建立客戶關聯](submit-osa-claim.md)
 
 # [帳單與稅金](billing.md)
 ## [帳單基本知識](billing-basics.md)
