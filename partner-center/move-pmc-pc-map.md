@@ -1,7 +1,7 @@
 ---
 title: 從 PMC 移到合作夥伴中心 | 合作夥伴中心
 ms.topic: article
-ms.date: 06/14/2019
+ms.date: 04/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 PMC 與合作夥伴中心在續約、帳戶結構、登入、使用者角色、專長認證等方面的差異和相似性。
@@ -9,17 +9,17 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: high
-ms.openlocfilehash: d44781b17a3ecd63b0573a389c0c4790f1370860
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340176"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123311"
 ---
 # <a name="moving-from-pmc-to-partner-center"></a>從 PMC 移到合作夥伴中心
 
 **適當的角色**
--   全域系統管理員
+-    全域系統管理員
 
 我們引進了能作為互動中心點的單一網站 (合作夥伴中心)，來使您能夠更輕鬆地與我們合作。 您可以在合作夥伴中心的儀表板中，執行先前在 Partner Membership Center (PMC) 中所進行的所有動作。 
 
@@ -37,13 +37,13 @@ ms.locfileid: "78340176"
 
 |**PMC**   |**合作夥伴中心**|
 |----------------------|:-----------------------------|
-|總部加上位置 - 會個別進行評估。 專長認證評估是在本機層級完成|單一全球公司、您的合作夥伴全域帳戶 (PGA) (包括位置)，會一起進行整體評估；效能和技術資料會在 PGA 層級進行彙總；包括適用於合作夥伴設定檔及商務設定檔等程式的數個設定檔檢視供轉介及行銷使用，如需詳細資訊，請參閱[合作夥伴中心的帳戶結構](https://docs.microsoft.com/partner-center/account-structure.md) \(部分機器翻譯\)。|
+|總部加上位置 - 會個別進行評估。 專長認證評估是在本機層級完成|單一全球公司、您的合作夥伴全域帳戶 (PGA) (包括位置)，會一起進行整體評估；效能和技術資料會在 PGA 層級進行彙總；包括適用於合作夥伴設定檔及商務設定檔等程式的數個設定檔檢視供轉介及行銷使用，如需詳細資訊，請參閱[合作夥伴中心的帳戶結構](account-structure.md) \(部分機器翻譯\)。|
 
 ## <a name="sign-in"></a>登入
 
 |**PMC**   |**合作夥伴中心**|
 |----------------------|:-----------------------------|
-|可以使用您的 Microsoft 帳戶 (MSA) 或個人帳戶認證 joe@outlook.com|您必須使用公司帳戶認證 (joe@joescompany.com)。 如需詳細資訊，請參閱[您的公司工作帳戶與合作夥伴中心](https://docs.microsoft.com/partner-center/azure-active-directory-tenants-and-partner-center.md) \(部分機器翻譯\)。|
+|可以使用您的 Microsoft 帳戶 (MSA) 或個人帳戶認證 joe@outlook.com|您必須使用公司帳戶認證 (joe@joescompany.com)。 如需詳細資訊，請參閱[您的公司工作帳戶與合作夥伴中心](azure-active-directory-tenants-and-partner-center.md) \(部分機器翻譯\)。|
 
 ## <a name="user-roles"></a>使用者角色
 
@@ -51,7 +51,7 @@ ms.locfileid: "78340176"
 |----------------------|:-----------------------------|
 |合作夥伴中心不會使用 PMC 中的許多角色|執行移至合作夥伴中心的系統管理員會被自動指派 MPN 系統管理員、帳戶系統管理員，以及轉介系統管理員角色。 他們可以接著將使用者角色指派給其他使用者。|
 |在位置層級管理使用者|在公司層級 (PGA) 管理使用者，而非位置層級。 例外狀況是在位置層級工作的獎勵系統管理員。|
-|   |合作夥伴中心具有兩組較廣泛的角色：管理 Azure AD 租用戶的角色，以及管理公司業務的角色。 請以對您公司有意義的方式組織這些角色。 您可以讓單一人員負責所有事情，或是將個別角色和權限指派給多個人員。 如需詳細資訊，請參閱[指派使用者角色和權限](https://docs.microsoft.com/partner-center/permissions-overview) \(部分機器翻譯\)。 
+|   |合作夥伴中心具有兩組較廣泛的角色：管理 Azure AD 租用戶的角色，以及管理公司業務的角色。 請以對您公司有意義的方式組織這些角色。 您可以讓單一人員負責所有事情，或是將個別角色和權限指派給多個人員。 如需詳細資訊，請參閱[指派使用者角色和權限](permissions-overview.md) \(部分機器翻譯\)。 
 
 ## <a name="how-competencies-and-benefits-are-accounted-for"></a>專長認證和權益的考慮方式
 
