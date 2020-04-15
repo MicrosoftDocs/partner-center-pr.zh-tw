@@ -1,7 +1,7 @@
 ---
 title: 確認客戶接受 Microsoft 客戶合約 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何確認客戶接受 Microsoft 客戶合約。 這可能需要為客戶訂購 Microsoft 產品和服務。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客戶, 客戶, 同意, MCA, Microsoft 客戶合約, 客戶合約範本
 ms.localizationpriority: high
-ms.openlocfilehash: 0d6d7b20aa4b6d7c5c56d3669b8f6bd8a3bda7bb
-ms.sourcegitcommit: eb4fc25524cc68c10906ccd3392914e805213ee5
+ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
+ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "78340139"
+ms.lasthandoff: 04/11/2020
+ms.locfileid: "81123320"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>確認客戶接受 Microsoft 客戶合約
 
@@ -35,27 +35,25 @@ ms.locfileid: "78340139"
 >[!NOTE]
 >自 2020 年 1 月 31 日起，所有客戶 (包括現有和新的客戶) 都必須簽署新的 Microsoft 客戶合約。 如需詳細資訊，請閱讀[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)。
 
-身為合作夥伴，您必須先讓您的客戶接受 Microsoft 客戶合約，才能為該客戶訂購 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的下列相關詳細資料，以確認接受： 
+身為合作夥伴，您必須先讓您的客戶接受 Microsoft 客戶合約，才能為該客戶訂購 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的下列相關詳細資料，以確認接受：
 
--   名字
+- 名字
 
--   姓氏
+- 姓氏
 
--   電子郵件地址
+- 電子郵件地址
 
--   電話號碼 (選用)
+- 電話號碼 (選用)
 
--   接受日期
-
-若要進一步瞭解，請參閱 Microsoft 客戶合約的客戶接受確認[常見問題集](https://docs.microsoft.com/partner-center/confirm-consent-faq)。
+- 接受日期
 
 直接帳單合作夥伴和間接提供者透過合作夥伴中心或合作夥伴中心 API 交易時，必須確認客戶已接受 Microsoft 客戶合約。 確認是「強制性」  的。
 
 如未提供客戶確認：
 
--   您將無法為此客戶建立新訂單。
+-    您將無法為此客戶建立新訂單。
 
--   您將無法變更此客戶現有基座型訂閱的基座數目。
+-    您將無法變更此客戶現有基座型訂閱的基座數目。
 
 確認客戶接受可以透過合作夥伴中心或合作夥伴中心 API 來完成。 若要透過合作夥伴中心 API 執行這項操作，請參閱下列主題： 
 
