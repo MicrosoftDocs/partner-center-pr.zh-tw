@@ -9,10 +9,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.openlocfilehash: ff2e0d02b63bd02e374e5726010f261fc2b3e8b9
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74721709"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
@@ -25,7 +25,7 @@ ms.locfileid: "74721709"
 
 - 全域系統管理員
 
-## <a name="get-started"></a>立即開始
+## <a name="get-started"></a>開始使用
 
 雲端式解決方案與服務的快速成長需求，為所有大小的 Microsoft 合作夥伴提供許多機會來建立可獲利的雲端解決方案業務。 準備好要進入市場，但不願管理多個廠商，或是端對端客戶關係管理基礎結構可能尚不到位的合作夥伴，可以間接經銷商的身分來參加 Microsoft 的雲端解決方案提供者 (CSP) 計畫成為間接經銷商。
 

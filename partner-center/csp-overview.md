@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, Cloud-based services, Azure, Office 365, Dynamics, CSP partner, sell in CSP, direct partner, direct CSP partner, indirect CSP reseller, direct CSP, indirect CSP, direct model, indirect model, indirect reseller, indirect provider, provider, distributor, cloud solution provider program, 雲端解決方案提供者, 雲端式服務, 雲端解決方案提供者合作夥伴, 過雲端解決方案提供者銷售, 直接合作夥伴, 間接雲端解決方案提供者合作夥伴, 間接雲端解決方案提供者經銷商, 直接雲端解決方案提供者, 間接雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 散發者, 雲端解決方案提供者計畫
 ms.localizationpriority: high
 ms.openlocfilehash: 92e2bda54427cb0323df20b0dc1195791e1292ae
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/21/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "80114920"
 ---
 # <a name="cloud-solution-provider-program---selling-in-demand-cloud-solutions"></a>雲端解決方案提供者計畫 - 銷售隨選雲端解決方案 

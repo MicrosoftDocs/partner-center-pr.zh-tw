@@ -10,10 +10,10 @@ ms.author: v-mihope
 keywords: 客戶, 客戶, 同意, MCA, Microsoft Cloud 合約, Microsoft 客戶合約, 客戶合約範本, 證明接受
 ms.localizationpriority: high
 ms.openlocfilehash: 12e458c1546d31400407c8bf42ce09333cfec900
-ms.sourcegitcommit: 5f31ca4a9bd8fd7e69e019476ac72836606d87da
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2020
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "77013296"
 ---
 # <a name="attest-customer-acceptance-of-the-microsoft-customer-agreement"></a>證明客戶接受 Microsoft 客戶合約

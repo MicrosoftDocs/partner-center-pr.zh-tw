@@ -10,10 +10,10 @@ ms.author: labrenne
 ms.localizationpriority: high
 keywords: 網域, 網域驗證, 驗證網域, 全域系統管理員, 使用者角色, 權限
 ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722424"
 ---
 # <a name="verify-your-domain-ownership"></a>確認網域的擁有權
@@ -52,7 +52,7 @@ ms.locfileid: "74722424"
 - 具有能存取所有 Microsoft 帳戶/服務的完整權限 
 - 建立合作夥伴中心的支援票證
 - 檢視合約、價格清單和優惠
-- 帳單
+- 計費
 - 檢視、建立和管理合作夥伴使用者
 - 購買和管理雲端服務
 

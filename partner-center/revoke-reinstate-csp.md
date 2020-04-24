@@ -10,10 +10,10 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.openlocfilehash: 1bcbcf32e3b3f4513ed3e55984b49b090da4a734
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "73651707"
 ---
 # <a name="reinstate-admin-privileges-for-azure-csp-subscriptions"></a>恢復 Azure CSP 訂用帳戶的系統管理員權限  

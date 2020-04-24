@@ -10,10 +10,10 @@ ms.author: labrenne
 keywords: 雲端解決方案提供者, 雲端解決方案提供者計畫, 雲端解決方案提供者, 新增產品, 銷售給客戶, 合作夥伴供應項目, 雲端解決方案提供者供應項目, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 在雲端解決方案提供者中銷售, Azure RI, Azure 保留的虛擬機器執行個體, Azure Reservations, 線上服務, 訂閱軟體, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客戶訂閱
 ms.localizationpriority: high
 ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722543"
 ---
 # <a name="partner-offers-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫中的合作夥伴供應項目
@@ -71,7 +71,7 @@ ms.locfileid: "74722543"
 
 **新增產品** - 此頁面包含可供您銷售給客戶的所有產品類型
 
-**產品類別**  -  **Azure、線上服務、軟體** 選取您感興趣的產品類型，只顯示這些產品
+**產品類別** - **Azure、線上服務、軟體** 選取您感興趣的產品類型，只顯示這些產品
 
 **區段** - 識別您想要銷售的一般企業類型 (例如，商業或政府)
 
@@ -112,6 +112,6 @@ ms.locfileid: "74722543"
 
 如需在 Azure 方案下購買的相關資訊，請閱讀[購買 Azure 方案](purchase-azure-plan.md)。
 
-## <a name="see-also"></a>請參閱
+## <a name="see-also"></a>另請參閱
 
 [CSP 商業市集的概觀](csp-commercial-marketplace-overview.md)
