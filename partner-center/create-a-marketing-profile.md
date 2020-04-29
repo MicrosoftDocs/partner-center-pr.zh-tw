@@ -11,10 +11,10 @@ ms.author: labrenne
 keywords: pinpoint, 推薦, 業務潛在客戶, C2PC, 公司設定檔, 行銷您的公司, 尋找合作夥伴, 尋找解決方案提供者, 商務設定檔, 行銷設定檔
 ms.localizationpriority: high
 ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
+ms.lasthandoff: 04/23/2020
 ms.locfileid: "74722524"
 ---
 <!--
@@ -67,7 +67,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
    > [!NOTE]  
    >  雖然合作夥伴中心支援多種語言，但有些像描述及自由格式標籤這類的元素可能需要包含不同語言的文字，如本主題中所述。
 
-### <a href="" id="partner_info"></a>合作夥伴資訊
+### <a name="partner-information"></a><a href="" id="partner_info"></a>合作夥伴資訊
 
 介紹貴公司，新增標誌和簡短描述，以及網站的連結。 
 
@@ -84,7 +84,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 -  **請勿提及其他 Microsoft 合作夥伴的公司名稱**，除非該公司或其子公司與您的公司有某種附屬關係，或者您目前與該合作夥伴公司有合約要共同合作和/或互相推銷分享的工作機會。
 -  **對於使用多種語言的地區**，請考慮將多種語言的文字包含在描述中。
 
-#### <a href="" id="linkedin"></a>LinkedIn 公司頁面：更多連接方式
+#### <a name="linkedin-company-page-more-ways-to-connect"></a><a href="" id="linkedin"></a>LinkedIn 公司頁面：更多連接方式
 
 新增您的 LinkedIn 公司頁面，加強您與潛在客戶的連接。 
 
@@ -107,7 +107,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 -  **專長認證標籤**是贏得的榮譽稱號，展示貴公司的能力。
 -  **背書標籤**是在 Microsoft 或曾經與您合作的客戶背書您的工作時獲得的。
 
-#### <a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>讓 Microsoft 為我的專業領域背書
+#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a><a href="" id="#allow_us_to_endorse_areas_of_expertise"></a>讓 Microsoft 為我的專業領域背書
 
 建議您讓這個設定保持已核取狀態。 
 
@@ -117,13 +117,13 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 ### <a name="customer-preferences"></a>客戶喜好設定
 
-#### <a href="" id="#target_size"></a>目標大小
+#### <a name="target-size"></a><a href="" id="#target_size"></a>目標大小
 
 您可以選擇退出不符合您的目標客戶大小的企業推薦。
 
 藉由選擇退出，您就有更多時間投注在比得上您願意合作之目標企業的企業。
 
-#### <a href="" id="#locations"></a>位置
+#### <a name="locations"></a><a href="" id="#locations"></a>位置
 
 每個地區最多可以新增 5 個在您組織中排名居前的位置。 當客戶依鄰近性搜尋合作夥伴近時，就會出現這些位置。
 

@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 5c68d86b770286ef916f68eefd93e5648d35999a
-ms.sourcegitcommit: 3668e517902255c59f0311b02d58c7eb527dcdb4
+ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "80529783"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "81462205"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>對您的合作夥伴租用戶強制使用多重要素驗證 (MFA)
 
@@ -37,15 +37,15 @@ ms.locfileid: "80529783"
 這項功能的目的是要協助合作夥伴保護其對客戶資源的存取，以防止認證洩漏。
 合作夥伴必須針對其合作夥伴租用戶中的所有使用者帳戶 (包括來賓使用者) 強制執行多重要素驗證 (MFA)，這項功能會強制要求這些合作夥伴角色針對下列區域完成 MFA 驗證：
 
-- [合作夥伴中心儀表板](#partner-center-dashboard) (以 Q2 CY2020 為目標)
-- [合作夥伴中心 API](#partner-center-api) (以 Q2 CY2020 為目標)
+- [合作夥伴中心儀表板](#partner-center-dashboard) (從 2020 年 5 月 1 日開始)
+- [合作夥伴中心 API](#partner-center-api) (從 2020 年 5 月 1 日開始)
 - [合作夥伴委派的管理](#partner-delegated-administration)
 
 更好且持續的安全性和隱私權保護是我們最優先的考量，而且我們一直在協助合作夥伴保護其客戶和租用戶。 參與「雲端解決方案提供者 (CSP)」計畫、「控制台廠商 (CPV)」和「顧問」的所有合作夥伴，都應該實作[合作夥伴安全性需求](partner-security-requirements.md)才能繼續符合規範。
 
 Microsoft 已開始為合作夥伴租用戶啟用額外的安全性保護。 此一啟用保護的舉措可協助合作夥伴保護其租用戶和客戶，方法是強制使用多重要素驗證 (MFA) 驗證，以防止未經授權的存取。
 
-我們已成功對所有合作夥伴租用戶完成合作夥伴「委派的管理」功能的啟用。 為了進一步協助保護合作夥伴和客戶，自 Q2 CY2020 起，我們將開始在 CSP 中啟用合作夥伴中心交易，協助合作夥伴保護其企業和客戶免於遭遇身分識別竊取相關事件。
+我們已成功對所有合作夥伴租用戶完成合作夥伴「委派的管理」功能的啟用。 為了進一步協助保護合作夥伴和客戶，自 2020 年 5 月 1 日起，我們將開始在 CSP 中啟用合作夥伴中心交易，協助合作夥伴保護其企業及保護客戶免於遭遇身分識別竊取相關事件。
 
 本文件可為合作夥伴提供有關如何啟用安全性保護的詳細體驗和指導方針。
 
