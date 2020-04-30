@@ -119,6 +119,7 @@
 ## [查看您的客戶清單](see-your-customer-list.md)
 ## [檢視客戶活動記錄](activity-logs.md)
 ## [更新客戶帳戶資訊](update-customer-account-info.md)
+## [提供客戶購買其專屬服務的權限](give-customers-permission.md)
 ## [為客戶建立多個使用者](adding-multiple-users-to-a-customer-account.md)
 ## [指派支援連絡人](assign-support-contacts.md)
 
