@@ -1,7 +1,7 @@
 ---
 title: 客戶帳戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 04/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 在合作夥伴中心尋找轉售商合作夥伴的資源。 這包括需要在您銷售訂用帳戶、帳單或供應專案支援之前建立客戶帳戶。
@@ -9,12 +9,12 @@ ms.assetid: 934FF7D8-FAE4-4C14-8DFF-7E2B0FF039DC
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4ecaa4f5de9d27bd829f5c3929f0c8e174a87247
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 6d1090aab2c9678149dba8ab051e6e49f0f5c42a
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721386"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205766"
 ---
 # <a name="customer-accounts"></a>客戶帳戶
 
@@ -38,4 +38,5 @@ ms.locfileid: "74721386"
 |-----------------|:----------------------------|:--------------|
 |取得新客戶|間接經銷商聯繫[間接提供者](indirect-reseller-tasks-in-partner-center.md)，以將您轉介給客戶。 您應確定您的[商務設定檔](create-a-marketing-profile.md)也處於最新狀態。 當您新增已同意[一同合作](responding-to-referrals.md)的客戶，請將他們[新增](add-a-new-customer.md)到您的帳戶。 直接合作夥伴應閱讀[要求與客戶建立關係](request-a-relationship-with-a-customer.md)。|雲端解決方案提供者合作夥伴|
 |新增現有客戶到您的帳戶   | 您在其他入口網站（例如 Office 365）上交易的客戶會出現在合作夥伴中心的[客戶清單](see-your-customer-list.md)中。 您需與其他現有客戶[建立經銷商關係](indirect-reseller-tasks-in-partner-center.md)。 若要這麼做，您可以透過電子郵件傳送[邀請，以便](responding-to-referrals.md)在合作夥伴中心與您聯繫。   | 雲端解決方案提供者合作夥伴   |
-|管理您所有的客戶資訊   | 新增或移除客戶或[結束客戶關係](remove-a-relationship.md)|   雲端解決方案提供者合作夥伴 |
+|結束或恢復客戶關係   | 新增或移除客戶或[結束客戶關係](remove-a-relationship.md)。  |   雲端解決方案提供者合作夥伴 |
+|允許客戶購買自己的服務   | [授與客戶購買自己的產品或服務的許可權](give-customers-permission.md)，例如從您購買的先前訂用帳戶購買自己的 Azure 保留。  | 雲端解決方案提供者合作夥伴 |

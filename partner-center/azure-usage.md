@@ -1,7 +1,7 @@
 ---
 title: 適用于保留使用量上限的 Microsoft Azure VM 大小 |合作夥伴中心
 ms.topic: article
-ms.date: 11/15/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何在為虛擬機器（VM）購買 Microsoft Azure 保留時，將其調整為您客戶的運算需求。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 保留區, vm, 管理, 使用率, 調整大小
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 2b8148d66be8a439056efa41eccb60cbc3e4274b
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253253"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205776"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率
 
@@ -42,16 +42,16 @@ ms.locfileid: "74253253"
 >[!IMPORTANT]
 >若要正確找出代表您客戶購買的 VM 大小和類型，您必須使用以下所述的其中一種方法，因為合作夥伴中心對帳檔案不會正確顯示 VM 系列類型。
 
-**使用 Azure 使用率 API 取得 VM 大小調整資訊**
+**使用 Azure 使用量 API，取得 VM 大小調整資訊**
 
 1. 使用 API 回應中 additionalInfo 的 ServiceType 屬性值，找出要購買的 VM 大小。
 2. 如需詳細資訊，請參閱[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/)中的[取得 Azure 的客戶使用量記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
 
-**使用 Microsoft Azure 入口網站取得 VM 大小調整資訊**
+**使用 Microsoft Azure 入口網站，取得 VM 大小調整資訊**
 
 1. 在合作夥伴中心，移至您的 [**客戶**] 頁面。
 2. 尋找想要購買 Azure VM 保留的客戶，然後選取向下箭號以展開客戶的資訊。 選取 [ **Microsoft Azure 管理入口網站**] 以在 Azure 入口網站中開啟客戶的記錄。
-3. 從入口網站功能表選取 **\[虛擬機器\]** ，然後選取您要購買保留區的 VM。
+3. 從入口網站功能表選取 **\[虛擬機器\]**，然後選取您要購買保留區的 VM。
 4. 在 VM 的詳細資料頁面上，尋找大小和區域資訊（如下所示），並使用此資訊在合作夥伴中心購買保留。  
 
     ![詳細資料頁面上的大小和區域資訊](images/usage1.png)
@@ -62,7 +62,7 @@ ms.locfileid: "74253253"
 
 ![VM 位置和大小](images/usage2.png)
 
-**使用 Azure Resource Manager （ARM） API 取得 VM 大小調整資訊**
+**使用 Azure Resource Manager (ARM) API 取得 VM 大小調整資訊**
 
 1. 使用 ARMClient 或 ARM API，呼叫您要購買保留區之 VM 的 ARM 用戶端。
 
@@ -91,14 +91,14 @@ ms.locfileid: "74253253"
 1. 在合作夥伴中心，移至您的 [**客戶**] 頁面。
 
 2. 尋找您要驗證其保留折扣和使用量的客戶，然後選取向下箭號以展開客戶的資訊。 選取 [ **Microsoft Azure 管理入口網站**] 以在 Azure 入口網站中開啟客戶的記錄。
-3. 從入口網站功能表選取 **\[保留區\]** ，然後選取您要查看其使用率的保留區。
+3. 從入口網站功能表選取 **\[保留區\]**，然後選取您要查看其使用率的保留區。
 4. 在 [**總覽**] 頁面上，檢查保留的 [使用率] 圖形，其中會顯示已將多少保留套用至虛擬機器。
 
     >[!NOTE]
     >使用率資料可能會延遲最多 8 小時。
 
     a. 如果保留的使用率是100%，表示您的客戶正在取得保留購買可提供的所有可能的節約。
-    b。 如果保留的使用量為0%，則不會將折扣套用至任何虛擬機器。
+    b. 如果保留的使用量為0%，則不會將折扣套用至任何虛擬機器。
     c. 如果保留的使用量介於1% 到99% 之間，則會有未使用的權益。
 
 5. 若要避免這種情況，請在進行購買之前，先決定正確的 VM 大小以支援客戶的運算需求。
@@ -123,11 +123,12 @@ ms.locfileid: "74253253"
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
 
-|**如需相關資訊**   |**請閱讀本文**    |
+|**如需下列資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
-|雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的 VM 實例](azure-reservations.md)
-|在合作夥伴中心為您的客戶購買 Azure 保留   |[購買 Azure 保留](azure-reservations-buying.md)
+|雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的 VM 執行個體](azure-reservations.md)
+|在合作夥伴中心為您的客戶購買 Azure 保留   | [購買 Azure Reservations](azure-reservations-buying.md)
 |在合作夥伴中心管理 Azure 保留專案 | [在合作夥伴中心管理 Azure 保留專案](azure-reservations-manage.md)
 |在 Azure 入口網站中購買 Azure Reservations | Azure 說明中的[預付具有 Azure 保留的 VM 執行個體的虛擬機器](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
-|在 Azure 入口網站中管理 Azure Reservations   |Azure 說明中的[管理保留的 VM 執行個體](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
-|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
+|在 Azure 入口網站中管理 Azure Reservations   | Azure 說明中的[管理保留的 VM 執行個體](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
+|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|提供客戶從您購買的訂用帳戶購買自己的 Azure 保留的許可權。 | [授與客戶購買自己的 Azure 保留的許可權](give-customers-permission.md)   |

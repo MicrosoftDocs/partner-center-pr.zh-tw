@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴中心-Microsoft Azure 保留總覽 |合作夥伴中心
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解雲端解決方案提供者可以如何為使用合作夥伴中心、Azure 入口網站或合作夥伴中心 API 的客戶購買、銷售或管理 Azure 保留。
@@ -10,14 +10,14 @@ ms.author: labrenne
 keywords: azure, 保留區, 管理, 帳單, 購買, Azure RI, Azure 保留的執行個體
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f6d6e073d33baafe8ca65c8b06b2e2097c350cbd
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: eb103e3e3255dd899e72a6dc8496415c50438cbf
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722273"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205726"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>合作夥伴中心-銷售 Microsoft Azure 預約
+# <a name="partner-center---sell-microsoft-azure-reservations"></a>合作夥伴中心 - 銷售 Microsoft Azure 保留
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 
@@ -50,14 +50,15 @@ Azure 保留可透過下列方式吸引客戶：
 - Azure 保留專案可提供端對端基礎結構解決方案的基礎，並結合 Microsoft Windows Server 和 Azure SQL Database 這類軟體
 
 >[!NOTE]
-> 您可以在合作夥伴中心和 Azure 入口網站中購買、銷售和管理 Azure 保留專案，以及使用合作夥伴中心 API。 請依照下列連結以深入了解。
+> 您可以在合作夥伴中心和 Azure 入口網站中購買、銷售和管理 Azure 保留專案，以及使用合作夥伴中心 API。 您也可以授與客戶從您購買的 Azure 訂用帳戶購買自己的 Azure 保留的許可權。 請依照下列連結以深入了解。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
 
-|**如需相關資訊**   |**請閱讀本文**    |
+|**如需下列資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
-| 適用于您客戶的 Azure 保留檔 | [什麼是 Azure 保留專案？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
-|在合作夥伴中心為您的客戶購買 Azure 保留   |[購買 Azure 保留](azure-reservations-buying.md)
+| 適用于您客戶的 Azure 保留檔 | [什麼是 Azure 保留？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+|在合作夥伴中心為您的客戶購買 Azure 保留   |[購買 Azure Reservations](azure-reservations-buying.md)
 |在合作夥伴中心管理 Azure 保留專案 | [在合作夥伴中心管理 Azure 保留專案](azure-reservations-manage.md)
-|判斷正確的 VM 大小，並確認客戶 VM 使用量   |[Azure 保留使用量上限的 VM 大小](azure-usage.md)   |
-|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)
+|判斷正確的 VM 大小，並確認客戶 VM 使用量   |[調整 VM 大小以提供最大 Azure Reservations 使用率](azure-usage.md)   |
+|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|提供客戶從您的 CSP 訂用帳戶購買自己的 Azure 保留的許可權。 | [授與客戶購買自己的 Azure 保留的許可權](give-customers-permission.md)   |

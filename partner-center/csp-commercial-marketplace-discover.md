@@ -9,18 +9,18 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: 訂用帳戶，marketplace，商業 marketplace，協力廠商，ISV，SaaS 優惠，雲端解決方案提供者方案，CSP 計畫，CSP 合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 23a31646165576842b625ec4f05a8da404fae01d
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
+ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114940"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "81873190"
 ---
 # <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>探索商業 marketplace 中的供應專案和定價
 
 **適用於**
 
-- 夥伴中心
+- 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
@@ -78,9 +78,9 @@ CSP 方案合作夥伴也可以使用 Api 來傳回合格供應專案的清單�
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)，然後從左側導覽功能表中選取 [ **CSP** ]。
 
-2. 依序選取 [**銷售**] 和 [ **Marketplace**]。 Marketplace 供應專案的清單隨即出現。
+2. 依序選取 [**銷售**]**和 [定價與**供應專案]。
 
-3. 向下流覽至 [ **Marketplace** ] 區段（在 [ **Azure 方案定價**] 底下），然後從右上角選取 [**匯出價格清單**]。 這會產生試算表，其中包含可從 ISV 發行者取得的 SaaS、授權型供應專案的最新定價資料。 某些 Azure 應用程式價格可能也會出現在這裡。 這是每日更新的資訊，因此您可以依自己的選擇，隨時檢查最新價格。
+3. 向下流覽至 [ **Marketplace** ] 區段，選取位置並下載**Marketplace 價格**。 這會產生試算表，其中包含可從 ISV 發行者取得的 SaaS、授權型供應專案的最新定價資料。 某些 Azure 應用程式價格可能也會出現在這裡。 這是每日更新的資訊，因此您可以依自己的選擇，隨時檢查最新價格。
 
 4. 如果 ISV 產品包含免費試用期，此試算表會顯示該產品的兩個數據列：
 
