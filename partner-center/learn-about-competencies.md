@@ -1,7 +1,7 @@
 ---
 title: 銀級及金級會員資格的 Microsoft 專長認證要求條件 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 04/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解取得金級及銀級會員資格等級的專長認證要求條件。
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格, 進階專長
 ms.localizationpriority: high
-ms.openlocfilehash: 808cf6feabe1eb1c8ec803aaadb55ab5f3d46240
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: cfd4800265a5cde94ff69f66cf19547b0f13961c
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226214"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120379"
 ---
 # <a name="information-about-microsoft-silver-and-gold-competencies-and-advanced-specializations"></a>Microsoft 銀級及金級專長認證和進階專長的相關資訊
 
@@ -31,6 +31,16 @@ ms.locfileid: "80226214"
 - 身為金級合作夥伴成員，您也可以將進階專長新增至您的公事包。
 
 獲得**銀級會員資格**或**金級會員資格**專長認證也會解除鎖定強大的[進入市場](mpn-learn-about-go-to-market-benefits.md)供應項目和方案，以協助您拓展業務並使其成長。
+
+## <a name="check-your-status-as-you-earn-a-competency"></a>請檢查您獲得專長認證時的狀態
+
+您可以從合作夥伴中心儀表板的 [專長認證] 區域查看需求，以及您的公司所達到的成果。
+
+1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/home)。
+
+2. 在合作夥伴中心功能表的 MPN 區段之下，選取 [專長認證]  。 
+
+3. 選取專長認證名稱和特定專長認證選項，以查看詳細資料。 您可以查看已完成的內容，也可以查看完整需求，以及特定測驗和已淘汰測驗驗證日期的連結。
 
 ## <a name="competency-areas"></a>專長認證領域
 

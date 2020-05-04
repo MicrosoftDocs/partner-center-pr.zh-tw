@@ -1,7 +1,7 @@
 ---
 title: 購買 Azure 方案 | 合作夥伴中心
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何在 Azure 方案下購買單一或多個 Azure 訂用帳戶和 Azure 保留、設定資源，以及檢視或新增訂用帳戶。
@@ -9,19 +9,19 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: be438f48bea120f7d55ab773bdf7cd6a96fc45ab
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 9ed6e3795fa27ac63fbcd4eee46c4ff00d2c296d
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004937"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205746"
 ---
 # <a name="purchase-the-azure-plan"></a>購買 Azure 方案
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   銷售代理人
+-    全域系統管理員
+-    使用者系統管理員
+-    銷售代理人
 
 當您在 Microsoft 客戶合約下為客戶購買 Azure 方案時，您可以使用隨用隨付費率來存取最新 Azure 服務的完整目錄。 CSP 合作夥伴現在能夠在任何 Azure 服務正式推出時進行存取。 合作夥伴在 Azure 方案下可以有多個 Azure 訂用帳戶。 
 
@@ -58,9 +58,9 @@ Azure CSP 中的新商務體驗目前已排程於 139 個國家/地區提供。 
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>購買 Azure 方案下的 Azure Reservations 
   
-您也可以在合作夥伴中心，代表您的客戶購買 Azure 方案下的 Microsoft Azure Reservations。
+您也可以在合作夥伴中心，代表您的客戶購買 Azure 方案下的 Microsoft Azure Reservations。 (或者，如果您想要的話，可以[提供權限給客戶，以從您為其購買的先前訂用帳戶購買自己的 Azure 保留](give-customers-permission.md)。)
 
-1. 從[儀表板](https://partner.microsoft.com/dashboard/)上的 [合作夥伴中心] 功能表中，選取 [客戶]  。 尋找想要購買 Azure Reservations 的客戶，然後選取向下箭號來展開客戶列。 
+1. 從[儀表板](https://partner.microsoft.com/dashboard/)上的 [合作夥伴中心] 功能表中，選取 [客戶]  。 尋找想要購買 Azure Reservations 的客戶，然後選取向下箭號來展開客戶列。
 
 2. 選取 [新增產品]  ，然後選取 [Azure]  。 
 - 從 [區段]  清單中選擇客戶的市場區段。 
@@ -74,7 +74,7 @@ Azure Reservations 必須關聯至有效的 Azure 方案。 從 [客戶訂用帳
 
 請注意，保留的範圍目前只能設定為**共用**。 
 
-![scopeshared](images/azure/addprods1.png)
+![共用範圍保留設定](images/azure/addprods1.png)
 
 若要在 Azure 入口網站中管理客戶保留： 
 
@@ -86,7 +86,7 @@ Azure Reservations 必須關聯至有效的 Azure 方案。 從 [客戶訂用帳
 
 從 [訂用帳戶]  頁面的用量型區段中，展開 [Azure 方案]  ，以查看 Azure 方案底下相關聯的 Azure 訂用帳戶。
 
-![Viewlist](images/azure/addprods2.png) 
+![檢視 Azure 訂用帳戶清單](images/azure/addprods2.png) 
 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>新增訂用帳戶和設定資源

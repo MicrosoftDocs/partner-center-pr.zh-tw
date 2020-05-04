@@ -1,23 +1,23 @@
 ---
-title: 雲端解決方案提供者直接合作夥伴的新需求 | 合作夥伴中心
+title: CSP 直接計費合作夥伴的需求
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 如果您是雲端解決方案提供者計畫中的直接合作夥伴，您可以了解更新的支援和服務需求，以及如何符合這些需求。
+Description: 了解如何符合最新的支援和服務需求，以成為 Microsoft 雲端解決方案提供者 (CSP) 計畫中的直接計費合作夥伴。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, 直接合作夥伴, 直接計費, 需求
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 461f1ae83af8e99e38ab433fa7204624720bd145
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOAPR.20
+ms.openlocfilehash: de14553d756a718a78e70825e5ef7581aa57b96c
+ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340096"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "82205756"
 ---
-# <a name="csp-direct-bill-partner-new-requirements"></a>雲端解決方案提供者直接計費合作夥伴的新需求
+# <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>註冊為 CSP 直接計費合作夥伴的需求
 
 **適用於**
 
@@ -25,7 +25,7 @@ ms.locfileid: "78340096"
 
 ## <a name="enroll-as-a-direct-partner"></a>註冊為直接合作夥伴
 
-身為直接計費合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 從 2018 年 8 月 31 日起，我們已更新直接計費合作夥伴的註冊需求。 這些新的要求條件可協助您運用適當的雲端解決方案提供者註冊模型加速業務成長，以及透過加值服務與支援鞏固您的客戶關係。
+身為直接計費合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 從 2018 年 8 月 31 日起，我們已更新直接計費合作夥伴的註冊需求。 這些新需求可協助您使用正確的 CSP 註冊模型來加速業務成長。 也將協助您使用增值型服務和支援來強化客戶關係。
 
 ### <a name="minimum-requirements"></a>最低要求條件
 
@@ -43,7 +43,7 @@ ms.locfileid: "78340096"
 
 我們會使用您在表單中對於問題的答案，協助我們判斷您的資格，是否可以在 CSP 計畫中註冊為直接計費合作夥伴。
 
-在驗證您的公司符合資格需求，可以註冊為直接計費合作夥伴，且您已完成註冊申請之後，我們將會檢閱並確認您在註冊程序中提供的商務資訊。 在此檢閱程序中，我們會查核貴公司的信用。 當您的公司通過信用查核時，我們會透過電子郵件通知您。
+在驗證貴公司符合資格需求，可註冊為直接計費合作夥伴，且您已完成註冊申請之後，我們會檢閱並確認您在註冊程序中提供的商務資訊。 在此檢閱程序中，我們會查核貴公司的信用。 當您的公司通過信用查核時，我們會透過電子郵件通知您。
 
 >[!IMPORTANT]
 >查核貴公司信用可能需要數天或更久時間才能完成。 在這段期間，請勿購買 Microsoft 支援方案。 只有在我們通知您已通過信用查核之後，才購買 Microsoft 支援方案。

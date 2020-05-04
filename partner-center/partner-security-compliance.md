@@ -9,12 +9,12 @@ ms.author: labrenne
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: 2fc0926f2277cea8eebd7157af44338aabfaa94c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
+ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80136314"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "82120389"
 ---
 # <a name="partner-security-requirements-status"></a>合作夥伴安全性需求狀態
 
@@ -34,7 +34,7 @@ ms.locfileid: "80136314"
 
 自 2019 年 8 月 1 日起，所有合作夥伴都必須針對其合作夥伴租用戶的所有使用者 (包括服務帳戶) 強制執行多重要素驗證。 如需新安全性原則的詳細資訊，請參閱[合作夥伴安全性需求](partner-security-requirements.md)。
 
-我們想要確保每個使用者都有每個單一驗證的 MFA 挑戰。 您可以透過下列其中一種方式來完成這項作業：
+我們想要確保每個使用者都有每個單一驗證的 MFA 挑戰。 您可以透過下列其中一種方式來完成這項經驗：
 
 - 實作 Azure AD Premium 以確保對每個使用者強制執行 MFA
 - 實作 [Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
@@ -55,7 +55,7 @@ ms.locfileid: "80136314"
 
 此計量與 CSP 租用戶上的 MFA 設定有關，該計量每日擷取並提供報告。 其使用任何一個 [MFA 選項](https://aka.ms/partner-mfa-get-started)來測量強制執行 MFA 的已啟用使用者帳戶的百分比。 例如：
 
-- Contoso 是在租用戶中擁有 110 個使用者帳戶的 CSP 合作夥伴，其中 10 個帳戶已停用。 
+- Contoso 是租用戶中擁有 110 個使用者帳戶的 CSP 合作夥伴，其中 10 個使用者帳戶已停用。 
 - 在其餘 100 個使用者帳戶中，有 90 個帳戶使用提供的 [MFA 選項](https://aka.ms/partner-mfa-get-started)強制執行 MFA。 因此，計量會顯示 90%。 
 
 ### <a name="partner-center-activities-with-mfa"></a>使用 MFA 的合作夥伴中心活動
@@ -67,11 +67,13 @@ ms.locfileid: "80136314"
 此計量與合作夥伴中心儀表板中的活動有關。 它會測量已完成 MFA 驗證的使用者所做的作業百分比。 例如：
 
 - Contoso 是 CSP 合作夥伴，有兩位管理員代理人：Jane 和 John。
-- 在第一天，Jane 登入合作夥伴中心儀表板而未進行 MFA 驗證，並進行 3 個作業。
-- 在第二天，John 登入合作夥伴中心儀表板而未進行 MFA 驗證，並進行 5 個作業。
-- 在第三天，Jane 以 MFA 驗證登入合作夥伴中心儀表板，並進行 2 個作業。
-- 這兩位代理人在剩餘的 4 天內都沒有執行任何作業。
-- 在 7 天時間範圍內的 10 個作業中，2 個是由具有 MFA 驗證的使用者所進行。 因此，計量會顯示 20%。
+- 在第一天，Jane 登入合作夥伴中心儀表板而未進行 MFA 驗證，並進行三項作業。
+- 在第二天，John 登入合作夥伴中心儀表板而未進行 MFA 驗證，並進行五項作業。
+- 在第三天，Jane 以 MFA 驗證登入合作夥伴中心儀表板，並進行兩項作業。
+- 這兩個代理人在剩餘的四天內都沒有執行任何作業。
+- 在 7 天時間範圍內的 10 項作業中，2 項是由具有 MFA 驗證的使用者所進行。 因此，計量會顯示 20%。
+
+使用 [沒有 MFA 的入口網站要求]  檔案，了解哪些使用者在未經 MFA 驗證下登入合作夥伴中心儀表板，以及在報告期間內最後造訪的時間。
 
 #### <a name="appuser-authentication"></a>應用程式 + 使用者驗證
 
@@ -82,7 +84,12 @@ ms.locfileid: "80136314"
 - 在第二天，應用程式提出五個 API 要求，由使用僅使用應用程式驗證取得的存取權杖所支援。
 - 在第三天，應用程式提出兩個 API 要求，由使用搭配 MFA 驗證的應用程式 + 使用者驗證方法取得的存取權杖所支援。
 - 這兩個代理人在剩餘的四天內都沒有執行任何作業。
-- 會在計量中省略第二天由透過僅使用應用程式驗證取得的存取權杖所支援的五個 API 要求，因為它沒有使用使用者認證。 剩餘的五個作業中，有兩個是由透過 MFA 驗證取得的存取權杖所支援。 因此，計量會顯示 40%。
+- 該計量省略了第二天的五個 API 要求，這些要求由透過僅使用應用程式驗證取得的存取權杖所支援，因為該要求未使用使用者認證。 剩餘的五個作業中，有兩個是由透過 MFA 驗證取得的存取權杖所支援。 因此，計量會顯示 40%。
+
+如果您想要了解哪些應用程式 + 使用者活動會導致此計量不是 100%，請使用下列檔案：
+
+- **API 要求摘要**，以了解應用程式的整體 MFA 狀態。
+- **所有 API 要求**，以了解租用戶使用者所提出的每個 API 要求詳細資料，其結果受限於最多 10,000 個最近要求，以提供更好的下載體驗。
 
 ## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>如果 MFA 報告下的計量不是 100%，我該怎麼做
 
@@ -110,13 +117,13 @@ ms.locfileid: "80136314"
 >[!NOTE]
 >對於已使用 Azure AD 安全性預設值來實作 MFA 的合作夥伴，請務必注意，若沒有系統管理員使用者帳戶，則會根據風險強制執行多重要素驗證。 使用者只有在進行有風險的登入嘗試 (例如當使用者從其他位置登入) 時，才會收到進行 MFA 的提示。 此外，使用者最多有 14 天的時間來註冊 MFA。 未完成 MFA 註冊的使用者在 14 天的期間內，不會經過 MFA 驗證的查問。 因此，使用 Azure AD 安全性預設值來實作 MFA 的合作夥伴，計量可能不會是 100%。
 
-### <a name="are-you-using-3rd-party-mfa-solution"></a>您是否使用第三方 MFA 解決方案？
+### <a name="are-you-using-third-party-mfa-solution"></a>您是否使用第三方 MFA 解決方案？
 
-如果您使用第三方 MFA 解決方案，請識別您要將它與 Azure AD 整合的方式。 一般來說有兩種方法，包括同盟和自訂控制項：
+如果您使用第三方 MFA 解決方案，請識別您要將其與 Azure AD 整合的方式。 一般來說有兩種方法，包括同盟和自訂控制項：
 
-* **身分識別同盟**  - 當 Azure AD 收到驗證要求時，Azure AD 會將使用者重新導向至同盟識別提供者進行驗證。 驗證成功之後，同盟識別提供者會連同 SAML 權杖，將使用者重新導向回 Azure AD。 為了讓 Azure AD 在向同盟識別提供者進行驗證時，辨識使用者已完成 MFA 驗證，SAML 權杖必須包含authenticationmethodsreferences  宣告 (具有 multipleauthn  值)。 檢查同盟識別提供者是否支援發出這類宣告。 若是如此，請檢查同盟識別提供者是否已設定為執行此動作。 如果宣告遺失，Azure AD (進而是合作夥伴中心) 將不會知道使用者已完成 MFA 驗證，而這會造成計量不是 100%。
+* **身分識別同盟**  - 當 Azure AD 收到驗證要求時，Azure AD 會將使用者重新導向至同盟識別提供者進行驗證。 驗證成功之後，同盟識別提供者會連同 SAML 權杖，將使用者重新導向回 Azure AD。 為了讓 Azure AD 在向同盟識別提供者進行驗證時，辨識使用者已完成 MFA 驗證，SAML 權杖必須包含authenticationmethodsreferences  宣告 (具有 multipleauthn  值)。 檢查同盟識別提供者是否支援發出這類宣告。 若是如此，請檢查同盟識別提供者是否已設定為執行此動作。 如果宣告遺失，Azure AD (進而是合作夥伴中心) 將不會知道使用者已完成 MFA 驗證，而遺失宣告可能導致計量不是 100%。
 
-* **自訂控制項** - Azure AD 自訂控制項不能用來識別使用者是否已透過協力廠商 MFA 解決方案完成 MFA 驗證。 因此，透過自訂控制項完成 MFA 驗證的任何使用者，一律會對 Azure AD (接著是合作夥伴中心) 顯示未完成 MFA 驗證。 可能的話，建議您在與 Azure AD 整合時，切換為使用身分識別同盟，而不是自訂控制項。
+* **自訂控制項** - Azure AD 自訂控制項不能用來識別使用者是否已透過第三方 MFA 解決方案完成 MFA 驗證。 因此，透過自訂控制項完成 MFA 驗證的任何使用者，一律會對 Azure AD (接著是合作夥伴中心) 顯示未完成 MFA 驗證。 可能的話，建議您在與 Azure AD 整合時，切換為使用身分識別同盟，而不是自訂控制項。
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>識別哪些使用者已登入合作夥伴中心但未進行 MFA
 
