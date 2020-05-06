@@ -7,29 +7,29 @@ ms.subservice: partnercenter-csp
 description: 請務必瞭解與線上交易相關的各種風險類型，以及管理和緩和這些風險的最佳作法。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6f92976f6aabc0296abb52ef6ec6dc7bd8ee4599
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390807"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798796"
 ---
-# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>在合作夥伴中心管理非付款、詐騙或誤用
+# <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>在合作夥伴中心內管理未付款、詐騙或誤用
 
 適用於：
 
-- 夥伴中心
+- 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
 -   全域系統管理員
 -   使用者系統管理員
 -   系統管理代理人
--   帳單管理
+-   帳單系統管理員
 
 您必須承擔因客戶以詐騙方式購買和/或已購買服務客戶未付款的行為而帶來的財務風險。 因此，*我們強烈建議您將詐騙防護和偵測風險降低控制措施放在原地*。
 

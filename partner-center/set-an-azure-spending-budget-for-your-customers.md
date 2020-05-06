@@ -6,21 +6,21 @@ description: 瞭解如何為您的客戶設定或移除每月的 Azure 費用預
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: DDE80361-D04E-432C-BC15-D735D2AE954F
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e536a43aec85336996d047ecd13a06ef144ce196
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e33a15110666bb3b4a3c76c198cde7a59d81411f
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390647"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797886"
 ---
 # <a name="set-an-azure-spending-budget-for-your-customers"></a>為客戶設定 Azure 消費預算
 
 適用於：
 
-- 夥伴中心
+- 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 您可以在合作夥伴中心[為您的客戶設定每月的 Azure 費用預算](#set-azure-spending-budget)。 這可協助您的客戶管理其 Azure 費用。 此選項可讓您將客戶的 Azure 費用與當月的預算進行比較。 它也可協助您的客戶預算其 Azure 費用，讓其每月帳單不會高於預期。
@@ -91,7 +91,7 @@ Azure 消費資料是*估計值*，而*實際的計費金額可能會有所不�
 
 ## <a name="itemized-costs-by-service"></a>依服務的明細成本
 
-您可以*針對使用量型訂用帳戶，根據服務來查看明細成本（和預估使用量）* ：
+您可以*針對使用量型訂用帳戶，根據服務來查看明細成本（和預估使用量）*：
 
 1. 登入合作夥伴中心。
 2. 在左側功能表中，選擇 [ **CSP**] 底下的 [**客戶**]。

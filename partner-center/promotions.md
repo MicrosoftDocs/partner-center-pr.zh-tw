@@ -5,24 +5,24 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 身為雲端解決方案提供者計畫的 Microsoft 合作夥伴，您可以用促銷定價購買訂閱，再將省下的金額回饋給您的客戶。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 11bf5ae35ce20cf7290e1fbbdc1aa21c368c9a1b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 3d43853c149f00ba284065a05ff5e6585beb4495
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390737"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798736"
 ---
 # <a name="use-promotions-to-attract-new-customers"></a>使用促銷吸引新客戶  
 
-**適用物件：合作夥伴中心**
+**適用於：合作夥伴中心**
 
 **適當的角色**
 -   系統管理代理人
 -   MPN 合作夥伴系統管理員
--   帳單管理
+-   帳單系統管理員
 -   銷售代理人
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
@@ -52,7 +52,7 @@ Microsoft 提供兩種促銷優惠：適用於雲端解決方案提供者 (CSP) 
 
 1. 在 [**合作夥伴中心**] 功能表上，選取 [**客戶**]，然後選取購買訂用帳戶的客戶。 
 
-2. 選取 **\[新增訂閱\]** 。
+2. 選取 [訂用帳戶]****。
 
 3. 在 **\[新訂閱\]** 頁面上，選取可適用銷售的訂閱。
 

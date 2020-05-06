@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 您與您的客戶之間擁有帳單關係，且為您客戶的任何帳單相關問題提供完全的支援。
 ms.assetid: DE0942BB-A0D0-4CF9-A60E-0BD095692C26
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 06005e8143f1af049af0f1f1c8a7e96e5fa9ae9f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 8add485ad2c9bf8ef8d3c36f7420242b624afcdf
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390727"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798726"
 ---
 # <a name="provide-billing-support"></a>提供帳單支援
 
 **適用於**
 
--  夥伴中心
+-  合作夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
 -   全域系統管理員
 -   使用者系統管理員
 -   技術服務代理人
--   帳單管理
+-   帳單系統管理員
 -   銷售代理人
 
 您與您的客戶之間擁有帳單關係，且您有責任回答客戶的帳單相關問題。
@@ -57,10 +57,10 @@ ms.locfileid: "80390727"
 
 每個線上服務對於提供帳單、訂閱管理和技術支援都有專屬的詳細需求。 請參閱下列文件以了解詳細資訊。
 
--   [透過 CSP 銷售的 Dynamics 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
+-   [透過雲端解決方案提供者銷售的 Dynamics 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
--   [透過 CSP 銷售的 Azure 訂用帳戶](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
+-   [透過雲端解決方案提供者銷售的 Azure 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
--   [透過 CSP 銷售的 Office 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+-   [透過雲端解決方案提供者銷售的 Office 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
  
 

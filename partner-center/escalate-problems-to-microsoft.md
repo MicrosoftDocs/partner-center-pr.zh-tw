@@ -6,22 +6,22 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 Microsoft 合作夥伴預期會為客戶解決的問題，以及他們可能需要向 Microsoft 呈報哪些問題。
 ms.assetid: F4BFAB24-2CC6-4F77-AC54-2A29ECE97F0E
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f4b6e11e1bd4ad4acd014dbe9786cd9189bdbbc1
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 716b090681663feba725d1cf268be2209cd15475
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389857"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798336"
 ---
-# <a name="escalate-problems-to-microsoft"></a>向上呈報問題給 Microsoft
+# <a name="escalate-problems-to-microsoft"></a>將問題呈報給 Microsoft
 
 **適用於**
 
-- 夥伴中心
+- 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
@@ -37,9 +37,9 @@ ms.locfileid: "80389857"
 
 - 未記載的服務問題：服務未依照服務描述運作。
 
-- 服務無法使用
+- 無法使用的服務
 
-- 錯誤 (bug) 或其他非常規的問題影響服務的外觀或運作
+- 影響服務外觀或操作的錯誤 (bug) 和其他不合常規的事物
 
 - 大規模網路中斷
 
@@ -51,13 +51,13 @@ ms.locfileid: "80389857"
 
 2. 從 [合作夥伴中心] 功能表中，選取 [**客戶**]，然後選取需要支援的客戶。
 
-3. 選取 **\[服務管理\]** ，然後選取 **\[服務要求\]** 。
+3. 選取 **\[服務管理\]**，然後選取 **\[服務要求\]**。
 
-4. 選取 **\[新要求\]** ，然後選取 **\[Microsoft Office 365\]** 。
+4. 選取 **\[新要求\]**，然後選取 **\[Microsoft Office 365\]**。
 
 5. 您會進入 Office 365 入口網站，您需要使用合作夥伴中心認證登入。
 
-6. 從左邊功能表選取 **\[支援\]** 、 **\[新服務要求\]** 。
+6. 從左邊功能表選取 **\[支援\]**、**\[新服務要求\]**。
 
 7. 選取支援主題。
 

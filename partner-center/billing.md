@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 列出合作夥伴中心的計費和稅賦主題，包括計費資源、發票、CSP 計費和稅賦的相關資訊。
 ms.assetid: 97F3B1A0-277A-423D-BC8B-2D0056BCD33A
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: high
-ms.openlocfilehash: 33c698648b6e195219ae8b58c36e8fda372685f3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 5b50a51d1d3d29f0631dc7b2147e11181e719c87
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80634798"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798576"
 ---
 # <a name="billing-and-taxes"></a>帳單與稅金
 

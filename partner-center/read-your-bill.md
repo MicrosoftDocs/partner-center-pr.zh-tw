@@ -6,22 +6,22 @@ description: 您的發票是目前每月期間的所有合作夥伴中心費用�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e4d6b16e3b27b5244687bf9c1f292a5ba353e24
-ms.sourcegitcommit: 8684c9e431e5f39d3a0ea600cc114c21cbbb2be3
+ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "80676829"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798706"
 ---
-# <a name="understand-your-bill"></a>瞭解您的帳單
+# <a name="understand-your-bill"></a>了解您的帳單
 
 **適用於**
 
-- 夥伴中心
+- 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
@@ -37,19 +37,19 @@ ms.locfileid: "80676829"
 
 Microsoft 會針對任何以授權為基礎的費用（例如，Office 365）和以使用量為基礎的費用（例如 Azure），以及針對一次性費用（例如 Azure RI、Marketplace、Azure 方案等）發出一份發票。 
 
-例如：  
+例如，  
 
-**案例 1 [單一貨幣]** ：合作夥伴已購買145P 供應專案和 O365 授權，  
+**案例 1 [單一貨幣]**：合作夥伴已購買145P 供應專案和 O365 授權，  
 
 - 合作夥伴會取得一個發票 PDF 和2個對帳檔案，其中涵蓋 O365 和 Azure （145p）的費用。  
 
-**案例 2 [單一貨幣]** ：合作夥伴已購買 azure RI、Marketplace 和/或 azure 方案以及145p 購買。 
+**案例 2 [單一貨幣]**：合作夥伴已購買 azure RI、Marketplace 和/或 azure 方案以及145p 購買。 
 
 - 合作夥伴會收到一個發票 PDF 和一個涵蓋 Azure 費用的對帳檔案（145p）。 
 
 - 合作夥伴會收到另一個發票 PDF 和對帳檔案，其中涵蓋 Azure RI、Marketplace、Azure 方案的費用。 
 
-**案例 3 [多貨幣]** ：合作夥伴已在丹麥幣中購買 azure RI，並以 eur 購買145P 的 azure 方案。 
+**案例 3 [多貨幣]**：合作夥伴已在丹麥幣中購買 azure RI，並以 eur 購買145P 的 azure 方案。 
 
 - 合作夥伴會收到一個發票 PDF 和對帳檔案，其中涵蓋丹麥幣中的 Azure RI 費用。 
 

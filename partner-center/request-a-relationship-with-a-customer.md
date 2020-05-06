@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 要求關係是用於多重合作夥伴和多重通路案例。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ff1b9d6e7290304b4cc33d53251750daf04fbfe8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 287ecd324472a7f28585dc2f7edef8cd95bb2e34
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390677"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798676"
 ---
 # <a name="connect-with-customers-in-partner-center"></a>在合作夥伴中心中與客戶保持聯繫
 
 **適用於**
 
--  夥伴中心
+-  合作夥伴中心
 
 如果您想要代表自己管理客戶的服務或訂用帳戶，客戶必須授與您該服務或訂用帳戶的系統管理員許可權，並簽署 Microsoft 客戶合約。
 
@@ -33,17 +33,17 @@ ms.locfileid: "80390677"
 
 請注意，您可以從您的國家/地區或相同區域中的客戶要求轉銷商關係。
 
-1.  選取 [合作夥伴中心] 功能表中的 [客戶]，然後選取 [要求建立經銷商關係]。
+1.  選取 [合作夥伴中心]  功能表中的 [客戶]  ，然後選取 [要求建立經銷商關係]  。
 
 2.  若要向此客戶要求系統管理員許可權，請選取 [**包含 Azure Active Directory 和 Office 365 的委派管理許可權**]。 若要在不要求系統管理員許可權的情況下建立關聯性，請清除此選項。 
 
-3.  在下一頁，檢閱草稿電子郵件訊息。 您可以在預設電子郵件應用程式中開啟草稿訊息，或您可以將訊息複製到您的剪貼簿，並將它貼到電子郵件。 
+3.  在下一頁，複查草稿電子郵件訊息。 您可以在預設電子郵件應用程式中開啟草稿訊息，或是將訊息複製到您的剪貼簿，並將其貼到電子郵件。 
 
-    您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。 當您完成這個步驟時，請選取 [完成]。
+    您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。 當您完成這個步驟時，請選取 [完成]  。
 
 3.  將電子郵件傳送給您的客戶。
 
-5.  客戶接受邀請之後，他們將會出現在您的 **\[客戶\]** 頁面，而且您將能從該處佈建客戶及管理其服務。
+5.  客戶接受邀請之後，他們將會出現在您的 [客戶]  頁面，而且您將能從該處為客戶佈建及管理服務。
 
 >注意：如果客戶尚未接受 Microsoft 客戶合約，當他們接受您的邀請時，系統會提示他們執行此動作。 
  
@@ -51,7 +51,7 @@ ms.locfileid: "80390677"
 
 
 > [!IMPORTANT]  
-> 客戶可以在服務的管理入口網站中重新指派或移除管理員權限。 不過，除非您與客戶重新協商合約，否則您會繼續負責提供客戶支援並遵守 Microsoft 合作夥伴合約的條款，即使在客戶重新指派或移除系統管理員之後也一樣。無權. 在此情況下，如果客戶需要協助，您可以連絡 Microsoft 支援服務，以代表客戶開啟服務要求。
+> 客戶可以在服務的管理入口網站中重新指派或移除管理員權限。 不過，除非在客戶重新指派或移除系統管理員許可權之後，才能與客戶重新協商合約，否則您會繼續負責提供客戶支援並遵守 Microsoft 合作夥伴合約的條款。 在此情況下，如果客戶需要協助，您可以連絡 Microsoft 支援服務，以代表客戶開啟服務要求。
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>客戶邀請體驗的變更
 
@@ -64,7 +64,7 @@ ms.locfileid: "80390677"
 | 適用于美國政府 Microsoft Cloud 合作夥伴中心的客戶 | Microsoft Office 系統管理員入口網站 |
 |
 
-## <a name="see-also"></a>另請參閱
+## <a name="see-also"></a>請參閱
 
 - [指派支援連絡人](assign-support-contacts.md)
-- [移除與客戶的關聯性](remove-a-relationship.md)
+- [移除與客戶的關係](remove-a-relationship.md)

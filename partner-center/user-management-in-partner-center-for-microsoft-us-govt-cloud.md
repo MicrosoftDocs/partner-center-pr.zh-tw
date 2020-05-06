@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何以及在何處管理合作夥伴中心，以取得美國政府合作夥伴、客戶和授權的 Microsoft Cloud，以及密碼重設。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9940350c9b3b09f8a4fef32251394614a6f91d2f
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 93b8525861069607ca66770b371cd3f9a3e109e7
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390457"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797586"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美國政府適用的 Microsoft Cloud 合作夥伴中心內的使用者及授權管理
 
@@ -47,6 +47,6 @@ ms.locfileid: "80390457"
 
 **相關主題**
 
--  [**適用于美國政府的 Microsoft Cloud 合作夥伴中心**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Microsoft Cloud for US Government 適用的合作夥伴中心**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**為美國政府的 Microsoft Cloud 註冊雲端解決方案提供者方案**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

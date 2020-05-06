@@ -3,20 +3,20 @@ title: 以使用量為基礎的計費 |合作夥伴中心
 ms.topic: article
 ms.date: 11/21/2019
 Description: 在合作夥伴中心以使用量為基礎的計費資訊，其中會以每月使用量費率計費。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 計費，使用量為基礎，使用量
 ms.localizationpriority: medium
-ms.openlocfilehash: 560c2760fcdf221fad9142fa36024e04e7ff1104
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390497"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797666"
 ---
 # <a name="usage-based-billing"></a>用量型帳單
 
-- 夥伴中心
+- 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
 當您購買線上服務（例如 Azure 訂用帳戶）時，您需支付每月使用費率的費用。 以使用量為基礎的服務（例如 Azure）會根據耗用量，依據計量付費費率計費。
@@ -29,7 +29,7 @@ ms.locfileid: "80390497"
 
 以使用量為基礎的訂用帳戶會在**訂閱週年日**以期末的每月計費。 例如，如果訂閱週年日是15日，則會向您收取1月15日至1月15日服務期間的費用。 您會在2月15日到2月14日的服務期間，再次向您收費。 
 
-## <a name="usage-charges"></a>使用量費用
+## <a name="usage-charges"></a>使用費用
 
 在訂用帳戶週年日產生的費用會顯示在下列發票和[對帳](usage-based-recon-files.md)檔案中。
 

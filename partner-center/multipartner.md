@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 客戶可能會想要與雲端解決方案提供者計畫中專精不同服務的多個合作夥伴合作。
 ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c4de34137fec79d0656a6122ae04c0073a59125
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 2a059e9eebd117ef0684c8bc7aa2f8bbb68c25d6
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390817"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798806"
 ---
 # <a name="multi-partner-support"></a>多合作夥伴支援
 
 **適用於**
 
--  夥伴中心
+-  合作夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**

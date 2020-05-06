@@ -6,22 +6,22 @@ description: 瞭解您特定地理區域的稅務責任，以及如何為您的 
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
-author: jasonwhowell
+author: LauraBrenner
 keywords: 稅金，免稅，vat，轉銷商，帳單
-ms.author: jasonh
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1befd911083cd0f4f774a839b8cc5e84c79592f8
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390627"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82797696"
 ---
 # <a name="taxes-and-tax-exemptions"></a>稅金與免稅
 
 適用於：
 
-- 夥伴中心
+- 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 雲端解決方案提供者（CSP）計畫是一種銷售通路，著重于合作夥伴轉售的產品。 因此，Microsoft 不一定需要向交易夥伴發票收取銷售稅務費用。 這些規則會因國家/地區和（或）區域而異。 您可以查看[國家/地區特定和特定區域的免稅詳細資料](#country-and-region-tax-details)。
@@ -36,7 +36,7 @@ ms.locfileid: "80390627"
 
 如有其他問題，請[在合作夥伴中心要求支援](#support)。
 
-### <a name="canada"></a>加拿大
+### <a name="canada"></a>Canada
 
 大部分經銷商不能於 GST/HST/QST 免稅。 請洽詢您的稅務顧問，以判斷您是否符合豁免資格，以及應提供給 Microsoft 的檔。
 
@@ -44,7 +44,7 @@ ms.locfileid: "80390627"
 
 ### <a name="european-union"></a>歐盟
 
-在歐盟會員國內，合作夥伴必須提供其有效加值稅識別碼編號，以供反向徵收和適當的計費。 加值稅 號碼必須接受為有效。
+在歐盟會員國內，合作夥伴必須提供其有效加值稅識別碼編號，以供反向徵收和適當的計費。 加值稅編號必須有效才能予以接受。
 
 Microsoft 不支援信用額度和重新計費。 銷售任何訂用帳戶之前，您必須先在合作夥伴中心[註冊您的 加值稅 ID 號碼](organization-tax-info.md)。
 
@@ -62,7 +62,7 @@ Microsoft 現在會在以土耳其方購買的數位內容和服務上套用標�
 
 這可能包括可在多種狀態下工作的轉售豁免憑證，例如「*簡化銷售*」和「*使用稅務合約」的豁免憑證*，或*MTC 統一銷售 & 使用免稅憑證*。
 
-### <a name="other-regions"></a>其他地區
+### <a name="other-regions"></a>其他區域
 
 如果您是在另一個國家或地區收取稅金，請[在合作夥伴中心](#support)為您的問題要求支援。
 
@@ -86,7 +86,7 @@ Microsoft 現在會在以土耳其方購買的數位內容和服務上套用標�
 1. 在 [儀表板] 功能表的 [**支援**] 底下，選擇 [**合作夥伴支援要求**]。
 2. 在 [**合作夥伴要求**] 頁面上，選擇 [**新增要求**]。 （您也可以在此頁面稍後查看開啟和關閉的支援要求）。
 3. 在 [**基本**] 步驟的 [ **CSP-帳單和付款**] 底下，選擇 [**選取問題類型**]，然後選取 [**免稅要求**]。
-4. 在 [**解決方案**] 步驟的 [**您需要其他協助嗎？** ] 底下，選擇 **[是]** 。
+4. 在 [**解決方案**] 步驟的 [**您需要其他協助嗎？**] 底下，選擇 **[是]**。
 5. 在 [**詳細資料**] 步驟中，填寫 [**問題詳細資料**] 表單。 請務必：
 
     - 填寫所有必要欄位。

@@ -5,15 +5,15 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 美國政府適用的 Microsoft Cloud 合作夥伴中心是一個商務入口網站，適用於希望向美國政府機構客戶提供 Microsoft 雲端解決方案的 Microsoft 合作夥伴。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 66a39eee19a367a796ca90e204a44be9e6a7d9c3
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: e23b79e76cf498a600cb5658feaaf3b6da5578e6
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390757"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798746"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 適用的合作夥伴中心
 
@@ -26,7 +26,7 @@ ms.locfileid: "80390757"
 -   使用者系統管理員
 -   系統管理代理人
 -   銷售代理人
--   帳單管理
+-   帳單系統管理員
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美國政府適用的 Microsoft Cloud ：符合資料保護需求 
 

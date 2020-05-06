@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何自訂 Microsoft catalog，讓您更輕鬆地存取貴組織最常使用的合作夥伴供應專案或產品。
 ms.assetid: DA7DD94C-E642-4F69-AC02-61BC5B05BB0D
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c2a4232089cabb838f7fc67c4c19050e8161d5b5
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: b3f22902b5329a1c60c9e890fedfbcbe61486c70
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389867"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798356"
 ---
-# <a name="customize-the-catalog"></a>自訂型錄
+# <a name="customize-the-catalog"></a>自訂目錄
 
 **適用於**
 
--  夥伴中心
+-  合作夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
@@ -33,7 +33,7 @@ ms.locfileid: "80389867"
 
 **自訂型錄**
 
-1.  前往 合作夥伴中心 功能表 &gt;**銷售**&gt;**目錄**。
+1.  移至 [合作夥伴中心] &gt;功能表 [**銷售** &gt; **目錄**]。
 2.  選擇最多五個產品以顯示於型錄頂端。
 
  

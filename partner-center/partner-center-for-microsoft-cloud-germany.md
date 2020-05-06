@@ -5,16 +5,16 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Cloud 德國合作夥伴中心是一個商務入口網站，適用於希望向歐盟和歐洲自由貿易聯盟境內客戶提供 Microsoft Cloud 解決方案的 Microsoft 合作夥伴。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: c83709b68a492fd93ca166e9a9717ad9a632c6f6
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 1f293a919b04b30ef8afdcadbc5a285698bb47b0
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390767"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798756"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心
 
@@ -27,7 +27,7 @@ ms.locfileid: "80390767"
 -   使用者系統管理員
 -   系統管理代理人
 -   銷售代理人
--   帳單管理
+-   帳單系統管理員
 
 Microsoft Cloud 德國完全符合嚴格的德國資料保護相關規定，且設有德國資料託管單位 (依照德國法律行事) 來負責控管客戶資料的實體與邏輯存取。 所有客戶資料以及用來處理或控管客戶資料存取的系統，皆位於德國資料中心內。 這些資料中心之間為獨立且專屬的網路，且都在德國境內。
 
@@ -35,9 +35,9 @@ Microsoft Cloud 德國提供個別的[Microsoft Azure](https://go.microsoft.com/
 
 > [!IMPORTANT]
 
-> 根據客戶需求的演進，我們的德國雲端策略將著重于在德國提供與我們的全球雲端服務一致的新雲端區域。 由於這個重點策略，我們將不再從目前可用的 Microsoft Cloud Germany 接受新的客戶或部署任何新的服務。 現有的客戶可以繼續使用目前提供的目前雲端服務，我們將會維護必要的安全性更新。 
+> 根據客戶需求的演進，我們的德國雲端策略將著重于在德國提供與我們的全球雲端服務一致的新雲端區域。 有了這個重點，我們就不會再接受新客戶，也不會從目前可用的 Microsoft Cloud 德國部署任何新的服務。 現有的客戶可以繼續使用目前提供的目前雲端服務，我們將會維護必要的安全性更新。 
 > 
-> 之後，新的客戶可以選擇使用目前提供的歐洲地區，或在德國的新地區可供使用時加以選擇。 如需詳細資訊，請參閱 [Microsoft 即將從德國的新資料中心提供雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
+> 未來，新客戶可以選擇使用目前可用的歐洲地區或德國的新區域。 如需詳細資訊，請參閱[Microsoft 從德國的新資料中心傳遞雲端服務](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)。 
 
 ## <a name="partner-center-for-microsoft-cloud-germany-selling-german-cloud-solutions-in-eu-and-efta"></a>Microsoft Cloud 德國合作夥伴中心：在歐盟和歐洲自由貿易聯盟境內銷售德國雲端解決方案
 

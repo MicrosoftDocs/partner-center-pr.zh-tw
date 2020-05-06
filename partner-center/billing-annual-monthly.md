@@ -4,21 +4,21 @@ ms.topic: article
 ms.date: 11/25/2019
 Description: 瞭解合作夥伴中心的每月和年度計費週期之間的差異。
 ms.assetid: ''
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a05f64ac919cce0339f0033fa38a4b43e61d3c08
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 09e651638e50afeef3d43dd9c35c11998ba904ca
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390307"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798596"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>每月和每年計費差異
+# <a name="monthly-and-annual-billing-differences"></a>每月和每年計費的差異
 
 **適用於**
 
-- 夥伴中心
+- 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
@@ -76,13 +76,13 @@ ms.locfileid: "80390307"
 
 ### <a name="configure-annual-billing"></a>設定年度帳單
 
-如果您打算在合作夥伴中心切換為年度計費，請務必考慮您的銷售動作會受到什麼影響。 您應該通知小組，並視需要更新您的內部進程。 您也應該檢查您發票和授權型對帳檔案的變更。 
+如果您打算在合作夥伴中心切換為年度計費，請務必考慮您的銷售動作會受到什麼影響。 請通知您的小組，並視需要更新您的內部程式。 您也應該檢查您發票和授權型對帳檔案的變更。 
 
 您也需要[更新您的 api 以進行年度計費](#required-api-changes)。
 
 #### <a name="required-api-changes"></a>必要的 API 變更
 
-為了運用年度計費，API 必須進行一些變更。
+為了利用年度計費，您必須對您的 Api 進行一些變更。
 
 - [BillingCycle 屬性](https://docs.microsoft.com/dotnet/api/microsoft.store.partnercenter.models.orders.order.billingcycle)
 - [建立訂單](https://docs.microsoft.com/partner-center/develop/create-an-order)
@@ -91,7 +91,7 @@ ms.locfileid: "80390307"
 
 ## <a name="placing-orders"></a>放置訂單
 
-計費頻率類型（包括年度計費選項）會指派給**供應**專案做為屬性。 沒有專為年度計費的訂單而提供的唯一供應專案。 不過，您可使用客戶更容易記得的名稱將方案重新命名，作為區別之用。
+計費頻率類型（包括年度計費）會指派給**供應**專案做為屬性。 具有年度計費的訂單沒有獨特的供應專案。 不過，您可以使用更好的客戶易記名稱來重新命名供應專案，以輕鬆區別。
 
 ### <a name="select-annual-billing"></a>選取年度計費
 
@@ -99,7 +99,7 @@ ms.locfileid: "80390307"
 
 ### <a name="billing-time"></a>計費時間
 
-您會在下一個帳單日期收到帳單。 例如，如果您的帳單日期是當月1日，而且您在2019年10月29日購買每年計費的訂用帳戶，您將會在2019年11月1日計費。 假設您未進行任何授權變更，則會在2020年11月1日再次向您收費。 如果您進行授權變更，您會收到信用額度，並在下一個計費日期 rebill。
+您將會依下一個計費日期向您收費。 例如，如果您的帳單日期是當月1日，而且您在2019年10月29日購買每年計費的訂用帳戶，您將會在2019年11月1日計費。 假設您未進行任何授權變更，則會在2020年11月1日再次向您收費。 如果您進行授權變更，您會收到信用額度，並在下一個計費日期 rebill。
 
 ### <a name="annual-renewals"></a>年度續訂
 
@@ -139,13 +139,13 @@ ms.locfileid: "80390307"
 
 客戶無法將訂用帳戶之間的訂閱移至另一個夥伴。 這項規定同時適用於每月與年度計費的訂閱。
 
-新的合作夥伴必須代表客戶購買新的訂閱 您無法在合作夥伴之間移動訂閱。
+新的合作夥伴必須代表客戶購買新的訂閱  您無法在合作夥伴之間移動訂閱。
 
 ### <a name="reactivating-subscriptions"></a>重新開機訂閱
 
 您可以重新啟用訂用帳戶最多90天后的暫停日期。 您會在接下來的帳單日期收到依比例計算的費用。 訂閱續約日期保持不變。
 
-## <a name="pricing"></a>Pricing
+## <a name="pricing"></a>定價
 
 ### <a name="offer-pricing"></a>供應專案定價
 
@@ -157,29 +157,29 @@ ms.locfileid: "80390307"
 
 已取消的授權或訂用帳戶的信用額度計算方式如下：
 
-**取消信用額度**= （（* * 每月價格 * * 12）/365） \***在12個月期限中剩餘的天數**\* 已取消的授權數目。
+**取消的信用額度**= （（* * 每月價格 * * * 12） \* /365）已取消之**12 個月期** \*的授權數。
 
 ## <a name="reconciliation-file"></a>對帳檔案
 
 ### <a name="find-subscriptions-billing-frequency"></a>尋找訂用帳戶的計費頻率
 
-查看以授權為基礎的對帳檔案，以取得您的訂用帳戶是每月或每年計費的相關資訊。 這項資訊位於**AA**資料行。
+對帳檔案的資料行**AA**會告訴您，您的訂用帳戶是按月或每年計費。
 
 若要瞭解您是否可以將每月訂閱變更為年度計費，請參閱[尋找訂](#find-subscription-applicability)用帳戶適用性。
 
 ### <a name="reconciliation-file-changes-for-annual-billing"></a>年度計費的對帳檔案變更
 
-當您購買或續訂具有年度帳單的訂用帳戶時，您以授權為基礎的對帳檔案將會變更，如下所示。
+當您購買或續訂具有年度帳單的訂用帳戶時，以授權為基礎的對帳檔案將會變更，如下所示：
 
-在購買或新訂閱後的第一個計費日期，以授權為基礎的對帳檔案上的新資料列。
+- 在購買或新的訂用帳戶之後的第一個計費日期，會有以授權為基礎的對帳檔案的新資料列。
 
-若訂閱沒有發生任何變更，則對帳檔案上訂閱期限的第二個月到第十二個月上不會有任何列。 如果在12個月的期間內對訂用帳戶進行變更，則在進行變更之後，會在下一個對帳檔案中顯示信用額度和按比例 rebill。
+- 如果訂用帳戶未進行任何變更，在訂用帳戶期限的2到12個月內，對帳檔案不會有任何資料列。 如果在12個月的期間內對訂用帳戶進行變更，則在進行變更之後，會在下一個對帳檔案中顯示信用額度和按比例 rebill。
 
-更新訂用帳戶時，將會顯示對帳檔案的下一次變更。 這將會出現在續約之後的第一個帳單日期。
+- 更新訂用帳戶時，將會顯示對帳檔案的下一次變更。 這將會出現在續約之後的第一個帳單日期。
 
 ### <a name="usage-file-changes-for-annual-billing"></a>年度計費的使用量檔案變更
 
-下列每年計費的訂用帳戶變更會出現在使用量檔案的第 P 欄中。
+下列每年計費的訂用帳戶變更會出現在使用量檔案的第 P 欄中：
 
 - **購買時依比例分配費用**：首次購買年度訂閱。
 - **週期實例依比例分配**：會產生信用額度和 rebilling 的授權變更。
@@ -197,7 +197,7 @@ ms.locfileid: "80390307"
 
 ### <a name="price-lists-for-annual-billing"></a>年度計費的價格清單
 
-合作夥伴中心價格清單會顯示每月價格。 沒有列出每年價格。 將每月價格乘以 12，即可計算得到年度價格。
+合作夥伴中心價格清單會顯示每月價格。 沒有列出每年價格。 您可以將每月價格乘以12來計算年度費用。
 
 ### <a name="offer-matrix"></a>供應專案矩陣
 
@@ -215,7 +215,7 @@ ms.locfileid: "80390307"
 
 目前，所有獎勵費用都會一年進行兩次。 這些付款將在半年度結束之後的 45 天支付。
 
-### <a name="rates"></a>費率
+### <a name="rates"></a>匯率
 
 不論訂用帳戶的計費方式為何，合作夥伴都能獲得所有合格交易的獎勵。 獎勵收益是根據全球獎勵率（適用于此期間的計費收益）、本機加速器（適用于有本機加速器的所有地理位置），以及任何全球行銷活動（如果適用）來計算。
 
@@ -227,9 +227,9 @@ ms.locfileid: "80390307"
 | ------ | ------------- |
 | 北美洲 | <ocina@microsoft.com> |
 |拉丁美洲 & 巴西 | <ocilatam@microsoft.com> |
-| EMEA | <ociemea@microsoft.com> |
+| 歐洲、中東與非洲 | <ociemea@microsoft.com> |
 | APOAC （日本除外） | <ociapgc@microsoft.com> |
-| Japan | <ocijp@microsoft.com> |
+| 日本 | <ocijp@microsoft.com> |
 
 
 ### <a name="suspension"></a>擱置
@@ -240,7 +240,7 @@ ms.locfileid: "80390307"
 
 1. 合作夥伴會在1月1日購買訂用帳戶。 服務期間會為1月1日到12月31日前建立費用計費線。
 2. 合作夥伴會在1月25日暫停訂用帳戶。 針對服務期間，會在1月1日到12月31日前建立信用計費線。
-3. 會在1月29日重新啟用訂閱。 在1月29日到12月31日前，會建立費用計費線。
+3. 合作夥伴會在1月29日重新啟用訂用帳戶。 在1月29日到12月31日前，會建立費用計費線。
 
 針對每月計費：
 

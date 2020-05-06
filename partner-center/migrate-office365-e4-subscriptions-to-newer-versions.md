@@ -5,21 +5,21 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 企業版 E4 從 2017 年 4 月 7 日起淘汰。 了解如何將您的客戶訂閱移轉至新版 Office 365。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ead92169ce7b3f1c2e697b6d4e983603c17d39fc
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 02d383172595e09a4ab0bf9c6db34862fcc17204
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390877"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798874"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>將 Office 365 E4 訂閱移轉至新版 Office 365
 
 **適用於**
 
--  夥伴中心
+-  合作夥伴中心
 
 **適當的角色**
 -   全域系統管理員
@@ -78,7 +78,7 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 1. 從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]，選取您想要移動的客戶，然後選取 [**新增訂閱**]。
 
-2. 選取您要從型錄購買的訂閱 (在此案例中為以上其中一個選項)，輸入授權數量，然後選取 **\[提交\]** 。
+2. 選取您要從型錄購買的訂閱 (在此案例中為以上其中一個選項)，輸入授權數量，然後選取 **\[提交\]**。
 
    您的客戶現在應已有舊的和新的訂閱、舊的 Office 365 Enterprise E4 訂閱和新的「目標」訂用帳戶，例如選項 1-Office 365 企業版 E5。
 
@@ -86,11 +86,11 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 1. 從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]，選取您想要移動的客戶，然後選取 [**使用者和授權**]。 客戶的 [使用者和授權] 頁面隨即開啟。
 
-2. 若要重新指派使用者授權，請選取要重新指派的使用者，然後選取 **\[管理授權\]** 。
+2. 若要重新指派使用者授權，請選取要重新指派的使用者，然後選取 [**管理授權**]。
 
-3. 在 **\[管理授權\]** 頁面中，清除 **\[Office 365 企業版 E4\]**  授權核取方塊，然後選取客戶訂閱移動到的新服務方案。
+3. 在 **\[管理授權\]** 頁面中，清除 **\[Office 365 企業版 E4\] ** 授權核取方塊，然後選取客戶訂閱移動到的新服務方案。
 
-4. 選取 [提交]。 確認頁面會列出新的授權指派。
+4. 選取 [提交]  。 確認頁面會列出新的授權指派。
 
 5. 針對需要重新指派授權的任何其他客戶使用者繼續執行相同步驟。
 
@@ -100,9 +100,9 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 1. 從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]。 選取您想要移動的客戶，然後選取您想要取消的訂閱。
 
-2. 在訂閱詳細資料頁面中，將訂閱狀態設定為 **\[已暫停\]** 。
+2. 在 [訂閱詳細資料] 頁面中，將訂閱狀態設定為 [已**暫停**]。
 
-3. 選取 [提交]。
+3. 選取 [提交]  。
 
 舊訂閱已暫停，而新訂閱為使用中。 暫停的訂閱將在 120 天後自動解除佈建。 客戶不會因為舊訂閱而產生額外費用。
 

@@ -5,21 +5,21 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解直接帳單合作夥伴（直接轉銷商、間接提供者）的步驟，以驗證適用于 CSP 的 Office 365 政府版 GCC 的合作夥伴和客戶。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a0cbdcd0ac4bcf6eda9df43f4b3a92bfcb4ce91b
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 31923fa47083392a2621ae4d0f73ff94dccf9778
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389727"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798466"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>適用於雲端解決方案提供者的 Office 365 政府版 GCC 的合作夥伴和客戶資格條件
 
 **適用於**
 
--  夥伴中心
+-  合作夥伴中心
 -  雲端解決方案提供者合作夥伴
 
 **適當的角色**
@@ -43,12 +43,12 @@ ms.locfileid: "80389727"
 
 我們將根據下列的具體標準，驗證適用於雲端解決方案提供者的 Office 365 政府版 GCC 合作夥伴和客戶是否符合資格。
 
-**合作夥伴準則**
+**合作夥伴標準**
 1.  透過直接或間接合約提供服務或解決方案給美國政府客戶
 2.  透過 GSA 或其他合約媒介服務美國政府客戶
 
 **客戶準則**
-1.  各級職權的美國政府實體。 例如，
+1.  各級職權的美國政府實體。 例如：
  
     -  聯邦機構 (例如局、機構、部門或其他美國政府實體)
     -   州/當地實體 
@@ -56,7 +56,7 @@ ms.locfileid: "80389727"
     -   地區或州際政府實體 (但非國際實體)
     -   聯邦資助的研究和發展中心 (FERDC)
 
-2.  商業私人實體，具有受法規約束的資料。 接受的政府資料類型包括︰ 
+2.  商業私人實體，具有受法規約束的資料。 接受的政府資料類型包括： 
     -   國際武器販運 (ITAR)
     -   受控制的未分類資訊 (CUI)
     -   國防部 (DoD) 未分類的受控核子資訊 (UCNI)

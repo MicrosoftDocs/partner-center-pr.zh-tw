@@ -5,22 +5,22 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解向合格美國政府客戶或承包商銷售適用于 CSP 的 Office 365 政府版 GCC 訂閱的步驟和需求。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fb6402512ea70f3d6a621b140459c0b217478fef
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: c0bfbc6bba6e6e20bff06b794ad47c0bf225932a
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389567"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798496"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱給符合資格的客戶
 
 **適用於**
 
--  夥伴中心
+-  合作夥伴中心
 -  雲端解決方案提供者合作夥伴
 
 **適當的角色**
@@ -50,7 +50,7 @@ ms.locfileid: "80389567"
 
 產品資源：
 
-- [Office 365 政府服務描述](https://technet.microsoft.com/library/mt774581.aspx)
+- [Office 365 政府版服務描述](https://technet.microsoft.com/library/mt774581.aspx)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 信任中心](https://www.microsoft.com/TrustCenter/)
 - [Microsoft 服務信任入口網站](https://aka.ms/STP)
