@@ -6,117 +6,117 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何為客戶建立使用者帳戶、新增或移除使用者授權、重設使用者密碼、刪除使用者帳戶或加以還原。
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 Keywords: 客戶管理、帳戶、建立帳戶、授權、指派授權、使用者管理、密碼、重設密碼、變更密碼
 ms.localizationpriority: medium
-ms.openlocfilehash: fcd5ebe2cb5daa5eafcd3ef56e1750225fcc9990
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 15647d55b1e7a43ca78b2285808f8602dba80f41
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80391007"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798616"
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a><span data-ttu-id="89600-104">客戶帳戶的使用者管理工作</span><span class="sxs-lookup"><span data-stu-id="89600-104">User management tasks for customer accounts</span></span>
+# <a name="user-management-tasks-for-customer-accounts"></a><span data-ttu-id="cb2f9-104">客戶帳戶的使用者管理工作</span><span class="sxs-lookup"><span data-stu-id="cb2f9-104">User management tasks for customer accounts</span></span>
 
-<span data-ttu-id="89600-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="89600-105">**Applies to**</span></span>
+<span data-ttu-id="cb2f9-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="cb2f9-105">**Applies to**</span></span>
 
-- <span data-ttu-id="89600-106">夥伴中心</span><span class="sxs-lookup"><span data-stu-id="89600-106">Partner Center</span></span>
+- <span data-ttu-id="cb2f9-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="cb2f9-106">Partner Center</span></span>
 
-<span data-ttu-id="89600-107">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="89600-107">**Appropriate roles**</span></span>
+<span data-ttu-id="cb2f9-107">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="cb2f9-107">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="89600-108">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="89600-108">Global admin</span></span>
-- <span data-ttu-id="89600-109">使用者管理系統管理員</span><span class="sxs-lookup"><span data-stu-id="89600-109">User management admin</span></span>
-- <span data-ttu-id="89600-110">系統管理代理人</span><span class="sxs-lookup"><span data-stu-id="89600-110">Admin agent</span></span>
-- <span data-ttu-id="89600-111">銷售代理人</span><span class="sxs-lookup"><span data-stu-id="89600-111">Sales agent</span></span>
-- <span data-ttu-id="89600-112">技術服務代理人</span><span class="sxs-lookup"><span data-stu-id="89600-112">Helpdesk agent</span></span>
+- <span data-ttu-id="cb2f9-108">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="cb2f9-108">Global admin</span></span>
+- <span data-ttu-id="cb2f9-109">使用者管理系統管理員</span><span class="sxs-lookup"><span data-stu-id="cb2f9-109">User management admin</span></span>
+- <span data-ttu-id="cb2f9-110">系統管理代理人</span><span class="sxs-lookup"><span data-stu-id="cb2f9-110">Admin agent</span></span>
+- <span data-ttu-id="cb2f9-111">銷售代理人</span><span class="sxs-lookup"><span data-stu-id="cb2f9-111">Sales agent</span></span>
+- <span data-ttu-id="cb2f9-112">技術服務代理人</span><span class="sxs-lookup"><span data-stu-id="cb2f9-112">Helpdesk agent</span></span>
 
-<span data-ttu-id="89600-113">您可以在客戶的帳戶中建立及刪除新的使用者。</span><span class="sxs-lookup"><span data-stu-id="89600-113">You can create and delete new users in a customer's account.</span></span> <span data-ttu-id="89600-114">您也可以還原在刪除後的30天內，您先前刪除的一個或多個使用者帳戶。</span><span class="sxs-lookup"><span data-stu-id="89600-114">You can also restore one or more user accounts that you previously deleted within 30 days of the deletion.</span></span> <span data-ttu-id="89600-115">使用者之前的訂閱指派項目也會還原 (假設他們之前的配置可用)</span><span class="sxs-lookup"><span data-stu-id="89600-115">The user's previous subscription assignments will also be restored (assuming their previous allocations are available).</span></span>
+<span data-ttu-id="cb2f9-113">您可以在客戶的帳戶中建立及刪除新的使用者。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-113">You can create and delete new users in a customer's account.</span></span> <span data-ttu-id="cb2f9-114">您也可以還原在刪除後的30天內，您先前刪除的一個或多個使用者帳戶。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-114">You can also restore one or more user accounts that you previously deleted within 30 days of the deletion.</span></span> <span data-ttu-id="cb2f9-115">使用者先前的訂閱指派同樣會還原 (假設他們之前的配置可用)</span><span class="sxs-lookup"><span data-stu-id="cb2f9-115">The user's previous subscription assignments will also be restored (assuming their previous allocations are available).</span></span>
 
-<span data-ttu-id="89600-116">當您為客戶購買新的訂用帳戶時，客戶應該會提供一份清單，列出所有需要帳戶的使用者、其使用者權限，以及每個使用者所需的服務。</span><span class="sxs-lookup"><span data-stu-id="89600-116">When you buy new subscriptions for a customer, the customer should give you a list of all the users who will need accounts, their user permissions, and which services each user needs.</span></span>  
+<span data-ttu-id="cb2f9-116">當您為客戶購買新的訂用帳戶時，客戶應該會提供一份清單，列出所有需要帳戶的使用者、其使用者權限，以及每個使用者所需的服務。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-116">When you buy new subscriptions for a customer, the customer should give you a list of all the users who will need accounts, their user permissions, and which services each user needs.</span></span>  
 
-<span data-ttu-id="89600-117">您可以使用 [與 Excel 相容的 .csv 試算表檔案](bulk-license-provisioning-for-multiple-users.md)來匯入名稱，一次[指派訂閱給多個使用者](adding-multiple-users-to-a-customer-account.md)。</span><span class="sxs-lookup"><span data-stu-id="89600-117">You can [assign subscriptions to multiple users](bulk-license-provisioning-for-multiple-users.md) at one time by importing the names using an [Excel-compatible .csv spreadsheet file](adding-multiple-users-to-a-customer-account.md).</span></span>
+<span data-ttu-id="cb2f9-117">您可以使用 [與 Excel 相容的 .csv 試算表檔案](adding-multiple-users-to-a-customer-account.md)來匯入名稱，一次[指派訂閱給多個使用者](bulk-license-provisioning-for-multiple-users.md)。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-117">You can [assign subscriptions to multiple users](bulk-license-provisioning-for-multiple-users.md) at one time by importing the names using an [Excel-compatible .csv spreadsheet file](adding-multiple-users-to-a-customer-account.md).</span></span>
 
 <a href="" id="createuseraccounts"></a>
 
-## <a name="create-user-accounts-for-a-customer"></a><span data-ttu-id="89600-118">為客戶建立使用者帳戶</span><span class="sxs-lookup"><span data-stu-id="89600-118">Create user accounts for a customer</span></span>
+## <a name="create-user-accounts-for-a-customer"></a><span data-ttu-id="cb2f9-118">為客戶建立使用者帳戶</span><span class="sxs-lookup"><span data-stu-id="cb2f9-118">Create user accounts for a customer</span></span>
 
-1. <span data-ttu-id="89600-119">登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。</span><span class="sxs-lookup"><span data-stu-id="89600-119">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="cb2f9-119">登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-119">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-2. <span data-ttu-id="89600-120">從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="89600-120">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
+2. <span data-ttu-id="cb2f9-120">從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-120">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
 
-3. <span data-ttu-id="89600-121">在 \[客戶\] 功能表中選取 \[使用者和授權\]。</span><span class="sxs-lookup"><span data-stu-id="89600-121">In the customer menu, select **Users and licenses**.</span></span>
+3. <span data-ttu-id="cb2f9-121">在客戶功能表中，選取 [使用者與授權]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-121">In the customer menu, select **Users and licenses**.</span></span>
 
-4. <span data-ttu-id="89600-122">針對您新增的每個使用者，選取 **\[新增訂閱\]** ，然後填入相關資訊 (包括權限和授權)。</span><span class="sxs-lookup"><span data-stu-id="89600-122">For each user you add, select **Add subscription**, then fill out the information, including permissions and licenses.</span></span> <span data-ttu-id="89600-123">**儲存**您的變更。</span><span class="sxs-lookup"><span data-stu-id="89600-123">**Save** your changes.</span></span>
+4. <span data-ttu-id="cb2f9-122">針對您新增的每個使用者，選取 **\[新增訂閱\]**，然後填入相關資訊 (包括權限和授權)。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-122">For each user you add, select **Add subscription**, then fill out the information, including permissions and licenses.</span></span> <span data-ttu-id="cb2f9-123">[儲存]  變更。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-123">**Save** your changes.</span></span>
 
-5. <span data-ttu-id="89600-124">請務必記錄使用者名稱和暫時密碼，以傳送給使用者。</span><span class="sxs-lookup"><span data-stu-id="89600-124">Be sure to record the user name and temporary password to send to the user.</span></span>
+5. <span data-ttu-id="cb2f9-124">請務必記錄使用者名稱和暫時密碼，以傳送給使用者。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-124">Be sure to record the user name and temporary password to send to the user.</span></span>
 
-6. <span data-ttu-id="89600-125">如果您要以是一次加入一個的方式新增多個使用者，請使用 **\[新增其他使用者\]** 。</span><span class="sxs-lookup"><span data-stu-id="89600-125">If you are adding multiple users one at a time use **Add another user**.</span></span>
+6. <span data-ttu-id="cb2f9-125">如果您要以是一次加入一個的方式新增多個使用者，請使用 **\[新增其他使用者\]**。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-125">If you are adding multiple users one at a time use **Add another user**.</span></span>
 
-7. <span data-ttu-id="89600-126">您也可以透過[匯入 Excel 相容 .csv 試算表檔案](adding-multiple-users-to-a-customer-account.md)，一次新增多個使用者。</span><span class="sxs-lookup"><span data-stu-id="89600-126">You can also add multiple users at once by [importing an Excel-compatible .csv spreadsheet file](adding-multiple-users-to-a-customer-account.md).</span></span> <span data-ttu-id="89600-127">您可以等到新增一整組使用者之後，再從確認畫面以電子郵件傳送或直接列印這些名稱和密碼。</span><span class="sxs-lookup"><span data-stu-id="89600-127">You can wait until you're done with the whole set before emailing or printing the names and passwords from the confirmation screen.</span></span>
+7. <span data-ttu-id="cb2f9-126">您也可以透過[匯入 Excel 相容 .csv 試算表檔案](adding-multiple-users-to-a-customer-account.md)，一次新增多個使用者。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-126">You can also add multiple users at once by [importing an Excel-compatible .csv spreadsheet file](adding-multiple-users-to-a-customer-account.md).</span></span> <span data-ttu-id="cb2f9-127">您可以等到新增一整組使用者之後，再從確認畫面以電子郵件傳送或直接列印這些名稱和密碼。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-127">You can wait until you're done with the whole set before emailing or printing the names and passwords from the confirmation screen.</span></span>
 
 <a href="" id="userlicensing"></a>
 
-## <a name="add-or-remove-user-licenses-for-a-customer"></a><span data-ttu-id="89600-128">新增或移除客戶的使用者授權</span><span class="sxs-lookup"><span data-stu-id="89600-128">Add or remove user licenses for a customer</span></span>
+## <a name="add-or-remove-user-licenses-for-a-customer"></a><span data-ttu-id="cb2f9-128">新增或移除客戶的使用者授權</span><span class="sxs-lookup"><span data-stu-id="cb2f9-128">Add or remove user licenses for a customer</span></span>
 
-<span data-ttu-id="89600-129">下列步驟適用于新增或移除 Microsoft 產品的使用者授權。</span><span class="sxs-lookup"><span data-stu-id="89600-129">The following steps apply to adding or removing user licenses for Microsoft products.</span></span> <span data-ttu-id="89600-130">若要在商業 marketplace 中新增或移除以授權為基礎的 SaaS 訂用帳戶的使用者授權，請參閱[新增或移除 SaaS 訂閱的授權](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)。</span><span class="sxs-lookup"><span data-stu-id="89600-130">To add or remove user licenses for license-based SaaS subscriptions in the commercial marketplace, see [Add or remove licenses for a SaaS subscription](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).</span></span>
+<span data-ttu-id="cb2f9-129">下列步驟適用于新增或移除 Microsoft 產品的使用者授權。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-129">The following steps apply to adding or removing user licenses for Microsoft products.</span></span> <span data-ttu-id="cb2f9-130">若要在商業 marketplace 中新增或移除以授權為基礎的 SaaS 訂用帳戶的使用者授權，請參閱[新增或移除 SaaS 訂閱的授權](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-130">To add or remove user licenses for license-based SaaS subscriptions in the commercial marketplace, see [Add or remove licenses for a SaaS subscription](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).</span></span>
 
-1. <span data-ttu-id="89600-131">登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。</span><span class="sxs-lookup"><span data-stu-id="89600-131">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="cb2f9-131">登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-131">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-2. <span data-ttu-id="89600-132">從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="89600-132">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
+2. <span data-ttu-id="cb2f9-132">從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-132">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
 
-3. <span data-ttu-id="89600-133">在 \[客戶\] 功能表中選取 \[使用者和授權\]。</span><span class="sxs-lookup"><span data-stu-id="89600-133">In the customer menu, select **Users and licenses**.</span></span>
+3. <span data-ttu-id="cb2f9-133">在客戶功能表中，選取 [使用者與授權]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-133">In the customer menu, select **Users and licenses**.</span></span>
 
-4. <span data-ttu-id="89600-134">從清單中選擇一或多位使用者。</span><span class="sxs-lookup"><span data-stu-id="89600-134">Choose one or more users from the list.</span></span> <span data-ttu-id="89600-135">例如，如果客戶才剛剛購買新的授權，而您想要將它們指派給尚未擁有授權的人員，您可以使用 **\[依下列方式篩選使用者\]** 選項以尋找正確的群組。</span><span class="sxs-lookup"><span data-stu-id="89600-135">If, for example, the customer just purchased new licenses and you wanted to assign them to people who don't have them yet, you can use the **Filter users by...** option to find the right group.</span></span>
+4. <span data-ttu-id="cb2f9-134">從清單中選擇一或多位使用者。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-134">Choose one or more users from the list.</span></span> <span data-ttu-id="cb2f9-135">例如，如果客戶剛購買新的授權，而您想要將它們指派給尚未擁有的人員，您可以使用 [**篩選使用者依據**] 選項來尋找正確的群組。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-135">If, for example, the customer just purchased new licenses and you wanted to assign them to people who don't have them yet, you can use the **Filter users by...** option to find the right group.</span></span>
 
-5. <span data-ttu-id="89600-136">選取 **\[管理授權\]** 。</span><span class="sxs-lookup"><span data-stu-id="89600-136">Select **Manage licenses**.</span></span> <span data-ttu-id="89600-137">進行變更，然後 **\[儲存\]** 。</span><span class="sxs-lookup"><span data-stu-id="89600-137">Make your changes, then **Save**.</span></span>
+5. <span data-ttu-id="cb2f9-136">選取 [**管理授權**]。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-136">Select **Manage licenses**.</span></span> <span data-ttu-id="cb2f9-137">進行變更，然後 [**儲存**]。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-137">Make your changes, then **Save**.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="89600-138">針對[Azure Marketplace 產品](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)，授權指派和啟用是透過發行產品的獨立軟體廠商（ISV）來管理。</span><span class="sxs-lookup"><span data-stu-id="89600-138">For [Azure Marketplace products](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), license assignment and activation is managed through the Independent Software Vendor (ISV) who published the product.</span></span>
+> <span data-ttu-id="cb2f9-138">針對[Azure Marketplace 產品](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)，授權指派和啟用是透過發行產品的獨立軟體廠商（ISV）來管理。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-138">For [Azure Marketplace products](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer), license assignment and activation is managed through the Independent Software Vendor (ISV) who published the product.</span></span>
 
 <a href="" id="resetpassword"></a>
 
-## <a name="reset-a-users-password-for-a-customer"></a><span data-ttu-id="89600-139">為客戶重設使用者的密碼</span><span class="sxs-lookup"><span data-stu-id="89600-139">Reset a user's password for a customer</span></span>
+## <a name="reset-a-users-password-for-a-customer"></a><span data-ttu-id="cb2f9-139">為客戶重設使用者的密碼</span><span class="sxs-lookup"><span data-stu-id="cb2f9-139">Reset a user's password for a customer</span></span>
 
-1. <span data-ttu-id="89600-140">登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。</span><span class="sxs-lookup"><span data-stu-id="89600-140">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+1. <span data-ttu-id="cb2f9-140">登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-140">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
 
-2. <span data-ttu-id="89600-141">從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="89600-141">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
+2. <span data-ttu-id="cb2f9-141">從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-141">From the Partner Center menu, select **Customers**, then choose a customer from the list.</span></span>
 
-3.  <span data-ttu-id="89600-142">在 \[客戶\] 功能表中選取 \[使用者和授權\]。</span><span class="sxs-lookup"><span data-stu-id="89600-142">In the customer menu, select **Users and licenses**.</span></span> <span data-ttu-id="89600-143">從清單中選擇使用者。</span><span class="sxs-lookup"><span data-stu-id="89600-143">Choose the user from the list.</span></span>
+3.  <span data-ttu-id="cb2f9-142">在客戶功能表中，選取 [使用者與授權]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-142">In the customer menu, select **Users and licenses**.</span></span> <span data-ttu-id="cb2f9-143">從清單中選擇使用者。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-143">Choose the user from the list.</span></span>
 
-4.  <span data-ttu-id="89600-144">在螢幕最下方，選取 **\[重設密碼\]** 。</span><span class="sxs-lookup"><span data-stu-id="89600-144">At the bottom of the screen, select **Reset password**.</span></span> 
+4.  <span data-ttu-id="cb2f9-144">在畫面底部，選取 [**重設密碼**]。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-144">At the bottom of the screen, select **Reset password**.</span></span> 
 
-5.  <span data-ttu-id="89600-145">將新的暫時密碼傳送給使用者。</span><span class="sxs-lookup"><span data-stu-id="89600-145">Send the new temporary password to the user.</span></span>
+5.  <span data-ttu-id="cb2f9-145">將新的暫時密碼傳送給使用者。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-145">Send the new temporary password to the user.</span></span>
 
 <a href="" id="deleteuseraccounts"></a>
 
-## <a name="delete-user-accounts-for-a-customer"></a><span data-ttu-id="89600-146">為客戶刪除使用者帳戶</span><span class="sxs-lookup"><span data-stu-id="89600-146">Delete user accounts for a customer</span></span>
+## <a name="delete-user-accounts-for-a-customer"></a><span data-ttu-id="cb2f9-146">為客戶刪除使用者帳戶</span><span class="sxs-lookup"><span data-stu-id="cb2f9-146">Delete user accounts for a customer</span></span>
 
-1.  <span data-ttu-id="89600-147">從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]。</span><span class="sxs-lookup"><span data-stu-id="89600-147">From the **Partner Center** menu, select **Customers**.</span></span> <span data-ttu-id="89600-148">從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="89600-148">Choose the customer from the list.</span></span>
+1.  <span data-ttu-id="cb2f9-147">從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-147">From the **Partner Center** menu, select **Customers**.</span></span> <span data-ttu-id="cb2f9-148">從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-148">Choose the customer from the list.</span></span>
 
-2.  <span data-ttu-id="89600-149">在 \[客戶\] 功能表中選取 \[使用者和授權\]。</span><span class="sxs-lookup"><span data-stu-id="89600-149">In the customer menu, select **Users and licenses**.</span></span> <span data-ttu-id="89600-150">從清單中選擇使用者。</span><span class="sxs-lookup"><span data-stu-id="89600-150">Choose the user from the list.</span></span>
+2.  <span data-ttu-id="cb2f9-149">在客戶功能表中，選取 [使用者與授權]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-149">In the customer menu, select **Users and licenses**.</span></span> <span data-ttu-id="cb2f9-150">從清單中選擇使用者。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-150">Choose the user from the list.</span></span>
 
-3.  <span data-ttu-id="89600-151">在螢幕最下方，選取 \[刪除使用者帳戶\]。</span><span class="sxs-lookup"><span data-stu-id="89600-151">At the bottom of the screen, select **Delete user account**.</span></span>
+3.  <span data-ttu-id="cb2f9-151">在畫面底部，選取 [刪除使用者帳戶]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-151">At the bottom of the screen, select **Delete user account**.</span></span>
 
-<span data-ttu-id="89600-152">如果您需要還原此帳戶，您可以在 \[客戶\] 之 **\[使用者和授權\]** 清單的 **\[刪除的使用者\]** 索引標籤中找到該帳戶。</span><span class="sxs-lookup"><span data-stu-id="89600-152">If you need to restore this account, you can find it in the **Deleted users** tab of the Customer's **Users and licenses** list.</span></span> <span data-ttu-id="89600-153">您有 30 天的期限可以還原刪除的使用者。</span><span class="sxs-lookup"><span data-stu-id="89600-153">You have 30 days to restore a deleted user.</span></span>
+<span data-ttu-id="cb2f9-152">如果您需要還原此帳戶，您可以在 \[客戶\] 之 **\[使用者和授權\]** 清單的 **\[刪除的使用者\]** 索引標籤中找到該帳戶。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-152">If you need to restore this account, you can find it in the **Deleted users** tab of the Customer's **Users and licenses** list.</span></span> <span data-ttu-id="cb2f9-153">您有 30 天的期限可以還原刪除的使用者。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-153">You have 30 days to restore a deleted user.</span></span>
 
 <a href="" id="restoreuseraccounts"></a>
 
-## <a name="restore-deleted-user-accounts"></a><span data-ttu-id="89600-154">還原刪除的使用者帳戶</span><span class="sxs-lookup"><span data-stu-id="89600-154">Restore deleted user accounts</span></span>
+## <a name="restore-deleted-user-accounts"></a><span data-ttu-id="cb2f9-154">還原刪除的使用者帳戶</span><span class="sxs-lookup"><span data-stu-id="cb2f9-154">Restore deleted user accounts</span></span>
 
-1.  <span data-ttu-id="89600-155">從 [**合作夥伴中心**] 功能表選取 [**客戶**]，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="89600-155">From the **Partner Center** menu, select **Customers**, then choose the customer from the list.</span></span>
+1.  <span data-ttu-id="cb2f9-155">從 [**合作夥伴中心**] 功能表選取 [**客戶**]，然後從清單中選擇客戶。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-155">From the **Partner Center** menu, select **Customers**, then choose the customer from the list.</span></span>
 
-2.  <span data-ttu-id="89600-156">選取 \[使用者和授權\]。</span><span class="sxs-lookup"><span data-stu-id="89600-156">Select **Users and licenses**.</span></span>
+2.  <span data-ttu-id="cb2f9-156">選取 [**使用者和授權**]。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-156">Select **Users and licenses**.</span></span>
 
-3.  <span data-ttu-id="89600-157">選取 **\[刪除的使用者 ( )\]** 索引標籤，其中應該會顯示 **(1)** ，如果有多個可還原的已刪除使用者，則顯示更大的數字。</span><span class="sxs-lookup"><span data-stu-id="89600-157">Select the **Deleted users ( )** tab. It should read **(1)** or greater when there are deleted users that can be restored.</span></span>
+3.  <span data-ttu-id="cb2f9-157">選取 **\[刪除的使用者 ( )\]** 索引標籤，其中應該會顯示 **(1)**，如果有多個可還原的已刪除使用者，則顯示更大的數字。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-157">Select the **Deleted users ( )** tab. It should read **(1)** or greater when there are deleted users that can be restored.</span></span>
 
-4.  <span data-ttu-id="89600-158">選取一個或多個已刪除使用者的核取方塊，然後選取 **\[還原\]** 。</span><span class="sxs-lookup"><span data-stu-id="89600-158">Select one or more of the deleted users' checkboxes and then select **Restore**.</span></span>
+4.  <span data-ttu-id="cb2f9-158">選取一或多個 [已刪除的使用者] 核取方塊，然後選取 [**還原**]。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-158">Select one or more of the deleted users' checkboxes and then select **Restore**.</span></span>
 
-    <span data-ttu-id="89600-159">所有選取的使用者帳戶將會在 **\[使用者和授權\]** 頁面中再次出現。</span><span class="sxs-lookup"><span data-stu-id="89600-159">All selected user accounts will reappear in the **Users and licenses** page.</span></span>
+    <span data-ttu-id="cb2f9-159">所有選取的使用者帳戶都會重新出現在 [**使用者和授權**] 頁面中。</span><span class="sxs-lookup"><span data-stu-id="cb2f9-159">All selected user accounts will reappear in the **Users and licenses** page.</span></span>
 
-## <a name="related-topics"></a><span data-ttu-id="89600-160">相關主題</span><span class="sxs-lookup"><span data-stu-id="89600-160">Related topics</span></span>
+## <a name="related-topics"></a><span data-ttu-id="cb2f9-160">相關主題</span><span class="sxs-lookup"><span data-stu-id="cb2f9-160">Related topics</span></span>
 
 
-[<span data-ttu-id="89600-161">指派或撤銷多個使用者的授權</span><span class="sxs-lookup"><span data-stu-id="89600-161">Assign or revoke licenses to multiple users</span></span>](bulk-license-provisioning-for-multiple-users.md)
+[<span data-ttu-id="cb2f9-161">指派或撤銷多個使用者的授權</span><span class="sxs-lookup"><span data-stu-id="cb2f9-161">Assign or revoke licenses to multiple users</span></span>](bulk-license-provisioning-for-multiple-users.md)
 
-[<span data-ttu-id="89600-162">為客戶帳戶建立多個使用者</span><span class="sxs-lookup"><span data-stu-id="89600-162">Create multiple users for a customer account</span></span>](adding-multiple-users-to-a-customer-account.md)
+[<span data-ttu-id="cb2f9-162">為客戶帳戶建立多位使用者</span><span class="sxs-lookup"><span data-stu-id="cb2f9-162">Create multiple users for a customer account</span></span>](adding-multiple-users-to-a-customer-account.md)
