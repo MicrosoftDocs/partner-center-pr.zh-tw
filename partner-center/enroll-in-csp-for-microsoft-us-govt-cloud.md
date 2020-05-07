@@ -5,15 +5,15 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在您註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫之前，請先深入了解 CSP 計畫需求。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4d6215927f5c1c922f9c124d78a41694703cb0bf
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 9b9de82652543843b09dfdb00829c7911c20c572
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80389797"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798366"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
@@ -55,7 +55,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 1.  補上註冊表單上所有漏填的資訊，包括 Microsoft 合作夥伴網路識別碼和您組織的客戶支援詳細資料。 
 
-2.  選取 \[Accept and continue\] (接受並繼續)。 審查您的應用程式可能需要我們幾天的時間。 審查完成後，我們會通過電子郵件通知您。
+2.  選取 **\[接受並繼續\]**。 審查您的應用程式可能需要我們幾天的時間。 審查完成後，我們會通過電子郵件通知您。
 
     > [!IMPORTANT]  
     > 選取 **\[接受並繼續\]** 即表示您確定自己有權代表組織行事，且您同意允許 Microsoft 在審查您組織的雲端解決方案提供者計畫申請前，先進行背景信用查核。
@@ -65,7 +65,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 1. 使用申請核准電子郵件中所提供的連結，登入美國政府適用的 Microsoft Cloud 合作夥伴中心。 
 
-2. 在 **\[合約\]** 頁面上閱讀條款，同意後選取 **\[接受並繼續\]** ，以數位方式簽署[美國政府適用的 Microsoft Cloud 經銷商合約](https://go.microsoft.com/fwlink/p/?linkid=843364)。 建立帳戶可能需要數小時的時間。 登出美國政府適用的 Microsoft Cloud 雲端合作夥伴中心，稍後再登入。
+2. 在 **\[合約\]** 頁面上閱讀條款，同意後選取 **\[接受並繼續\]**，以數位方式簽署[美國政府適用的 Microsoft Cloud 經銷商合約](https://go.microsoft.com/fwlink/p/?linkid=843364)。 建立帳戶可能需要數小時的時間。 登出美國政府適用的 Microsoft Cloud 雲端合作夥伴中心，稍後再登入。
 
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>步驟 4 - 在 Microsoft Azure 管理入口網站中，為美國政府適用的 Microsoft Cloud 指派使用者為系統管理代理人角色
@@ -75,13 +75,13 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 > [!NOTE]  
 > 您將使用者指派給系統管理代理人角色之後，這些使用者就可以存取您在 **\[客戶\]** 頁面上的客戶清單，並[新增客戶](add-a-new-customer.md)。   
 
-1.  登入 Microsoft Azure 管理入口網站： https://portal.azure.us/。
+1.  登入 Microsoft Azure 管理入口網站：https://portal.azure.us/。
 
 2.  將系統管理代理人角色指派給組織中的適當使用者。 若要這樣做，您需要將這些使用者新增到內建的 **AdminAgent** 群組。 如需做法詳細資訊，請參閱[在 Azure Active Directory 中管理群組的成員](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)。
  
 ## <a name="connect-with-us"></a>與我們連絡
 
-- 有任何問題嗎？ 電子郵件請寄到 azgovcsp@microsoft.com
+- 有疑問嗎？ 電子郵件請寄到 azgovcsp@microsoft.com
 
 - 在 [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 上加入我們。 
 

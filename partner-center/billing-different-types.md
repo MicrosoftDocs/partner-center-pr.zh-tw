@@ -5,23 +5,23 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解您可能會在合作夥伴中心看到的不同計費類型、計費週期和計費日期。
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 keywords: 計費, 付款, 訂單, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a6d4db62b89ec33740cd5a70141cf5a64533dfc0
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390287"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798586"
 ---
 # <a name="types-of-billing-in-partner-center"></a>合作夥伴中心的帳單類型
 
 **適用於**
 
-- 夥伴中心
+- 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**

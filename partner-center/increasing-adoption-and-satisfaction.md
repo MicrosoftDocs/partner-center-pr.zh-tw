@@ -6,21 +6,21 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何使用合作夥伴中心內的計量來查看您的業務是否成長、客戶如何使用其授權，以及要將投資放在何處。
 ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
-author: jasonwhowell
-ms.author: jasonh
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 4dcf203748834be1dcadc6026d2bc6193e86c5a1
-ms.sourcegitcommit: 5dcf8cefd2c4731c6a80e57c65b43521d7c37b6d
+ms.openlocfilehash: 978913d5eb029e2029e7238535f8d79de39e7155
+ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "80390937"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "82798916"
 ---
 # <a name="increase-adoption-and-satisfaction"></a>提高採用率與滿意度
 
 **適用於**
 
--  夥伴中心
+-  合作夥伴中心
 
 **適當的角色**
 -   全域系統管理員
@@ -38,16 +38,16 @@ ms.locfileid: "80390937"
 ## <a name="find-license-and-user-data"></a>尋找授權和使用者資料
 
 
-**適用于單一客戶**
+**單一客戶**
 
 -   從**合作夥伴中心**選取 [**客戶**]，選擇客戶，然後選取 [ **customer insights**]。
 
-**跨您的組合**
+**涵蓋您的客戶組合**
 
 1.  在**合作夥伴中心**上，選取 [**分析**]。
-2.  選取 **\[匯出\]** 來下載整個客戶集的部署與使用量資料
+2.  選取**匯出**選項，以在整個客戶集合中下載部署和使用方式資料。
 
-詞彙︰
+術語：
 
 -   **權利：** 客戶有資格使用的授權 (未因詐騙或未付款遭暫停、未升級為其他授權、使用者未將其取消等等)。
 
@@ -57,7 +57,7 @@ ms.locfileid: "80390937"
 
 -   **使用量 %** = 作用中的權益/總權益
 
-    有時使用量 % 會比實際多，或大於 100%。 造成此結果的可能原因如下：
+    有時使用量 % 會比實際多，或大於 100%。 此狀況有幾個可能原因：
 
     -   客戶有員工流動，因此受權移轉給新的使用者。
 
@@ -78,14 +78,14 @@ ms.locfileid: "80390937"
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p><strong>問題：</strong>使用者採用率很低，而且許多授權&#39;不會被使用。</p>
+<td><p><strong>問題：</strong>使用者採用率很低，而許多授權並不&#39;使用。</p>
 <p><strong>考量事項：</strong>客戶可能不了解軟體可提供的價值。 他們需要協助構思他們可以將其納入一天的方式，以簡化他們已經在執行的工作，或實現新的產能。</p>
 <p><strong>嘗試事項：</strong>案例研究、與特定案例有關的使用者見證、教學課程的部落格或影片。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>問題：</strong>有大量支援電話要求取得說明和使用方法。</p>
 <p><strong>考慮事項：</strong>客戶可能是軟體、該產品版本或其從事之工作的新手。</p>
-<p><strong>應嘗試的動作：</strong>您可以使用一套雙重策略來提供訓練（親自或線上）來提高客戶&#39;的整體專長，同時也能推廣一些可供客戶使用的自助選項。</p>
+<p><strong>應嘗試的動作：</strong>您可以使用一套雙重策略來訓練（親自或線上）以提高客戶&#39;的整體專長，同時也將一些可供客戶使用的自助選項推廣。</p>
 <p>您可能會想要重新設計您的支援網站，使其中除了包含您的支援連絡資訊外，也包含<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客戶自我支援</a>主題中所述的自助服務選項。</p></td>
 </tr>
 </tbody>
