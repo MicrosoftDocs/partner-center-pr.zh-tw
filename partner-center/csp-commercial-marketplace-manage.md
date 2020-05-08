@@ -1,26 +1,27 @@
 ---
-title: 為您的客戶管理商用 marketplace 產品或供應專案 |合作夥伴中心
+title: 管理 marketplace 產品 & 優惠
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 使用合作夥伴中心，瞭解雲端解決方案提供者如何管理為來自商用 marketplace 的客戶購買的不同協力廠商 ISV 優惠。
-author: MicheleHope
-ms.author: v-mihope
+description: 使用合作夥伴中心，瞭解雲端解決方案提供者如何管理購買自商業 marketplace 客戶的協力廠商 ISV 優惠。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 訂用帳戶，Marketplace，協力廠商，ISV，SaaS 優惠，雲端解決方案提供者方案，管理供應專案，管理訂用帳戶，授權，取消訂用帳戶，基座，關閉自動續訂，間接轉售商 MPN 識別碼
 ms.localizationpriority: medium
-ms.openlocfilehash: 7dbcc978340240175d2c03a5ba1e9312b48d7bdc
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114950"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908106"
 ---
-# <a name="manage-commercial-marketplace-products-for-your-customers"></a>為您的客戶管理商業 marketplace 產品
+# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>為您的客戶管理商業 marketplace 產品和優惠
 
 **適用於**
 
-- 夥伴中心
+- 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
@@ -57,7 +58,7 @@ ms.locfileid: "80114950"
 
 ## <a name="assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer"></a>指派授權並代表客戶啟動訂用帳戶
 
-當您購買商業 marketplace 中的獨立軟體廠商（ISV）發行者所提供的「軟體即服務」（SaaS）供應專案時，ISV 發行者會協助管理指派授權的程式，並代表您的「啟用」訂用帳戶顧客.
+當您購買商業 marketplace 中的獨立軟體廠商（ISV）發行者所提供的「軟體即服務」（SaaS）供應專案時，ISV 發行者會協助管理指派授權及代表您的客戶啟用訂閱的程式。
 
 發行者應該提供個人化的連結，以及識別您特定購買的授權碼。
 
@@ -85,7 +86,7 @@ ms.locfileid: "80114950"
 
 ## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>從 ISV 發行者取消以授權為基礎的 SaaS 訂用帳戶
 
-當您訂閱商業 marketplace 中 ISV 發行者所提供的授權型 SaaS 產品時，您可以選擇在其指定的取消期間內取消訂用帳戶。 此取消期間會根據您是否有每月或年度訂閱而變更。 您也可以選擇是否要自動更新訂用帳戶。
+當您訂閱商業 marketplace 中 ISV 發行者所提供的授權型 SaaS 產品時，您可以選擇在其指定的取消期間內取消訂用帳戶。 此取消期間會根據您是否有每月或年度訂閱而變更。 您也可以選擇是否要自動更新訂閱。
 
 如需有關取消期間、如何取消或如何自動更新訂閱的詳細資訊，請參閱：
 

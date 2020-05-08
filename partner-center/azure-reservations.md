@@ -1,23 +1,23 @@
 ---
-title: 合作夥伴中心-Microsoft Azure 保留總覽 |合作夥伴中心
+title: 銷售客戶 Microsoft Azure 保留
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解雲端解決方案提供者可以如何為使用合作夥伴中心、Azure 入口網站或合作夥伴中心 API 的客戶購買、銷售或管理 Azure 保留。
+Description: 身為雲端解決方案提供者，您可以購買、銷售或管理客戶的 Azure 保留專案。 使用合作夥伴中心、Azure 入口網站或合作夥伴中心 API。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 保留區, 管理, 帳單, 購買, Azure RI, Azure 保留的執行個體
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: eb103e3e3255dd899e72a6dc8496415c50438cbf
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 19c156f0b47ccb39bc678cdd2ae9cce9db5c5ebd
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205726"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908293"
 ---
-# <a name="partner-center---sell-microsoft-azure-reservations"></a>合作夥伴中心 - 銷售 Microsoft Azure 保留
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>使用合作夥伴中心、Azure 入口網站或 Api，為客戶銷售 Microsoft Azure 預約
 
 <!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 

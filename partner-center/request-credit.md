@@ -1,22 +1,23 @@
 ---
-title: 向 Microsoft 要求 SLA 信用額度 |合作夥伴中心
+title: 向 Microsoft 要求 SLA 信用額度
 ms.topic: article
-ms.date: 11/21/2019
-description: 如果您的客戶遇到服務中斷，請瞭解從 Microsoft 要求 SLA 信用額度的優點、限制和程式。
+ms.date: 04/28/2020
+description: 如果您的客戶遇到服務中斷，請瞭解從 Microsoft 要求服務等級協定（SLA）點數的優點、限制和程式。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bcc094b877d0128c73041044ce6304123d895fdb
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 328051d69f2dfd869cca8c80de595b2e27c9a1af
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943141"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907873"
 ---
-# <a name="request-an-sla-credit-from-microsoft"></a>向 Microsoft 要求 SLA 信用額度 
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>如何及何時向 Microsoft 要求服務等級協定（SLA）信用額度
 
 如果您為客戶提供的服務發生中斷，您就能夠向 Microsoft 要求**服務等級協定（SLA）的信用額度**。
 
@@ -47,7 +48,7 @@ Microsoft 的 SLA 信用額度取決於哪些服務受到影響。 例如，如�
 | EX | Exchange Online |
 | FO | Exchange Online 保護 |
 | SB | 商務用 Skype Online （先前稱為 Lync Online） |
-| 作業系統 | Office 訂閱 |
+| OS | Office 訂閱 |
 | PB | Power BI for Office 365 |
 | SP | SharePoint Online |
 | YA | Yammer Enterprise |
@@ -61,6 +62,6 @@ Microsoft 的 SLA 信用額度取決於哪些服務受到影響。 例如，如�
 2. 在左側功能表中，選擇 [**服務要求**]，然後選取 [**合作夥伴支援要求**]。
 3. 在 [**合作夥伴要求**] 頁面上，選擇 [**新增要求**]。
 4. 在 [**啟動要求**] 頁面上，尋找**CSP-customers、orders 和訂閱**一節。 在本節中，選擇 [**選取問題類型**]，然後選取 [**客戶服務] [信用要求**]。
-5. 在 [**建議的解決方案**] 頁面的 [**您需要其他協助嗎？** ] 底下，選擇 [**是]** 。
+5. 在 [**建議的解決方案**] 頁面的 [**您需要其他協助嗎？**] 底下，選擇 [**是]**。
 6. 在 [**詳細資料**] 頁面上，填寫 [**問題詳細資料**] 區段。 在 [**詳細資料**] 文字方塊中，請務必輸入您稍早收集的[必要資訊](#required-information)。
 7. 選擇 [**提交**] 以傳送您的 SLA 信用額度要求。

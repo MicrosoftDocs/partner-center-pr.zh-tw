@@ -1,7 +1,7 @@
 ---
-title: 應用程式開發專長認證的一次性測驗需求豁免 |合作夥伴中心
+title: 應用程式開發專長認證測驗豁免
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 針對具有先前 ISV 專長認證的合作夥伴，瞭解如何取得應用程式開發專長認證的一次性測驗需求豁免
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 專長認證，ISV，應用程式開發
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6346231baffa65270c0a3f5de261628271e620
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722344"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907478"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>應用程式開發專長認證的一次性測驗需求豁免
 
@@ -41,14 +42,14 @@ ms.locfileid: "74722344"
 
 ## <a name="how-to-take-advantage-of-your-offer"></a>如何利用您的供應專案
 
-1. 從儀表板上的 [合作夥伴中心] 功能表中 **，選取 [** 專長認證]。
+1. 從儀表板上的 [合作夥伴中心] 功能表中，選取 [專長認證]  。
 2. 在可用的職稱清單中，應用程式開發已標示為**完成**。
 
-![isv 至 appdev](images/appdev.png)
+![ISV 至 appdev](images/appdev.png)
 
 3. 選取 [**應用程式開發**]。 您會看到一則通知，指出您已提供豁免公司的覆寫，使其無法符合測驗需求。 
 
-4. 若要利用這項供應專案，請移至**成員資格優惠**。 您可能需要支付專長認證費用，才能完成此程式，視您的專長認證購買或續約狀態而定。 
+4. 若要利用此供應項目，請前往 [成員資格供應項目]  . 您可能需要支付專長認證費用，才能完成此程式，視您的專長認證購買或續約狀態而定。 
 
 此供應專案可透過合作夥伴中心取得。
 

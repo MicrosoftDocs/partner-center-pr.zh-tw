@@ -1,20 +1,21 @@
 ---
-title: 為您的客戶購買商用 marketplace 產品或優惠 |合作夥伴中心
+title: 購買商用 marketplace 優惠
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 CSP 方案合作夥伴如何使用合作夥伴中心 marketplace，讓客戶能夠從獨立軟體廠商（Isv）購買 SaaS 優惠。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: 訂用帳戶，marketplace，商業 marketplace，協力廠商，ISV，SaaS 優惠，雲端解決方案提供者方案，購買供應專案，購買訂閱
 ms.localizationpriority: medium
-ms.openlocfilehash: 3dd3facf79e0e33a6dfc35a162c444a13a19b256
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c740ae823670644cb1f81c0a667d1fb48fc873ae
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253796"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908085"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>在合作夥伴中心為您的客戶購買商用 marketplace 產品
 
@@ -43,9 +44,9 @@ ms.locfileid: "74253796"
 您也可以使用[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/) 來為您的客戶建立商業市集訂用帳戶。 （如需使用合作夥伴中心 Api 的詳細資訊，請參閱[建立商業 marketplace 產品的訂](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products)用帳戶）。
 
 >[!IMPORTANT]
-> 身為 CSP 計畫的合作夥伴，您只能從合作夥伴中心內的 ISV 發行者購買以**授權為基礎**的 SaaS 訂閱。 這表示您可以購買 ISV 發行者已提供給您的任何**授權型**SaaS 供應專案，包括您有權存取的[專屬優惠](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)。 若要向 Isv 購買或管理其他的商用 marketplace 供應專案（例如，以**使用量為基礎**、計量付費或以耗用量為基礎的優惠，涉及 Azure 應用程式、容器或 vm），您必須移至[azure 管理入口網站](https://portal.azure.com/)。 如需詳細資訊，請參閱下列主題。
+> 身為 CSP 計畫的合作夥伴，您只能從合作夥伴中心內的 ISV 發行者購買以**授權為基礎**的 SaaS 訂閱。 這表示您可以購買 ISV 發行者已提供給您的任何**授權型**SaaS 供應專案，包括您有權存取的[專屬優惠](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)。 若要向 Isv 購買或管理其他的商用 marketplace 供應專案（例如，以**使用量為基礎**、計量付費或以耗用量為基礎的優惠，涉及 Azure 應用程式、容器或 vm），您必須移至[Azure 入口網站](https://portal.azure.com/)。 如需詳細資訊，請參閱下列主題。
 
-## <a name="purchase-usage-based-subscriptions-in-the-azure-management-portal"></a>在 Azure 管理入口網站中購買以使用量為基礎的訂用帳戶
+## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>購買 Azure 入口網站中以使用方式為基礎的訂用帳戶
 
 相較于協力廠商 ISV 發行者的授權型 SaaS 訂用帳戶，以使用方式為基礎的訂用帳戶會先要求客戶擁有 Azure 訂用帳戶。 以使用方式為基礎的資源會在客戶的 Azure 訂用帳戶下計費，適用于商業 marketplace。 一旦您的客戶擁有 Azure 訂用帳戶，CSP 方案中的合作夥伴就可以依照下列步驟，為他們購買商業 marketplace 訂用帳戶：
 

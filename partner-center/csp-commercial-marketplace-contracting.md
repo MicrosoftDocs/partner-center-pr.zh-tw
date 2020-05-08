@@ -1,22 +1,23 @@
 ---
-title: 使用商用 marketplace 的雲端解決方案提供者合約 |合作夥伴中心
+title: 商用 marketplace 的 CSP 合約
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解商業 marketplace 中 CSP 合作夥伴所購買之協力廠商 ISV 產品的訂閱條款、條件和合約。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: 訂閱，Marketplace，協力廠商，ISV，CSP 合作夥伴計畫，合約，銷售，購買，
 ms.localizationpriority: medium
-ms.openlocfilehash: 8dd58869df2ced14fa3a05ea3bc7b0f6e96c54d5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253776"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908131"
 ---
-# <a name="contracts-associated-with-csp-partner-activities-in-the-commercial-marketplace"></a>在商業 marketplace 中與 CSP 合作夥伴活動相關聯的合約
+# <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>在商業 marketplace 中進行業務的 CSP 合作夥伴合約
 
 **適用於**
 
@@ -49,5 +50,5 @@ Microsoft 不接受在交易合作物件之間傳遞服務的法律責任，且�
 
 ## <a name="see-also"></a>另請參閱
 
-- [商業 marketplace 產品的支援](csp-commercial-marketplace-support.md)
+- [商業市集產品的支援](csp-commercial-marketplace-support.md)
 - [CSP 商業 marketplace 活動的總覽](csp-commercial-marketplace-overview.md)

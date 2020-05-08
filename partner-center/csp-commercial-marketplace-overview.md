@@ -1,22 +1,23 @@
 ---
-title: 雲端解決方案提供者的商業 marketplace 總覽 |合作夥伴中心
+title: 總覽-CSP marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作夥伴中心，瞭解如何向 marketplace 中的獨立軟體廠商（Isv）銷售軟體即服務（SaaS）提供的客戶訂用帳戶。
-author: MicheleHope
-ms.author: v-mihope
+description: 瞭解如何向 marketplace 中的獨立軟體廠商（Isv）銷售軟體即服務（SaaS）提供的客戶訂用帳戶。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 訂用帳戶，Marketplace，協力廠商，ISV，SaaS，授權
 ms.localizationpriority: medium
-ms.openlocfilehash: ee1b32028cb24e20675aa0520837af0c1c72b8a5
-ms.sourcegitcommit: 524d3121e5053a74911e2fd4e9cf5aab14f6b48d
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "74253786"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908088"
 ---
-# <a name="commercial-marketplace-overview"></a>商業 marketplace 總覽
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作夥伴中心的商業市場總覽
 
 **適用於**
 
@@ -37,11 +38,11 @@ ms.locfileid: "74253786"
 
 如果您是 CSP 計畫的合作夥伴，您可能會想要在 ISV 供應專案方面執行許多商業 marketplace 活動。 若要深入瞭解每個活動，請參閱下表。
 
-|**如果您想要**  |**閱讀文章**   |
+|**如果您想要**  |**讀取**   |
 |:------------------------------------|:------------------|
 |瞭解如何查看或搜尋可用的供應專案、定價、產品詳細資料或發行者連絡人資訊 | [探索優惠](csp-commercial-marketplace-discover.md) | 
 |瞭解如何購買及部署供應專案   | [購買優惠](csp-commercial-marketplace-purchase.md)   | 
-|瞭解如何取消或更新訂用帳戶，或新增或移除基座  | [管理供應專案](csp-commercial-marketplace-manage.md) |
+|瞭解如何取消或更新訂用帳戶，或新增或移除基座  | [管理供應項目](csp-commercial-marketplace-manage.md) |
 |瞭解商業 marketplace 購買的計費方式 | [瞭解帳單](csp-commercial-marketplace-billing.md) |
 |瞭解誰負責哪些類型的 ISV 購買支援 | [瞭解支援](csp-commercial-marketplace-support.md) |
 |瞭解在商業 marketplace 中 CSP 合作夥伴和 Isv 的合約和責任 | [瞭解簽約](csp-commercial-marketplace-contracting.md) |
@@ -55,7 +56,7 @@ ms.locfileid: "74253786"
 
 - [Microsoft Azure 管理入口網站](https://portal.azure.com/)
 
-    或
+    Or
 
 - 協力廠商 ISV 發行者的系統或網站
 

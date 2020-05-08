@@ -1,21 +1,22 @@
 ---
-title: 常見帳單案例 | 合作夥伴中心
+title: 年度計費-常見案例
 ms.topic: article
-ms.date: 11/25/2019
-description: 請參閱合作夥伴中心年度計費-新增訂閱時，在計費日期之前新增授權、變更授權數量、暫停/重新開機訂閱。
+ms.date: 05/05/2020
+description: 合作夥伴中心年度計費-當您新增訂閱時，請在計費日期、變更授權數量或暫停/重新開機訂閱之前新增授權。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 帳單，付款，訂單，使用量，以授權為基礎的帳單，週年日，期，取消，續約，價格公式，對帳檔案，偵察檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: cbe34dd96c1b119293b73f9324e50340aafb4032
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9a0fe9a8bfc381be00bba765c74874ea552d7482
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798546"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908210"
 ---
-# <a name="annual-billing-scenarios"></a>年度計費案例
+# <a name="common-annual-billing-scenarios-in-partner-center"></a>合作夥伴中心的一般年度計費案例
 
 **適當的角色**
 

@@ -1,26 +1,26 @@
 ---
-title: 為客戶提供 Microsoft 產品試用 | 合作夥伴中心
+title: 提供客戶 Microsoft 產品試用
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 您的客戶可以試用 Microsoft 訂閱產品 30 天。 如同其他許多線上服務，在目錄中註冊這些試用版。
-author: brentserbus
-ms.author: brserbus
+description: 讓客戶試用 Microsoft 訂用帳戶產品30天。 在目錄中註冊這些免費試用，就像其他許多線上服務一樣。
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6775656c53eed787d94e1b87924426f998b1adbe
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 66ea888a8efa9b44ea98b36c4341ba88f9bd1f4c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80112457"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907355"
 ---
-# <a name="offer-your-customers-trials-of-microsoft-products"></a>為客戶提供 Microsoft 產品試用
+# <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>提供客戶30天免費試用版的 Microsoft 產品
 
 **適用於**
 
-- 夥伴中心
+- 合作夥伴中心
 
 **適當的角色**
 -   全域系統管理員 
@@ -33,20 +33,20 @@ ms.locfileid: "80112457"
 
 您可以在 [**客戶**] 頁面上找到所有未完成的試用版供應專案。 此頁面會列出所有訂閱，包括免費試用版和付費訂閱。 （這項功能目前不適用於中國）。
 
-每位客戶都有權取得每個供應專案的免費試用版。 例如：針對 Office 365 商務進階版取得一個免費試用版本，以及針對 Office 365 E3 取得另一個免費試用版本。 不過，如果客戶已擁有該供應專案，他們就無法使用該供應專案的免費試用版。
+每位客戶都有權取得每個供應專案的免費試用版。 例如，他們可以取得 Microsoft 365 商務版 Standard 的免費試用版，以及一個 Office 365 E3 免費試用版。 不過，如果客戶已擁有該供應專案，他們就無法使用該供應專案的免費試用版。
 
 ### <a name="available-products"></a>可用的產品
 
 下列產品提供免費試用版本：
 
-- Office 365 商務進階版
+- Microsoft 365 商務版標準
 - Office 365 E3
 - 具有 PSTN 的 Office 365 E5
 - 沒有 PSTN 的 Office 365 E5
 - Enterprise Mobility & Security E5
 - Dynamics 365 Customer Engagement Plan 1
 - Dynamics 365 Business Central
-- Microsoft 365 商務版
+- Microsoft 365 商務版 Premium
 
 我們提供這些產品的免費試用，是因為它們是最全方位也最熱門的商務用供應項目。 未來可能會增加其他免費試用供應項目。
 
@@ -63,8 +63,8 @@ ms.locfileid: "80112457"
 若要透過合作夥伴中心將您的客戶註冊試用版：
 
 1. 從「合作夥伴中心」的「**銷售**」移至「**目錄**」。 
-2. 在類別目錄的 **\[帳單週期\]** 中，按一下 **\[試用優惠\]** 。 這樣就只允許免費試用出現，並停用其他非免費的優惠。 試用項目將會顯示在類別目錄的 **\[試用\]** 索引標籤中。
-3. 選取您想要提供的免費試用，然後選取 **\[提交\]** 。 所有試用都是 30 天，此期間不會向您收費。 您也可以隨時在試用期間將其轉換為付費訂閱。
+2. 在類別目錄的 **\[帳單週期\]** 中，按一下 **\[試用優惠\]**。 這樣就只允許免費試用出現，並停用其他非免費的優惠。 試用項目將會顯示在類別目錄的 **\[試用\]** 索引標籤中。
+3. 選取您想要提供的免費試用，然後選取 **\[提交\]**。 所有試用都是 30 天，此期間不會向您收費。 您也可以隨時在試用期間將其轉換為付費訂閱。
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>將試用版轉換為付費訂閱
 
@@ -80,8 +80,8 @@ ms.locfileid: "80112457"
 您可以使用合作夥伴中心儀表板將試用版轉換成付費訂閱，如下所示：
 
 1. 移至客戶訂閱頁面，並選取免費試用。
-2. 選取 **\[將試用版轉換成付費訂閱\]** 。
-3. 輸入您想要的授權數量與帳單週期，然後選取 **\[套用\]** 。
+2. 選取 **\[將試用版轉換成付費訂閱\]**。
+3. 輸入您想要的授權數量與帳單週期，然後選取 **\[套用\]**。
 4. 付費訂閱會從轉換日期開始計費，並將在轉換日期起算 12 個月後自動續約訂閱。 
 
 ### <a name="convert-trials-using-apis"></a>使用 Api 轉換試用版
@@ -97,10 +97,10 @@ ms.locfileid: "80112457"
 
 |**試用**   |**相容的小型企業提供**   |**相容的企業提供**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Microsoft 小組商業雲端（使用者起始）試用版   |Business Essentials、Business Premium、M365 Business   | F3 （先前為 F1）、Office 365 for Enterprise （E1、E3 和 E5）、M365 F1/F3、M365 Enterprise （E3）   |
+|Microsoft 小組商業雲端（使用者起始）試用版   |Microsoft 365 商務版 Basic、Microsoft 365 商務版 Standard、Microsoft 365 商務版 Premium   | F3 （先前為 F1）、Office 365 for Enterprise （E1、E3 和 E5）、M365 F1/F3、M365 Enterprise （E3）   |
 
->[!Note] 
->以上的供應專案具有類似功能的類似服務方案，但供應專案之間可能會有一些差異。 
+>[!NOTE]
+>以上的供應專案具有類似功能的類似服務方案，但供應專案之間可能會有一些差異。
 
 ### <a name="expiring-offers"></a>即將到期的優惠
 
@@ -108,7 +108,7 @@ ms.locfileid: "80112457"
 
 試用期到期後，嘗試登入該試用版的客戶會看到到期訊息。 不過，資料會以資料保留標準來儲存。 當您使用相同的服務方案購買新的訂用帳戶之後，就可以從新啟動的訂用帳戶再次存取您的客戶資訊。
 
-## <a name="billing"></a>帳務
+## <a name="billing"></a>計費
 
 年度計費和免費試用版在主權雲端和公用雲端中都相同。 唯一的差異在於啟動時可用的試用 Sku。
 

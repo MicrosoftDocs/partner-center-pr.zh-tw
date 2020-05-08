@@ -1,7 +1,7 @@
 ---
-title: 透過雲端解決方案提供者銷售內部部署軟體 | 合作夥伴中心
+title: 透過雲端解決方案提供者銷售內部部署軟體
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 CSP 方案中的合作夥伴如何代表合作夥伴中心的客戶購買、管理、銷售和取消內部部署軟體訂閱。
@@ -10,14 +10,15 @@ ms.author: labrenne
 keywords: Cloud Solution Provider, CSP, Cloud-based services, Azure, Office 365, Dynamics, CSP partner, sell in CSP, direct partner, direct CSP partner, indirect CSP reseller, direct CSP, indirect CSP, direct model, indirect model, indirect reseller, indirect provider, provider, distributor, cloud solution provider program, 雲端解決方案提供者, 雲端式服務, 雲端解決方案提供者合作夥伴, 過雲端解決方案提供者銷售, 直接合作夥伴, 間接雲端解決方案提供者合作夥伴, 間接雲端解決方案提供者經銷商, 直接雲端解決方案提供者, 間接雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 散發者, 雲端解決方案提供者計畫
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: b8d064a3e2f2d8d0a24dcd6a47b75746acbe6656
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b808397f21aa912284be9ad8b4df1dc4f642fe55
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798436"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908035"
 ---
-# <a name="sell-on-premise-software-through-csp"></a>透過雲端解決方案提供者銷售內部部署軟體
+# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>透過雲端解決方案提供者（CSP）方案銷售內部部署軟體
 
 **適當的角色**
 

@@ -1,7 +1,7 @@
 ---
-title: 加密-挖掘活動的合作夥伴中心通知 |合作夥伴中心
+title: 加密-挖掘活動的通知
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解當您看到一或多個 Azure 訂用帳戶上可能的加密貨幣挖掘（或加密編譯）的相關通知時，所代表的意義。
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: 加密-挖掘，加密貨幣的挖掘，安全性
 robots: noindex, nofollow
 ms.localizationpriority: medium
-ms.openlocfilehash: 35cdb08c2c673e2c7bd0e8ebb8e22f5671eef186
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 68ee138b6c87dde53eda026d7fef371e2e440344
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722309"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908390"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密貨幣挖掘活動的合作夥伴中心通知
 
@@ -54,13 +55,13 @@ ms.locfileid: "74722309"
 如果您有任何關於此通知的問題或疑慮，您可以使用下列程序開啟支援要求。
 
 1.  在 [合作夥伴中心] 中，選取 [**支援**]，然後選取 [**合作夥伴中心要求**]。
-3.  選取 **\[新要求\]** 。 
-4.  在 **\[問題類型\]** 下拉式功能表中，選取 **\[新增或管理客戶\]** 。
-5.  在 **\[影響\]** 下拉式功能表中，選取 **\[中\]** 。
+3.  選取 [**新增要求**]。 
+4.  在 **\[問題類型\]** 下拉式功能表中，選取 **\[新增或管理客戶\]**。
+5.  在 **\[影響\]** 下拉式功能表中，選取 **\[中\]**。
 6.  在 **\[標題\]** 欄位中，輸入**加密貨幣採礦通知**。
 7.  在 **\[描述\]** 欄位中，輸入受影響訂閱的名稱以及其他問題或疑慮。 
 8.  輸入您的連絡人資訊。
-9.  選取 **\[提交\]** 。
+9.  選取 [提交]  。
 
 
 

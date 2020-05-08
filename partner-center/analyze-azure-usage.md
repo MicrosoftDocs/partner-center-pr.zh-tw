@@ -1,6 +1,6 @@
 ---
-title: 分析 Azure 使用狀況 | 合作夥伴中心
-ms.date: 11/13/2019
+title: 分析 Azure 使用量以協助拓展您的業務
+ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何使用合作夥伴中心來取得客戶 Azure 訂用帳戶使用方式的相關資料。
@@ -10,15 +10,15 @@ ms.assetid: E7081190-C1FA-47C1-963B-6EBA1B33703B
 ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 096996b4ebc6953125e41b80ecd0e991d0bdec86
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1a73dd6aa47b60befa62f55f37910de4f20f78b8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722393"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907436"
 ---
-# <a name="get-data-about-the-usage-of-your-customers-azure-subscriptions"></a>取得您客戶 Azure 訂閱使用狀況的相關資料
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>取得您的客戶和 Azure 訂用帳戶的運作狀況資料
 
 **適用於**
 

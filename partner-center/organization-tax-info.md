@@ -1,22 +1,22 @@
 ---
-title: 組織稅務資訊 | 合作夥伴中心
+title: 為商業稅金新增或提交 加值稅 ID
 ms.topic: article
-ms.date: 11/07/2019
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 合作夥伴中心購買項目的稅金將由您的公司地址決定。 某些國家/地區的企業可以提供他們的加值稅 (VAT) 編號或當地的對等項目。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 61ed931a33d0eec9cb2858a3cf653e69610c2b8f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOAPR.20
+ms.openlocfilehash: e0c5e2dab3a4316a6ee888c73a64c7894bdf1baf
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005027"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907323"
 ---
-# <a name="company-tax-information"></a>公司稅務資訊
+# <a name="company-tax-information-and-how-to-add-or-submit-vat-ids-for-partner-center-purchases"></a>公司稅務資訊，以及如何新增或提交適用于合作夥伴中心購買的 加值稅 Id
 
 **適用於**
 
@@ -25,7 +25,7 @@ ms.locfileid: "75005027"
 **適當的角色**
 -   全域系統管理員
 -   使用者系統管理員
--   帳單管理
+-   帳單系統管理員
 -   系統管理代理人
 -   銷售代理人
 
@@ -36,7 +36,7 @@ ms.locfileid: "75005027"
 您必須是全域管理員、計費管理員或管理代理程式，才能編輯帳單設定檔。
 
 1.  在**合作夥伴中心儀表板**中，移至 [**設定**]，然後選取 [**帳單設定檔**]。
-2.  在 \[財務資料\] 區段中，選取 \[更新\]。
+2.  在 \[財務資料\]**** 區段中，選取 \[更新\]****。
 3.  在 [**公司稅務識別碼**] 欄位中，輸入您的 加值稅 id 號碼。
 
 ## <a name="submit-vat-id-number"></a>提交 加值稅 ID 號碼

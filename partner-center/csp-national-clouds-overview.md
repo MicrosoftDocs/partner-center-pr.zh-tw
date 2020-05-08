@@ -1,7 +1,7 @@
 ---
-title: 適用於在 Microsoft 國內雲銷售 |合作夥伴中心
+title: 適用於在 Microsoft 國内雲銷售
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解雲端解決方案提供者方案中的 Microsoft 合作夥伴如何向已在支援的國家雲端中註冊的客戶銷售。
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 國內雲, Microsoft Cloud 德國, 美國政府適用的 Microsoft Cloud, 21Vianet, Microsoft Cloud 中國
 ms.localizationpriority: medium
-ms.openlocfilehash: 37ff013b7c7e1bc000e3245df9c1480c6fea44af
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798456"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908066"
 ---
-# <a name="apply-to-sell-in-microsoft-national-clouds"></a>適用於在 Microsoft 國内雲銷售
+# <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>申請在 Microsoft 國家雲端銷售作為 CSP 計畫的一部分
 
 除了可對屬於全球雲端解決方案提供者計畫的客戶進行銷售，合格的 Microsoft 合作夥伴也能對以下三種不同的國內雲客戶進行銷售。 國內雲是 Microsoft 企業雲端服務的實體和邏輯網路隔離的執行個體，局限在特定國家/地區的地理邊界內，並由當地人員操作。 
 
@@ -36,7 +37,7 @@ Microsoft 在國內雲提供這些服務：
 
     如需如何註冊美國政府適用的 Microsoft Cloud 以及向美國政府適用的 Microsoft Cloud 客戶銷售的相關資訊，請參閱[美國政府適用的 Microsoft Cloud 合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)。
 
--   [**Microsoft Cloud 德國**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany)：Microsoft Cloud 德國透過獨特的模型，從德國資料中心提供 Azure、Office 365 和 Dynamics 365。 在此模型中，對客戶資料的存取權由獨立的德國資料託管機關根據德國法律進行控管。 T-Systems International GmbH 是 Deutsche Telecom 的子公司，也是 Microsoft Cloud 德國的獨立資料託管機關。 
+-   [**Microsoft Cloud 德國**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany)：Microsoft Cloud 德國透過獨特的模型，從德國資料中心提供 Azure、Office 365 和 Dynamics 365。 在此模型中，對客戶資料的存取權由獨立的德國資料託管機關根據德國法律進行控管。 德國 Telekom 的 GmbH，是德國的子公司，做為 Microsoft Cloud 德國的獨立資料信任者。
 
     > [!IMPORTANT]  
     > 根據客戶需求的演進，我們的德國雲端策略將著重于在德國提供與我們的全球雲端服務一致的新雲端區域。 有了這個重點，我們就不會再接受新客戶，也不會從目前可用的 Microsoft Cloud 德國部署任何新的服務。 現有的客戶可以繼續使用目前提供的目前雲端服務，我們將會維護必要的安全性更新。

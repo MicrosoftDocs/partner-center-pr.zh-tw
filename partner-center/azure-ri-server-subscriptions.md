@@ -1,24 +1,25 @@
 ---
-title: Azure 保留與伺服器訂閱 |合作夥伴中心
+title: '& server 訂用帳戶的 Azure 保留專案'
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解雲端解決方案提供者如何取得、布建及管理其客戶的 Azure 保留和伺服器訂閱。
+description: 深入瞭解雲端解決方案提供者的機會，以取得、布建及管理客戶的 Azure 保留和伺服器訂閱。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Azure，訂用帳戶，VM，保留，保留實例
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b3d83a63e6c0a2fd72541f409ed22c598b1538e
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205736"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908286"
 ---
 <!-- Mike Aasen wrote and owns this topic -->
 
-# <a name="azure-reserved-vm-instances-ri--server-subscriptions-for-azure"></a>Azure 保留的 VM 執行個體 (RI) + Azure 伺服器訂閱
+# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>取得、布建、& 管理適用于客戶的 Azure 保留的 VM 實例（RI） + 伺服器訂閱
 
 適用於：
 

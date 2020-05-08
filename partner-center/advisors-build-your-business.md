@@ -1,22 +1,23 @@
 ---
-title: 打造您的企業及管理您的 Office 365 合作夥伴訂閱 |合作夥伴中心
+title: 新增具有 Office 365 試用版供應專案的用戶端
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: 打造您的商務及管理顧問的 Office 365 合作夥伴訂閱
-author: XiaLi
-ms.author: v-xili35
+description: 瞭解授權的 Microsoft 顧問如何拓展其 Office 365 訂閱。 建立並傳送 Office 365 試用邀請和購買供應專案給用戶端。
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor、office 365
-ms.openlocfilehash: 58b774e989ae93653fa344e090457376cb3de81c
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2a45e6fdbf64a888f2d8b6a934e14ad33f3647b6
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137253"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907457"
 ---
-# <a name="advisors-build-your-business"></a>顧問：打造您的業務
+# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>顧問：使用 Office 365 試用邀請和購買供應專案來建立您的用戶端基底
 
 身為授權的 Microsoft advisor，**合作夥伴中心**讓您有機會擴大客戶群，並建立與用戶端的持續關係。 透過合作夥伴中心，您可以傳送用戶端試用邀請和購買供應專案，並根據您授權提供的服務，提供他們委派的系統管理服務。
 

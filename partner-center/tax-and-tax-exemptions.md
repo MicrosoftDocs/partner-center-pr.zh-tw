@@ -1,8 +1,8 @@
 ---
-title: 稅金和稅金豁免 |合作夥伴中心
+title: 區域稅額和稅金豁免
 ms.topic: article
-ms.date: 11/21/2019
-description: 瞭解您特定地理區域的稅務責任，以及如何為您的 CSP 銷售提交免稅。
+ms.date: 04/28/2020
+description: 瞭解您特定地理區域的稅務責任，以及如何為您的 CSP 銷售提交免稅。 深入瞭解如何取得稅務問題的支援
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,14 +10,15 @@ author: LauraBrenner
 keywords: 稅金，免稅，vat，轉銷商，帳單
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: c4a8e318deaa2636ac7b118b3a446ea4b1cca09c
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797696"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907800"
 ---
-# <a name="taxes-and-tax-exemptions"></a>稅金與免稅
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>依區域或國家/地區閱讀稅金和免稅明細的詳細資訊
 
 適用於：
 

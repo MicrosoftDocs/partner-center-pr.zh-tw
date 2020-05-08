@@ -1,32 +1,33 @@
 ---
-title: 商業 marketplace 產品的帳單 |合作夥伴中心
+title: 商業 marketplace 產品的帳單
 ms.topic: article
-ms.date: 02/28/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解在合作夥伴中心內從商業 marketplace 購買客戶的 ISV SaaS 產品或訂用帳戶的計費方式。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: 訂用帳戶，產品，採購，Marketplace，協力廠商，ISV，帳單，發票，調整，偵察檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: 35db6e9e1fbdfe5e455e5b4e73e39b76cad496aa
-ms.sourcegitcommit: 717ef04f5c0040611af3ba9e5a324ab67e99ba14
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "78240195"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908117"
 ---
-# <a name="billing-for-commercial-marketplace-products"></a>商業 marketplace 產品的帳單
+# <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>合作夥伴中心內的商業 marketplace 產品和訂用帳戶計費
 
 **適用於**
 
-- 夥伴中心
+- 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
 
 - 全域系統管理員
-- 帳單管理
+- 帳單系統管理員
 
 身為 CSP 計畫的合作夥伴，您可以使用合作夥伴中心，從商用 marketplace 中的 ISV 發行者購買授權型 SaaS 產品。 這麼做之後，您就可以存取這些購買類型的帳單。 計費週期會在日曆月份的第一天開始，並在日曆月份的最後一天結束。 在下個月的第8天可取得發票。
 
@@ -43,7 +44,7 @@ CSP 計畫中的合作夥伴會針對客戶購買的 ISV 商業 marketplace 解�
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/)。
 
-2. 從 [合作夥伴中心] 功能表中，選取 [計費]。 
+2. 從 [合作夥伴中心] 功能表中，選取 [計費]  。 
 
     您會在 [帳單] 頁面頂端看到兩個索引標籤： [**週期性**] 和 [**週期性] 和**[單次購買]。 每個索引標籤都可讓您存取不同 marketplace 產品的發票和對帳（偵察）檔案：
 

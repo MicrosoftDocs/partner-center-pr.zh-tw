@@ -1,20 +1,21 @@
 ---
-title: Office 365 合作夥伴諮詢-Microsoft 365 CSP 中的語音 |合作夥伴中心
-description: 某些國家/地區的 PSTN 服務可能會受限於可能會影響合作夥伴訂單和發票的特殊稅金和法規需求。
+title: CSP 合作夥伴諮詢-Microsoft 365 語音
+description: 瞭解某些國家/地區的 PSTN 服務，以及可能適用和影響合作夥伴訂單和發票的特殊稅金或法規需求。
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 author: LauraBrenner
 ms.author: labrenne
 keywords: Office，O365，PSTN 服務，稅金，需求，發票，發票
 ms.localizationpriority: medium
-ms.openlocfilehash: 9a53d1c931b1f39a4177eb11f6307b7f710da472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798786"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907357"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-voice-in-csp"></a>Office 365 合作夥伴諮詢： Microsoft 365 CSP 中的語音
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 合作夥伴諮詢： Microsoft 365 商務版 CSP 方案中的語音
 
 **適用於**
 

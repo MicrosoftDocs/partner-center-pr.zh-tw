@@ -1,22 +1,23 @@
 ---
-title: 探索商業 marketplace 中的供應專案 |合作夥伴中心
+title: 探索優惠-商業 marketplace
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 CSP 合作夥伴如何使用合作夥伴中心，從獨立軟體廠商（Isv）查看或搜尋 marketplace 提供的 SaaS 供應專案或定價。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: 訂用帳戶，marketplace，商業 marketplace，協力廠商，ISV，SaaS 優惠，雲端解決方案提供者方案，CSP 計畫，CSP 合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 019bef179951ca65018e8d2a68cad156671e445a
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 10653e41adee052b43ed092f4fd9bb48b79a1355
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81873190"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908108"
 ---
-# <a name="discover-offers-and-pricing-in-the-commercial-marketplace"></a>探索商業 marketplace 中的供應專案和定價
+# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>在合作夥伴中心的商業 marketplace 中探索優惠和定價
 
 **適用於**
 
@@ -28,7 +29,7 @@ ms.locfileid: "81873190"
 - 全域系統管理員
 - 系統管理代理人
 
-當獨立軟體廠商（Isv）選擇在商業 marketplace 發佈供應專案時，他們也可以決定是否要在 CSP 計畫中提供供應專案。 如果他們選擇透過 CSP 方案銷售供應專案，CSP 合作夥伴應該會在合作夥伴中心的 Marketplace 區域看到該供應專案。 
+當獨立軟體廠商（Isv）選擇在商業 marketplace 發佈供應專案時，他們也可以決定是否要在 CSP 計畫中提供供應專案。 如果他們選擇透過 CSP 方案銷售供應專案，CSP 合作夥伴應該會在合作夥伴中心的 Marketplace 區域看到該供應專案。
 
 如果 ISV 供應專案未如預期般出現在合作夥伴中心，可能是因為：
 

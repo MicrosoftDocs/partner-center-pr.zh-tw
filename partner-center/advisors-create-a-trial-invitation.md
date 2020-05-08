@@ -1,22 +1,23 @@
 ---
-title: 建立試用邀請 |合作夥伴中心
+title: 建立 Office 365 試用邀請
 ms.topic: article
-ms.date: 03/03/2020
+ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
-description: advisor 可以在合作夥伴中心建立試用邀請
-author: XiaLi
-ms.author: v-xili35
+description: 瞭解合作夥伴如何為他們的用戶端建立和傳送試用邀請，以試用 Office 365。 合作夥伴非常是授權的訂閱顧問。
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor，office 365，試用版
-ms.openlocfilehash: 5b8e563a8ab8bee27bdc87aa0ba756f542a1ddf7
-ms.sourcegitcommit: 23a03f2db5fe8d4211be7e9371d25838a2d25ca2
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ab1b889e7ad71d19e6b7358c9ccb80aa78ed9f38
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "79137243"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907442"
 ---
-# <a name="advisors-create-a-trial-invitation"></a>顧問：建立試用邀請
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>顧問：為用戶端建立及傳送試用邀請，以試用 Office 365
 
 > [!NOTE]
 > 這項功能僅適用于已獲授權訂閱顧問的 Microsoft 合作夥伴。 
@@ -27,7 +28,7 @@ ms.locfileid: "79137243"
 
 ## <a name="to-create-a-trial-invitation"></a>建立試用邀請
 
-1. 流覽至**試用和購買**供應專案 > **建立邀請**。
+1. 流覽至**試用版並購買優惠** > **建立邀請**。
 
 2. 在 [**建立試用邀請**] 頁面上，選取您想要包含的試用邀請選項：
 
@@ -39,7 +40,7 @@ ms.locfileid: "79137243"
     - **試用**訂用帳戶：您可以選擇的試用訂閱清單取決於用戶端的國家或地區的使用位置。
     - **委派系統管理**：此選項僅適用于經過認證可提供委派管理的合作夥伴。 如果您想要提供用戶端委派的系統管理，請選擇此選項。 如果您這樣做，不論是否接受委派管理，您的用戶端都可以接受試用邀請。 如需委派系統管理的詳細資訊，請參閱[提供委派](customers_revoke_admin_privileges.md)的系統管理。
 
-3. 按 [下一步]。
+3. 按 [下一步]  。
 
 4. 在 [**您的試用邀請**] 頁面上，複製試用邀請資訊和 URL，然後將其貼到電子郵件、檔或網頁中，以建立自訂的試用邀請。
 

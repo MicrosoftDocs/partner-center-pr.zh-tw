@@ -1,21 +1,22 @@
 ---
-title: 一次性和選取週期性購買的常見計費案例 |合作夥伴中心
+title: 單次 & 定期購買的帳單
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 description: 請參閱一次的合作夥伴中心計費範例，並選取週期性購買--當您購買訂閱、新增更多訂用帳戶、新增或移除基座時。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 帳單，付款，一次性購買，週期性購買，訂用帳戶，基座
 ms.localizationpriority: medium
-ms.openlocfilehash: 7614721d4b10656681c177996f9b2cc3addd85f4
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2c3467fdbe8457a7068a49000bd635b7c464cf29
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798526"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908197"
 ---
-# <a name="one-time-and-select-recurring-purchase-billing-scenarios"></a>一次性和選取週期性購買計費案例
+# <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>一次和選取週期性購買的合作夥伴中心計費案例
 
 **適當的角色**
 

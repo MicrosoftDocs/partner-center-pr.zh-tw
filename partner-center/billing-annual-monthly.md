@@ -1,20 +1,22 @@
 ---
-title: 每月和年度計費差異 |合作夥伴中心
+title: 每月和每年計費的差異
 ms.topic: article
-ms.date: 11/25/2019
-Description: 瞭解合作夥伴中心的每月和年度計費週期之間的差異。
+ms.date: 05/06/2020
+Description: 瞭解合作夥伴中心的每月和年度計費方式有何不同。 同時瞭解如何在不同的計費類型和切換的含意之間切換。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 09e651638e50afeef3d43dd9c35c11998ba904ca
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOAPR.20
+ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798596"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908252"
 ---
-# <a name="monthly-and-annual-billing-differences"></a>每月和每年計費的差異
+# <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>瞭解合作夥伴中心的每月和年度計費差異
+
 
 **適用於**
 
@@ -133,7 +135,7 @@ ms.locfileid: "82798596"
 
 所有帳單週期的取消原則都相同。
 
-針對年度計費，如果訂用帳戶在12個月付的前30天內取消，您會在下一個計費日期收到100% 的信用額度。 如果訂用帳戶在12個月付費期限的30天后取消，您會在下一個計費日期收到按比例計算的信用額度。
+針對年度計費，如果在12個月付的前30天內取消訂用帳戶，您將會在下一個計費日期收到100% 的信用額度。 如果訂用帳戶在12個月付費期限的30天后取消，您會在下一個計費日期收到按比例計算的信用額度。
 
 ### <a name="moving-subscriptions-between-partners"></a>在合作夥伴之間移動訂閱
 
@@ -155,9 +157,9 @@ ms.locfileid: "82798596"
 
 ### <a name="cancellation-credits"></a>取消信用額度
 
-已取消的授權或訂用帳戶的信用額度計算方式如下：
+已取消之授權或訂用帳戶的信用額度計算方式如下：
 
-**取消的信用額度**= （（* * 每月價格 * * * 12） \* /365）已取消之**12 個月期** \*的授權數。
+取消的**信用額度**= （（* * 每月價格 * * 12）/ \* 365）已取消之授權的**12 個月期限** \*數。
 
 ## <a name="reconciliation-file"></a>對帳檔案
 

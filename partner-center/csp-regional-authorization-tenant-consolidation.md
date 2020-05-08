@@ -1,7 +1,7 @@
 ---
-title: 雲端解決方案提供者地區授權租用戶彙總 | 合作夥伴中心
+title: 雲端解決方案提供者地區授權租用戶彙總
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 請依照下列指示合併不同國家/地區的租用戶。 這包括遷移客戶帳戶和客戶訂閱的步驟。
@@ -11,14 +11,15 @@ ms.author: labrenne
 keywords: 移轉客戶, 佈建, 租用戶帳戶, 合併租用戶
 ms.localizationpriority: medium
 robots: noindex,nofollow
-ms.openlocfilehash: 5f52abb4d85122a7a33300f126e25d9349c7712f
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 813d24c12501edc7b633d3e10b5174d02ed881d1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798446"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907993"
 ---
-# <a name="csp-regional-authorization-tenant-consolidation"></a>雲端解決方案提供者地區授權租用戶彙總
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP 區域授權租使用者匯總的指示
 
 **適用於**
 
@@ -99,8 +100,6 @@ ms.locfileid: "82798446"
 
  >[!**注意**]暫停訂閱可確保不會進行雙重計費。
 
-
-
 ~~~
 The Subscription shows **suspended** on the subscriptions list.
 ~~~
@@ -111,8 +110,7 @@ The Subscription shows **suspended** on the subscriptions list.
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>移轉 Azure 用量型訂閱
 
-
-請注意，Azure 用量型雲端解決方案提供者訂閱不需要像 Office 365 雲端解決方案提供者訂閱一樣手動移轉。 Microsoft Azure 支援可以將 Azure 訂閱和所有部署的服務或資源從 **\[轉換來源\]** 雲端解決方案提供者經銷商帳戶移轉至 **\[轉換至\]** 雲端解決方案提供者經銷商帳戶。 轉換期間對客戶的服務不會中斷。
+Azure，基於使用方式的 CSP 訂用帳戶不需要手動遷移，如同 Office 365 CSP 訂用帳戶的情況。 Microsoft Azure 支援可以將 Azure 訂閱和所有部署的服務或資源從 **\[轉換來源\]** 雲端解決方案提供者經銷商帳戶移轉至 **\[轉換至\]** 雲端解決方案提供者經銷商帳戶。 轉換期間對客戶的服務不會中斷。
 
 1.  請確定需要移轉 Azure 訂閱的客戶帳戶已經接受要與新的 **\[轉換至\]** 雲端解決方案提供者帳戶關聯的合約。
 2.  合作夥伴會通知 Microsoft 具有 Azure 訂用帳戶的客戶帳戶已準備好進行遷移，並提供這些客戶的公司名稱。
@@ -128,13 +126,13 @@ The Subscription shows **suspended** on the subscriptions list.
 
 ### <a name="notes"></a>備忘錄
 
--   從 [**從 CSP 轉換**] 帳戶停用訂閱並不會影響終端客戶的服務，前提是在停用之前，已從**轉換到**CSP 帳戶布建服務。
+-   只要服務是在停用訂用帳戶之前，從**轉換為**csp 帳戶布建，則從 csp 帳戶的**轉換**中停用訂閱並不會影響終端客戶的服務。
 
--   暫停或取消訂閱之後，客戶就無法使用訂閱，並且不會產生費用。
+-   訂用帳戶無法供客戶使用，且在暫停或取消時不會產生費用。
 
 -   目前沒有任何方式可以將客戶完全從客戶清單中移除。
 
--   **注意** 合作夥伴必須在合作夥伴中心的 [從合作夥伴租使用者帳戶**轉換**時] 暫停訂閱，這當天是那些訂用帳戶轉換成的相同日期，並設定在合作夥伴中心的 [**轉換為**合作夥伴租使用者帳戶] 下，以確保不會發生雙重計費。 如果因為未正確設定要暫停的 **\[轉換來源\]** 訂閱而發生任何重疊帳單，Microsoft 將不會支援對點數的要求。
+-   **注意** 合作夥伴必須在合作夥伴中心的 [從合作夥伴租使用者帳戶**轉換**時] 暫停訂閱，這當天是那些訂用帳戶轉換成的相同日期，並設定在合作夥伴中心的 [**轉換為**合作夥伴租使用者帳戶] 下，以確保不會發生雙重計費。 由於未正確設定從訂用帳戶**轉換**為暫停的計費，Microsoft 不會支援信用額度的要求。
 
 
 
