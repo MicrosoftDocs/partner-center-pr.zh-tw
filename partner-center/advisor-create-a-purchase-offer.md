@@ -1,7 +1,7 @@
 ---
-title: 建立購買供應專案 |合作夥伴中心
+title: 建立購買供應專案
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter
 description: 瞭解授權的訂用帳戶顧問如何使用合作夥伴中心來建立購買供應專案和自訂 URL，以包含在 Office 365 試用邀請中。
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor，office 365，購買
 ms.custom: SEOMAY.20
-ms.openlocfilehash: defa41285aa2bf31158a900a319115cf02221655
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
+ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907443"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "82975109"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顧問：建立購買供應專案
 
@@ -43,7 +43,7 @@ ms.locfileid: "82907443"
     - **授權計數**：當您選取訂用帳戶時，請輸入您想要包含在購買供應專案中的授權數量。
     - **委派系統管理**：此選項僅適用于經過認證可提供委派管理的合作夥伴。 如果您想要提供用戶端委派的系統管理，請選擇此選項。 如果您這樣做，不論是否接受委派管理，您的用戶端都可以接受購買供應專案。
 
-3. 按 [下一步]  。
+3. 按一下 [下一步]  。
 
 4. 在 [**傳送**] 頁面上，複製購買供應專案資訊和 URL，然後將其貼到電子郵件、檔或網頁中，以建立自訂的購買供應專案。
 
