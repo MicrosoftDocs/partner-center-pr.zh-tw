@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 雲端解決方案提供者, 直接合作夥伴, 直接計費, 需求
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: de14553d756a718a78e70825e5ef7581aa57b96c
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: a6971ff62a8a23d71701bcb1f86ee54783081fb0
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205756"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362646"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>註冊為 CSP 直接計費合作夥伴的需求
 
@@ -33,7 +33,7 @@ ms.locfileid: "82205756"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN 識別碼**   |您的營業地點的使用中 Microsoft 合作夥伴網路 (MPN) 識別碼。    |
 |**委任背書**   |代表您的組織接受和簽署法律合約的職權。|
-|**支援**   |為您客戶提供第一層級雲端產品支援的能力。 <br>一項 Microsoft 支援方案；視您的需求而定，可以是合作夥伴進階支援 (ASfP) 或合作夥伴頂級支援 (PSfP)。 [比較支援方案](https://partner.microsoft.com/support/partnersupport)。<br> 重要事項：您必須先通過信用查核，才能購買支援方案。 當您通過信用查核之後，我們會傳送電子郵件給您。 |
+|**支援**   |為您客戶提供第一層級雲端產品支援的能力。 <br/>一項 Microsoft 支援方案；視您的需求而定，可以是合作夥伴進階支援 (ASfP) 或合作夥伴頂級支援 (PSfP)。 [比較支援方案](https://partner.microsoft.com/support/partnersupport)。<br/> 重要事項：您必須先通過信用查核，才能購買支援方案。 當您通過信用查核之後，我們會傳送電子郵件給您。 |
 |**受管理的服務**   |至少一個受管理的服務、IP 服務或客戶解決方案應用程式。 深入了解如何新增[受管理的服務](https://partner.microsoft.com/business-opportunities/managed-services-provider)。|
 |**應收帳款** |可管理客戶計費及佈建的完善組織基礎結構。
 
@@ -50,11 +50,12 @@ ms.locfileid: "82205756"
 
 ## <a name="transition-from-direct-to-indirect-reseller"></a>從直接轉換為間接轉銷商
 
-目前的直接計費合作夥伴必須符合新的需求，才能繼續參與雲端解決方案提供者直接計費合作夥伴計畫。 否則，其[對直接計費功能的存取權最終將會受到限制](restricted-direct-bill-capabilities.md)，且可能無法再執行特定工作，例如為客戶進行新的購買。 
+目前的直接計費合作夥伴必須符合新的需求，才能繼續參與雲端解決方案提供者直接計費合作夥伴計畫。 否則，其[對直接計費功能的存取權最終將會受到限制](restricted-direct-bill-capabilities.md)，且可能無法再執行特定工作，例如為客戶進行新的購買。
 
-如果您決定從直接計費業務轉換為間接轉銷商業務，您必須採取幾個步驟。 若要深入了解轉換程序，請參閱[從雲端解決方案提供者 (CSP) 直接計費合作夥伴轉換為雲端解決方案提供者間接轉銷商](transition-direct-to-indirect.md)。 
+如果您決定從直接計費業務轉換為間接轉銷商業務，您必須採取幾個步驟。 若要深入了解轉換程序，請參閱[從雲端解決方案提供者 (CSP) 直接計費合作夥伴轉換為雲端解決方案提供者間接轉銷商](transition-direct-to-indirect.md)。
 
-## <a name="see-also"></a>另請參閱
+## <a name="next-steps"></a>接下來的步驟
 
 - [關於成為間接轉銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+
 - [直接計費轉換為間接轉銷商的常見問題集](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
