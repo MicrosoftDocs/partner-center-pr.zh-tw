@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 5976cba3c0d1ef6984fc88497412577e83e999f7
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 01316ceebcd2f969c89b4160bf5d95dcc44b1366
+ms.sourcegitcommit: 46b86ac7467afa43bedb0943dc8dc45a69caf1dd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205576"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "83194388"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>瞭解如何將客戶的 Azure 訂用帳戶轉移給另一個合作夥伴
 
@@ -32,7 +32,7 @@ ms.locfileid: "82205576"
 
 >[!Note]  
 >目前只有直接或間接提供者可以傳送訂閱。
->您無法變更與 Office 365、企業行動套件或 Microsoft Dynamics CRM 訂閱相關聯之雲端解決方案提供者訂用帳戶的合作夥伴。
+>您無法變更與 Azure 方案、Office 365、企業行動套件或 Microsoft Dynamics CRM 訂閱相關聯之雲端解決方案提供者訂用帳戶的合作夥伴。
 
 **切換 Azure 訂用帳戶的合作夥伴**
 
@@ -57,7 +57,7 @@ ms.locfileid: "82205576"
 
 3. 訂閱的合作夥伴：請填寫[雲端解決方案提供者訂閱移轉表單](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)，簽署該表單，然後將它寄給客戶。 如果要填寫表單，您將會需要下列資訊：
 
-   - 目前合作夥伴的連絡資訊和 Microsoft ID。 在 [合作夥伴中心] 功能表中，選取 [**帳戶設定** &gt; ] [**組織設定檔**]，並使用此處所列的**Microsoft ID**、**組織名稱**和**位址**。
+   - 目前合作夥伴的連絡資訊和 Microsoft ID。 在 [合作夥伴中心] 功能表中，選取 [**帳戶設定**] [ &gt; **組織設定檔**]，並使用此處所列的**Microsoft ID**、**組織名稱**和**位址**。
 
    - 客戶的 Microsoft 識別碼。 在 [合作夥伴中心] 功能表中，選取 [**客戶**]，然後展開客戶的清單以查看其**Microsoft 識別碼**。
 
