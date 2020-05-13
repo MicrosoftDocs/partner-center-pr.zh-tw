@@ -1,7 +1,7 @@
 ---
-title: 確認客戶接受 Microsoft 客戶合約 | 合作夥伴中心
+title: 確認客戶接受 Microsoft 客戶合約
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 了解如何確認客戶接受 Microsoft 客戶合約。 這可能需要為客戶訂購 Microsoft 產品和服務。
@@ -9,14 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 客戶, 客戶, 同意, MCA, Microsoft 客戶合約, 客戶合約範本
 ms.localizationpriority: high
-ms.openlocfilehash: 2223a8e05a9df4c2d6ac377fc6f6b5a06944adc9
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9d45f04c8ee1a8d8715f5c6484598ecaca83b1f1
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81123320"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908153"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>確認客戶接受 Microsoft 客戶合約
+# <a name="overview-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>概觀：確認客戶接受 Microsoft 客戶合約
 
 **適用於**
 -  合作夥伴中心
