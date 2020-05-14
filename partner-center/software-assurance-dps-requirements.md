@@ -1,5 +1,5 @@
 ---
-title: 查看規劃服務合作的資格需求 |合作夥伴中心
+title: 查看規劃服務合作的資格需求
 ms.topic: article
 ms.date: 03/24/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: MicheleHope
 ms.author: v-mihope
 Keywords: 預先部署、規劃、軟體保證、參與、需求、資格、供應專案
 ms.localizationpriority: medium
-ms.openlocfilehash: d75753bdaef97f1cf0b9bd4c20474954e747735d
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: e9d66f2f6792780d77db130d5fd7d0f44d5f6c8c
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296436"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362446"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>查看規劃服務合作的資格需求
 
@@ -34,14 +34,14 @@ ms.locfileid: "80296436"
 
 |**若要瞭解這些合作的資格需求**   |**前往此供應專案的資料工作表**  |
 |:------------------------------------|:------------------|
-| Windows 和 Office 部署規劃<br> 行動生產力部署規劃<br> 現代化 IT 企業安全性概念證明</br>  | [桌上型電腦部署規劃服務（DDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116072) |
-| 升級 Microsoft Dynamics 365 for Customer Engagement<br> 遷移至 Microsoft Dynamics 365 for Customer Engagement<br> 升級 Microsoft Dynamics 365 以進行財務和營運</br>  | [Dynamics 部署規劃服務（DYDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Windows 和 Office 部署規劃<br/><br/> 行動生產力部署規劃<br/><br/> 現代化 IT 企業安全性概念證明 | [桌上型電腦部署規劃服務（DDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116072) |
+| 升級 Microsoft Dynamics 365 for Customer Engagement<br/><br/> 遷移至 Microsoft Dynamics 365 for Customer Engagement<br/><br/> 升級 Microsoft Dynamics 365 以進行財務和營運  | [Dynamics 部署規劃服務（DYDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116073)  |
 | 現代化您的 Windows Server 平臺 | [私用雲端、管理和虛擬化規劃服務（PVDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2115982) |
 | SharePoint 部署規劃   | [SharePoint 部署規劃服務（SDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Exchange 部署規劃<br> 商務用 Skype 部署規劃</br>  | [商務用 Skype 和 Exchange 部署規劃服務（S-EDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| Exchange 部署規劃<br/><br/> 商務用 Skype 部署規劃  | [商務用 Skype 和 Exchange 部署規劃服務（S-EDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | 資料資產現代化  | [SQL Server 部署規劃服務（SSDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
-## <a name="see-also"></a>另請參閱
+## <a name="next-steps"></a>後續步驟
 
 - [軟體保證規劃服務工作流程](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [軟體保證規劃服務常見問題](https://go.microsoft.com/fwlink/?linkid=2116077)

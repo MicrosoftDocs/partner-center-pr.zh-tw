@@ -1,23 +1,23 @@
 ---
 title: 提供客戶購買其專屬服務的權限
+description: 瞭解 CSP 方案合作夥伴如何讓客戶針對購買的訂用帳戶購買自己的服務（例如 Azure 保留）。
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解 CSP 方案合作夥伴如何讓客戶針對購買的訂用帳戶購買自己的服務（例如 Azure 保留）。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 訂用帳戶，自助式購買，自助 RI，啟用 RI，停用 RI，自助，客戶購買，客戶許可權，客戶購買保留實例，客戶購買 Azure 保留，開啟自助服務，關閉自助服務
 ms.localizationpriority: medium
-ms.openlocfilehash: ee8f1221344ce2375aff63c52bbfd42350a29839
-ms.sourcegitcommit: 8359f618426e341180b0380367dd9d16dfd6623c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "82255466"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362606"
 ---
-# <a name="learn-how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>瞭解如何授與客戶購買自己的產品或服務的許可權
+# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>如何授與客戶購買自己的產品或服務的許可權
 
 **適用於**
 
@@ -33,7 +33,7 @@ ms.locfileid: "82255466"
 
 CSP 方案中的合作夥伴通常會使用合作夥伴中心和其商業 marketplace，為客戶購買解決方案和服務。 然後，合作夥伴可以讓某些客戶直接從 Azure 入口網站布建這些服務。
 
-範例如下。 假設您在合作夥伴中心購買客戶的 Azure 方案訂用帳戶。 接著，您決定將其他資源或服務新增至該訂用帳戶（代表客戶）。 在此情況下，您可以將 Azure 保留專案新增至客戶的訂用帳戶（例如，新增保留的虛擬機器實例）。 接著，您可以允許客戶進一步在 Azure 入口網站中布建 Azure 保留資源本身。
+以下是範例。 假設您在合作夥伴中心購買客戶的 Azure 方案訂用帳戶。 接著，您決定將其他資源或服務新增至該訂用帳戶（代表客戶）。 在此情況下，您可以將 Azure 保留專案新增至客戶的訂用帳戶（例如，新增保留的虛擬機器實例）。 接著，您可以允許客戶進一步在 Azure 入口網站中布建 Azure 保留資源本身。
 
 現在，透過**客戶**權力功能，您可以使用 Azure 資源為客戶提供更多的自助選項。 藉由開啟客戶的許可權，您可以讓客戶購買自己的資源（例如購買自己的 Azure 保留）。  
 
@@ -46,13 +46,23 @@ CSP 方案中的合作夥伴通常會使用合作夥伴中心和其商業 market
 在您開啟客戶許可權之前，請注意下列重點：
 
 - 根據預設，合作夥伴中心內的客戶許可權會自動停用（關閉）。
+
 - 您必須先將 [合作夥伴中心] 中的 [系統管理員] 角色指派給您，才可以開啟或關閉客戶的許可權。
+
   獲派「銷售代理程式」或「服務台」代理程式角色具有唯讀存取權，且無法開啟或關閉客戶許可權的夥伴。
+
 - 您可以為您選擇的任何客戶開啟（啟用）許可權。
+
 - 您可以使用合作夥伴中心儀表板或[合作夥伴中心 api](https://docs.microsoft.com/partner-center/develop/manage-customers)來開啟（或關閉）客戶的許可權。
-- 在您開啟（啟用）特定客戶的許可權之後，您會負責支付該客戶所做的任何後續購買。 若客戶想要交換、取消或續訂他們所做的購買，他們將無法自行執行。 他們需要以合作夥伴的身分詢問您，以協助他們交換、取消或續訂這些購買專案。
+
+- 在您開啟（啟用）特定客戶的許可權之後，您會負責支付該客戶所做的任何後續購買。 若客戶想要交換、取消或續訂已進行的購買（或他們想要變更保留的初始範圍），他們將無法自行執行。 他們需要以合作夥伴的身分詢問您，以協助他們交換、取消和續約購買，或對保留範圍進行變更。  
+
 - 開啟特定客戶的許可權之後，您將**不會**收到任何稍後的客戶購買通知。
+
 - 客戶日後購買的內容將會顯示在合作夥伴中心，以及您所做的任何購買。 您可以在客戶的 [**訂單歷程記錄**] 頁面、[**保留**] 頁面或 [[**活動記錄**](activity-logs.md)] 中找到這些購買專案。
+
+>[!NOTE]
+> 如需客戶將支付的價格，以及如何協助客戶管理其購買的相關資訊，請參閱[協助客戶管理他們所購買的保留](give-customers-permission.md#help-customers-manage-reservations-they-purchase)。
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>授與客戶購買自己的 Azure 保留的許可權
 
@@ -61,7 +71,7 @@ Azure 保留是以折扣費率購買 Azure 服務的絕佳方式。 若要深入
 現在您可以選擇代表您的客戶購買 Azure 保留，因為您可能已經完成。 或者，您可以授與客戶購買自己的 Azure 保留區的許可權。
 
 >[!NOTE]
-> 在您授與客戶購買自己的 Azure 保留專案的許可權之後，您可以協助他們瞭解如何管理他們所購買的任何保留。 例如，客戶可能會想要知道如何優化保留的使用方式，或如何變更保留的範圍。 如需有關這些主題的詳細資訊，請要求客戶閱讀[管理 Azure 資源的保留]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)。
+> 在您授與客戶購買自己的 Azure 保留的許可權之後，請協助他們管理所購買的任何保留。 如需詳細資訊，請參閱[協助客戶管理他們所購買的保留](give-customers-permission.md#help-customers-manage-reservations-they-purchase)。
 
 ### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>讓客戶購買自己的 Azure 保留專案
 
@@ -125,10 +135,33 @@ Azure 保留是以折扣費率購買 Azure 服務的絕佳方式。 若要深入
 7. 若要開啟客戶許可權，請將此選項旁邊的切換開關移至 [**開啟**] 位置。 若要關閉客戶權力，請將切換開關移至 [**關閉**] 位置。
 
 >[!NOTE]
-> 若要瞭解當您開啟客戶的許可權來購買自己的 Azure 保留時，會發生什麼事，請參閱[合作夥伴中心的客戶許可權總覽](give-customers-permission.md#overview-of-customer-permissions-in-partner-center)。 當您開啟（或關閉）客戶許可權時，活動記錄會記錄每個動作。 （當您選取 [合作夥伴中心] 儀表板頂端的齒輪圖示時，就可以存取此記錄）。 當您開啟或關閉客戶權力時，此動作將會顯示為 [在活動記錄中**建立客戶購買許可權**或**刪除客戶購買許可權**]。
+> 若要瞭解當您開啟客戶的許可權來購買自己的 Azure 保留時，會發生什麼事，請參閱[合作夥伴中心的客戶許可權總覽](give-customers-permission.md#overview-of-customer-permissions-in-partner-center)。
+>
+>當您開啟（或關閉）客戶許可權時，活動記錄會記錄每個動作。 （當您選取 [合作夥伴中心] 儀表板頂端的齒輪圖示時，就可以存取此記錄）。 當您開啟或關閉客戶權力時，此動作將會顯示為 [在活動記錄中**建立客戶購買許可權**或**刪除客戶購買許可權**]。
 
-## <a name="see-also"></a>另請參閱
+## <a name="help-customers-manage-reservations-they-purchase"></a>協助客戶管理他們所購買的保留
+
+一旦授與客戶購買自己的 Azure 保留的許可權，您就可以協助他們更有效地管理他們所購買的任何資源。 客戶可以直接從[Azure 入口網站](https://portal.azure.com/)管理 Azure 保留專案的許多層面。 在您的 CSP 訂用帳戶中，他們將需要協助您管理 Azure 保留專案的一些其他層面。  
+
+協助客戶深入瞭解如何管理 Azure 保留專案的下列各方面：
+
+- 客戶將支付 Azure 保留費用
+- 客戶可以如何將 Azure 保留專案優化
+- 當客戶購買具有共用範圍的保留時，會發生什麼事？
+- 若客戶想要變更、取消和更新保留，或變更其範圍，會發生什麼事？
+
+**客戶會支付其保留費用。** 您的客戶將會根據您先前在 CSP 合作夥伴帳單帳戶中購買的訂用帳戶來購買 Azure 保留。 根據此訂用帳戶購買之任何 Azure 保留的客戶價格也會由您設定。 此價格可能與客戶在 Azure 入口網站中看到的 Web Direct 價格不同。
+
+**客戶可以如何將保留的使用優化。** 某些客戶可能會受益于深入瞭解如何優化保留的使用方式，或如何在購買期間指派保留的初始範圍。 如需詳細資訊，請要求客戶閱讀[管理 Azure 資源的保留]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)。
+
+**當客戶購買具有共用範圍的保留時，會發生什麼事？** 當客戶根據先前的 CSP 訂用帳戶購買保留區，並將共用範圍指派給該保留時，CSP 提供給客戶的任何折扣將會套用至 CSP 合作夥伴為該客戶購買之所有訂用帳戶的相符使用量。
+
+**如果他們想要交換、取消或續訂已進行的購買，或變更保留的初始範圍，客戶該怎麼做？** 客戶必須要求合作夥伴協助他們變更保留的初始範圍。 他們也需要合作夥伴的協助，以交換、取消或更新保留。 他們無法根據 CSP 合作夥伴為其購買的訂閱，自行執行這些工作。
+
+## <a name="next-steps"></a>後續步驟
 
 - [代表您的客戶購買 Azure 保留專案](azure-reservations-buying.md)
+
 - [合作夥伴中心-銷售 Microsoft 預約](azure-reservations.md)
-- [代表您的客戶管理 Azure Reservations](azure-reservations-manage.md) 
+
+- [代表您的客戶管理 Azure Reservations](azure-reservations-manage.md)

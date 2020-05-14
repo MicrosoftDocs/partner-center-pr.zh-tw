@@ -1,5 +1,5 @@
 ---
-title: 從雲端解決方案提供者（CSP）直接帳單合作夥伴轉換至 CSP 間接轉銷商 |合作夥伴中心
+title: 從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商
 ms.topic: article
 ms.date: 04/27/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帳單、轉換、間接轉銷商
-ms.openlocfilehash: d70ff8ec0b9639ea02ca8e472f720f06aef6f070
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 8002504622e330aefd4ec20d8a49a27454360e3f
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205686"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362666"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商
 
@@ -47,9 +47,9 @@ ms.locfileid: "82205686"
 5. 當您的註冊獲得核准後，再次登入合作夥伴中心。
 
     > [!NOTE]
-    > 雖然核准通常是立即的，但最多可能需要五個工作天。 一經核准，您就會收到通知，指向您在註冊表單的 [主要連絡人] 底下指定的電子郵件地址。 您也可以在 [**設定** > ] [**夥伴設定** > ] [**合作夥伴設定檔**] > [程式資訊] 底下檢查註冊狀態。
+    > 雖然核准通常是立即的，但最多可能需要五個工作天。 一經核准，您就會收到通知，指向您在註冊表單的 [主要連絡人] 底下指定的電子郵件地址。 您也可以在 [設定] [ **Settings**  >  **夥伴設定**] [  >  **合作夥伴設定檔**] > [程式資訊] 底下檢查註冊狀態。
 
-6. 在您的 **[總覽**] 頁面上，您會看到間接轉銷商合約。 選取 **\[接受並繼續\]**。 這會啟用間接轉銷商功能。
+6. 在您的 **[總覽**] 頁面上，您會看到間接轉銷商合約。 選取 **\[接受並繼續\]**。 此動作會啟用間接轉銷商功能。
 
 當您接受間接轉銷商合約時，請注意，您的夥伴設定檔**會將您識別為直接**帳單和間接轉銷商。
 
@@ -86,11 +86,11 @@ ms.locfileid: "82205686"
 
 ## <a name="acquire-new-customers-as-indirect-reseller"></a>以間接轉銷商的身分取得新客戶
 
-您和您的間接提供者都需要與客戶建立轉銷商關係。 這可讓您代表其管理客戶的訂用帳戶和服務。 若要取得具有現有 Azure AD 租使用者的新客戶，您可以邀請客戶同時與您和您的提供者建立轉銷商關係。 
+您和您的間接提供者都需要與客戶建立轉銷商關係。 這些轉銷商關係可讓您代表其管理客戶的訂用帳戶和服務。 若要取得具有現有 Azure AD 租使用者的新客戶，您可以邀請客戶同時與您和您的提供者建立轉銷商關係。
 
 若要建立間接轉銷商邀請：
 
-1. 從您的合作夥伴中心左側導覽選取 [**間接提供者**]。 
+1. 從您的合作夥伴中心左側導覽選取 [**間接提供者**]。
 
 2. 選取 [邀請新客戶]  以邀請客戶同時與您及間接提供者建立經銷商關係。 提供者必須與您的客戶有轉銷商關係，因此當客戶想要購買新的訂用帳戶或將新的授權新增至現有的訂用帳戶時，他們可以代表您的客戶提交訂單。
 
@@ -99,7 +99,7 @@ ms.locfileid: "82205686"
 4. 編輯電子郵件中的文字以表達您所需的內容，但請務必包含連結，因為它是個人化的，可將客戶直接連線到您的帳戶和提供者的帳戶。 然後選取 [完成]****。
 
 5. 客戶授權您和您的提供者成為其記錄可查經銷商之後，您就會有系統管理員權限，可代表他們管理其訂閱、授權和使用者，並且間接提供者可代表他們提交訂單。
-6. 若要管理客戶的帳戶、服務、使用者及授權，請選取客戶名稱旁邊的向下箭頭以展開其記錄。 
+6. 若要管理客戶的帳戶、服務、使用者及授權，請選取客戶名稱旁邊的向下箭頭以展開其記錄。
 
 與直接帳單合作夥伴不同的是，間接轉銷商無法為合作夥伴中心內的新客戶建立 Azure AD 租使用者。 您的提供者會建立租使用者，並將您指定為此客戶的間接轉銷商。 這可確保客戶會出現在合作夥伴中心的客戶清單中。
 
@@ -110,7 +110,7 @@ ms.locfileid: "82205686"
 
 您以不同的方式管理您的直接帳單客戶和間接轉銷商客戶。
 
-**直接帳單客戶（不會做為間接轉銷商的專案）**
+### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>直接帳單客戶（不會做為間接轉銷商的專案）
 
 - 建立產品的訂單
 - 管理 Azure 保留項目
@@ -118,13 +118,13 @@ ms.locfileid: "82205686"
 - 購買軟體
 - 直接向客戶收費
 
-**間接轉銷商客戶**
+### <a name="indirect-reseller-customers"></a>間接轉銷商客戶
 
 - 您的間接提供者會為您的客戶訂購產品
 - 管理客戶的授權和使用者
 - 處理訂用帳戶續訂
 
-**識別作為直接帳單合作夥伴取得的客戶**
+### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>識別作為直接帳單合作夥伴取得的客戶
 
 1. 選取**客戶**
 
@@ -244,10 +244,7 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 - 轉換的夥伴會確認傳送要求已完成。
 
-
-
-
-### <a name="transitioning-partner---create-transfer-request"></a>正在轉換夥伴-建立傳送要求
+### <a name="transitioning-partner"></a>正在轉換夥伴
 
 > [!NOTE]
 > 您也可以使用[合作夥伴中心 API/SDK](https://docs.microsoft.com/partner-center/develop/manage-customers) ，將現有的訂用帳戶傳送給您的間接提供者。
@@ -260,8 +257,7 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 > - [取得客戶的轉移](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)
 > - [依識別碼取得傳輸詳細資料](https://docs.microsoft.com/partner-center/develop/get-transfer-by-id)
 
-**正在轉換夥伴-建立傳送要求**
-
+### <a name="transitioning-partner---create-transfer-request"></a>正在轉換夥伴-建立傳送要求
 
 若要建立傳送要求作為轉換夥伴：
 
@@ -315,13 +311,13 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 8. 等待傳送要求完成。
 
-### <a name="indirect-provider-verify-transfer-request-is-complete"></a>間接提供者確認傳送要求已完成
+### <a name="indirect-provider---verify-transfer-request-is-complete"></a>間接提供者-確認傳輸要求已完成
 
 1. 成功完成傳輸要求之後，請確認您可以看到**訂用帳戶**出現在 [訂用帳戶] 底下。
 
 2. 通知轉換的夥伴。
 
-### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>正在轉換夥伴-確認傳輸要求已完成 
+### <a name="transitioning-partner---verify-transfer-request-is-complete"></a>正在轉換夥伴-確認傳輸要求已完成
 
 轉換的夥伴應執行下列動作：
 
@@ -363,8 +359,8 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 您也有資格向同一個夥伴租使用者註冊直接帳單獎勵計畫。 您必須分別管理程式。
 
-## <a name="see-also"></a>另請參閱
+## <a name="next-steps"></a>接下來的步驟
 
-- [關於成為間接轉銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf) 
+- [關於成為間接轉銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 - [雲端解決方案提供者直接合作夥伴的新需求](direct-partner-new-requirements.md)
 - [受限制的直接計費功能](restricted-direct-bill-capabilities.md)

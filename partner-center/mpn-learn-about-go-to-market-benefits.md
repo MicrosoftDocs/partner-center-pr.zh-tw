@@ -1,5 +1,5 @@
 ---
-title: 深入瞭解 Microsoft 供應專案的進入市場 |合作夥伴中心
+title: 瞭解 Microsoft 供應專案的進入市場
 ms.topic: article
 ms.date: 03/16/2020
 ms.service: partner-dashboard
@@ -9,18 +9,18 @@ author: MicheleHope
 ms.author: v-mihope
 keywords: MPN，成員資格權益，會員資格，上市優惠，與 Microsoft 一起上市，進入市場，金級成員資格，銀級成員資格
 ms.localizationpriority: medium
-ms.openlocfilehash: 593b21e8ac74440aca5599dcf3b49a0ed877a827
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226204"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362716"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>透過 Microsoft 供應專案探索您的進入市場
 
 **適用於**
 
-- 夥伴中心
+- 合作夥伴中心
 - Microsoft 合作夥伴網路成員
 
 **適當的角色**
@@ -34,7 +34,6 @@ ms.locfileid: "80226204"
 
 >[!NOTE]
 >如果您還不是 Microsoft 合作夥伴網路的成員，請在[Microsoft 合作夥伴網路網站](https://partner.microsoft.com/membership)上加入。
-
 
 ## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>依成員資格等級提供的上市資源、供應專案和方案
 
@@ -67,9 +66,9 @@ ms.locfileid: "80226204"
 
 1. 登入合作夥伴中心[儀表板]( https://docs.microsoft.com/partner-center/)。
 
-2. 從左側功能表中，選取 [ **MPN**]。 然後，執行下列其中一項動作：
+2. 從左側功能表中，選取 [ **MPN**]。 然後，執行下列動作之一：
 
-    - 選取 **[總覽**]。 流覽至 [**快速連結**] 區段，然後選取 [**進入市場**] 索引標籤。
+    - 選取 [概觀]  。 流覽至 [**快速連結**] 區段，然後選取 [**進入市場**] 索引標籤。
 
       或
 
@@ -82,12 +81,12 @@ ms.locfileid: "80226204"
 如需啟用或管理您的進入市場供應專案的特定步驟，請參閱[如何管理您的進入市場](manage-your-partner-network-benefits.md#manage-go-to-market-offers)供應專案。 執行此程式的過程中，您必須將行銷人員指派為連絡人，以進行後續的電子郵件，以及與您所啟用之上市優惠相關的通訊。
 
 >[!IMPORTANT]
->您必須是全域管理員或 MPN 合作夥伴系統管理員，才能啟用特定的進入市場供應專案，並指派相關的行銷連絡人。 如有需要，您可以依照 [[權益] 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)中的指示 (需要登入) 成為全域系統管理員。 貴公司可能已經有全域系統管理員，請務必洽詢您的團隊。
+>您必須是全域管理員或 MPN 合作夥伴系統管理員，才能啟用特定的進入市場供應專案，並指派相關的行銷連絡人。 如有需要，您可以依照 [[權益]  頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)中的指示 (需要登入) 成為全域系統管理員。 貴公司可能已經有全域系統管理員，請務必洽詢您的團隊。
 
-#### <a name="see-also"></a>另請參閱
+## <a name="next-steps"></a>後續步驟
 
-[管理您的合作夥伴網路權益](manage-your-partner-network-benefits.md)
+- [管理您的合作夥伴網路權益](manage-your-partner-network-benefits.md)
 
-[購買或續約 Microsoft 行動套件的訂閱](mpn-get-action-pack.md)
+- [購買或續約 Microsoft 行動套件的訂閱](mpn-get-action-pack.md)
 
-[瞭解專長認證](learn-about-competencies.md)
+- [瞭解專長認證](learn-about-competencies.md)

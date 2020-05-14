@@ -3,19 +3,18 @@ title: 建立購買供應專案
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter
 description: 瞭解授權的訂用帳戶顧問如何使用合作夥伴中心來建立購買供應專案和自訂 URL，以包含在 Office 365 試用邀請中。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor，office 365，購買
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 836bb0a0fa7226cd01435b4d5d3d7cd59bfad5e2
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975109"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362676"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顧問：建立購買供應專案
 
@@ -26,11 +25,11 @@ ms.locfileid: "82975109"
 
 當您建立購買供應專案時，[**建立購買供應**專案] 嚮導會為您建立自訂 URL。 URL 具有內嵌的程式碼，可將您識別為訂閱顧問。 您可以針對一或多個用戶端使用此 URL。 以電子郵件將 URL 傳送給您的用戶端。 或者，您可以將 URL 張貼在您的網站上。 如果您的用戶端接受此供應專案，您就會與用戶端的購買相關聯。
 
-如果您的用戶端需要不同的授權數量，請將新的供應專案傳送給他們，或在購買訂用帳戶時變更授權數量。 
+如果您的用戶端需要不同的授權數量，請將新的供應專案傳送給他們，或在購買訂用帳戶時變更授權數量。
 
 ## <a name="to-create-a-purchase-offer"></a>建立購買供應專案
 
-1. 流覽至**試用版並購買** > **供應專案建立供應**專案。
+1. 流覽至**試用版並購買**  >  **供應專案建立供應**專案。
 
 2. 在 [**建立購買供應**專案] 頁面上，選取您想要包含的購買供應專案選項：
 
@@ -50,7 +49,9 @@ ms.locfileid: "82975109"
     > [!NOTE]
     > 記下購買供應專案**摘要識別碼**。 使用它來追蹤供應專案。
 
-5. 您可以藉由包含公司標誌、簡介、結束備註或其他資訊來個人化訊息。 將購買供應專案傳送給您的用戶端。
+5. 您可以藉由包含公司標誌、簡介、結束備註或其他資訊來個人化訊息。
+
+    將購買供應專案傳送給您的用戶端。
 
 6. 當您自訂訊息時，請考慮包含下列資訊：
 

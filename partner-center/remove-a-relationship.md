@@ -9,37 +9,55 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 653a0db03d84efa3f251596d3cea841310d55161
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: d57321e272a251c91791f274373fb31953f94e04
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205786"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362726"
 ---
-# <a name="learn-how-to-remove-a-reseller-relationship-with-a-customer"></a>瞭解如何移除與客戶的轉銷商關係
+# <a name="how-to-remove-a-reseller-relationship-with-a-customer"></a>如何移除與客戶的轉銷商關係
 
 **適用於**
 
 - 合作夥伴中心
 
+本文說明如何在合作夥伴中心移除與客戶的轉銷商關係。
+
 直接合作夥伴：如果您不再與某個客戶交易，您可以在合作夥伴中心移除關係。
 
-此功能：
+移除關聯性會產生下列結果：
+
 - 從您在合作夥伴中心的客戶清單中移除客戶
 - 從客戶的[可用支援連絡人清單](assign-support-contacts.md)移除您本身
 - 移除您對客戶的委派系統管理員權限
 - 防止您為客戶進行未來購買
 
-若要移除關係，您需先取消 Azure RI 保留區、取消軟體購買項目，以及暫停任何剩餘的使用中訂閱：
-1. 暫停任何使用中訂閱。 從合作夥伴中心，移至 [**客戶**] > 選取 [客戶 **> 訂**用帳戶] > 選取 > [已**暫停**] 的訂用帳戶。 
+## <a name="how-to-remove-a-relationship"></a>如何移除關聯性
 
-   針對每個使用中的訂用帳戶重複此步驟。
+若要移除關聯性，您必須取消 Azure RI 保留專案、取消軟體購買，然後先暫停所有剩餘的使用中訂用帳戶。
 
-2. 移除合作夥伴中心內的關聯性：從合作夥伴中心，移至 [**客戶**] > 選取 [客戶 >**帳戶** > ] [**移除轉銷商關聯**性]。
+1. **暫停任何使用中訂閱。**
+
+   1. 從合作夥伴中心，移至 [**客戶**] 並選取客戶
+
+   2. 在 [**訂閱**] 底下，選取訂用帳戶。
+
+   3. 選取 [已**暫停**]
+
+   4. 針對每個使用中的訂用帳戶重複這些步驟。
+
+2. **移除合作夥伴中心內的關聯性：**
+
+   a. 從合作夥伴中心，移至 [**客戶**]，然後選取客戶。
+
+   b. 選取**帳戶**。
+
+   c. 選取 [**移除轉銷商關聯**性]。
 
    > [!NOTE]
    > 如果任何訂用帳戶仍在作用中，則 [**移除轉銷商關聯**性] 連結將會變成非使用
 
-## <a name="see-also"></a>另請參閱
+## <a name="next-steps"></a>後續步驟
 
 - [要求或重新建立與客戶的關聯性](request-a-relationship-with-a-customer.md)

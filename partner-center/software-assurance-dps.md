@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 預先部署、規劃、軟體保證
 ms.localizationpriority: medium
-ms.openlocfilehash: 864d7e8f6073af99b2d4227d28a94c1def373046
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.openlocfilehash: eb153d96f6c0dda0e7ce0521863d74cdb42bcbc2
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296401"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362436"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作夥伴中心的軟體保證規劃服務
 
@@ -87,7 +87,7 @@ ms.locfileid: "80296401"
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>完成 engagement 並為您的客戶提供交付專案（現有的合作夥伴）
 
-若要符合交付規劃服務的資格，顧問必須已完成一或多項 engagement 合格專長認證所需的技術評量或測驗。 （若要深入瞭解所需的評量或測驗，請[參閱規劃服務參與的資格需求](software-assurance-dps-requirements.md)。） 
+若要符合交付規劃服務的資格，顧問必須已完成一或多項 engagement 合格專長認證所需的技術評量或測驗。 （若要深入瞭解所需的評量或測驗，請[參閱規劃服務參與的資格需求](software-assurance-dps-requirements.md)。）
 
 在您的公司完成 engagement 並提供最終的完整交付專案給客戶之後，您必須填寫並提交線上完成報告。
 
@@ -103,7 +103,7 @@ ms.locfileid: "80296401"
 
 若要透過 SAVB 將發票提交給 Microsoft，請遵循工作流程[步驟 8](https://go.microsoft.com/fwlink/?linkid=2115983)中的指示。
 
-## <a name="see-also"></a>另請參閱
+## <a name="next-steps"></a>後續步驟
 
 - [軟體保證規劃服務工作流程](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [軟體保證規劃服務常見問題](https://go.microsoft.com/fwlink/?linkid=2116077)

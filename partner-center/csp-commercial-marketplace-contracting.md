@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 訂閱，Marketplace，協力廠商，ISV，CSP 合作夥伴計畫，合約，銷售，購買，
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6caf79b0f9dbe287ad59df73fb80749237546f9a
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 5bac92edfbe4d88d6c0fe1bf132f9cab75749093
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908131"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362626"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>在商業 marketplace 中進行業務的 CSP 合作夥伴合約
 
@@ -48,7 +48,8 @@ ms.locfileid: "82908131"
   
 Microsoft 不接受在交易合作物件之間傳遞服務的法律責任，且不會提供交易合作夥伴透過其商業平臺建立法律條款的機制。 如果交易合作夥伴需要額外的法律條款，他們就必須直接執行合約。
 
-## <a name="see-also"></a>另請參閱
+## <a name="next-steps"></a>後續步驟
 
 - [商業市集產品的支援](csp-commercial-marketplace-support.md)
+
 - [CSP 商業 marketplace 活動的總覽](csp-commercial-marketplace-overview.md)

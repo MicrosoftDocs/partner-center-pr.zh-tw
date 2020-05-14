@@ -11,14 +11,14 @@ ms.author: labrenne
 keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 8151f6f310df97702062f5951254da622a759a90
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 005e1d044f1d006b878eb85717a14f5e3ce3030b
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205616"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362686"
 ---
-# <a name="learn-about-adding-a-new-customer-record-in-partner-center"></a>瞭解如何在合作夥伴中心新增客戶記錄
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>如何在合作夥伴中心新增新的客戶記錄
 
 **適用於**
 
@@ -33,12 +33,12 @@ ms.locfileid: "82205616"
 - 系統管理代理人
 - 銷售代理人
 
-本文說明如何在合作夥伴中心內將新客戶新增至您的客戶清單。 您必須先執行此動作，才能銷售訂閱、管理帳單，或為客戶提供支援。
+本文說明如何在合作夥伴中心內將新客戶新增至您的客戶清單。 請先遵循下列步驟，再銷售訂閱、管理帳單，或為客戶提供支援。
 
 >[!NOTE]
 >針對現有客戶（包括已透過[多](multichannel.md)通路或[Multipartner](multipartner.md)案例在合作夥伴中心內有客戶記錄的使用者），您可以[向他們要求關聯](request-a-relationship-with-a-customer.md)性，而不是遵循此處的步驟。
 
-### <a name="to-add-a-new-customer-in-partner-center"></a>在合作夥伴中心新增新客戶
+## <a name="to-add-a-new-customer-in-partner-center"></a>在合作夥伴中心新增新客戶
 
 1. 選取 [合作夥伴中心] 功能表中的 [**客戶**]，然後選取 [**新增客戶**]。
 
@@ -47,12 +47,13 @@ ms.locfileid: "82205616"
    >[!NOTE]
    >
    >為確保客戶驗證期間的正確性，請確定您：
+   >
    >- 使用官方檔中所顯示的確切合法/官方名稱
    >- 避免使用縮寫或簡短形式
    >- 不要使用測試名稱
    >- 提供完整的確切位址（位置詳細資料、城市、州、國家和郵遞區號）
 
-   >[!IMPORTANT] 
+   >[!IMPORTANT]
    > Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計畫，以取代 Microsoft Cloud 合約。 閱讀[Microsoft 客戶合約和如何確認同意](confirm-customer-agreement.md)
   
 3. 如果您是間接提供者，請從清單中選取您想要與此客戶訂用帳戶產生關聯的間接轉銷商。
@@ -68,7 +69,7 @@ ms.locfileid: "82205616"
 
 7. 當您完成新增客戶資訊並購買必要的訂閱時，請選取 [**完成**]。
 
-## <a name="see-also"></a>另請參閱
+## <a name="next-steps"></a>後續步驟
 
 - 如需可透過雲端解決方案提供者方案銷售給客戶的詳細資訊，請參閱[雲端解決方案提供者方案中的合作夥伴供應專案](csp-offers.md)。
 
