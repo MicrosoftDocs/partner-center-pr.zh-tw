@@ -1,21 +1,19 @@
 ---
-title: Azure CSP 中可用的 Azure 服務 | 合作夥伴中心
+title: Azure CSP 中可用的 Azure 服務
+description: 本節將討論 Azure 雲端解決方案提供者 (CSP) 計畫中可用和不可用的 Azure 服務。
 ms.topic: article
-ms.date: 03/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 本節將討論 Azure 雲端解決方案提供者 (CSP) 計畫中可用和不可用的 Azure 服務。
 author: LauraBrenner
 ms.author: labrenne
-Keywords: ''
-robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: a86d66c3f7a799145d1f5a9bb3561a459e699f97
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 03/05/2020
+ms.openlocfilehash: 29020fc4861bb11f15f7a892dda4d92f0c19fe07
+ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79024092"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83369275"
 ---
 # <a name="available-azure-services-in-azure-csp"></a>Azure CSP 中可用的 Azure 服務
 
@@ -30,16 +28,16 @@ ms.locfileid: "79024092"
 
 ## <a name="available-azure-services-in-azure-csp"></a>Azure CSP 中可用的 Azure 服務
 
-本節將討論 Azure 雲端解決方案提供者 (CSP) 計畫中可用和不可用的 Azure 服務。 文中也會討論國家/地區雲端 [Microsoft Azure Germany](https://azure.microsoft.com/overview/clouds/germany/) 和 [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/) 中的服務可用性。
+本文列出 Azure 雲端解決方案提供者 (CSP) 計畫中可用和不可用的 Azure 服務。 文中也會討論國家/地區雲端 [Microsoft Azure Germany](https://azure.microsoft.com/overview/clouds/germany/) 和 [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/) 中的服務可用性。
 
 >[!Note]
 >[Azure 中國]( https://www.azure.cn/)無法從 Azure CSP 計畫中取得。
 
-### <a name="global-cloud"></a>全球雲端 
+## <a name="global-cloud"></a>全球雲端
 
 以 Azure Resource Manager 模型為基礎的所有服務都可在 CSP 計畫中取得。  非 Azure Resource Manager 服務則無法在 CSP 計畫中取得。  
 
-### <a name="csp-specific-service-configurations"></a>CSP 特定服務的設定
+## <a name="csp-specific-service-configurations"></a>CSP 特定服務的設定
 
 下列服務需要在 CSP 中進行特殊設定：
 
@@ -47,15 +45,15 @@ ms.locfileid: "79024092"
 
 - [Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
 
-- [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx) 
+- [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure 時間序列深入解析](https://azure.microsoft.com/services/time-series-insights/) 只有來自客戶租用戶的使用者可以存取其時間序列深入解析環境中的資料。 根據預設，合作夥伴可以管理其客戶的時間序列深入解析環境，但如果需要存取其中的資料，就必須已新增至客戶租用戶。 
+- [Azure 時間序列深入解析](https://azure.microsoft.com/services/time-series-insights/) 只有來自客戶租用戶的使用者可以存取其時間序列深入解析環境中的資料。 根據預設，合作夥伴可以管理其客戶的時間序列深入解析環境，但如果需要存取其中的資料，就必須已新增至客戶租用戶。
 
-### <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
+## <a name="visual-studio-marketplace"></a>Visual Studio Marketplace
 
 您現在可以從 Visual Studio Marketplace 購買下面列出的項目，但第三方擴充功能除外。
 
-- [Azure DevOps](https://www.visualstudio.com/team-services/) 
+- [Azure DevOps](https://www.visualstudio.com/team-services/)
 
 - [Visual Studio 訂閱](https://www.visualstudio.com/subscriptions/)
 
@@ -63,7 +61,7 @@ ms.locfileid: "79024092"
 
 為了協助您開始使用，我們在 CSP 中製作了一些關於[如何設定、購買和管理 Azure DevOps](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer) 的影片和文件。
 
-### <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP 中的 Azure Marketplace 項目
+## <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP 中的 Azure Marketplace 項目
 
 並非所有的 Azure Marketplace 項目目前都可在 Azure CSP 訂閱中使用。
 
@@ -71,12 +69,13 @@ ms.locfileid: "79024092"
 
 - 自備授權 (BYOL) 項目：這些項目都可供使用。 具有 BYOL 功能的 Azure Marketplace 項目完整清單可在 [Azure Marketplace BYOL 頁面](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)上取得。
 
-- 隨用隨付第三方 Azure Marketplace 項目：如果提供者已發佈至 CSP 管道，則這些項目可供使用。 如需詳細資訊，請參閱[銷售 Azure Marketplace 產品的訂閱](https://aka.ms/marketplaceincsp)。   
+- 隨用隨付第三方 Azure Marketplace 項目：如果提供者已發佈至 CSP 管道，則這些項目可供使用。 如需詳細資訊，請參閱[銷售 Azure Marketplace 產品的訂閱](https://aka.ms/marketplaceincsp)。
 
 - Citrix XenApp Essentials：合作夥伴可以在 CSP 中為客戶購買 XenApp Essentials。 如需詳細資訊，請參閱下列 Citrix 部落格 - [現在可透過 Microsoft 雲端解決方案提供者管道散發 XenApp Essentials](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)。
 
-### <a name="national-clouds"></a>國家/地區雲端 
-下表顯示國家/地區雲端中適用於 CSP、會定期更新的第一方 Azure 產品、服務和功能清單。 
+## <a name="national-clouds"></a>國家/地區雲端
+
+下表顯示國家/地區雲端中適用於 CSP、會定期更新的第一方 Azure 產品、服務和功能清單。
 
 | Azure 產品、服務或功能 | 美國政府 | 德國 |
 | ------ | :-----------: | :-----------: |
@@ -187,7 +186,7 @@ ms.locfileid: "79024092"
 |  Azure Migrate  |    |    |
 |  管理群組  |    |  
 
-### <a name="next-steps"></a>接下來的步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [了解](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview)合作夥伴中心的 Azure 可用功能。
 
