@@ -1,5 +1,5 @@
 ---
-title: Microsoft 合作夥伴網路會員資格 | 合作夥伴中心
+title: Microsoft 合作夥伴網路會員資格
 ms.topic: article
 ms.date: 10/25/2019
 ms.service: partner-dashboard
@@ -10,24 +10,25 @@ ms.author: labrenne
 keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格, 銀級, 金級, 專長認證
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 617fa9afac5dcb43304aad63d2aa9b9d4928f293
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798836"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362736"
 ---
 # <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
 
 **適當的角色**
--   全域系統管理員
--   MPN 合作夥伴系統管理員
--   使用者系統管理員
--   系統管理代理人
+
+- 全域系統管理員
+- MPN 合作夥伴系統管理員
+- 使用者系統管理員
+- 系統管理代理人
 
 當您加入 Microsoft 合作夥伴計畫，您就成為全球社群的一分子，將您與讓客戶驚豔以及推動業務成長所需的人際關係、見解、工具、資源及計劃連結起來。
 
-請參閱[為何選擇 Microsoft？](https://partner.microsoft.com/business-opportunities/why-microsoft)，以取得與 Microsoft 合作可獲得權益的詳細資訊。 
+請參閱[為何選擇 Microsoft？](https://partner.microsoft.com/business-opportunities/why-microsoft)，以取得與 Microsoft 合作可獲得權益的詳細資訊。
 
 ## <a name="join-the-microsoft-partner-network"></a>加入 Microsoft 合作夥伴網路
 
@@ -51,7 +52,7 @@ Microsoft 合作夥伴網路提供您業界最廣泛的產品，也會提供方�
 
 ### <a name="action-pack"></a>行動寶盒
 
-對於想要在雲端優先、行動優先的世界中開始、建立並拓展其 Microsoft 業務的企業，行動套件提供軟體、支援和權益。 
+對於想要在雲端優先、行動優先的世界中開始、建立並拓展其 Microsoft 業務的企業，行動套件提供軟體、支援和權益。
 
 若要深入了解行動套件，請檢閱下列資源：
 
@@ -82,5 +83,6 @@ Microsoft 合作夥伴網路提供您業界最廣泛的產品，也會提供方�
 - [在合作夥伴中心管理您的 MPN 權益](manage-your-partner-network-benefits.md)
 - [核心要求](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
-## <a name="see-also"></a>另請參閱
-- [拓展您的 Microsoft 合作夥伴業務](grow-your-business.md)
+## <a name="next-steps"></a>接下來的步驟
+
+[拓展您的 Microsoft 合作夥伴業務](grow-your-business.md)

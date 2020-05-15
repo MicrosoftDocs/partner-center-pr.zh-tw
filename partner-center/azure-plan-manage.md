@@ -1,7 +1,7 @@
 ---
-title: 管理 Azure 方案下的訂用帳戶和資源 | 合作夥伴中心
+title: Azure 方案 - 管理訂用帳戶與資源
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解合作夥伴如何使用不同的角色型存取控制 (RBAC) 選項，來對客戶 Azure 資源的操作進行控制和管理。
@@ -9,12 +9,13 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
-ms.openlocfilehash: 15d1fd3bdff078e752f3b3acb9b200300dc2e64b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74253283"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908343"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 方案下的訂用帳戶和資源
 

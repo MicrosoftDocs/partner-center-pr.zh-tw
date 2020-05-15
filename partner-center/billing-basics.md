@@ -1,23 +1,23 @@
 ---
-title: 帳單概觀 | 合作夥伴中心
+title: 合作夥伴中心計費概觀
 ms.topic: article
-ms.date: 04/03/2020
-description: 瞭解合作夥伴中心基本的帳單和發票資訊。
+ms.date: 05/05/2020
+description: 了解 CSP 合作夥伴在合作夥伴中心內的基本計費和發票資訊。 包括如何向客戶收費，以及如何尋找和解讀您的發票。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 6e46915b720f811f465a270a91e7deee8a45786f
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c911626e03bf2a84ee4d4b701def7d12c25c15fc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80676807"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908237"
 ---
-# <a name="billing-overview"></a>帳單概觀
+# <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>在合作夥伴中心運作的 CSP 方案合作夥伴計費概觀 
 
 **適用於**
 
@@ -149,7 +149,7 @@ Microsoft 對於您開立發票的處理方式上沒有任何要求或條件。
 
 ## <a name="manage-one-time-billing"></a>管理一次性帳單
 
-### <a name="billing-status-invoices-and-reconciliation-files"></a>帳單狀態、發票和對帳檔案
+### <a name="billing-status-invoices-and-reconciliation-files"></a>計費狀態、發票和對帳檔案
 
 檢視您目前的帳單狀態、發票、對帳檔案：
 

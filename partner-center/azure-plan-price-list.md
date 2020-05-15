@@ -1,23 +1,24 @@
 ---
-title: Azure 方案價目表 | 合作夥伴中心
+title: CSP 合作夥伴的 Azure 方案價目表
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何使用合作夥伴中心查看 Azure 方案下訂用帳戶的價目表。
+description: 了解 CSP 方案合作夥伴如何使用合作夥伴中心查看 Azure 方案下訂用帳戶的價目表。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 2d69fb316f2451b57af1e6e850d676c67cde5fa3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f17dc4cb7e3f52984ce9a1fb7c19d048bb74c47b
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76812640"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908318"
 ---
-# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>適用於 Azure 的 CSP 中新商務體驗的價目表 
+# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>適用於 Azure 的 CSP 中新商務體驗的價目表
 
 **適當的角色**
 

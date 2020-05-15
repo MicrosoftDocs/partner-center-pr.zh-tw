@@ -1,7 +1,7 @@
 ---
-title: 透過雲端解決方案提供者銷售軟體訂閱 | 合作夥伴中心
+title: 透過雲端解決方案提供者銷售軟體訂閱
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解雲端解決方案提供者計畫中的合作夥伴如何使用合作夥伴中心為客戶購買、管理、銷售和取消 Azure 保留的執行個體與伺服器訂閱。
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, CSP, 雲端式服務, Azure, Azure RI, Windows Server, SQL Server, 軟體訂閱, 取消軟體
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 0d251f36c7ab8497b696c4eca2a2797c543e3325
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7901d3280cb5f9a1523b2974d4a462373b94e354
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798426"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82907947"
 ---
-# <a name="sell-software-subscriptions-through-csp"></a>透過雲端解決方案提供者銷售軟體訂閱
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>透過雲端解決方案提供者 (CSP) 方案銷售軟體訂閱
 
 **適用於**
 

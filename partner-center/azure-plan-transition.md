@@ -1,23 +1,24 @@
 ---
-title: 客戶轉換至 Azure 方案 | 合作夥伴中心
+title: 將客戶從目前的 Azure 供應項目移至 Azure 方案
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何輕鬆地將您的客戶移至 Azure 方案。
+description: 了解 CSP 合作夥伴如何使用合作夥伴中心，將客戶從現有的 CSP Azure 供應項目移至 Azure 方案下的 Azure 服務。
 author: LauraBrenner
 ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: high
-ms.openlocfilehash: 7bcb27e521e4f3982fd3e0a94f1ed3a96320cfa3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 05c28b852935dbce88d9f64c86b7c87fcbdc05cc
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "79023491"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908336"
 ---
-# <a name="transition-your-customers-to-azure-plan"></a>將您的客戶轉換為 Azure 方案
+# <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>將客戶從現有 CSP Azure 供應項目轉換至 Azure 方案
 
 **適當的角色**
 

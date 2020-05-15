@@ -1,22 +1,23 @@
 ---
-title: 雲端解決方案提供者計畫中的合作夥伴供應項目 | 合作夥伴中心
+title: 雲端解決方案提供者方案中的合作夥伴供應項目
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 深入了解透過雲端解決方案提供者計畫銷售的合作夥伴可提供的供應項目。
+description: 以雲端解決方案提供者 (CSP) 方案的合作夥伴身分，了解逐漸成長的 Microsoft 雲端服務和供應項目目錄，以便向客戶銷售。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 雲端解決方案提供者, 雲端解決方案提供者計畫, 雲端解決方案提供者, 新增產品, 銷售給客戶, 合作夥伴供應項目, 雲端解決方案提供者供應項目, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 在雲端解決方案提供者中銷售, Azure RI, Azure 保留的虛擬機器執行個體, Azure Reservations, 線上服務, 訂閱軟體, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客戶訂閱
 ms.localizationpriority: high
-ms.openlocfilehash: eddc88b6ccd5e05a860b5de9800d8ce1e5bd3cf5
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7c9ec7908c66fd4c31f9606e639958fba37761d7
+ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722543"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "83362326"
 ---
-# <a name="partner-offers-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫中的合作夥伴供應項目
+# <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>概述雲端解決方案提供者方案中的合作夥伴供應項目
 
 **適用於**
 
@@ -39,31 +40,31 @@ ms.locfileid: "74722543"
 
 目前，您可以向雲端解決方案提供者客戶銷售下列幾種產品與服務：
 
-- Azure Reservations<br> 
+### <a name="azure-reservations"></a>Azure Reservations
 
-    客戶可以事先保留 Azure 虛擬電腦上的空間，為期 1 或 3 年期限。<br>
-    
-    如需詳細資訊，請參閱[銷售 Microsoft Azure 保留的 VM 執行個體](azure-reservations.md)。
+   客戶可以事先保留 Azure 虛擬電腦上的空間，為期 1 或 3 年期限。
 
-- 軟體<br>
+   如需詳細資訊，請參閱[銷售 Microsoft Azure 保留的 VM 執行個體](azure-reservations.md)。
 
-    客戶可以購買軟體訂閱 (Windows Server 和 SQL Server，1 或 3 年期限，以在 Azure 保留的 VM 執行個體上執行)。<br>
- 
-    如需詳細資訊，請參閱[透過雲端解決方案提供者銷售軟體訂閱](csp-software-subscriptions.md)。  
+### <a name="software"></a>軟體
 
-- 線上服務<br>
+   客戶可以購買軟體訂閱 (Windows Server 和 SQL Server，1 或 3 年期限，以在 Azure 保留的 VM 執行個體上執行)。
 
-    「線上服務」  是目前稱為「訂閱」  項目的新名稱。 為了讓您更輕鬆地在同一個位置訂購多種類型產品，我們已將「新增訂閱」工作流程整合到「新增產品」工作流程中。<br>
-    
-    如需詳細資訊，請參閱[客戶訂閱](customer-subscriptions.md)。
+   如需詳細資訊，請參閱[透過雲端解決方案提供者銷售軟體訂閱](csp-software-subscriptions.md)。  
 
-- 軟體即服務 (SaaS) 和其他 [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) 產品<br>
+### <a name="online-services"></a>線上服務
 
-    您可以向獨立軟體廠商 (ISV) 銷售 SaaS 產品的訂閱。 若只要查看**線上服務**中的 SaaS 供應項目，請使用篩選將**發行者**設定為**合作夥伴**。 這會顯示可為該客戶購買的所有 SaaS 供應項目。<br>
-    
-    您也可以在 [Marketplace]  頁面上找到這些產品的相關資訊。 請注意，此頁面也包含必須從 Azure 入口網站 (而非合作夥伴中心) 購買的其他類型產品相關資訊。<br>
+   「線上服務」  是目前稱為「訂閱」  項目的新名稱。 為了讓您更輕鬆地在同一個位置訂購多種類型產品，我們已將「新增訂閱」工作流程整合到「新增產品」工作流程中。
 
-    如需詳細資訊，請參閱 [CSP 商業市集的概觀](CSP-commercial-marketplace-overview.md)
+   如需詳細資訊，請參閱[客戶訂閱](customer-subscriptions.md)。
+
+### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>軟體即服務 (SaaS) 和其他 [Azure Marketplace](https://azuremarketplace.microsoft.com/marketplace) 產品
+
+   您可以向獨立軟體廠商 (ISV) 銷售 SaaS 產品的訂閱。 若只要查看**線上服務**中的 SaaS 供應項目，請使用篩選將**發行者**設定為**合作夥伴**。 這會顯示可為該客戶購買的所有 SaaS 供應項目。
+
+   您也可以在 [Marketplace]  頁面上找到這些產品的相關資訊。 請注意，此頁面也包含必須從 Azure 入口網站 (而非合作夥伴中心) 購買的其他類型產品相關資訊。
+
+   如需詳細資訊，請參閱 [CSP 商業市集的概觀](CSP-commercial-marketplace-overview.md)
 
 ## <a name="add-products-page-details"></a>新增產品頁面詳細資料
 
@@ -81,14 +82,14 @@ ms.locfileid: "74722543"
 
 **類別** - 識別產品支援的商務類型，以及是否提供試用版
 
-**檢視 SKU、檢視產品** - 選取以在產品和 SKU 清單之間切換。 **產品**會個別列出每個產品；**SKU** 會列出產品群組
+**檢視 SKU、檢視產品** - 選取以在產品和 SKU 清單之間切換。 **產品**頁面會個別列出每個產品；**SKU** 會列出產品群組。
 
 ## <a name="buy-csp-offers"></a>購買雲端解決方案提供者優惠
 
 若要代表您的雲端解決方案提供者客戶購買產品和服務，請選取客戶所要的項目、將這些項目新增到購物車、建立訂單，然後檢視並提交訂單。 一般程序如下所述。 (如需特定產品類型訂單的詳細資訊，請參閱上面的連結)。
 
->[注意] 在您的租用戶國家/地區和客戶的租用戶國家/地區中都必須提供 CSP 供應項目。 
->例如，如果您的租用戶位於斯洛伐克，而客戶的租用戶位於德國，則您無法將 Dynamics 365 Business Central Premium 銷售給該客戶，因為目前在斯洛伐克並未提供此供應項目。
+>[!Note]
+>在您的租用戶國家/地區和客戶的租用戶國家/地區中都必須提供 CSP 供應項目。 例如，如果您的租用戶位於斯洛伐克，而客戶的租用戶位於德國，則您無法將 Dynamics 365 Business Central Premium 銷售給該客戶，因為目前在斯洛伐克並未提供此供應項目。
 
 1. 從 [合作夥伴中心] 功能表選取 [客戶]  ，然後找出要向您購買的客戶。 
 
@@ -96,22 +97,18 @@ ms.locfileid: "74722543"
 
 3. 在 [新增產品]  頁面上，選取 [Azure]  、[線上服務]  或 [軟體]  。
 
-4. 微調可用的篩選器，可更輕鬆尋找您要的產品。 若要查看可用項目的完整清單，請將適用篩選器設定為 [任何]  。 
+4. 微調可用的篩選器，可更輕鬆尋找您要的產品。 若要查看可用項目的完整清單，請將適用篩選器設定為 [任何]  。
 
 5. 選取客戶想要的產品、輸入所需數量，然後選取 [新增至購物車]  。
 
 6. 重複步驟 4 和 5，直到您新增所有必要的項目至購物車。 選取 [檢閱]  確認您的訂單正確無誤。  
 
-7. 在 [檢視您的訂單]  頁面上，確認或變更產品與數量，然後選取 [購買]  以購買訂單。 
+7. 在 [檢視您的訂單]  頁面上，確認或變更產品與數量，然後選取 [購買]  以購買訂單。
 
-8. 您訂單的詳細資訊，包括您的訂單號碼，會顯示在下一個頁面。 選取 [完成]  移至 [訂購記錄]  頁面。 
+8. 您訂單的詳細資訊，包括您的訂單號碼，會顯示在下一個頁面。 選取 [完成]  移至 [訂購記錄]  頁面。
 
-**深入了解** 
+## <a name="next-steps"></a>接下來的步驟
 
-如需計費程序運作方式的詳細資訊，請閱讀[計費基本概念](https://docs.microsoft.com/partner-center/billing-basics)。
+如需計費程序運作方式的詳細資訊，請參閱[計費基本概念](https://docs.microsoft.com/partner-center/billing-basics)。
 
-如需在 Azure 方案下購買的相關資訊，請閱讀[購買 Azure 方案](purchase-azure-plan.md)。
-
-## <a name="see-also"></a>另請參閱
-
-[CSP 商業市集的概觀](csp-commercial-marketplace-overview.md)
+如需在 Azure 方案下購買的相關資訊，請參閱[購買 Azure 方案](purchase-azure-plan.md)。

@@ -1,19 +1,19 @@
 ---
 title: 準備從 Partner Membership Center 移至合作夥伴中心 | 合作夥伴中心
 ms.topic: article
-ms.date: 06/13/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 從 PMC 移至合作夥伴中心之前，請先檢閱有用的資訊和常見問題集。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 06167a667152ddaf65702547783df93726f6cadc
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340097"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859351"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備從 Partner Membership Center (PMC) 移至合作夥伴中心
 
@@ -33,49 +33,24 @@ Azure 工作帳戶是您公司在 Azure 公用雲端的專用且隔離的虛擬�
 
 您的公司帳戶會裝載 Azure AD 使用者及其相關資訊 (電子郵件、密碼、設定檔資料、權限等等)。 公司帳戶也包含群組、應用程式，以及其他有關公司與其安全性的資訊。 
 
+您的公司電子郵件是 Azure Active Directory 租用戶的一部分。 若要在合作夥伴中心擁有帳戶，您必須要有 AAD 租用戶。 如需 Azure Active Directory 的詳細資訊，請參閱[在 Azure AD 中建立目錄](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
+
 在合作夥伴中心，您將使用您的公司電子郵件登入帳戶，而不是使用個人電子郵件。
 - 您的公司帳戶：john@contoso.com
 - 您的個人帳戶：John@outlook.com
 
-您的公司電子郵件是 Azure Active Directory 租用戶的一部分。 若要在合作夥伴中心擁有帳戶，您必須要有 AAD 租用戶。 如需 Azure Active Directory 的詳細資訊，請參閱[在 Azure AD 中建立目錄](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
+**如果您有與 Microsoft (例如 Office 365) 搭配使用的 AAD 租用戶，同時也有用於雲端解決方案提供者業務的租用戶，應使用哪個帳戶登入合作夥伴中心？**
 
-**如果您有與 Microsoft (例如 Office 365) 搭配使用的 AAD 租用戶，同時也有用於雲端解決方案提供者業務的租用戶，當您從 PMC 移至合作夥伴中心時，應使用哪個帳戶登入合作夥伴中心？**
-
-您可以使用雲端解決方案提供者帳戶或 MPN 公司電子郵件帳戶登入合作夥伴中心。 如果您選擇使用雲端解決方案提供者公司電子郵件登入，儀表板上的左側導覽將會顯示 MPN 和雲端解決方案提供者計畫資訊。 如果您使用 MPN Azure AD 租用戶的公司電子郵件登入，則只會看到 MPN 計畫資訊。 MPN 和雲端解決方案提供者的使用者角色並不相同，因此，如果您對 MPN 和雲端解決方案提供者業務使用相同的帳戶，請務必據以指派使用者角色。 如需使用者角色的相關資訊，請參閱[指派使用者角色和權限](permissions-overview.md)。
+您可以使用雲端解決方案提供者帳戶或 MPN 公司電子郵件帳戶登入合作夥伴中心。 如果您選擇使用雲端解決方案提供者公司電子郵件登入，儀表板上的左側導覽將會顯示 MPN 和雲端解決方案提供者計畫資訊。 如果您使用 MPN Azure AD 租用戶的公司電子郵件登入，則只會看到 MPN 計畫資訊。 
 
 **如果您不想將現有的 Office 365 Azure AD 租用戶用於合作夥伴中心，您可以在從 PMC 移轉之前，先建立新的租用戶。**
 
-您不想使用現有的 Azure AD 租用戶來設定合作夥伴中心帳戶，可能有許多原因。 開始移轉至合作夥伴中心之前，請先移至 [Azure 入口網站](https://ms.portal.azure.com/#home)建立新的 Azure AD 租用戶。 請依照[在 Azure Active Directory 中建立新的租用戶](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)中的指引操作。 建立新的租用戶後，當您從 PMC 移至合作夥伴中心時，請使用此 AAD 租用戶來設定您的合作夥伴中心帳戶。 您必須是全域管理員，才能建立租用戶。 請使用這個新的目錄移轉至合作夥伴中心。
+您不想使用現有的 Azure AD 租用戶來設定合作夥伴中心帳戶，可能有許多原因。 開始移轉至合作夥伴中心之前，請先移至 [Azure 入口網站](https://ms.portal.azure.com/#home)建立新的 Azure AD 租用戶。 請依照[在 Azure Active Directory 中建立新的租用戶](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)中的指引操作。 使用新的 AAD 租用戶來設定您的合作夥伴中心帳戶。 您必須是全域管理員，才能建立租用戶。 
 
-
-**AAD 全域管理員角色與 PMC MPN 全域管理員角色有何差異？**
-
-這是兩個不同的角色，具有不同的權限。 合作夥伴中心的 AAD 租用戶全域管理員可管理租用戶 - 新增或移除使用者、提供及管理密碼、角色和權限，並且可存取其公司在合作夥伴中心內的所有計畫。 
-
-PMC 中的 MPN 全域管理員角色可執行下列動作：
-
-- 檢視和編輯所有與公司相關聯的資料，以及公司的所有位置
-
--  在全域或本機層級新增管理員。  此外，全域管理員可為任何位置的任何人員指派全域管理員存取權，而為他們授與全域存取權，不論其關聯的位置為何。
--  執行任何合作夥伴對應 UI 功能，包括： 
-
--  新增/移除使用者
-
- - 指派/移除角色 
-
- - 新增/移除/更新位置 
-
- - 購買專長認證/MAPS 
-
--  檢視權益
-
-當 MPN 全域管理員移至合作夥伴中心時，我們將此角色稱為 MPN 合作夥伴管理員，其權限和工作皆與合作夥伴中心全域管理員不同。若要深入了解合作夥伴中心的角色和權限，請參閱[指派使用者角色和權限](permissions-overview.md)。
 
 **合作夥伴中心的使用者角色 (包括來賓使用者角色)**
 
 合作夥伴中心具有不同類型的角色，視所需執行的工作類型而定。 有些角色屬於 Azure AD 角色，例如全域管理員。 有些角色則專屬於計畫 (例如雲端服務提供者計畫) 或獎勵，此外也有專屬於 MPN 的角色。 若要了解所有的合作夥伴中心角色，請參閱[指派使用者角色和權限](permissions-overview.md)。
-
-
 
 **我的使用者角色從 PMC 移至合作夥伴中心後，將會如何？**
 
@@ -92,12 +67,12 @@ PMC 中的 MPN 全域管理員角色可執行下列動作：
 
 如果您使用相同的 Azure AD 租用戶將多個 MPN 帳戶移轉至合作夥伴中心，系統會自動加以辨識，並要求您合併帳戶。 即使您有多個網域與相同的 Azure AD 租用戶相關聯，仍是如此。 
 
-您仍可決定使用個別的 AAD 租用戶來移轉至合作夥伴中心，但請注意，這會導致您的專長認證受到單獨評估，並產生額外的購買成本。 
+您仍可決定使用個別的 AAD 租用戶來移轉至合作夥伴中心，但請注意，這會導致您的專長認證受到單獨評估，並產生額外的購買成本。 如需帳戶彙總的詳細資訊，請參閱[合併您的公司帳戶](consolidate-accounts.md)
 
 **如果我有多個 AAD 租用戶和單一 MPN 帳戶，是否可在合作夥伴中心將其連結嗎？**
 
 是，在合作夥伴中心，您可以將多個 Azure AD 租用戶連結至單一合作夥伴中心帳戶。
-請於此處深入了解。 
+如需帳戶彙總的詳細資訊，請參閱[合併您的公司帳戶](consolidate-accounts.md)
 
 **將多個 Azure AD 租用戶新增至單一合作夥伴中心帳戶時是否有任何限制？**
 
@@ -164,11 +139,11 @@ Microsoft 會自動移轉目前的專長認證、權益、位置資訊、獎勵�
 否，如果您在移動帳戶時並未合併位置，獎勵將不受影響。 如果您的公司在 PMC 中有多個帳戶，且您在移至合作夥伴中心時決定將其合併為通用帳戶，您將不會失去獎勵，但獎勵給付可能會有延遲。 如果您未移動所有與獎勵計畫相關的 PMC 帳戶，就可能不會再獲得與這些帳戶繫結的獎勵。
 
 
-**合作夥伴中心有哪些獎勵使用者角色？** 
+**合作夥伴中心有哪些獎勵角色？** 
 
 合作夥伴中心的獎勵角色以位置為基礎，且包含獎勵管理員和獎勵使用者。 若要深入了解這些角色可執行哪些工作，請參閱[指派使用者角色和權限](permissions-overview.md)。
 
-**是否可在全域和位置層級指派獎勵使用者？**
+**是否可在全域和位置層級指派獎勵管理員？**
 
  是。 您可以將一個獎勵管理員指派為所有位置的獎勵管理員，或是讓每個位置各有其本身的獎勵管理員。
 
@@ -182,7 +157,7 @@ Microsoft 會自動移轉目前的專長認證、權益、位置資訊、獎勵�
 
 **如何指派推薦，預期會有哪些變更？例如，如果我在某個市場有一個全球性公司，而在其他市場有一些位置，則應如何指派推薦？**
 
-系統會根據客戶定義的搜尋參數來指派推薦。 因此，不論您是有一個還是多個位置，在客戶指定了所需的位置後，如果您有符合其他參數的業務，則會將推薦指派至該位置。
+系統會根據客戶定義的搜尋參數來指派推薦。 不論您是有一個還是多個位置，在客戶指定了所需的位置後，如果您有符合其他參數的業務，則會將推薦指派至該位置。
 
 
 

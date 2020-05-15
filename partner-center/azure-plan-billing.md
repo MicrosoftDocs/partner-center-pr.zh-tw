@@ -1,7 +1,7 @@
 ---
-title: Azure 方案計費 | 合作夥伴中心
+title: Azure 方案計費 - 發票和對帳檔案
 ms.topic: article
-ms.date: 02/12/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何存取及了解與 Azure 方案計費相關的發票和對帳檔案結構。
@@ -10,12 +10,13 @@ ms.author: labrenne
 Keywords: ''
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 2184733bbbfb5fa3beede2cb45cb409109f11bad
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78240237"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908366"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商務體驗 - Azure 計費 
 
@@ -62,7 +63,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 ## <a name="understanding-usage-data"></a>瞭解使用量資料 
 
-1. Azure 方案是使用量的根或最上層容器。 所有使用量都會繫結回單一 Azure 方案。 
+1. Azure 方案是使用量的根或最上層容器。 所有使用量都會繫結回單一 Azure 方案。
 
 2. 在方案中，將會有一或多個 Azure 訂用帳戶。 這些是用於資源管理和部署的容器。 
 
@@ -72,7 +73,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 5. 資源發出計量：計量是資源耗用量的度量，一個資源可能會發出多個計量的使用量。 計量是以 ProductID、SKUID 和 AvailabilityID 識別。 
 
-### <a name="heirarchy-of-subscription-resource-groups-and-metering"></a>訂用帳戶資源群組和計量的階層
+### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>訂用帳戶資源群組和計量的階層
 
 **Azure 帳戶 (租用戶)**
 
@@ -86,7 +87,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
     - 資源群組 2
         - 虛擬機器 (資源)
             - 電腦計量
-        - 進階 SSD 受控磁片 (資源)
+        - 進階 SSD 受控磁碟 (資源)
             - 儲存體容量計量
             - 儲存體作業計量
 
@@ -98,7 +99,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 ## <a name="read-the-invoice"></a>讀取發票
 
-1. 發票在每個月的第 8 天之後才可取得。
+1. 發票在每個月的第八天之後才可取得。
 
 2. 合作夥伴有 60 天的時間匯款。
 

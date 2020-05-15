@@ -1,7 +1,7 @@
 ---
-title: 比較 Azure 供應項目 | 合作夥伴中心
+title: 比較 CSP 合作夥伴的 Azure 供應項目
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在雲端解決方案提供者 (CSP) 計畫中，比較合作夥伴的新 Microsoft 商務體驗中各供應項目之間的主要差異。
@@ -9,14 +9,15 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: ed929c12b6fec06848bd38e7d2d7962c9dceb0f1
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53f3f496cf29d1daa76bf8dfe96664755681fb8c
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76021754"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908167"
 ---
-# <a name="compare-azure-offers"></a>比較 Azure 供應項目
+# <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>比較 CSP 方案中各個 Azure 供應項目之間的差異
 
 **適當的角色**
 
@@ -33,7 +34,7 @@ ms.locfileid: "76021754"
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |計費|每月|變數 (供應項目相依)|客戶|完整期限或 3 年期限的前期|每月或每年|
 |被授權人|客戶|變數 (供應項目相依)|客戶| 客戶|   客戶|
-|涵蓋範圍|使用中直到取消|變數 (供應項目相依)|請參閱供應項目描述|所有 Azure Reservations 都有自己獨特的涵蓋範圍。    所有伺服器訂閱都有自己獨特的涵蓋範圍。|   其他基座型授權將會納入現有的涵蓋範圍期間|
+|涵蓋範圍|使用中直到取消|變數 (供應項目相依)|請參閱供應項目描述|所有 Azure Reservations 都有自己獨特的涵蓋範圍。 所有伺服器訂閱都有自己獨特的涵蓋範圍。|   其他基座型授權將會納入現有的涵蓋範圍期間|
 |自動更新|是|是|否| 否|是|
 |多重貨幣|根據客戶位置/貨幣的發票|根據客戶位置/貨幣的發票|根據客戶位置/貨幣的發票|根據客戶位置/貨幣的發票|根據合作夥伴位置貨幣| 
 |發票和對帳檔案|針對每個客戶位置貨幣，區分發票和對帳檔案。  我們也會提供每日評分的使用量檔案 (適用於帳單和未開立帳單部分) |針對每個客戶位置貨幣，區分發票和對帳檔案|針對每個客戶位置貨幣，區分發票和對帳檔案|針對每個客戶位置貨幣，區分發票和對帳檔案|一張發票與對帳檔案上的所有訂單|

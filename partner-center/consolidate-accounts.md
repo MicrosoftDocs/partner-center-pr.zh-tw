@@ -1,23 +1,23 @@
 ---
-title: 合併您的公司帳戶 | 合作夥伴中心
+title: 合併您的公司帳戶
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在合作夥伴中心內將 Partner Membership Center (PMC) 帳戶合併成一個帳戶。 此程序適用於從 PMC 移轉至合作夥伴中心。
+description: 了解如何在合作夥伴中心內將 Partner Membership Center (PMC) 帳戶合併成一個帳戶。 適用於從 PMC 遷移至合作夥伴中心
 ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: d6e867d9e78fb7b8d0612cde5f6a57537ad40e77
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80226134"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908146"
 ---
-# <a name="consolidate-your-company-accounts"></a>合併您的公司帳戶
+# <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>從 PMC 遷移至合作夥伴中心時合併公司帳戶
 
 **適當的角色**
 

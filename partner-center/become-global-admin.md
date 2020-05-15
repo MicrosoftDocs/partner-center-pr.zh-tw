@@ -1,7 +1,7 @@
 ---
-title: 成為貴公司的全域系統管理員 | 合作夥伴中心
+title: 成為貴公司的全域系統管理員
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 若要在合作夥伴中心內工作，您必須先確認網域的擁有權。 了解如何執行此操作，以及如何成為可新增使用者的全域管理員。
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 keywords: 網域, 網域驗證, 驗證網域, 全域系統管理員, 使用者角色, 權限
-ms.openlocfilehash: be0811745d2112374ea78964652545feeeb3fbc6
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722424"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908265"
 ---
 # <a name="verify-your-domain-ownership"></a>確認網域的擁有權
 
@@ -28,12 +29,12 @@ ms.locfileid: "74722424"
 
 當您的公司第一次登入合作夥伴中心時，您的員工可能未獲指派在合作夥伴中心開始工作所需的角色。 若要在合作夥伴中心工作，每個人都必須擁有一個指派給他們的角色，其中包括權限。  
 
-您必須驗證網域的擁有權，以便您可以購買貴公司符合資格的權益、新增使用者並為其指派角色，或在合作夥伴中心執行其他工作。 
+您必須驗證網域的擁有權，以便您可以購買貴公司符合資格的權益、新增使用者並為其指派角色，或在合作夥伴中心執行其他工作。
 
 >[!Note]
 >例如，貴公司中的全域系統管理員就是管理雲端服務的系統管理員。 如果貴公司確有全域系統管理員，但您不確定誰是全域系統管理員，請從合作夥伴中心右上角的 [設定]  圖示中，選取 [使用者管理]  。 移至 [使用者管理] 並篩選全域系統管理員，來找到要連絡的全域系統管理員。
 
-## <a name="verify-your-domain-ownership"></a>確認網域的擁有權
+## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>驗證您的網域擁有權，並成為合作夥伴中心的全域管理員
 
 1. 在合作夥伴中心上，從 [會員資格供應項目]  頁面中，選取 [成為全域系統管理員]  。 
 

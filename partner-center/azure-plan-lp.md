@@ -1,7 +1,7 @@
 ---
-title: Azure 方案 | 合作夥伴中心
+title: Azure 方案 - 以隨用隨付費率購買 Azure
 ms.topic: article
-ms.date: 01/21/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Azure 方案的商務體驗，以隨用隨付費率為客戶購買 Azure 服務。 同時了解新的安全性需求。
@@ -10,14 +10,15 @@ ms.author: labrenne
 Keywords: Azure, Azure 方案, 購買訂用帳戶, 訂閱
 robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 7be0e8cd97a66742b1c2bfadbdb5edceb8a8d9c4
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1e5aeb04c7f37dfc777ece6b7190b8ae7e04ebe2
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "76549663"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908347"
 ---
-# <a name="introduction-azure-plan"></a>簡介：Azure 方案
+# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>簡介：Azure 方案可讓合作夥伴以隨用隨付費率為客戶購買 Azure
 
 Microsoft 在合作夥伴中心引進了新的商務體驗，那就是 Azure 方案。  透過這種新的商務體驗，合作夥伴可在 Microsoft 客戶合約下，以隨用隨付費率為客戶取得 Azure 服務的存取權。
 

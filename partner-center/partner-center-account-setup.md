@@ -1,7 +1,7 @@
 ---
 title: 管理您的合作夥伴中心帳戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 03/02/2020
+ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作夥伴中心管理貴公司的設定檔、目錄、銀行和稅務資訊、角色、權限等等。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 43a05ebca983034621caab8dc95593fc366b9eeb
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
+ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798766"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "82859378"
 ---
 # <a name="manage-your-partner-center-account"></a>管理您的合作夥伴中心帳戶
 
@@ -23,13 +23,17 @@ ms.locfileid: "82798766"
 
 - 合作夥伴中心
 
-您註冊時在合作夥伴中心建立的帳戶會是您的工作電子郵件加上商務資訊的組合。 在合作夥伴中心建立帳戶之後，您或您的系統管理員必須完成設定您公司的完整設定檔，包括支援詳細資料、列報免稅 (若適用) 以及主要連絡資訊。 若有任何人員將會使用合作夥伴中心來新增或管理客戶、銷售訂閱、開立帳單和發票、建立商務設定檔、管理轉介、使用獎勵計畫以及提供支援，貴公司的帳戶也必須納入其使用者帳戶。
+您註冊時在合作夥伴中心建立的帳戶會是您的工作電子郵件加上商務資訊的組合。 在合作夥伴中心建立帳戶之後，您將必須完成設定您公司的完整設定檔，包括支援詳細資料、列報免稅 (若適用) 以及主要連絡資訊。 若有任何人員將會使用合作夥伴中心來新增或管理客戶、銷售訂閱、開立帳單和發票、建立商務設定檔、管理轉介、使用獎勵計畫以及提供支援，貴公司的帳戶也必須納入其使用者帳戶。
+
+另請參閱 
+- [邀請員工加入合作夥伴中心](guide-to-migration.md)
+- [新增使用者](create-user-accounts-and-set-permissions.md)
 
 ## <a name="programs-in-which-you-are-enrolled"></a>您註冊的計畫
 
 您用來管理合作夥伴中心帳戶的大部分工作，都與您註冊的特定計畫，以及您在合作夥伴中心中獲派的使用者角色和權限有關。
 
-在合作夥伴中心中，您可以輕鬆查看可存取的計畫：
+若要查看您可以在合作夥伴中心中存取哪些方案：
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 2. 查看左側導覽窗。 其中會顯示已註冊計畫的相關選項。
@@ -101,6 +105,7 @@ ms.locfileid: "82798766"
 |**進行此動作**   |**請閱讀本文**   |
 |-----------------------|:-----------------------|
 |確定您公司的設定檔案是最新的   |[更新您的合作夥伴設定檔](update-your-partner-profile.md)|
+|新增使用者|[建立使用者帳戶和指派權限](create-user-accounts-and-set-permissions.md)|
 |您公司中所有需要在合作夥伴中心裡工作的人員都必須有指派的角色。 每個角色都有其適用的特定權限與工作。|[建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)|
 |檢閱每個角色需要的權限|[指派使用者角色和權限](permissions-overview.md)
 |管理貴公司的位置|[管理您的合作夥伴帳戶：位置](manage-locations.md)

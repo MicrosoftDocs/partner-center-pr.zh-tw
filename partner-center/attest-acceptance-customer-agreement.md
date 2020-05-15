@@ -1,22 +1,23 @@
 ---
-title: 證明客戶接受 Microsoft 客戶合約 | 合作夥伴中心
+title: 證明客戶接受 Microsoft 客戶合約
 ms.topic: article
-ms.date: 02/04/2020
+ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解一些案例，這些案例可能會要求您代表客戶證明接受 Microsoft 客戶合約。
-author: MicheleHope
-ms.author: v-mihope
+Description: 了解代表客戶證明接受 Microsoft 客戶合約的適當時機。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 客戶, 客戶, 同意, MCA, Microsoft Cloud 合約, Microsoft 客戶合約, 客戶合約範本, 證明接受
 ms.localizationpriority: high
-ms.openlocfilehash: 12e458c1546d31400407c8bf42ce09333cfec900
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: eb18d5f095e633fcbfeb3dc9f3d962664066765f
+ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "77013296"
+ms.lasthandoff: 05/07/2020
+ms.locfileid: "82908406"
 ---
-# <a name="attest-customer-acceptance-of-the-microsoft-customer-agreement"></a>證明客戶接受 Microsoft 客戶合約
+# <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>代表客戶證明接受 Microsoft 客戶合約
 
 **適用於**
 
@@ -32,7 +33,7 @@ ms.locfileid: "77013296"
 
 - 間接轉銷商、直接帳單、間接提供者
 
-本主題與某些案例有關，這些案例是您可能需要代表客戶證明客戶接受 Microsoft 客戶合約。
+本文說明某些案例，這些案例是您可能需要代表客戶證明客戶接受 Microsoft 客戶合約。
 
 >[!NOTE]
 >如需詳細資訊，另請參閱[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)。
@@ -41,13 +42,13 @@ ms.locfileid: "77013296"
 
 目前有兩種案例，客戶可能無法直接在 Microsoft 365 系統管理中心內接受 Microsoft 客戶合約。
 
-**案例 1**：您的現有客戶已透過現有合作夥伴關係，購買了下列任何供應項目、軟體或軟體訂閱、保留執行個體和 Azure 方案，並嘗試進行任何新購買 (排除自動續約)。 當該客戶按一下 URL 時，他們會收到「請洽詢您的合作夥伴以確認您接受 Microsoft 客戶合約」的訊息。  
+**案例 1**：現有的客戶已透過現有的合作夥伴關係購買下列任一項目：供應項目、軟體或軟體訂閱、保留執行個體和 Azure 方案。 客戶現在正嘗試購買任一新項目 (不包括自動續約)。 當該客戶按一下 URL 時，他們會收到「請洽詢您的合作夥伴以確認您接受 Microsoft 客戶合約」的訊息。  
 
 **若要解決**：您必須代表客戶進行證明。
 
 ![客戶](images/mca/accept-scenario-1.png)
 
-**案例 2**：現有客戶已購買下列任何供應項目、軟體和軟體訂閱、保留執行個體和 Azure 方案，並嘗試向新的合作夥伴進行任何新購買。 
+**案例 2**：現有客戶已購買下列任一共應項目、軟體和軟體訂閱、保留執行個體和 Azure 方案。 客戶現在正嘗試向新的合作夥伴購買任一新項目。
 
 當該客戶按一下 Microsoft 365 系統管理中心的 URL 以接受新的合作夥伴關係和合約時，他們會收到「請洽詢您的合作夥伴以確認您接受 Microsoft 客戶合約」的訊息。  
 
