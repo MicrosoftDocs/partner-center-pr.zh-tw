@@ -119,7 +119,7 @@
 ## [查看您的客戶清單](see-your-customer-list.md)
 ## [檢視客戶活動記錄](activity-logs.md)
 ## [更新客戶帳戶資訊](update-customer-account-info.md)
-## [提供客戶購買其專屬服務的權限](give-customers-permission.md)
+## [讓客戶購買自己的服務](give-customers-permission.md)
 ## [為客戶建立多個使用者](adding-multiple-users-to-a-customer-account.md)
 ## [指派支援連絡人](assign-support-contacts.md)
 
@@ -196,6 +196,7 @@
 # [與其他合作夥伴合作](work-with-other-partners.md)
 ## [在合作夥伴中心的間接提供者工作](indirect-provider-tasks-in-partner-center.md)
 ## [在合作夥伴中心的間接經銷商工作](indirect-reseller-tasks-in-partner-center.md)
+## [支援的 CSP 合作夥伴關係](csp-supported-partner-relationships.md)
 ## [多通路支援](multichannel.md)
 ## [多合作夥伴支援](multipartner.md)
 
