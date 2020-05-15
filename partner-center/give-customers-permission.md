@@ -2,7 +2,7 @@
 title: 提供客戶購買其專屬服務的權限
 description: 瞭解 CSP 方案合作夥伴如何讓客戶針對購買的訂用帳戶購買自己的服務（例如 Azure 保留）。
 ms.topic: article
-ms.date: 05/12/2020
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: 訂用帳戶，自助式購買，自助 RI，啟用 RI，停用 RI，自助，客戶購買，客戶許可權，客戶購買保留實例，客戶購買 Azure 保留，開啟自助服務，關閉自助服務
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625229eb9243bc6deb631a824e8197fd0565072a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362606"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394141"
 ---
 # <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>如何授與客戶購買自己的產品或服務的許可權
 
@@ -128,7 +128,7 @@ Azure 保留是以折扣費率購買 Azure 服務的絕佳方式。 若要深入
 
 5. 找出頁面底部的 [**客戶許可權**] 區域。
 
-   ![帳戶頁面上的客戶許可權](images/give-customers-permission-reservations.png)
+   :::image type="content" source="images/give-customers-permission-reservations.png" alt-text="客戶在帳戶頁面上的許可權。" border="true":::
 
 6. 在 [ **Azure 保留**] 底下，找出 [**允許客戶購買**] 選項。
 
@@ -152,7 +152,7 @@ Azure 保留是以折扣費率購買 Azure 服務的絕佳方式。 若要深入
 
 **客戶會支付其保留費用。** 您的客戶將會根據您先前在 CSP 合作夥伴帳單帳戶中購買的訂用帳戶來購買 Azure 保留。 根據此訂用帳戶購買之任何 Azure 保留的客戶價格也會由您設定。 此價格可能與客戶在 Azure 入口網站中看到的 Web Direct 價格不同。
 
-**客戶可以如何將保留的使用優化。** 某些客戶可能會受益于深入瞭解如何優化保留的使用方式，或如何在購買期間指派保留的初始範圍。 如需詳細資訊，請要求客戶閱讀[管理 Azure 資源的保留]( https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)。
+**客戶可以如何將保留的使用優化。** 某些客戶可能會受益于深入瞭解如何優化保留的使用方式，或如何在購買期間指派保留的初始範圍。 如需詳細資訊，請要求客戶閱讀[管理 Azure 資源的保留](https://docs.microsoft.com/azure/cost-management-billing/reservations/manage-reserved-vm-instance)。
 
 **當客戶購買具有共用範圍的保留時，會發生什麼事？** 當客戶根據先前的 CSP 訂用帳戶購買保留區，並將共用範圍指派給該保留時，CSP 提供給客戶的任何折扣將會套用至 CSP 合作夥伴為該客戶購買之所有訂用帳戶的相符使用量。
 

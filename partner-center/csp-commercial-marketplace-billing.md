@@ -1,7 +1,7 @@
 ---
 title: 商業 marketplace 產品的帳單
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解在合作夥伴中心內從商業 marketplace 購買客戶的 ISV SaaS 產品或訂用帳戶的計費方式。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 訂用帳戶，產品，採購，Marketplace，協力廠商，ISV，帳單，發票，調整，偵察檔案
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ee8b7850708d5e04f07ab41965b4c4659b377ba
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 9672850b699a2660f646ede5250e52298f5522cd
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908117"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394159"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>合作夥伴中心內的商業 marketplace 產品和訂用帳戶計費
 

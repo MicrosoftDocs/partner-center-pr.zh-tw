@@ -1,19 +1,20 @@
 ---
 title: 與 CSP 的間接轉銷商合作
+description: 身為間接供應商或散發者，請瞭解如何與間接轉銷商合作來擴展。 這包括您可以在合作夥伴中心執行的工作。
 ms.topic: article
-ms.date: 02/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 身為間接供應商或散發者，請瞭解如何與間接轉銷商合作來擴展。 這包括您可以在合作夥伴中心執行的工作。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 218b0d9f22bfe10aa0974b1b2db38008d0a48eaf
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.date: 02/04/2020
+ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362566"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394113"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
 
@@ -81,7 +82,7 @@ ms.locfileid: "83362566"
     > [!IMPORTANT]  
     >  您可以編輯電子郵件訊息中的文字，但請務必包含連結，因為它已針對您的合作夥伴中心帳戶個人化。
 
-4. 轉銷商接受您的合作關係要求之後，就會出現在您的間接轉銷商清單中，而且您將能夠：
+4. 轉銷商接受您的合作關係要求之後，他們會出現在您的間接轉銷商清單中，您可以：
 
    - 代表他們新增新客戶
 
@@ -99,8 +100,8 @@ ms.locfileid: "83362566"
 
 | **若要完成此工作** | **請這樣做** | **希望** |
 |   ------------------   |   -------   |   -----   |
-|讓轉銷商管理客戶的帳戶，並擁有管理其訂閱的系統管理員許可權 | 當您新增客戶，關聯經銷商到客戶帳戶 | 在 **\[新客戶\]** 頁面 |
-|讓經銷商管理 Azure 客戶帳戶|當您新增客戶，關聯經銷商到 Azure 客戶帳戶|在 \[**Azure 服務入口網站**\] 中，選取[使用者設定](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)提供間接經銷商**租用戶擁有者**權限|
+| 讓轉銷商管理客戶的帳戶，並擁有管理其訂閱的系統管理員許可權 | 當您新增客戶，關聯經銷商到客戶帳戶 | 在 **\[新客戶\]** 頁面 |
+| 讓經銷商管理 Azure 客戶帳戶|當您新增客戶，關聯經銷商到 Azure 客戶帳戶|在 \[**Azure 服務入口網站**\] 中，選取[使用者設定](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings)提供間接經銷商**租用戶擁有者**權限|
 | 提供經銷商獎勵的信用點數 | 關聯經銷商到訂閱（新或現有） | 在 **\[新訂閱\]** 頁面上 |
 | 委派特定訂閱的客戶支援給經銷商 | 從 **\[指派的支援連絡人\]** 清單選取經銷商 | 在訂用帳戶的詳細資料頁面上：選取 [**客戶] 頁面，** 然後從 [客戶的**訂閱**] 頁面中選取訂用帳戶 |
 
@@ -123,8 +124,9 @@ ms.locfileid: "83362566"
 5. 如果是正確的訂單，請選取 **\[提交\]**。 如果訂單不正確，請選取 **\[取消\]** 以取消整個作業並從頭開始。
 
 6. 提交訂單之後，**\[確認\]** 頁面隨即出現。 **\[安裝資訊\]** 下方會顯示系統管理員使用者帳戶和密碼暫時。 複製使用者帳戶名稱和密碼，以便將它傳送給新的客戶。
+
     > [!IMPORTANT]  
-    > 請務必記下使用者帳戶名稱和密碼，因為您在關閉此頁面之後將無法再存取這項資訊。
+    > 請務必記下使用者帳戶名稱和密碼，因為您在關閉此頁面之後，將無法再存取這項資訊。
 
 7. 選取 [完成]  。 新的客戶出現在您的客戶清單中，並與間接經銷商相關聯。 轉銷商現在具有客戶帳戶資訊和訂用帳戶的系統管理員存取權，而且可以代表客戶管理訂閱。
 

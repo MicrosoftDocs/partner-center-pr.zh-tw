@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 02/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 供應專案清單包含可透過合作夥伴中心購買的不同產品系列及其定價資訊。
+description: 請參閱授權型服務的目前價格清單，例如 Office 365、Microsoft Dynamics CRM 和企業行動套件，以及 Azure 等使用方式服務。
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 19e935122d1223c87714ca8c3a3f4fd212f2cf3c
-ms.sourcegitcommit: 4731d6647db34cf214f781f9e002074210fcfc29
+ms.custom: SEOAPR.20
+ms.openlocfilehash: ba6b3407f233376f99eea673e24f5a152839383a
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "81664288"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394172"
 ---
-# <a name="pricing-and-offers"></a>定價與方案
+# <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、企業行動套件、Azure 等等的定價和優惠
 
 **適用於**
 
@@ -41,7 +41,7 @@ ms.locfileid: "81664288"
 
 以授權為基礎的服務包含價格清單預覽，在任何變更的前30天內提供。 若要查看價格清單預覽，請前往**銷售 > 定價和優惠**。 基於使用方式的服務，因為這些服務是動態的，所以沒有任何價格預覽。 下表說明如何讀取價格清單資料表。
 
-|**項目**        |**定義**      |
+|**Item**        |**定義**      |
 |:-----------   |:-----------   |
 |ADD   |價格清單的新專案|
 |CHG   |從 month 到 month 的清單價格變更。 可能會發生其他與清單價格不相關的變更，合作夥伴應比較月份之間的價格清單，以判斷其他屬性的變更。|
@@ -80,12 +80,12 @@ ms.locfileid: "81664288"
 
 CSP 針對特殊市場部門提供一些服務，例如教育、非收益和政府機關的雲端。 並非所有服務都可以在每個通道中使用。 沒有區段預設為所謂的「商業」區段。 所有以授權為基礎的定價都可在 [定價與供應專案] 頁面上的 [以授權為基礎的價格] 清單中取得。 登入已啟用 Azure Government 的 CSP 租使用者時，以使用量為基礎的價格清單中會提供 Azure Government 定價。
 
-|**區段**   |**誰必須符合資格**   |**合作夥伴合格客戶**|**啟用的產品類型**|
+|**片斷**   |**誰必須符合資格**   |**合作夥伴合格客戶**|**啟用的產品類型**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
 |Education|客戶|否，Microsoft 將會執行客戶資格 |僅以授權為基礎|
 |非收益|客戶|否，客戶在合作夥伴中心外符合資格|僅以授權為基礎|
 |政府社群雲端 (GCC)|合作夥伴和客戶|啟用 GCC 後，合作夥伴可以建立 GCC 客戶| 僅以授權為基礎|
-|Azure Government|合作夥伴|合格後，合作夥伴會在特定的 CSP 租使用者中操作 Azure Government|Azure 資源|
+|Azure Government|Partner|合格後，合作夥伴會在特定的 CSP 租使用者中操作 Azure Government|Azure 資源|
 
 「合作夥伴邊界」、「標價」和「預估零售價格」之間的差異，可能會因區段而異。 一般而言，教育和非利潤的 CSP 合作夥伴通常會有較低或完全沒有邊界。 如需確切值，請參閱以授權為基礎的價格清單。  
 ## <a name="pricing-between-azure-and-non-azure"></a>Azure 與非 Azure 之間的定價

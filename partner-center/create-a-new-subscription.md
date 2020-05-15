@@ -1,21 +1,22 @@
 ---
-title: 建立、暫停或取消客戶訂閱
+title: 在合作夥伴中心建立客戶訂用帳戶
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何在合作夥伴中心內建立客戶記錄之後，將客戶的訂用帳戶銷售到目錄中的產品。
+description: 瞭解如何向 Microsoft 所發佈的產品以及由協力廠商 Isv 發佈的 SaaS 產品，銷售您的客戶訂用帳戶。
 ms.assetid: E95F1538-60E1-464C-B72B-52764BF3A820
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: 訂用帳戶，建立新的訂用帳戶，暫停，取消，暫停，暫停，SaaS，授權，ISV，協力廠商
 ms.localizationpriority: medium
-ms.openlocfilehash: 75cfa546834e0e95dd716492ff822c0d1aa940b7
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362356"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394145"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -37,12 +38,12 @@ ms.locfileid: "83362356"
 
 某些供應專案僅限每個客戶有一個訂用帳戶。 若要查看受限制的供應項目清單，請造訪合作夥伴中心 [定價與方案] 頁面。
 
->[!IMPORTANT]
-身為 CSP 計畫的合作夥伴，您只能從合作夥伴中心內的 ISV 發行者購買以**授權為基礎**的 SaaS 訂閱。 這表示您可以購買 ISV 發行者已提供給您的任何**授權型**SaaS 供應專案，包括您有權存取的[專屬優惠](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)。 若要向 Isv 購買或管理其他的商業 marketplace 供應專案（例如，以**使用量為基礎**、計量付費或涉及 Azure 應用程式、容器或 vm 的耗用量型供應專案），您必須移至[azure 管理入口網站](https://portal.azure.com/)。 如需詳細資訊，請參閱[購買商用 marketplace 產品](csp-commercial-marketplace-purchase.md)。
+> [!IMPORTANT]
+> 身為 CSP 計畫的合作夥伴，您只能從合作夥伴中心內的 ISV 發行者購買以**授權為基礎**的 SaaS 訂閱。 這表示您可以購買 ISV 發行者已提供給您的任何**授權型**SaaS 供應專案，包括您有權存取的[專屬優惠](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)。 若要向 Isv 購買或管理其他的商業 marketplace 供應專案（例如，以**使用量為基礎**、計量付費或涉及 Azure 應用程式、容器或 vm 的耗用量型供應專案），您必須移至[azure 管理入口網站](https://portal.azure.com/)。 如需詳細資訊，請參閱[購買商用 marketplace 產品](csp-commercial-marketplace-purchase.md)。
 
 ## <a name="create-a-new-subscription"></a>建立新的訂用帳戶
 
-1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
+1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard)。
 
 2. 從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。
 
@@ -55,11 +56,11 @@ ms.locfileid: "83362356"
 
 5. 選取您想要為客戶購買的產品訂閱。 您看到的產品取決於客戶區段的類型（教育、政府等），以及您已套用的篩選。 Marketplace 上顯示的某些供應專案可能不一定會提供給特定的客戶或特定的 CSP 合作夥伴。 這可能是因為：
 
-    - 客戶已有該產品的訂用帳戶，且只允許一個
+   - 客戶已有該產品的訂用帳戶，且只允許一個
 
-    - 客戶的訂用帳戶可能已暫停（在此情況下，您可以重新啟用訂用帳戶，而不是購買新的）。
+   - 客戶的訂用帳戶可能已暫停（在此情況下，您可以重新啟用訂用帳戶，而不是購買新的）。
 
-    - 針對 ISV SaaS 供應專案，可能有幾個原因導致無法購買供應專案： ISV 可能不支援客戶的帳單國家或地區;ISV 可能選擇不透過 CSP 計畫提供供應專案;或者，ISV 可能只對特定 CSP 合作夥伴提供[專屬](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)供應專案。 ISV 供應專案可能也不會透過合作夥伴中心 transactable （例如，容器或某些以使用量為基礎的優惠）。  
+   - 針對 ISV SaaS 供應專案，可能有幾個原因導致無法購買供應專案： ISV 可能不支援客戶的帳單國家或地區;ISV 可能選擇不透過 CSP 計畫提供供應專案;或者，ISV 可能只對特定 CSP 合作夥伴提供[專屬](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers)供應專案。 ISV 供應專案可能也不會透過合作夥伴中心 transactable （例如，容器或某些以使用量為基礎的優惠）。  
 
 6. 針對您想要新增的每個訂用帳戶，輸入授權數目（如有需要），然後選取 [**新增至購物車**]。
 
