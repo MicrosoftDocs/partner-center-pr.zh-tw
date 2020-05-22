@@ -1,22 +1,23 @@
 ---
-title: 在合作夥伴中心使用多頻道選項
+title: 客戶的多重通道支援
 description: 在某些情況下，客戶可能會想要雇用您布建和支援他們在其他位置購買的訂用帳戶。
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: C8B58255-2C7D-4338-A5B0-572BC0F54C0D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e96b7cb91915c6ccbc6485fde87b1e061a73e2da
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 48eaf38150ff5be68d324b9456fb5a446b4127b2
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362696"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795889"
 ---
-# <a name="multi-channel-support"></a>多通路支援
+# <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>多通路支援-使用其他合作夥伴來支援在其他位置購買的客戶訂用帳戶
 
 **適用於**
 

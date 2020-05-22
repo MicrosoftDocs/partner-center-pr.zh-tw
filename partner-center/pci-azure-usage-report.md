@@ -1,24 +1,24 @@
 ---
-title: 合作夥伴中心深入解析-Azure 使用方式報告 |合作夥伴中心
+title: 合作夥伴中心深入解析 Azure 使用量報告
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解您的表現如何，以及您對客戶銷售或管理的 Azure 訂用帳戶使用方式的改善。
 ms.assetid: ''
 keywords: PCI，效能，度量，客戶成功，Azure 使用量，訂用帳戶，分析，報告
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b07aaba9a22c74d52cd8f97f92edd7e0d4deb86a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648079"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795677"
 ---
-# <a name="azure-usage-report"></a>Azure 使用方式報告
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可從合作夥伴中心深入解析儀表板取得的 Azure 使用量報告
 
 **適當的角色**
 - 全域系統管理員
@@ -74,3 +74,7 @@ Azure 使用量報表會顯示與您客戶的 Azure 訂用帳戶相關的計量�
 橫條圖會顯示每月的收益/使用時數趨勢。 折線圖會針對所選 Azure 服務等級/計量類別，顯示與上個月相比的成長趨勢。
 
 ![Azure 使用量使用率](images/pci/pci_azure_usage_utilization_3.png)
+
+## <a name="next-steps"></a>後續步驟
+
+- 如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。

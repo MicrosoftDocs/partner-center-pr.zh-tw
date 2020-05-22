@@ -1,24 +1,24 @@
 ---
-title: 合作夥伴中心深入解析-產品授權報表 |合作夥伴中心
+title: 合作夥伴中心深入解析-產品授權
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解您所做的事，以及您為客戶銷售或管理的授權（或以基座為基礎）雲端產品的改善。
+description: 請查看此產品授權報表，並瞭解如何使用您為客戶銷售或管理的授權（或以基座為基礎）雲端產品來進行改善。
 ms.assetid: ''
 keywords: PCI，效能，度量，客戶成功，雲端訂閱，分析，報告
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 0d2b5dcac2a51d78d814cc6c5099eaeafa0f769a
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648009"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795659"
 ---
-# <a name="product-licenses-report"></a>產品授權報表
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作夥伴中心深入解析儀表板中的產品授權報表
 
 **適當的角色**
 - 全域系統管理員
@@ -49,7 +49,7 @@ ms.locfileid: "75648009"
 
 微圖表會顯示所選日期範圍內已指派授權計數的月間趨勢。
 
-- 作用中授權 . 在選取的日期範圍內，過去30天內，所有具有作用中使用量的客戶授權目前計數。
+- 作用中授權 .. 在選取的日期範圍內，過去30天內，所有具有作用中使用量的客戶授權目前計數。
 在選取的日期範圍內，這些授權的成長或拒絕百分比。
 
 微圖表會顯示在所選日期範圍內，授權計數的月數月趨勢。
@@ -81,3 +81,7 @@ X 軸代表所選日期範圍的月份。 Y 軸代表新增的授權計數。 �
 此視圖會依產品和客戶國家/地區顯示客戶授權的明細。 當您選取 [**依產品的授權**] 圓形圖中的產品時，連續的圖表會顯示用戶端區域的授權明細。
 
 ![授權散發](images/pci/pci_licenses_report_license_distrib_4.png)
+
+## <a name="next-steps"></a>後續步驟
+
+- 如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。

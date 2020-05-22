@@ -1,30 +1,30 @@
 ---
-title: 管理共同銷售商機 |合作夥伴中心
+title: 管理共同銷售商機
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 身為合格的 Microsoft 合作夥伴，您可以與 Microsoft 共同銷售。 瞭解如何定義交易、邀請 Microsoft 共同作業，或觀看已傳送的交易。
-author: vikramb
-ms.author: vikramb
+author: LauraBrenner
+ms.author: labrenne
 keywords: 參考，共同銷售，交易
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7732d1d6b65d90370c06f1a65a29a291915693d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: da10d8e9de254eb3af9450df171b5ae1153ce4bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919835"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796037"
 ---
-# <a name="manage-co-sell-opportunities"></a>管理共同銷售商機
+# <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>管理合作夥伴中心的共同銷售機會，以定義交易並更符合客戶的需求
 
 **適用於**
 
--  合作夥伴中心
--  轉介
--  與 Microsoft 共同銷售
--  交易分享
+- 合作夥伴中心
+- 轉介
+- 與 Microsoft 共同銷售
+- 交易分享
 
 **適當的角色**
 
@@ -65,7 +65,7 @@ ms.locfileid: "81919835"
 
 選取此特定交易的客戶。 輸入其位置，然後開始鍵入名稱。 自動建議會開始顯示以搜尋準則為基礎的建議。 因為許多公司在相同的位置有一個以上的商業實體，所以您可能會看到多個結果。 如果您不確定要選擇哪一種，您可以確認哪些 D-U-N-S 號碼屬於您的客戶。 請務必為您正在使用的客戶選取完全相符的。
 
-一旦您按一下 **[選取客戶**]，系統會提示您輸入此交易的主要連絡人之人員的名稱、電話號碼和電子郵件地址。 這些詳細資料是選擇性的，只有在您打算邀請 Microsoft 銷售以協助您參與時才需要。 選取 [下一步]  。
+一旦您按一下 **[選取客戶**]，系統會提示您輸入此交易的主要連絡人之人員的名稱、電話號碼和電子郵件地址。 這些詳細資料是選擇性的，只有在您打算邀請 Microsoft 銷售以協助您參與時才需要。 選取 [下一步] 。
 
 > [!IMPORTANT]
 > 請確定您已取得客戶同意，將其連絡人資訊提供給 Microsoft 進行交易。 Microsoft 可能會使用此資訊直接與客戶聯繫。
@@ -95,7 +95,7 @@ ms.locfileid: "81919835"
 - **Microsoft：** 這些是 Microsoft 所擁有的解決方案
 - **其他協力廠商解決方案：** 這些是由 Microsoft 共同銷售生態系統中的其他合作夥伴發佈的共同銷售就緒解決方案
 
-提供解決方案資訊之後，請選取 [下一步]，移至您可以在其中決定銷售類型的區段。 您有兩個選擇：
+提供解決方案資訊之後，請選取 [下一步]，移至您可以在其中決定銷售類型的區段。 您有兩個選項：
 
 **私人管道交易**：如果您不邀請 Microsoft 並在此步驟建立 engagement，它會是私用管線類型。 Microsoft 賣方不會看到此交易的詳細資料。
 

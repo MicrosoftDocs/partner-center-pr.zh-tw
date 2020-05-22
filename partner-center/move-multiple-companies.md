@@ -1,22 +1,23 @@
 ---
-title: 將多家公司從 PMC 移轉至合作夥伴中心的指南
+title: 將公司從 PMC 遷移至合作夥伴中心
 ms.topic: article
-ms.date: 01/16/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 當您將多家公司從 PMC 遷移至合作夥伴中心，並將其合併到合作夥伴的通用帳戶時，要知道的事項。
+description: 當您從合作夥伴成員中心（PMC）將多家公司遷移至合作夥伴中心，並將其合併到合作夥伴的通用帳戶時，要知道的事項。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: medium
-ms.openlocfilehash: 16aa2de0eab173c31c0efd5f94b6bab41b2c70d2
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362746"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795778"
 ---
-# <a name="moving-your-multiple-companies-to-partner-center"></a>從多家公司移到合作夥伴中心
+# <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>從合作夥伴成員中心將多家公司移至合作夥伴中心（PMC）
 
 **適當的角色**
 

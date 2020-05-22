@@ -1,20 +1,21 @@
 ---
 title: 瞭解 Microsoft 供應專案的進入市場
 ms.topic: article
-ms.date: 03/16/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 瞭解 Microsoft 供應專案的進入市場如何協助加速上市時間、產生潛在客戶，以及拓展您的業務。
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 keywords: MPN，成員資格權益，會員資格，上市優惠，與 Microsoft 一起上市，進入市場，金級成員資格，銀級成員資格
 ms.localizationpriority: medium
-ms.openlocfilehash: 19b00c2732faa18581214c6d32139c7f2e6ec15a
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362716"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795821"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>透過 Microsoft 供應專案探索您的進入市場
 

@@ -1,23 +1,23 @@
 ---
-title: 管理潛在客戶 |合作夥伴中心
+title: 管理潛在客戶
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何回應參考、管理新的、現有的和封存的參考，並在未來取得更多的參考。
-author: vikramb
-ms.author: vikramb
+description: 使用合作夥伴中心來回應參考，並管理新的、現有和封存的潛在客戶和參考。 瞭解未來如何取得更多的參考。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 參考，共同銷售，交易
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05c0fb22047664ef814d4fbc8eeb45e1ce1df51b
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "81919845"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83796019"
 ---
-# <a name="manage-leads"></a>管理潛在客戶
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潛在客戶，例如客戶查詢、行銷合格的潛在客戶，以及銷售合格的潛在客戶
 
 **適用於**
 

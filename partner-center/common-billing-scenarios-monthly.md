@@ -1,21 +1,22 @@
 ---
-title: 常見的每月計費案例 |合作夥伴中心
+title: 常見的每月計費案例
 ms.topic: article
-ms.date: 11/25/2019
-description: 當您使用每月計費時的常見案例（例如新增訂閱、變更授權數量，以及暫停訂閱）。
+ms.date: 05/13/2020
+description: 當您使用每月帳單時，合作夥伴中心的常見案例包括新增訂閱、變更授權數量，以及暫停訂閱。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 計費、付款、訂單、使用量、每月帳單、訂用帳戶、對帳檔案
 ms.localizationpriority: medium
-ms.openlocfilehash: e67281a0bf7d5649a68a6a3f3c27c40e3666eb14
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c51e6dfa2471570f30b1b957317bff1e6081bb79
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798536"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795618"
 ---
-# <a name="monthly-billing-scenarios"></a>每月計費案例
+# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>新訂閱、變更授權數量或暫停的每月計費案例範例
 
 **適當的角色**
 

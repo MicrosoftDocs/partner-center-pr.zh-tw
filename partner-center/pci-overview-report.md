@@ -1,24 +1,24 @@
 ---
-title: 合作夥伴中心深入解析-總覽儀表板 |合作夥伴中心
+title: 合作夥伴中心深入解析總覽儀表板
 ms.topic: article
-ms.date: 12/27/2019
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解您的表現如何，以及您對銷售和部署和客戶開發的改進程度
+description: 請參閱使用授權、訂用帳戶和 Azure 耗用量來進行銷售和部署、客戶成長和收益成長的快照集。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI，效能，客戶成功，測量，
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 420fb8e6bd7fefcd360dcd0b98bd4885f4d9da38
-ms.sourcegitcommit: 2ba40700aeb94c38ba850973dd7ff3330c577937
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75631869"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795705"
 ---
-# <a name="overview-dashboard-reports"></a>總覽儀表板報表 
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>概述合作夥伴中心深入解析中可用的儀表板報表
  
 [合作夥伴中心總覽] 儀表板會提供關鍵效能指標的快照集，例如客戶、訂用帳戶、Azure 耗用量收益、授權等等。您可以在 [總覽] 報表中將下列圖表視覺化。 
 
@@ -83,6 +83,6 @@ Azure 的每月趨勢在選取的日期範圍內，為您所使用的收入 US $
 
 ![授權](images/pci/licensesgrowth.png)
 
-### <a name="learn-more"></a>深入了解
+## <a name="next-steps"></a>後續步驟
 
-如需其他合作夥伴中心深入解析儀表板和報表主題，請閱讀[合作夥伴中心深入](partner-center-insights.md)解析
+- 如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。

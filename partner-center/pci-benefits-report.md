@@ -1,26 +1,27 @@
 ---
-title: 合作夥伴中心深入解析-權益報表 |合作夥伴中心
+title: 合作夥伴中心深入解析權益報告
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解您已授與哪些類型的 Microsoft 合作夥伴權益，以協助拓展業務、提升效率並提升小組的技能。
 ms.assetid: ''
 keywords: PCI，效能，測量，優點，分析，報告
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 26ff2657eb4b2b27a355d08c647778e2a247f6ce
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226194"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795718"
 ---
-# <a name="benefits-report"></a>權益報告
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>[合作夥伴中心深入解析] 儀表板提供的權益報表
 
 **適當的角色**
+
 - 全域系統管理員
 - 系統管理代理人
 - 報表檢視器
@@ -36,7 +37,7 @@ ms.locfileid: "80226194"
 - 已授與雲端服務
 - 軟體產品
 - Visual Studio 訂閱
-- 技術優勢
+- 技術權益
 - 進入市場
 
  > [!NOTE]
@@ -71,7 +72,7 @@ ms.locfileid: "80226194"
 
 ![Visual Studio 訂閱](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
 
-**技術優勢**
+**技術權益**
 
 此圖表顯示所選日期範圍內所授與之支援權益的每月趨勢。
 
@@ -86,3 +87,7 @@ ms.locfileid: "80226194"
 從圖表頂端的下拉式清單中，選取 [進入市場供應專案] 或 [服務] 類別，以查看授與貴公司之所選進入市場服務的趨勢。 圖表中的資料行代表進入市場的供應專案或服務已啟用。 折線圖代表貴公司所授與的整體上市提供或服務。
 
 ![上市優惠](images/pci/pci_benefits_go_to_market_7.png)
+
+## <a name="next-steps"></a>後續步驟
+
+- 如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。

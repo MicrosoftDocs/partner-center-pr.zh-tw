@@ -1,20 +1,21 @@
 ---
-title: 每日評分的使用量對帳檔案 |合作夥伴中心
+title: 每日評分的使用量對帳檔案
 ms.topic: article
-ms.date: 01/14/2020
+ms.date: 05/15/2020
 description: 瞭解如何在合作夥伴中心讀取每日分級的使用量對帳檔案。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: a9c7f328cf1a10b4a23aeb775524d5931bdbb703
-ms.sourcegitcommit: fc43ee25d405ef3dc673edd884c877bfc62ad6aa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3536b1b71dd8378e88ac14726adcca7fa0e08530
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/15/2020
-ms.locfileid: "76021722"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795588"
 ---
-# <a name="daily-rated-usage-reconciliation-files"></a>每日評分的使用量對帳檔案
+# <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>瞭解如何讀取合作夥伴中心的每日評量使用量對帳檔案
 
 **適用於**
 
@@ -24,7 +25,7 @@ ms.locfileid: "76021722"
 **適當的角色**
 
 - 系統管理代理人
-- 帳單管理
+- 帳單系統管理員
 - 銷售代理人
 - 技術服務代理人
 
@@ -32,17 +33,17 @@ ms.locfileid: "76021722"
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>每日分級使用量對帳檔案中的欄位
 
-| 欄位 | 說明 |
+| 資料行 | 描述 |
 | ------ | ----------- |
 | PartnerId | GUID 格式的合作夥伴識別碼。 |
 | PartnerName | 合作夥伴名稱。 |
 | CustomerId | 客戶的唯一 Microsoft 識別碼（GUID 格式）。 |
-| CustomerName | 合作夥伴中心中回報的客戶組織名稱。 *此資料行非常重要，因為它會將發票與您的系統資訊進行協調。* |
+| CustomerName | 如合作夥伴中心報告的客戶組織名稱。 *此資料行非常重要，因為它會將發票與您的系統資訊進行協調。* |
 | CustomerDomainName | 客戶的功能變數名稱。 |
 | CustomerCountry | 客戶所在的國家/地區。 |
 | MpnId | CSP 合作夥伴的 MPN 識別碼。 |
 | Tier2MpnId | 訂用帳戶之記錄轉銷商的 MPN 識別碼。 |
-| InvoiceNumber | 交易的指定位置顯示的發票號碼。 |
+| InvoiceNumber | 出現指定交易的發票號碼。 |
 | ProductId | 產品的識別碼。 |
 | SkuId | 特定 SKU 的識別碼。 |
 | AvailabilityId | 特定 SKU 可用性的識別碼。 這會顯示 SKU 是否可在指定的國家/地區、貨幣、產業區段等中購買。 |
@@ -51,12 +52,12 @@ ms.locfileid: "76021722"
 | PublisherName | 發行者的名稱。 |
 | PublisherId | GUID 格式的發行者識別碼。 |
 | SubscriptionDescription | 客戶購買的服務優惠名稱，如價目表中所定義。 （這是與**OfferName**相同的欄位）。 |
-| SubscriptionId | 訂閱在 Microsoft 帳單平台中的唯一識別碼。 不用於對帳。 *此識別碼與合作夥伴系統管理員主控台上的訂用帳戶**ID**不同。* |
-| ChargeStartDate | 計費週期的開始日期（除了向先前的計費週期中呈現先前不收費潛在使用量資料的日期以外）。 時間一律是一天的開始時間 (0:00)。 |
+| SubscriptionId | Microsoft 計費平台中訂用帳戶的唯一識別碼。 不用於對帳。 *此識別碼與合作夥伴系統管理員主控台上的訂用帳戶**ID**不同。* |
+| ChargeStartDate | 計費週期的開始日期（除了向先前的計費週期中呈現先前不收費潛在使用量資料的日期以外）。 此時間一律為第一天的開始時間，即 0:00。 |
 | ChargeEndDate | 計費週期的結束日期（除了向先前的 biling 迴圈呈現先前不收費潛在使用量資料的日期以外）。 時間一律是一天的結束時間 (23:59)。 |
 | UsageDate | 服務使用量的日期。 |
 | MeterType | 計量的類型。 |
-| MeterCategory | 使用的最上層服務。 |
+| MeterCategory | 使用量的最上層服務。 |
 | MeterId | 所使用之計量的識別碼。 |
 | MeterSubCategory | 可能會影響費率的 Azure 服務類型。 |
 | MeterName | 所耗用計量的測量單位。 |
@@ -76,8 +77,8 @@ ms.locfileid: "76021722"
 | PricingCurrency | 價格清單中的貨幣。 |
 | ServiceInfo1 | 在指定一天布建和使用的服務匯流排連接數目。 |
 | ServiceInfo2 | 舊版欄位，可捕捉選擇性的服務特定中繼資料。 |
-| 標記 | 代表使用者所設定之 Azure 資源的邏輯組織。 |
-| AdditionalInfo | 其他資料行中未涵蓋的任何其他資訊。 |
+| Tags | 代表使用者所設定之 Azure 資源的邏輯組織。 |
+| AdditionalInfo | 任何未涵蓋於其他資料行中的其他資訊。 |
 | EffectiveUnitPrice | 每個單位的實際值，包括任何折扣、取得的點數等。 |
 | PCToBCExchangeRate | 定價貨幣對計費貨幣的匯率。 |
 | PCToBCExchangeRateDate | 決定計費貨幣的定價貨幣的日期。 |

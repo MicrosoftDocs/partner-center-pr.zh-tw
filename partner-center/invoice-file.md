@@ -1,27 +1,29 @@
 ---
-title: 發票檔案 |合作夥伴中心
+title: 瞭解帳單發票中的欄位
 ms.topic: article
-ms.date: 08/26/2019
+ms.date: 05/18/2020
 description: 瞭解發票檔案中合作夥伴中心計費的欄位。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: 帳單，發票
 ms.localizationpriority: medium
-ms.openlocfilehash: bcbb784ceda9e4b8cbddf61e0b5380ad18d3f264
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798896"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794867"
 ---
-# <a name="invoice-files"></a>發票檔案
+# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>合作夥伴中心帳單發票-瞭解如何閱讀帳單和一次性費用欄位
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   帳單系統管理員
--   技術服務代理人
+
+- 全域系統管理員
+- 使用者系統管理員
+- 帳單系統管理員
+- 技術服務代理人
 
 您可以使用下表來瞭解合作夥伴中心發票檔案中的欄位。
 
@@ -58,8 +60,8 @@ ms.locfileid: "82798896"
 
 | 欄位 | 定義 |
 | ----- | ---------- |
-| Date | 購買日期。 |
-| 描述 | 產品名稱。 |
+| 日期 | 購買日期。 |
+| Description | 產品名稱。 |
 | 數量 | 購買的產品數（例如保留）。 |
 | 單位價格 | 每個產品的價格（例如保留）。 |
 | 折扣 | 適用的任何折扣。 |

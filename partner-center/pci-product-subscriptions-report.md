@@ -1,24 +1,24 @@
 ---
-title: 合作夥伴中心深入解析-產品訂閱報表 |合作夥伴中心
+title: 合作夥伴中心深入解析訂閱報表
 ms.topic: article
-ms.date: 01/03/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解您的表現如何，以及您對客戶銷售或管理的雲端訂閱有何改進。
 ms.assetid: ''
 keywords: PCI，效能，度量，客戶成功，雲端訂閱，分析，報告
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 7c2621130c9eef99f09f062f9bf38c48c8dcb4b6
-ms.sourcegitcommit: 39d4629869b3b739bffbac212e2514a8d50d152e
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/03/2020
-ms.locfileid: "75648049"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795917"
 ---
-# <a name="product-subscriptions-report"></a>產品訂閱報表
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>[合作夥伴中心深入解析] 儀表板提供的產品訂閱報表
 
 **適當的角色**
 - 全域系統管理員
@@ -108,3 +108,7 @@ ms.locfileid: "75648049"
 
 > [!NOTE]
  > 依 Sku 細分的訂用帳戶計數可能不一定會符合該產品的總訂用帳戶計數。 如果客戶已在相同的產品訂用帳戶下購買多個 Sku，就可能發生這種情況。
+
+## <a name="next-steps"></a>後續步驟
+
+- 如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。

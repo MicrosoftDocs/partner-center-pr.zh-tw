@@ -1,7 +1,7 @@
 ---
-title: 合作夥伴中心的帳單類型 |合作夥伴中心
+title: 合作夥伴中心的帳單類型
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解您可能會在合作夥伴中心看到的不同計費類型、計費週期和計費日期。
@@ -9,15 +9,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 計費, 付款, 訂單, 對帳檔案, 對帳檔案
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: fcacb9b0832c561e79e2d3c6df4d56b4d2f75b62
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 78199085c0ed56f55974cd4465ac3480f35c7761
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798586"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794987"
 ---
-# <a name="types-of-billing-in-partner-center"></a>合作夥伴中心的帳單類型
+# <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>合作夥伴中心的帳單類型-包含以授權為基礎、以使用量為基礎的一次性計費
 
 **適用於**
 

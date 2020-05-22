@@ -1,24 +1,24 @@
 ---
-title: 合作夥伴中心深入解析-專長認證報表 |合作夥伴中心
+title: 合作夥伴中心深入解析專長認證報表
 ms.topic: article
-ms.date: 03/19/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解您的表現如何，以及您可以如何改善 Microsoft 專長認證、專長認證等級和優惠，以協助您提供 Microsoft 解決方案。
 ms.assetid: ''
 keywords: PCI，效能，度量，客戶成功，專長認證，優點，分析，報告
-author: MicheleHope
-ms.author: v-mihope
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 1a6e8dd723bafbe62ab6d7b7b99de6ffd6fb1481
-ms.sourcegitcommit: aa33cbd4b3b2f575afcc71ffbdfdc5b45e372f24
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "80226184"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795654"
 ---
-# <a name="competencies-report"></a>專長認證報表
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>可從合作夥伴中心深入解析儀表板取得的專長認證報表
 
 **適當的角色**
 - 全域系統管理員
@@ -52,7 +52,7 @@ ms.locfileid: "80226184"
 
 **Summmary**
 
-[摘要] 視圖會針對專長認證生命週期的所有階段，顯示其名稱在每個專長認證層級（金/銀）中的能力計數。 專長認證生命週期的階段包括：**已啟動**、**合格** **、作用中且有** **風險**。 範例：雲端專長認證需求分為兩類：技能和效能。
+[摘要] 視圖會針對專長認證生命週期的所有階段，顯示其名稱在每個專長認證層級（金/銀）中的能力計數。 專長認證生命週期的階段包括：**已啟動**、**合格** **、作用中且有****風險**。 範例：雲端專長認證需求分為兩類：技能和效能。
 
 - 已啟動：您有一或多個基礎需求進行中的能力計數。
 使用專長認證的專長認證等級（銀級/金級）來細分已啟動的職稱計數。
@@ -86,3 +86,6 @@ ms.locfileid: "80226184"
 
 ![專長認證歷程記錄](images/pci/pci_competencies_comp_history_3.png)
 
+## <a name="next-steps"></a>後續步驟
+
+- 如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。

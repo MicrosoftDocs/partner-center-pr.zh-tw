@@ -1,21 +1,22 @@
 ---
-title: Microsoft Learn 分析 |合作夥伴中心
+title: Microsoft Learn 分析
 ms.topic: article
-ms.date: 07/05/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 利用個別訓練、已完成的模組、已完成的學習路徑等等的資料，追蹤公司中的學習人員。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 43d5e0770861aa23d9fe993df012e7a183894528
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8e69b283edd0110ba2b6e13ea60621171b83e4b6
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005104"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795929"
 ---
-# <a name="microsoft-learn-analytics-report"></a>Microsoft Learn 分析報告
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>[Microsoft Learn 分析] 報表會顯示您公司中的學習工具狀態
 
 **適當的角色**
 -   全域系統管理員
@@ -110,7 +111,7 @@ Microsoft Learn 識別具有使用者物件識別碼的學習工具。 在 [**�
 
 2. 將 [使用者物件識別碼] 複製到 [圖形瀏覽器] 中反[白顯示的區域](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f)。 
 
-## <a name="faq"></a>常見問題
+## <a name="faq"></a>常見問題集
 
 1. 我看不到我公司的學習詳細資料。
 

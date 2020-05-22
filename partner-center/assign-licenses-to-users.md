@@ -1,23 +1,24 @@
 ---
-title: 客戶帳戶的使用者管理工作 | 合作夥伴中心
+title: 管理客戶帳戶中的使用者
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何為客戶建立使用者帳戶、新增或移除使用者授權、重設使用者密碼、刪除使用者帳戶或加以還原。
+description: 瞭解如何為客戶建立使用者帳戶、新增或移除使用者授權、重設使用者密碼、刪除使用者帳戶，或將其還原。
 ms.assetid: 41B06576-8DDD-435D-BABB-697D4AD30213
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 客戶管理、帳戶、建立帳戶、授權、指派授權、使用者管理、密碼、重設密碼、變更密碼
 ms.localizationpriority: medium
-ms.openlocfilehash: 15647d55b1e7a43ca78b2285808f8602dba80f41
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9fa251bb6211786df0e6255d0d8ce7a2310a52ad
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798616"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795028"
 ---
-# <a name="user-management-tasks-for-customer-accounts"></a>客戶帳戶的使用者管理工作
+# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>合作夥伴中心內客戶帳戶的使用者管理工作
 
 **適用於**
 

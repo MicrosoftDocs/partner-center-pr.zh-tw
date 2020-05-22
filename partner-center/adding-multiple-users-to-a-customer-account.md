@@ -1,23 +1,24 @@
 ---
-title: 為客戶帳戶建立多位使用者 | 合作夥伴中心
+title: 為客戶帳戶新增多個使用者
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 以逗點分隔值檔案格式（.csv）將資料檔案上傳至合作夥伴中心，以瞭解如何一次將多個使用者新增至客戶的帳戶。
+description: 瞭解如何一次將多個使用者新增至客戶的帳戶。 使用逗號分隔值（.csv）檔案格式，將資料檔案上傳至合作夥伴中心。
 ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: 大量上傳, 新增多個使用者至客戶的帳戶, 新增客戶使用者, 大量上傳客戶使用者, 客戶帳戶, 客戶使用者, 使用者
 ms.localizationpriority: medium
-ms.openlocfilehash: 36130f268c9d33217ef3473136ec511f374fb583
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1929eb7eee7f23de6ae6e8dcd343d38fe2414f6f
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798626"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794906"
 ---
-# <a name="add-multiple-users-to-a-customer-account"></a>將多個使用者新增到客戶帳戶
+# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>將多個使用者新增至客戶帳戶-將資料檔案上傳至合作夥伴中心
 
 **適用於**
 
@@ -43,7 +44,7 @@ ms.locfileid: "82798626"
 
 |                 |                                                                              |                                            |
 |-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **資料行名稱** | **描述**                                                              | **局限**                             |
+| **資料行名稱** | **說明**                                                              | **限制**                             |
 | 名字      | 使用者的名字（選擇性欄位）                                           | 50 個字元的限制                         |
 | 姓氏       | 使用者的姓氏 (選擇性欄位)                                            | 50 個字元的限制                         |
 | 顯示名稱    | 顯示在合作夥伴中心的名稱（必要欄位）                            | 50 個字元的限制                         |
@@ -68,10 +69,10 @@ ms.locfileid: "82798626"
 
 7. 選取 [驗證]  。
 
-    **請注意**  ，大部分的帳戶建立錯誤是由資料檔案問題所造成，包括遺漏資訊、格式不正確或重複的電子郵件地址，或檔案中有太多記錄。
+    **注意**   大部分的帳戶建立錯誤是由資料檔案問題所造成，包括遺漏資訊、格式不正確或重複的電子郵件地址，或檔案中有太多記錄。
 
 8. 合作夥伴中心驗證檔案之後，請選取新使用者的地理**位置**。
-9. 選取 [儲存]  。
+9. 選取 [儲存]。
 10. 下載使用者的暫存密碼資訊。
 
 **重要：** 請務必立即下載包含暫時密碼的檔案，因為您無法在之後執行此作業。 新的使用者必須他們新帳戶的暫時密碼登入他們的新帳戶。

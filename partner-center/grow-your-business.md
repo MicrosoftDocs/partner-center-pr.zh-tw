@@ -1,7 +1,7 @@
 ---
-title: 拓展您的 Microsoft 合作夥伴業務 | 合作夥伴中心
+title: 拓展您的 Microsoft 合作夥伴業務
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解成長您的 Microsoft 合作夥伴業務的資源。 這包括如何取得 Microsoft 的銷售潛在客戶（參考）。
@@ -9,14 +9,15 @@ keywords: 推薦, 回應推薦, 潛在客戶, 業務潛在客戶, 行銷設定�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: bd43f16a9362faeb105591e57be35f9cb0441479
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: f221c34ea22eb200bbcf90c5a82beeb51ec3eaae
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798036"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795814"
 ---
-# <a name="grow-your-microsoft-partner-business"></a>拓展您的 Microsoft 合作夥伴業務 
+# <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>拓展您的 Microsoft 合作夥伴業務-瞭解如何取得潛在客戶 & 將您的公司分開
 
 Microsoft 提供許多資源，協助您拓展合作夥伴業務。 了解此網站 - Microsoft 合作夥伴中心 - 的功能如何協助您吸引新客戶，並獲得更多收益。
 
@@ -42,5 +43,5 @@ Microsoft 提供許多資源，協助您拓展合作夥伴業務。 了解此網
 | 在其他市場銷售 | 雲端解決方案提供者銷售通路可以在許多國家/地區進行銷售。 請參閱[雲端解決方案提供者市場](agreements.md)以複查清單。 如需雲端解決方案提供者通路的簡介，請參閱[雲端解決方案提供者概觀](csp-overview.md)。  | 雲端解決方案提供者合作夥伴 |
 銷售給特色產業，例如非營利組織及教育機構|[銷售到特色產業](get-special-pricing-for-offers.md)|雲端解決方案提供者合作夥伴|
 |透過獎勵合作計畫中提供的眾多活動，拓展您的業務。 透過合作夥伴中心提交活動宣告。| [建立和管理獎勵宣告](create-incentives-claims.md)|雲端解決方案提供者合作夥伴|
-|銷售商業市集產品的訂用帳戶|[Undertand CSP 商業 marketplace 活動](csp-commercial-marketplace-overview.md)|雲端解決方案提供者合作夥伴|
+|銷售商業市集產品的訂用帳戶|[瞭解 CSP 商業 marketplace 活動](csp-commercial-marketplace-overview.md)|雲端解決方案提供者合作夥伴|
 |公司是銷售和管理 Azure 的超級明星嗎？ 申請註冊 Azure 專家 Microsoft 服務提供者計畫|[Azure 專家 Microsoft 服務提供者計畫](azure-expert-msp.md)|雲端解決方案提供者合作夥伴|

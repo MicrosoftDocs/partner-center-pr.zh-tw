@@ -1,19 +1,20 @@
 ---
-title: 將 Office 365 E4 訂閱移轉至新版 Office 365 | 合作夥伴中心
+title: 遷移 Office 365 E4 訂閱
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 企業版 E4 從 2017 年 4 月 7 日起淘汰。 了解如何將您的客戶訂閱移轉至新版 Office 365。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 02d383172595e09a4ab0bf9c6db34862fcc17204
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: bd9f9effd501846934e1b0b2a86b654dfa14ebbe
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798874"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795765"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>將 Office 365 E4 訂閱移轉至新版 Office 365
 
@@ -32,7 +33,7 @@ Office 365 企業版 E4 方案已淘汰，自 2017 年 4 月 7 日起生效。 �
 當 E4 訂閱結束時，會被取消。 為了確保客戶持續的訂閱，您應該將具有即將到期 E4 訂閱的客戶轉換至支援的 SKU 選項，如下所列。 我們建議您將客戶移至訂用帳戶的年度結束日期之前的新訂閱，以避免客戶發生任何服務中斷。 
 
 > [!NOTE]  
->  Office 365 Enterprise E4 商業和政府 Sku 均已淘汰。
+> Office 365 Enterprise E4 商業和政府 Sku 均已淘汰。
  
 在訂閱的詳細資料頁面上，E4 訂閱狀態已從「自動續約於 [日期]」變更為「到期日 [日期]」。 
 
@@ -55,10 +56,10 @@ E4 訂閱會設定為自動續約 = False 於 2017 年 4 月 7 日。 您可以�
 
 | 功能 | 選項 1 | 選項 2 | 選項 3 | 選項 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| 取得 Office 365 企業版 E4 中包含所有的功能？ | 是 | 是 | 是 | 否 |
-| 在 Office 365 中管理電話號碼？ | 是 | 是 | 否 | 否 |
-| 在內部部署和 Office 365（混合部署）中管理電話號碼？ | 是 | 是 | 否 | 否 |
-| 選項可新增 PSTN 語音通話方案嗎？ | 是 | 是 | 否 | 否 |
+| 取得 Office 365 企業版 E4 中包含所有的功能？ | Yes | 是 | 是 | No |
+| 在 Office 365 中管理電話號碼？ | Yes | 是 | 否 | 否 |
+| 在內部部署和 Office 365（混合部署）中管理電話號碼？ | Yes | 是 | 否 | 否 |
+| 選項可新增 PSTN 語音通話方案嗎？ | Yes | 是 | 否 | 否 |
 | PSTN 會議？ | 是 | 否 | 否 | 否 |
 | 共同作業、分析和安全性的進階工具？ | 是 | 否 | 否 | 否 |
 | 互動式報告、儀表板，以及資料視覺效果？ | 是 | 否 | 否 | 否 | 

@@ -1,7 +1,7 @@
 ---
-title: 檢視客戶活動記錄 | 合作夥伴中心
+title: 取得客戶活動記錄的深入解析
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何查看和匯出活動記錄，以深入瞭解客戶帳戶交易和其他客戶相關的合作夥伴管理活動。
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions, 活動記錄, 訂用帳戶, 付款, 帳單, 交易
 ms.localizationpriority: medium
-ms.openlocfilehash: caa203cac0aba616129158d453518166c322aac4
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5ec37ded4c37972884f5d7eaf906792ec46e33af
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798656"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794971"
 ---
-# <a name="view-customer-activity-logs"></a>檢視客戶活動記錄
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>查看或匯出客戶活動記錄，以深入瞭解客戶交易
 
 **適用於**
 

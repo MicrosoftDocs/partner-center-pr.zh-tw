@@ -1,7 +1,7 @@
 ---
-title: 使用 API 取得自動化服務通知 | 合作夥伴中心
+title: 使用 Api 來進行自動化服務通知
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 合作夥伴可以使用 Office 365 和 Microsoft Azure 合作夥伴的 Api 來進行即時服務健全狀況、訊息中心通訊，以及預定的維護事件。
@@ -9,14 +9,15 @@ ms.assetid: 950867A9-458A-4461-B9DD-E97A76404B7D
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: cdfb76e55851c5e79eca160945da566db867928a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3e0ad8a15711ff49ce9f11fb16b583aa69ddae72
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798256"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795087"
 ---
-# <a name="get-automated-service-notifications-with-our-apis"></a>使用 API 取得自動化服務通知
+# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>使用適用于 Azure Insights 的自動化服務通知 & Office 365 服務通訊的 Api
 
 **適用於**
 

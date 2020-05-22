@@ -1,33 +1,35 @@
 ---
-title: Microsoft 合作夥伴網路中的發票和稅金 |合作夥伴中心
+title: Microsoft 合作夥伴網路發票 & 稅金
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 瞭解如何查看或下載您的 MPN 會員資格發票，以及要豁免免稅的檔案，並將您的加值稅識別碼傳送給 Microsoft。
+description: 瞭解如何查看或下載您的 MPN 會員資格發票、如何提出免稅的檔案，以及如何將您的加值稅識別碼傳送給 Microsoft。
 author: LauraBrenner
 ms.author: labrenne
 keywords: MPN，發票，地圖，免稅，加值稅，加值稅 ID
 ms.localizationpriority: medium
-ms.openlocfilehash: 02e6075e67f91bf3283a475f476b69b56fe9dec9
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004257"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795947"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作夥伴網路中的發票和稅金
 
 **適用於**
 
--  合作夥伴中心
+- 合作夥伴中心
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   MPN 合作夥伴系統管理員
--   帳單管理
--   系統管理代理人
+
+- 全域系統管理員
+- 使用者系統管理員
+- MPN 合作夥伴系統管理員
+- 帳單系統管理員
+- 系統管理代理人
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>查看或下載您的 MPN 成員資格發票
 
@@ -37,7 +39,7 @@ ms.locfileid: "75004257"
 
 1.  使用您的工作帳戶登入[合作夥伴中心](https://partner.microsoft.com/dashboard/home)，然後選取左側功能表上的 [ **MPN** ]。
 
-4.  在下拉式清單中，選取 [**成員資格**供應專案] 以查看可供購買的供應專案，以及適用于目前註冊年份的發票。 若要查看過去幾年的發票，請選取 [已**過期**]。
+4.  在下拉式清單中，選取 [**成員資格**供應專案] 以查看可供購買的供應專案，以及適用于目前註冊年份的發票。 若要查看過去幾年的發票，請選取 [過期]  。
 
 6.  選取您想要的發票，然後選取 [**下載發票**]。 
 
@@ -58,5 +60,5 @@ ms.locfileid: "75004257"
 
 2.  選取 [**新增您的 加值稅 ID**]。 
 
-3.  輸入您公司的 [加值稅 ID]，選取 [**新增**]，然後選取 **[下一步]** 。 
+3.  輸入您公司的 [加值稅 ID]，選取 [**新增**]，然後選取 **[下一步]**。 
 

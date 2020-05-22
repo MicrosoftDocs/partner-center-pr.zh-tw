@@ -1,7 +1,7 @@
 ---
 title: 銷售到特色產業
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解 Microsoft 對於特定客戶群組的特殊價格降低定價，包括教育客戶、非獲利客戶和政府使用者。
@@ -9,14 +9,15 @@ ms.assetid: 4E085C48-3CF5-49CF-9DCC-3D18A7051F1F
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e22a4e89de9ec67c6e42659275a038128d521e47
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 00b4dc172c4c39fe73f1118d2eb3a56555eaa464
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362596"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795088"
 ---
-# <a name="sell-to-specialized-industries"></a>銷售到特色產業
+# <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>銷售給特定產業，例如教育、非利潤和政府使用者
 
 **適用於**
 
@@ -34,9 +35,9 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 |**優惠價格**   |**經銷商要求資格**   |**客戶要求資格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Education   |無   | 必須是[合格的教育使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|政府   |若要銷售 Azure，請使用[MICROSOFT 美國政府雲端驗證表單](https://azuregov.microsoft.com/csp)進行註冊。 若要銷售授權型訂閱給政府機構，沒有要求資格。|   無|
-|非營利  |無<br/> 必須有非營利 Azure Active Directory 租用戶。<br/> 深入了解[非營利特別優惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)。   |透過[Microsoft 非贏利計畫](https://nonprofit.microsoft.com/#/register)註冊以符合資格。   |
+|教育訓練   |None   | 必須是[合格的教育使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|政府機關   |若要銷售 Azure，請使用[MICROSOFT 美國政府雲端驗證表單](https://azuregov.microsoft.com/csp)進行註冊。 若要銷售授權型訂閱給政府機構，沒有要求資格。|   None|
+|非營利  |None<br/> 必須有非營利 Azure Active Directory 租用戶。<br/> 深入了解[非營利特別優惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)。   |透過[Microsoft 非贏利計畫](https://nonprofit.microsoft.com/#/register)註冊以符合資格。   |
 
 ## <a name="check-your-reseller-qualifications"></a>檢查您的經銷商資格
 

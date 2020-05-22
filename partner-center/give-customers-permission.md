@@ -1,8 +1,8 @@
 ---
-title: 提供客戶購買其專屬服務的權限
-description: 瞭解 CSP 方案合作夥伴如何讓客戶針對購買的訂用帳戶購買自己的服務（例如 Azure 保留）。
+title: 讓客戶在 CSP 中購買自己的服務
+description: 瞭解 CSP 方案合作夥伴如何讓客戶針對在合作夥伴中心購買的訂用帳戶購買自己的服務（例如 Azure 保留）。
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
@@ -10,14 +10,14 @@ ms.author: labrenne
 Keywords: 訂用帳戶，自助式購買，自助 RI，啟用 RI，停用 RI，自助，客戶購買，客戶許可權，客戶購買保留實例，客戶購買 Azure 保留，開啟自助服務，關閉自助服務
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07e362e80f6d57ca5d0d837160e5ddf04a5b1d65
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394141"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795109"
 ---
-# <a name="how-to-give-customers-permission-to-buy-their-own-products-or-services"></a>如何授與客戶購買自己的產品或服務的許可權
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>授與客戶合作夥伴中心的許可權，以購買自己的產品或服務
 
 **適用於**
 

@@ -1,22 +1,23 @@
 ---
-title: 合作夥伴中心的資料與分析 | 合作夥伴中心
+title: 流量分析取得客戶見解
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何在合作夥伴中心流量分析，以進一步瞭解您的業務，以及您的客戶如何使用您已購買的授權。
+description: 瞭解如何在合作夥伴中心流量分析，以進一步瞭解您的業務，以及您的客戶如何使用您購買的授權。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 資訊, 分析, 資料分析, power bi
 ms.localizationpriority: medium
-ms.openlocfilehash: e8501776365e761c2c7ea9f5c33a2150c92cc79e
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3232a8c5b2f3e0bb4458dffdc577cbd561064dae
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722564"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795204"
 ---
-# <a name="get-data-and-analyze-your-business"></a>取得資料並分析您的業務
+# <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>流量分析來深入瞭解客戶授權使用方式，以及如何協助滿足其需求
 
 **適用於**
 
@@ -28,7 +29,7 @@ ms.locfileid: "74722564"
 
 - MPN 合作夥伴系統管理員
 
-規劃拓展雲端解決方案提供者業務的方式包含了解您的客戶如何使用他們的 Microsoft 產品。 合作夥伴中心有數個收集資料的選項供您選擇，關於您的業務以及關於客戶是否在使用他們所購買的授權和使用方式的這些資料，您都可以收集。 如果您採用雲端解決方案提供者間接模型，就有機會可以安裝和使用適用於 Power BI 的合作夥伴中心分析應用程式來收集額外的資料。
+計劃性開發 CSP 業務的方法包括了解您的客戶如何使用其 Microsoft 產品。 合作夥伴中心有數個收集資料的選項供您選擇，關於您的業務以及關於客戶是否在使用他們所購買的授權和使用方式的這些資料，您都可以收集。 如果您採用雲端解決方案提供者間接模型，就有機會可以安裝和使用適用於 Power BI 的合作夥伴中心分析應用程式來收集額外的資料。
 
 ## <a name="access-to-user-analytics"></a>使用者分析的存取權
 
@@ -48,11 +49,11 @@ ms.locfileid: "74722564"
  
 ## <a name="access-data-in-partner-center"></a>存取合作夥伴中心的資料
 
-|**若要取得資料**   |**下載此**   |**請閱讀本文**   | **適用於**    |
+|**若要取得下列相關資料**   |**請下載這個**   |**請閱讀本文**   | **適用於**    |
 |---------------------|:-----------------------|:---------------|:--------------|
-|您的客戶如何使用他們購買的授權   |合作夥伴中心的部署和使用方式資料 = > 產品分析   |[提高採用率與滿意度](increasing-adoption-and-satisfaction.md)|雲端解決方案提供者合作夥伴|
+|您的客戶如何使用他們購買的授權   |合作夥伴中心的部署和使用方式資料 => 產品分析   |[提高採用率與滿意度](increasing-adoption-and-satisfaction.md)|雲端解決方案提供者合作夥伴|
 |客戶有關訂閱的活動   |活動記錄   |[檢視客戶活動記錄](activity-logs.md)|雲端解決方案提供者合作夥伴   |
-|客戶群、使用率、Azure 使用量等方面的成長   |適用於 Power BI 的合作夥伴中心應用程式   |[適用于 Power BI 的合作夥伴中心分析應用程式（CSP 中的直接合作夥伴）](power-bi-app-for-direct-partners.md)|雲端解決方案提供者直接合作夥伴|
+|客戶群、使用率、Azure 使用量等方面的成長   |適用於 Power BI 的合作夥伴中心應用程式   |[適用於 Power BI (在 CSP 中為直接合作夥伴) 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners.md)|雲端解決方案提供者直接合作夥伴|
 
 
 

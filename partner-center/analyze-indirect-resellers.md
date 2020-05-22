@@ -1,24 +1,24 @@
 ---
-title: 分析間接經銷商績效 | 合作夥伴中心
-ms.date: 11/13/2019
+title: 分析間接經銷商績效
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解如何流量分析，找出間接轉銷商的表現，包括成功和可能需要注意的區域。
+Description: 流量分析來瞭解間接轉銷商的表現，包括成功和可能需要注意的區域。
 author: LauraBrenner
 ms.author: labrenne
 ms.assetid: 4D7DAD9D-4B69-4741-8E80-44256320982E
 ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 9990cc72726803045806b88439fed54f9c9d07a2
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 72064e3847d30b3049649269618256638b2fe4d8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722381"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794939"
 ---
-# <a name="analyze-indirect-resellers-performance"></a>分析間接經銷商績效 
+# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>流量分析來分析間接轉銷商的效能
 
 **適用於**
 
@@ -45,13 +45,13 @@ ms.locfileid: "74722381"
  - **使用中經銷商**：MPNID 至少有 1 個訂閱，以及訂閱狀態不是取消佈建的間接經銷商計數  
  - **交易中經銷商**：在指定的時段中有售出訂閱的間接經銷商計數  
 
-**市場轉銷商**  
+**依市場分類的經銷商**  
  - 依照地理位置分類的經銷商總數  
 
-**銷售的前幾名轉銷商**
+**依照售出訂閱分類的熱門經銷商**
  - 依照售出訂閱數量排序的經銷商清單  
 
-**依訂用帳戶計數排列的熱門產品**  
+**依訂閱計數排序的熱門產品**  
  - **Dynamics 365**：依售出訂閱排序的 Dynamics 365 產品  
  - **EMS**：售出的企業管理服務訂閱數量  
  - **Microsoft 365**：售出的 Microsoft 365 訂閱數量  
@@ -60,11 +60,11 @@ ms.locfileid: "74722381"
 **新增訂閱**  
  - 依日期新增的新訂閱數量  
 
-**訂用帳戶流失**  
+**訂閱流失**  
  - **新訂閱**：依日期新增的新訂閱計數  
  - **取消佈建的訂閱**：依日期的取消佈建或暫停訂閱計數  
 
-**新轉售商詳細資料**  
+**新經銷商詳細資料**  
  - **經銷商名稱**：間接經銷商的名稱  
  - **位置**：間接經銷商營運的市場  
  - **訂閱**：經銷商售出的訂閱數  

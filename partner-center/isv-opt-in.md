@@ -1,39 +1,42 @@
 ---
-title: Marketplace 「專屬」供應專案 |合作夥伴中心
+title: Isv 提供的 Marketplace 專屬優惠
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: ISV 可以選擇 CSP 合作夥伴，使其供應專案獨佔使用。
+description: 瞭解獨立軟體廠商（ISV）如何將特定供應專案專屬，僅供特定的 CSP 合作夥伴使用。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: b3a3edb1a6c74ae0bddb8669ef6d81e0a24a34e4
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123269"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83794844"
 ---
-# <a name="marketplace-exclusive-offers"></a>Marketplace 專屬優惠
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>獨立軟體廠商提供的 Marketplace 專屬優惠
 
 **適當的角色**
--    全域系統管理員
--    使用者系統管理員
--    系統管理代理人
--    銷售代理人
 
-Isv 可以選擇將其供應專案提供給數個精選的 CSP 合作夥伴。 所有 CSP 合作夥伴仍然可以在合作夥伴中心 Marketplace 中查看所有 ISV 供應專案，但標示為專屬的優惠只能由 ISV 已選取的合作夥伴購買。 如果供應專案未指定為「專屬」，所有合作夥伴都可以購買。
+- 全域系統管理員
+- 使用者系統管理員
+- 系統管理代理人
+- 銷售代理人
 
-由 Isv 識別的 CSP 合作夥伴可以：
+獨立軟體廠商（ISV）可讓您選擇僅供特定 CSP 合作夥伴使用的專屬優惠。
 
-- 透過合作夥伴中心 marketplace 購買專屬優惠
+CSP 合作夥伴可以在合作夥伴中心的商業市場中查看所有 ISV 供應專案。 不過，標示為**專屬**的供應專案只能由 ISV 所選取的特定合作夥伴購買。 如果供應專案未標示為**專屬**，則所有合作夥伴都可以購買。
+
+ISV 所識別的特定 CSP 合作夥伴可以：
+
+- 透過合作夥伴中心的商業 marketplace 向該 ISV 購買專屬優惠
 - 匯出價格清單
 
 ## <a name="how-do-you-gain-access-to-exclusive-offers"></a>您要如何取得專屬供應專案的存取權？
 
-當 ISV 在 Marketplace 上發佈供應專案時，他們有機會指出誰可以購買。 
+當 ISV 在 Marketplace 上發佈供應專案時，他們有機會指出誰可以購買。
 
 其選項包括：
 
@@ -41,6 +44,8 @@ Isv 可以選擇將其供應專案提供給數個精選的 CSP 合作夥伴。 �
 - 判斷哪些合作夥伴可以購買
 - CSP 合作夥伴無法使用
 
-若要深入瞭解 Marketplace 中的 ISV 體驗，請參閱[雲端解決方案提供者](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)。
+## <a name="next-steps"></a>後續步驟
 
-如需 Marketplace 的詳細資訊，請參閱[雲端解決方案提供者的商業 Marketplace 總覽](csp-commercial-marketplace-overview.md)。
+- 若要深入瞭解商業 marketplace 中的 ISV 體驗，請參閱[雲端解決方案提供者](https://docs.microsoft.com/azure/marketplace/cloud-solution-providers)。
+
+- 如需有關商業 marketplace 的詳細資訊，請參閱[雲端解決方案提供者的商業 marketplace 總覽](csp-commercial-marketplace-overview.md)。
