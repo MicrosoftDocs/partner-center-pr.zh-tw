@@ -1,54 +1,56 @@
 ---
-title: Office 365 合作夥伴系統管理中心合作夥伴：您的企業營運已移轉到合作夥伴中心 | 合作夥伴中心
+title: 將 Office 365 PAC 企業遷移至合作夥伴中心
 ms.topic: article
-ms.date: 08/22/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在遷移至合作夥伴中心之後，尋找常見的 Office 365 合作夥伴系統管理中心功能，例如建立您的商務和服務要求。
+description: 在遷移至合作夥伴中心之後，尋找常見的 Office 365 合作夥伴系統管理中心（PAC）功能，例如建立您的商務和服務要求。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 63b12682cbde7123224ddeae6fb8b5470858c4ad
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 3dc5247d9ee9dc72276412d441b0f627ec448900
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75005067"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998434"
 ---
-# <a name="office-365-partner-admin-center-partners-get-ready-to-move-business-operations-to-partner-center"></a><span data-ttu-id="a67a6-103">Office 365 合作夥伴系統管理中心合作夥伴：準備將商務營運移至合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="a67a6-103">Office 365 partner admin center partners: Get ready to move business operations to Partner Center</span></span>
+# <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a><span data-ttu-id="dd614-103">Office 365 合作夥伴系統管理中心合作夥伴-準備將商務營運移至合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="dd614-103">Office 365 partner admin center partners - Get ready to move business operations to Partner Center</span></span>
 
-<span data-ttu-id="a67a6-104">**適用於**</span><span class="sxs-lookup"><span data-stu-id="a67a6-104">**Applies to**</span></span> 
+<span data-ttu-id="dd614-104">**適用於**</span><span class="sxs-lookup"><span data-stu-id="dd614-104">**Applies to**</span></span> 
 
-- <span data-ttu-id="a67a6-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="a67a6-105">Partner Center</span></span>
-- <span data-ttu-id="a67a6-106">Office 365 合作夥伴系統管理中心</span><span class="sxs-lookup"><span data-stu-id="a67a6-106">Office 365 partner admin center</span></span>
+- <span data-ttu-id="dd614-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="dd614-105">Partner Center</span></span>
+- <span data-ttu-id="dd614-106">Office 365 合作夥伴系統管理中心</span><span class="sxs-lookup"><span data-stu-id="dd614-106">Office 365 partner admin center</span></span>
 
-<span data-ttu-id="a67a6-107">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="a67a6-107">**Appropriate roles**</span></span>
--   <span data-ttu-id="a67a6-108">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="a67a6-108">Global admin</span></span>
--   <span data-ttu-id="a67a6-109">使用者系統管理員</span><span class="sxs-lookup"><span data-stu-id="a67a6-109">User admin</span></span>
--   <span data-ttu-id="a67a6-110">系統管理代理人</span><span class="sxs-lookup"><span data-stu-id="a67a6-110">Admin agent</span></span>
--   <span data-ttu-id="a67a6-111">銷售代理人</span><span class="sxs-lookup"><span data-stu-id="a67a6-111">Sales agent</span></span>
+<span data-ttu-id="dd614-107">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="dd614-107">**Appropriate roles**</span></span>
 
-<span data-ttu-id="a67a6-112">我們會將 Office 365 合作夥伴系統管理中心功能帶入合作夥伴中心，協助您在整個商務生命週期中管理您的客戶。</span><span class="sxs-lookup"><span data-stu-id="a67a6-112">We're bringing Office 365 partner admin center features into Partner Center to help you manage your customers throughout the business lifecycle.</span></span> <span data-ttu-id="a67a6-113">除了您所使用的功能之外，您現在還可以：</span><span class="sxs-lookup"><span data-stu-id="a67a6-113">In addition to the features you're used to, you'll now be able to:</span></span> 
+- <span data-ttu-id="dd614-108">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="dd614-108">Global admin</span></span>
+- <span data-ttu-id="dd614-109">使用者系統管理員</span><span class="sxs-lookup"><span data-stu-id="dd614-109">User admin</span></span>
+- <span data-ttu-id="dd614-110">系統管理代理人</span><span class="sxs-lookup"><span data-stu-id="dd614-110">Admin agent</span></span>
+- <span data-ttu-id="dd614-111">銷售代理人</span><span class="sxs-lookup"><span data-stu-id="dd614-111">Sales agent</span></span>
 
-*  <span data-ttu-id="a67a6-114">透過[轉介](referrals.md)拓展業務，以及在新客戶加入時即加以管理。</span><span class="sxs-lookup"><span data-stu-id="a67a6-114">Grow your business through [referrals](referrals.md), and manage your new customers as they come in.</span></span>
-*  <span data-ttu-id="a67a6-115">代表您本身及您的提供者傳送建立關係的邀請給客戶</span><span class="sxs-lookup"><span data-stu-id="a67a6-115">Send relationship invitations to customers on behalf of both yourself and your provider</span></span>
-*  <span data-ttu-id="a67a6-116">管理個別使用者，更輕鬆地指派授權</span><span class="sxs-lookup"><span data-stu-id="a67a6-116">Manage individual users and assign licenses more easily</span></span>
+<span data-ttu-id="dd614-112">我們會將 Office 365 合作夥伴系統管理中心功能帶入合作夥伴中心，協助您在整個商務生命週期中管理您的客戶。</span><span class="sxs-lookup"><span data-stu-id="dd614-112">We're bringing Office 365 partner admin center features into Partner Center to help you manage your customers throughout the business lifecycle.</span></span> <span data-ttu-id="dd614-113">除了您所使用的功能之外，您現在還可以：</span><span class="sxs-lookup"><span data-stu-id="dd614-113">In addition to the features you're used to, you'll now be able to:</span></span>
 
-<span data-ttu-id="a67a6-117">您可以立即開始使用合作夥伴中心，處理許多您目前使用 Office 365 合作夥伴系統管理中心所處理的工作。</span><span class="sxs-lookup"><span data-stu-id="a67a6-117">You can start using Partner Center right away for many of the tasks you currently use Office 365 partner admin center for.</span></span> 
+- <span data-ttu-id="dd614-114">透過[轉介](referrals.md)拓展業務，以及在新客戶加入時即加以管理。</span><span class="sxs-lookup"><span data-stu-id="dd614-114">Grow your business through [referrals](referrals.md), and manage your new customers as they come in.</span></span>
+- <span data-ttu-id="dd614-115">代表您本身及您的提供者傳送建立關係的邀請給客戶</span><span class="sxs-lookup"><span data-stu-id="dd614-115">Send relationship invitations to customers on behalf of both yourself and your provider</span></span>
+- <span data-ttu-id="dd614-116">管理個別使用者，更輕鬆地指派授權</span><span class="sxs-lookup"><span data-stu-id="dd614-116">Manage individual users and assign licenses more easily</span></span>
 
-<span data-ttu-id="a67a6-118">目前支援兩個網站，因此當您轉換至新網站時，您仍然可以使用 Office 365 合作夥伴系統管理中心。</span><span class="sxs-lookup"><span data-stu-id="a67a6-118">For now, both sites are supported, so while you're making the transition to the new site, you'll still be able to use Office 365 partner admin center.</span></span> <span data-ttu-id="a67a6-119">您在其中一個位置進行的任何變更，在兩個位置都會出現。</span><span class="sxs-lookup"><span data-stu-id="a67a6-119">Any changes you make in one location will appear in both.</span></span>
+<span data-ttu-id="dd614-117">您可以立即開始使用合作夥伴中心，處理許多您目前使用 Office 365 合作夥伴系統管理中心所處理的工作。</span><span class="sxs-lookup"><span data-stu-id="dd614-117">You can start using Partner Center right away for many of the tasks you currently use Office 365 partner admin center for.</span></span> 
 
-## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a><span data-ttu-id="a67a6-120">在合作夥伴中心尋找 Office 365 合作夥伴系統管理中心功能</span><span class="sxs-lookup"><span data-stu-id="a67a6-120">Find Office 365 partner admin center features in Partner Center</span></span>
+<span data-ttu-id="dd614-118">目前支援兩個網站，因此當您轉換至新網站時，您仍然可以使用 Office 365 合作夥伴系統管理中心。</span><span class="sxs-lookup"><span data-stu-id="dd614-118">For now, both sites are supported, so while you're making the transition to the new site, you'll still be able to use Office 365 partner admin center.</span></span> <span data-ttu-id="dd614-119">您在其中一個位置進行的任何變更，在兩個位置都會出現。</span><span class="sxs-lookup"><span data-stu-id="dd614-119">Any changes you make in one location will appear in both.</span></span>
 
-<span data-ttu-id="a67a6-121">在「合作夥伴中心」完成工作的方式，與您在 Office 365 合作夥伴系統管理中心所使用的內容不同。</span><span class="sxs-lookup"><span data-stu-id="a67a6-121">Completing tasks in Partner Center is done differently to what you're used to in the Office 365 partner admin center.</span></span> <span data-ttu-id="a67a6-122">以下是在合作夥伴中心完成工作的方式。</span><span class="sxs-lookup"><span data-stu-id="a67a6-122">Here's how to complete them in Partner Center.</span></span>
+## <a name="find-office-365-partner-admin-center-features-in-partner-center"></a><span data-ttu-id="dd614-120">在合作夥伴中心尋找 Office 365 合作夥伴系統管理中心功能</span><span class="sxs-lookup"><span data-stu-id="dd614-120">Find Office 365 partner admin center features in Partner Center</span></span>
 
-| <span data-ttu-id="a67a6-123">Office 365 合作夥伴系統管理中心功能</span><span class="sxs-lookup"><span data-stu-id="a67a6-123">Office 365 partner admin center feature</span></span>                       | <span data-ttu-id="a67a6-124">在合作夥伴中心的哪裡？</span><span class="sxs-lookup"><span data-stu-id="a67a6-124">Where is it in Partner Center?</span></span> | 
+<span data-ttu-id="dd614-121">在「合作夥伴中心」完成工作的方式，與您在 Office 365 合作夥伴系統管理中心所使用的內容不同。</span><span class="sxs-lookup"><span data-stu-id="dd614-121">Completing tasks in Partner Center is done differently to what you're used to in the Office 365 partner admin center.</span></span> <span data-ttu-id="dd614-122">以下是在合作夥伴中心完成工作的方式。</span><span class="sxs-lookup"><span data-stu-id="dd614-122">Here's how to complete them in Partner Center.</span></span>
+
+| <span data-ttu-id="dd614-123">Office 365 合作夥伴系統管理中心功能</span><span class="sxs-lookup"><span data-stu-id="dd614-123">Office 365 partner admin center feature</span></span>                       | <span data-ttu-id="dd614-124">在合作夥伴中心的哪裡？</span><span class="sxs-lookup"><span data-stu-id="dd614-124">Where is it in Partner Center?</span></span> | 
 |   -----------------------------------------------  | -------------- |
-| <span data-ttu-id="a67a6-125">建立業務：建立購買優惠</span><span class="sxs-lookup"><span data-stu-id="a67a6-125">Build your business: Create purchase offer</span></span> | <span data-ttu-id="a67a6-126">與您的提供者合作，向客戶銷售優惠方案</span><span class="sxs-lookup"><span data-stu-id="a67a6-126">Work with your provider to sell offers to your customers</span></span> |
-| <span data-ttu-id="a67a6-127">建立業務：要求委派的系統管理員權限</span><span class="sxs-lookup"><span data-stu-id="a67a6-127">Build your business: Request delegated admin permissions</span></span> | <span data-ttu-id="a67a6-128">合作夥伴中心：客戶 > 要求轉銷商關係</span><span class="sxs-lookup"><span data-stu-id="a67a6-128">Partner Center: Customers > Request a reseller relationship</span></span> |
-| <span data-ttu-id="a67a6-129">建立業務：建立試用邀請</span><span class="sxs-lookup"><span data-stu-id="a67a6-129">Build your business: Create trial invitations</span></span> | <span data-ttu-id="a67a6-130">無法使用。</span><span class="sxs-lookup"><span data-stu-id="a67a6-130">Not available.</span></span> <span data-ttu-id="a67a6-131">您仍然可以使用 Office 365 合作夥伴系統管理中心進行此工作</span><span class="sxs-lookup"><span data-stu-id="a67a6-131">You can still use Office 365 partner admin center for this</span></span> |
-| <span data-ttu-id="a67a6-132">服務要求：用戶端清單：Office 365 系統管理中心</span><span class="sxs-lookup"><span data-stu-id="a67a6-132">Service requests: Client list: Office 365 admin center</span></span> | <span data-ttu-id="a67a6-133">合作夥伴中心：客戶 > 管理服務</span><span class="sxs-lookup"><span data-stu-id="a67a6-133">Partner Center: Customers > Administer services</span></span> |
-| <span data-ttu-id="a67a6-134">服務要求：用戶端清單：服務要求</span><span class="sxs-lookup"><span data-stu-id="a67a6-134">Service requests: Client list: Service requests</span></span> | <span data-ttu-id="a67a6-135">合作夥伴中心：服務要求 > 客戶要求</span><span class="sxs-lookup"><span data-stu-id="a67a6-135">Partner Center: Service request > Customer requests</span></span> |
-| <span data-ttu-id="a67a6-136">服務要求：已標幟</span><span class="sxs-lookup"><span data-stu-id="a67a6-136">Service requests: Flagged</span></span> | <span data-ttu-id="a67a6-137">儀表板：客戶：選取公司名稱旁邊的星星</span><span class="sxs-lookup"><span data-stu-id="a67a6-137">Dasbhoard: Customers: select the star next to the company name</span></span> |
-| <span data-ttu-id="a67a6-138">[服務要求] > [用戶端管理] > [系統管理，代表 (AOBO)]</span><span class="sxs-lookup"><span data-stu-id="a67a6-138">Service request > Client administration > Admin on behalf of (AOBO)</span></span> | <span data-ttu-id="a67a6-139">合作夥伴中心：客戶 > 選取客戶 > 選取訂用帳戶 > 選取指定的產品轉銷商</span><span class="sxs-lookup"><span data-stu-id="a67a6-139">Partner Center: Customers > select a customer > select a subscription > select the designated product reseller</span></span> |
+| <span data-ttu-id="dd614-125">建立業務：建立購買優惠</span><span class="sxs-lookup"><span data-stu-id="dd614-125">Build your business: Create purchase offer</span></span> | <span data-ttu-id="dd614-126">與您的提供者合作，向客戶銷售優惠方案</span><span class="sxs-lookup"><span data-stu-id="dd614-126">Work with your provider to sell offers to your customers</span></span> |
+| <span data-ttu-id="dd614-127">建立業務：要求委派的系統管理員權限</span><span class="sxs-lookup"><span data-stu-id="dd614-127">Build your business: Request delegated admin permissions</span></span> | <span data-ttu-id="dd614-128">合作夥伴中心：客戶 > 要求轉銷商關係</span><span class="sxs-lookup"><span data-stu-id="dd614-128">Partner Center: Customers > Request a reseller relationship</span></span> |
+| <span data-ttu-id="dd614-129">建立業務：建立試用邀請</span><span class="sxs-lookup"><span data-stu-id="dd614-129">Build your business: Create trial invitations</span></span> | <span data-ttu-id="dd614-130">無法使用。</span><span class="sxs-lookup"><span data-stu-id="dd614-130">Not available.</span></span> <span data-ttu-id="dd614-131">您仍然可以使用 Office 365 合作夥伴系統管理中心進行此工作</span><span class="sxs-lookup"><span data-stu-id="dd614-131">You can still use Office 365 partner admin center for this</span></span> |
+| <span data-ttu-id="dd614-132">服務要求：用戶端清單：Office 365 系統管理中心</span><span class="sxs-lookup"><span data-stu-id="dd614-132">Service requests: Client list: Office 365 admin center</span></span> | <span data-ttu-id="dd614-133">合作夥伴中心：客戶 > 管理服務</span><span class="sxs-lookup"><span data-stu-id="dd614-133">Partner Center: Customers > Administer services</span></span> |
+| <span data-ttu-id="dd614-134">服務要求：用戶端清單：服務要求</span><span class="sxs-lookup"><span data-stu-id="dd614-134">Service requests: Client list: Service requests</span></span> | <span data-ttu-id="dd614-135">合作夥伴中心：服務要求 > 客戶要求</span><span class="sxs-lookup"><span data-stu-id="dd614-135">Partner Center: Service request > Customer requests</span></span> |
+| <span data-ttu-id="dd614-136">服務要求：已標幟</span><span class="sxs-lookup"><span data-stu-id="dd614-136">Service requests: Flagged</span></span> | <span data-ttu-id="dd614-137">儀表板：客戶：選取公司名稱旁的星號</span><span class="sxs-lookup"><span data-stu-id="dd614-137">Dashboard: Customers: select the star next to the company name</span></span> |
+| <span data-ttu-id="dd614-138">[服務要求] > [用戶端管理] > [系統管理，代表 (AOBO)]</span><span class="sxs-lookup"><span data-stu-id="dd614-138">Service request > Client administration > Admin on behalf of (AOBO)</span></span> | <span data-ttu-id="dd614-139">合作夥伴中心：客戶 > 選取客戶 > 選取訂用帳戶 > 選取指定的產品轉銷商</span><span class="sxs-lookup"><span data-stu-id="dd614-139">Partner Center: Customers > select a customer > select a subscription > select the designated product reseller</span></span> |
 
