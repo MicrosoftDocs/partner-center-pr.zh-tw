@@ -1,34 +1,37 @@
 ---
-title: 美國政府適用的 Microsoft Cloud 合作夥伴中心 | 美國政府適用的 Microsoft Cloud 合作夥伴中心
+title: Microsoft Cloud for US Government 適用的合作夥伴中心
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 美國政府適用的 Microsoft Cloud 合作夥伴中心是一個商務入口網站，適用於希望向美國政府機構客戶提供 Microsoft 雲端解決方案的 Microsoft 合作夥伴。
+description: 此合作夥伴中心網站適用于向美國政府機關的客戶提供 Microsoft 雲端解決方案的 Microsoft 合作夥伴。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e23b79e76cf498a600cb5658feaaf3b6da5578e6
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 288d6aec3dfdc1e6fb7af45c088968b02f52a275
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798746"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998314"
 ---
-# <a name="partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 適用的合作夥伴中心
+# <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>美國政府的 Microsoft Cloud 合作夥伴中心支援政府機關的合作夥伴供應專案
 
 **適用於**
 
--  Microsoft Cloud for US Government 適用的合作夥伴中心
+- Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   系統管理代理人
--   銷售代理人
--   帳單系統管理員
 
-## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美國政府適用的 Microsoft Cloud ：符合資料保護需求 
+- 全域系統管理員
+- 使用者系統管理員
+- 系統管理代理人
+- 銷售代理人
+- 帳單系統管理員
+
+
+## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>美國政府適用的 Microsoft Cloud ：符合資料保護需求
 
 美國政府適用的 Microsoft Cloud 針對美國政府從頭開始設計，可讓美國聯邦、州、地方或部落實體選用 Microsoft 的各種雲端運算服務。 為了能夠滿足公眾部門客戶的特定需求，Microsoft 已對資料中心進行大量投資，並致力於符合美國聯邦與州原則、規定和需求的資料保護合規性。 美國政府適用的 Microsoft Cloud 合作夥伴中心可讓合作夥伴向這些客戶轉售 Microsoft 雲端服務。
 
@@ -58,9 +61,9 @@ ms.locfileid: "82798746"
 
 下列合作夥伴中心工作是使用美國政府適用的 Microsoft Cloud Azure 管理入口網站進行管理： 
 
--   合作夥伴使用者管理
--   客戶使用者和授權管理
--   重設使用者密碼
+- 合作夥伴使用者管理
+- 客戶使用者和授權管理
+- 重設使用者密碼
 
 如需如何管理使用者和授權的詳細資訊，請參閱 [美國政府適用的 Microsoft Cloud 合作夥伴中心內的使用者及授權管理](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)。
 

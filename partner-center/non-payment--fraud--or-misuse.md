@@ -1,22 +1,22 @@
 ---
-title: 管理非付款、詐騙或誤用 |合作夥伴中心
+title: 管理未付款、詐騙或濫用
 ms.topic: article
-ms.date: 11/21/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 請務必瞭解與線上交易相關的各種風險類型，以及管理和緩和這些風險的最佳作法。
+description: 請務必瞭解線上交易牽涉到的各種風險，以及管理和緩和這些風險的最佳作法。
 ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 90a7a10afd1c07616c5b96244f4b66c488ef1626
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 24a6d636ec4b0fb8aecc158f4750e471f1ca1a3a
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798796"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998444"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>在合作夥伴中心內管理未付款、詐騙或誤用
 
@@ -26,10 +26,10 @@ ms.locfileid: "82798796"
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   系統管理代理人
--   帳單系統管理員
+- 全域系統管理員
+- 使用者系統管理員
+- 系統管理代理人
+- 帳單系統管理員
 
 您必須承擔因客戶以詐騙方式購買和/或已購買服務客戶未付款的行為而帶來的財務風險。 因此，*我們強烈建議您將詐騙防護和偵測風險降低控制措施放在原地*。
 
@@ -78,7 +78,7 @@ ms.locfileid: "82798796"
 
 - 盡可能與客戶建立個人關係（例如，透過電話聯絡客戶）。
 - 透過更好的方法（例如使用信用 bureaus 或商業商業報表機構）驗證客戶的認證和背景。
-- 在註冊期間使用多重要素驗證（例如 SMS 驗證），以將暴露于機器人帳戶 creationg 和購買的風險降到最低。
+- 在註冊期間使用多重要素驗證（例如 SMS 驗證），以最小化機器人帳戶的建立和購買風險。
 - 使用服務（例如數位身分識別服務）來管理和追蹤識別。
 - 透過嚴格的信用卡詐騙偵測系統，評估客戶的財務實力。
 - 建立清楚的集合原則。 詳細說明您的集合進程，以及存取訂用帳戶時，是否會受到非付款的影響。 （您可以停用存取或[暫停客戶的](suspend-a-subscription.md)非付款訂閱。）

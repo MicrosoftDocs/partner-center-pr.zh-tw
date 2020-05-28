@@ -1,33 +1,35 @@
 ---
-title: 一次性和選取週期性費用的帳單 |合作夥伴中心
+title: 計費-一次性 & 選取週期性費用
 ms.topic: article
-ms.date: 11/21/2019
-Description: 針對預設詞彙（每月和年度訂用帳戶）預先計費的相關資訊，以及合作夥伴中心選取週期性費用的計費（適用于 Microsoft 和協力廠商 ISV 產品）。
+ms.date: 05/26/2020
+Description: 深入瞭解合作夥伴中心計費-預先計費以取得預設的條款，並針對選取的週期性費用計費。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 計費，一次性，週期性，採購，費用，isv
 ms.localizationpriority: medium
-ms.openlocfilehash: e373e792692e1e5dcec183c79b36ae2c55c92954
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 5194df5463be52872c32720edb67914fe7df7360
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798776"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998424"
 ---
-#  <a name="billing-for-one-time-and-select-recurring-charges"></a>一次性和所選週期性費用的計費
+# <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>在合作夥伴中心計費一次並選取週期性費用
+
 
 **適用於**
 - 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   帳單系統管理員
--   系統管理代理人
--   銷售代理人
+- 全域系統管理員
+- 使用者系統管理員
+- 帳單系統管理員
+- 系統管理代理人
+- 銷售代理人
 
-本主題描述適用于 Microsoft 和協力廠商獨立軟體廠商（ISV）產品的一次性計費體驗 **，並選取週期性費用**。 
+本文說明適用于 Microsoft 和協力廠商獨立軟體廠商（ISV）產品的一次性計費體驗 **，以及選取週期性費用**。 
 
 **一次性計費**是指您預先購買軟體訂用帳戶和 Azure 保留，以預先設定的期限。 您可以購買一年或三年期的條款。 然後以一次性的總和來支付整個成本的費用。
 
@@ -41,7 +43,7 @@ ms.locfileid: "82798776"
 > [!IMPORTANT]
 > 以[**授權為基礎**](license-based-billing.md)之訂用帳戶和[**使用量為基礎**](usage-based-billing.md)之訂用帳戶的週期性費用計費體驗會維持不變。
 
-訂用帳戶的**週期性費用**（包括**授權型和以使用量為基礎**的訂用帳戶）會針對[**線上服務目錄**](https://partner.microsoft.com/commerce/preferredoffers/list)中的所有產品發出。 其中一些範例包括 Office 365、Microsoft 365、Azure Active Directory （Azure AD）、Azure （隨用隨付）、Dynamics 365 和 PowerBI Pro。
+訂用帳戶的**週期性費用**（包括**授權型和以使用量為基礎**的訂用帳戶）會針對[**線上服務目錄**](https://partner.microsoft.com/commerce/preferredoffers/list)中的所有產品發出。 其中一些範例包括 Office 365、Microsoft 365、Azure Active Directory （Azure AD）、Azure （隨用隨付）、Dynamics 365 和 Power BI Pro。
 
 針對適用的訂用帳戶費用，**計費日期**是您在建立合作夥伴中心帳戶時所選取的日期。 **計費週期**是您帳單日期之前的月份。
 

@@ -1,7 +1,7 @@
 ---
-title: 準備從合作夥伴系統管理中心移往合作夥伴中心 | 合作夥伴中心
+title: 從合作夥伴系統管理中心移動
 ms.topic: article
-ms.date: 04/07/2020
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365 合作夥伴系統管理中心功能即將移轉到合作夥伴中心。
@@ -9,27 +9,28 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: PAC，Office 365 Advisor，advisor，新聞訂閱合作夥伴，PAC 淘汰，PAC 淘汰
 ms.localizationpriority: medium
-ms.openlocfilehash: 214ae5d353449c82a7b1ba03a793d06359e28a0a
-ms.sourcegitcommit: ee7f8600f566799838bda64e26c54799137f2cd5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8198cc954c3d129394af1154387b81e25e24e294
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "81123306"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998404"
 ---
-# <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作夥伴系統管理中心即將移至合作夥伴中心
+# <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作夥伴系統管理中心即將移轉到合作夥伴中心
 
 **適用於**
 
--  夥伴中心
+- 合作夥伴中心
 
 **適當的角色**
--    全域系統管理員
--    使用者系統管理員
--    系統管理代理人
--    銷售代理人
+- 全域系統管理員
+- 使用者系統管理員
+- 系統管理代理人
+- 銷售代理人
 
 > [!NOTE]  
->  自本文最初張貼之後，所有日期都已更新。
+> 自本文最初張貼之後，所有日期都已更新。
 
 Office 365 合作夥伴系統管理中心（PAC）即將移至 Microsoft 合作夥伴中心。
 
