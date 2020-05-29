@@ -1,23 +1,23 @@
 ---
-title: 移至 Azure 方案 - 開始使用 | 合作夥伴中心
+title: 開始移至 Azure 方案
+description: 了解使用 Azure 隨用隨付方案時，您和您客戶需要知道的事項，包括首要步驟、安全性預防措施，以及如何開始。
 ms.topic: article
-ms.date: 12/02/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解 Azure 方案的商務體驗，以隨用隨付費率為客戶購買 Azure 服務。 同時了解新的安全性需求。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: Azure, Azure 方案, 購買訂用帳戶, 訂閱
-robots: ''
 ms.localizationpriority: High
-ms.openlocfilehash: 49807f982a75d55572e783c832896461b546cfd3
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.date: 12/02/2019
+ms.openlocfilehash: 849b205d8a889659647ba8a9cf788428b6b25e21
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74681937"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394183"
 ---
-# <a name="move-to-azure-plan---get-started"></a>移至 Azure 方案 - 開始使用
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>開始搭配 Azure 方案使用隨用隨付費率
 
 Microsoft 在合作夥伴中心引進了新的商務體驗。  透過這種新的商務體驗，合作夥伴可在 Microsoft 客戶合約下，以隨用隨付費率為客戶取得 Azure 服務的存取權。
 
@@ -62,6 +62,8 @@ Microsoft 建議合作夥伴盡量使用 RBAC，遵循透過 [Azure Active Direc
 - [合作夥伴所獲得信用點數 - 概觀](partner-earned-credit.md)
 
 - 合作夥伴所獲得信用點數 (PEC) 計算，以及有資格獲得合作夥伴所獲得信用點數的角色和權限，可從您的合作夥伴中心儀表板價目表 (需要登入) 取得。
+
+## <a name="next-steps"></a>接下來的步驟 
 
 - [合作夥伴所獲得信用點數如何決定 - 詳細資料](partner-earned-credit-explanation.md)
 - [Azure 方案價目表說明](azure-plan-price-list.md)

@@ -83,9 +83,8 @@
 ### [管理商務設定檔](create-a-marketing-profile.md)
 ### [管理潛在客戶](manage-leads.md)
 ### [管理共同銷售商機](manage-co-sell-opportunities.md)
-### [Dynamics 365 CRM 的共同銷售連接器](dynamics-connector.md)
-### [Salesforce CRM 的共同銷售連接器](salesforce-connector.md)
-### [使用 Webhook API 在推薦中註冊資源變更事件](referral-connector-webhooks.md)
+### [Dynamics 365 CRM 的共同銷售連接器 – 概觀](connector-dynamics.md)
+### [Salesforce CRM 的共同銷售連接器 – 概觀](connector-salesforce.md)
 ### [註冊您的交易](register-deals.md)
 ### [取得推薦深入解析](referral-insights.md)
 ### [分析您的商務設定檔](analyze-your-marketing-profile.md)
@@ -126,7 +125,7 @@
 ## [為客戶建立多個使用者](adding-multiple-users-to-a-customer-account.md)
 ## [指派支援連絡人](assign-support-contacts.md)
 
-# [雲端解決方案提供者優惠方案](csp-offers.md)
+# [雲端解決方案提供者優惠方案](csp-offers.md) 
 ## 商務 Marketplace
 ### [商務 Marketplace 概觀](csp-commercial-marketplace-overview.md)
 ### [探索 Marketplace 供應項目](csp-commercial-marketplace-discover.md)

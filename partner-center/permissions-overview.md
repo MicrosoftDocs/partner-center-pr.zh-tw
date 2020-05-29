@@ -1,29 +1,31 @@
 ---
-title: 指派使用者角色和權限 | 合作夥伴中心
+title: 將角色和權限指派給使用者
 ms.topic: article
-ms.date: 03/23/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解哪些角色最適合管理商業交易、轉介、獎勵或您公司 MPN 成員資格的使用者。
+description: 了解哪些角色最適合在合作夥伴中心管理商業交易、推薦、獎勵或 MPN 會員資格的貴公司使用者。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 角色, 權限, 系統管理員, 代理人
 ms.localizationpriority: high
-ms.openlocfilehash: fbff7f353a0055aa645467fccaa049b598b4c880
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0858340c6965ac932f0d4694f6f21be89ca5f817
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80296392"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795878"
 ---
-# <a name="assign-users-roles-and-permissions"></a>指派使用者角色和權限
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>為需要在合作夥伴中心工作的公司使用者指派使用者角色和權限
 
 **適當的角色**
--    全域系統管理員
--    使用者系統管理員
--    MPN 合作夥伴系統管理員
 
-您已設定您的合作夥伴設定檔，包括合法的名稱和地址、支援詳細資料、免稅證明、銀行資訊，以及貴公司的主要連絡人。 下一步：讓您的使用者以密碼和角色進行設定，讓他們可以開始在合作夥伴中心與您合作。
+- 全域系統管理員
+- 使用者系統管理員
+- MPN 合作夥伴系統管理員
+
+您已設定您的合作夥伴設定檔，包括合法的名稱和地址、支援詳細資料、免稅證明、銀行資訊，以及貴公司的主要連絡人。 後續步驟：讓您的使用者以密碼和角色進行設定，讓他們可以開始在合作夥伴中心與您合作。
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>設定您的員工以在合作夥伴中心工作
 

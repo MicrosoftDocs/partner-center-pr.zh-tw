@@ -1,7 +1,7 @@
 ---
-title: 從 PMC 移轉至合作夥伴中心的指南
+title: 從 PMC 遷移到合作夥伴中心
 ms.topic: article
-ms.date: 03/18/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何將您的公司從 Partner Membership Center (PMC) 遷移至合作夥伴中心。
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: high
-ms.openlocfilehash: 7c90c44d3b79431fc8d200528daf6a70b2fbccb9
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b81580e9b4e24d710151fb61d88e22c873c6c88d
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362396"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795835"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>從 PMC 移轉至合作夥伴中心的指南
 
@@ -42,7 +43,7 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 ### <a name="when-youre-ready"></a>當您就緒時
 
-選取您邀請上的 [開始]  。 您將會進入合作夥伴中心的登入頁面。
+選取您邀請上的 [開始]。 您將會進入合作夥伴中心的登入頁面。
 
 ![開始使用](images/migration/getstarted.jpg)
 
@@ -55,11 +56,11 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 ![向我們描述您的公司](images/migration/newtellusabout.png)
 
-一旦驗證或更新了資訊後，請選取 [接受並繼續]  。
+一旦驗證或更新了資訊後，請選取 [接受並繼續]。
 此頁面上的條款與貴公司已在 PMC 簽署的合約**完全相同**。  
-這會起始 Azure AD 租用戶的建立，並為您提供工作帳戶。
+這個步驟會起始 Azure AD 租用戶的建立，並為您提供工作帳戶。
 
-選取 [接受並繼續]  也會執行下列動作：
+選取 [接受並繼續] 也會執行下列動作：
 
 - 將您的帳戶連同其所有位置移轉至合作夥伴中心
 
@@ -89,7 +90,7 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 ## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>熟悉您的儀表板和合作夥伴中心
 
-導覽您的儀表板。 您可以在這裡管理您的會員資格、新增參考用的商務設定檔、註冊雲端解決方案提供者方案，以及透過選取 [儀表板]  隨時查看與您商務相關的通知和供應項目。 您也可以管理獎勵、在市集購買、註冊上市服務等。  
+導覽您的儀表板。 您可以在這裡管理您的會員資格、新增參考用的商務設定檔、註冊雲端解決方案提供者方案，以及透過選取 [儀表板] 隨時查看與您商務相關的通知和供應項目。 您也可以管理獎勵、在市集購買、註冊上市服務等。  
 
 ![進行導覽](images/migration/fre.png)
 

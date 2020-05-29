@@ -1,21 +1,22 @@
 ---
-title: 建立商務設定檔 | 合作夥伴中心
+title: 取得業務潛在客戶 - 建立商務設定檔
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何從 Microsoft 取得業務潛在客戶。 其中一個重要步驟是在合作夥伴中心建立商務設定檔，讓客戶可以找到您。
+description: 了解如何從 Microsoft 取得業務潛在客戶。 其中一個關鍵是在合作夥伴中心建立商務設定檔，讓客戶可以更輕易地找到您。
 ms.assetid: 25964511-1CBC-4C68-B8A8-736CC6683C3D
 author: LauraBrenner
 ms.author: labrenne
 keywords: pinpoint, 推薦, 業務潛在客戶, C2PC, 公司設定檔, 行銷您的公司, 尋找合作夥伴, 尋找解決方案提供者, 商務設定檔, 行銷設定檔
 ms.localizationpriority: high
-ms.openlocfilehash: fededecc349b40e3fcc5b066aa53cc8e297125d7
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 8f5c788be2fc408262e6edd47a87c3ac0f2ea2f8
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74722524"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795578"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -26,7 +27,7 @@ FWLink5: https://go.microsoft.com/fwlink/?linkid=848064: #_locations
 -->
 
 
-# <a name="create-a-business-profile-to-get-sales-leads-from-microsoft"></a>建立商務設定檔以透過 Microsoft 獲得業務潛在客戶
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>建立商務設定檔以取得 Microsoft 業務潛在客戶，並協助客戶找到您
 
 **適用於**
 
@@ -61,9 +62,9 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 為您獲得授權執行業務的每個地區，建立設定檔。 
 
-1. 從 [合作夥伴中心]  功能表，選取 [推薦]  &gt; [商務設定檔]  &gt; 選取國家/地區 > **[建立商務設定檔](https://partnercenter.microsoft.com/pcv/publishing)** 。
+1. 從 [合作夥伴中心] 功能表，選取 [推薦] &gt; [商務設定檔]&gt; 選取國家/地區 > **[建立商務設定檔](https://partnercenter.microsoft.com/pcv/publishing)** 。
 
-2. 在 [建立商務設定檔]  頁面中，選取地區，然後輸入您的設定檔資訊。
+2. 在 [建立商務設定檔] 頁面中，選取地區，然後輸入您的設定檔資訊。
    > [!NOTE]  
    >  雖然合作夥伴中心支援多種語言，但有些像描述及自由格式標籤這類的元素可能需要包含不同語言的文字，如本主題中所述。
 
@@ -129,7 +130,7 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 顯示正式公司位置且可驗證的位置。 選擇您所服務市場的中心位置，而且最能夠呈現出您公司履行的功能。
 
-完成更新位置資訊時，選取 [儲存此位置]  或 [儲存此位置後，再新增其他位置]  (即使您只是新增一個位置)。
+完成更新位置資訊時，選取 [儲存此位置] 或 [儲存此位置後，再新增其他位置] (即使您只是新增一個位置)。
 
 您新增的每個位置都會變成不同的設定檔頁面。 更新設定檔頁面時，請確定您已針對每個位置更新這些頁面。
 
@@ -148,5 +149,6 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 - 透過 Microsoft 獲得**專長認證標籤**，以展示您對我們產品的熟練程度。
 - 從賞識您工作的客戶**獲得背書標籤**。
 
-## <a name="related-topics"></a>相關主題
+## <a name="next-steps"></a>接下來的步驟
+
 [回應推薦](responding-to-referrals.md)

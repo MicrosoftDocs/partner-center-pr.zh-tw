@@ -1,7 +1,7 @@
 ---
 title: 管理您的合作夥伴中心帳戶 | 合作夥伴中心
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作夥伴中心管理貴公司的設定檔、目錄、銀行和稅務資訊、角色、權限等等。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: seodec18
-ms.openlocfilehash: 3185be248df5bd0bfdb991e321a91a5f92e56d5f
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 9167e4bb873ee1527fc623dbab319b44cdb9564e
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859378"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795678"
 ---
 # <a name="manage-your-partner-center-account"></a>管理您的合作夥伴中心帳戶
 
@@ -47,7 +47,7 @@ ms.locfileid: "82859378"
 合作夥伴中心目前可在兩個不同的區段中管理帳戶：**合作夥伴設定**和**開發人員**設定。
 
 >[!NOTE]
->若要存取**合作夥伴設定**或**開發人員設定**，您必須登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)，然後選取畫面右上角的 [設定]  選項 (齒輪圖示)。 然後，您可以從下拉式功能表中選取 [合作夥伴設定]  或 [開發人員設定]  。
+>若要存取**合作夥伴設定**或**開發人員設定**，您必須登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)，然後選取畫面右上角的 [設定] 選項 (齒輪圖示)。 然後，您可以從下拉式功能表中選取 [合作夥伴設定] 或 [開發人員設定]。
 
 ![帳戶設定](images/accountsettings/account1.png)
 
@@ -67,9 +67,17 @@ ms.locfileid: "82859378"
 |Office 市集|Developer|
 |Edge 擴充功能|Developer|
 
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>合作夥伴和開發人員設定選項的差異
+## <a name="partner-and-developer-settings-options"></a>合作夥伴和開發人員設定選項
 
-[合作夥伴設定]  選項會與 [開發人員設定]  選項不同。 請參閱下列每組選項的範例螢幕擷取畫面。 如果您有其他計畫的存取權，您可能也會看到與此處所示螢幕擷取畫面範例不同的選項。
+### <a name="locate-your-mpn-id"></a>尋找您的 MPN 識別碼
+
+無論您是合作夥伴還是開發人員，都必須使用您的 MPN 識別碼，進行如記錄支援票證這類的事項。 如果您是開發人員，您的 MPN 識別碼位於 [帳戶設定] 詳細資料頁面上。
+
+![MPN 識別碼位置](images/accountsettings/devmpnlocation.png)
+
+合作夥伴 MPN 識別碼位於 [合作夥伴設定檔] 頁面上。
+
+[合作夥伴設定] 選項與 [開發人員設定] 選項不同。 請參閱下列每組選項的範例螢幕擷取畫面。 如果您有其他計畫的存取權，您可能也會看到與此處所示螢幕擷取畫面範例不同的選項。
 
 **合作夥伴設定選項**：
 
@@ -78,6 +86,7 @@ ms.locfileid: "82859378"
 **開發人員設定選項**：
 
 ![開發人員選項](images/accountsettings/devoptions.png)
+
 
 ## <a name="enrolling-in-programs"></a>在計畫中註冊
 
@@ -94,7 +103,7 @@ ms.locfileid: "82859378"
 
 ## <a name="the-account-picker"></a>帳戶選擇器
 
-您可以加入到多個帳戶。 如果您加入到多個帳戶，則會在左側導覽功能表中看到 [帳戶選擇器]。 如果您選取 [帳戶選擇器]，則您加入其中成為一員的所有帳戶都會顯示在清單中。 您可以選取其中任何一項，並切換至該帳戶，然後您就會在其中看到所有計畫以及該帳戶的相關資訊。 如果您沒有看到帳戶選擇器，則表示您只是單一帳戶的成員。
+您可以加入到多個帳戶。 如果您加入到多個帳戶，則會在左側導覽功能表中看到 [帳戶選擇器]。 選取 [帳戶選擇器] 時，您加入其中成為一員的所有帳戶都會顯示在清單中。 您可以選取其中任何一項，並切換至該帳戶，然後您就會在其中看到所有計畫以及該帳戶的相關資訊。 如果您沒有看到帳戶選擇器，則表示您只是單一帳戶的成員。
 
 ![帳戶選擇器](images/accountsettings/accountpicker.png)
 

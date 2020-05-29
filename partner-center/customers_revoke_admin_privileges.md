@@ -1,22 +1,23 @@
 ---
-title: 授予合作夥伴的客戶代理人系統管理權限 | 合作夥伴中心
+title: 取得客戶的系統管理員權限
 ms.topic: article
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何要求客戶將管理員權限委派給轉銷商或移除該許可權，以及如何使用這些權限。
+description: 取得代表客戶管理其服務或訂閱所需的權限。 了解如何授與、撤銷和管理權限。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 keywords: 委派的管理員權限, 代表的管理員, 移除權限, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 9b82ed4828a112f28f3e2ef1da1a64745c9ffdc0
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "78340056"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394173"
 ---
-# <a name="customers-delegate-administration-privileges-to-partners"></a>授予合作夥伴的客戶代理人系統管理權限
+# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>取得管理客戶服務或訂閱的權限
 
 **適用於**
 
@@ -31,18 +32,18 @@ ms.locfileid: "78340056"
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀請客戶與您建立經銷商關係
 
-1.  選取 [客戶]  ，然後選取 [要求建立轉銷商關係]  。
+1.  選取 [客戶]，然後選取 [要求建立轉銷商關係]。
 
 2.  在下一頁，複查草稿電子郵件訊息。 您可以在預設電子郵件應用程式中開啟草稿訊息，或是將訊息複製到您的剪貼簿，並將其貼到電子郵件。 
 
     >[!IMPORTANT]
     >您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。 
     
-3.  當您完成這個步驟時，請選取 [完成]  。
+3.  當您完成這個步驟時，請選取 [完成]。
 
 4.  將電子郵件傳送給您的客戶。
 
-5.  客戶接受邀請之後，他們將會出現在您的 [客戶]  頁面，而且您將能從該處為客戶佈建及管理服務。
+5.  客戶接受邀請之後，他們將會出現在您的 [客戶] 頁面，而且您將能從該處為客戶佈建及管理服務。
 
 6.  若要管理客戶的帳戶、服務、使用者、授權，請選取客戶名稱旁的向下箭頭以展開其記錄，然後選取您要管理之服務的管理入口網站。
 
@@ -53,13 +54,13 @@ ms.locfileid: "78340056"
 
 1. 客戶必須以全域管理員身分登入 Office 365 管理員入口網站。
 
-2. 選取 [設定]   >  [合作夥伴關係]  。
+2. 選取 [設定]  >  [合作夥伴關係]。
 
-3. 在 [合作夥伴關係]  頁面上，客戶可以看到與其合作的合作夥伴清單，以及已獲得其租用戶的委派管理權限的合作夥伴。
+3. 在 [合作夥伴關係] 頁面上，客戶可以看到與其合作的合作夥伴清單，以及已獲得其租用戶的委派管理權限的合作夥伴。
 
 ## <a name="customers-can-manage-a-partners-delegated-admin-privileges"></a>客戶可以管理委派給合作夥伴的管理員權限 
 
-您的客戶可能會想從其租用戶移除委派給您的管理員權限，但保留與您的關係以進行訂閱和授權更新。 客戶可在 Office 365 管理中心的 [合作夥伴關係]  頁面上管理其 Office 365 帳戶的權利和權限。 在這個頁面上，客戶可以：
+您的客戶可能會想從其租用戶移除委派給您的管理員權限，但保留與您的關係以進行訂閱和授權更新。 客戶可在 Office 365 管理中心的 [合作夥伴關係] 頁面上管理其 Office 365 帳戶的權利和權限。 在這個頁面上，客戶可以：
 
 - 查看他們與哪些合作夥伴擁有合作關係，以及哪些合作夥伴具有委派的管理員權限
 
@@ -67,9 +68,9 @@ ms.locfileid: "78340056"
 
 移除委派給合作夥伴的管理權限：
 
-1. 在 [合作夥伴關係]  頁面下，選取所需的合作夥伴。
-2. 在詳細資料窗格中，選取 [移除委派的管理]  。
-3. 在確認窗格中，選取 [移除]  。
+1. 在 [合作夥伴關係] 頁面下，選取所需的合作夥伴。
+2. 在詳細資料窗格中，選取 [移除委派的管理]。
+3. 在確認窗格中，選取 [移除]。
 
 >[!IMPORTANT]  
 >指派 Azure AD 角色給合作夥伴是隱含的。 如果您嘗試使用 Azure AD 入口網站/PowerShell/Graph 列出 Azure AD 角色成員，不會傳回合作夥伴。 若要了解合作夥伴是否獲指派 Azure AD 角色，您必須參考 Office 365 管理員入口網站中的合作夥伴關係頁面，查看是否將委派的管理權限授與給合作夥伴。

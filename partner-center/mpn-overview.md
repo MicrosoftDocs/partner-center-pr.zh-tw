@@ -1,23 +1,23 @@
 ---
-title: Microsoft 合作夥伴網路會員資格
+title: Microsoft 合作夥伴網路會員資格權益
 ms.topic: article
-ms.date: 10/25/2019
+ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解與 Microsoft 合作的優點，包括 Microsoft 行動套件、專長認證和方案選項，可讓您的企業脫穎而出、走向市場並銷售您的解決方案。
+description: 了解與 Microsoft 合作的權益，包括 Microsoft 行動套件、專長認證和計畫選項，可讓您的產品上市並銷售您的解決方案。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格, 銀級, 金級, 專長認證
 ms.localizationpriority: high
-ms.custom: seodec18
-ms.openlocfilehash: 4208d919d8cee8dc98fa60621a6e5768d828e799
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362736"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795954"
 ---
-# <a name="partner-with-microsoft"></a>成為 Microsoft 合作夥伴
+# <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>與 Microsoft 合作 - 探索權益、如何協助客戶，以及如何推動業務成長
 
 **適當的角色**
 
@@ -42,7 +42,7 @@ Microsoft 合作夥伴網路提供您業界最廣泛的產品，也會提供方�
 
 ### <a name="how-to-join"></a>如何加入
 
-若要加入 Microsoft 合作夥伴網路，請移至 MPN 網站上的 [[會員資格]  頁面](https://partner.microsoft.com/membership)，然後選取 [註冊]  或 [立即加入]  。
+若要加入 Microsoft 合作夥伴網路，請移至 MPN 網站上的 [[會員資格] 頁面](https://partner.microsoft.com/membership)，然後選取 [註冊] 或 [立即加入]。
 
 ## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>使 Microsoft 合作夥伴網路會員資格為您工作
 

@@ -1,22 +1,23 @@
 ---
-title: 工作帳戶與合作夥伴中心
+title: 連結您的工作帳戶以存取合作夥伴中心
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解若要建立合作夥伴中心帳戶，就必須有工作帳戶。 檢查您是否已經有工作帳戶。
+description: 建立一個工作帳戶，將您的公司連結至合作夥伴中心帳戶。 這可讓您公司中的員工存取合作夥伴中心。
 author: LauraBrenner
 ms.author: labrenne
+ms.custom: SEOAPR.20
 Keywords: 工作帳戶, 電子郵件, 租用戶, Azure 租用戶, 建立帳戶, 網域名稱
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e34eecb482df140a1a225d0d28460ef957701d59
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
+ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369265"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "83394222"
 ---
-# <a name="your-company-work-account-and-partner-center"></a>您的公司工作帳戶與合作夥伴中心  
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>建立一個工作帳戶，將您的公司連結至合作夥伴中心帳戶
 
 **適用於**
 
@@ -44,7 +45,7 @@ Microsoft 會要求您將公司的工作帳戶連結到新的合作夥伴中心�
 
 如果不確定您的公司是否有工作帳戶，請依照下列步驟檢查。 如果您有使用中的 Microsoft Azure 或 Office 365 訂用帳戶，就已經擁有工作帳戶。
 
-1. 登入 [Azure 入口網站](https://portal.azure.com)
+1. 登入 [Azure 入口網站](https://portal.azure.com)。
 
 2. 從功能表選取 [Azure Active Directory]，然後選取 [網域名稱]。
 

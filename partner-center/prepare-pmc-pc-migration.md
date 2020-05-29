@@ -1,27 +1,27 @@
 ---
-title: 準備從 Partner Membership Center 移至合作夥伴中心 | 合作夥伴中心
+title: 從 Partner Membership Center 移動
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 從 PMC 移至合作夥伴中心之前，請先檢閱有用的資訊和常見問題集。
+description: 從 Partner Membership Center 移至合作夥伴中心之前，請先檢閱有用的資訊和常見問題集。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 127919c92bf6fffca846dd92cde4c787bfd16641
-ms.sourcegitcommit: 87b13da77c16a304d2a7682bf24422f8b9288b51
+ms.openlocfilehash: 0c1fc9530a978e7202d7a0d58a574546b10c91e9
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "82859351"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795838"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備從 Partner Membership Center (PMC) 移至合作夥伴中心
 
 **適當的角色**
--    全域系統管理員
--    使用者系統管理員
--    銷售代理人
--    系統管理代理人
+- 全域系統管理員
+- 使用者系統管理員
+- 銷售代理人
+- 系統管理代理人
 
 我們正將成員資格管理從 Partner Membership Center (PMC) 移至合作夥伴中心 - 以此單一目的地管理您與 Microsoft 的商務關係。 我們希望您能夠盡可能輕鬆有效地移至合作夥伴中心。 我們已識別出合作夥伴中心與 PMC 不同的層面，而且我們認為您會想要先充分了解並做好準備，再進行移轉。
 
@@ -123,7 +123,7 @@ Microsoft 會自動移轉目前的專長認證、權益、位置資訊、獎勵�
 
  **移至合作夥伴中心後要如何檢視 MCP 資訊？**
 
-在儀表板上的左側導覽中，選取 [專長認證]  。 在 [專長認證]  頁面中，您可以下載技能報告。 技能報告會列出您的哪些使用者已取得與合作夥伴中心的專長認證和計畫有關的技能。 如果您的使用者已獲得技能，但這些技能與您所需的專長認證無關，這些使用者就不會列在報告中。
+在儀表板上的左側導覽中，選取 [專長認證]。 在 [專長認證] 頁面中，您可以下載技能報告。 技能報告會列出您的哪些使用者已取得與合作夥伴中心的專長認證和計畫有關的技能。 如果您的使用者已獲得技能，但這些技能與您所需的專長認證無關，這些使用者就不會列在報告中。
 
 
  **合作夥伴中心是否會使用客戶參考？**

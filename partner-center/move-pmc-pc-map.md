@@ -1,22 +1,23 @@
 ---
-title: 從 PMC 移到合作夥伴中心 | 合作夥伴中心
+title: 從 PMC 移到合作夥伴中心
 ms.topic: article
-ms.date: 04/08/2020
+ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解 PMC 與合作夥伴中心在續約、帳戶結構、登入、使用者角色、專長認證等方面的差異和相似性。
+description: 了解 PMC 與合作夥伴中心在續約、帳戶結構、登入、使用者角色、專長認證等方面的差異。
 author: LauraBrenner
 ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: high
-ms.openlocfilehash: fba77a2a346972ea3d3dbc7e849a9e1c9a693ddb
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 929abefbdf30940c94176bf03857a3b3bf0ad719
+ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81123311"
+ms.lasthandoff: 05/22/2020
+ms.locfileid: "83795749"
 ---
-# <a name="moving-from-pmc-to-partner-center"></a>從 PMC 移到合作夥伴中心
+# <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>從 Partner Membership Center (PMC) 移至合作夥伴中心
 
 **適當的角色**
 -    全域系統管理員
@@ -68,7 +69,7 @@ ms.locfileid: "81123311"
 
 |**PMC**   |**合作夥伴中心**   |
 |-------------------------|:-------------------|
-|您可以將相同的 MCP 識別碼與多家公司產生關聯。| 只有一個 MCP 識別碼可與單一合作夥伴中心帳戶相關聯。 您必須手動建立關聯。 從合作夥伴中心儀表板，選取儀表板右上角的 [您的帳戶]  圖示，然後選取 [我的設定檔]  。 在 [您的學習]  之下，您將能夠關聯 Microsoft Learning 帳戶，也可以將您的 Microsoft 帳戶連線到 Partner University。
+|您可以將相同的 MCP 識別碼與多家公司產生關聯。| 只有一個 MCP 識別碼可與單一合作夥伴中心帳戶相關聯。 您必須手動建立關聯。 從合作夥伴中心儀表板，選取儀表板右上角的 [您的帳戶] 圖示，然後選取 [我的設定檔]。 在 [您的學習] 之下，您將能夠關聯 Microsoft Learning 帳戶，也可以將您的 Microsoft 帳戶連線到 Partner University。
 
 ## <a name="visual-studio-benefits-and-msa"></a>Visual Studio 權益及 MSA
 
