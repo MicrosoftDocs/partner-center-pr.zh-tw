@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 參考，webhook api，資源變更事件
 ms.localizationpriority: medium
-ms.openlocfilehash: a141776f1b591ebe41bb740051802b4b55cf36f0
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 4e1eb2e9bd8ceb4f8c4bf43684305504c8594e5c
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796204"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145082"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events"></a>使用 Webhook Api 註冊資源變更事件
 
@@ -142,7 +142,7 @@ Webhook 現在可以接聽變更（建立和更新事件）。
 
 1. 在 CRM 中建立或更新參照並在合作夥伴中心同步處理時的參考同步處理：
 
-    a. 以在 CRM 的 [**商機**] 區段中可見的使用者身分，登入您的 DYNAMICS 365 CRM 環境或 Salesforce CRM 環境。
+    a. 以在 CRM 的 [**商機**] 區段中可見的使用者身分，登入您的 DYNAMICS 365 CRM 環境。
 
     b. 當您在 Dynamics 365 環境中建立「新商機」時，請確定下列區段存在
 

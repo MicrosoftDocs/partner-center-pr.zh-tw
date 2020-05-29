@@ -1,23 +1,23 @@
 ---
-title: 管理潛在客戶
+title: 管理潛在客戶 |合作夥伴中心
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 04/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 使用合作夥伴中心來回應參考，並管理新的、現有和封存的潛在客戶和參考。 瞭解未來如何取得更多的參考。
-author: LauraBrenner
-ms.author: labrenne
+description: 瞭解如何回應參考、管理新的、現有的和封存的參考，並在未來取得更多的參考。
+author: vikramb
+ms.author: vikramb
 keywords: 參考，共同銷售，交易
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: d1a1e8e487cc56a17abe743a470c404c273e33bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.custom: seodec18
+ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
+ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796019"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "84145062"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潛在客戶，例如客戶查詢、行銷合格的潛在客戶，以及銷售合格的潛在客戶
+# <a name="manage-leads"></a>管理潛在客戶
 
 **適用於**
 
@@ -87,8 +87,19 @@ Microsoft 每年將數百萬個潛在客戶傳送給其合作夥伴。 您有機
 以下是一些秘訣，可協助您取得更適當的參考：
 
 - 在您的[商務設定檔](https://docs.microsoft.com/partner-center/create-a-marketing-profile)中，**選擇關鍵字和喜好設定，表示您的唯一專業和業務模式**。 移除會產生您不感興趣之參考的關鍵字。 如果您不想要處理特定規模的企業，請更新此喜好設定。
-- **在您的[商務設定檔](https://docs.microsoft.com/partner-center/create-a-marketing-profile)中，檢查每個位置的連絡人資訊**，以確保您的小組收到內送警示。
+
+- **在您的[商務設定檔](https://docs.microsoft.com/partner-center/create-a-marketing-profile)中，檢查每個位置的連絡人資訊**請確定您的小組收到內送警示。
+
 - **快速回應參考**當您及時回應連入要求時，我們會在未來的客戶搜尋結果中增加您的可見度。 請確定您的團隊快速回應並表明意向。
-- **選擇您接受的交易**。 我們會監視您接受和拒絕的交易類型，並使用此資訊來協助您找出類似的交易。 接受不適合的交易並不會改善您的搜尋結果，而且可能會影響您所收到之潛在客戶的品質。
+
+- **Choosy 您接受的交易**我們會監視您接受和拒絕的交易類型，並使用此資訊來協助您找出類似的交易。 接受不適合的交易並不會改善您的搜尋結果，而且可能會影響您所收到之潛在客戶的品質。
+
 - **回報預估的交易大小、結束日期，以及交易的最後狀態**(已成交或未成交)。 我們將使用此資訊來繼續為您提供品質的參考。
 
+## <a name="next-steps"></a>後續步驟
+
+- [管理共同銷售商機](manage-co-sell-opportunities.md)
+
+- [取得 Dynamics 365 CRM 的共同銷售連接器](connector-dynamics.md)
+
+- [取得 Salesforce CRM 的共同銷售連接器](connector-salesforce.md)
