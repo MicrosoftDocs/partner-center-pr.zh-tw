@@ -1,22 +1,21 @@
 ---
-title: 註冊雲端解決方案提供者計畫
+title: 註冊雲端解決方案提供者計畫 | 合作夥伴中心
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何註冊最適合您業務的雲端解決方案提供者 (CSP) 計畫銷售模型 – 例如間接轉銷商或直接計費合作夥伴。
+description: 了解以雲端解決方案提供者 (CSP) 計畫銷售的不同模型，並判斷哪個最適合您的業務。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a993f07a066f979776dea281ebc3d459b569dd5
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 49f404452d8cc386d9d47ef1bf8f51b0e79e1af2
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795167"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253925"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>註冊雲端解決方案提供者計畫，並打造可獲利的雲端解決方案業務
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 
 **適用於**
 
@@ -42,7 +41,7 @@ ms.locfileid: "83795167"
 3. 我們驗證您的資訊之後，請接受 Microsoft 間接經銷商條款合約。
 
 > [!IMPORTANT]  
-> CSP 計畫中的合作夥伴目前無法將線上服務轉售給 CSP 計畫中的另一個合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本或原則變更的任何新聞將會透過一般通訊管道宣佈，包括[合作夥伴中心宣告](https://partner.microsoft.com/pcv/announcements)。
+> CSP 計畫中的合作夥伴目前無法將線上服務轉售給 CSP 計畫中的另一個合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本或原則變更的任何新聞將會透過一般通訊管道宣佈，包括[合作夥伴中心宣告](announcements/index.md)。
 
 ## <a name="enroll-as-an-indirect-reseller"></a>註冊為間接經銷商
 
