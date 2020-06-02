@@ -8,12 +8,12 @@ description: 瞭解間接提供者如何與雲端解決方案提供者（CSP）�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6febef2f7af68a1cd93b2eafecb9537f48ab190a
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797576"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253935"
 ---
 # <a name="work-with-other-partners"></a>與其他合作夥伴合作
 
@@ -54,4 +54,4 @@ Microsoft 的雲端解決方案提供者（CSP）方案提供了機會，讓合�
 多通路支援也適用於 Microsoft 國內雲供應項目。
 
 > [!IMPORTANT]  
-> CSP 計畫中的合作夥伴目前無法將線上服務轉售給 CSP 計畫中的另一個合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本或原則變更的任何新聞將會透過一般通訊管道宣佈，包括[合作夥伴中心宣告](https://partner.microsoft.com/pcv/announcements)。
+> CSP 計畫中的合作夥伴目前無法將線上服務轉售給 CSP 計畫中的另一個合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本或原則變更的任何新聞將會透過一般通訊管道宣佈，包括[合作夥伴中心宣告](announcements/index.md)。

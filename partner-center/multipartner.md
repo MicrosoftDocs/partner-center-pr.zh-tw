@@ -1,7 +1,7 @@
 ---
-title: 多合作夥伴支援
+title: 多合作夥伴支援 | 合作夥伴中心
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 03/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 客戶可能會想要與雲端解決方案提供者計畫中專精不同服務的多個合作夥伴合作。
@@ -9,15 +9,14 @@ ms.assetid: 6835AA78-6DAE-4940-844D-B3AEFEAF3630
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 05a431a43aac1624c529df8a92c5a773793bf5a8
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8837799bb170f2148aac9a1849146615a4ffebd1
+ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795900"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84253955"
 ---
-# <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>針對想要與多個合作夥伴合作的客戶提供多合作夥伴支援
+# <a name="multi-partner-support"></a>多合作夥伴支援
 
 **適用於**
 
@@ -46,7 +45,7 @@ Azure CSP 租使用者可以包含來自不同 CSP 合作夥伴的其他 Azure �
 - 變更訂閱的記錄可查夥伴
 
 > [!IMPORTANT]  
-> CSP 計畫中的合作夥伴目前無法將線上服務轉售給 CSP 計畫中的另一個合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本或原則變更的任何新聞將會透過一般通訊管道宣佈，包括[合作夥伴中心宣告](https://partner.microsoft.com/pcv/announcements)。
+> CSP 計畫中的合作夥伴目前無法將線上服務轉售給 CSP 計畫中的另一個合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本或原則變更的任何新聞將會透過一般通訊管道宣佈，包括[合作夥伴中心宣告](announcements/index.md)。
 
 
 
