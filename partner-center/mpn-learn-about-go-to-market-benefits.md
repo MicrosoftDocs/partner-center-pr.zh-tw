@@ -1,7 +1,7 @@
 ---
 title: 瞭解 Microsoft 供應專案的進入市場
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 瞭解 Microsoft 供應專案的進入市場如何協助加速上市時間、產生潛在客戶，以及拓展您的業務。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN，成員資格權益，會員資格，上市優惠，與 Microsoft 一起上市，進入市場，金級成員資格，銀級成員資格
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e694a169a7e76568c0c7b4c1882a5dd6e70c3cc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795821"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328199"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>透過 Microsoft 供應專案探索您的進入市場
 
@@ -69,7 +69,7 @@ ms.locfileid: "83795821"
 
 2. 從左側功能表中，選取 [ **MPN**]。 然後，執行下列動作之一：
 
-    - 選取 [概觀]  。 流覽至 [**快速連結**] 區段，然後選取 [**進入市場**] 索引標籤。
+    - 選取 [概觀]。 流覽至 [**快速連結**] 區段，然後選取 [**進入市場**] 索引標籤。
 
       或
 
@@ -82,7 +82,7 @@ ms.locfileid: "83795821"
 如需啟用或管理您的進入市場供應專案的特定步驟，請參閱[如何管理您的進入市場](manage-your-partner-network-benefits.md#manage-go-to-market-offers)供應專案。 執行此程式的過程中，您必須將行銷人員指派為連絡人，以進行後續的電子郵件，以及與您所啟用之上市優惠相關的通訊。
 
 >[!IMPORTANT]
->您必須是全域管理員或 MPN 合作夥伴系統管理員，才能啟用特定的進入市場供應專案，並指派相關的行銷連絡人。 如有需要，您可以依照 [[權益]  頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)中的指示 (需要登入) 成為全域系統管理員。 貴公司可能已經有全域系統管理員，請務必洽詢您的團隊。
+>您必須是全域管理員或 MPN 合作夥伴系統管理員，才能啟用特定的進入市場供應專案，並指派相關的行銷連絡人。 如有需要，您可以依照 [[權益] 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)中的指示 (需要登入) 成為全域系統管理員。 貴公司可能已經有全域系統管理員，請務必洽詢您的團隊。
 
 ## <a name="next-steps"></a>後續步驟
 

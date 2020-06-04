@@ -1,30 +1,30 @@
 ---
-title: 管理潛在客戶 |合作夥伴中心
+title: 管理潛在客戶
 ms.topic: article
-ms.date: 04/21/2020
+ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何回應參考、管理新的、現有的和封存的參考，並在未來取得更多的參考。
-author: vikramb
-ms.author: vikramb
+description: 使用合作夥伴中心來回應參考，並管理新的、現有和封存的潛在客戶和參考。 瞭解未來如何取得更多的參考。
+author: LauraBrenner
+ms.author: labrenne
 keywords: 參考，共同銷售，交易
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 04a2e640eee404f88b34bc2c44b1fcba475d9da0
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e91035d860c9d7e7e908e7645756ca64e64d4828
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145062"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328329"
 ---
-# <a name="manage-leads"></a>管理潛在客戶
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潛在客戶，例如客戶查詢、行銷合格的潛在客戶，以及銷售合格的潛在客戶
 
 **適用於**
 
--  合作夥伴中心
--  轉介
--  Microsoft 解決方案提供者
--  商務設定檔
+- 合作夥伴中心
+- 轉介
+- Microsoft 解決方案提供者
+- 商務設定檔
 
 **適當的角色**
 

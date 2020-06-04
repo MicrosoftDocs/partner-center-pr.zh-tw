@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c41433019716f315592fe9d15850364835c4edfb
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 9b2d6e363eed34998a07a711b51dc77fcc135cdb
+ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998321"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "84328229"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作夥伴中心深入解析-顯示 Microsoft 商業夥伴如何執行的儀表板
 
