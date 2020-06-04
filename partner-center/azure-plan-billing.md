@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f0246338ef8c0da06dce557573cd2811d07a0e9e
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: fa1d1298f0fd3650bdaa4e6fc6b602844ac199c4
+ms.sourcegitcommit: 83f9c114910282dc87b3ec22d59a8b24b1d6b368
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908366"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "84262872"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商務體驗 - Azure 計費 
 
@@ -50,13 +50,13 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/en-us/dashboard/)。
 
-2. 從 [合作夥伴中心] 功能表中，選取 [計費]  。
+2. 從 [合作夥伴中心] 功能表中，選取 [計費]。
 
-3. 選取 [週期性]  和 [一次性]  的索引標籤，以及您感興趣的貨幣。
+3. 選取 [週期性] 和 [一次性] 的索引標籤，以及您感興趣的貨幣。
 
 ![計費](images/azure/billing3.png)
 
-4. 選取 [發票]  或 [對帳檔案]  。  
+4. 選取 [發票] 或 [對帳檔案]。  
 
 若要檢視歷程記錄發票和對帳檔案，請展開下方的計費歷程記錄資料列。
 
@@ -133,9 +133,9 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
   - 7/1 - 7/3 的計量符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
 
-   - 7/4 - 7/7 的計量不符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
+  - 7/4 - 7/7 的計量不符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
 
-    - 7/8 - 7/31 的計量符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
+  - 7/8 - 7/31 的計量符合**受控服務的合作夥伴所獲得信用點數**的資格 (請注意，有效單價是零售價)。
 
 ![recon2](images/azure/pecfinal.png) 
 
@@ -143,7 +143,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 透過 Azure 方案的 Azure 服務會以美元計價，並以客戶國家/地區指派貨幣來計費。 如果計費貨幣不是美元，則使用的外幣匯率 (FX) 費率會顯示在發票的最後一頁。 FX 費率是每月決定，並套用至下列發票。 如需國家/地區貨幣的完整清單，請參閱[新的商務供應項目國家/地區可用性和客戶貨幣對照表](https://go.microsoft.com/fwlink/?linkid=2112354)。 
 
-Microsoft 將使用 [Thomson Reuters](https://developers.thomsonreuters.com/content/wm-company)，判斷用來決定定價貨幣至計費貨幣轉換的 FX 費率。 FX 費率會重新整理，並在其套用當月第一天的前一天可供使用。
+Microsoft 將使用 Thomson Reuters，來判斷用來決定定價貨幣至計費貨幣轉換的 FX 費率。 FX 費率會重新整理，並在其套用當月第一天的前一天可供使用。
 
 **範例**：服務期間 8 月 1 日 - 8 月 31 日的使用費用，會使用在 7 月 31 日發佈的 FX 費率來計費。 這些費用會出現在 9 月發票上，而 FX 費率會在發票的最後一頁上註明。 
 

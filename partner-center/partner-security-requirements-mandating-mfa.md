@@ -1,20 +1,21 @@
 ---
-title: 對合作夥伴租用戶強制使用 MFA | 合作夥伴中心
+title: 對合作夥伴租用戶強制使用 MFA
 ms.topic: article
-ms.date: 11/12/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解對您的合作夥伴租用戶強制使用 MFA 為何有助於保護您對客戶資源的存取。 包含範例案例。
-author: isaiahwilliams
-ms.author: iswillia
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 037194527347aae90f261ce5d417b5ba0e26addf
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9454e9410e4110fdf3542bde3696d8447d4c90d0
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "81462205"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998304"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>對您的合作夥伴租用戶強制使用多重要素驗證 (MFA)
 
@@ -53,8 +54,8 @@ Microsoft 已開始為合作夥伴租用戶啟用額外的安全性保護。 此
 
 合作夥伴中心儀表板中的特定頁面會受到 MFA 保護，包括：
 
-* [客戶]  索引標籤底下的所有頁面，例如可透過下列 URL 來存取的所有頁面： https://partner.microsoft.com/commerce/*
-* [支援 > 客戶要求]  索引標籤底下的所有頁面，例如在 https://partner.microsoft.com/dashboard/support/csp/customers/* 底下存取的頁面
+* [客戶] 索引標籤底下的所有頁面，例如可透過下列 URL 來存取的所有頁面： https://partner.microsoft.com/commerce/*
+* [支援 > 客戶要求] 索引標籤底下的所有頁面，例如在 https://partner.microsoft.com/dashboard/support/csp/customers/* 底下存取的頁面
 * 帳單頁面
 
 如果您未先完成 MFA 驗證即嘗試存取其中任何頁面，您必須執行該驗證。
@@ -184,7 +185,7 @@ Azure AD 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 
 
 ![MFA 註冊步驟 1](images/MfaRegistration1.png)
 
-在按 [下一步]  之後，系統會要求使用者從驗證方法清單中進行選擇。
+在按 [下一步] 之後，系統會要求使用者從驗證方法清單中進行選擇。
 
 ![MFA 註冊步驟 2](images/MfaRegistration2.png)
 
@@ -250,8 +251,8 @@ Azure AD 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 
 若要提交技術例外狀況的要求：
 
 1. 以全域管理員或系統管理代理人的身分登入合作夥伴中心。
-2. 若要建立新的合作夥伴服務要求，請導覽至 [支援]   > [合作夥伴支援要求]  ，然後按一下 [新增要求]  。
-3. 在搜尋方塊中搜尋 **MFA - 例外狀況要求**；或者，從 [類別] 選取 [CSP]  ，然後從 [主題] 選取 [帳戶、上架、存取]  ，然後從 [子主題] 選取 [MFA - 例外狀況要求]  ，然後選取 [下一步]  。
-4. 提供提交技術例外狀況的服務要求所需的詳細資料，然後按一下 [提交]  。
+2. 若要建立新的合作夥伴服務要求，請導覽至 [支援] > [合作夥伴支援要求]，然後按一下 [新增要求]。
+3. 在搜尋方塊中搜尋 **MFA - 例外狀況要求**；或者，從 [類別] 選取 [CSP]，然後從 [主題] 選取 [帳戶、上架、存取]，然後從 [子主題] 選取 [MFA - 例外狀況要求]，然後選取 [下一步]。
+4. 提供提交技術例外狀況的服務要求所需的詳細資料，然後按一下 [提交]。
 
 Microsoft 最多可能需要三個工作天，才能對技術例外狀況的要求提供回應。

@@ -1,37 +1,39 @@
 ---
-title: 合作夥伴所獲得信用點數 - 概觀 | 合作夥伴中心
+title: 合作夥伴所獲得信用點數 - 概觀
 ms.topic: article
-ms.date: 11/03/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 合作夥伴所獲得信用點數提供簡化的統一 Azure 定價、提供增值的受控服務，並協助消除對利潤的競爭。
+description: 深入了解合作夥伴所獲得信用點數 (PEC) 提供簡化的統一 Azure 定價、提供增值的受控服務，並協助消除對利潤的競爭。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: e9456ae3a154c8040443fb38951b30efd9f39db8
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 611b129cc5343715f3fc528a0222c77fcaa6ee6e
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "75004237"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998284"
 ---
-# <a name="partner-earned-credit---overview"></a>合作夥伴所獲得信用點數 - 概觀
+# <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>合作夥伴獲得的信用點數 - 概述其在 CSP 的新商務體驗中的運作方式
 
 **適當的角色**
--   全域系統管理員
--   使用者系統管理員
--   系統管理代理人
--   帳單系統管理員
--   銷售代理人
 
-在 CSP 的新商務體驗中，合作夥伴所獲得信用點數是一種商務模型，可在 Microsoft 的進入市場載具上完成簡化的統一 Azure 定價，同時培育可提供增值受控服務的合作夥伴生態系統。 合作夥伴所獲得信用點數也有助於消除對於利潤的任何競爭。 
+- 全域系統管理員
+- 使用者系統管理員
+- 系統管理代理人
+- 帳單系統管理員
+- 銷售代理人
 
-在 Azure 中有成千上萬的服務和多種購買選項，對許多客戶和合作夥伴而言，定價可能會面臨挑戰。 在適用於 Azure 的新商務體驗中，我們已協調至單一全球定價原則，適用於我們進行交易的所有動作。 CSP 合作夥伴可以用已發佈價格來提供 Azure。 這會為他們的客戶提供更高的透明度，並建立信任。 
+在 CSP 的新商務體驗中，合作夥伴所獲得信用點數是一種商務模型，可在 Microsoft 的進入市場載具上完成簡化的統一 Azure 定價，同時培育可提供增值受控服務的合作夥伴生態系統。 合作夥伴所獲得信用點數也有助於消除對於利潤的任何競爭。
 
-我們客戶的數位轉型需求正在變更合作夥伴所提供價值的本質。 許多客戶會尋求合作夥伴提供上述服務，而在交易以外，更要讓他們的雲端旅程更加順暢，並協助他們有效率地使用 Azure 服務。 這些服務會持續進行，包括 Azure 資產監控、原則和治理管理、設定和組態微調、技術支援，以及各種其他服務。 
+特別是在 Azure 中有成千上萬的服務和多種可購買選項，對許多客戶和合作夥伴而言，定價可能會面臨挑戰。 在適用於 Azure 的新商務體驗中，我們已協調至單一全球定價原則，適用於我們進行交易的所有動作。 CSP 合作夥伴可以用已發佈價格來提供 Azure。 這會為他們的客戶提供更高的透明度，並建立彼此信任。
 
-這些服務要求合作夥伴不僅要相當熟悉客戶的 Azure 環境，也要持續對其管理的基礎資源進行適當的治理與控制。 提供此全天候雲端作業管理活動的計費合作夥伴，對於合作夥伴所治理和控制的客戶 Azure 資產，具有**受控服務的合作夥伴所獲得信用點數**的資格。 
+我們客戶的數位轉型需求正在變更合作夥伴所提供價值的本質。 許多客戶會尋求合作夥伴，以提供超越交易的服務。 這類服務可協助他們有更好的雲端體驗，並協助他們有效率地使用 Azure 服務。 這些服務會持續進行，包括 Azure 資產監控、原則和治理管理、設定和組態微調、技術支援，以及各種其他服務。 
+
+這些服務要求合作夥伴不僅要相當熟悉客戶的 Azure 環境，也要持續對其管理的基礎資源進行適當的治理與控制。 提供此全天候雲端作業管理活動的計費合作夥伴，對於合作夥伴所治理和控制的客戶 Azure 資產，具有**受控服務的合作夥伴所獲得信用點數**的資格。
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>合作夥伴和客戶的合作夥伴所獲得信用點數權益

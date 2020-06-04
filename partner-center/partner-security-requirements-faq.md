@@ -1,20 +1,21 @@
 ---
-title: 合作夥伴安全性需求常見問題集 | 合作夥伴中心
+title: 合作夥伴安全性需求常見問題集
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 關於合作夥伴安全性需求的常見問題集
-author: isaiahwilliams
-ms.author: iswillia
+description: 關於合作夥伴安全性需求的常見問題 - 是什麼、合作夥伴應如何實行這些問題，以及如何知道您是否符合這些需求。
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: 72ad7bab25c295fa039e7b29f9d4369c0434814c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89c53daff52877c9d1facffe8c03e75a1f5b3dae
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "80529780"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998364"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
 
@@ -332,8 +333,9 @@ Azure Active Directory (Azure AD) [「基準」原則將會遭到移除，並取
 
 ### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>當我失去合作夥伴中心的存取權時，如何聯絡支援人員？
 
-前往 [Microsoft 合作夥伴支援](https://partner.microsoft.com/support)，然後選擇 [顯示所有支援選項]  。 您會看到可用來聯絡 Microsoft 合作夥伴支援的選項。 其中包括致電支援人員的電話號碼，以及與支援人員交談的選項。 
+前往 [Microsoft 合作夥伴支援](https://partner.microsoft.com/support)，然後選擇 [顯示所有支援選項]。 您會看到可用來聯絡 Microsoft 合作夥伴支援的選項。 其中包括致電支援人員的電話號碼，以及與支援人員交談的選項。 
 
 ### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>我可以在哪裡找到技術性常見問題的詳細資訊？
 
 關於技術性常見問題的相關資訊可在[這裡](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues)找到。
+

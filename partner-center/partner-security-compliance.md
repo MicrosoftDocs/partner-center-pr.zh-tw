@@ -1,6 +1,6 @@
 ---
-title: 合作夥伴安全性需求狀態 | 合作夥伴中心
-ms.date: 10/11/2019
+title: 合作夥伴安全性需求狀態
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入了解在雲端解決方案提供者計畫中，針對顧問、控制台廠商和合作夥伴增加安全性的新強制需求。
@@ -9,14 +9,15 @@ ms.author: labrenne
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
 ms.topic: conceptual
-ms.openlocfilehash: c398c8f2490d3f0785fa7b836a8b0e077ca46bce
-ms.sourcegitcommit: 6d6d98c0d6eee932be6e94160c688720d7d6aedf
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 7905a7d24116e905c85209b18aba3ecad9643ee1
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "82120389"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998294"
 ---
-# <a name="partner-security-requirements-status"></a>合作夥伴安全性需求狀態
+# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>合作夥伴安全性需求狀態 - 取得解答並查看目前狀態的報告
 
 **適用於**
 
@@ -28,7 +29,7 @@ ms.locfileid: "82120389"
 - 所有顧問
 
 **適當的使用者**
--    所有已啟用的使用者，包括來賓使用者
+- 所有已啟用的使用者，包括來賓使用者
 
 較高的隱私權保護和安全性是我們最優先的考量。 我們知道最佳的防禦是預防，而且我們只與最弱的連結一樣強大。 這就是為什麼我們需要生態系統中的每個人都採取行動，並確保其具備適當的安全性保護。 為了協助保護合作夥伴和客戶，我們針對參與雲端解決方案提供者計畫的顧問、控制台廠商和合作夥伴推出一組強制性的安全性需求。
 
@@ -73,7 +74,7 @@ ms.locfileid: "82120389"
 - 這兩個代理人在剩餘的四天內都沒有執行任何作業。
 - 在 7 天時間範圍內的 10 項作業中，2 項是由具有 MFA 驗證的使用者所進行。 因此，計量會顯示 20%。
 
-使用 [沒有 MFA 的入口網站要求]  檔案，了解哪些使用者在未經 MFA 驗證下登入合作夥伴中心儀表板，以及在報告期間內最後造訪的時間。
+使用 [沒有 MFA 的入口網站要求] 檔案，了解哪些使用者在未經 MFA 驗證下登入合作夥伴中心儀表板，以及在報告期間內最後造訪的時間。
 
 #### <a name="appuser-authentication"></a>應用程式 + 使用者驗證
 
@@ -121,7 +122,7 @@ ms.locfileid: "82120389"
 
 如果您使用第三方 MFA 解決方案，請識別您要將其與 Azure AD 整合的方式。 一般來說有兩種方法，包括同盟和自訂控制項：
 
-* **身分識別同盟**  - 當 Azure AD 收到驗證要求時，Azure AD 會將使用者重新導向至同盟識別提供者進行驗證。 驗證成功之後，同盟識別提供者會連同 SAML 權杖，將使用者重新導向回 Azure AD。 為了讓 Azure AD 在向同盟識別提供者進行驗證時，辨識使用者已完成 MFA 驗證，SAML 權杖必須包含authenticationmethodsreferences  宣告 (具有 multipleauthn  值)。 檢查同盟識別提供者是否支援發出這類宣告。 若是如此，請檢查同盟識別提供者是否已設定為執行此動作。 如果宣告遺失，Azure AD (進而是合作夥伴中心) 將不會知道使用者已完成 MFA 驗證，而遺失宣告可能導致計量不是 100%。
+* **身分識別同盟**  - 當 Azure AD 收到驗證要求時，Azure AD 會將使用者重新導向至同盟識別提供者進行驗證。 驗證成功之後，同盟識別提供者會連同 SAML 權杖，將使用者重新導向回 Azure AD。 為了讓 Azure AD 在向同盟識別提供者進行驗證時，辨識使用者已完成 MFA 驗證，SAML 權杖必須包含authenticationmethodsreferences 宣告 (具有 multipleauthn 值)。 檢查同盟識別提供者是否支援發出這類宣告。 若是如此，請檢查同盟識別提供者是否已設定為執行此動作。 如果宣告遺失，Azure AD (進而是合作夥伴中心) 將不會知道使用者已完成 MFA 驗證，而遺失宣告可能導致計量不是 100%。
 
 * **自訂控制項** - Azure AD 自訂控制項不能用來識別使用者是否已透過第三方 MFA 解決方案完成 MFA 驗證。 因此，透過自訂控制項完成 MFA 驗證的任何使用者，一律會對 Azure AD (接著是合作夥伴中心) 顯示未完成 MFA 驗證。 可能的話，建議您在與 Azure AD 整合時，切換為使用身分識別同盟，而不是自訂控制項。
 

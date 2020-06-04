@@ -1,22 +1,23 @@
 ---
-title: 合作夥伴安全性需求 | 合作夥伴中心
+title: 合作夥伴安全性需求
 ms.topic: article
-ms.date: 11/09/2019
+ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 啟用多重要素驗證 (MFA) 並採用安全應用程式模型架構的簡介，這些項目現在是合作夥伴的必要元件。
-author: isaiahwilliams
-ms.author: iswillia
+description: 介紹啟用多重要素驗證 (MFA) 的合作夥伴需求，並採用安全應用程式模型架構。
+author: LauraBrenner
+ms.author: labrenne
 keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
-ms.openlocfilehash: b0fe328008ae56272ddd8e22722071e5858881c8
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.custom: SEOMAY.20
+ms.openlocfilehash: b3e8b7ff739c9fbe37902b67721d324328fe2930
+ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "77672798"
+ms.lasthandoff: 05/27/2020
+ms.locfileid: "83998264"
 ---
-# <a name="partner-security-requirements"></a>合作夥伴安全性需求
+# <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>使用合作夥伴中心或合作夥伴中心 API 的合作夥伴的合作夥伴安全性需求
 
 **適用於**
 
@@ -28,7 +29,8 @@ ms.locfileid: "77672798"
 - 所有顧問
 
 **適當的使用者**
--   所有已啟用的使用者，包括來賓使用者
+
+- 所有已啟用的使用者，包括來賓使用者
 
 較高的隱私權保護和安全性是我們最優先的考量。 我們知道最佳的防禦是預防，而且我們只與最弱的連結一樣強大。 這就是為什麼我們需要生態系統中的每個人都採取行動，並確保具備適當的安全性保護。 為了協助保護合作夥伴和客戶，我們針對參與雲端解決方案提供者計畫的顧問、控制台廠商和合作夥伴推出一組強制性的安全性需求。
 
@@ -40,7 +42,7 @@ ms.locfileid: "77672798"
 
 為了保護您和您的客戶，我們要求合作夥伴立即採取下列動作：  
 
-1. **針對合作夥伴租用戶中的所有使用者帳戶啟用 Multi-Factor Authentication (MFA)** 。 合作夥伴租用戶中的所有使用者帳戶在登入 Microsoft 商業雲端服務，或是透過合作夥伴中心或 API 在雲端解決方案提供者中進行交易時，都必須經過 Multi-Factor Authentication (MFA) 的查問。 
+1. **針對合作夥伴租用戶中的所有使用者帳戶啟用 Multi-Factor Authentication (MFA)** 。 合作夥伴租用戶中的所有使用者帳戶在登入 Microsoft 商業雲端服務，或是透過合作夥伴中心或 API 在雲端解決方案提供者方案中進行交易時，都必須經過多重要素驗證 (MFA) 的查問。
 
 2. **採用安全應用程式模型架構**。 採用安全應用程式模型架構。 所有與合作夥伴中心 API 整合的合作夥伴，都必須針對任何應用程式 + 使用者驗證模型應用程式採用安全應用程式模型架構。
 
@@ -51,13 +53,13 @@ ms.locfileid: "77672798"
 
 ## <a name="actions-that-you-need-to-take"></a>您需要採取的動作
 
-若要符合合作夥伴的安全性需求，您必須針對合作夥伴租用戶中的每位使用者帳戶強制執行多重要素驗證。 您可以透過下列其中一種方式來完成這項作業：
+若要符合合作夥伴的安全性需求，您必須針對合作夥伴租用戶中的每位使用者帳戶強制執行多重要素驗證。 您可以使用下列其中一種方法執行這個動作：
 
 - 實作 [Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)。
 
-- 為每個使用者帳戶購買 Azure Active Directory Premium。 如需詳細資訊，請參閱[規劃雲端式 Azure 多重要素驗證部署](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)。
+- 為每個使用者帳戶購買 Azure Active Directory Premium。 如需詳細資訊，請參閱[規劃雲端式 Azure Multi-Factor Authentication 部署](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)。
 
-- 使用協力廠商解決方案，對合作夥伴租用戶中的每個使用者帳戶強制執行多重要素驗證。 如需詳細資訊，請參閱[如何強制執行安全性需求](#how-the-requirements-will-be-enforced)，以確保解決方案會提供預期的資訊。
+- 使用協力廠商解決方案，對合作夥伴租用戶中的每個使用者帳戶強制執行多重要素驗證。 若要確保解決方案會提供預期的解決方案，請參閱[如何強制執行安全性需求](#how-the-requirements-will-be-enforced)。
 
 > [!NOTE]
 > 雖然在合約上，主權雲端 (21Vianet、美國政府和德國) 不需要多重要素驗證，但強烈建議您採用這些安全性需求。
@@ -72,7 +74,7 @@ ms.locfileid: "77672798"
 
 - 安全性預設值可取代預覽基準原則的一般可用性。 當合作夥伴啟用安全性預設值之後，他們將無法再啟用基準原則。
 
-- 使用安全性預設值時，將會一次啟用所有原則。 
+- 使用安全性預設值時，將會一次啟用所有原則。
 
 - 使用[條件式存取](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作夥伴將[無法使用安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)。
 
@@ -91,7 +93,7 @@ ms.locfileid: "77672798"
 
 因為這些需求適用於合作夥伴租用戶中的所有使用者帳戶，所以您必須考慮幾件事來確保順利部署，包括識別 Azure Active Directory 中無法執行多重要素驗證的使用者帳戶，以及貴組織所使用且不支援新式驗證的應用程式和裝置。
 
-執行任何動作之前，建議您找出下列情況： 
+執行任何動作之前，建議您找出下列情況：
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>您是否具有不支援使用新式驗證的應用程式或裝置？
 
@@ -105,7 +107,7 @@ ms.locfileid: "77672798"
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>是否有原則防止任何使用者在工作時使用其行動裝置？
 
-請務必找出會防止員工在工作時使用行動裝置的任何公司原則，因為該原則會影響您所實作的多重要素驗證解決方案。 部分解決方案，例如透過 [Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)所實作的解決方案，只會允許使用驗證器應用程式進行驗證。 如果您的組織有防止使用行動裝置的原則，則應該考量下列其中一個選項
+請務必找出會防止員工在工作時使用行動裝置的任何公司原則，因為該原則會影響您所實作的多重要素驗證解決方案。 部分解決方案，例如透過 [Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)所實作的解決方案，只會允許使用驗證器應用程式進行驗證。 如果您的組織有防止使用行動裝置的原則，則應該考量下列其中一個選項：
 
 - 部署可在安全系統上執行的以時間為基礎的一次性基礎密碼 (TOTP) 應用程式
 
@@ -113,11 +115,11 @@ ms.locfileid: "77672798"
 
 - 為受影響的使用者購買 [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) 授權
 
-#### <a name="what-automation-or-integration-do-you-have-that-leverages-user-credentials-for-authentication"></a>您有會利用使用者認證進行驗證的哪些自動化或整合？
+#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>您有會利用使用者認證進行驗證的哪些自動化或整合？
 
-由於需求是對合作夥伴目錄中的每個使用者 (包括服務帳戶) 強制執行 MFA，因此，利用使用者認證進行驗證的任何自動化或整合都會受到影響。 因此，請務必找出在這些情況下所使用的帳戶。 以下是應該考量的應用程式或服務的範例清單
+由於需求是對合作夥伴目錄中的每個使用者 (包括服務帳戶) 強制執行 MFA，因此，利用使用者認證進行驗證的任何自動化或整合都會受到影響。 因此，請務必找出在這些情況下所使用的帳戶。 請參閱下列範例應用程式或服務的清單以供考慮：
 
-- 用來代表您的客戶佈建資源的控制台 
+- 用來代表您的客戶佈建資源的控制台
 
 - 與用於發票 (與雲端解決方案提供者計畫相關) 的任何平台整合並支援您的客戶
 
@@ -144,9 +146,9 @@ ms.locfileid: "77672798"
 
 ## <a name="resources-and-support"></a>資源與支援
 
-以下是可以找到支援和範例程式碼的資源：
+如需支援和範例程式碼，請參閱下列資源：
 
-- [合作夥伴中心安全性指導群組社群](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) - 這是線上社群，您可以在其中瞭解近期活動，並詢問您可能會遇到的任何問題。
-- [合作夥伴中心 .NET 範例](https://github.com/microsoft/partner-center-dotnet-samples) - 此 GitHub 存放庫包含使用 .NET 開發的範例，將示範如何實作安全應用程式模型架構。
-- [合作夥伴中心 Java 範例](https://github.com/microsoft/partner-center-java-samples) - 此 GitHub 存放庫包含使用 Java 開發的範例，將示範如何實作安全應用程式模型架構。
-- [合作夥伴中心 PowerShell - 多重要素驗證](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) - 本文章提供如何使用 PowerShell 來實作安全應用程式模型架構的詳細資料。
+- [合作夥伴中心安全性指導群組社群](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)：合作夥伴中心安全性指導群組社群是線上社群，您可以在其中瞭解近期活動，並詢問您可能會遇到的任何問題。
+- [合作夥伴中心 .NET 範例](https://github.com/microsoft/partner-center-dotnet-samples)：此 GitHub 存放庫包含使用 .NET 開發的範例，將示範如何實作安全應用程式模型架構。
+- [合作夥伴中心 Java 範例](https://github.com/microsoft/partner-center-java-samples)：此 GitHub 存放庫包含使用 Java 開發的範例，將示範如何實作安全應用程式模型架構。
+- [合作夥伴中心 PowerShell - Multi-Factor Authentication](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)：此多重要素驗證文章提供如何使用 PowerShell 來實作安全應用程式模型架構的詳細資料。
