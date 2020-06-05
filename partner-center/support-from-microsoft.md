@@ -1,28 +1,28 @@
 ---
-title: 來自 Microsoft 的支援 | 合作夥伴中心
+title: 來自 Microsoft 的支援
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 當您使用 Microsoft 服務或合作夥伴中心遇到問題時，您可以向上呈報給 Microsoft 以尋求協助，並且可以追蹤問題直到問題解決為止。
 ms.assetid: 7C811BEF-AACE-4DBB-8804-5682C20E0704
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a8bd33806e8b741539060204cda17bf7ddfc975
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: cc4b9ac8a371c63b44624431546dae359b9938db
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023472"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425888"
 ---
-# <a name="support-from-microsoft"></a>來自 Microsoft 的支援
+# <a name="support-from-microsoft---when-to-escalate-issues-how-to-report-them-or-how-to-check-service-health"></a>Microsoft 的支援-何時呈報問題、如何報告，或如何檢查服務健全狀況
 
 **適用於**
 
--  夥伴中心
--  Microsoft Cloud for US Government 適用的合作夥伴中心
-
+- 合作夥伴中心
+- Microsoft Cloud for US Government 適用的合作夥伴中心
 
 如果您在使用 Microsoft 服務或合作夥伴中心遇到問題，您可以向上呈報給 Microsoft 以尋求協助，並且可以追蹤問題直到問題解決為止。
 

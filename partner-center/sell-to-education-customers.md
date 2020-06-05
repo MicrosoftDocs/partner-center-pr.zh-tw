@@ -1,23 +1,24 @@
 ---
-title: 如何將教育銷售給客戶
-description: 瞭解如何建立教育客戶，並在合作夥伴中心銷售優惠。
+title: 如何向教育客戶銷售優惠
+description: 瞭解如何在合作夥伴中心建立教育客戶，並向他們銷售優惠。
 ms.topic: article
-ms.date: 3/20/2020
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: 教育，特殊區段
 ms.localizationpriority: medium
-ms.openlocfilehash: 99d5576cfcdad5320d90c19ca705b7c43cb3e7ab
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362486"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84426007"
 ---
-# <a name="how-to-sell-education-to-customers"></a>如何將教育銷售給客戶
+# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何銷售供應專案給教育客戶 & 如何在合作夥伴中心建立教育客戶
 
 **適用於**
 
@@ -37,6 +38,7 @@ ms.locfileid: "83362486"
 > Microsoft 會 vets 每個新建立的教育客戶租使用者，以確保其符合教育優惠。  請務必以正確且完整的方式輸入必要的資訊，以避免調查程式發生延遲。
 
 1. 登入合作夥伴中心。
+
 2. 選取 [**客戶**]，然後選取 [**新增客戶**]。 從 [**特殊資格**] 下拉式清單中選取 [**教育**]。  視需要填寫其餘的帳戶資訊。  協助調查流程的索引鍵欄位包括：
 
    - 公司名稱：輸入法律實體名稱-調查的必要專案
@@ -78,7 +80,7 @@ ms.locfileid: "83362486"
 
 2. 重新整理您的瀏覽器以重設頁面。 [**更新**] 按鈕和 [**特殊資格] 狀態**會設定為 [**無**]。
 
-3. 選取 [更新]  。 在 [**服務管理**] 頁面上，選取 [ **Office 365**]。
+3. 選取 [更新]。 在 [**服務管理**] 頁面上，選取 [ **Office 365**]。
 
 4. 您會在瀏覽器的新索引標籤上，將您重新導向至 Office 365 系統管理中心。 系統可能會要求您使用您的認證登入。
 

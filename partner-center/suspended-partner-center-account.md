@@ -1,7 +1,7 @@
 ---
-title: 還原暫時停用的合作夥伴中心帳戶 | 合作夥伴中心
+title: 還原暫時停用的合作夥伴中心帳戶
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何還原暫時停用的合作夥伴中心帳戶、發生合作夥伴帳戶暫時停用的原因，以及暫時停用期間能如何使用帳戶。
@@ -9,14 +9,15 @@ ms.assetid: 0ae6ed9e-5452-47d3-992c-69922ee0c1e9
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ee056513ce9cfed5e1cb406c3b9476114005ec77
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 0325d0f720af61813a98d18785f3cc05b2691f7e
+ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797926"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "84425877"
 ---
-# <a name="restore-a-suspended-partner-center-account"></a>還原暫時停用的合作夥伴中心帳戶
+# <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>還原已暫停的合作夥伴中心帳戶-瞭解其發生的原因及其處理方式
 
 本文說明您的合作夥伴中心帳戶暫時停權時應如何處理。
 
