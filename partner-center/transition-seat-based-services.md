@@ -1,21 +1,22 @@
 ---
-title: 將授權型服務客戶移轉到合作夥伴中心上的雲端解決方案提供者計畫 | 合作夥伴中心
+title: 將以授權為基礎的客戶移至 CSP 計畫
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 將客戶及其訂閱從其他管道或其他合作夥伴移動到雲端解決方案提供者計畫。
+description: 瞭解如何將以授權為基礎的客戶從其他頻道或其他合作夥伴移至合作夥伴中心的雲端解決方案提供者（CSP）計畫。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 12d382c043c6f1fbfa0348b17b25f12e0f306ee9
-ms.sourcegitcommit: dbaa6c2e8a0e6431f1420e024cca6d0dd54f1425
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ce096cd3e7fca1f59fd59eac739585c345c34405
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "73654007"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458384"
 ---
-# <a name="transfer-license-based-services-customers-to-the-cloud-solution-provider-program-from-another-channel-or-from-one-partner-to-another"></a>將授權型服務客戶從其他管道移轉到雲端解決方案提供者計畫，或從一個合作夥伴移動到另一個
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>將以授權為基礎的客戶從其他管道 & 合作夥伴移至雲端解決方案提供者方案
 
 **適用於**
 
@@ -29,12 +30,12 @@ ms.locfileid: "73654007"
 
 2.  一旦客戶接受您的邀請之後，您就能夠為客戶布建所需的訂用帳戶和基座（例如，客戶先前購買的相同 Office 365 供應專案）。
 
-3. 客戶可以允許其原先的訂閱到期或是加以取消。 不過，由於取消的訂用帳戶沒有退款，因此最好等到客戶的訂用帳戶接近自然到期日期。
+3. 客戶可以允許其原先的訂閱到期或是加以取消。 不過，由於取消的訂用帳戶沒有退款，因此最好等到客戶的訂用帳戶接近自然到期日。
 
 4. 客戶屆時將繼續沿用您已佈建的訂閱，而不會中斷。
 
 
-如果您佈建客戶一直都在使用的那些相同優惠方案，就不需要重新指派授權，而且也不會對終端使用者造成干擾。 優惠方案必須相同，以確保不會遺失任何資料。 只要授權總數保持不變，且優惠方案相當，您的客戶就不會覺得受到影響。
+如果您布建的供應專案與客戶所使用的供應專案相同，則不需要重新指派授權，使用者也不會中斷。 優惠方案必須相同，以確保不會遺失任何資料。 只要授權總數保持不變，且優惠方案相當，您的客戶就不會覺得受到影響。
 
 如果您轉移的客戶其優惠方案已中止，您將需要尋找相當的優惠，以避免資料遺失。 如果您將客戶移轉到不同的優惠方案，則必須更新他們的授權指派。
 

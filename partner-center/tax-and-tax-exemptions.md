@@ -1,8 +1,8 @@
 ---
 title: 區域稅額和稅金豁免
 ms.topic: article
-ms.date: 04/28/2020
-description: 瞭解您特定地理區域的稅務責任，以及如何為您的 CSP 銷售提交免稅。 深入瞭解如何取得稅務問題的支援
+ms.date: 06/05/2020
+description: 針對 CSP 方案合作夥伴，請瞭解每個區域的稅務責任、如何提交 CSP 銷售的稅金豁免，以及如何取得稅務問題的支援。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
@@ -10,15 +10,15 @@ author: LauraBrenner
 keywords: 稅金，免稅，vat，轉銷商，帳單
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.custom: SEOAPR.20
-ms.openlocfilehash: ff89cd6a117e1db4cd42e0af522b975a2e62cf26
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907800"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458294"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country"></a>依區域或國家/地區閱讀稅金和免稅明細的詳細資訊
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>依照 CSP 計畫中的合作夥伴區域或國家/地區，閱讀有關稅金和免稅明細的詳細資訊
 
 適用於：
 
@@ -37,7 +37,7 @@ ms.locfileid: "82907800"
 
 如有其他問題，請[在合作夥伴中心要求支援](#support)。
 
-### <a name="canada"></a>Canada
+### <a name="canada"></a>加拿大
 
 大部分經銷商不能於 GST/HST/QST 免稅。 請洽詢您的稅務顧問，以判斷您是否符合豁免資格，以及應提供給 Microsoft 的檔。
 
@@ -67,7 +67,7 @@ Microsoft 現在會在以土耳其方購買的數位內容和服務上套用標�
 
 如果您是在另一個國家或地區收取稅金，請[在合作夥伴中心](#support)為您的問題要求支援。
 
-## <a name="tax-receipts-and-daf"></a>稅務收據和 DAF
+## <a name="tax-receipts-and-daf"></a>稅金收據和 DAF
 
 報核聯 (適用於台灣或韓國) 或 DAF 通常在發票產生後需要兩周的作業時間。
 

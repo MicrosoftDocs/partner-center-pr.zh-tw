@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43163437aefdc8cee2e7505e8cc131eeaa3c142d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 6853bb033f7188d7d9ddfa818252fd3b41422e05
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795654"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452961"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>可從合作夥伴中心深入解析儀表板取得的專長認證報表
 
@@ -43,7 +43,7 @@ ms.locfileid: "83795654"
 
 您可以從 [專長認證報告] 看到下列區段：
 
-- 摘要
+- [摘要]
 - 專長認證計量分析
 - 專長認證歷程記錄
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795654"
 - 有風險（下一年）：目前作用**中但也**有不符合下一年需求之**風險**的能力計數。
 專長的明細（依據專長/金等專長/金），其風險為下一年不合格。
 
-![職稱摘要](images/pci/pci_competencies_summary_1.png)
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="職稱摘要":::
 
 **專長認證度量分析**
 
@@ -75,7 +75,7 @@ ms.locfileid: "83795654"
 1. TTM view：這會列舉過去12個月（TTM）的合作夥伴效能。
 2. 周年年份的觀點：這會列舉從上週年日到下一週年日的合作夥伴績效。
 
-![專長認證度量分析](images/pci/pci_competencies_comp_metrics_analysis_2.png)
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="專長認證度量分析":::
 
 > [!NOTE]
  > 分析中不涵蓋所有的計量。 目前，在專長認證報告中不支援與學習和憑證相關聯的計量。 目前**在作用中專長認證狀態**的計量分析中也不支援雲端 BUSINESS APPLICATIONS （CBA）職稱。
@@ -84,7 +84,7 @@ ms.locfileid: "83795654"
 
 此視圖會以專長認證層級和專長認證階段，顯示您到目前為止所達到之所有能力的詳細資料表。
 
-![專長認證歷程記錄](images/pci/pci_competencies_comp_history_3.png)
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="專長認證歷程記錄":::
 
 ## <a name="next-steps"></a>後續步驟
 

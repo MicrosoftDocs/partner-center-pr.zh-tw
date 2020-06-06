@@ -119,7 +119,7 @@
 ## [加入新的客戶](add-a-new-customer.md)
 ## [要求與客戶建立經銷商關係](request-a-relationship-with-a-customer.md)
 ## [移除與客戶的經銷商關係](remove-a-relationship.md)
-## [客戶委派或撤銷對合作夥伴的管理權限](customers_revoke_admin_privileges.md) 
+## [客戶委派或撤銷對合作夥伴的管理權限](customers-revoke-admin-privileges.md) 
 ## [查看您的客戶清單](see-your-customer-list.md)
 ## [檢視客戶活動記錄](activity-logs.md)
 ## [更新客戶帳戶資訊](update-customer-account-info.md)
@@ -127,7 +127,7 @@
 ## [為客戶建立多個使用者](adding-multiple-users-to-a-customer-account.md)
 ## [指派支援連絡人](assign-support-contacts.md)
 
-# [雲端解決方案提供者優惠方案](csp-offers.md) 
+# [雲端解決方案提供者優惠方案](csp-offers.md)
 ## 商務 Marketplace
 ### [商務 Marketplace 概觀](csp-commercial-marketplace-overview.md)
 ### [探索 Marketplace 供應項目](csp-commercial-marketplace-discover.md)

@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1522f6fe9a6b287443245577232b59d0032cdb5
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: dec4e4c3f5438df7d09da018c8d7df3709a01854
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795718"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453052"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>[合作夥伴中心深入解析] 儀表板提供的權益報表
 
@@ -29,11 +29,11 @@ ms.locfileid: "83795718"
 
 身為 Microsoft 合作夥伴，您可以存取使用最新技術和創新的優勢主機，協助您強化小組的技能、提升效率，並拓展您的業務。 權益套件包括：已授權的軟體、雲端服務、Visual Studio 訂用帳戶和支援的配置。 這些套件也可以包含特定的進入市場資源、供應專案和方案。 [權益] 報告會顯示您所存取之權益的趨勢，以及在選取的日期範圍內的使用量。
 
-![權益頁面總覽](images/pci/pci_benefits_intro_1.png)
+:::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="權益頁面總覽":::
 
 您可以在 [權益] 報告中將下列圖表視覺化：
 
-- 摘要
+- [摘要]
 - 已授與雲端服務
 - 軟體產品
 - Visual Studio 訂閱
@@ -49,20 +49,20 @@ ms.locfileid: "83795718"
 
 範例： Microsoft 合作夥伴網路（MPN）成員資格合作夥伴符合內部部署產品和雲端產品的技術支援。 取得銀級專長認證的合作夥伴會獲得內部部署產品15個事件的技術支援。 他們可以視需要取用此支援。 
 
-![優點摘要](images/pci/pci_benefits_summary_2.png)
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="優點摘要":::
 
 **已授與雲端服務**
 
 此圖表顯示所選雲端服務的授權型訂閱在選取的日期範圍內，所授與的每月授權趨勢。
 從 [**服務**] 索引標籤選取雲端服務，以查看特定雲端服務的圖表。 折線圖代表授與貴公司的整體授權。
 
-![已授與雲端服務](images/pci/pci_benefits_cloud_services_granted_3.png)
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="已授與雲端服務":::
 
 **軟體產品**
 
 此圖表顯示特定軟體產品在選取的日期範圍內，所授與的每月授權趨勢。 從圖表頂端的下拉式清單中選取 [軟體產品]，以查看您所授與的特定軟體產品的趨勢，使其成為權益。 折線圖代表授與貴公司的整體授權。
 
-![已授與軟體產品](images/pci/pci_benefits_software_products_granted_4.png)
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="已授與軟體產品":::
 
 **Visual Studio 訂閱**
 
@@ -70,7 +70,7 @@ ms.locfileid: "83795718"
 
 選取圖表頂端的索引標籤，以查看您被授與權益的特定 Visual Studio 訂用帳戶的趨勢。 圖表中的資料行代表訂用帳戶所耗用的基座。 折線圖代表指派給訂用帳戶的整體基座。
 
-![Visual Studio 訂閱](images/pci/pci_benefits_visual_studio_subscriptions_5.png)
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio 訂閱":::
 
 **技術權益**
 
@@ -78,7 +78,7 @@ ms.locfileid: "83795718"
 
 選取圖表頂端的索引標籤，以查看您所授與之特定支援權益的趨勢。 折線圖代表針對所選支援權益指派的總支援時數。
 
-![技術優勢](images/pci/pci_benefits_technical_benefits_6.png)
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="技術優勢":::
 
 **上市提供或服務**
 
@@ -86,7 +86,7 @@ ms.locfileid: "83795718"
 
 從圖表頂端的下拉式清單中，選取 [進入市場供應專案] 或 [服務] 類別，以查看授與貴公司之所選進入市場服務的趨勢。 圖表中的資料行代表進入市場的供應專案或服務已啟用。 折線圖代表貴公司所授與的整體上市提供或服務。
 
-![上市優惠](images/pci/pci_benefits_go_to_market_7.png)
+![上市優惠](images/pci/pci-benefits-go-to-market-7.png)
 
 ## <a name="next-steps"></a>後續步驟
 

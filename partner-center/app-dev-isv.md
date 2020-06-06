@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 專長認證，ISV，應用程式開發
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf6d004e7247154b08e63bbd74bcbcf022e57337
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: e7f0024bbd52e6f6a449f9d8965f25499bb4a7a0
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907478"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452725"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>應用程式開發專長認證的一次性測驗需求豁免
 
@@ -45,7 +45,7 @@ ms.locfileid: "82907478"
 1. 從儀表板上的 [合作夥伴中心] 功能表中，選取 [專長認證]  。
 2. 在可用的職稱清單中，應用程式開發已標示為**完成**。
 
-![ISV 至 appdev](images/appdev.png)
+:::image type="content" source="images/appdev.png" alt-text="ISV 至 appdev":::
 
 3. 選取 [**應用程式開發**]。 您會看到一則通知，指出您已提供豁免公司的覆寫，使其無法符合測驗需求。 
 

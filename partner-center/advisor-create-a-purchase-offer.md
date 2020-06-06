@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: advisor，office 365，購買
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b96a918b18240869305b18deb24241cbc64a1df1
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: 9b9ab4fd293dce26a738ab055a2ca31e8ce1884b
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362676"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458364"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顧問：建立購買供應專案
 
@@ -42,7 +42,7 @@ ms.locfileid: "83362676"
     - **授權計數**：當您選取訂用帳戶時，請輸入您想要包含在購買供應專案中的授權數量。
     - **委派系統管理**：此選項僅適用于經過認證可提供委派管理的合作夥伴。 如果您想要提供用戶端委派的系統管理，請選擇此選項。 如果您這樣做，不論是否接受委派管理，您的用戶端都可以接受購買供應專案。
 
-3. 按一下 [下一步]  。
+3. 按一下 [下一步] 。
 
 4. 在 [**傳送**] 頁面上，複製購買供應專案資訊和 URL，然後將其貼到電子郵件、檔或網頁中，以建立自訂的購買供應專案。
 
@@ -59,4 +59,4 @@ ms.locfileid: "83362676"
     - 讓用戶端知道他們會直接向 Microsoft 收取費用。
     - 告訴用戶端如何與您聯絡服務或供應專案相關的問題。
     - 讓用戶端知道他們控制購買的使用者授權數量，並可在接受供應專案時變更授權數量。
-    - 如果您提供委派管理，則說明其意義和您的職責。 如需委派系統管理的詳細資訊，請參閱[提供委派](customers_revoke_admin_privileges.md)的系統管理。
+    - 如果您提供委派管理，則說明其意義和您的職責。 如需委派系統管理的詳細資訊，請參閱[提供委派](customers-revoke-admin-privileges.md)的系統管理。

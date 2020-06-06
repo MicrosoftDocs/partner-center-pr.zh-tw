@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a43700b6644529ecc3d128110440649b4d3b99
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 1be2bfe63f7a6a39198756e9ef48ee5c0597d33b
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794993"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453285"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>合作夥伴中心有兩個層級的 MPN 合作夥伴帳戶
 
@@ -50,26 +50,6 @@ ms.locfileid: "83794993"
 - 所有位置帳戶都位於相同層級和合作夥伴通用帳戶之下。
 - 帳戶管理員可以新增或移除位置。
 
-![帳戶結構](images/accountstructure.png)
+:::image type="content" source="images/accountstructure.png" alt-text="帳戶結構" border="false":::
 
-如需管理位置的詳細資訊，請參閱[管理您的夥伴帳戶：位置](manage-locations.md)。 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+如需管理位置的詳細資訊，請參閱[管理您的夥伴帳戶：位置](manage-locations.md)。

@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: 教育，特殊區段
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cfe0317e4503a58303a24900c17e9b0997f528
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84426007"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453295"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何銷售供應專案給教育客戶 & 如何在合作夥伴中心建立教育客戶
 
@@ -41,15 +41,15 @@ ms.locfileid: "84426007"
 
 2. 選取 [**客戶**]，然後選取 [**新增客戶**]。 從 [**特殊資格**] 下拉式清單中選取 [**教育**]。  視需要填寫其餘的帳戶資訊。  協助調查流程的索引鍵欄位包括：
 
-   - 公司名稱：輸入法律實體名稱-調查的必要專案
-   - 國家/地區和位址行：輸入完整的實體郵件標籤-調查的必要專案
-   - 電子郵件地址：輸入實體所擁有的電子郵件–不是免費或 on.microsoft.com 的電子郵件–調查的必要專案
-   - 客戶連絡人資訊：這些詳細資料將作為調查流程的一部分使用
-   - 主功能變數名稱稱：用來建立客戶的帳戶和電子郵件地址。  選擇類似于公司名稱的名稱，不含空格或特殊字元。  稍後無法變更此名稱。
+   - **公司名稱**：輸入法律實體名稱-調查的必要專案
+   - **國家/地區和位址行**：輸入完整的實體郵件標籤-調查的必要專案
+   - **電子郵件地址**：輸入實體所擁有的電子郵件–不是免費或 on.microsoft.com 的電子郵件–調查的必要專案
+   - **客戶連絡人資訊**：這些詳細資料將作為調查流程的一部分使用
+   - **主功能變數名稱稱**：用來建立客戶的帳戶和電子郵件地址。  選擇類似于公司名稱的名稱，不含空格或特殊字元。  稍後無法變更此名稱。
 
 3. 當您完成時，請選取 [**審查**]。
 
-![教育客戶帳戶](images/eduaccountinfo.png)
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="教育客戶帳戶":::
 
 ### <a name="confirm-your-education-customers-vetting-status"></a>確認您的教育客戶的調查狀態
 
@@ -58,15 +58,15 @@ ms.locfileid: "84426007"
 
 - 如果客戶通過調查：教育
 
-   ![教育調查成功](images/edupassedvetting.png)
+   :::image type="content" source="images/edupassedvetting.png" alt-text="教育調查成功":::
 
 - 如果客戶未通過調查：不是教育客戶
 
-   ![教育調查失敗](images/edudidnotpassvetting.PNG)
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="教育調查失敗":::
 
 - 如果客戶未標記為教育客戶：無
 
-   ![教育未加上標籤](images/edunottagged.PNG)
+   :::image type="content" source="images/edunottagged.png" alt-text="教育未加上標籤":::
 
 ## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>更正客戶帳戶資訊，並重新提交調查  
 
@@ -84,7 +84,7 @@ ms.locfileid: "84426007"
 
 4. 您會在瀏覽器的新索引標籤上，將您重新導向至 Office 365 系統管理中心。 系統可能會要求您使用您的認證登入。
 
-5. 選取 [設定]  。
+5. 選取 [Settings] \(設定) 。
 
 6. 選取畫面頂端的 [**組織設定檔**] 索引標籤，然後選取 [**組織資訊**]。 您現在可以更新客戶詳細資料。
 

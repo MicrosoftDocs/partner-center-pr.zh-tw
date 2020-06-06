@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08d8efe436f0a7d61a6f0c75e8171eb02a08120c
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34a9c3fb187cce5e062d7289a46db1771c1c4d79
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795677"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453121"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可從合作夥伴中心深入解析儀表板取得的 Azure 使用量報告
 
@@ -28,7 +28,7 @@ ms.locfileid: "83795677"
 
 Azure 使用量報表會顯示與您客戶的 Azure 訂用帳戶相關的計量。 這包括依計量類別的 Azure 耗用量收益和使用量。 您可以從 Azure 使用量報告中查看下列區段。
 
-- 摘要
+- [摘要]
 - 依地理位置的 Azure 使用量
 - Azure 使用率
 
@@ -55,7 +55,7 @@ Azure 使用量報表會顯示與您客戶的 Azure 訂用帳戶相關的計量�
 > [!NOTE]
  > 只有獲派「執行報表檢視器」角色的使用者，才看得到 Azure 已使用的收益（ACR）。
 
-![Azure 使用量摘要](images/pci/pci_azure_usage_summary_1.png)
+:::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure 使用量摘要":::
 
 **依地理位置的 Azure 使用量**
 
@@ -65,7 +65,7 @@ Azure 使用量報表會顯示與您客戶的 Azure 訂用帳戶相關的計量�
 
 您可以搜尋並選取方格中的國家/地區，以縮放至地圖中的位置。 選取地圖上的 [**首頁**] 選項，以還原成原始的視圖。
 
-![依地理位置的 Azure 使用量](images/pci/pci_azure_usage_by_geography_2.png)
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="依地理位置的 Azure 使用量":::
 
 **Azure 使用率**
 
@@ -73,7 +73,7 @@ Azure 使用量報表會顯示與您客戶的 Azure 訂用帳戶相關的計量�
 
 橫條圖會顯示每月的收益/使用時數趨勢。 折線圖會針對所選 Azure 服務等級/計量類別，顯示與上個月相比的成長趨勢。
 
-![Azure 使用量使用率](images/pci/pci_azure_usage_utilization_3.png)
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure 使用量使用率":::
 
 ## <a name="next-steps"></a>後續步驟
 

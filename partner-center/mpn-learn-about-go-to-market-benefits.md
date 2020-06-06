@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN，成員資格權益，會員資格，上市優惠，與 Microsoft 一起上市，進入市場，金級成員資格，銀級成員資格
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f6edf7dbe2591317f0c67ad8e9489f2e4cc1e26
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 5b8e7e6a23d2e2913c039e73d7b5679114399a4c
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328199"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458424"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>透過 Microsoft 供應專案探索您的進入市場
 
@@ -65,7 +65,7 @@ ms.locfileid: "84328199"
 
 觀看您的上市提供：
 
-1. 登入合作夥伴中心[儀表板]( https://docs.microsoft.com/partner-center/)。
+1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
 2. 從左側功能表中，選取 [ **MPN**]。 然後，執行下列動作之一：
 

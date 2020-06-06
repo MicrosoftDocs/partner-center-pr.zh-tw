@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b2d6e363eed34998a07a711b51dc77fcc135cdb
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f48b58ff02672e08f39fb22f17736f6f5a6e9216
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328229"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453195"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作夥伴中心深入解析-顯示 Microsoft 商業夥伴如何執行的儀表板
 
@@ -61,7 +61,7 @@ ms.locfileid: "84328229"
 
 **日期範圍篩選**：您可以在每個頁面的右上角找到日期範圍選取專案。 您可以選取以過去3、6或12個月為基礎的日期範圍，或選取自訂的日期範圍，以自訂 [總覽] 頁面圖形的輸出。 預設的日期範圍選取為12個月。 
 
-![簡介地圖](images/pci/intro1.png)
+:::image type="content" source="images/pci/intro1.png" alt-text="簡介地圖":::
 
 **意見反應按鈕**：所有 Insights 報告中的每個圖表/控制項都會加上 [意見反應] 按鈕，讓您提供報表功能的實例意見反應。 
 
@@ -74,7 +74,7 @@ ms.locfileid: "84328229"
 
 - 選取的篩選器會顯示在頁面頂端。 
 
-![filters](images/pci/filters.png)
+:::image type="content" source="images/pci/filters.png" alt-text="濾波器":::
 
 ### <a name="filters-definitions"></a>篩選定義：
 

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 保留區, vm, 管理, 使用率, 調整大小
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f214a3dd507370f37347d4e014059367f13c5669
-ms.sourcegitcommit: 53476b7837192fa4d60470bd5b99e5355e7e48c0
+ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "82205776"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453275"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率
 
@@ -54,13 +54,13 @@ ms.locfileid: "82205776"
 3. 從入口網站功能表選取 **\[虛擬機器\]**，然後選取您要購買保留區的 VM。
 4. 在 VM 的詳細資料頁面上，尋找大小和區域資訊（如下所示），並使用此資訊在合作夥伴中心購買保留。  
 
-    ![詳細資料頁面上的大小和區域資訊](images/usage1.png)
+    :::image type="content" source="images/usage1.png" alt-text="詳細資料頁面上的大小和區域資訊":::
 
 **使用 Microsoft Azure PowerShell 取得 VM 大小調整資訊**
 
 使用下列影像中的資訊，取得您要購買保留區的 VM 大小與位置。 
 
-![VM 位置和大小](images/usage2.png)
+:::image type="content" source="images/usage2.png" alt-text="VM 位置和大小":::
 
 **使用 Azure Resource Manager (ARM) API 取得 VM 大小調整資訊**
 
@@ -70,7 +70,8 @@ ms.locfileid: "82205776"
 
 3. 呼叫會傳回 **vmSize** 和 **location** 的值，如下所示。
 
-    ![vmSize 值](images/usage3.png) ![位置值](images/usage4.png)
+    :::image type="content" source="images/usage3.png" alt-text="vmSize 值":::
+    :::image type="content" source="images/usage4.png" alt-text="位置值":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>確認 Azure VM 使用率與保留區折扣
 
@@ -110,7 +111,7 @@ ms.locfileid: "82205776"
 
 您可以使用 Azure 使用量 API 取得保留區使用率資料，來確認客戶獲得保留區折扣，並查看折扣套用到那些 VM (虛擬機器)。 將範例 A 與範例 B 進行比較，以瞭解如何驗證客戶的保留使用量。
 
-![保留使用範例](images/usage5.png)
+:::image type="content" source="images/usage5.png" alt-text="保留使用範例":::
 
 - ReservationId 可識別用於套用折扣至 VM 的 Azure 保留區。
 - consumptionMeter 是已套用保留區折扣之 VM 的 MeterId。

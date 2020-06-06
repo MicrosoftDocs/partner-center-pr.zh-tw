@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: ''
 ms.localizationpriority: medium
-ms.openlocfilehash: 87b1d27fa2f42eeba3b0f8308648536c0686911e
-ms.sourcegitcommit: c13723216761e60d2b37596efc71f5fdecb30be1
+ms.openlocfilehash: fef5468e0dc51cd9830fda6fb2ae60df5d9f39b5
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "84145132"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453245"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 的共同銷售連接器-總覽
 
@@ -38,23 +38,23 @@ ms.locfileid: "84145132"
 |合作夥伴中心使用者角色|將安裝和使用連接器的員工必須是推薦管理員|[指派使用者角色和權限](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM 使用者角色是系統管理員或系統自訂者|[指派 Dynamics 365 中的角色](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |Power 自動化 Flow 帳戶|適用于 CRM 系統管理員或系統自訂者的主動式[電源自動化](https://flow.microsoft.com)帳戶。 該使用者應該在安裝之前至少登入一次[電源](https://flow.microsoft.com)。|
 
-## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>安裝 Dynamics 365 的合作夥伴中心推薦同步處理（電源自動化解決方案） 
+## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>安裝 Dynamics 365 的合作夥伴中心推薦同步處理（電源自動化解決方案）
 
 1. 移至 [[電源自動化](https://flow.microsoft.com)]，並選取右上角的 [**環境**]。 此步驟會顯示可用的 CRM 實例。
 
-2. 從右上角的下拉式選單中，選取適當的 CRM 實例。 
+2. 從右上角的下拉式選單中，選取適當的 CRM 實例。
 
 3. 選取左側導覽列上的 [**方案**]。
 
 4. 按一下上方功能表上的 [**開啟 AppSource** ] 連結。
 
-![開啟 AppSource](images/cosellconnectors/openappsource.png)
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="開啟 AppSource":::
 
 5. 在快顯畫面中搜尋**合作夥伴中心的 [推薦] 連接器以進行 Dynamics365** 。  
 
-6. 按一下 [**立即取得**] 按鈕，然後按 [**繼續**]。 
+6. 按一下 [**立即取得**] 按鈕，然後按 [**繼續**]。
 
-7. 這會開啟頁面，您可以在其中選取要安裝應用程式的 CRM （Dynamics 365）環境。  同意條款及條件。 
+7. 這會開啟頁面，您可以在其中選取要安裝應用程式的 CRM （Dynamics 365）環境。  同意條款及條件。
 
 8. 接著，您會被導向至 [**管理您的解決方案**] 頁面。  使用頁面底部的箭號按鈕，流覽至 [合作夥伴中心的參考]。 已**排程的安裝**應該會出現在合作夥伴中心的 [參考解決方案] 旁。 安裝需要10-15 分鐘的時間。 
 
@@ -62,7 +62,7 @@ ms.locfileid: "84145132"
 
 10. 選取**Dynamics 365 的合作夥伴中心參照同步**處理。 下列電源可自動執行流程和實體：
 
-![可用的 CRM](images/cosellconnectors/dynamics-available-crms.png)
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="可用的 CRM":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>最佳做法：在您上線之前進行測試
 
@@ -79,27 +79,27 @@ ms.locfileid: "84145132"
 
 2. 從右上角的 [**環境**] 下拉式選，選取您已安裝電源自動化解決方案的 CRM 實例。
 
-3. 您必須建立與三個使用者帳戶建立關聯的連接： 
+3. 您必須建立與三個使用者帳戶建立關聯的連接：
 
-- 具有參考系統管理員認證的合作夥伴中心使用者 
+   - 具有參考系統管理員認證的合作夥伴中心使用者
 
-- 合作夥伴中心事件
+   - 合作夥伴中心事件
 
-- CRM 系統管理員，具備在解決方案中自動化流程的能力。 
+   - CRM 系統管理員，具備在解決方案中自動化流程的能力。
 
-    a. 從左側導覽列選取 [連線]，**然後從清單**中選取 [合作夥伴中心參照] 解決方案。
+      1. 從左側導覽列選取 [連線]，**然後從清單**中選取 [合作夥伴中心參照] 解決方案。
 
-    b. 按一下 [**建立連接**] 來建立連線。
+      2. 按一下 [**建立連接**] 來建立連線。
 
-    ![建立連線](images/cosellconnectors/createconnection.png)
+         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="建立連線":::
 
-    c. 在右上角的搜尋列中搜尋**合作夥伴中心參照（預覽）** 。
+      3. 在右上角的搜尋列中搜尋**合作夥伴中心參照（預覽）** 。
 
-    d. 使用 [參考管理員] 的認證角色建立合作夥伴中心使用者的連線。
+      4. 使用 [參考管理員] 的認證角色建立合作夥伴中心使用者的連線。
 
-    e. 接下來，使用 [參考管理員] 的認證為合作夥伴中心使用者建立合作夥伴中心的事件連線。
+      5. 接下來，使用 [參考管理員] 的認證為合作夥伴中心使用者建立合作夥伴中心的事件連線。
 
-    f. 為 CRM 系統管理員使用者建立 Common Data Service （目前的環境）的連接。
+      6. 為 CRM 系統管理員使用者建立 Common Data Service （目前的環境）的連接。
 
 4. 若要讓電源自動化流程與連線產生關聯，請編輯每個電源自動化流程，以連線至 Common Data Service 和合作夥伴中心的參照。 儲存變更。
 
@@ -113,15 +113,15 @@ ms.locfileid: "84145132"
 
 2. 新增（a）的連接。具有參照系統管理員認證的合作夥伴中心使用者（b.）以下反白顯示合作夥伴中心事件
 
-![觸發程序](images/cosellconnectors/triggerflow.png)
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="觸發程序":::
 
 3. 當您進行這些更新時，您會看到
 
-![Webhook](images/cosellconnectors/webhook1.png)
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
-4. 儲存您的變更，然後選取 [**開啟**]。 
+4. 儲存您的變更，然後選取 [**開啟**]。
 
-若要讓合作夥伴中心 webhook 接聽事件變更，請執行下列步驟：
+   若要讓合作夥伴中心 webhook 接聽事件變更，請執行下列步驟：
 
 5. 選取 **[合作夥伴中心] 至 [Dynamics 365 （Insider preview）**]。
 
@@ -129,19 +129,19 @@ ms.locfileid: "84145132"
 
 7. 選取**複製**圖示以複製提供的 HTTP POST URL。
 
-![複製 URL](images/cosellconnectors/copyurl.png)
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="複製 URL":::
 
 8. 現在選取 [合作夥伴中心 Webhook 註冊（Insider Preview）] 電源自動化流程，然後選取 [**執行**]。
 
 9. 確定 [執行流程] 視窗在右側窗格中開啟，然後按一下 [**繼續**]。
 
-10. 輸入下列詳細資料： 
+10. 輸入下列詳細資料：
 
-    a. **Http 觸發程式端點**：從先前步驟複製的 URL
+    1. **Http 觸發程式端點**：從先前步驟複製的 URL
 
-    b. **要註冊的事件**：「參考建立」和「參考更新」
+    2. **要註冊的事件**：「參考建立」和「參考更新」
 
-    c. **覆寫現有的觸發程式端點（如果有的話**）：是（這會覆寫任何現有的端點）。 
+    3. **覆寫現有的觸發程式端點（如果有的話**）：是（這會覆寫任何現有的端點）。
 
 11. 選取 [**執行**]，然後選取 [**完成]。**
 
@@ -170,7 +170,7 @@ Webhook 現在可以接聽建立和更新事件。
     e. **如果它是商機的更新，請選取此**方式。 **若為 [是]** ，請選取 [子步驟]，然後展開 **[合作夥伴中心與 CRM 中的商機物件之間的差異**]。  
 
     f. 選取 **[如果是]** ，然後按一下 [**更新現有商機**]
-       
+
 3. 若要針對 update 事件自訂 CRM 至電腦參照同步處理的欄位：
 
     a. 選取 [**編輯**] 以編輯/自訂電源自動化流程。
@@ -181,7 +181,7 @@ Webhook 現在可以接聽建立和更新事件。
 
     d. 選取子步驟（**如果是**），然後展開 [**以商機資料更新參考**] 步驟。
 
-您可以根據欄位對應指南，編輯本節中的對應。
+   您可以根據欄位對應指南，編輯本節中的對應。
 
 4. 若要針對建立事件自訂 CRM 至電腦參照同步處理的欄位嗎？
 
@@ -189,9 +189,9 @@ Webhook 現在可以接聽建立和更新事件。
 
    b. 選取 **[同步處理參考] （範圍）。**
 
-   c. 如需自訂建立事件的 CRM 欄位對應（根據欄位對應指南），請選取 [**建立 Microsoft 參考**]。 
+   c. 如需自訂建立事件的 CRM 欄位對應（根據欄位對應指南），請選取 [**建立 Microsoft 參考**]。
 
-您可以根據欄位對應指南，編輯本節中的對應。
+   您可以根據欄位對應指南，編輯本節中的對應。
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>端對端雙向共同銷售參考同步處理
 
@@ -217,46 +217,45 @@ Webhook 現在可以接聽建立和更新事件。
 
 - **Audit**：與合作夥伴中心參考同步的唯讀審核記錄
 
-
 ### <a name="scenarios"></a>場景
 
 1. 在 CRM 中建立或更新參照並在合作夥伴中心同步處理時的參考同步處理：
 
-    a. 以在 CRM 的 [**商機**] 區段中可見的使用者身分，登入您的 DYNAMICS 365 CRM 環境。
+   1. 以在 CRM 的 [**商機**] 區段中可見的使用者身分，登入您的 DYNAMICS 365 CRM 環境。
 
-    b. 當您在 Dynamics 365 環境中建立「新商機」時，請確定下列區段存在
+   2. 當您在 Dynamics 365 環境中建立「新商機」時，請確定下列區段存在
 
-   ![商機](images/cosellconnectors/opportunity.png)
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="商機":::
 
-    c. 若要與 Microsoft 合作夥伴中心同步處理此機會，請確定您已在卡片視圖中設定下欄欄位：
+   3. 若要與 Microsoft 合作夥伴中心同步處理此機會，請確定您已在卡片視圖中設定下欄欄位：
 
-    - **與合作夥伴中心同步**：是
+      - **與合作夥伴中心同步**：是
 
-    - **Microsoft help？**：請從下列專案中選取：
+      - **Microsoft help？**：請從下列專案中選取：
 
-    ![協助選取](images/cosellconnectors/help.png)
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="協助選取":::
 
-    - **產品**：產品的解決方案識別碼
+      - **產品**：產品的解決方案識別碼
 
-    d. 一旦在 Dynamics 365 中建立商機，並將 [與**合作夥伴中心同步**] 選項設定為 **[是]**，請等候10分鐘，然後登入您的合作夥伴中心帳戶。 您的參考會與 Dynamics 365 進行同步處理。
+   4. 一旦在 Dynamics 365 中建立商機，並將 [與**合作夥伴中心同步**] 選項設定為 **[是]**，請等候10分鐘，然後登入您的合作夥伴中心帳戶。 您的參考會與 Dynamics 365 進行同步處理。
 
-    e. 同樣地，如果您更新 Dynamics 365 CRM 中的機會，則會在您的合作夥伴中心帳戶中同步處理變更，並將 [與合作夥伴中心同步] 選項設為 [是]。
+   5. 同樣地，如果您更新 Dynamics 365 CRM 中的機會，則會在您的合作夥伴中心帳戶中同步處理變更，並將 [與合作夥伴中心同步] 選項設為 [是]。
 
-    f. 與合作夥伴中心成功同步處理的機會，將會使用 Dynamics 365 中的✔圖示來識別。
+   6. 與合作夥伴中心成功同步處理的機會，將會使用 Dynamics 365 中的✔圖示來識別。
 
 2. 在 Microsoft 合作夥伴中心建立或更新參照時的參考同步處理，並在 Dynamics 365 環境中進行同步處理：
 
-    a. 登入您的合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/home)。
+   1. 登入您的合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/home)。
 
-    b. 從左側功能表中選取 [**參考**]。
+   2. 從左側功能表中選取 [**參考**]。
 
-    c. 按一下 [新交易] 選項，從合作夥伴中心建立新的共同銷售參照。
+   3. 按一下 [新交易] 選項，從合作夥伴中心建立新的共同銷售參照。
 
-    d. 登入您的 Dynamics 365 CRM 環境。 
+   4. 登入您的 Dynamics 365 CRM 環境。
 
-    e. 流覽至 [**開啟商機**]。 在 Microsoft 合作夥伴中心建立的參考現在已在 Dynamics 365 CRM 中同步處理。
+   5. 流覽至 [**開啟商機**]。 在 Microsoft 合作夥伴中心建立的參考現在已在 Dynamics 365 CRM 中同步處理。
 
-    f. 當您選取同步處理的參考時，會填入卡片視圖詳細資料。
+   6. 當您選取同步處理的參考時，會填入卡片視圖詳細資料。
 
 ## <a name="next-steps"></a>後續步驟
 

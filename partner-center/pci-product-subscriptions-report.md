@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e582507432f54148bc4c918bc554a3169fd716ca
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795917"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452777"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>[合作夥伴中心深入解析] 儀表板提供的產品訂閱報表
 
@@ -30,7 +30,7 @@ ms.locfileid: "83795917"
 
 您可以從 [產品訂閱] 報表中查看下列區段。
 
-- 摘要
+- [摘要]
 - 訂用帳戶的地理分佈
 - 訂閱新增/變換趨勢
 - 依合作夥伴位置、銷售通路、Sku、合作夥伴附加類型、區段的訂用帳戶散發
@@ -66,7 +66,7 @@ ms.locfileid: "83795917"
 
 - 依產品的訂閱：依雲端產品的目前訂用帳戶計數明細。
 
-![訂閱報表摘要](images/pci/pci_sub_report_summary_1.png)
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="訂閱報表摘要":::
 
 **訂用帳戶的地理分佈**
 
@@ -76,7 +76,7 @@ ms.locfileid: "83795917"
 
 您可以搜尋並選取方格中的國家/地區，以縮放至地圖中的位置。 按下地圖上的 [**首頁**] 選項，以還原成原始的視圖。 將滑鼠停留在地圖上，以依國家/地區查看所有訂閱和作用中訂閱。 格線上的兩個欄位都可以排序。
 
-![依地理位置的訂閱](images/pci/pci_sub_report_sub_by_geography_2.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="依地理位置的訂閱":::
 
 **訂用帳戶新增/變換**
 
@@ -84,19 +84,19 @@ ms.locfileid: "83795917"
 
 堆疊直條圖會顯示當月新的現有和變換訂閱的明細。 您可以重建直條圖，並使用特定的堆疊專案來細分。 若要這麼做，請選取圖例中的特定專案。 您也可以利用圖表頂端的滑杆來放大特定期間。
 
-![訂用帳戶新增和變換](images/pci/pci_sub_report_sub_adds_churns_3.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="訂用帳戶新增和變換":::
 
 **訂用帳戶散發**
 
 此視圖會根據您的 MPN 位置、客戶區段、銷售通路/Azure 計價模式和屬性類型（例如 DPOR、等），顯示您目前訂用帳戶的明細。 按一下個別的索引標籤，以查看這些類別的明細。 若要使用特定專案類別的細目來建立圓形圖，請在圖例中選取這些專案類別目錄。
 
-![訂用帳戶散發](images/pci/pci_sub-report_distribution_4.png)
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="訂用帳戶散發":::
 
 **訂用帳戶狀態散發**
 
 此視圖會依訂用帳戶狀態或狀態顯示目前客戶訂閱的散發。 這包括下列訂用帳戶狀態： **Active**、 **Disabled**、**取消布建**、 **Open**、 **InGracePeriod**、 **Closed**和**其他**。
 
-![訂用帳戶狀態散發](images/pci/pci_sub_report_sub_states_5.png)
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="訂用帳戶狀態散發":::
 
 **產品趨勢**
 
@@ -104,7 +104,7 @@ ms.locfileid: "83795917"
 
 這兩個圓形圖會顯示目前客戶訂用帳戶的明細。 第一個圓形圖會依產品細分訂閱。 第二個圓形圖會依 Sku 或方案細分訂閱。 當您選取 [**依產品**細分] 圓形圖中的產品時，連續的圓形圖會顯示該產品的訂用帳戶依據 sku 的明細。
 
-![產品趨勢](images/pci/pci_sub-report_prods_trend_6.png)
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="產品趨勢":::
 
 > [!NOTE]
  > 依 Sku 細分的訂用帳戶計數可能不一定會符合該產品的總訂用帳戶計數。 如果客戶已在相同的產品訂用帳戶下購買多個 Sku，就可能發生這種情況。

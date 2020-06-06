@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3db52e7a55d915dafcd220f6dd6e5ced28a9819f
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795659"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452883"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作夥伴中心深入解析儀表板中的產品授權報表
 
@@ -28,7 +28,7 @@ ms.locfileid: "83795659"
 
 [產品授權] 報表會針對以基座為基礎的雲端產品（例如 O365、Dynamics、M365、Power BI 等）提供授權分析。這裡所呈現的分析，與您所銷售或為客戶管理的授權使用量相關聯。 您可以從 [產品授權] 報表中查看下列區段。
 
-- 摘要
+- [摘要]
 - 授權的地理散佈
 - 授權新增
 - 依合作夥伴位置、銷售通路、Sku、合作夥伴附加類型、區段的授權發佈
@@ -54,7 +54,7 @@ ms.locfileid: "83795659"
 
 微圖表會顯示在所選日期範圍內，授權計數的月數月趨勢。
 
-![授權報表摘要](images/pci/pci_licenses_report_summary_1.png)
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="授權報表摘要":::
 
 **授權的地理散佈**
 
@@ -64,7 +64,7 @@ ms.locfileid: "83795659"
 
 您可以搜尋並選取方格中的國家/地區，以縮放至地圖中的位置。 按下地圖上的 [**首頁**] 選項，以還原為預設的 view。 將滑鼠停留在地圖上，以依客戶國家/地區查看目前的授權和作用中的授權。 格線上的兩個欄位都可以排序。
 
-![授權地理分佈](images/pci/pci_licenses_report_geo_spread_2.png)
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="授權地理分佈":::
 
 **授權新增**
 
@@ -74,14 +74,14 @@ ms.locfileid: "83795659"
 
 X 軸代表所選日期範圍的月份。 Y 軸代表新增的授權計數。 若要放大特定期間，請使用圖表頂端的滑杆。
 
-![授權新增](images/pci/pci_licenses_report_license_adds_3.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="授權新增":::
 
 **授權散發**
 
 此視圖會依產品和客戶國家/地區顯示客戶授權的明細。 當您選取 [**依產品的授權**] 圓形圖中的產品時，連續的圖表會顯示用戶端區域的授權明細。
 
-![授權散發](images/pci/pci_licenses_report_license_distrib_4.png)
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="授權散發":::
 
 ## <a name="next-steps"></a>後續步驟
 
-- 如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。
+如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。
