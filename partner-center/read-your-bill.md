@@ -1,8 +1,8 @@
 ---
-title: 瞭解您的帳單 |合作夥伴中心
+title: 如何閱讀您的帳單 & 偵察檔案
 ms.topic: article
-ms.date: 04/03/2020
-description: 您的發票是目前每月期間的所有合作夥伴中心費用（跨方案、產品和客戶）的摘要。
+ms.date: 06/05/2020
+description: 瞭解您的發票 & 對帳檔案。 您的帳單會針對該月期間的方案、產品和客戶顯示合作夥伴中心的費用。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d225a3290a25636a606465b548382130115472
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ab5e9667b766566e3af4ddd524805ff31dfc2a59
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798706"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467458"
 ---
-# <a name="understand-your-bill"></a>了解您的帳單
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>瞭解您的帳單和對帳檔案-瞭解如何在合作夥伴中心尋找
 
 **適用於**
 
@@ -35,7 +36,7 @@ ms.locfileid: "82798706"
 
 ## <a name="invoice-types"></a>發票類型
 
-Microsoft 會針對任何以授權為基礎的費用（例如，Office 365）和以使用量為基礎的費用（例如 Azure），以及針對一次性費用（例如 Azure RI、Marketplace、Azure 方案等）發出一份發票。 
+Microsoft 會針對任何以授權為基礎的費用（例如，Office 365）和以使用量為基礎的費用（例如 Azure），或針對一次性費用（例如 Azure RI、Marketplace 或 Azure 方案）發出一份發票。
 
 例如，  
 
@@ -43,13 +44,13 @@ Microsoft 會針對任何以授權為基礎的費用（例如，Office 365）和
 
 - 合作夥伴會取得一個發票 PDF 和2個對帳檔案，其中涵蓋 O365 和 Azure （145p）的費用。  
 
-**案例 2 [單一貨幣]**：合作夥伴已購買 azure RI、Marketplace 和/或 azure 方案以及145p 購買。 
+**案例 2 [單一貨幣]**：合作夥伴已購買 azure RI、Marketplace 和/或 azure 方案以及145p 購買。
 
 - 合作夥伴會收到一個發票 PDF 和一個涵蓋 Azure 費用的對帳檔案（145p）。 
 
 - 合作夥伴會收到另一個發票 PDF 和對帳檔案，其中涵蓋 Azure RI、Marketplace、Azure 方案的費用。 
 
-**案例 3 [多貨幣]**：合作夥伴已在丹麥幣中購買 azure RI，並以 eur 購買145P 的 azure 方案。 
+**案例 3 [多貨幣]**：合作夥伴已購買丹麥幣中的 azure RI 和以 eur 計算的 azure 方案及145p 購買歐元。
 
 - 合作夥伴會收到一個發票 PDF 和對帳檔案，其中涵蓋丹麥幣中的 Azure RI 費用。 
 
@@ -77,7 +78,7 @@ Microsoft 會針對任何以授權為基礎的費用（例如，Office 365）和
 
 **Onetime 和週期性費用的發票**： azure RI、azure 方案、Marketplace 等服務費用的發票將于每個月的第8天后提供。  
 
-以下是發票 PDF 檔上的一些重要欄位– 
+以下是發票 PDF 檔上的一些重要欄位–
 
 **發票編號**：針對個別計費期間所產生發票檔的唯一識別碼。 
 
@@ -95,34 +96,6 @@ Microsoft 會針對任何以授權為基礎的費用（例如，Office 365）和
 
 如需發票檔案中所有欄位的詳細描述（包括一次性費用的欄位），請參閱 [發票檔案欄位](invoice-file.md)。 
 
-## <a name="understand-reconciliation-file"></a>瞭解對帳檔案 
+## <a name="understand-reconciliation-files"></a>瞭解對帳檔案
 
  對帳檔案提供您費用的向下切入/詳細資料，可與發票 PDF 一起下載。 對帳檔案包含您可以用來建立客戶發票的客戶識別碼和訂用帳戶識別碼。 請參閱 [如何使用對帳](use-the-reconciliation-files.md)檔案，以取得更多有關偵察檔案的詳細資料。 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

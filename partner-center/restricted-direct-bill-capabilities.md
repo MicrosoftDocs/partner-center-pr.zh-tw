@@ -1,22 +1,23 @@
 ---
 title: 受限制的直接計費功能
 ms.topic: article
-ms.date: 01/24/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 不符合新需求的直接帳單合作夥伴將會受到限制的直接帳單功能
+description: 瞭解 CSP 直接帳單合作夥伴需求，以及如何避免受到限制的功能。 瞭解您的功能是否受到限制。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帳單，限制
-ms.openlocfilehash: ae2a1a66f1a93e8b8183a307eca395e9781a00df
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362426"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467228"
 ---
-# <a name="restricted-direct-bill-capabilities"></a>受限制的直接計費功能  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>受限制的直接帳單功能和 CSP 直接帳單合作夥伴所需的需求  
 
 ## <a name="overview"></a>概觀
 
@@ -42,22 +43,29 @@ ms.locfileid: "83362426"
 如果您的直接帳單功能已受到限制，您就無法再于合作夥伴中心為您的客戶購買新的產品。 這種限制包括：
 
 - Azure 訂用帳戶
+
 - 以基座為基礎的訂用帳戶
+
 - 將新的附加元件加入至現有的基座型訂閱。
+
 - 進行一次性購買的軟體和保留產品（例如，軟體訂閱、永久軟體和 Azure 保留的虛擬機器實例）。
 
-您也無法使用 CSP 方案下的[azure 合作夥伴共用服務供應](shared-services.md)專案，來購買新的 azure 訂用帳戶供您自己使用。
+您也不能使用 CSP 計畫下的[azure 合作夥伴共用服務供應](shared-services.md)專案來購買新的 azure 訂用帳戶供您自己使用。
 
 現有的直接帳單訂閱不會受到影響。 它們仍然有效，而且是 autorenewed。 您將繼續直接向 Microsoft 收取費用，直到取消為止。 您仍然可以透過下列方式來管理現有的訂閱：
 
 - 暫止現有的訂閱
+
 - 調整現有以基座為基礎的訂用帳戶的基座計數
+
 - 調整現有附加元件對訂用帳戶的基座計數。 注意：您無法將新的附加元件加入現有的訂用帳戶，因為它被視為新購買的訂閱。
+
 - 部署新的 Azure 資源，並在現有的 Azure 訂用帳戶下管理現有的 Azure 資源。 這包括可透過 Azure marketplace 和 Visual Studio 訂用帳戶取得的資源。
 
 除了新購買專案以外，您也無法在合作夥伴中心存取下列直接帳單功能：
 
 - 您無法建立新的客戶租使用者。 合作夥伴中心的 [**客戶**] 頁面下的 [**建立客戶**] 選項將無法使用。
+
 - 您無法對要求直接轉銷商關係的客戶產生邀請。 [合作夥伴中心] 的 [**客戶**] 頁面下的 [**要求轉售商關係**] 選項將無法使用。
 
     >[!Note]

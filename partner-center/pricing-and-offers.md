@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e92964b2b75a0ee4e9943740ba4da4aa71c82f9f
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328289"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467538"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、企業行動套件、Azure 等等的定價和優惠
 
@@ -82,10 +82,10 @@ CSP 針對特殊市場部門提供一些服務，例如教育、非收益和政�
 
 |**片斷**   |**誰必須符合資格**   |**合作夥伴合格客戶**|**啟用的產品類型**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|教育訓練|客戶|否，Microsoft 將會執行客戶資格 |僅以授權為基礎|
+|Education|客戶|否，Microsoft 將會執行客戶資格 |僅以授權為基礎|
 |非收益|客戶|否，客戶在合作夥伴中心外符合資格|僅以授權為基礎|
 |政府社群雲端 (GCC)|合作夥伴和客戶|啟用 GCC 後，合作夥伴可以建立 GCC 客戶| 僅以授權為基礎|
-|Azure Government|Partner|合格後，合作夥伴會在特定的 CSP 租使用者中操作 Azure Government|Azure 資源|
+|Azure Government|合作夥伴|合格後，合作夥伴會在特定的 CSP 租使用者中操作 Azure Government|Azure 資源|
 
 「合作夥伴邊界」、「標價」和「預估零售價格」之間的差異，可能會因區段而異。 一般而言，教育和非利潤的 CSP 合作夥伴通常會有較低或完全沒有邊界。 如需確切值，請參閱以授權為基礎的價格清單。  
 ## <a name="pricing-between-azure-and-non-azure"></a>Azure 與非 Azure 之間的定價
@@ -122,3 +122,32 @@ Azure 保留專案是以詞彙為基礎的購買，適用于特定的資源類�
 ### <a name="taxes-and-pricing"></a>稅金和定價
 
 合作夥伴中心 CSP 價格清單中的所有定價皆為含稅。 如需合作夥伴中心檔[稅金和免稅](tax-and-tax-exemptions.md)的詳細資訊。
+
+## <a name="multi-year-term-offers"></a>多年期優惠
+
+### <a name="36-month-offers"></a>36個月的優惠
+
+大約有 50 Dynamics 供應專案具有三年期的條款。 這些專案是由供應專案標題中的 **（36個月）** 所識別。 這些供應專案非常類似于每年的產品供應專案。 唯一的差異在於其一詞。 這些供應專案有三年期，這表示訂用帳戶會在三年後自動續訂，而不是一個。 以下摘要說明這些供應專案的工作方式：
+
+- 條款為36個月，訂閱將在三年後自動續訂
+- 合作夥伴可以取消或變更訂用帳戶期限內的授權數目
+- 年度更新將以為期三年期的購買時間為代價
+- 計費頻率仍然是每年或每月
+
+### <a name="72-month-offers"></a>72個月的優惠
+
+Microsoft 365 A1 基底供應專案有六年期。  購買此基礎供應專案之後，即可使用 Office 365 A1 附加元件。 
+
+|**供應項目名稱**   |**供應項目識別碼**   |**型別**|
+|-------------------|-----------------------|----------------------------|
+|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|基本供應專案|
+|Office 365 A1 教職員版（適用于裝置）|0757d14e-7c57-456f-8dab-47d164f2ff1f|附加元件|
+|Office 365 A1 學生版（適用于裝置）|bae285a9-d56b-4384-b02f-38adc61a6f12|附加元件|
+
+以下摘要說明這些供應專案的工作方式：
+
+- 期限為72個月或6年
+- 訂用帳戶不會更新，且會在6年後到期
+- 供應專案的計費頻率會顯示為年度，但合作夥伴會在取得訂用帳戶之後，于其第一張發票前計費
+- A1 72 個月供應專案的訂用帳戶已在購買後鎖定，無法取消，且在初始購買後無法將授權計數新增至訂用帳戶
+- 需要取消的合作夥伴必須建立支援票證，其中包含取消的原因，以及他們需要協助的訂用帳戶識別碼。

@@ -1,45 +1,50 @@
 ---
-title: 使用促銷吸引新客戶 | 合作夥伴中心
+title: 使用促銷來吸引客戶
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 身為雲端解決方案提供者計畫的 Microsoft 合作夥伴，您可以用促銷定價購買訂閱，再將省下的金額回饋給您的客戶。
+description: 探索雲端解決方案提供者方案中的 Microsoft 合作夥伴如何購買促銷價格的訂閱，並將其費用提供給客戶。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d43853c149f00ba284065a05ff5e6585beb4495
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 89e552e87f24caa43e0875afa2b7bea6e870c406
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798736"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467498"
 ---
-# <a name="use-promotions-to-attract-new-customers"></a>使用促銷吸引新客戶  
+# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>使用促銷來吸引新客戶，並將其費用傳遞給他們
 
-**適用於：合作夥伴中心**
+**適用於**
+
+- 合作夥伴中心
+- 雲端解決方案提供者 (CSP) 計畫中的合作夥伴
 
 **適當的角色**
--   系統管理代理人
--   MPN 合作夥伴系統管理員
--   帳單系統管理員
--   銷售代理人
+
+- 系統管理代理人
+- MPN 合作夥伴系統管理員
+- 帳單系統管理員
+- 銷售代理人
 
 <!--[FWLink: https://go.microsoft.com/fwlink/?linkid=852469]-->
 
 Microsoft 有時會在授權型訂閱上提供促銷，可讓您將結餘部分退還給客戶，並拓展業務。 
 
-Microsoft 提供兩種促銷優惠：適用於雲端解決方案提供者 (CSP) 計畫中所有符合資格的合作夥伴的促銷，以及僅適用於特定地理區域的合作夥伴的促銷。
+Microsoft 提供兩種促銷：雲端解決方案提供者（CSP）計畫中所有合格合作夥伴皆可使用的升級，以及僅適用于特定地理區域中的合作夥伴。
 
 當您以促銷價格購買新訂閱時，促銷定價會自動套用到您的淨價。 此外，任何新增至您用促銷定價所購買之訂閱的授權也都是以促銷價格來加入其中。 
 
 請花一些時間檢閱下列有關促銷的重要事項：
 
--   訂用帳戶的促銷價格僅適用于訂用帳戶的持續時間。 當您使用促銷價格購買的訂用帳戶到期時，續約訂用帳戶的價格會還原為價格清單中的價格。 這表示任何設定為自動續約的訂閱將會以當時價格來續約。 您可以在 **\[定價與方案\]** 頁面上找到價目表。 
+- 訂用帳戶的促銷價格僅適用于訂用帳戶的持續時間。 當您使用促銷價格購買的訂用帳戶到期時，續約訂用帳戶的價格會還原為價格清單中的價格。 這表示任何設定為自動續約的訂閱將會以當時價格來續約。 您可以在 **\[定價與方案\]** 頁面上找到價目表。
 
--   如果訂閱符合多個促銷的資格，將會自動套用折價百分比最高的促銷。
+- 如果訂閱符合多個促銷的資格，將會自動套用折價百分比最高的促銷。
 
--   促銷價訂閱的取消作業依循的流程及原則與一般定價訂閱相同。
+- 促銷價訂閱的取消作業依循的流程及原則與一般定價訂閱相同。
 
 ## <a name="see-available-promotions"></a>查看可用的促銷活動
 
@@ -60,7 +65,6 @@ Microsoft 提供兩種促銷優惠：適用於雲端解決方案提供者 (CSP) 
 
 5. 檢閱訂單 您會看到將在 **\[折扣\]** 欄套用的促銷定價。  
 
-6.  選取 **\[提交\]** 即可購買。 您的客戶將會在下一期帳單看到促銷價格。  
-
+6. 選取 [**提交**] 以購買。 您的客戶將會在下一期帳單看到促銷價格。  
 
 

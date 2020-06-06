@@ -1,32 +1,36 @@
 ---
-title: 重設我的密碼 |合作夥伴中心
+title: 重設密碼
 ms.topic: article
-ms.date: 06/24/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 如果您忘記密碼，您可以重設密碼。
+description: 瞭解如何重設您的合作夥伴中心密碼，或從貴公司的全域管理員取得協助。此外，請瞭解如何新增合作夥伴中心的全域管理員。
 ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: e24543ffe9cbe5b60f43fe03f4c1538f3811f459
-ms.sourcegitcommit: 75d1d4ba4b6b63b7d3761e5ca8fd03060695f7ab
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 9109fffbbf9d636aaafc57b7d441a4556e820d2e
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "80479044"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467348"
 ---
-# <a name="reset-my-password"></a>重設我的密碼
+# <a name="reset-my-password"></a>重設密碼
 
 如果您不記得您的合作夥伴中心密碼，可以將它重設。
 
 ## <a name="to-reset-your-partner-center-password"></a>重設您的合作夥伴中心密碼
 
-您的全域管理員必須設定自己的密碼重設功能。 如果您的全域系統管理員未設定，則他們必須為您重設密碼。 
+您的全域管理員必須設定自己的密碼重設功能。 （如果您的全域系統管理員尚未設定此專案，您必須要求他們為[您重設密碼](reset-a-user-password.md)）。
 
-1. 在 [登**入**] 畫面上，選取 [**無法存取您的帳戶？** ]，然後選取 **[下一步]** 。
+1. 在 [登**入**] 畫面上，選取 [**無法存取您的帳戶？** ]，然後選取 **[下一步]**。
+
 2. 選取 [**公司或學校帳戶**]。
-3. 接下來，系統會要求您輸入您的使用者識別碼和圖片或音訊中的字元。 然後選取 **[下一步]** 。
+
+3. 接下來，系統會要求您輸入您的使用者識別碼和圖片或音訊中的字元。 然後選取 [下一步]。
+
 4. 設定新密碼。
 
 ## <a name="if-your-global-admin-has-left-the-company"></a>如果您的全域系統管理員已離開公司

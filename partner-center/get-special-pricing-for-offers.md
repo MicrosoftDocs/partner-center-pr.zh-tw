@@ -1,7 +1,7 @@
 ---
 title: 銷售到特色產業
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解 Microsoft 對於特定客戶群組的特殊價格降低定價，包括教育客戶、非獲利客戶和政府使用者。
@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00b4dc172c4c39fe73f1118d2eb3a56555eaa464
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 5a1b8567263f8a105b3a3bc5b1d429715c9f3c38
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795088"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467168"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>銷售給特定產業，例如教育、非利潤和政府使用者
 
@@ -35,9 +35,9 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 |**優惠價格**   |**經銷商要求資格**   |**客戶要求資格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育訓練   |None   | 必須是[合格的教育使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|政府機關   |若要銷售 Azure，請使用[MICROSOFT 美國政府雲端驗證表單](https://azuregov.microsoft.com/csp)進行註冊。 若要銷售授權型訂閱給政府機構，沒有要求資格。|   None|
-|非營利  |None<br/> 必須有非營利 Azure Active Directory 租用戶。<br/> 深入了解[非營利特別優惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)。   |透過[Microsoft 非贏利計畫](https://nonprofit.microsoft.com/#/register)註冊以符合資格。   |
+|Education   |無   | 必須是[合格的教育使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|政府   |若要銷售 Azure，請使用[MICROSOFT 美國政府雲端驗證表單](https://azuregov.microsoft.com/csp)進行註冊。 若要銷售授權型訂閱給政府機構，沒有要求資格。|   無|
+|非營利  |無<br/> 必須有非營利 Azure Active Directory 租用戶。<br/> 深入了解[非營利特別優惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)。   |透過[Microsoft 非贏利計畫](https://nonprofit.microsoft.com/#/register)註冊以符合資格。   |
 
 ## <a name="check-your-reseller-qualifications"></a>檢查您的經銷商資格
 
@@ -60,6 +60,23 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 ## <a name="where-to-find-special-offers"></a>哪裡可以找到特別優惠
 
 一旦您與您的客戶符合特殊優惠計畫的資格，請依照步驟來[新增訂閱](create-a-new-subscription.md)。 在 **\[新訂閱]** 頁面的 **\[類別目錄\]** 區段中，選取特色產業以查看您可以銷售的特別優惠。
+
+## <a name="purchase-rules-for-special-segments"></a>特殊區段的購買規則
+
+只有當合作夥伴符合特定準則時，才能夠銷售特別優惠給客戶。 
+
+- 只有在客戶授權為教育機構時，才能購買教育優惠。 教育客戶只能接受教育和商業供應專案，而不是非收益或政府機關雲端（GCC）。
+- 合作夥伴只能購買 GCC 客戶的 GCC 訂閱。 一旦客戶擁有 GCC 訂用帳戶，合作夥伴就無法購買商業、教育或非盈利訂閱。 
+- 合作夥伴只能購買非盈利客戶的商業或非收益訂閱。 合作夥伴無法為非盈利客戶購買 GCC 或教育版訂閱。
+
+向客戶銷售特殊優惠的購買規則：
+
+|**客戶類型**   |**可以銷售**   |**無法銷售**   |
+|:----------------------------|:---------------------------------|:------------------------------------------|
+| 商業 |商業 | 非利潤、教育或政府社區雲端 |
+| 非收益 |商業、非利潤 | 教育或政府社區雲端 |
+| Education |商業、教育 | 非收益或政府機構雲端 |
+| 政府社區雲端 |政府社區雲端 | 非利潤、教育或商用 |
 
 ## <a name="next-steps"></a>後續步驟
 

@@ -1,7 +1,7 @@
 ---
-title: 透過 Microsoft 推薦拓展您的業務 | 合作夥伴中心
+title: 利用 Microsoft 的參考拓展您的業務
 ms.topic: article
-ms.date: 08/12/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何建立商務設定檔，透過合作夥伴中心的 [推薦] 功能來產生銷售潛在客戶，然後再回應這些參考。
@@ -9,12 +9,13 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 推薦, 商務設定檔, 尋找合作夥伴
 ms.localizationpriority: medium
-ms.openlocfilehash: 7e4865bd3de1151033aef5b50409261823c289a0
-ms.sourcegitcommit: 9a628b8fc73d4db995b7cb42faaf4d6c3b573e45
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/09/2019
-ms.locfileid: "74943251"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467438"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -22,7 +23,7 @@ ms.locfileid: "74943251"
 
 **適用於**
 
--  合作夥伴中心
+- 合作夥伴中心
 
 許多客戶正在尋找合格專家，以協助實作 Microsoft 技術與企業解決方案。 在 Microsoft 這裡，我們透過行銷活動和我們內部的 Microsoft 銷售專員，經常取得客戶的直接協助要求。 客戶也會使用[**尋找解決方案提供者**體驗](https://www.microsoft.com/solution-providers/search)來尋找可以協助他們符合企業需求的公司。 
 

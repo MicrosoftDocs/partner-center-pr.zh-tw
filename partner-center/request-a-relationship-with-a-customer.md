@@ -1,26 +1,26 @@
 ---
-title: 要求與客戶建立關係 | 合作夥伴中心
+title: 要求與客戶建立關係
 ms.topic: article
-ms.date: 01/28/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 要求關係是用於多重合作夥伴和多重通路案例。 如果客戶將您的委派管理員權限移除，而您必須還原那些權限以提供佈建或支援時，這也會很有用。
+description: 針對多夥伴、多通路案例，或如果您的委派系統管理員許可權需要還原，為客戶要求關聯性。
 ms.assetid: E3D979C1-2253-408B-82B1-4104C1341704
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 8fd3d9b2067c7e9253a4a0f32c3afcbc7d0eadd5
-ms.sourcegitcommit: 3849d49261f4f652bd7c0537ebe31558af427c5c
+ms.openlocfilehash: fe0d4053fba0c9c9a6ef0b593cc5906b57f2359f
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83362706"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467368"
 ---
-# <a name="connect-with-customers-in-partner-center"></a>在合作夥伴中心中與客戶保持聯繫
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何向合作夥伴中心的客戶要求轉銷商關係
 
 **適用於**
 
--  合作夥伴中心
+- 合作夥伴中心
 
 如果您想要代表自己管理客戶的服務或訂用帳戶，客戶必須授與您該服務或訂用帳戶的系統管理員許可權，並簽署 Microsoft 客戶合約。
 
@@ -38,11 +38,11 @@ ms.locfileid: "83362706"
 
 3. 在下一頁，複查草稿電子郵件訊息。 您可以在預設電子郵件應用程式中開啟草稿訊息，或是將訊息複製到您的剪貼簿，並將其貼到電子郵件。
 
-   您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。 當您完成這個步驟時，請選取 [完成]  。
+   您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。 當您完成這個步驟時，請選取 [完成]。
 
 4. 將電子郵件傳送給您的客戶。
 
-5. 客戶接受邀請之後，他們將會出現在您的 [客戶]  頁面，而且您將能從該處為客戶佈建及管理服務。
+5. 客戶接受邀請之後，他們將會出現在您的 [客戶] 頁面，而且您將能從該處為客戶佈建及管理服務。
 
    > [!NOTE]
    > 如果客戶尚未接受 Microsoft 客戶合約，則在接受您的邀請時，系統會提示他們執行此動作。 

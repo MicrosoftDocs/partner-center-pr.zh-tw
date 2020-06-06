@@ -1,28 +1,28 @@
 ---
-title: 報告合作夥伴中心的問題 | 合作夥伴中心
+title: 報告關於合作夥伴中心的問題
 ms.topic: article
-ms.date: 10/04/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 如何報告合作夥伴中心的問題並收集要提供給支援小組的診斷資訊。
 ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 1542813229c062e298e40a4874543774796ec2da
-ms.sourcegitcommit: 45e80e92292d6618b7e73f56d70c85382e7bcc06
+ms.custom: SEOMAY.20
+ms.openlocfilehash: c43c4b452c7df7f28869ead32e60c8e7f2fa512a
+ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "79023474"
+ms.lasthandoff: 06/06/2020
+ms.locfileid: "84467388"
 ---
-# <a name="report-problems-with-partner-center"></a>報告合作夥伴中心的問題
+# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何報告合作夥伴中心的問題，並提交任何記錄或診斷資訊
 
 **適用於**
 
-- 夥伴中心
+- 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
-
 
 如果您發現問題或需要合作夥伴中心的協助，請聯繫合作夥伴中心支援。
 
@@ -36,14 +36,14 @@ ms.locfileid: "79023474"
 
 4. 如果**建議的解決方案**能解決您的問題，您可以選取 **[返回儀表板**]。 如果您仍然需要協助，您可以繼續並**提供問題詳細資料**。
 
-5. 完成**問題詳細資料**，然後**提交**。 合作夥伴支援代表會與您一起追蹤。
+5. 完成**問題詳細資料**，然後**提交**。 合作夥伴支援代表會再與你連絡。
 
-**傳送診斷**
+**傳送診斷結果**
 
-如果您在 [合作夥伴中心] 頁面上發生錯誤，系統可能會提示您收集記錄資訊。 在頁面頂端的下拉式連結中選取 **\[Collect more information\]** (收集更多資訊)，開啟用戶端診斷工具。 這項工具會收集合作夥伴支援小組判斷錯誤發生原因時所需的資訊。 
+如果您在 [合作夥伴中心] 頁面上發生錯誤，系統可能會提示您收集記錄資訊。 從頁面頂端下拉的連結中，選取 [**收集更多資訊**]，以開啟用戶端診斷工具。 此工具會收集合作夥伴支援小組判斷錯誤成因所需的資訊。 
 
 >[!NOTE]
->在網址中包含 **/pcv/** 的合作夥伴頁面上，您可以手動開啟工具來收集這些資訊。
+>在 URL 中包含 **/pcv/** 的合作夥伴中心頁面上，您可以手動開啟工具來收集這項資訊。
 
 1. 移至發生問題的頁面。
 
@@ -54,7 +54,7 @@ ms.locfileid: "79023474"
 3. 請先檢查檔案中的資訊再傳送檔案，因為檔案可能內含您想要移除的個人識別資訊。 
 
     >[!NOTE]
-    >在某些瀏覽器中， **\[預覽\]** 頁面底部的 **\[頁面檢視\]** 區段可能會一片空白。 這是正常現象。
+    >在某些瀏覽器中，**\[預覽\]** 頁面底部的 **\[頁面檢視\]** 區段可能會一片空白。 這是正常現象。
 
 4. 按照畫面上的指示儲存檔案。
 

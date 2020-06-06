@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7efe2dbc0a616a4ccd46894faae56a81514d996
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795778"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453185"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>從合作夥伴成員中心將多家公司移至合作夥伴中心（PMC）
 
@@ -42,17 +42,17 @@ ms.locfileid: "83795778"
 
 4. 選取公司和地區並加以儲存。
 
-![現有帳戶](images/migration/accountwithus.png)
+:::image type="content" source="images/migration/accountwithus.png" alt-text="現有帳戶":::
 
 ## <a name="your-company-has-an-account-in-partner-center"></a>您的公司在合作夥伴中心有帳戶
 
 您會看到您的現有帳戶以及備註，告訴您您的公司詳細資料 (您目前用來登入的帳戶) 將彙總至此帳戶。
 
-![合作夥伴中心內的帳戶](images/migration/existingaccount2.png)
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="合作夥伴中心內的帳戶":::
 
 此畫面會顯示已在合作夥伴中心建立的現有帳戶詳細資料 (名稱和地址)，以及主要連絡人的詳細資料。
 
-選取 [繼續]  。
+選取 [繼續]。
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>帳戶彙總期間會發生什麼事
 
@@ -76,7 +76,7 @@ ms.locfileid: "83795778"
 
 詳細資料是以 PMC 中的資訊為基礎，並會進行驗證以確保公司合法。
 
-![複查詳細資料](images/migration/review.png)
+:::image type="content" source="images/migration/review.png" alt-text="查看詳細資料":::
 
 如果您要移動的帳戶與現有帳戶位於相同的國家或地區，則可以決定要使用該地址或新增另一個地址。 如果您決定使用不同的地址，則會驗證該地址。 如果您想要使用相同的地址，則會使用現有的地址和主要連絡人。
 
