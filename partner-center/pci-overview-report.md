@@ -11,78 +11,78 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43198aa65b127bb1e22146006f54d19588b58940
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 75693ce31c98e694c0dbed31fde6c6510a83ec17
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795705"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452945"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a><span data-ttu-id="db86d-104">概述合作夥伴中心深入解析中可用的儀表板報表</span><span class="sxs-lookup"><span data-stu-id="db86d-104">Overview dashboard reports available in Partner Center Insights</span></span>
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a><span data-ttu-id="19071-104">概述合作夥伴中心深入解析中可用的儀表板報表</span><span class="sxs-lookup"><span data-stu-id="19071-104">Overview dashboard reports available in Partner Center Insights</span></span>
  
-<span data-ttu-id="db86d-105">[合作夥伴中心總覽] 儀表板會提供關鍵效能指標的快照集，例如客戶、訂用帳戶、Azure 耗用量收益、授權等等。您可以在 [總覽] 報表中將下列圖表視覺化。</span><span class="sxs-lookup"><span data-stu-id="db86d-105">The Partner Center Overview dashboard provides a snapshot view of the Key Performance Indicators such as Customers, Subscriptions, Azure Consumption Revenue, Licenses etc. You can visualize the following charts in the Overview report.</span></span> 
+<span data-ttu-id="19071-105">[合作夥伴中心總覽] 儀表板會提供關鍵效能指標的快照集，例如客戶、訂用帳戶、Azure 耗用量收益、授權等等。您可以在 [總覽] 報表中將下列圖表視覺化。</span><span class="sxs-lookup"><span data-stu-id="19071-105">The Partner Center Overview dashboard provides a snapshot view of the Key Performance Indicators such as Customers, Subscriptions, Azure Consumption Revenue, Licenses etc. You can visualize the following charts in the Overview report.</span></span> 
 
-- <span data-ttu-id="db86d-106">摘要</span><span class="sxs-lookup"><span data-stu-id="db86d-106">Summary</span></span>  
-- <span data-ttu-id="db86d-107">您的客戶、訂用帳戶和授權的地理散佈</span><span class="sxs-lookup"><span data-stu-id="db86d-107">Geographical spread of your customers, subscriptions and licenses</span></span>  
-- <span data-ttu-id="db86d-108">客戶成長趨勢</span><span class="sxs-lookup"><span data-stu-id="db86d-108">Customers growth trend</span></span> 
-- <span data-ttu-id="db86d-109">訂閱成長趨勢</span><span class="sxs-lookup"><span data-stu-id="db86d-109">Subscriptions growth trend</span></span> 
-- <span data-ttu-id="db86d-110">Azure 已耗用的收益成長趨勢</span><span class="sxs-lookup"><span data-stu-id="db86d-110">Azure consumed revenue growth trend</span></span> 
-- <span data-ttu-id="db86d-111">授權成長趨勢</span><span class="sxs-lookup"><span data-stu-id="db86d-111">Licenses growth trend</span></span> 
+- <span data-ttu-id="19071-106">[摘要]</span><span class="sxs-lookup"><span data-stu-id="19071-106">Summary</span></span>  
+- <span data-ttu-id="19071-107">您的客戶、訂用帳戶和授權的地理散佈</span><span class="sxs-lookup"><span data-stu-id="19071-107">Geographical spread of your customers, subscriptions and licenses</span></span>  
+- <span data-ttu-id="19071-108">客戶成長趨勢</span><span class="sxs-lookup"><span data-stu-id="19071-108">Customers growth trend</span></span> 
+- <span data-ttu-id="19071-109">訂閱成長趨勢</span><span class="sxs-lookup"><span data-stu-id="19071-109">Subscriptions growth trend</span></span> 
+- <span data-ttu-id="19071-110">Azure 已耗用的收益成長趨勢</span><span class="sxs-lookup"><span data-stu-id="19071-110">Azure consumed revenue growth trend</span></span> 
+- <span data-ttu-id="19071-111">授權成長趨勢</span><span class="sxs-lookup"><span data-stu-id="19071-111">Licenses growth trend</span></span> 
 
-<span data-ttu-id="db86d-112">**摘要**</span><span class="sxs-lookup"><span data-stu-id="db86d-112">**Summary**</span></span>
+<span data-ttu-id="19071-112">**摘要**</span><span class="sxs-lookup"><span data-stu-id="19071-112">**Summary**</span></span>
 
-- <span data-ttu-id="db86d-113">客戶：所有客戶的目前計數（至少有一個使用中的訂用帳戶），您的公司會透過所有雲端產品的不同屬性類型來建立關聯。</span><span class="sxs-lookup"><span data-stu-id="db86d-113">Customers: Current count of all customers, with at least one active subscription, that your company is associated to through different attribution types across all cloud products.</span></span> 
-- <span data-ttu-id="db86d-114">所選日期範圍內的客戶成長百分比</span><span class="sxs-lookup"><span data-stu-id="db86d-114">Growth % of customers during the selected date range</span></span> 
+- <span data-ttu-id="19071-113">客戶：所有客戶的目前計數（至少有一個使用中的訂用帳戶），您的公司會透過所有雲端產品的不同屬性類型來建立關聯。</span><span class="sxs-lookup"><span data-stu-id="19071-113">Customers: Current count of all customers, with at least one active subscription, that your company is associated to through different attribution types across all cloud products.</span></span> 
+- <span data-ttu-id="19071-114">所選日期範圍內的客戶成長百分比</span><span class="sxs-lookup"><span data-stu-id="19071-114">Growth % of customers during the selected date range</span></span> 
 
-<span data-ttu-id="db86d-115">此微圖表會在選取的日期範圍內，顯示客戶計數的月數趨勢。</span><span class="sxs-lookup"><span data-stu-id="db86d-115">The Micro chart presents month over month trend of the customer count-  over the selected date range.</span></span> 
+<span data-ttu-id="19071-115">此微圖表會在選取的日期範圍內，顯示客戶計數的月數趨勢。</span><span class="sxs-lookup"><span data-stu-id="19071-115">The Micro chart presents month over month trend of the customer count-  over the selected date range.</span></span> 
 
  
-- <span data-ttu-id="db86d-116">Azure 已使用收益（ACR）：在選取的日期範圍內，您在選取的日期範圍成長或拒絕% 的屬性化 ACR US $ 中，對您的 Azure 已耗用收益（US $）的總計。</span><span class="sxs-lookup"><span data-stu-id="db86d-116">Azure Consumed Revenue (ACR): Total Azure Consumed Revenue (US$) attributed to you over the selected date range Growth or decline % of attributed ACR US$ during selected date range.</span></span>
+- <span data-ttu-id="19071-116">Azure 已使用收益（ACR）：在選取的日期範圍內，您在選取的日期範圍成長或拒絕% 的屬性化 ACR US $ 中，對您的 Azure 已耗用收益（US $）的總計。</span><span class="sxs-lookup"><span data-stu-id="19071-116">Azure Consumed Revenue (ACR): Total Azure Consumed Revenue (US$) attributed to you over the selected date range Growth or decline % of attributed ACR US$ during selected date range.</span></span>
 
-<span data-ttu-id="db86d-117">微圖表顯示您在選取的日期範圍內，為您提供之 ACR US $ 的每月趨勢： Azure 已使用的收入（ACR）資料可供已獲指派「執行報表檢視器」角色的使用者使用</span><span class="sxs-lookup"><span data-stu-id="db86d-117">Micro chart presents a monthly trend of ACR US$ attributed to you over the selected date range Note: Azure Consumed Revenue (ACR) data is available to users who have been assigned the Executive Report Viewer Role</span></span> 
+<span data-ttu-id="19071-117">微圖表顯示您在選取的日期範圍內，為您提供之 ACR US $ 的每月趨勢： Azure 已使用的收入（ACR）資料可供已獲指派「執行報表檢視器」角色的使用者使用</span><span class="sxs-lookup"><span data-stu-id="19071-117">Micro chart presents a monthly trend of ACR US$ attributed to you over the selected date range Note: Azure Consumed Revenue (ACR) data is available to users who have been assigned the Executive Report Viewer Role</span></span> 
  
-- <span data-ttu-id="db86d-118">訂用帳戶：您所銷售或管理的雲端產品訂用帳戶（使用中和非使用中）目前計數總計。</span><span class="sxs-lookup"><span data-stu-id="db86d-118">Subscriptions: Total current count of Cloud product subscriptions (active and inactive) sold or managed by you.</span></span>  
-<span data-ttu-id="db86d-119">在選取的日期範圍微圖表期間成長或拒絕% 的訂用帳戶，會在選取的日期範圍內，顯示總訂閱計數的月份趨勢。</span><span class="sxs-lookup"><span data-stu-id="db86d-119">Growth or decline % of subscriptions during selected date range Micro chart presents month over month trend of total subscription count over the selected date range.</span></span> 
+- <span data-ttu-id="19071-118">訂用帳戶：您所銷售或管理的雲端產品訂用帳戶（使用中和非使用中）目前計數總計。</span><span class="sxs-lookup"><span data-stu-id="19071-118">Subscriptions: Total current count of Cloud product subscriptions (active and inactive) sold or managed by you.</span></span>  
+<span data-ttu-id="19071-119">在選取的日期範圍微圖表期間成長或拒絕% 的訂用帳戶，會在選取的日期範圍內，顯示總訂閱計數的月份趨勢。</span><span class="sxs-lookup"><span data-stu-id="19071-119">Growth or decline % of subscriptions during selected date range Micro chart presents month over month trend of total subscription count over the selected date range.</span></span> 
  
-- <span data-ttu-id="db86d-120">作用中訂用帳戶：目前的雲端產品訂用帳戶計數，並根據產品遙測測量使用中的使用量。</span><span class="sxs-lookup"><span data-stu-id="db86d-120">Active subscriptions: Current count of Cloud product subscriptions with Active usage measured based on product telemetry.</span></span> <span data-ttu-id="db86d-121">這會排除 Azure 訂用帳戶的所有試用訂閱。</span><span class="sxs-lookup"><span data-stu-id="db86d-121">This excludes all trial subscriptions in the case of Azure subscriptions.</span></span>  
-<span data-ttu-id="db86d-122">在選取的日期範圍微圖表中，使用中訂用帳戶的成長% 會在選取的日期範圍內，顯示作用中訂用帳戶的每月趨勢</span><span class="sxs-lookup"><span data-stu-id="db86d-122">Growth % of Active subscriptions over the selected date range Micro chart presents month over month trend of active subscriptions over the selected date range</span></span> 
+- <span data-ttu-id="19071-120">作用中訂用帳戶：目前的雲端產品訂用帳戶計數，並根據產品遙測測量使用中的使用量。</span><span class="sxs-lookup"><span data-stu-id="19071-120">Active subscriptions: Current count of Cloud product subscriptions with Active usage measured based on product telemetry.</span></span> <span data-ttu-id="19071-121">這會排除 Azure 訂用帳戶的所有試用訂閱。</span><span class="sxs-lookup"><span data-stu-id="19071-121">This excludes all trial subscriptions in the case of Azure subscriptions.</span></span>  
+<span data-ttu-id="19071-122">在選取的日期範圍微圖表中，使用中訂用帳戶的成長% 會在選取的日期範圍內，顯示作用中訂用帳戶的每月趨勢</span><span class="sxs-lookup"><span data-stu-id="19071-122">Growth % of Active subscriptions over the selected date range Micro chart presents month over month trend of active subscriptions over the selected date range</span></span> 
  
-- <span data-ttu-id="db86d-123">已部署的授權：在選取的時段內，部署在客戶訂用帳戶中的所有雲端產品授權計數。</span><span class="sxs-lookup"><span data-stu-id="db86d-123">Licenses Deployed: Count of all Cloud product licenses deployed in your customer subscriptions over the selected time period.</span></span>  
-<span data-ttu-id="db86d-124">在選取的日期範圍微圖表中，這些授權的成長或拒絕% 會在選取的日期範圍內，顯示這些指派之授權計數的月數趨勢。</span><span class="sxs-lookup"><span data-stu-id="db86d-124">Growth or decline % of these licenses during the selected date range Micro chart presents month over month trend of these assigned licenses count over the selected date range.</span></span>
+- <span data-ttu-id="19071-123">已部署的授權：在選取的時段內，部署在客戶訂用帳戶中的所有雲端產品授權計數。</span><span class="sxs-lookup"><span data-stu-id="19071-123">Licenses Deployed: Count of all Cloud product licenses deployed in your customer subscriptions over the selected time period.</span></span>  
+<span data-ttu-id="19071-124">在選取的日期範圍微圖表中，這些授權的成長或拒絕% 會在選取的日期範圍內，顯示這些指派之授權計數的月數趨勢。</span><span class="sxs-lookup"><span data-stu-id="19071-124">Growth or decline % of these licenses during the selected date range Micro chart presents month over month trend of these assigned licenses count over the selected date range.</span></span>
 
-![摘要授權](images/pci/summary.png)
+:::image type="content" source="images/pci/summary.png" alt-text="摘要授權":::
 
-<span data-ttu-id="db86d-126">**您的客戶、訂用帳戶和授權的地理散佈**</span><span class="sxs-lookup"><span data-stu-id="db86d-126">**Geographical spread of your customers, subscriptions, and licenses**</span></span> 
+<span data-ttu-id="19071-126">**您的客戶、訂用帳戶和授權的地理散佈**</span><span class="sxs-lookup"><span data-stu-id="19071-126">**Geographical spread of your customers, subscriptions, and licenses**</span></span> 
 
-<span data-ttu-id="db86d-127">此觀點是依客戶國家/地區的總客戶、訂用帳戶和授權的地理分佈。</span><span class="sxs-lookup"><span data-stu-id="db86d-127">This view is a geographical distribution of total customers, subscriptions, and licenses by customer country.</span></span> <span data-ttu-id="db86d-128">按一下不同的索引標籤，以查看地圖上的每個深入解析。</span><span class="sxs-lookup"><span data-stu-id="db86d-128">Click on the different tabs to view each of these insights on the map.</span></span> <span data-ttu-id="db86d-129">您可以搜尋並選取方格中的國家/地區，以縮放至地圖中的位置。</span><span class="sxs-lookup"><span data-stu-id="db86d-129">You can search and select a country in the grid to zoom to the location in the map.</span></span> <span data-ttu-id="db86d-130">按下地圖上的 [首頁] 按鈕，還原為原始的視圖。</span><span class="sxs-lookup"><span data-stu-id="db86d-130">Revert to the original view by pressing the Home button on the map.</span></span> <span data-ttu-id="db86d-131">按一下每個索引標籤（例如 [客戶]、[訂用帳戶]），會顯示每個國家/地區的計量值，以及該國家/地區的總計百分比。</span><span class="sxs-lookup"><span data-stu-id="db86d-131">Clicking each tab (e.g. Customers, Subscriptions) shows the value of the metric for each country as well as the % of Total for the country.</span></span>  
+<span data-ttu-id="19071-127">此觀點是依客戶國家/地區的總客戶、訂用帳戶和授權的地理分佈。</span><span class="sxs-lookup"><span data-stu-id="19071-127">This view is a geographical distribution of total customers, subscriptions, and licenses by customer country.</span></span> <span data-ttu-id="19071-128">按一下不同的索引標籤，以查看地圖上的每個深入解析。</span><span class="sxs-lookup"><span data-stu-id="19071-128">Click on the different tabs to view each of these insights on the map.</span></span> <span data-ttu-id="19071-129">您可以搜尋並選取方格中的國家/地區，以縮放至地圖中的位置。</span><span class="sxs-lookup"><span data-stu-id="19071-129">You can search and select a country in the grid to zoom to the location in the map.</span></span> <span data-ttu-id="19071-130">按下地圖上的 [首頁] 按鈕，還原為原始的視圖。</span><span class="sxs-lookup"><span data-stu-id="19071-130">Revert to the original view by pressing the Home button on the map.</span></span> <span data-ttu-id="19071-131">按一下每個索引標籤（例如 [客戶]、[訂用帳戶]），會顯示每個國家/地區的計量值，以及該國家/地區的總計百分比。</span><span class="sxs-lookup"><span data-stu-id="19071-131">Clicking each tab (e.g. Customers, Subscriptions) shows the value of the metric for each country as well as the % of Total for the country.</span></span>  
 
-![地理摘要](images/pci/geosummary.png)
+:::image type="content" source="images/pci/geosummary.png" alt-text="地理摘要":::
 
-<span data-ttu-id="db86d-133">**客戶成長趨勢**</span><span class="sxs-lookup"><span data-stu-id="db86d-133">**Customers growth trend**</span></span>
+<span data-ttu-id="19071-133">**客戶成長趨勢**</span><span class="sxs-lookup"><span data-stu-id="19071-133">**Customers growth trend**</span></span>
 
-<span data-ttu-id="db86d-134">所選日期範圍內客戶總計數的每月趨勢。</span><span class="sxs-lookup"><span data-stu-id="db86d-134">Monthly trend of total customers counts for the selected date range.</span></span> <span data-ttu-id="db86d-135">X 軸代表所選日期範圍的月份，而 Y 軸代表該月份的客戶計數總計。</span><span class="sxs-lookup"><span data-stu-id="db86d-135">X-axis represents months of the selected date range and Y-axis represents total customer count for that month.</span></span> 
+<span data-ttu-id="19071-134">所選日期範圍內客戶總計數的每月趨勢。</span><span class="sxs-lookup"><span data-stu-id="19071-134">Monthly trend of total customers counts for the selected date range.</span></span> <span data-ttu-id="19071-135">X 軸代表所選日期範圍的月份，而 Y 軸代表該月份的客戶計數總計。</span><span class="sxs-lookup"><span data-stu-id="19071-135">X-axis represents months of the selected date range and Y-axis represents total customer count for that month.</span></span> 
 
-![客戶成長趨勢](images/pci/customergrowth.png)
+:::image type="content" source="images/pci/customergrowth.png" alt-text="客戶成長趨勢":::
 
-<span data-ttu-id="db86d-137">**訂閱成長趨勢**</span><span class="sxs-lookup"><span data-stu-id="db86d-137">**Subscriptions growth trend**</span></span>
+<span data-ttu-id="19071-137">**訂閱成長趨勢**</span><span class="sxs-lookup"><span data-stu-id="19071-137">**Subscriptions growth trend**</span></span>
 
-<span data-ttu-id="db86d-138">這表示所選日期範圍內客戶訂用帳戶計數的趨勢。</span><span class="sxs-lookup"><span data-stu-id="db86d-138">This indicates the trend of your customer subscriptions count for the selected date range.</span></span> <span data-ttu-id="db86d-139">X 軸代表所選日期範圍的月份，而 Y 軸代表產品已選取的訂閱計數。</span><span class="sxs-lookup"><span data-stu-id="db86d-139">X-axis represents months of the selected date range and Y-axis represents subscriptions count of the product have selected.</span></span> <span data-ttu-id="db86d-140">在圖表上方滾動滑動軸，將圖表縮放至特定時間週期。</span><span class="sxs-lookup"><span data-stu-id="db86d-140">Scroll through the slider on top of the chart to zoom the chart to specific time period.</span></span> 
+<span data-ttu-id="19071-138">這表示所選日期範圍內客戶訂用帳戶計數的趨勢。</span><span class="sxs-lookup"><span data-stu-id="19071-138">This indicates the trend of your customer subscriptions count for the selected date range.</span></span> <span data-ttu-id="19071-139">X 軸代表所選日期範圍的月份，而 Y 軸代表產品已選取的訂閱計數。</span><span class="sxs-lookup"><span data-stu-id="19071-139">X-axis represents months of the selected date range and Y-axis represents subscriptions count of the product have selected.</span></span> <span data-ttu-id="19071-140">在圖表上方滾動滑動軸，將圖表縮放至特定時間週期。</span><span class="sxs-lookup"><span data-stu-id="19071-140">Scroll through the slider on top of the chart to zoom the chart to specific time period.</span></span> 
 
-![訂閱成長趨勢](images/pci/subscriptiongrowth.png)
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="訂閱成長趨勢":::
 
-<span data-ttu-id="db86d-142">**Azure 已耗用的收益成長趨勢**</span><span class="sxs-lookup"><span data-stu-id="db86d-142">**Azure Consumed Revenue growth trend**</span></span>
+<span data-ttu-id="19071-142">**Azure 已耗用的收益成長趨勢**</span><span class="sxs-lookup"><span data-stu-id="19071-142">**Azure Consumed Revenue growth trend**</span></span>
 
-<span data-ttu-id="db86d-143">Azure 的每月趨勢在選取的日期範圍內，為您所使用的收入 US $ 屬性化。</span><span class="sxs-lookup"><span data-stu-id="db86d-143">Monthly trend of Azure consumed revenue US$ attributed to you over the selected date range.</span></span> <span data-ttu-id="db86d-144">X 軸代表所選日期範圍的月份，而 Y 軸代表您在該月內對您進行的 Azure 已使用收入總計美元。</span><span class="sxs-lookup"><span data-stu-id="db86d-144">X-axis represents months of the selected date range and Y-axis represents total Azure consumed revenue US$ attributed to you during the month.</span></span>   
-<span data-ttu-id="db86d-145">**注意**：只有獲指派「執行報表檢視器」角色的使用者，才看得到 Azure 已使用的收益（ACR）。</span><span class="sxs-lookup"><span data-stu-id="db86d-145">**Note**: Azure Consumed Revenue (ACR) will only be visible to users who have been assigned the Executive Report Viewer Role.</span></span> 
+<span data-ttu-id="19071-143">Azure 的每月趨勢在選取的日期範圍內，為您所使用的收入 US $ 屬性化。</span><span class="sxs-lookup"><span data-stu-id="19071-143">Monthly trend of Azure consumed revenue US$ attributed to you over the selected date range.</span></span> <span data-ttu-id="19071-144">X 軸代表所選日期範圍的月份，而 Y 軸代表您在該月內對您進行的 Azure 已使用收入總計美元。</span><span class="sxs-lookup"><span data-stu-id="19071-144">X-axis represents months of the selected date range and Y-axis represents total Azure consumed revenue US$ attributed to you during the month.</span></span>   
+<span data-ttu-id="19071-145">**注意**：只有獲指派「執行報表檢視器」角色的使用者，才看得到 Azure 已使用的收益（ACR）。</span><span class="sxs-lookup"><span data-stu-id="19071-145">**Note**: Azure Consumed Revenue (ACR) will only be visible to users who have been assigned the Executive Report Viewer Role.</span></span> 
 
-![Azure 耗用量](images/pci/azureconsumed.png)
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure 耗用量":::
 
-<span data-ttu-id="db86d-147">**授權成長趨勢**</span><span class="sxs-lookup"><span data-stu-id="db86d-147">**Licenses growth trend**</span></span>
+<span data-ttu-id="19071-147">**授權成長趨勢**</span><span class="sxs-lookup"><span data-stu-id="19071-147">**Licenses growth trend**</span></span>
  
-<span data-ttu-id="db86d-148">在選取的日期範圍內，由所有客戶指派的授權趨勢。</span><span class="sxs-lookup"><span data-stu-id="db86d-148">Trend of licenses assigned by all customers during the selected date range.</span></span> <span data-ttu-id="db86d-149">X 軸代表所選日期範圍的月份，而 Y 軸代表您所選取產品的授權計數。</span><span class="sxs-lookup"><span data-stu-id="db86d-149">X-axis represents months of the selected date range and Y-axis represents licenses count of the product you have selected.</span></span> <span data-ttu-id="db86d-150">在圖表上方滾動滑動軸，將圖表縮放至特定時間週期。</span><span class="sxs-lookup"><span data-stu-id="db86d-150">Scroll through the slider on top of the chart to zoom the chart to specific time period.</span></span>  
+<span data-ttu-id="19071-148">在選取的日期範圍內，由所有客戶指派的授權趨勢。</span><span class="sxs-lookup"><span data-stu-id="19071-148">Trend of licenses assigned by all customers during the selected date range.</span></span> <span data-ttu-id="19071-149">X 軸代表所選日期範圍的月份，而 Y 軸代表您所選取產品的授權計數。</span><span class="sxs-lookup"><span data-stu-id="19071-149">X-axis represents months of the selected date range and Y-axis represents licenses count of the product you have selected.</span></span> <span data-ttu-id="19071-150">在圖表上方滾動滑動軸，將圖表縮放至特定時間週期。</span><span class="sxs-lookup"><span data-stu-id="19071-150">Scroll through the slider on top of the chart to zoom the chart to specific time period.</span></span>  
 
-![授權](images/pci/licensesgrowth.png)
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="授權":::
 
-## <a name="next-steps"></a><span data-ttu-id="db86d-152">後續步驟</span><span class="sxs-lookup"><span data-stu-id="db86d-152">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="19071-152">後續步驟</span><span class="sxs-lookup"><span data-stu-id="19071-152">Next steps</span></span>
 
-- <span data-ttu-id="db86d-153">如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。</span><span class="sxs-lookup"><span data-stu-id="db86d-153">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
+- <span data-ttu-id="19071-153">如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。</span><span class="sxs-lookup"><span data-stu-id="19071-153">For more reports, see [Partner Center Insights](partner-center-insights.md).</span></span>
