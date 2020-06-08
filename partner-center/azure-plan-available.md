@@ -9,12 +9,12 @@ ms.author: labrenne
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9241d5083ae2ad35c97efe47dfe764d0b9d5a216
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: dad65d2237a4446bd6a555a600193e7885bc6f5e
+ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795018"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84458334"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure 雲端解決方案提供者 (CSP) 計畫中可用的 Azure 服務
 
@@ -32,7 +32,7 @@ ms.locfileid: "83795018"
 本文列出 Azure 雲端解決方案提供者 (CSP) 計畫中可用和不可用的 Azure 服務。 文中也會討論國家/地區雲端 [Microsoft Azure Germany](https://azure.microsoft.com/overview/clouds/germany/) 和 [Microsoft Azure Government](https://azure.microsoft.com/overview/clouds/government/) 中的服務可用性。
 
 >[!Note]
->[Azure 中國]( https://www.azure.cn/)無法從 Azure CSP 計畫中取得。
+> [Azure 中國](https://www.azure.cn/)無法從 Azure CSP 計畫中取得。
 
 ## <a name="global-cloud"></a>全球雲端
 
