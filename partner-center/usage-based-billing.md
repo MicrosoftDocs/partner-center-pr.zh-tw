@@ -1,20 +1,21 @@
 ---
-title: 以使用量為基礎的計費 |合作夥伴中心
+title: 用量型帳單
 ms.topic: article
-ms.date: 11/21/2019
-Description: 在合作夥伴中心以使用量為基礎的計費資訊，其中會以每月使用量費率計費。
+ms.date: 06/05/2020
+Description: 在合作夥伴中心深入瞭解以使用量為基礎的計費，其中會以每月使用量費率向您收費。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 計費，使用量為基礎，使用量
 ms.localizationpriority: medium
-ms.openlocfilehash: d7828dc09037dd5fdd33f0650e324aef8ec294d9
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 4e3b7c3d9e31203ff56c191957b60772e04feec9
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797666"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603867"
 ---
-# <a name="usage-based-billing"></a>用量型帳單
+# <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>瞭解每月隨用隨付的服務使用量計費
 
 - 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
@@ -27,7 +28,7 @@ ms.locfileid: "82797666"
 
 僅限**每月計費**適用于以使用量為基礎的產品。 如需每月帳單的詳細資訊，請參閱[每月和年度計費差異](billing-annual-monthly.md)。
 
-以使用量為基礎的訂用帳戶會在**訂閱週年日**以期末的每月計費。 例如，如果訂閱週年日是15日，則會向您收取1月15日至1月15日服務期間的費用。 您會在2月15日到2月14日的服務期間，再次向您收費。 
+以使用量為基礎的訂用帳戶會在**訂閱週年日**以期末的每月計費。 例如，如果訂閱週年日是15日，則會向您收取12月15日至1月14日服務期間的費用。 您會在2月15日至2月14日的服務期間，再次向您收費。
 
 ## <a name="usage-charges"></a>使用費用
 

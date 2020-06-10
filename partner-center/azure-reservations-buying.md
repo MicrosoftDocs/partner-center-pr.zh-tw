@@ -1,7 +1,7 @@
 ---
 title: 為客戶購買 Microsoft Azure 保留
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何在合作夥伴中心代表您的客戶購買或購買 Azure 保留。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 保留區, 管理, 計費, 購買
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5664770e1e0f87f2a1a86fd1127bbb54a8a253fb
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908306"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603717"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表您的客戶在合作夥伴中心購買 Microsoft Azure 保留
 
@@ -35,7 +35,7 @@ ms.locfileid: "82908306"
 
 ## <a name="before-you-begin"></a>開始之前
 
-請先參閱下面的重要資訊，然後再代表您的客戶購買 Azure 保留。 （您想要讓客戶能夠向您購買的先前 Azure 訂用帳戶購買自己的 Azure 保留嗎？ 請參閱 [授與客戶購買自己的 Azure 保留的許可權] [提供客戶-許可權]。 md # 提供客戶-Azure 保留的許可權。）
+請先參閱下面的重要資訊，然後再代表您的客戶購買 Azure 保留。 （您想要讓客戶能夠向您購買的先前 Azure 訂用帳戶購買自己的 Azure 保留嗎？ 請參閱[授與客戶購買自己的 Azure 保留的許可權](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)）。
 
 - 如果您的客戶簽署新的 Microsoft 客戶合約（請參閱[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)），您必須在 azure 方案下購買 azure 保留。 如需詳細資訊，請參閱[購買 Azure 方案](purchase-azure-plan.md)。
 

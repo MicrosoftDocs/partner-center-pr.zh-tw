@@ -1,25 +1,27 @@
 ---
-title: 美國政府適用的 Microsoft Cloud 合作夥伴中心內的使用者及授權管理 | 美國政府適用的 Microsoft Cloud 合作夥伴中心
+title: 使用者和授權管理
+titleSuffix: Microsoft Cloud for US Government - Partner Center
+description: 瞭解如何以及在何處管理合作夥伴中心，以取得美國政府合作夥伴、客戶和授權的 Microsoft Cloud，以及密碼重設。
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何以及在何處管理合作夥伴中心，以取得美國政府合作夥伴、客戶和授權的 Microsoft Cloud，以及密碼重設。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 93b8525861069607ca66770b371cd3f9a3e109e7
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: fa8340c2d8a110769b7918e4e3703d131fad8a60
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797586"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603578"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美國政府適用的 Microsoft Cloud 合作夥伴中心內的使用者及授權管理
 
 **適用於**
 
--  Microsoft Cloud for US Government 適用的合作夥伴中心
+- Microsoft Cloud for US Government 適用的合作夥伴中心
 
 下列工作是在適用于美國政府 Microsoft Cloud 的 Microsoft Azure 系統管理員入口網站中進行管理：
 

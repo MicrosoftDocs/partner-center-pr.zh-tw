@@ -1,19 +1,21 @@
 ---
-title: Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理 | Microsoft Cloud 德國合作夥伴中心
+title: 使用者和授權管理
+titleSuffix: Microsoft Cloud Germany - Partner Center
+description: 瞭解如何以及在何處管理合作夥伴中心，以 Microsoft Cloud 德國合作夥伴、客戶和授權，以及密碼重設。
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何以及在何處管理合作夥伴中心，以 Microsoft Cloud 德國合作夥伴、客戶和授權，以及密碼重設。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 923d7a389e3eb81d2bb20422182f53c14af72746
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOMAY.20
+ms.openlocfilehash: ed349d0e9bfbc6768defcf781e612ee38e6f764f
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82797676"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603617"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理
 
@@ -37,7 +39,7 @@ ms.locfileid: "82797676"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>如何在 Microsoft Cloud 德國 Azure 入口網站管理使用者 
 
-如果您已登入 Microsoft Cloud 德國合作夥伴中心，便可直接開啟 Microsoft Cloud 德國 Azure 入口網站，而不需再次登入。 不過，如果您需要直接登入 Microsoft Cloud 德國的 Azure 入口網站，請移至[https://portal.microsoftazure.de](https://portal.microsoftazure.de)。 
+如果您已登入 Microsoft Cloud 德國合作夥伴中心，便可直接開啟 Microsoft Cloud 德國 Azure 入口網站，而不需再次登入。 不過，如果您需要直接登入 Microsoft Cloud 德國的 Azure 入口網站，請移至 [https://portal.microsoftazure.de](https://portal.microsoftazure.de) 。 
 
 成功登入 Microsoft Cloud 德國 Azure 入口網站後，請開啟 Azure Active Directory (Azure AD) 概觀頁面，然後按照下列主題中的指示進行：
 

@@ -1,23 +1,24 @@
 ---
-title: 請確定您已支付預繳稅金 |合作夥伴中心
+title: 取得預繳稅金
 ms.topic: article
-ms.date: 2/16/2020
+ms.date: 06/05/2020
 description: 在合作夥伴中心建立稅額預繳要求，以確保您的合作夥伴中心帳戶會針對預繳稅金而貸。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: E1BA3415-732F-4385-8996-5E79E200F7F7
-author: brentserbus
-ms.author: brserbus
+author: LauraBrenner
+ms.author: labrenne
 keywords: 預繳稅金、稅務點數、德文稅點數表、稅務憑證
 ms.localizationpriority: medium
-ms.openlocfilehash: 2d9fbea52fa08117ec712284ecd6436f576a2a06
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e4cb4b1dde35caca153e37de5a07f947f6da158e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453309"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603847"
 ---
-# <a name="make-sure-you-are-credited-for-withholding-tax"></a>確定您的扣繳稅額已減免
+# <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>如果您支付當地稅務機關（而非 Microsoft），請確定您已為預繳稅金貸記
 
 適用於：
 

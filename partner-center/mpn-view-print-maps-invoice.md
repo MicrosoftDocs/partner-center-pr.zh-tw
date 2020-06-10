@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN，發票，地圖，免稅，加值稅，加值稅 ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6be8b6d5d69ddaa6b5f3d14725691a67d168a80d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795947"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633808"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作夥伴網路中的發票和稅金
 
@@ -62,3 +62,8 @@ ms.locfileid: "83795947"
 
 3.  輸入您公司的 [加值稅 ID]，選取 [**新增**]，然後選取 **[下一步]**。 
 
+## <a name="next-steps"></a>後續步驟
+
+- [合作夥伴中心計費概觀](billing-basics.md)
+
+- [取得預繳稅金](withholding-tax-credit-form.md)

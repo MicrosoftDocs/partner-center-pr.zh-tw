@@ -1,5 +1,5 @@
 ---
-title: 升級您的 Microsoft 合作夥伴網路會員資格
+title: 升級 Microsoft 合作夥伴網路成員資格
 description: 將您的 MPN 成員資格升級為 Microsoft 行動套件訂用帳戶成員資格或 Microsoft 專長認證，以符合專屬權益。
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,14 +9,15 @@ ms.author: labrenne
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
-ms.openlocfilehash: f39e92c64841bc541f6f72256aece4f0a1da3e1d
-ms.sourcegitcommit: af3ecd7f35e5bb3b87f5f683335c76e287f2a9b8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "83369255"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603877"
 ---
-# <a name="upgrade-your-microsoft-partner-network-membership"></a>升級您的 Microsoft 合作夥伴網路會員資格
+# <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>升級您的 Microsoft 合作夥伴網路成員資格，以及探索新的供應專案、方案和資源
 
 **適用於**
 
@@ -67,9 +68,9 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，其中包�
 
 6. 請檢查訂單詳細資料，然後在準備好購買行動套件時選取 [**購買**]。 我們會立即向您的信用卡收費。
 
-7. 您的訂單已確認。 選取 [關閉]  。
+7. 您的訂單已確認。 選取 [關閉]。
 
-您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從已購買的優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。
+   您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從已購買的優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。
 
 ### <a name="turn-off-automatic-action-pack-subscription-renewal"></a>關閉自動行動套件訂閱續約
 
@@ -77,7 +78,7 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，其中包�
 
 2. 選取 **\[Microsoft 行動套件訂閱\]** 檢視訂閱詳細資料。
 
-3. 選取 [關閉自動續約]  (如果您不想要您的行動套件訂閱每年自動續約)。
+3. 選取 [關閉自動續約] (如果您不想要您的行動套件訂閱每年自動續約)。
 
 > [!NOTE]  
 > 如果您關閉自動訂閱續約，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 我們將會在您的訂閱到期之前提醒您續約。
@@ -100,7 +101,7 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，其中包�
 
 8. 請檢查訂單詳細資料，然後在準備好購買行動套件時選取 [**購買**]。 我們會立即向您的信用卡收費。
 
-9. 您的訂單已確認。 選取 [關閉]  。
+9. 您的訂單已確認。 選取 [關閉]。
 
    您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從已購買的優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。
 
@@ -110,11 +111,11 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，其中包�
 
 1. 移至 [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)。
 
-2. 選取 [回報合作夥伴中心的問題]  ，然後在下一頁選取 [新增要求]  。
+2. 選取 [回報合作夥伴中心的問題]，然後在下一頁選取 [新增要求]。
 
-3. 展開 [問題類型]  清單，然後選取 [合作夥伴發票、付款或對帳檔案的說明]  。
+3. 展開 [問題類型] 清單，然後選取 [合作夥伴發票、付款或對帳檔案的說明]。
 
-4. 完成填寫所需的資訊，然後選取 [提交]  。 合作夥伴中心支援團隊會與您連絡，以協助您取消訂閱。
+4. 完成填寫所需的資訊，然後選取 [提交]。 合作夥伴中心支援團隊會與您連絡，以協助您取消訂閱。
 
    若要檢查您的服務要求狀態，請選取 **\[支援要求\] > \[合作夥伴中心要求\]**，然後選取 **\[開啟\]**。 從清單選擇適當的服務。  
 

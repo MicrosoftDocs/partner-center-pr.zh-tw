@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a4a664c957d7a6d6d1621b64ba18f3545ef72bb
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453185"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603777"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>從合作夥伴成員中心將多家公司移至合作夥伴中心（PMC）
 
@@ -76,6 +76,7 @@ ms.locfileid: "84453185"
 
 詳細資料是以 PMC 中的資訊為基礎，並會進行驗證以確保公司合法。
 
+
 :::image type="content" source="images/migration/review.png" alt-text="查看詳細資料":::
 
 如果您要移動的帳戶與現有帳戶位於相同的國家或地區，則可以決定要使用該地址或新增另一個地址。 如果您決定使用不同的地址，則會驗證該地址。 如果您想要使用相同的地址，則會使用現有的地址和主要連絡人。
@@ -88,7 +89,7 @@ ms.locfileid: "84453185"
 
 ## <a name="next-steps"></a>後續步驟
 
-- [從 PMC 移到合作夥伴中心](move-pmc-pc-map.md)
+- [從 PMC 移至合作夥伴中心](move-pmc-pc-map.md)
 - [建立使用者帳戶](create-user-accounts-and-set-permissions.md)
 - [指派使用者角色和權限](permissions-overview.md)
 - [管理您的成員資格計畫](renew-mpn-offers.md)

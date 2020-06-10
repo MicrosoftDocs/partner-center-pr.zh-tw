@@ -1,25 +1,26 @@
 ---
-title: 與其他合作夥伴合作 | 合作夥伴中心
+title: 與其他合作夥伴合作
 ms.topic: article
-ms.date: 03/15/2019
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解間接提供者如何與雲端解決方案提供者（CSP）計畫中的間接轉銷商協力合作，並判斷哪一個角色適合您。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ec371ca444ed951ac3d3272a85c088f91d1db97
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.custom: SEOMAY.20
+ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253935"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603837"
 ---
-# <a name="work-with-other-partners"></a>與其他合作夥伴合作
+# <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>您可以在合作夥伴中心與其他合作夥伴合作的不同方式
 
 **適用於**
 
--  合作夥伴中心
+- 合作夥伴中心
 
 Microsoft 的雲端解決方案提供者（CSP）方案提供了機會，讓合作夥伴以這些方式共同合作。
 
@@ -33,7 +34,7 @@ Microsoft 的雲端解決方案提供者（CSP）方案提供了機會，讓合�
 
 如果您是在 CSP 核准的間接提供者，請參閱[在 CSP 中與間接經銷商建立合夥關係](indirect-provider-tasks-in-partner-center.md)，以深入了解如何與間接經銷商和客戶保持聯繫。 
 
-### <a name="indirect-resellers"></a>間接轉銷商 
+### <a name="indirect-resellers"></a>間接轉銷商
 
 間接經銷商與間接提供者合作，而後者與 Microsoft 有直接關係，而且有基礎架構可以提供客戶支援與帳單服務。 與間接提供者建立合夥關係，可讓間接經銷商與有經驗的技術提供者合作，不需要大筆資本投資即可進入市集，並提供更廣大的 Microsoft 解決方案組合。 
 

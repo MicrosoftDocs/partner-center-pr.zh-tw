@@ -1,26 +1,27 @@
 ---
-title: 使用您的對帳檔案 |合作夥伴中心
+title: 使用您的對帳檔案
 ms.topic: article
-ms.date: 11/21/2019
-description: 使用您的對帳檔案，以瞭解合作夥伴中心費用的明細專案詳細觀點。
+ms.date: 06/08/2020
+description: 瞭解合作夥伴中心的對帳檔案，以及如何解讀特定計費週期的詳細、明細專案的費用觀點。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.assetid: FA6A6FCB-2597-44E7-93F8-8D1DD35D52EA
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bb65718159019c9ae47aa384524d9d52043d39b
-ms.sourcegitcommit: 36b8242cc8c47ed36d16f86338a075080c2441e1
+ms.custom: SEOMAY.20
+ms.openlocfilehash: a53a0f3d37183c67d5d1d44472192ed15f6ed62e
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/21/2020
-ms.locfileid: "80114960"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603797"
 ---
-# <a name="use-your-reconciliation-files"></a>使用您的對帳檔案
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>瞭解如何讀取合作夥伴中心對帳檔案中的明細專案
 
 適用於：
 
-- 夥伴中心
+- 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
 您可以從合作夥伴中心下載您的對帳檔案，以取得計費週期中每個費用的詳細明細專案。 明細專案詳細資料包括每個客戶的訂用帳戶的費用，以及詳細的事件（例如，將基座加入訂用帳戶中）。
@@ -52,10 +53,10 @@ ms.locfileid: "80114960"
 1. 在 Microsoft Excel 中開啟對帳檔案（格式為 .csv）。
 2. 選取檔案中的第一個資料行。
 3. 開啟 [**將文字轉換成資料行] Wizard**。 在功能區上，選取 [**資料**]，然後選取 [**文字到資料行**]。
-4. 在嚮導中，選取 [**分隔檔案類型**]。 然後選取 **[下一步]** 。
-5. 在 [**分隔符號**] 欄位中，選取 [**逗號**]。 （如果已選取索引標籤，您可以將此選項保留為 [已選取 **]** ）。然後選取 **[下一步]** 。
-6. 在 [**資料行資料格式**] 欄位中，選取 [**日期： MDY**]。 然後選取 **[下一步]** 。
-7. 在 [**資料行資料格式**] 欄位中，針對 [所有數量] 資料行選取 [**文字**]。 然後選取 **[完成]** 。
+4. 在嚮導中，選取 [**分隔檔案類型**]。 然後，選取 [下一步]。
+5. 在 [**分隔符號**] 欄位中，選取 [**逗號**]。 （如果已選取索引標籤，您可以將此選項保留為 [已選取 **]** ）。然後選取 **[下一步]**。
+6. 在 [**資料行資料格式**] 欄位中，選取 [**日期： MDY**]。 然後，選取 [下一步]。
+7. 在 [**資料行資料格式**] 欄位中，針對 [所有數量] 資料行選取 [**文字**]。 然後，選取 [完成]。
 
 ## <a name="download-reconciliation-files-programmatically"></a>以程式設計方式下載對帳檔案
 
@@ -75,7 +76,7 @@ ms.locfileid: "80114960"
 | MPN 識別碼 | 描述 |
 | ------ | ----------- |
 | MPN 識別碼 | 雲端解決方案提供者（CSP）合作夥伴（直接或間接）的 Microsoft 合作夥伴網路（MPN）識別碼。 |
-| [轉售商 MPN 識別碼](#reseller-mpn-id) | 訂用帳戶[之記錄轉銷商的 MPN 識別碼](#reseller-mpn-id)。 此欄位對應至合作夥伴中心內的特定訂用帳戶所列的轉售商識別碼。 只會出現在間接模型合作夥伴的對帳檔案上。 |
+| [經銷商 MPN 識別碼](#reseller-mpn-id) | 訂用帳戶[之記錄轉銷商的 MPN 識別碼](#reseller-mpn-id)。 此欄位對應至合作夥伴中心內的特定訂用帳戶所列的轉售商識別碼。 只會出現在間接模型合作夥伴的對帳檔案上。 |
 
 ### <a name="reseller-mpn-id"></a>經銷商 MPN 識別碼
 
@@ -88,8 +89,8 @@ ms.locfileid: "80114960"
 若要查看或更新**轉售商 MPN 識別碼**：
 
 1. 登入合作夥伴中心。
-2. 在 \[合作夥伴中心\] 功能表中，選取 **\[客戶\]** 。
+2. 在 [合作夥伴中心] 功能表中，選取 [**客戶**]。
 3. 從清單中選擇客戶。
 4. 在 [客戶] 功能表中，選取 [**訂閱**]。
 5. 從清單中選擇訂用帳戶。
-6. 選取 \[更新\] 以變更 \[經銷商 (MPN 識別碼)\]。
+6. 選取 \[更新\]**** 以變更 \[經銷商 (MPN 識別碼)\]****。

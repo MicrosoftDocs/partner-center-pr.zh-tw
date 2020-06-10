@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abb04f21a50cbbef83418a8e2fec480a0020c443
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
+ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467538"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84633818"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、企業行動套件、Azure 等等的定價和優惠
 
@@ -31,11 +31,18 @@ ms.locfileid: "84467538"
 - 銷售代理人
 - 帳單系統管理員
 
-若要查看最新的雲端解決方案提供者方案和供應專案，請在合作夥伴入口網站中，前往**銷售 > 定價和優惠**。 您會發現授權型服務的個別價目表，包括 Office 365、Microsoft Dynamics CRM 和企業行動套件，以及包含 Azure 的以使用方式為基礎的服務。
+若要查看最新的雲端解決方案提供者方案和供應專案，請在合作夥伴入口網站中，前往**銷售 > 定價和優惠**。 您會在不同類型的可用產品上找到個別的價格清單。 [**定價和**供應專案] 頁面提供下列價格清單：
 
-供應專案清單包含可透過合作夥伴中心購買的不同產品系列。 這些目前包括 Office 365、企業行動化套件、Microsoft Dynamics CRM 和 Microsoft Azure。 當有新的產品可供使用時，這份清單會繼續擴充。
+- 以**授權為基礎的服務**包含 Office 365、企業行動力和安全性 E3 以及 Dynamics 365 的定價資訊。 以授權為基礎的定價區段包括目前和預覽價格，以及供應專案清單矩陣。 價目表包含所有支援貨幣的供應專案定價和預估零售價格（ERP）。 供應專案清單矩陣包含市場可用性及其他關於優惠的重要資訊。 這些檔案會在每個月的第一天更新。
+- 以**使用方式為基礎的服務**包含 Microsoft Azure 和 Visual Studio 的定價資訊。 您也可以使用[CSP 定價計算機中的 Azure 服務](https://azure.microsoft.com/pricing/calculator/)。 基於使用方式的下載包含所有支援貨幣的 CSP 價格清單，以及 ERP 中的共用服務定價檔案。 這些檔案會在每個月的第一天更新。
+- **Microsoft Azure 保留實例**包含 Azure 保留實例所有支援貨幣的定價資訊。 定價下載也包含 ERP 中的共用服務定價。 這些檔案會在每個月的第一天更新。
+- **軟體訂閱**包括以詞彙為基礎的軟體訂用帳戶的定價，適用于所有支援的貨幣。 價格檔案包含具有標價和 MSRP 的所有支援貨幣。 這些檔案會在每個月的第一天更新。
+- **Azure 方案定價**包含 azure 方案耗用量服務的定價資訊，以及 azure 方案保留定價。 價格是直接價格或 ERP，而且可以針對任何指定的支援市場加以取出。 這些檔案中的資料會每天重新整理。
+- **外部匯率**用來計算美元和合作夥伴當地貨幣之間的帳單費用。 費率會在每個月的第一天更新，並在指定的月份中保持為 true，以提供費率。 這些檔案會在每個月的第一天更新。
+- **Marketplace**包含來自 Microsoft 商業 MARKETPLACE 的 ISV 解決方案定價。 每個市場都會取得價格。 這些檔案中的資料會每天重新整理。
 
-在上述每個產品系列中，有不同的 Sku 和產品群組可供您銷售，視您的業務而定。 您一律可以使用雲端轉銷商供應專案矩陣（可在定價和優惠頁面上取得），來存取這些產品的最新詳細資料。
+> [!Note] 
+> 只有具備交易功能的 CSP 合作夥伴可以查看和下載價格清單。 間接轉銷商應[洽詢其 CSP 提供者]( https://partner.microsoft.com/en-us/cloud-solution-provider/find-a-provider)，以要求定價的詳細資料
 
 ## <a name="price-list-preview-and-change-frequency"></a>價格清單預覽和變更頻率 
 
@@ -82,7 +89,7 @@ CSP 針對特殊市場部門提供一些服務，例如教育、非收益和政�
 
 |**片斷**   |**誰必須符合資格**   |**合作夥伴合格客戶**|**啟用的產品類型**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Education|客戶|否，Microsoft 將會執行客戶資格 |僅以授權為基礎|
+|教育訓練|客戶|否，Microsoft 將會執行客戶資格 |僅以授權為基礎|
 |非收益|客戶|否，客戶在合作夥伴中心外符合資格|僅以授權為基礎|
 |政府社群雲端 (GCC)|合作夥伴和客戶|啟用 GCC 後，合作夥伴可以建立 GCC 客戶| 僅以授權為基礎|
 |Azure Government|合作夥伴|合格後，合作夥伴會在特定的 CSP 租使用者中操作 Azure Government|Azure 資源|
@@ -151,3 +158,24 @@ Microsoft 365 A1 基底供應專案有六年期。  購買此基礎供應專案�
 - 供應專案的計費頻率會顯示為年度，但合作夥伴會在取得訂用帳戶之後，于其第一張發票前計費
 - A1 72 個月供應專案的訂用帳戶已在購買後鎖定，無法取消，且在初始購買後無法將授權計數新增至訂用帳戶
 - 需要取消的合作夥伴必須建立支援票證，其中包含取消的原因，以及他們需要協助的訂用帳戶識別碼。
+
+## <a name="estimated-retail-price-erp"></a>預估的零售價格（ERP）
+
+大部分的價目表包括定價、合作夥伴計費的價格，以及預估的零售價格。 預估的零售價格（ERP）也稱為 Microsoft 建議的零售價格或 MSRP。 如果客戶是直接向 Microsoft 購買產品，則這兩個值（ERP 和 MSRP）代表產品的預估市場價值。 以下是針對每一種產品或服務，尋找 ERP/MSRP 詳細資料的位置。 
+
+
+|**產品或服務**        |**ERP 和 MSRP 價位清單詳細資料**      |
+|:-----------   |:-----------   |
+|產品或服務  |ERP 和 MSRP 價位清單詳細資料  |
+|授權型服務  |在以授權為基礎的價格清單中列為 ERP  |
+|以 Azure 使用量為基礎的服務  |可以在共用服務對等的價格清單中找到  |
+|Azure Reservations  |可以在共用服務對等的價格清單中找到  |
+|以 Azure 方案的使用量為基礎  |價格在價位表中為零售未折扣  |
+|Azure 方案保留  |參考 Azure 保留共用服務價格清單  |
+|軟體訂用帳戶  |在軟體訂閱價格清單中列為 MSRP  |
+|Marketplace  |列為 Marketplace 價格清單中的 MSRP  |
+
+其他資源： 
+
+- [Azure 方案定價](azure-plan-price-list.md)
+- [Azure 定價總覽](https://azure.microsoft.com/pricing/)
