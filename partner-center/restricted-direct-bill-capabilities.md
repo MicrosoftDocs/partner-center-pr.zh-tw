@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帳單，限制
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7213708d598e48d1e7e0534908aed99d84b50de
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 41db00bab2f421ca3ab0a8f828e8a72b26087ebd
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467228"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679415"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>受限制的直接帳單功能和 CSP 直接帳單合作夥伴所需的需求  
 
@@ -58,7 +58,10 @@ ms.locfileid: "84467228"
 
 - 調整現有以基座為基礎的訂用帳戶的基座計數
 
-- 調整現有附加元件對訂用帳戶的基座計數。 注意：您無法將新的附加元件加入現有的訂用帳戶，因為它被視為新購買的訂閱。
+- 調整現有附加元件對訂用帳戶的基座計數。 
+ 
+    >[!Note] 
+    >您無法將新的附加元件加入現有的訂用帳戶，因為它被視為新購買的訂閱。
 
 - 部署新的 Azure 資源，並在現有的 Azure 訂用帳戶下管理現有的 Azure 資源。 這包括可透過 Azure marketplace 和 Visual Studio 訂用帳戶取得的資源。
 
@@ -68,7 +71,7 @@ ms.locfileid: "84467228"
 
 - 您無法對要求直接轉銷商關係的客戶產生邀請。 [合作夥伴中心] 的 [**客戶**] 頁面下的 [**要求轉售商關係**] 選項將無法使用。
 
-    >[!Note]
+    >[!NOTE]
     >在從直接帳單合作夥伴轉移至間接轉銷商的過程中，如果您已將您的直接帳單合作夥伴租使用者註冊為間接轉銷商，您可以改為向要求間接轉銷商關聯性的客戶產生邀請。
 
 - 您無法建立新的沙箱租使用者。 每個直接帳單合作夥伴租使用者都可以建立一個沙箱租使用者，以供直接帳單 API 整合之用。 如果您先前尚未建立，則不允許您在直接帳單合作夥伴功能受到限制之後執行這項操作。  

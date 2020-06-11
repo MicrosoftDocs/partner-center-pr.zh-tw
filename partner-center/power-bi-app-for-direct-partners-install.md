@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8a8558bad11f641737507f4d76405e9825df516
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795877"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679305"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安裝和預覽適用於 Microsoft Power BI 的合作夥伴中心分析應用程式
 
@@ -32,17 +32,19 @@ ms.locfileid: "83795877"
 ## <a name="before-you-begin"></a>開始之前
 
 從下列可用的 Power BI 應用程式清單中，選取與您的公司最相關的應用程式：
-- [直接合作夥伴](https://app.powerbi.com/groups/me/getdata/services/direct-providers-partner-analytics)
+- [直接提供者](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [間接合作夥伴](https://app.powerbi.com/groups/me/getdata/services/indirect-providers-partner-analytics)
+- [間接提供者](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [間接轉銷商](https://app.powerbi.com/groups/me/getdata/services/indirect-seller-partner-analytics)
+- [間接轉銷商](https://appsource.microsoft.com/en-us/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
 安裝合作夥伴中心分析應用程式預覽版之前，請先確定您符合下列需求。
 
 - 您可以為您的企業挑選正確的 Power BI 應用程式。
 
-- 您有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 的使用中訂閱。
+- 您有 Power BI pro 授權。
+
+- 您有權在您的租使用者上安裝範本應用程式。
 
 - 您可以登入 Power BI。
 
@@ -50,20 +52,34 @@ ms.locfileid: "83795877"
 
 ## <a name="to-install-the-app"></a>若要安裝應用程式
 
-1. 開始進行[安裝程序](https://app.powerbi.com/getdata/services/partneranalytics?cpcode=PartnerCenterAnalytics&getDataForceConnect=true&alwaysPromptForContentProviderCreds=true)。
+1. 在上一節中，按一下指定的應用程式來源連結（直接提供者/間接提供者/間接轉銷商）。
 
-2. 在 **\[已經有帳戶名稱了嗎?\]** 下方選取 **\[登入\]**。 
+2. 按一下 [**立即取得**]。 
 
-3. 在下一個頁面上，輸入您的 Power BI 的使用者名稱和密碼，然後選取 **\[登入\]**。 
+3. 按一下 [**繼續**] 以同意條款及條件。
 
-4. 在 [連線**到合作夥伴中心分析**] 快顯視窗中，確認 [**驗證方法**] 已設定為 [ **oAuth2** ]，或從清單中選取 [ **oAuth2** ] （如果不是）。 
+4. 在 \[已經有帳戶名稱了嗎?\] 下方選取 **\[登入\]**。
+
+5. 在下一個頁面上，輸入您的 Power BI 的使用者名稱和密碼，然後選取 \[登入\]。
+
+6. 藉由提供 workspacename 來安裝工作區。
+
+7. 您可以在 [應用程式] 區段中找到已安裝的範本應用程式。
+
+8. 按一下 [應用程式]，然後選擇已安裝的應用程式。
+
+9. 開始使用新的應用程式畫面隨即開啟。
+
+10. 若要連接到資料，請按一下 **[連接]**。
+
+11. 在 [連線**到合作夥伴中心分析**] 快顯視窗中，確認 [**驗證方法**] 已設定為 [ **oAuth2** ]，或從清單中選取 [ **oAuth2** ] （如果不是）。 
 
 > [!NOTE]  
 >  這個視窗可能需要幾分鐘才會出現。
 
-5. 在 [**合作夥伴中心分析連接器**] 頁面上，使用全域管理員、系統管理員代理程式或貴公司 Azure AD 租使用者的計費管理員認證登入，然後選取 [登**入**]。
+12. 在 [**合作夥伴中心分析連接器**] 頁面上，使用全域管理員、系統管理員代理程式或貴公司 Azure AD 租使用者的計費管理員認證登入，然後選取 [登**入**]。
  
-6. 出現存取權提示時，選取 **\[接受\]**。 
+13. 出現存取權提示時，選取 **\[接受\]**。 
 
 將合作夥伴中心分析服務連線到 Power BI 後，資料將會開始載入。 視資料數量而定，這最多可能需要花費 10 分鐘。 
 

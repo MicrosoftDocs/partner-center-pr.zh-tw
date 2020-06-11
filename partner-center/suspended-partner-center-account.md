@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0325d0f720af61813a98d18785f3cc05b2691f7e
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: 3e96a71eeb1404055099c3418f9c9531a97a67c2
+ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425877"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84661651"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>還原已暫停的合作夥伴中心帳戶-瞭解其發生的原因及其處理方式
 
@@ -36,21 +36,21 @@ Microsoft 會基於下列其中一個原因而暫時停用合作夥伴中心帳�
 
 - 目前的帳單金額已逾期超過 60 天 
 - 偵測到嚴重的帳戶濫用
-- 問題影響間接提供者作業，並對帳戶造成負面影響 (僅限間接經銷商)
+- 當問題影響間接提供者作業並對您的帳戶產生負面影響時（僅限間接轉銷商）
+- 當您的帳戶設定檔處於 [失敗] 或 [已拒絕] 狀態時
 
 ## <a name="what-to-do-if-your-account-is-suspended"></a>帳戶遭到暫時停權的處理方式
 
-如果您確定自己的帳戶是最新的，請向合作夥伴中心支援提出支援要求，以找出帳戶遭暫時停用的原因。 
+如果您知道您的帳戶是最新的，請檢查您的[夥伴設定檔](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)設定，以確認您的作用中資訊已完成。 
 
 如果您不確定您的帳戶是否是最新的，請選取 [**合作夥伴中心**] 功能表中的 [**帳單**] 來檢查您的帳單。 帳單頁面會顯示您的帳單記錄和趨勢、目前月份的應付餘額、發票與對帳檔案的連結，以及最近的付款。
 
 如果您的帳戶已經過期，請按照帳單上的指示安排付款，然後提出將帳戶復權的支援要求。 
 
-**若要提出支援要求**
+如需重新啟用帳戶的其他協助，請聯絡[支援](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)人員。
 
-1.  從 [**合作夥伴中心**] 功能表中，選取 [**支援要求 > 合作夥伴中心要求**]。
-2.  選取 **\[新要求\]**。 
-3.  完成表單，然後選取 [**提交**]。 合作夥伴中心支援代表將會與您連絡，並說明帳戶遭暫時停用的原因以及復權方式。
+## <a name="next-steps"></a>後續步驟
 
+- [確認您的合作夥伴設定檔](update-your-partner-profile.md)
 
-
+- [當您註冊新的合作夥伴中心方案時，請確認您的帳戶資訊](verification-responses.md)

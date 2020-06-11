@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21c90449ca6ee93f41455db41af596a65d4946bf
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 3d4896fbff07eebc1dd6debf6010dc3970f45a4a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452777"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679315"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>[合作夥伴中心深入解析] 儀表板提供的產品訂閱報表
 
@@ -30,7 +30,7 @@ ms.locfileid: "84452777"
 
 您可以從 [產品訂閱] 報表中查看下列區段。
 
-- [摘要]
+- 摘要
 - 訂用帳戶的地理分佈
 - 訂閱新增/變換趨勢
 - 依合作夥伴位置、銷售通路、Sku、合作夥伴附加類型、區段的訂用帳戶散發
@@ -38,7 +38,7 @@ ms.locfileid: "84452777"
 - 產品趨勢
 
  > [!NOTE]
- > 您可以從合作夥伴中心深入解析（PCI）儀表板取得這份報告。 若要查看這份報告，您必須在合作夥伴中心指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，也只能供具備主管報表檢視器許可權的使用者使用。
+ > 您可以從 Insights 儀表板取得這份報表。 若要查看這份報告，您必須在合作夥伴中心指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，也只能供具備主管報表檢視器許可權的使用者使用。
 
 **摘要**
 

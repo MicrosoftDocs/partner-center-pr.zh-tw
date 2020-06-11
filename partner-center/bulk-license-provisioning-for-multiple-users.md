@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 指派授權、撤銷授權、指派給多個使用者、
 ms.localizationpriority: medium
-ms.openlocfilehash: 7018b1f4ae56ee267a39239c97bf7355381e6802
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798566"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679095"
 ---
 # <a name="assign-or-revoke-licenses-to-multiple-users"></a>指派或撤銷多個使用者的授權
 
@@ -74,9 +74,10 @@ ms.locfileid: "82798566"
 7. 請透過選取每項產品的核取方塊來為使用者選取超過一項產品。
     -   選取 [查看任何產品的**服務方案**]，以查看並選取使用者所需的服務方案。
 
-8. 選取 [儲存]  。 合作夥伴中心會開啟**授權已更新**的確認頁面，其中列出使用者和其新的授權。
+8. 選取 [儲存]。 合作夥伴中心會開啟**授權已更新**的確認頁面，其中列出使用者和其新的授權。
 
-**請注意**  ，某些 Microsoft 產品可能無法在特定位置使用。 其他產品則取決於其他產品或服務，或者可以一起指派給同一個使用者。 在您儲存之後，確認頁面就會列出所有使用者授權指派成功的結果，以及任何授權指派錯誤。
+>[!NOTE]
+>某些 Microsoft 產品可能無法在特定位置使用。 其他產品則取決於其他產品或服務，或者可以一起指派給同一個使用者。 在您儲存之後，確認頁面就會列出所有使用者授權指派成功的結果，以及任何授權指派錯誤。
 
 
 <a href="" id="revoking-licenses"></a>
@@ -96,8 +97,8 @@ ms.locfileid: "82798566"
 
 6. 在 **[指派和撤銷授權]** 底下，清除指派給使用者之產品的核取方塊。 例如，如果所有選取的使用者中都擁有 Office 365 企業版授權，且您想要撤銷它們，請選取核取方塊來將它清除。
 
-7. 選取 [儲存]  。
+7. 選取 [儲存]。
 
-## <a name="related-topics"></a>相關主題
+## <a name="next-steps"></a>後續步驟
 
 [指派授權給使用者](assign-licenses-to-users.md)

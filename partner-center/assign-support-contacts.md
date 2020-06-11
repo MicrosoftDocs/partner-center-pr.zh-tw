@@ -11,12 +11,12 @@ ms.author: labrenne
 keywords: 協助代理人, 支援, 指派支援連絡人, 指定的支援連絡人
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 172fb7bc6ec4c7a4f6ce4549d96eb2487418a017
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 39e0a4390d37ba9cc39b872f059b818faad28051
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907476"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678995"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>將轉銷商指派為客戶的技術支援連絡人
 
@@ -47,14 +47,12 @@ ms.locfileid: "82907476"
 
 3.  在 **\[指派的支援連絡人\]**，選取指派的產品經銷商，然後按一下 **\[提交\]**。 
 
-    注意： 
-    
-    *  對於新的訂閱，指派的支援連絡人預設為間接提供者。 您可以將此預設值變更為擁有委派管理員權限的間接經銷商。
-    
-    *  如果您的經銷商名稱未出現在支援連絡人清單中，透過[要求建立關係](request-a-relationship-with-a-customer.md)新增他們。 建立關係之後，他們應該會出現在清單中。  
+   >[!NOTE]  
+ >對於新的訂閱，指派的支援連絡人預設為間接提供者。 您也可以將此變更為具有委派系統管理員許可權的間接轉銷商。    
+>如果轉售商的姓名未出現在可用的支援連絡人清單中，請[要求關聯](request-a-relationship-with-a-customer.md)性將其新增至。 建立關係之後，他們應該會出現在清單中。  
 
 4.  檢閱變更正確無誤，然後選取 **\[關閉\]**。
 
-## <a name="related-topics"></a>相關主題
+## <a name="next-steps"></a>後續步驟
 
 [移除與客戶的關係](remove-a-relationship.md)

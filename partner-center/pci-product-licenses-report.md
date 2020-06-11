@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 206a7e9d756aa2d888813d83ef22fcd7a9ac109c
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 8da7e89ad498a81572d044bbb4526b6188c3bfbc
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452883"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679325"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作夥伴中心深入解析儀表板中的產品授權報表
 
@@ -28,13 +28,13 @@ ms.locfileid: "84452883"
 
 [產品授權] 報表會針對以基座為基礎的雲端產品（例如 O365、Dynamics、M365、Power BI 等）提供授權分析。這裡所呈現的分析，與您所銷售或為客戶管理的授權使用量相關聯。 您可以從 [產品授權] 報表中查看下列區段。
 
-- 總結
+- 摘要
 - 授權的地理散佈
 - 授權新增
 - 依合作夥伴位置、銷售通路、Sku、合作夥伴附加類型、區段的授權發佈
 
  > [!NOTE]
- > 您可以從合作夥伴中心深入解析（PCI）儀表板取得這份報告。 若要查看這份報告，您必須在合作夥伴中心指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，也只能供具備主管報表檢視器許可權的使用者使用。
+ > 您可以從 Insights 儀表板取得這份報表。 若要查看這份報告，您必須在合作夥伴中心指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，也只能供具備主管報表檢視器許可權的使用者使用。
 
 **摘要**
 

@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: c9a80519ab418c0b0c52bbf7e0224e439b4f672e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 5d3bfd235b621b7af0c86bd5bdf152cc50a2d4ba
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467528"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679295"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作夥伴中心深入解析-顯示 Microsoft 商業夥伴如何執行的儀表板
 
@@ -37,7 +37,7 @@ ms.locfileid: "84467528"
 全域管理員或帳戶管理員可以將這些角色指派給使用者，並且指派給整個公司或特定 MPN 位置。  
 
 >[!Note] 
->從2019年12月2日起 MPN 系統管理員的使用者，會自動新增至全公司的報表檢視器角色。 他們能夠以報表檢視器的形式存取報表，而不需要全域管理員或帳戶管理員所需的任何明確動作。全域管理員或帳戶管理員可以視需要覆寫這些指派。 
+>從2020年1月20日 MPN 系統管理員的使用者，會自動新增至全公司的報表檢視器角色。 他們能夠以報表檢視器的形式存取報表，而不需要全域管理員或帳戶管理員所需的任何明確動作。全域管理員或帳戶管理員可以視需要覆寫這些指派。 
 
 ## <a name="reports-available"></a>可用的報表
 

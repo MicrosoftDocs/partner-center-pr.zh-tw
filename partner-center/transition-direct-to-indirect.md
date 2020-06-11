@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.localizationpriority: medium
 keywords: 直接帳單、轉換、間接轉銷商
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3f87014e76ea32bf15d3e0147d5e40c3a5ebefc
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458404"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679445"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商
 
@@ -225,13 +225,11 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 ### <a name="pre-requisites"></a>必要條件
 
-使用此功能之前，請注意下列事項：
-
 - 這項功能僅適用于轉換已使用其現有直接帳單合作夥伴租使用者完成間接轉銷商註冊的合作夥伴
 
 - 在傳送與特定客戶相關聯的訂閱之前，轉換的夥伴必須將客戶移至間接提供者。
 
-- 客戶已[透過間接提供者接受 Microsoft 客戶合約](#microsoft-customer-agreement-acceptance)。
+- 客戶必須[透過間接提供者接受 Microsoft 客戶合約](#microsoft-customer-agreement-acceptance)。
 
 ### <a name="how-to-transition-to-indirect-reseller-status"></a>如何轉換為間接轉銷商狀態
 

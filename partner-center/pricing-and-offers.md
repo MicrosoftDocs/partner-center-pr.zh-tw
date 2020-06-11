@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 183e72e3f3f715a54bf3227bbf19c49033fb57e8
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: 47be4df115adbfacd32304104b323f7266eb77f0
+ms.sourcegitcommit: 1196a2edb9e18f16a3c68ab8e10634619ad75b7f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633818"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84661661"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、企業行動套件、Azure 等等的定價和優惠
 
@@ -94,7 +94,19 @@ CSP 針對特殊市場部門提供一些服務，例如教育、非收益和政�
 |政府社群雲端 (GCC)|合作夥伴和客戶|啟用 GCC 後，合作夥伴可以建立 GCC 客戶| 僅以授權為基礎|
 |Azure Government|合作夥伴|合格後，合作夥伴會在特定的 CSP 租使用者中操作 Azure Government|Azure 資源|
 
-「合作夥伴邊界」、「標價」和「預估零售價格」之間的差異，可能會因區段而異。 一般而言，教育和非利潤的 CSP 合作夥伴通常會有較低或完全沒有邊界。 如需確切值，請參閱以授權為基礎的價格清單。  
+「合作夥伴邊界」、「標價」和「預估零售價格」之間的差異，可能會因區段而異。 一般而言，教育和非利潤的 CSP 合作夥伴通常會有較低或完全沒有邊界。 如需確切值，請參閱以授權為基礎的價格清單。 
+
+## <a name="add-on-offer-types"></a>附加元件供應專案類型
+
+以授權為基礎的服務可以當做基本供應專案或附加元件來取得。 只有基底供應專案可透過合作夥伴中心目錄進行探索和可購買。 購買基底供應專案之後，必須套用附加元件。 以授權為基礎的價目表**次要授權類型**資料行包含每個供應專案和其類型的相關資訊。 [價格清單次要授權類型] 欄中的 [基底供應專案] 具有**非特定**的值，而且可以在目錄中購買。 **附加**元件的次要授權類型值無法在目錄中購買。 若要購買這些附加元件：
+
+1. 請參閱供應專案清單矩陣，查看需要購買的供應專案識別碼清單，然後才能購買附加元件。
+2. 從目錄購買基底供應專案
+3. 從客戶清單流覽至您的客戶。 針對您剛購買的基本供應專案，按一下訂用帳戶。 在 [管理訂用帳戶] 頁面上，您會看到可套用至基本供應專案的可用附加元件。
+
+> [!Note] 
+> 有些基底供應專案具有附加元件**授權**的**單位類型**值。 對於基底供應專案，這只是表示您不會在購買後指派使用者授權。 如果供應專案可以在目錄中購買，它就是**基底供應**專案，不論使用者介面中的單位類型為何。
+
 ## <a name="pricing-between-azure-and-non-azure"></a>Azure 與非 Azure 之間的定價
 
 定價與不同類型的供應專案不同。 以授權為基礎的定價通常是指定月份的每一基座數量（授權）。 以使用量為基礎的定價取決於使用指定的資源，以及相關聯的計量識別碼。 合作夥伴不需支付取得 Azure 訂用帳戶的費用。 不過，合作夥伴會針對 Azure 訂用帳戶下不同部署所使用的資源付費。 以使用量為基礎的價格清單中的定價是以 Azure 中不同的資源計量識別碼來組織。

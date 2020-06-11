@@ -11,12 +11,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: 訂用帳戶，建立新的訂用帳戶，暫停，取消，暫停，暫停，SaaS，授權，ISV，協力廠商
 ms.localizationpriority: medium
-ms.openlocfilehash: 969093b1ce3ba6936800ea91fd066d73b51701c7
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 7f8b3e6c444f8aeb59a55d6e7feb881eb6f99a5e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394145"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679055"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -73,7 +73,10 @@ ms.locfileid: "83394145"
     - 您可以從該客戶的**訂閱**頁面中選取訂用帳戶名稱，以檢查或編輯訂閱。 從這裡開始，您可以選取附加元件授權 (如果有的話)、變更授權數量，或暫停訂用帳戶。
 
     **針對 ISV SaaS （以授權為基礎）的訂用帳戶：**
-    - 您會收到「ISV 發行者」網站的連結。 此連結應該可協助您完成客戶訂閱的部署或帳戶設定。 （請注意，您或您的客戶都不會收到一封電子郵件，說明如何針對此類型的 ISV 訂閱完成帳戶設定/布建。）
+    - 您會收到「ISV 發行者」網站的連結。 此連結應該可協助您完成客戶訂閱的部署或帳戶設定。
+      
+    >[!NOTE]
+    > 您或您的客戶都不會收到一封電子郵件，說明如何針對此類型的 ISV 訂閱完成帳戶設定/布建。）
 
     - 如果您的訂用帳戶隨附30天免費試用版，將會自動套用免費試用期限。 身為 CSP 計畫的合作夥伴，您無法在購買給客戶的供應專案上放棄免費試用期。 一旦免費試用期結束後，訂用帳戶期限就會開始，且訂用帳戶將會轉換成付費狀態。 然後，訂用帳戶會根據相同的排程進行 autorenew。
 
@@ -151,7 +154,7 @@ ms.locfileid: "83394145"
 
 5. 在 [訂閱詳細資料] 頁面中，找出 [**狀態**] 區段，然後取消核取 [**自動續約**] 方塊。
 
-6. 選取 [提交]  。
+6. 選取 [提交]。
 
 ## <a name="next-steps"></a>後續步驟
 

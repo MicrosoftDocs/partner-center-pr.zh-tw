@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 590ec680a1fdc80177a955417942b340b94eb96b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458394"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679395"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>試用新的合作夥伴中心功能並協助塑造合作夥伴中心的未來
 
@@ -26,7 +26,7 @@ ms.locfileid: "84458394"
 
 我們會持續發行合作夥伴中心的新特色與功能，並想要您的意見反應！ 
 
-我們邀請您在新功能發行至合作夥伴中心全球社群之前搶先試用，並分享您的想法。 請查看[合作夥伴中心公告頁面](announcements/index.md)，以取得即將發行之功能的相關資訊，讓您開始計畫如何使用它們來擴展您的業務。 請注意，同一時間可能會有多個功能可供測試。
+我們邀請您在新功能發行至合作夥伴中心全球社群之前搶先試用，並分享您的想法。 請查看[合作夥伴中心公告頁面](announcements/index.md)，以取得即將發行之功能的相關資訊，讓您開始計畫如何使用它們來擴展您的業務。 您可能會有數個功能可供您在指定時間測試磁片磁碟機。
 
 ### <a name="test-drive-a-feature"></a>測試功能
 
@@ -58,4 +58,4 @@ ms.locfileid: "84458394"
 - 如果您遇到有關功能預覽的任何問題，請要求支援。 若要建立支援要求，請從 [合作夥伴中心]**** 功能表選取 [支援要求] > [合作夥伴中心要求]****，然後在 [合作夥伴中心要求]**** 頁面上選取 [新增要求]****。
 
 
--- 合作夥伴中心團隊
+
