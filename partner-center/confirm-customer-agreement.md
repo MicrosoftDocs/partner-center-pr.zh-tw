@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 客戶, 客戶, 同意, MCA, Microsoft Cloud 合約, Microsoft 客戶合約, 客戶合約範本
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae3605f0cb352b6efb18c7e53d9842d35c7e00c3
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: c6d67c7e970d042704e1cc1c731d6ae1e85d6687
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908157"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84453265"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>確認客戶接受 CSP 合作夥伴方案中的 Microsoft 客戶合約
 
@@ -33,7 +33,6 @@ ms.locfileid: "82908157"
 
 - 間接轉銷商、直接帳單、間接提供者
 
-
 Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計畫，以取代 Microsoft Cloud 合約。 若為間接轉銷商，請參閱其他[指引](indirect-reseller-tasks-in-partner-center.md)。 為了協助合作夥伴遷移至新的合約，在 2020 年 1 月 31 日前，此兩個合約會並存在 CSP 計畫中。 從 2020 年 2 月 1 日開始，Microsoft 客戶合約會取代 Microsoft Cloud 合約。
 
 客戶有兩個選項可以接受 Microsoft 客戶合約。 
@@ -44,7 +43,7 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 ## <a name="access-microsoft-customer-agreement-template"></a>存取 Microsoft 客戶合約範本
 
-您可以從[這裡](https://aka.ms/customeragreement)手動下載最新版本的 Microsoft 客戶合約範本。 Microsoft 客戶合約是國家/地區特定。 當要求 Microsoft 客戶合約範本時，請務必根據客戶的位置選取正確的國家/地區。 
+您可以從[這裡](https://aka.ms/customeragreement)手動下載最新版本的 Microsoft 客戶合約範本。 Microsoft 客戶合約是國家/地區特定。 當要求 Microsoft 客戶合約範本時，請務必根據客戶的位置選取正確的國家/地區。
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>選項 1：在合作夥伴中心確認客戶接受
 
@@ -54,45 +53,45 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 當您在合作夥伴中心建立新的客戶租用戶時，請使用下列步驟來確認客戶是否接受 Microsoft 客戶合約。 您必須是系統管理員代理人或銷售代理人，才能執行這些步驟。
 
-1. 選取 [客戶]  ，然後選取 [新客戶]  。
+1. 選取 [客戶]，然後選取 [新客戶]。
 
-2. 在 [帳戶資訊]  底下，輸入公司及其主要連絡人的資訊。
+2. 在 [帳戶資訊] 底下，輸入公司及其主要連絡人的資訊。
 
-3. 在 [Microsoft 合約]  底下，選取方塊以證明客戶已接受 Microsoft 客戶合約。 
+3. 在 [Microsoft 合約] 底下，選取方塊以證明客戶已接受 Microsoft 客戶合約。
 
-4. 在 [合約接受日期]  下方，輸入適當的日期。 您不能將此日期設定為未來日期。
+4. 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此日期設定為未來日期。
 
-5. 請確定顯示的主要使用者連絡人資訊正確。 如果資訊不正確，請選取 [更新]  ，然後輸入接受合約人員的正確資訊。
+5. 請確定顯示的主要使用者連絡人資訊正確。 如果資訊不正確，請選取 [更新]，然後輸入接受合約人員的正確資訊。
 
-6. 選取 [下一個]  ，繼續建立客戶租用戶。
+6. 選取 [下一個]，繼續建立客戶租用戶。
 
-![新客戶](images/mca/newcustomeragreement.jpg)  
+   :::image type="content" source="images/mca/newcustomeragreement.jpg" alt-text="新客戶":::  
 
 ### <a name="confirm-customer-acceptance-for-existing-customers"></a>確認現有客戶的客戶接受
 
 您必須是系統管理員代理人或銷售代理人，才能執行此動作：
 
-1. 選取 [客戶]  。 尋找並選取客戶。
+1. 選取 [客戶]。 尋找並選取客戶。
 
-2. 選取 [帳戶資訊]  。
+2. 選取 [帳戶資訊]。
 
-3. 在 [Microsoft 客戶合約]  下方，選取 [更新]  。
+3. 在 [Microsoft 客戶合約] 下方，選取 [更新]。
 
-4. 輸入接受合約人員的 [名字]  、[姓氏]  、[電子郵件地址]  和 [電話號碼]  (選用)。 在 [合約接受日期]  下方，輸入適當的日期。 您不能將此日期設定為未來日期。
+4. 輸入接受合約人員的 [名字]、[姓氏]、[電子郵件地址] 和 [電話號碼] (選用)。 在 [合約接受日期] 下方，輸入適當的日期。 您不能將此日期設定為未來日期。
 
-5. 選取 [儲存]  並繼續作業。
+5. 選取 [儲存] 並繼續作業。
 
-![現有客戶](images/mcua2-update2.png)
+   :::image type="content" source="images/mcua2-update2.png" alt-text="現有客戶":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>取得客戶接受的確認
 
 您可以使用下列步驟來取得現有客戶已接受 Microsoft 客戶合約的確認。 您必須是系統管理員代理人或銷售代理人，才能執行此動作。
 
-1. 選取 [客戶]  ，然後尋找並選取您想要查看的客戶。
+1. 選取 [客戶]，然後尋找並選取您想要查看的客戶。
 
-2. 選取 [帳戶資訊]  。
+2. 選取 [帳戶資訊]。
 
-3. 在 [Microsoft 客戶合約]  底下，檢視此客戶是否已提供確認。
+3. 在 [Microsoft 客戶合約] 底下，檢視此客戶是否已提供確認。
 
 ## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>使用合作夥伴中心 API/SDK 確認客戶接受
 
@@ -105,7 +104,6 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 - [取得客戶接受 Microsoft 客戶合約的確認](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
 
 - [取得 Microsoft 客戶合約範本的下載連結](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
-
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>選項 2：Microsoft 365 系統管理中心的客戶接受
 
@@ -124,17 +122,17 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 使用下列步驟在合作夥伴中心建立新的客戶，然後邀請他們在 Microsoft 365 系統管理中心內檢閱及接受 Microsoft 客戶合約。
 
-1. 從合作夥伴中心的 [客戶]  索引標籤中，選取 [新增客戶]  。
+1. 從合作夥伴中心的 [客戶] 索引標籤中，選取 [新增客戶]。
 
-2. 在 [帳戶資訊]  底下的所有必要欄位中，輸入新客戶的相關資訊，包括客戶的公司名稱和主要連絡人。
+2. 在 [帳戶資訊] 底下的所有必要欄位中，輸入新客戶的相關資訊，包括客戶的公司名稱和主要連絡人。
 
-3. 在 [客戶合約]  中，選取第一個選項 [要求客戶在 Microsoft 365 系統管理中心接受 Microsoft 客戶合約]  。 完成頁面上其他任何必要欄位。
+3. 在 [客戶合約] 中，選取第一個選項 [要求客戶在 Microsoft 365 系統管理中心接受 Microsoft 客戶合約]。 完成頁面上其他任何必要欄位。
 
 4. 選取 **[下一步：檢閱]** ，然後繼續建立客戶租用戶的步驟。 (注意：新客戶在接受 Microsoft 客戶合約之前，無法進行新的購買。)  
 
-![建立新客戶](images/mca/create-new-customer.jpg)
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="建立新客戶":::
 
-5. 當您到達新客戶工作流程中的 [確認]  畫面時，請儲存客戶認證。 您稍後必須將這些認證提供給您的客戶。
+5. 當您到達新客戶工作流程中的 [確認] 畫面時，請儲存客戶認證。 您稍後必須將這些認證提供給您的客戶。
 
 6. 在合作夥伴中心外，建立並傳送電子郵件，邀請客戶在 Microsoft 365 系統管理中心接受 Microsoft 客戶合約。 請務必在電子郵件中包含下列項目：
 
@@ -152,15 +150,15 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 使用下列步驟來邀請新客戶檢閱及接受轉銷商關係和 Microsoft 客戶合約。 
 
-1. 從合作夥伴中心的 [客戶]  索引標籤中，選取 [要求建立轉銷商關係]  連結。 
+1. 從合作夥伴中心的 [客戶] 索引標籤中，選取 [要求建立轉銷商關係] 連結。 
 
 2. 系統會產生自動電子郵件範本，包括文字和參數化 URL，以將客戶引導至 Microsoft 365 系統管理中心。
 
-3. 您可以自訂自動產生的電子郵件範本，然後選取 [複製到剪貼簿]  或 [在電子郵件中開啟]  。
+3. 您可以自訂自動產生的電子郵件範本，然後選取 [複製到剪貼簿] 或 [在電子郵件中開啟]。
 
 4. 使用此電子郵件範本來邀請客戶接受**轉銷商關係**要求和 **Microsoft 客戶合約**。 (注意：在電子郵件邀請中，請確定合作夥伴也包含自動提供的 URL，以及最近建立的客戶認證)。
 
-![建立關係](images/mca/createrelationship.png)
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="建立關係":::
 
 5. 客戶透過電子郵件接收邀請，然後按一下參數化 URL。 
 
@@ -170,10 +168,10 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 8. 在相同的 URL 中，客戶可以看到他們正在合作的不同合作夥伴合併清單。 他們可以選取合作夥伴來查看詳細資料。
 
-![接受合約](images/mca/accept.jpg)
+   :::image type="content" source="images/mca/accept.jpg" alt-text="接受合約":::
 
 
-## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>邀請現有的客戶檢閱及接受合約 
+## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>邀請現有的客戶檢閱及接受合約
 
 使用下列步驟來邀請現有的客戶檢閱及接受 Microsoft 客戶合約。 
 
@@ -187,7 +185,7 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 5. 在相同的 URL 中，客戶可以看到他們正在合作的不同合作夥伴合併清單。 他們可以選取合作夥伴來查看詳細資料。
 
-![客戶](images/mca/customeraccept.png)
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="客戶":::
 
 >[!NOTE]
 >在某些情況下，客戶可能無法直接接受 Microsoft 客戶合約。 若要深入了解這些情況，請參閱[您需要代表客戶進行證明的兩個案例](attest-acceptance-customer-agreement.md)。

@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65362d9f71882d9edff34039f7fc985a202c4aa0
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 6ea0b7d781cebb963ad802cb73c7d956729dcb2e
+ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908343"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "84452625"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 方案下的訂用帳戶和資源
 
@@ -57,15 +57,15 @@ Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安�
 
 1. 建立警示。
 
-![azure 警示](images/azure/azurealert1.png)
+:::image type="content" source="images/azure/azurealert1.png" alt-text="Azure 警示":::
 
 2. 選取您想要讓警示採取的動作類型。例如，如果您指定要使用電子郵件，您會收到一封電子郵件，通知您是否發生任何角色指派刪除。
 
-![設定警示](images/azure/azureconfigurealert2.png)
+:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="設定警示":::
 
 ### <a name="aobo-removal"></a>AOBO 移除
 
-客戶可以前往 Azure 入口網站上的 **Access 控制**，來管理其訂用帳戶的存取權。 從 [角色指派]  索引標籤中，選取 [移除存取權]  。 如果發生這種情況，您可以：
+客戶可以前往 Azure 入口網站上的 **Access 控制**，來管理其訂用帳戶的存取權。 從 [角色指派] 索引標籤中，選取 [移除存取權]。 如果發生這種情況，您可以：
 
 - 與您的客戶交談，查看是否可以恢復系統管理員存取權。
 - 使用透過[角色型存取控制 (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview) 提供的存取權。
