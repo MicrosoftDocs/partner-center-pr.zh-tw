@@ -60,6 +60,7 @@
 ## [合作夥伴中心的帳戶架構](account-structure.md)
 ## [確認網域的擁有權](become-global-admin.md)
 ## [確認您的帳戶資訊](verification-responses.md)
+## [將您的合作夥伴帳戶與另一個夥伴帳戶合併](merge-accounts.md)
 ## [更新您的合作夥伴設定檔](update-your-partner-profile.md)
 ## [位置](manage-locations.md)
 ## [註冊為控制台廠商](enroll-as-cpv.md)
@@ -81,7 +82,8 @@
 ## [自訂型錄](customize-the-catalog.md)
 
 # [拓展您的業務](grow-your-business.md)
-## [轉介](referrals.md)
+## [推薦概觀](referrals.md)
+### [回應推薦](responding-to-referrals.md)
 ### [管理商務設定檔](create-a-marketing-profile.md)
 ### [管理潛在客戶](manage-leads.md)
 ### [管理共同銷售商機](manage-co-sell-opportunities.md)
@@ -175,6 +177,7 @@
 ### [將 Office 365 企業版 E4 訂閱遷移至新版 Office 365](migrate-office365-e4-subscriptions-to-newer-versions.md)
 ### [將商務用 Skype Online 方案 1 遷移至較新的 Office 365 版本](skype-retiring.md)
 ### [轉移 Azure 訂閱](switch-azure-subscriptions-to-a-different-partner.md)
+### [將 Kaizala 專業版訂用帳戶遷移至 Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # 合作夥伴中心資料和分析
 ## [取得並分析您的商務資料](data-analysis-lp.md)
