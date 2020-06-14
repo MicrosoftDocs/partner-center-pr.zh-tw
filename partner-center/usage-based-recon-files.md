@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 214eedf60d89172b7c003acf927853ff04d7fd72
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 83545002fbc0138e4020473a9554d9127e7771b4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603857"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749211"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>瞭解以使用量為基礎的對帳檔案及其在合作夥伴中心的特定欄位
 
@@ -57,7 +57,7 @@ ms.locfileid: "84603857"
 | PretaxCharges | 等於**ListPrist**乘以**OverageQuantity**，舍入到最接近的美分。 | *$0.085* |
 | TaxAmount | 收取的稅金金額。 根據您市場的稅務規則和特定情況。 | *$0.08* |
 | PostTaxTotal | 稅後總計 (若有適用稅賦)。 | *$0.93* |
-| 貨幣 | 貨幣類型。 每個計費實體都只有一個貨幣。 檢查它是否符合您的第一張發票，然後再進行任何主要的計費平臺更新。 | *EUR* |
+| 貨幣 | 貨幣類型。 每個計費實體都只有一個貨幣。 檢查它是否符合您的第一張發票，然後再進行任何主要的計費平臺更新。 | *歐元* |
 | PretaxEffectiveRate | 每單位的稅前價格。 等於**計算 pretaxcharges**除以**OverageQuantity**，四捨五入為最接近的美分。 | *$0.08* |
 | PostTaxEffectiveRate | 每單位的稅後價格。 等於**PostTaxTotal**除以**OverageQuantity**，四捨五入為最接近的美分。 或者，等於**PretaxEffectiveRate**加上每單位金額的稅率，舍入到最接近的美分。 | *$0.08* |
 | ChargeType | 費用或調整的[類型](recon-file-charge-types.md)。 | 請參閱[費用類型](recon-file-charge-types.md)。 |
@@ -70,5 +70,5 @@ ms.locfileid: "84603857"
 | MeteredRegion | 識別資料中心在區域內的位置（適用于並填入此值的服務）。 | *東亞*、*南部東亞*、*北歐*、西歐 *、**美國中北部*、*美國中南部* |
 | MeteredService | 識別 [ **ServiceName** ] 資料行中未明確識別的個別 Azure 服務使用量。 例如，資料傳輸會回報為 Microsoft Azure-[ **ServiceName** ] 資料行中的*所有服務*。 | *AccessControl*， *CDN*，*計算*，*資料庫，資料**匯流排*，*儲存體* |
 | MeteredServiceType | **MeteredService**欄位的子標題，可提供 Azure 服務使用量的額外說明。 | *外設* |
-| 專案 | 客戶為其服務執行個體定義的名稱。 | *ORDDC52E52FDEF405786F0642DD0108BE4* |
+| Project | 客戶為其服務執行個體定義的名稱。 | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | 在指定一天布建和使用的 Azure 服務匯流排連接數目。 | *1.000000 個連線/30 天*（如果您在30天的一個月內有個別布建的連接）、 *25 個連接/30 天–使用： 1.000000* （如果您已布建25個服務匯流排連接，且在該日期期間使用了1個） |

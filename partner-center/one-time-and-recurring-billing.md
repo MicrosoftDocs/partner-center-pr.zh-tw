@@ -8,12 +8,12 @@ ms.author: labrenne
 keywords: 計費，一次性，週期性，採購，費用，isv
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb7ac791eba22a42c2137c0759794f58f6a743f6
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: c2c833d132b56969f1c8b06bc01fd50d28110819
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328319"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749148"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>在合作夥伴中心計費一次並選取週期性費用
 

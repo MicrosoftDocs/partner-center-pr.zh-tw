@@ -1,23 +1,23 @@
 ---
 title: 獲得先進的特製化
 ms.topic: article
-ms.date: 05/22/2020
+ms.date: 06/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Advanced 特殊化會強化合作夥伴目錄中的商務設定檔。 瞭解如何在您的金級專長上獲得先進的特製化。
+description: 強化合作夥伴目錄中的商務設定檔。 瞭解如何獲得先進的特製化，以及您的金級/銀級專長認證。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 專長認證，金級成員資格，mpn，地圖，技能熟練，Microsoft 合作夥伴網路，網路成員資格，advanced 特殊化
+keywords: 專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格, 進階專長
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1dbff3f7f802a0f89f6cdfd78da2abf719523a9
-ms.sourcegitcommit: 97f1ff7386562cbb945bdfbcf15c85bc8303cac2
+ms.openlocfilehash: f62a1795a9ad3fd07de43bcf5cfa8703133e0fe9
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "83825631"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749153"
 ---
-# <a name="how-advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Advanced 特殊化如何協助您的商務設定檔與客戶脫穎而出
+# <a name="advanced-specializations-help-your-business-profile-stand-out-to-customers"></a>Advanced 特殊化可協助您的商務設定檔與客戶脫穎而出
 
 透過先進的特製化，超越您的金級專長認證。 Advanced 特殊化可協助您在產品、解決方案區域或服務中展示經過證實、可驗證的專業知識。 客戶可以在合作夥伴目錄的商務設定檔中，看到您的金級專長認證和您的先進特製化。 若要接收 advanced 特殊化標記，您的企業必須符合一組已發佈的準則，並由 Microsoft 進行驗證。 [深入了解](https://partner.microsoft.com/membership/advanced-specialization)。
 
@@ -41,3 +41,6 @@ ms.locfileid: "83825631"
 
 - **Microsoft Azure 中的 Web 應用程式現代化**您可確保客戶成功進行應用程式開發，並熟悉內容管理系統。 展現在 Microsoft Azure 中移轉和部署生產 Web 應用程式工作負載、套用 DevOps 做法及管理應用程式服務的專長。
 
+ ## <a name="next-steps"></a>後續步驟
+
+ 瞭解[Microsoft 的金級和銀級成員資格需求](learn-about-competencies.md)
