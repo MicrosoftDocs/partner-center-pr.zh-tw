@@ -12,39 +12,39 @@ metadata:
   ms.author: labrenne
   manager: evansma
   ms.date: 05/29/2020
-  ms.openlocfilehash: 5c9bf672eb5647542749c49e74cc39e2ab07c2b5
-  ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+  ms.openlocfilehash: 75176cda1bceb0d90253a97b621c9ff5c5b8cef0
+  ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 06/01/2020
-  ms.locfileid: "84253945"
+  ms.lasthandoff: 06/12/2020
+  ms.locfileid: "84749191"
 highlightedContent:
   items:
   - title: 了解重要的合作夥伴中心更新
     itemType: whats-new
     url: announcements/index.md
-  - title: 尚未成為合作夥伴？ 立即加入 Microsoft 合作夥伴網路。
+  - title: 管理您的 Microsoft 合作夥伴網路會員資格權益和優惠
     itemType: get-started
-    url: https://partner.microsoft.com/membership
+    url: manage-your-partner-network-benefits.md
   - title: 加入 API 和 SDK 早期採用者計畫
     itemType: deploy
     url: https://docs.microsoft.com/partner-center/develop/early-adopter-program
-  - title: 銷售 ISV 供應項目
+  - title: 獲得進階專長
     itemType: whats-new
-    url: csp-commercial-marketplace-overview.md
+    url: advanced-specializations.md
   - title: ISV 合作夥伴 - 建立供應專案並將其發佈至 Marketplace、AppSource 和 CSP 轉銷商通道
     itemType: whats-new
     url: https://docs.microsoft.com/azure/marketplace/
-  - title: 成為 Microsoft 合作夥伴
+  - title: 合作夥伴安全性需求常見問題集
     itemType: overview
-    url: mpn-overview.md
+    url: partner-security-requirements-faq.md
   - title: 合作夥伴中心的全新商務體驗 – Azure 計畫
     itemType: whats-new
     url: azure-plan-lp.md
 conceptualContent:
   title: 合作夥伴中心內的工作
   items:
-  - title: 註冊並管理您的帳戶
+  - title: 登入並管理您的帳戶
     links:
     - url: mpn-create-a-partner-center-account.md
       itemType: how-to-guide
@@ -52,9 +52,9 @@ conceptualContent:
     - url: manage-locations.md
       itemType: how-to-guide
       text: 管理您的公司位置
-    - url: marketplace-rewards.md
+    - url: azure-plan-get-started.md
       itemType: how-to-guide
-      text: 管理 Marketplace 獎勵
+      text: 開始搭配 Azure 方案使用隨用隨付費率
     footerLink:
       url: partner-center-account-setup.md
       text: 查看更多
@@ -77,12 +77,12 @@ conceptualContent:
     - url: referrals.md
       itemType: how-to-guide
       text: 推薦和商務設定檔
-    - url: promotions.md
+    - url: manage-leads.md
       itemType: how-to-guide
-      text: 善用促銷活動
-    - url: get-special-pricing-for-offers.md
+      text: 管理潛在客戶查詢、行銷合格潛在客戶，以及銷售合格的潛在客戶
+    - url: manage-co-sell-opportunities.md
       itemType: how-to-guide
-      text: 銷售到特色產業
+      text: 管理共同銷售商機
     footerLink:
       url: grow-your-business.md
       text: 查看更多
@@ -130,6 +130,17 @@ conceptualContent:
       text: 查看更多
 additionalContent:
   sections:
+  - title: 主要工作和工具
+    items:
+    - title: 尚未成為合作夥伴？ 立即加入 Microsoft 合作夥伴網路。
+      summary: 與 Microsoft 生態系統進行連線。
+      url: https://partner.microsoft.com/membership
+    - title: 合作夥伴中心 API 和 SDK 參考資料
+      summary: 使用合作夥伴中心 SDK 來管理客戶、訂用帳戶和訂單資料。
+      url: https://docs.microsoft.com/partner-center/develop/
+    - title: 管理 Marketplace 獎勵
+      summary: Marketplace 獎勵會對您所有的供應項目提供行銷、銷售和技術優勢方面的針對性支援。
+      url: marketplace-rewards.md
   - title: 在 Azure 入口網站中工作
     items:
     - title: 計費和成本管理
@@ -156,14 +167,3 @@ additionalContent:
         url: https://docs.microsoft.com/azure/lighthouse/how-to/publish-managed-services-offers
       - text: 查看更多 >
         url: https://docs.microsoft.com/azure/lighthouse/
-  - title: 主要工作和工具
-    items:
-    - title: 取得 Microsoft 行動寶盒 (MAPS)
-      summary: 購買或續訂您的權益優惠，包括 Microsoft 行動寶盒訂用帳戶。
-      url: mpn-get-action-pack.md
-    - title: 合作夥伴中心 API 和 SDK 參考資料
-      summary: 使用合作夥伴中心 SDK 來管理客戶、訂用帳戶和訂單資料。
-      url: https://docs.microsoft.com/partner-center/develop/
-    - title: 保持聯繫
-      summary: 加入我們的 CSP Yammer 社區。
-      url: https://go.microsoft.com/fwlink/p/?linkid=851605
