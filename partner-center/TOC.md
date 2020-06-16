@@ -201,6 +201,7 @@
 ### [深入解析 - 專長認證報表](pci-competencies-report.md)
 ### [深入解析 - 權益報表](pci-benefits-report.md)
 ### [深入解析 - 已知問題](pci-known-issues.md)
+### [深入解析 - 下載報表](pci-download-reports.md)
 ## [合作夥伴貢獻指標](partner-contribution-indicators.md)
 ## [取得您客戶 Azure 訂閱使用狀況的相關資料](analyze-azure-usage.md)
 ## [分析間接經銷商績效](analyze-indirect-resellers.md)

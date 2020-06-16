@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/15/2020
-ms.openlocfilehash: 7c0571da2636459f791f3e569a897013bd3f36ca
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 43d8ab5cc0dc04ae3edbef9856865f21836eb23b
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749082"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788722"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -23,6 +23,7 @@ ms.locfileid: "84749082"
 | **類別** | **2020 年 6 月公告** | **公告** |
 |---------|:---------|:---------|
 | 功能 | [計費頻率預設從年度定期變更為每月](2020-june.md#4) | 6 月 17 日 |
+| 供應項目/市場 | [Microsoft 365 F1 的變更](2020-june.md#3) | 6 月 15 日 |
 | 功能 | [適用於雲端解決方案提供者的 Windows Server 軟體訂閱媒體重新整理](2020-june.md#2) | 6 月 12 日 |
 | 供應項目/市場 | [全新和生命週期結束 Microsoft Dynamics 365 和 Power 平台供應項目與產品](2020-june.md#1) | 6 月 11 日 |
 | 功能 | [在合作夥伴中心合併兩個或多個公司帳戶](https://docs.microsoft.com/partner-center/merge-accounts) | 6 月 9 日 |
