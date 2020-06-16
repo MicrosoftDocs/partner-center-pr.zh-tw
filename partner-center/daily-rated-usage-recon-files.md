@@ -1,19 +1,19 @@
 ---
 title: 每日評分的使用量對帳檔案
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 06/12/2020
 description: 瞭解如何在合作夥伴中心讀取每日分級的使用量對帳檔案。
 ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3536b1b71dd8378e88ac14726adcca7fa0e08530
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795588"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788802"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>瞭解如何讀取合作夥伴中心的每日評量使用量對帳檔案
 
@@ -30,6 +30,9 @@ ms.locfileid: "83795588"
 - 技術服務代理人
 
 本主題說明如何閱讀每日分級的使用量對帳檔案。
+
+>[!NOTE]
+>每日評分的使用量通常需要24小時才會出現在合作夥伴中心，或透過 API 存取。
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>每日分級使用量對帳檔案中的欄位
 
@@ -77,7 +80,7 @@ ms.locfileid: "83795588"
 | PricingCurrency | 價格清單中的貨幣。 |
 | ServiceInfo1 | 在指定一天布建和使用的服務匯流排連接數目。 |
 | ServiceInfo2 | 舊版欄位，可捕捉選擇性的服務特定中繼資料。 |
-| Tags | 代表使用者所設定之 Azure 資源的邏輯組織。 |
+| 標籤 | 代表使用者所設定之 Azure 資源的邏輯組織。 |
 | AdditionalInfo | 任何未涵蓋於其他資料行中的其他資訊。 |
 | EffectiveUnitPrice | 每個單位的實際值，包括任何折扣、取得的點數等。 |
 | PCToBCExchangeRate | 定價貨幣對計費貨幣的匯率。 |

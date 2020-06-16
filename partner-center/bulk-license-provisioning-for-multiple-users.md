@@ -1,7 +1,7 @@
 ---
-title: 指派或撤銷多個使用者的授權 | 合作夥伴中心
+title: 指派或撤銷多個使用者的授權
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何使用客戶帳戶，一次指派或撤銷授權和服務給一位使用者或多個使用者。
@@ -10,14 +10,15 @@ author: LauraBrenner
 ms.author: labrenne
 Keywords: 指派授權、撤銷授權、指派給多個使用者、
 ms.localizationpriority: medium
-ms.openlocfilehash: 795c23deeaaa119c4a248a1ae1835ae4396eb62a
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 6d3baeed12d26f273848fb144651475d304f8d36
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679095"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788688"
 ---
-# <a name="assign-or-revoke-licenses-to-multiple-users"></a>指派或撤銷多個使用者的授權
+# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>同時對客戶帳戶中的多個使用者指派或撤銷授權
 
 **適用於**
 

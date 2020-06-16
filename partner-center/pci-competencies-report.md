@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19165550cfcd9b6b62a548e7d21c1ee58df691dc
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 99eda121ac876be0d753b7d7f147b054562a844d
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679355"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776285"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>可從合作夥伴中心深入解析儀表板取得的專長認證報表
 
@@ -50,7 +50,7 @@ ms.locfileid: "84679355"
  > [!NOTE]
  > 您可以從 Insights 儀表板取得這份報表。 若要查看這份報告，您必須在合作夥伴中心指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，也只能供具備主管報表檢視器許可權的使用者使用。
 
-**Summmary**
+**摘要**
 
 [摘要] 視圖會針對專長認證生命週期的所有階段，顯示其名稱在每個專長認證層級（金/銀）中的能力計數。 專長認證生命週期的階段包括：**已啟動**、**合格** **、作用中且有****風險**。 範例：雲端專長認證需求分為兩類：技能和效能。
 

@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
-ms.openlocfilehash: d5252427ad35e33b391edfce2d4cd100dc33f5c1
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: f966406c0cc5e2bb427cd07a14755f41f1b55b28
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721624"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776275"
 ---
 # <a name="incentives-co-op-claims-overview"></a>獎勵合作宣告概觀
 
@@ -27,7 +27,7 @@ ms.locfileid: "74721624"
 - 獎勵管理員
 - 獎勵使用者
 
-當您參與其中一項 Microsoft 獎勵計畫（例如，合作夥伴獎勵合作行銷資金、線上服務顧問計畫或 Dynamics ISV 方案）時，您已針對您已完成的活動領取預付金額支援 Microsoft 產品感知。 您可以直接從合作夥伴中心提交宣告。 提交宣告前，不再需要先由 Microsoft 審查您的活動計畫。 請在宣告期限截止日期 (也就是使用期限結束後 45 天) 前提交您的宣告和必要文件。 
+當您參與其中一項 Microsoft 獎勵計畫（例如，合作夥伴獎勵合作行銷資金、線上服務顧問計畫或 Dynamics ISV 方案）時，您已針對支援 Microsoft 產品認知的活動領取預付金額。 您可以直接從合作夥伴中心提交宣告。 提交宣告前，不再需要先由 Microsoft 審查您的活動計畫。 提交您的宣告和所需的檔，不晚于宣告期限期限，這是使用期限結束後的45天。
 
 成功的宣告包括：
 
@@ -41,10 +41,10 @@ ms.locfileid: "74721624"
 
 |**進行此動作**   |**請閱讀本文**   |
 |-----------------|:--------------------------------------|
-|提交宣告，並包含正確的文件|[建立和管理獎勵計畫活動索賠](create-incentives-claims.md)|
-|提交宣告後，管理其他文件要求|[建立和管理獎勵計畫活動索賠](create-incentives-claims.md)  |
-|確定您知道活動宣告的核心要求|[瞭解獎勵宣告核心需求](core-requirements.md)   |
-|了解完整的獎勵計畫詳細資料|[合作夥伴獎勵共同作業 Guidebook](https://assets.microsoft.com/coop-guidebook.pdf)
+|提交宣告，並包含正確的文件|[建立和管理獎勵計畫活動宣告](create-incentives-claims.md)|
+|提交宣告之後，請管理其他檔要求|[建立和管理獎勵計畫活動宣告](create-incentives-claims.md)  |
+|確定您知道活動宣告的核心要求|[了解獎勵宣告核心要求](core-requirements.md)   |
+|了解完整的獎勵計畫詳細資料|[合作夥伴獎勵合作指南](https://assets.microsoft.com/coop-guidebook.pdf)
 |建立客戶關聯並提交宣告 |[使用 CPOR 模型建立客戶關聯](submit-osa-claim.md)|
                                                                                  
                                    

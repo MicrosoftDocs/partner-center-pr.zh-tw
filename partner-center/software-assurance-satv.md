@@ -1,20 +1,21 @@
 ---
-title: 合作夥伴中心的軟體保證訓練憑券 (SATV) 計畫 | 合作夥伴中心
+title: 軟體保證訓練憑證計畫
 ms.topic: article
-ms.date: 03/24/2020
+ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在軟體保證訓練計畫中註冊的詳細資料，讓您可以獲得報酬，將訓練和規劃提供給企業客戶。
+description: 瞭解如何註冊軟體保證訓練券計畫，讓您可以獲得報酬，將訓練和規劃提供給企業客戶。
 author: LauraBrenner
 ms.author: labrenne
 keywords: 訓練憑券, 軟體保證, 訓練, 註冊 SATV, SATV
 ms.localizationpriority: medium
-ms.openlocfilehash: d3d961d7cd4a1a26d07991fea6080a4d5c1d1d28
-ms.sourcegitcommit: f9c5c11258d5c827bb6fbbb31bc26ba70c346f11
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 0d14a588e24488b4d45b52540e8d749cbf8bdbad
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "80296417"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788792"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作夥伴中心的軟體保證訓練憑券 (SATV) 計畫
 
@@ -39,13 +40,13 @@ ms.locfileid: "80296417"
 
 ## <a name="confirm-program-eligibility"></a>確認計畫資格
 
-在可以註冊 SATV 計畫之前，您必須先完成 Microsoft 合作夥伴網路學習選項的需求，該選項將取代 Microsoft Learning 專長認證。 在[學習選項](https://partner.microsoft.com/membership/learning-partners)中瞭解如何開始使用。
+您必須先完成 [Microsoft 合作夥伴網路學習] 選項的需求 (會取代 Microsoft 學習專長認證)，才能夠註冊 SATV 方案。 瞭解如何在[學習選項](https://partner.microsoft.com/membership/learning-partners)中開始使用。
 
-您可以在合作夥伴中心驗證貴公司的資格，包括適用的專長認證和評量需求。 遵循 SATV 工作流程[步驟 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)中的指示，以取得更多詳細資料和螢幕擷取畫面。
+您可以在合作夥伴中心驗證貴公司的資格，包括適用的專長認證和評量需求。 請依照 SATV 工作流程[步驟 1](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 中的指示，取得更多詳細資料和螢幕擷取畫面。
 
 ## <a name="enroll-in-the-training-program"></a>註冊訓練計畫
 
-當您的公司符合資格需求，且您的計畫參與者通過合規性訓練課程之後，您就可以簽署軟體保證訓練券計畫合約並進行註冊。 請務必查看所有[SATV 方案原則](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)，然後依照工作流程[步驟 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)中的指示，完成合作夥伴中心的 SATV 註冊程式。
+當您的公司符合資格需求，且您的方案參與者通過合規性訓練課程之後，您就可以簽署軟體保證訓練憑券方案合約並進行註冊。 請務必查看所有[SATV 方案原則](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)，然後依照工作流程[步驟 2](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)中的指示，完成合作夥伴中心的 SATV 註冊程式。
 
 
 ## <a name="confirm-course-eligibility"></a>確認課程資格
@@ -53,7 +54,7 @@ ms.locfileid: "80296417"
 
 ## <a name="have-customer-create-and-assign-voucher"></a>讓客戶建立並指派憑券
 
-進行訓練之前，您的客戶必須先啟用其 SATV 權益，然後將其指派給您的組織。 如需螢幕擷取畫面的詳細指示，顯示您的客戶必須採取的步驟，才能建立憑證並將它指派給您，請參閱工作流程的[步驟 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
+進行訓練之前，您的客戶必須先啟用其 SATV 權益，然後將其指派給您的組織。 如需顯示客戶建立憑證並將其指派給您的步驟所需採取的詳細指示，請參閱工作流程的[步驟 4](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
 
 ## <a name="validate-and-reserve-customer-vouchers"></a>驗證並保留客戶憑券
 

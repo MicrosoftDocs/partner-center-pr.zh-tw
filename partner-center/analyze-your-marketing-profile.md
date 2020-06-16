@@ -1,21 +1,22 @@
 ---
-title: 分析您的商務設定檔 |合作夥伴中心
+title: 分析您的商務設定檔
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何使用 [商務設定檔深入解析] 頁面，查看您的目標客戶和產生參考的觀點。
-author: JnHs
-ms.author: jenhayes
+author: LauraBrenner
+ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f5be1a1d447adc344c7564bf1f13e015895de94
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 974258f5cfbb0a017d75c8f30a855cb4a23ce39a
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722354"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788745"
 ---
-# <a name="analyze-your-business-profile"></a>分析您的商務設定檔
+# <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>分析您的商務設定檔-瞭解您對目標客戶和潛在推薦的吸引程度
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -37,7 +38,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 [合作夥伴中心] 的 [**商務設定檔深入**解析] 頁面可讓您查看您的目標客戶與產生參考的關注程度。
 
-若要查看您的參考深入解析資料，請從 合作夥伴中心 功能表移至 **參考 > 商務設定檔深入**解析。 您的資料會顯示設定檔績效、分析趨勢，以及辨識需要有所動作的區域。
+若要查看您的參考深入解析資料，請從 [合作夥伴中心] 功能表移至 [**參考] > 商務設定檔深入**解析]。 您的資料會顯示設定檔績效、分析趨勢，以及辨識需要有所動作的區域。
 
 在靠近 [**商務設定檔深入**解析] 頁面頂端的地方，您可以選取要顯示資料的時間週期。 預設選項是 [ **30D** （30天）]，但您可以選擇將資料顯示為3或6個月的時間。 包含所有區域的資料。
 

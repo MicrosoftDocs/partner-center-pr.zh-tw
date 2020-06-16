@@ -1,19 +1,21 @@
 ---
-title: 註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫 |美國政府適用的 Microsoft Cloud 合作夥伴中心
+title: 註冊雲端解決方案提供者計畫
 ms.topic: article
-ms.date: 11/27/2019
+titleSuffix: Microsoft Cloud for US Government - Partner Center
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在您註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫之前，請先深入了解 CSP 計畫需求。
+description: 瞭解適用于想要為美國政府 Microsoft Cloud 註冊雲端解決方案提供者方案之合作夥伴的 CSP 計畫需求。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 9b9de82652543843b09dfdb00829c7911c20c572
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 060fd94567c84e7c1652fb538cc1786d8b807787
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798366"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788782"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
@@ -81,7 +83,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
  
 ## <a name="connect-with-us"></a>與我們連絡
 
-- 有疑問嗎？ 電子郵件請寄到 azgovcsp@microsoft.com
+- 有問題嗎？ 電子郵件請寄到 azgovcsp@microsoft.com
 
 - 在 [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777&view=all) 上加入我們。 
 

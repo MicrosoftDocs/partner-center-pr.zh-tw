@@ -9,12 +9,12 @@ ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 2e2cbe4b6f5418cea4d992b9e68daa7e0ed3ec09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453255"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788772"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM 的共同銷售連接器 – 概觀
 
@@ -29,7 +29,7 @@ ms.locfileid: "84453255"
 
 ## <a name="before-you-install---pre-requisites"></a>安裝之前的必要條件
 
-|**主題**   |**詳細資料**   |**連結**   |
+|**一些**   |**詳細資料**   |**相關**   |
 |--------------|--------------------|------|
 |Microsoft 合作夥伴網路識別碼 |您需要有效的 MPN 識別碼|加入[MPN](https://partner.microsoft.com/)|
 |共同銷售準備就緒|您的 IP/服務解決方案必須共同銷售。|[與 Microsoft 一起銷售](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -233,12 +233,12 @@ Salesforce CRM 系統管理員使用者將需要建立個別的 CRM 區段。
 
    |**欄位標籤**   |**欄位名稱**|**Data type**|**編制**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |稽核|  Audit__c|長文字區域（100000）（顯示行4）||
-   |Microsoft 如何提供協助？|H ow_can_Microsoft_help__c|清單|
-   |產品|產品-c|文字（255）||
-   |轉介 |  Referral_Identi fier__c|文字（100）（外部識別碼）|是|
-   |參考連結|   Referral_Link__c_|URL （255）||
-   |與合作夥伴的 & 同步|同步處理-合作夥伴-中心-c|核取方塊（預設為未核取）||
+   |稽核| Audit__c|長文字區域（100000）（顯示行4）||
+   |Microsoft 如何提供協助？|How_can_Microsoft_help_c|清單|
+   |產品|Products_c|文字（255）||
+   |轉介 | Referral_Identfier_c|文字（100）（外部識別碼）|是|
+   |參考連結| Referral_Link_c_|URL （255）||
+   |與合作夥伴中心同步|sync_with_partner_center_c|核取方塊（預設為未核取）||
 
    * 挑選清單值：
 

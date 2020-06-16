@@ -1,7 +1,7 @@
 ---
-title: 合作夥伴的點數計算方式 |合作夥伴中心
+title: 如何計算合作夥伴的點數
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 Azure 方案的合作夥伴贏得點數（PEC）層面的計算方式。 這包括合作夥伴和間接提供者的資格需求。
@@ -9,19 +9,20 @@ ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: aee60449a31cf1908912cc1fa62e2bf2c003f998
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 70c17a2fe4a2f61745d04a62d680a3b523f85fa4
+ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721730"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84788732"
 ---
-# <a name="how-the-partner-earned-credit-pec-is-calculated"></a>如何計算合作夥伴的點數（PEC）
+# <a name="how-partner-earned-credit-pec-is-calculated-for-partners-in-the-cloud-solution-provider-program"></a>針對雲端解決方案提供者方案中的合作夥伴，如何計算合作夥伴的點數（PEC）
 
 **適當的角色**
 
 - 全域系統管理員
-- 帳單管理
+- 帳務管理員
 
 擁有雲端的全天候 IT 營運管理或其客戶在 CSP 中整個 Azure 環境的合作夥伴，會獲得 PEC 的獎勵。 PEC 會當做發票的一部分提供給與 Microsoft 直接計費關係的合作夥伴。 每日會計算點數，並反映在每月發票中。 根據預設，在 CSP 中，合作夥伴會被授與客戶訂用帳戶所需的存取權限，讓他們能夠全天候進行作業管理，並控制訂用帳戶上的資源。 下一節將說明客戶可以布建交易合作夥伴存取權的其他方式。
 
@@ -46,7 +47,7 @@ ms.locfileid: "74721730"
 
 如需取得管理 Azure 訂用帳戶的存取權，以及如何將您的 MPN ID 連結至 RBAC 角色的詳細資訊，請參閱[管理 azure 方案下的訂用帳戶和資源](azure-plan-manage.md)。
 
-其他資訊
+取得詳細資訊
 
 - [Azure 方案-計費](azure-plan-billing.md)
 
