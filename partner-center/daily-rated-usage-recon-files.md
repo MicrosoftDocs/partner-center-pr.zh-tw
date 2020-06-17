@@ -8,12 +8,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34798a2be0e82c8cc8c328c9a95d9d9e4b57551f
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 8b89efd0cb24fb8aa08160bc6b554c5c2823ba2b
+ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788802"
+ms.lasthandoff: 06/16/2020
+ms.locfileid: "84811578"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>瞭解如何讀取合作夥伴中心的每日評量使用量對帳檔案
 
@@ -57,7 +57,7 @@ ms.locfileid: "84788802"
 | SubscriptionDescription | 客戶購買的服務優惠名稱，如價目表中所定義。 （這是與**OfferName**相同的欄位）。 |
 | SubscriptionId | Microsoft 計費平台中訂用帳戶的唯一識別碼。 不用於對帳。 *此識別碼與合作夥伴系統管理員主控台上的訂用帳戶**ID**不同。* |
 | ChargeStartDate | 計費週期的開始日期（除了向先前的計費週期中呈現先前不收費潛在使用量資料的日期以外）。 此時間一律為第一天的開始時間，即 0:00。 |
-| ChargeEndDate | 計費週期的結束日期（除了向先前的 biling 迴圈呈現先前不收費潛在使用量資料的日期以外）。 時間一律是一天的結束時間 (23:59)。 |
+| ChargeEndDate | 計費週期的結束日期（除了向先前的計費週期中呈現先前不收費潛在使用量資料的日期以外）。 時間一律是一天的結束時間 (23:59)。 |
 | UsageDate | 服務使用量的日期。 |
 | MeterType | 計量的類型。 |
 | MeterCategory | 使用量的最上層服務。 |
@@ -88,3 +88,8 @@ ms.locfileid: "84788802"
 | EntitlementId | 代表 Azure 訂用帳戶識別碼。 |
 | EntitlementDescription | 代表 Azure 訂用帳戶識別碼的名稱。 |
 | PartnerEarnedCreditPercentage | 顯示行專案的 PartnerEarnedCredit。 獲得的點數會是0或15% |
+
+>[!NOTE]
+>每日評分的使用量通常需要24小時才會出現在合作夥伴中心，或透過 API 存取。
+
+
