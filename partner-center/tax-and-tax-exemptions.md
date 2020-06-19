@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 description: 針對 CSP 方案合作夥伴，請瞭解每個區域的稅務責任、如何提交 CSP 銷售的稅金豁免，以及如何取得稅務問題的支援。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 3D78EB70-68BC-4C12-B9B7-DB4743E24501
 author: LauraBrenner
 keywords: 稅金，免稅，vat，轉銷商，帳單
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a25ddebe1417377005a97534ac2f1b6556e68cd6
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84458294"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991792"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>依照 CSP 計畫中的合作夥伴區域或國家/地區，閱讀有關稅金和免稅明細的詳細資訊
 
@@ -37,7 +36,7 @@ ms.locfileid: "84458294"
 
 如有其他問題，請[在合作夥伴中心要求支援](#support)。
 
-### <a name="canada"></a>加拿大
+### <a name="canada"></a>Canada
 
 大部分經銷商不能於 GST/HST/QST 免稅。 請洽詢您的稅務顧問，以判斷您是否符合豁免資格，以及應提供給 Microsoft 的檔。
 

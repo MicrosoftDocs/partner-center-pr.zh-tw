@@ -5,18 +5,17 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何協助客戶變更與該客戶的 Azure 訂用帳戶相關聯的 CSP 方案合作夥伴。
-ms.assetid: 42D1D9AB-613D-4FC1-A846-EE769923E699
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: eddab485d222bb8d0c5aae7cd977b6c85a418051
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: ba07f99301ddcbcb6f274bb1c603f14928d05257
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425894"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992127"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>瞭解如何將客戶的 Azure 訂用帳戶轉移給另一個合作夥伴
 

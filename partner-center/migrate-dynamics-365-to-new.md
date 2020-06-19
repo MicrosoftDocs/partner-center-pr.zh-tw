@@ -5,18 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何將合格的 Dynamics 365 Business Edition 供應專案在到期前遷移至較新的版本。
-ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Dynamics 365 優惠，續約優惠，新的 Dynamics 365 Sku
-ms.openlocfilehash: d49966db4a2c9de50b0723abf9ccd0fe589a442a
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 9675f607d183c5d427371de4f09f088fd267c573
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795973"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992085"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>將 Dynamics 365 商務版提供移轉至較新版本
 
@@ -66,7 +65,7 @@ Dynamics 365 Business Edition 客戶有資格在2020年6月30日前獲得新的�
 2. 選取 [**使用者和授權**]。
 3. 若要將授權重新指派給使用者，請選取使用者，然後選取 [**管理授權**]。 
 4. 在 [**管理授權**] 頁面上，清除 [基本（限定供應專案）授權] 核取方塊中的 [Dynamics 365 for Sales/Customer Engagement 方案]，然後為客戶即將移動的訂用帳戶選取新的服務方案。 
-5. 選取 [提交]  。 您將針對需要新授權的每位使用者執行此動作。 
+5. 選取 [提交]。 您將針對需要新授權的每位使用者執行此動作。 
 
 將授權移到新的訂用帳戶之後，您就可以取消舊的訂用帳戶。 
 

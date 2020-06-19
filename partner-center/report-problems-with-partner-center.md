@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 如何報告合作夥伴中心的問題並收集要提供給支援小組的診斷資訊。
-ms.assetid: 33FB8449-0A8B-48B4-8CB3-A297104F40B0
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c43c4b452c7df7f28869ead32e60c8e7f2fa512a
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: af6721d9e2d7e7b5f30232c578131da72409e1de
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467388"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992034"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何報告合作夥伴中心的問題，並提交任何記錄或診斷資訊
 

@@ -5,16 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作夥伴中心與您的 Salesforce CRM 同步處理您的參考
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: ab70766e0bc20b170a1fb9c12a9bea0e6268b06d
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788772"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991617"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM 的共同銷售連接器 – 概觀
 
@@ -29,7 +28,7 @@ ms.locfileid: "84788772"
 
 ## <a name="before-you-install---pre-requisites"></a>安裝之前的必要條件
 
-|**一些**   |**詳細資料**   |**相關**   |
+|**主題**   |**詳細資料**   |**連結**   |
 |--------------|--------------------|------|
 |Microsoft 合作夥伴網路識別碼 |您需要有效的 MPN 識別碼|加入[MPN](https://partner.microsoft.com/)|
 |共同銷售準備就緒|您的 IP/服務解決方案必須共同銷售。|[與 Microsoft 一起銷售](https://partner.microsoft.com/membership/sell-with-microsoft)| 
@@ -235,7 +234,7 @@ Salesforce CRM 系統管理員使用者將需要建立個別的 CRM 區段。
    |---------------------|:-------------------|:--------------|:----------------|
    |稽核| Audit__c|長文字區域（100000）（顯示行4）||
    |Microsoft 如何提供協助？|How_can_Microsoft_help_c|清單|
-   |產品|Products_c|文字（255）||
+   |Products|Products_c|文字（255）||
    |轉介 | Referral_Identfier_c|文字（100）（外部識別碼）|是|
    |參考連結| Referral_Link_c_|URL （255）||
    |與合作夥伴中心同步|sync_with_partner_center_c|核取方塊（預設為未核取）||

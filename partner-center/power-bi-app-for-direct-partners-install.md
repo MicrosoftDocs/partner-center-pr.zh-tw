@@ -10,12 +10,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e2a1d17a7520cca1a6e1da540cc58d2d365d8cb
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 36efc58198be67181ed448d90db505889c3070d4
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679305"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072414"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>安裝和預覽適用於 Microsoft Power BI 的合作夥伴中心分析應用程式
 
@@ -62,7 +62,7 @@ ms.locfileid: "84679305"
 
 5. 在下一個頁面上，輸入您的 Power BI 的使用者名稱和密碼，然後選取 \[登入\]。
 
-6. 藉由提供 workspacename 來安裝工作區。
+6. 藉由提供工作區名稱來安裝工作區。
 
 7. 您可以在 [應用程式] 區段中找到已安裝的範本應用程式。
 

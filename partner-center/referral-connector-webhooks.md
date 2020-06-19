@@ -5,18 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用合作夥伴中心 Webhook Api 來瞭解 Dynamics 365 CRM 或 Salesforce CRM 何時會發生參考的資源變更。
-ms.assetid: c6fca2c0-2e6c-41b1-9be8-b363b139f15b
 author: LauraBrenner
 ms.author: labrenne
 keywords: 參考，webhook api，資源變更事件
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89628fd6ccab6a943d8bd816afa7b5d3b0f241f7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 6d3cf5a4049f96f7eebce8d23c33ca79ad352ce5
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749175"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991894"
 ---
 # <a name="use-webhook-apis-to-register-for-resource-change-events-for-dynamics-365-crm-and-salesforce-crm"></a>使用 Webhook Api 來註冊 Dynamics 365 CRM 和 Salesforce CRM 的資源變更事件
 

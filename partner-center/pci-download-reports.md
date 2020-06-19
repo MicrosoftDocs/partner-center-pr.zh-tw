@@ -10,12 +10,12 @@ ms.author: labrenne
 Keywords: 合作夥伴中心深入解析，報表，下載報表
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d97e21c8ca68f2a93bec949f948d24726d9f6231
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.openlocfilehash: 3e1b816f2611507370dcf1a120c84d26a1e13bd9
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84793174"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072452"
 ---
 # <a name="download-reports"></a>下載報表
 
@@ -37,7 +37,8 @@ ms.locfileid: "84793174"
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="產生的報表":::
 
->下只有執行報表檢視器的使用者可以下載報表。 如需深入瞭解如何以角色為基礎的見解儀表板報表存取，請參閱[PCI 角色](pci-roles.md)。 
+>[!NOTE] 
+>只有執行報表檢視器的使用者可以下載報表。 如需深入瞭解如何以角色為基礎的見解儀表板報表存取，請參閱[PCI 角色](pci-roles.md)。 
 
 ## <a name="available-reports"></a>可用的報表
 

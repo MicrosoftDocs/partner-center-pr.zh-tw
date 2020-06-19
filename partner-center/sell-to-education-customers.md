@@ -5,18 +5,17 @@ ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 913e31aa-21b9-447c-988c-7487d82b3c4f
 author: LauraBrenner
 ms.author: labrenne
 keywords: 教育，特殊區段
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24100c6316eb2f4d957562163e1daf0ba15119be
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 0b0b576348ed3c703fe517bbeef6271e3dcade08
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453295"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992168"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何銷售供應專案給教育客戶 & 如何在合作夥伴中心建立教育客戶
 
@@ -84,7 +83,7 @@ ms.locfileid: "84453295"
 
 4. 您會在瀏覽器的新索引標籤上，將您重新導向至 Office 365 系統管理中心。 系統可能會要求您使用您的認證登入。
 
-5. 選取 [Settings] \(設定) 。
+5. 選取 [設定]。
 
 6. 選取畫面頂端的 [**組織設定檔**] 索引標籤，然後選取 [**組織資訊**]。 您現在可以更新客戶詳細資料。
 

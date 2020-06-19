@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何重設您的合作夥伴中心密碼，或從貴公司的全域管理員取得協助。此外，請瞭解如何新增合作夥伴中心的全域管理員。
-ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9109fffbbf9d636aaafc57b7d441a4556e820d2e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 2b18e28170dcf51d1a2dc36134fb5ad404f18502
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467348"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991989"
 ---
 # <a name="reset-my-password"></a>重設密碼
 

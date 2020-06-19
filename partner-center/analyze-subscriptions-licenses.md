@@ -6,17 +6,16 @@ ms.subservice: partnercenter-csp
 Description: 瞭解如何使用 [訂用帳戶和授權分析] 頁面中的計量，來識別您的成功和需要注意的區域。
 author: LauraBrenner
 ms.author: labrenne
-ms.assetid: 1922FCE8-3A89-44ED-B4E1-BFCD2326BB06
 ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 494ef694410f193e3b76e476e5a6571b7ecf27e0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 671d0bed6a8d3a71aa641fde296ead6c665dce3f
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722367"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991023"
 ---
 # <a name="analyze-subscriptions-and-licenses"></a>分析訂閱與授權 
 
@@ -59,23 +58,23 @@ ms.locfileid: "74722367"
  - **訂閱計數**：依售出訂閱排序的前 5 大產品  
  - **授權計數**：依售出授權排序的前 5 大產品
 
-**訂用帳戶保留期**
+**訂閱保留**
  - **已續約的訂閱**：在過去 30 天內續約的訂閱  
 
-**訂用帳戶流失**  
+**訂閱流失**  
  - **新訂閱**：在時段內新訂閱的計數，不含試用供應項目  
  - **取消佈建的訂閱**：依日期的取消佈建或暫停訂閱計數  
 
-**暫止的訂閱**  
+**暫停的訂閱**  
  - 狀態為**已暫停**的所有訂閱清單，不含試用供應項目  
   
-**有效訂閱**
+**使用中訂閱**
  - 所有使用中訂閱的清單  
 
-**試用訂用帳戶轉換**  
+**試用訂閱轉換**  
  - **試用轉換**：在指定的時段中，試用版轉換為付費版的所有**使用中**訂閱計數  
 
-**試用版訂閱將于30天后結束**  
+**試用訂閱在 30 天內結束**  
  - 結束日期在 30 天內，且訂閱沒有相關的付費開始日期的已開始試用清單  
 
   

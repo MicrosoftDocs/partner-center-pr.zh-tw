@@ -5,18 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何從合格的基本 Dynamics 365 訂閱遷移至新的訂用帳戶，然後再讓現有的訂閱過期。
-ms.assetid: 79787bef-a6e9-4c11-8c3b-f0a77485c0a4
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Dynamics 365 優惠，續約優惠，新的 Dynamics 365 Sku
-ms.openlocfilehash: cac5717a1f7b27537faa694dcf665a69a7226483
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 1fb7a58d3c777f39bdd3594d6d2bc0be04fbf573
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795996"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992101"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>將 Dynamics 365 和 Customer Engagement Plan 從基本 （合格的供應項目） 移轉至較新版本
 
@@ -101,7 +100,7 @@ ms.locfileid: "83795996"
 2. 選取 [**使用者和授權**]。
 3. 若要將授權重新指派給使用者，請選取使用者，然後選取 [**管理授權**]。 
 4. 在 [**管理授權**] 頁面上，清除 [基本（限定供應專案）授權] 核取方塊中的 [Dynamics 365 for Sales/Customer Engagement 方案]，然後為客戶即將移動的訂用帳戶選取新的服務方案。 
-5. 選取 [提交]  。 您將針對需要新授權的每位使用者執行此動作。 
+5. 選取 [提交]。 您將針對需要新授權的每位使用者執行此動作。 
 
 將授權移到新的訂用帳戶之後，您就可以取消舊的訂用帳戶。 
 

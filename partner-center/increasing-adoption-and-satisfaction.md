@@ -5,17 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心使用計量。 計量可以顯示您的業務是否成長、客戶使用其授權的方式，以及要將投資放在何處。
-ms.assetid: AFA6539F-F8DE-410B-9409-886FCDC2A940
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aef7142b94d446d149a4cb5930c422197347a0f0
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794868"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992111"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作夥伴中心的計量來增加採用和滿意度
 
@@ -60,7 +59,7 @@ ms.locfileid: "83794868"
 
 - **使用量 %** = 作用中的權益/總權益
 
-   有時使用量 % 會比實際多，或大於 100%。 此狀況有幾個可能原因：
+   有時使用量 % 會比實際多，或大於 100%。 這種情形可能由幾種原因所造成：
 
    - 客戶有員工流動，因此受權移轉給新的使用者。
 

@@ -5,18 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何查看和匯出活動記錄，以深入瞭解客戶帳戶交易和其他客戶相關的合作夥伴管理活動。
-ms.assetid: 2e8ea634-9f76-4005-9274-e104170c2ed5
 author: LauraBrenner
 ms.author: labrenne
 Keywords: activity logs,subscription, subscriptions, payments, billing, transactions, 活動記錄, 訂用帳戶, 付款, 帳單, 交易
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ec37ded4c37972884f5d7eaf906792ec46e33af
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: cfef9a4e6c68496ffbe9e9f6abc25629e2d2eb73
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794971"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991161"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>查看或匯出客戶活動記錄，以深入瞭解客戶交易
 
@@ -29,7 +28,7 @@ ms.locfileid: "83794971"
 **適當的角色**
 
 - 全域系統管理員
-- 帳單系統管理員
+- 帳務管理員
 - 使用者管理系統管理員
 - 系統管理代理人
 - 銷售代理人

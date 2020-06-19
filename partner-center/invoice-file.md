@@ -3,18 +3,17 @@ title: 瞭解帳單發票中的欄位
 ms.topic: article
 ms.date: 05/18/2020
 description: 瞭解發票檔案中合作夥伴中心計費的欄位。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 keywords: 帳單，發票
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f546174ee80c90695ec11f09e9cd1d5fdd4c4e46
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 609860227f11c9d4bc2806d87ac7e595e503bf07
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794867"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991970"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>合作夥伴中心帳單發票-瞭解如何閱讀帳單和一次性費用欄位
 
@@ -60,8 +59,8 @@ ms.locfileid: "83794867"
 
 | 欄位 | 定義 |
 | ----- | ---------- |
-| 日期 | 購買日期。 |
-| Description | 產品名稱。 |
+| Date | 購買日期。 |
+| 描述 | 產品名稱。 |
 | 數量 | 購買的產品數（例如保留）。 |
 | 單位價格 | 每個產品的價格（例如保留）。 |
 | 折扣 | 適用的任何折扣。 |

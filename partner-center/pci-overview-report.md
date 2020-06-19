@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 請參閱使用授權、訂用帳戶和 Azure 耗用量來進行銷售和部署、客戶成長和收益成長的快照集。
-ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI，效能，客戶成功，測量，
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e96b928e5221f34e9a16d430e079d02882263d1
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 5968172737e057787f1d17f6cb231106b7efd60a
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679345"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991937"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>概述合作夥伴中心深入解析中可用的儀表板報表
  

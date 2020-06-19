@@ -5,18 +5,17 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解查看合作夥伴中心深入解析報告所需的特定角色。 這些包括執行報表檢視器和報表檢視器的角色。
-ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
 keywords: PCI，效能，客戶成功，測量，角色
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e20cc9c37ef68fcd1ca0ab22b2012fdd0b35149
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: f17c775736767eb5df5c76e983071f248db8bf76
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452695"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84992071"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>合作夥伴中心深入解析儀表板的角色型存取控制
 
