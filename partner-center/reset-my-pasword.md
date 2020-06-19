@@ -5,34 +5,33 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何重設您的合作夥伴中心密碼，或從貴公司的全域管理員取得協助。此外，請瞭解如何新增合作夥伴中心的全域管理員。
-ms.assetid: E7F1F68D-25E5-46C5-9C98-1D0A9FAB7993
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9109fffbbf9d636aaafc57b7d441a4556e820d2e
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 2b18e28170dcf51d1a2dc36134fb5ad404f18502
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467348"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991989"
 ---
-# <a name="reset-my-password"></a><span data-ttu-id="4a310-103">重設密碼</span><span class="sxs-lookup"><span data-stu-id="4a310-103">Reset my password</span></span>
+# <a name="reset-my-password"></a><span data-ttu-id="32f51-103">重設密碼</span><span class="sxs-lookup"><span data-stu-id="32f51-103">Reset my password</span></span>
 
-<span data-ttu-id="4a310-104">如果您不記得您的合作夥伴中心密碼，可以將它重設。</span><span class="sxs-lookup"><span data-stu-id="4a310-104">If you can't remember your Partner Center password, you can reset it.</span></span>
+<span data-ttu-id="32f51-104">如果您不記得您的合作夥伴中心密碼，可以將它重設。</span><span class="sxs-lookup"><span data-stu-id="32f51-104">If you can't remember your Partner Center password, you can reset it.</span></span>
 
-## <a name="to-reset-your-partner-center-password"></a><span data-ttu-id="4a310-105">重設您的合作夥伴中心密碼</span><span class="sxs-lookup"><span data-stu-id="4a310-105">To reset your Partner Center password</span></span>
+## <a name="to-reset-your-partner-center-password"></a><span data-ttu-id="32f51-105">重設您的合作夥伴中心密碼</span><span class="sxs-lookup"><span data-stu-id="32f51-105">To reset your Partner Center password</span></span>
 
-<span data-ttu-id="4a310-106">您的全域管理員必須設定自己的密碼重設功能。</span><span class="sxs-lookup"><span data-stu-id="4a310-106">Your Global admin must have set up the ability for you to reset your password yourself.</span></span> <span data-ttu-id="4a310-107">（如果您的全域系統管理員尚未設定此專案，您必須要求他們為[您重設密碼](reset-a-user-password.md)）。</span><span class="sxs-lookup"><span data-stu-id="4a310-107">(If your Global admin hasn't set this up yet, you will have to ask them to [reset your password for you](reset-a-user-password.md).)</span></span>
+<span data-ttu-id="32f51-106">您的全域管理員必須設定自己的密碼重設功能。</span><span class="sxs-lookup"><span data-stu-id="32f51-106">Your Global admin must have set up the ability for you to reset your password yourself.</span></span> <span data-ttu-id="32f51-107">（如果您的全域系統管理員尚未設定此專案，您必須要求他們為[您重設密碼](reset-a-user-password.md)）。</span><span class="sxs-lookup"><span data-stu-id="32f51-107">(If your Global admin hasn't set this up yet, you will have to ask them to [reset your password for you](reset-a-user-password.md).)</span></span>
 
-1. <span data-ttu-id="4a310-108">在 [登**入**] 畫面上，選取 [**無法存取您的帳戶？** ]，然後選取 **[下一步]**。</span><span class="sxs-lookup"><span data-stu-id="4a310-108">On the **Sign in** screen, select **Can't access your account?** and then select **Next**.</span></span>
+1. <span data-ttu-id="32f51-108">在 [登**入**] 畫面上，選取 [**無法存取您的帳戶？** ]，然後選取 **[下一步]**。</span><span class="sxs-lookup"><span data-stu-id="32f51-108">On the **Sign in** screen, select **Can't access your account?** and then select **Next**.</span></span>
 
-2. <span data-ttu-id="4a310-109">選取 [**公司或學校帳戶**]。</span><span class="sxs-lookup"><span data-stu-id="4a310-109">Select **Work or school account**.</span></span>
+2. <span data-ttu-id="32f51-109">選取 [**公司或學校帳戶**]。</span><span class="sxs-lookup"><span data-stu-id="32f51-109">Select **Work or school account**.</span></span>
 
-3. <span data-ttu-id="4a310-110">接下來，系統會要求您輸入您的使用者識別碼和圖片或音訊中的字元。</span><span class="sxs-lookup"><span data-stu-id="4a310-110">You are next asked to enter your user ID and the characters in the picture or audio.</span></span> <span data-ttu-id="4a310-111">然後選取 [下一步]。</span><span class="sxs-lookup"><span data-stu-id="4a310-111">Then select **Next**.</span></span>
+3. <span data-ttu-id="32f51-110">接下來，系統會要求您輸入您的使用者識別碼和圖片或音訊中的字元。</span><span class="sxs-lookup"><span data-stu-id="32f51-110">You are next asked to enter your user ID and the characters in the picture or audio.</span></span> <span data-ttu-id="32f51-111">然後選取 [下一步]。</span><span class="sxs-lookup"><span data-stu-id="32f51-111">Then select **Next**.</span></span>
 
-4. <span data-ttu-id="4a310-112">設定新密碼。</span><span class="sxs-lookup"><span data-stu-id="4a310-112">Set up your new password.</span></span>
+4. <span data-ttu-id="32f51-112">設定新密碼。</span><span class="sxs-lookup"><span data-stu-id="32f51-112">Set up your new password.</span></span>
 
-## <a name="if-your-global-admin-has-left-the-company"></a><span data-ttu-id="4a310-113">如果您的全域系統管理員已離開公司</span><span class="sxs-lookup"><span data-stu-id="4a310-113">If your Global admin has left the company</span></span>
+## <a name="if-your-global-admin-has-left-the-company"></a><span data-ttu-id="32f51-113">如果您的全域系統管理員已離開公司</span><span class="sxs-lookup"><span data-stu-id="32f51-113">If your Global admin has left the company</span></span>
 
-<span data-ttu-id="4a310-114">如果您的全域系統管理員已離開貴公司，或已移至另一個角色，而您需要新增全域系統管理員，則必須在[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/commercial#/)上記錄服務要求。</span><span class="sxs-lookup"><span data-stu-id="4a310-114">If your Global admin has left your company or moved onto another role and you need to add a new Global admin, you have to log a service request on the [Microsoft Partner Network portal](https://partner.microsoft.com/commercial#/).</span></span> <span data-ttu-id="4a310-115">如果您的要求者能夠提供必要的個人身分識別資訊，並提供貴公司的其他相關資訊，則支援代理程式可以將使用者的權限提高為全域管理員。</span><span class="sxs-lookup"><span data-stu-id="4a310-115">The support agent can request elevation of a user to Global admin if your requestor is able to provide the requisite personal identity information and provide additional information about your company.</span></span>
+<span data-ttu-id="32f51-114">如果您的全域系統管理員已離開貴公司，或已移至另一個角色，而您需要新增全域系統管理員，則必須在[Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/commercial#/)上記錄服務要求。</span><span class="sxs-lookup"><span data-stu-id="32f51-114">If your Global admin has left your company or moved onto another role and you need to add a new Global admin, you have to log a service request on the [Microsoft Partner Network portal](https://partner.microsoft.com/commercial#/).</span></span> <span data-ttu-id="32f51-115">如果您的要求者能夠提供必要的個人身分識別資訊，並提供貴公司的其他相關資訊，則支援代理程式可以將使用者的權限提高為全域管理員。</span><span class="sxs-lookup"><span data-stu-id="32f51-115">The support agent can request elevation of a user to Global admin if your requestor is able to provide the requisite personal identity information and provide additional information about your company.</span></span>
