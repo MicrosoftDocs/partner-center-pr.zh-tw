@@ -1,19 +1,17 @@
 ---
-title: 合併夥伴帳戶與另一個夥伴帳戶
-ms.topic: article
-ms.date: 06/12/2020
+title: 將您的合作夥伴帳戶與另一個夥伴帳戶合併
 description: 在合作夥伴中心使用中的 Microsoft 合作夥伴的公司可以合併他們的帳戶。
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
+ms.topic: article
 author: LauraBrenner
 ms.author: labrenne
-ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 03689f250f86a2abdedbcd062766020b15520108
-ms.sourcegitcommit: c89ddcf8b366f56dc123936cbda2d0001c9f0d8e
+ms.date: 06/12/2020
+ms.openlocfilehash: 479b22e3b9666184a1dc2f75ba1f36f721d31445
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84788683"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909028"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>將您的合作夥伴帳戶與另一個夥伴帳戶合併
 
@@ -35,7 +33,7 @@ ms.locfileid: "84788683"
 
 - 在此合併期間，會保留所有位置的 MPN 識別碼。
 
-- 使用者的角色會一併停用。 例如，如果使用者已經是特定位置的獎勵系統管理員，她在合併之後仍然會有該角色，而且能夠看到在合併之前看到的獎勵。
+- 使用者的角色會一併停用。 例如，如果使用者已是特定位置的獎勵系統管理員，他們在合併之後仍然會有該角色，而且能夠看到他們在合併之前看到的獎勵。
 
 - Azure AD 租使用者和 CSP 帳戶不會合並，且不會有任何影響。
 
@@ -43,8 +41,7 @@ ms.locfileid: "84788683"
 
 ### <a name="view-of-merged-accounts"></a>合併帳戶的觀點
 
-
-:::image type="content" source="images/AccountMerge-graphic.png" alt-text="帳戶合併":::
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="帳戶合併":::
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>如果您已受邀將合作夥伴中心帳戶與另一個合作夥伴中心帳戶合併，該怎麼辦
 
@@ -52,7 +49,7 @@ ms.locfileid: "84788683"
 
 - 您的使用者將會帶入已合併的帳戶，並將其角色原封不動。
 
-- 在合併之後，這兩家公司都將保留現有的權益和專長，直到續約為止。 續訂時，系統會將帳戶視為一家公司，而標準更新規則將會生效。
+- 在合併之後，這兩家公司都將保留現有的權益和專長，直到續約為止。 在續訂時，系統會將帳戶視為一家公司，而標準更新規則將會生效。
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>瞭解當合作夥伴選擇合併帳戶時，對程式和權益的影響
 
@@ -62,11 +59,11 @@ ms.locfileid: "84788683"
 
 - 在合併帳戶和下一次更新之前，每個帳戶都將保留其行動套件和/或專長認證權益。 續訂時，適用標準行動套件和專長認證更新規則。
 
-- 續約時，會為合作夥伴公司的合作夥伴通用帳戶實行專長認證和行動套件所包含的權益： 
+- 續約時，會為合作夥伴公司的合作夥伴通用帳戶實行專長認證和行動套件所包含的權益：
 
-    • Microsoft 行動套件：合作夥伴公司將能夠購買每個合作夥伴通用帳戶一個行動套件。
+  - Microsoft 行動套件：合作夥伴公司將能夠購買每個合作夥伴通用帳戶一個行動套件。
 
-    •專長認證：合作夥伴公司會收到一份核心權益的套件，其與最高的實現相關，再加上合作夥伴符合每個合作夥伴通用帳戶的專長認證權益。 
+  - 專長認證：合作夥伴公司會收到一份核心權益的套件，其與最高的實現相關，再加上合作夥伴適用于每個合作夥伴通用帳戶的專長認證權益。
 
 - 擁有權益均受[Microsoft 合作夥伴網路權益使用指南](https://aka.ms/partner-benefits-use-guide)的影響。 例如：啟用的 O365 E3 權杖在啟用後的12（12）個月內可運作。 一旦為租使用者上的基座啟用權杖之後，這些基座可能不會移至另一個租使用者。
 

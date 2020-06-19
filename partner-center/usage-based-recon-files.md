@@ -3,17 +3,16 @@ title: 基於使用方式的對帳檔案
 ms.topic: article
 ms.date: 06/08/2020
 description: 瞭解您在合作夥伴中心內以使用量為基礎的對帳檔案中的所有專案。 包含幾個範例。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83545002fbc0138e4020473a9554d9127e7771b4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749211"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909116"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>瞭解以使用量為基礎的對帳檔案及其在合作夥伴中心的特定欄位
 

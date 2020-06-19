@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴中心深入解析-客戶報告
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 探索改善您業務的方式。 依地理位置、產品和其他屬性，查看您的特定客戶趨勢。
@@ -11,12 +11,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c46b77a8c2147ae62b0609b167753a591f89dd4
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 25659c32486629c8b19696c486bb89be54b9ad15
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452995"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909066"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>合作夥伴中心深入解析的客戶儀表板報表
 
@@ -24,7 +24,7 @@ ms.locfileid: "84452995"
  
 [客戶] 儀表板包含下列區段： 
 
-- 總結  
+- 摘要  
 - 客戶的地理分佈 
 - 客戶新增/變換趨勢 
 - 依合作夥伴位置、客戶區段、銷售通路、合作夥伴屬性類型的客戶分佈 
@@ -42,16 +42,16 @@ ms.locfileid: "84452995"
 - 在選取的日期範圍內拒絕客戶的% 
 - 微圖表會針對所選日期範圍內的客戶計數，顯示月份的趨勢
 
-:::image type="content" source="images/pci/customerproduct.png" alt-text="依產品的客戶":::
+  :::image type="content" source="images/pci/customerproduct.png" alt-text="客戶摘要儀表板的螢幕擷取畫面會顯示橫條圖和使用中、最近新增、遺失/變換或特定產品的客戶數目。":::
 
 **活躍客戶**：
 
-- 具有任何使用中產品使用量的目前客戶計數，例如任何雲端產品上的使用中使用量。 
+- 具有任何使用中產品使用量的目前客戶計數，例如任何雲端產品上的使用中使用量。
 - 所選時段內的使用中客戶的成長或拒絕百分比-微圖表呈現所選日期範圍內的作用中客戶計數的月間趨勢。
 新增的客戶：
 - 在選取的時段內新增的所有客戶計數。
-- 在選取的不良範圍內增加或拒絕% 的客戶 
-- 微圖表顯示在選取的日期範圍內，客戶所新增的月份趨勢 
+- 在選取的不良範圍內增加或拒絕% 的客戶。
+- 微圖表會針對在選取的日期範圍內新增的客戶，顯示月的趨勢。
 
 **客戶變換**：
 - 所選時段內每個月變換的所有客戶計數。 如果客戶沒有具有「作用中」狀態的單一訂用帳戶，則會將客戶視為遺失。 
@@ -65,13 +65,13 @@ ms.locfileid: "84452995"
 
 在選取的日期範圍內，目前的客戶、目前作用中客戶和客戶的計數，會使用客戶的國家/地區來進行地理對應。 顯示在計量下方的百分比指出該計量的總計占該國家/地區的百分比。 您可以將滑鼠停留在 [地圖] 上，以查看該國家/地區的總計、作用中、新客戶。 您可以搜尋並選取方格中的國家/地區，以縮放至地圖中的位置。 選取地圖上的 [**首頁**] 按鈕，以還原成原始的視圖。 方格中的所有資料行都可以排序。  
 
-:::image type="content" source="images/pci/customersgeo.png" alt-text="依地理位置的客戶":::
+:::image type="content" source="images/pci/customersgeo.png" alt-text="依地理位置的合作夥伴中心深入解析客戶報告的螢幕擷取畫面，顯示依地區的全球地圖和總計、新增和新客戶的清單。":::
 
 **客戶新增和變換**
 
 針對選取的日期範圍，將新的、現有的和變換細分為客戶的趨勢。 X 軸代表所選日期範圍的月份，而 Y 軸代表客戶計數。 變換客戶會以 Y 軸的負尺規表示。 堆疊直條圖呈現當月新的、現有和變換客戶的並劃分。 您可以藉由選取圖例中的特定堆疊專案來重建直條圖。 您可以利用圖表頂端的滑杆來放大特定期間。 
 
-:::image type="content" source="images/pci/customerslost.png" alt-text="客戶遺失":::
+:::image type="content" source="images/pci/customerslost.png" alt-text="具有橫條圖的合作夥伴中心深入解析客戶報表的螢幕擷取畫面顯示在一段特定時間內新增和遺失或變換的客戶數目。":::
 
 **客戶散發**
 
@@ -81,19 +81,19 @@ ms.locfileid: "84452995"
 
 根據產品和 Sku/方案，對目前客戶的明細進行計數。 在 [產品並劃分] 圓形圖中選取產品，以依據 Sku/方案旁邊的圖表來查看並劃分。
 
-:::image type="content" source="images/pci/customerbyprod.png" alt-text="依產品的客戶":::
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="[依產品的客戶] 報表的螢幕擷取畫面會顯示兩個星形圖表-一個包含 [依產品的客戶明細]，另一個則是依 SKU 的客戶細目。":::
 
 **客戶散發趨勢** 
 
 您的客戶在選取的日期範圍內，依市場、區段、您的 MPN 位置和已取得的產品散發的每月趨勢。 按一下圖表中的個別索引標籤，以根據這些分類來觀看趨勢。 X 軸代表您所選取日期範圍的月份，而 Y 軸則具有所選類別的客戶計數（索引標籤選取）。 您可以將滑鼠停留在圖表資料行上，以查看每個堆疊的值並劃分。 您可以利用圖表頂端的滑杆來放大特定期間。   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="客戶散發":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="客戶散發趨勢報表的螢幕擷取畫面，其中顯示您可以依市場、區段、合作夥伴位置或產品來查看的橫條圖。":::
 
 **有效客戶**
 
 針對選取的日期範圍，比較作用中和客戶總數的每月趨勢圖表。 資料行代表每個月的使用中客戶計數，而這一行代表每個月的客戶總數。 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="有效客戶":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="合作夥伴中心深入解析作用中客戶報表的螢幕擷取畫面，顯示一段時間內的作用中客戶的橫條圖。":::
 
 ## <a name="next-steps"></a>後續步驟
 

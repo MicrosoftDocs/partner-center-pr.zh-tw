@@ -24,6 +24,7 @@
 ## 優點
 ### [優點概觀](manage-your-partner-network-benefits.md)
 ### [上市優勢](mpn-learn-about-go-to-market-benefits.md)
+### [權益常見問題集](benefits-faq.md)
 ## [Marketplace 獎勵](marketplace-rewards.md)
 ## [軟體保證計畫](software-assurance-lp.md)
 ### [合作夥伴中心的軟體保證訓練憑券 (SATV) 計畫](software-assurance-satv.md)
@@ -198,6 +199,7 @@
 ### [深入解析 - 產品訂閱儀表板](pci-product-subscriptions-report.md)
 ### [深入解析 - 產品授權儀表板](pci-product-licenses-report.md)
 ### [深入解析 - Azure 使用量儀表板](pci-azure-usage-report.md)
+### [深入解析 - 訓練儀表板](pci-training-dashboard.md)
 ### [深入解析 - 專長認證報表](pci-competencies-report.md)
 ### [深入解析 - 權益報表](pci-benefits-report.md)
 ### [深入解析 - 已知問題](pci-known-issues.md)

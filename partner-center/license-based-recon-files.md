@@ -3,17 +3,16 @@ title: 以授權為基礎的對帳檔案
 ms.topic: article
 ms.date: 05/18/2020
 description: 瞭解如何在合作夥伴中心讀取以授權為基礎的對帳檔案。 本文說明以授權為基礎的偵察檔中每個欄位的意義。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86b3a099f6fe3948b9cb1ca707d43f776f66ca16
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795777"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909046"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>瞭解以合作夥伴中心授權為基礎的對帳檔案中的欄位
 
@@ -57,7 +56,7 @@ ms.locfileid: "83795777"
 | 小計 | 稅前總計。 檢查您的小計是否符合您的預期總計（以折扣為例）。 | *11* |
 | 稅金 | 稅金金額費用。 根據您市場的稅務規則和特定情況。 | *0* |
 | TotalForCustomer | 稅後總計。 檢查發票中是否向您收取稅金。 | *11* |
-| 貨幣 | 貨幣類型。 每個計費實體都只有一個貨幣。 檢查它是否符合您的第一個發票。 在任何主要的計費平臺更新之後再次檢查。 | *EUR* |
+| 貨幣 | 貨幣類型。 每個計費實體都只有一個貨幣。 檢查它是否符合您的第一個發票。 在任何主要的計費平臺更新之後再次檢查。 | *歐元* |
 | DomainName | 客戶的功能變數名稱。 在下一個帳單週期之前，此欄位會是空白的。 *請勿使用此欄位作為客戶的唯一識別碼。客戶/合作夥伴可以透過 Office 365 入口網站更新虛名或預設網域。* | *example.onmicrosoft.com* |
 | SubscriptionName | 訂閱暱稱。 如果未指定昵稱，合作夥伴中心會使用**OfferName**。 | *PROJECT ONLINE* |
 | SubscriptionDescription | 客戶購買的服務優惠名稱，如價目表中所定義。 （這是與**OfferName**相同的欄位）。 | *PROJECT ONLINE PREMIUM WITHOUT PROJECT CLIENT* |

@@ -3,17 +3,16 @@ title: 每月和每年計費的差異
 ms.topic: article
 ms.date: 05/06/2020
 Description: 瞭解合作夥伴中心的每月和年度計費方式有何不同。 同時瞭解如何在不同的計費類型和切換的含意之間切換。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 841e7026651484b4b3c52ecc1e3c297af01f9f16
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908252"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908966"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>瞭解合作夥伴中心的每月和年度計費差異
 
@@ -159,7 +158,7 @@ ms.locfileid: "82908252"
 
 已取消之授權或訂用帳戶的信用額度計算方式如下：
 
-取消的**信用額度**= （（* * 每月價格 * * 12）/ \* 365）已取消之授權的**12 個月期限** \*數。
+取消的**信用額度**= （（* * 每月價格 * * 12）/365） \* 已取消之授權的**12 個月期限** \* 數。
 
 ## <a name="reconciliation-file"></a>對帳檔案
 

@@ -3,17 +3,16 @@ title: 每日評分的使用量對帳檔案
 ms.topic: article
 ms.date: 06/12/2020
 description: 瞭解如何在合作夥伴中心讀取每日分級的使用量對帳檔案。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b89efd0cb24fb8aa08160bc6b554c5c2823ba2b
-ms.sourcegitcommit: b2f389ef0beacd722876e6396eab30b28bdf7e78
+ms.openlocfilehash: 37f337734d4f3f9ea67ec434e1bd478a355214bb
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/16/2020
-ms.locfileid: "84811578"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908676"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>瞭解如何讀取合作夥伴中心的每日評量使用量對帳檔案
 
@@ -80,7 +79,7 @@ ms.locfileid: "84811578"
 | PricingCurrency | 價格清單中的貨幣。 |
 | ServiceInfo1 | 在指定一天布建和使用的服務匯流排連接數目。 |
 | ServiceInfo2 | 舊版欄位，可捕捉選擇性的服務特定中繼資料。 |
-| 標籤 | 代表使用者所設定之 Azure 資源的邏輯組織。 |
+| Tags | 代表使用者所設定之 Azure 資源的邏輯組織。 |
 | AdditionalInfo | 任何未涵蓋於其他資料行中的其他資訊。 |
 | EffectiveUnitPrice | 每個單位的實際值，包括任何折扣、取得的點數等。 |
 | PCToBCExchangeRate | 定價貨幣對計費貨幣的匯率。 |

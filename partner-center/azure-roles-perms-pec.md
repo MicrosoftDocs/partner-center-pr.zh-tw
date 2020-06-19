@@ -5,17 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解合作夥伴的角色和許可權，使其能夠獲得合作夥伴獲額的點數（PEC）。 這些角色與合作夥伴中心的工作不同。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af21fe17afdab07ef259634d9df18d65ae072d5d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 9f84f1998258b0187537bac61edba9c6465aeb8e
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908269"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908976"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>適合獲得合作夥伴獲額信用額度的角色和許可權
 
