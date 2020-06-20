@@ -1,19 +1,19 @@
 ---
 title: 要求與客戶建立關係
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 針對多夥伴、多通路案例，或如果您的委派系統管理員許可權需要還原，為客戶要求關聯性。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-ms.openlocfilehash: 529881017969a4d7262086eb6b3f47e77de3f7e2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992023"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104089"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何向合作夥伴中心的客戶要求轉銷商關係
 
@@ -56,7 +56,7 @@ ms.locfileid: "84992023"
 
 從雲端解決方案提供者合作夥伴接受轉銷商關係邀請的客戶體驗，是由不同客戶面向的入口網站所主控。 入口網站的位置取決於客戶是否在 Microsoft 公用雲端或國家雲端：
 
-|  | 客戶接受轉銷商關係邀請的位置？ |
+|雲端客戶的類型  | 客戶接受轉銷商關係邀請的位置？ |
 |---------|---------
 | 公用雲端中的客戶 | Microsoft 365 系統管理中心 |
 | Microsoft Cloud 德國合作夥伴中心的客戶 | Microsoft Office 系統管理員入口網站 |

@@ -2,19 +2,19 @@
 title: 客戶的多重通道支援
 description: 在某些情況下，客戶可能會想要雇用您布建和支援他們在其他位置購買的訂用帳戶。
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7cc155505846a0ccf57e01eea7cf090e1e52238
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: b13bf888f78f16c426bfe3016fd0b3c180eb12ab
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991931"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104100"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>多通路支援-使用其他合作夥伴來支援在其他位置購買的客戶訂用帳戶
 
@@ -35,8 +35,8 @@ ms.locfileid: "84991931"
 
 - 從第三方購買訂閱，第三方不屬於雲端解決方案提供者計畫或非 Microsoft 同步發佈合作夥伴。 客戶無法將現有的授權型訂用帳戶切換到雲端解決方案提供者方案中的其他合作夥伴-他們必須等到其訂閱期間結束，或在移動前取消。
 
-| | |
-|---------|---------|
+|若要支援這些服務  | 執行此動作： |
+|:---------|:---------|
 |授權型服務    | 若要提供多通路帳戶支援，您必須向客戶要求權限以管理他們的訂閱。 如需詳細資訊，請參閱[要求與客戶之間的轉銷商關係](request-a-relationship-with-a-customer.md)。   |
 |用量型服務     |  針對已經從其他通路 (例如顧問、Open 或 EA) 擁有 Microsoft Azure 訂閱的客戶，您將需要在合作夥伴中心建立新的 Azure 訂閱，手動輸入訂閱詳細資訊，然後取消個別的服務或整個訂閱。 Azure CSP 可以與不同的通道並存。<br/><br/> 針對已經從其他合作夥伴取得 Microsoft Azure 訂閱的客戶，客戶已經裝機費至 Microsoft Azure 來自其他合作夥伴的人員，例如，您可以將 Azure 服務切換到其他合作夥伴。  如需詳細資訊，請參閱[將 Azure 訂用帳戶切換至不同的合作夥伴](switch-azure-subscriptions-to-a-different-partner.md)。 |
 

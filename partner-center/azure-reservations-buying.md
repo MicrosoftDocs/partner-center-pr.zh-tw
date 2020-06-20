@@ -1,7 +1,7 @@
 ---
 title: 為客戶購買 Microsoft Azure 保留
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何在合作夥伴中心代表您的客戶購買或購買 Azure 保留。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: azure, 保留區, 管理, 計費, 購買
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 63fe8bc008b9c1515a3850e60c32ba2d3133ff5c
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603717"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104111"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表您的客戶在合作夥伴中心購買 Microsoft Azure 保留
 
@@ -55,10 +55,12 @@ ms.locfileid: "84603717"
 
 ## <a name="azure-reservations-unavailable-markets"></a>未提供 Azure 保留的市場
 
->[!IMPORTANT] 
->以下是*未提供* Azure 保留的市場：  
+> [!IMPORTANT]
+> 以下是**未提供** Azure 保留的市場：  
 >  
-> | 不適用的市場 | &nbsp; | &nbsp; |
+> **無法使用的市場（依字母順序）**
+>
+> |A 到 Gi   | Gr 與 Pal  | Pap 到 Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | 奧蘭島     | 格陵蘭     | 巴布亞紐幾內亞     |
 > | 美屬薩摩亞     | 格瑞那達     | 皮特康群島     |
@@ -106,13 +108,13 @@ ms.locfileid: "84603717"
 
 2. 在 [**客戶**] 頁面上，尋找想要購買 Azure 保留的客戶，然後選取向下箭號以展開客戶的資料列。  
 
-3. 選取 [新增產品]  ，然後選取 [Azure]  。 
+3. 選取 [新增產品]，然後選取 [Azure]。 
 
-    a. 從 [區段]  清單中選擇客戶的市場區段。
+    a. 從 [區段] 清單中選擇客戶的市場區段。
 
     b. 從 [產品**類型**] 清單中選擇 [**保留**]。
 
-    c. 從 [保留類型]  清單中選擇客戶想要的保留類型。
+    c. 從 [保留類型] 清單中選擇客戶想要的保留類型。
 
 4. Azure Reservations 必須關聯至有效的 Azure 訂閱。 從 [**客戶訂**用帳戶] 清單中，選擇您想要新增 Azure 保留的客戶訂用帳戶。 
 
@@ -123,7 +125,7 @@ ms.locfileid: "84603717"
 
 6. 找到您想要購買的保留後，請輸入客戶在**數量**中所需的保留實例數目，然後選取 [**新增至購物車**]。  
 
-7. 重複步驟5和6，直到您將所有必要的專案新增至訂單為止。 選取 [檢閱]  確認您的訂單正確無誤。  
+7. 重複步驟5和6，直到您將所有必要的專案新增至訂單為止。 選取 [檢閱] 確認您的訂單正確無誤。  
 
 8. 在 **\[檢視您的訂單\]** 頁面上，您可以： 
 
@@ -142,7 +144,7 @@ ms.locfileid: "84603717"
     - 如果您的 Azure 保留支援 [計費方案] 選項，您可以從下拉式功能表中選取 [每月計費頻率]。 
     - 如果您的 Azure 保留不支援 [計費方案] 選項，您的計費頻率會預設為 [一次計費]。 
 
-9. 選取 **\[購買\]** 購買訂單。 您的訂單詳細資料（包括訂單號碼）會顯示在 [**確認**] 頁面上。 選取 [完成]  移至 [訂購記錄]  頁面。 
+9. 選取 **\[購買\]** 購買訂單。 您的訂單詳細資料（包括訂單號碼）會顯示在 [**確認**] 頁面上。 選取 [完成] 移至 [訂購記錄] 頁面。 
 
 10. 若要管理 Azure 入口網站中的客戶保留，請在 **[客戶] 頁面上**尋找客戶，然後選取向下箭號以展開客戶的資料列。 選取 [ **Microsoft Azure 管理入口網站**] 以在 Azure 入口網站中開啟客戶的記錄。
 

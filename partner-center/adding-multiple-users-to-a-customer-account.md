@@ -1,7 +1,7 @@
 ---
 title: 為客戶帳戶新增多個使用者
 ms.topic: article
-ms.date: 05/13/2020
+ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何一次將多個使用者新增至客戶的帳戶。 使用逗號分隔值（.csv）檔案格式，將資料檔案上傳至合作夥伴中心。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 大量上傳, 新增多個使用者至客戶的帳戶, 新增客戶使用者, 大量上傳客戶使用者, 客戶帳戶, 客戶使用者, 使用者
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09bb83b82cf1db78a54af9bab98a5cbdaa00c0d9
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 44e8da91a622fe640e9e41f8d8d464a61652ef30
+ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991084"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "85104124"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>將多個使用者新增至客戶帳戶-將資料檔案上傳至合作夥伴中心
 
@@ -41,13 +41,12 @@ ms.locfileid: "84991084"
 
 請在資料檔案中輸入以下資料：
 
-|                 |                                                                              |                                            |
-|-----------------|------------------------------------------------------------------------------|--------------------------------------------|
-| **資料行名稱** | **說明**                                                              | **限制**                             |
-| 名字      | 使用者的名字（選擇性欄位）                                           | 50 個字元的限制                         |
-| 姓氏       | 使用者的姓氏 (選擇性欄位)                                            | 50 個字元的限制                         |
+| **資料行名稱** | **說明**  | **限制**  |
+|:-------- |:------  |:----- |
+| 名字  | 使用者的名字（選擇性欄位）  | 50 個字元的限制  |
+| 姓氏  | 使用者的姓氏 (選擇性欄位)  | 50 個字元的限制  |
 | 顯示名稱    | 顯示在合作夥伴中心的名稱（必要欄位）                            | 50 個字元的限制                         |
-| 電子郵件           | 使用者在 customer 公司的公司電子郵件地址（必要欄位）           | 每個使用者都必須有唯一的電子郵件地址 |
+| 電子郵件   | 使用者在 customer 公司的公司電子郵件地址（必要欄位）           | 每個使用者都必須有唯一的電子郵件地址 |
 | 狀態更新   | 用來指示是否已經成功建立新的使用者記錄 | \*\*保留空白\*\*                        |
 
 ### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>建立多位使用者帳戶
