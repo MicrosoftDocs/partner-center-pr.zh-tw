@@ -10,15 +10,13 @@ ms.author: labrenne
 keywords: Azure，訂用帳戶，VM，保留，保留實例
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d308c3e0e347e8d1c7975ba3c8cbabb88faf9bf8
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 4e5e5d88b1f629b07932d37dedb70d0309a26dce
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908286"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198626"
 ---
-<!-- Mike Aasen wrote and owns this topic -->
-
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>取得、布建、& 管理適用于客戶的 Azure 保留的 VM 實例（RI） + 伺服器訂閱
 
 適用於：
@@ -133,7 +131,7 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 
 其他實用的訓練課程包含[合作夥伴大學的 Azure 授權模組](https://aka.ms/azure_partner_licensing)。
 
-### <a name="operations"></a>作業
+### <a name="operations"></a>Operations
 
 - [現代化商務營運指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（更新）：涵蓋主要原則和操作層面的完整指南，例如合約、透過合作夥伴中心訂購、發票、價目表詳細資料、獎勵、對帳檔案、API/SDK、沙箱和 Azure 合作夥伴共用服務。
 - [現代化優惠國家/地區可用性和客戶貨幣矩陣](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)

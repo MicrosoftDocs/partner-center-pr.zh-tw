@@ -1,7 +1,7 @@
 ---
 title: 利用 Microsoft 的參考拓展您的業務
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何建立商務設定檔，透過合作夥伴中心的 [推薦] 功能來產生銷售潛在客戶，然後再回應這些參考。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 推薦, 商務設定檔, 尋找合作夥伴
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53499b0a02733cb83ee68b93655e49034da75c33
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 29da0311dac14a4060e2adf6feeb3ce1e721bd37
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467438"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198616"
 ---
 <!-- FWLink:  https://go.microsoft.com/fwlink/?linkid=849775 (top of page) -->
 
@@ -32,7 +32,3 @@ ms.locfileid: "84467438"
  在您發佈商務設定檔之後，您將會開始透過合作夥伴中心的推薦功能收到業務潛在客戶。 請務必在必要時限內回應推薦，以便繼續收到潛在客戶，以及最重要的是，贏得交易。 如需有關如何在合作夥伴中心管理業務潛在客戶的詳細資訊，請參閱[回應推薦](responding-to-referrals.md)。  
 
 若要開始使用，請觀看這段短片：[最佳化您的商務設定檔](https://player.vimeo.com/video/252788046)。  
-
-<!-- 
-*  [Analyze your business profile](analyze-your-marketing-profile.md) Regularly review and optimize your business profile to make sure you're getting in front of your target customers.
--->

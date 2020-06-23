@@ -1,7 +1,7 @@
 ---
 title: 銷售客戶 Microsoft Azure 保留
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 身為雲端解決方案提供者，您可以購買、銷售或管理客戶的 Azure 保留專案。 使用合作夥伴中心、Azure 入口網站或合作夥伴中心 API。
@@ -10,16 +10,14 @@ ms.author: labrenne
 keywords: azure, 保留區, 管理, 帳單, 購買, Azure RI, Azure 保留的執行個體
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19c156f0b47ccb39bc678cdd2ae9cce9db5c5ebd
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 5393e757b209de5a7df22b35a0cee0703419bef4
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908293"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198636"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>使用合作夥伴中心、Azure 入口網站或 Api，為客戶銷售 Microsoft Azure 預約
-
-<!--Maggie, 12/7/18 - Added "Partner Center" to metadata title and H1 title as per Catherine Watson in bug #19868631-->
 
 **適用於**
 
@@ -56,7 +54,7 @@ Azure 保留可透過下列方式吸引客戶：
 
 |**如需下列資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
-| 適用于您客戶的 Azure 保留檔 | [什麼是 Azure 保留？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| 適用于您客戶的 Azure 保留檔 | [什麼是 Azure 保留專案？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |在合作夥伴中心為您的客戶購買 Azure 保留   |[購買 Azure Reservations](azure-reservations-buying.md)
 |在合作夥伴中心管理 Azure 保留專案 | [在合作夥伴中心管理 Azure 保留專案](azure-reservations-manage.md)
 |判斷正確的 VM 大小，並確認客戶 VM 使用量   |[調整 VM 大小以提供最大 Azure Reservations 使用率](azure-usage.md)   |
