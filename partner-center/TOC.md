@@ -190,8 +190,9 @@
 ### [將 Kaizala 專業版訂用帳戶遷移至 Microsoft 365](migrate-kaizala-pro-partner.md)
 
 # 合作夥伴中心資料和分析
-## [取得並分析您的商務資料](data-analysis-lp.md)
-## [適用於 Microsoft Power BI 的合作夥伴分析應用程式](power-bi-app-for-direct-partners.md)
+## [存取使用者資料和分析](data-analysis-lp.md)
+## [使用適用於 Microsoft Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners.md)
+## [使用適用於 Microsoft Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners.md)
 ## [合作夥伴中心深入解析](partner-center-insights.md)
 ### [深入解析 - 概觀儀表板](pci-overview-report.md)
 ### [深入解析 - 對深入解析儀表板的角色型存取控制](pci-roles.md)
@@ -236,7 +237,6 @@
 ## [概觀](partner-security-requirements.md)
 ## [對合作夥伴租用戶強制使用 MFA](partner-security-requirements-mandating-mfa.md) 
 ## [需求狀態](partner-security-compliance.md)
+## [實作合作夥伴安全性需求](implement-security-requirements.md)
 ## [常見問題集](partner-security-requirements-faq.md)
 
-# 教學課程
-## [實作合作夥伴安全性需求](tutorials/partner-security-requirements.yml)
