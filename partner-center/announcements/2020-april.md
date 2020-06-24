@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: bfc1f89aee3a9231d3c65467a330d45c93fef904
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84254035"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749129"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -191,7 +191,8 @@ _________________
 
 感謝您的合作，也感謝您為保障生態系統的運行得以信賴，所付出的一切努力。
 
-注意：如果您使用基準原則，但尚未轉換成安全性預設原則或[其他 MFA 實作選項](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)，請參考[此處的重要資源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)儘快進行轉換。
+>[!NOTE] 
+>如果您使用基準原則，但尚未轉換成安全性預設原則或[其他 MFA 實作選項](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)，請參考[此處的重要資源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)儘快進行轉換。
 
 ### <a name="change-log"></a>變更記錄
 
@@ -543,7 +544,7 @@ Microsoft 已於 2020 年 4 月 1 日發行 Dynamics Business Central Online 以
 ### <a name="robotic-process-automation"></a>機器人程序自動化
 
 Microsoft 將於 2020 年 5 月 1 日，將新的 RPA 供應項目擴大推出至教育計畫。
-若要深入了解雲端解決方案提供者中的授權教育合作夥伴計畫變更，請按一下[此處](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)。 注意：這是連至合作夥伴中心現有集合的連結)。
+若要深入了解雲端解決方案提供者中的授權教育合作夥伴計畫變更，請按一下[此處](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)。 這是連至合作夥伴中心現有集合的連結)。
 
 如需新的 SKU 資訊，請檢閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)相關下載區段中附加的 **Dynamics 雲端解決方案提供者供應項目更新 - 2020 年 5 月檔案**。
 

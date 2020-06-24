@@ -11,12 +11,12 @@ Keywords: ''
 robots: ''
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: acf8a26960df0bebd97b8684c5a51173a86af416
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 7f21431dd215f89905c456a61f8ef2b181353111
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452605"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679115"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>適用於 Azure 的 CSP 中新商務體驗的價目表
 
@@ -37,13 +37,17 @@ CSP 中新 Azure 商務體驗的價目表會張貼在合作夥伴中心。 價�
 
 2. 在 Azure 方案定價底下，選取您想要定價的國家/地區。
 
-3. 在 [匯出類型] 旁邊，選取 [Azure 方案使用定價]、[Azure 方案保留定價] 或 [FX 費率]。 注意：[FX 費率] 不是國家/地區特有。
+3. 在 [匯出類型] 旁邊，選取 [Azure 方案使用定價]、[Azure 方案保留定價] 或 [FX 費率]。 
+
+>[!NOTE] 
+>[FX 費率] 不是國家/地區特有。
 
 4. 在 [日期定價] 旁，選取您想要的日期，例如 [目前]。
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="國家/地區特有":::
 
-注意：您可以匯出兩個不同的價目表 - Azure 方案定價和市集協力廠商定價。
+>[!NOTE] 
+>您可以匯出兩個不同的價目表 - Azure 方案定價和市集協力廠商定價。
 
 ## <a name="azure-price-list-specifics"></a>Azure 價目表詳細資訊
 

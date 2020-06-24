@@ -5,18 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何將您的 MCP 識別碼與合作夥伴中心帳戶產生關聯，讓公司可以查看您對專長認證所採取的訓練和學習路徑。
-ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: LauraBrenner
 ms.author: labrenne
 Keywords: 角色, 權限, 新增使用者, 指派角色, 系統管理員, 代理人, MCP 識別碼, Microsoft Learn
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 108e15bda548c9470f74582618067f53d791c616
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: fb1b7f56ee831634f6cf05ace30c0900fba9397d
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795924"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991959"
 ---
 # <a name="associate-your-microsoft-learn-account-to-your-partner-center-account"></a>將 Microsoft Learn 帳戶與合作夥伴中心帳戶產生關聯
 
