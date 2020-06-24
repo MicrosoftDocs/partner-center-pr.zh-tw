@@ -1,7 +1,7 @@
 ---
 title: 取得客戶的系統管理員權限
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 取得代表客戶管理其服務或訂閱所需的權限。 了解如何授與、撤銷和管理權限。
@@ -10,12 +10,12 @@ ms.author: labrenne
 ms.custom: SEOAPR.20
 keywords: 委派的管理員權限, 代表的管理員, 移除權限, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: dc56aa2236251c98afa6ffc5b5cc2b3d3f10918b
-ms.sourcegitcommit: 775a13540d6576201a900e517a0696a6ff4897d8
+ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84466778"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198596"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>取得管理客戶服務或訂閱的權限
 
@@ -98,8 +98,6 @@ ms.locfileid: "84466778"
 - 當客戶使用 Office 365 入口網站移除合作夥伴的委派管理權限時，只要合作夥伴仍然獲指派一或多個訂閱的角色，合作夥伴就還是可以管理客戶的 Azure 訂閱。 若要停止合作夥伴管理 Azure 訂閱，客戶必須移除角色指派。
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
-
-<!--Maggie, 12/5/18 - Removed table showing what different CSP partner types can and can't do because all partner types are now in parity. As per Bhavya Chopra in bug 19841770.-->
 
 在合作夥伴中心裡，即使沒有委派的管理員權限，雲端解決方案提供者合作夥伴仍然可以管理其客戶的 AutoPilot 設定檔： 
 

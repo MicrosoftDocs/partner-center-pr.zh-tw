@@ -5,17 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解合作夥伴如何使用不同的角色型存取控制 (RBAC) 選項，來對客戶 Azure 資源的操作進行控制和管理。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ea0b7d781cebb963ad802cb73c7d956729dcb2e
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: b0b66a5fc2c51c8e1e4ef282ffebae68758df428
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452625"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908986"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 方案下的訂用帳戶和資源
 

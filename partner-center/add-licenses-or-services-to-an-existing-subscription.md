@@ -5,18 +5,17 @@ ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何升級或修改客戶的訂閱。 新增更多授權、新增更多基座，或移至具有更多服務的不同版本。
-ms.assetid: 9264E666-97F8-48D1-8C00-EDC2927A8107
 author: LauraBrenner
 ms.author: labrenne
 keywords: 新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f41c34b044cca39c2939ede746e05b932e03a570
-ms.sourcegitcommit: 655d692c42155e5fdccf5fa9407f9fa0d0fd2207
+ms.openlocfilehash: 3d5cc8e161f2a519d656baceeac51146f638c754
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "82975119"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991089"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>將授權、基座或更多服務新增至客戶的訂閱
 

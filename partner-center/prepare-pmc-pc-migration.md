@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6e188bbd86b066152f90be90d92abb2539f38b3
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328309"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749163"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備從 Partner Membership Center (PMC) 移至合作夥伴中心
 
@@ -91,7 +91,7 @@ Azure 工作帳戶是您公司在 Azure 公用雲端的專用且隔離的虛擬�
 
 **Microsoft 可為我移轉 MPN 成員資格嗎？**
 
-不可以。 Microsoft 無法協助您將成員資格帳戶移至合作夥伴中心。 您必須使用公司帳戶 (登入認證) 登入 PMC，然後開始進行移轉程序，以移動您的帳戶。 完成移動帳戶的步驟之後，您即可開始管理成員資格，並將使用者角色和權限指派給小組，使其能夠存取權益以及協助管理成員資格。 Microsoft 會自動移轉目前的專長認證、權益、位置資訊、獎勵的銀行/稅務資訊，以及包含 Partner University 存取權在內的 MCP 關聯。
+不可以。 Microsoft 無法協助您將成員資格帳戶移至合作夥伴中心。 您必須使用公司帳戶 (登入認證) 登入 PMC，然後開始進行移轉程序，以移動您的帳戶。 完成移動帳戶的步驟之後，您即可開始管理成員資格，並將使用者角色和權限指派給小組，使其能夠存取權益以及協助管理成員資格。 
 
 Microsoft 會自動移轉目前的專長認證、權益、位置資訊、獎勵的銀行/稅務資訊，以及包含 Partner University 存取權在內的 MCP 關聯。
 

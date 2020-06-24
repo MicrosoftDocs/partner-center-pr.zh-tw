@@ -4,19 +4,18 @@ description: 每位員工都必須先獲指派角色，然後才能存取合作�
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-ms.assetid: 75D805AE-9922-4CFD-9427-196047D70963
 author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 Keywords: 角色, 權限, 新增使用者, 指派角色, 系統管理員, 代理人,
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: 8d738e9231959e7d156a053fa1ac28ccfc219547
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: f73a134193f975357ec2257711f283a6360d33eb
+ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394199"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "84991421"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>建立使用者帳戶以及指派角色和權限
 

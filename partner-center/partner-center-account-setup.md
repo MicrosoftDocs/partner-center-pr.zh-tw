@@ -1,21 +1,20 @@
 ---
 title: 管理您的合作夥伴中心帳戶
+description: 了解如何在合作夥伴中心管理貴公司的設定檔、目錄、銀行和稅務資訊、角色、權限等等。
 ms.topic: article
-ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在合作夥伴中心管理貴公司的設定檔、目錄、銀行和稅務資訊、角色、權限等等。
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f3caa27caf5308586fb26327bd38ece73e74685f
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/02/2020
+ms.openlocfilehash: cc7d4ef6e8e47e53a6a24b8b90299e7faa679635
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453215"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908776"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>管理您的合作夥伴中心帳戶 - 公司設定檔、銀行資訊、角色、權限等等
 

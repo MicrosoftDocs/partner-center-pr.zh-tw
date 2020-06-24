@@ -1,7 +1,7 @@
 ---
 title: Microsoft 合作夥伴網路會員資格權益
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解與 Microsoft 合作的權益，包括 Microsoft 行動套件、專長認證和計畫選項，可讓您的產品上市並銷售您的解決方案。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格, 銀級, 金級, 專長認證
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50b8834704886a9c516550bbde778edf8e39c0a9
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d71f5b315d8c7497febfae662ac8050280a10ea6
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795954"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198606"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>與 Microsoft 合作 - 探索權益、如何協助客戶，以及如何推動業務成長
 
@@ -32,8 +32,6 @@ ms.locfileid: "83795954"
 
 ## <a name="join-the-microsoft-partner-network"></a>加入 Microsoft 合作夥伴網路
 
-<!-- 12/5/18 The content below was copied and pasted directly from the Membership page of the MPN site (https://partner.microsoft.com/membership)-->
-
 Microsoft 合作夥伴網路提供您業界最廣泛的產品，也會提供方案選項來區分您的業務、上市，以及銷售您的解決方案。 免費加入，然後選擇如何使用 Microsoft 行動套件、入門套件或專長認證來投資您的合作夥伴關係。
 
 行動套件或入門套件提供軟體和支援來建置 Microsoft 解決方案，而專長認證則會向客戶和其他合作夥伴展示您受肯定的專業知識。
@@ -45,8 +43,6 @@ Microsoft 合作夥伴網路提供您業界最廣泛的產品，也會提供方�
 若要加入 Microsoft 合作夥伴網路，請移至 MPN 網站上的 [[會員資格] 頁面](https://partner.microsoft.com/membership)，然後選取 [註冊] 或 [立即加入]。
 
 ## <a name="make-the-microsoft-partner-network-membership-work-for-you"></a>使 Microsoft 合作夥伴網路會員資格為您工作
-
-<!-- 10/25/2019 The content below content from the Membership pages of the MPN site (https://partner.microsoft.com/membership) and additional updated content.-->
 
 當您達到您的業務目標時，請參與方案中符合您獨特業務需求的會員等級，以便存取更多權益，並發展您與我們及網路其他合作夥伴的關係。
 
