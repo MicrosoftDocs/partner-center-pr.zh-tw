@@ -1,7 +1,7 @@
 ---
 title: 管理合作夥伴帳戶中的位置
 ms.topic: article
-ms.date: 06/01/2020
+ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作夥伴中心，了解如何新增位置，以及如何在獎勵計畫、雲端解決方案提供者業務、訂閱和其他交易中使用 MPN 識別碼。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 合作夥伴帳戶, 位置
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 943299cc4c68a6252c69a96204ef6001b89eda09
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453205"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909056"
 ---
 # <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>在合作夥伴中心管理您的合作夥伴帳戶位置並新增位置
 
@@ -54,12 +54,12 @@ ms.locfileid: "84453205"
 
 1. 在 [位置] 頁面上檢查位置清單，以確定您要作為法律實體的位置已列出。 如果沒有，請新增它。
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="更新公司位置":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="合作夥伴中心帳戶位置頁面的螢幕擷取畫面，其中包含所有目前位置的清單。":::
 
 2. 選取 [合作夥伴設定檔]，然後選取 [更新法定公司設定檔]。
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="更新公司位置":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="螢幕擷取畫面，顯示合作夥伴中心帳戶合作夥伴設定檔資訊與可選取的更新選項。":::
 
 3. 選取區域和法律實體，然後加以**提交**。
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="更新公司位置":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="更新合作夥伴合法商務設定檔的螢幕擷取畫面，會顯示更新國家/地區或區域和法律實體的下拉式清單。":::

@@ -5,17 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用 Azure 方案，了解如何購買一或多個 Azure 訂用帳戶與 Azure 保留，以設定資源及檢視或新增訂用帳戶。
-ms.assetid: ''
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b40851ae718bc3efdc416c633ad4ed54c802f75
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467518"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84909126"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>為客戶購買 Azure 方案，並以隨用隨付費率存取最新的 Azure 服務
 
@@ -78,7 +77,8 @@ Azure Reservations 必須關聯至有效的 Azure 方案。 從 [客戶訂用帳
 >[!Important] 
 >如果客戶還沒有作用中的 Azure 方案，請選取 [Azure] 立即新增一個方案。 如需進一步的指示，請參閱[購買 Azure Reservations](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)。
 
-請注意，保留的範圍目前只能設定為**共用**。 
+>[!Note] 
+>保留的範圍目前只能設定為**共用**。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共用範圍保留設定":::
 

@@ -1,22 +1,22 @@
 ---
 title: 建立合作夥伴中心帳戶
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解 Microsoft 合作夥伴網路成員如何建立商務設定檔和合作夥伴中心帳戶，來管理他們的網路權益和專長認證。
+description: 了解 Microsoft 合作夥伴網路成員如何建立合作夥伴中心帳戶，來管理他們的網路權益和專長認證。
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dbfbe23c84542e9164ba3ddfda811add34962fdc
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bb703eac9e609badbc71f53bb9561a363f3a76f8
+ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795736"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "84603817"
 ---
-# <a name="create-a-business-profile-and-partner-center-account-to-manage-network-benefits-and-competencies"></a>建立商務設定檔和合作夥伴中心帳戶，以管理網路權益和專長認證
+# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>建立合作夥伴中心帳戶，以管理網路權益和專長認證
 
 **適當的角色**
 

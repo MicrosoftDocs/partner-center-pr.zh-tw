@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/04/2020
-ms.openlocfilehash: 073ee1a3f0cd90d3b10493a989d00dc1594505d6
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.date: 06/16/2020
+ms.openlocfilehash: 0629ddcee62040ecc1e5fca40689ede71f2b73ca
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84452585"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908956"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>將客戶從現有 CSP Azure 供應項目轉換至 Azure 方案
 
@@ -41,11 +41,11 @@ ms.locfileid: "84452585"
 
 2. 選取 [將計費轉換為 Azure 方案]。
 
-   :::image type="content" source="images/azure/transition1.png" alt-text="轉換":::
+   :::image type="content" source="images/azure/transition1.png" alt-text="螢幕擷取畫面，顯示以使用方式為基礎的訂用帳戶報告資訊與可選取的選項：將 Azure 訂用帳戶計費轉換為 Azure 方案。":::
 
 3. 選取 [繼續]
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="轉換":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="標題為 [轉換為 Azure 方案] 的對話方塊，含意是關於轉換和兩個可選取的選項：[繼續] 或 [取消]。":::
 
    您的客戶將會轉換為 Azure 方案。
 
@@ -63,7 +63,7 @@ ms.locfileid: "84452585"
 
 4. 返回客戶的合作夥伴中心 [訂用帳戶] 頁面，使用他們的當地貨幣更新其預算限制。
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="轉換":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="[合作夥伴中心訂用帳戶] 頁面的部分檢視，其預算限制針對計費週期以本地貨幣進行設定。":::
 
    >[!NOTE]
    >您在合作夥伴中心設定的預算不會帶到 Azure 入口網站。 您也應該在 Azure 入口網站中設定預算和警示。
@@ -77,7 +77,7 @@ ms.locfileid: "84452585"
 
 在 Azure 入口網站和合作夥伴中心追蹤進度。
 
-:::image type="content" source="images/azure/details1.png" alt-text="顯示詳細資料":::
+:::image type="content" source="images/azure/details1.png" alt-text="顯示每個訂用帳戶轉換詳細資料清單的螢幕擷取畫面 - 包含訂用帳戶識別碼、轉換日期和轉換狀態。":::
 
 ### <a name="billing-impact-to-partners"></a>對合作夥伴的計費影響
 
@@ -100,7 +100,7 @@ ms.locfileid: "84452585"
 
 轉換完成時，會將 Azure 訂用帳戶移至新的 Azure 方案底下，並暫停商務訂用帳戶，這樣就不會再報告有使用量。  
 
->[!Note]
+>[!NOTE]
 >當 Microsoft Azure (0145P) 訂用帳戶是在 CSP 中購買時，商務訂用帳戶和 Azure 訂用帳戶 (權利) 會具有相同值。 只有在計費擁有權變更或傳輸的情況下，這些值才會有所不同。
 
 ### <a name="transition-issues"></a>轉換問題

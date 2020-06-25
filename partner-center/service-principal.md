@@ -11,16 +11,19 @@ Keywords: Azure、Azure 方案、服務主體、Azure AD 應用程式
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76a65cd824c7c1af5242bea3af6069a466c9fa1c
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: d37fe2134d02063819abeb89e2f1b6a63e0ba505
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425997"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679385"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>在合作夥伴中心新增 Azure AD 應用程式 (服務主體)
 
-在合作夥伴中心的商務 Marketplace 計畫中，您現在可以將 Azure AD 應用程式 (服務主體) 新增為合作夥伴中心帳戶中的使用者。 (先前，您可以在 Cloud Partner 入口網站或 CPP 帳戶中這麼做。 但現在您已移轉至合作夥伴中心，所以 CPP 帳戶為唯讀狀態。)請注意，服務主體與 Azure AD 應用程式是同義。
+在合作夥伴中心的商務 Marketplace 計畫中，您現在可以將 Azure AD 應用程式 (服務主體) 新增為合作夥伴中心帳戶中的使用者。 (先前，您可以在 Cloud Partner 入口網站或 CPP 帳戶中這麼做。 但現在您已移轉至合作夥伴中心，所以 CPP 帳戶為唯讀狀態。)
+ 
+>[!Note] 
+>服務主體與 Azure AD 應用程式是同義。
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>新增 Azure AD 應用程式 (服務主體)
 

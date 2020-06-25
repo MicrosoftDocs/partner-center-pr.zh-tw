@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 keywords: 獎勵宣告, 合作宣告, 合作基金, 核心要求
 ms.localizationpriority: high
-ms.openlocfilehash: e8babb28ab14b2cada56d9c2f65a588e7c682c2c
-ms.sourcegitcommit: 449cb8c32880217ad7543712b02a84ae69869289
+ms.openlocfilehash: 417e0d0c8f2afe64d1690ede154a952f7c0bf32c
+ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "74721316"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "84776295"
 ---
 # <a name="core-requirements-for-incentives-co-op-claims"></a>獎勵合作宣告的核心要求
 

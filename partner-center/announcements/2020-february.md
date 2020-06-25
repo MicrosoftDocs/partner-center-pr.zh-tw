@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: fccdb29090effaae9187778a0c243f051613e3c4
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
+ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253965"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "84749137"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月公告
 
@@ -77,7 +77,10 @@ _________________
 
 合作夥伴可使用合作夥伴中心儀表板中的新功能，或透過[此新的 API](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement)，了解客戶是否已接受新合約。
 
-從 2020 年 2 月 1 日開始，合作夥伴必須確認客戶接受 Microsoft 客戶合約，才能在 Microsoft 公用雲端下的所有區域中對任何雲端解決方案提供者供應項目下新訂單。 雲端解決方案提供者合作夥伴若未透過這些選項之一，確認其客戶已接受 Microsoft 客戶合約，即無法再進行新的購買，包括變更現有購買的基座或續約。 注意：自動續約不受影響。
+從 2020 年 2 月 1 日開始，合作夥伴必須確認客戶接受 Microsoft 客戶合約，才能在 Microsoft 公用雲端下的所有區域中對任何雲端解決方案提供者供應項目下新訂單。 雲端解決方案提供者合作夥伴若未透過這些選項之一，確認其客戶已接受 Microsoft 客戶合約，即無法再進行新的購買，包括變更現有購買的基座或續約。
+ 
+>[!Note] 
+>自動續約不受影響。
 
 ### <a name="next-steps"></a>後續步驟：
 
@@ -191,7 +194,9 @@ _________________
 間接提供者：
 
 - 通知您 Microsoft CSP 計畫中的轉銷商這項變更 (請[使用此電子郵件範本](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx))。 如果您的轉銷商目前使用基準原則，請確保其啟用安全性預設。
-- 注意：Microsoft 也會直接通知目前使用基準原則並具有合作夥伴中心連絡人資訊的轉銷商。
+
+>[!Note] 
+>Microsoft 也會直接通知目前使用基準原則並具有合作夥伴中心連絡人資訊的轉銷商。
 
 如果您有任何關於合作夥伴安全性需求的疑問，請查看[此處](https://aka.ms/security-requirements)的其他資源。
 
@@ -274,9 +279,8 @@ _________________
 - 可讓合作夥伴在新體驗 (Azure 方案) 中擷取支援計費貨幣的每月匯率
 - 提供擷取當月或前幾個月定價或外匯匯率的功能
 
-注意：
-
-- 這是 Azure 方案定價專屬的全新 API 資源。
+>[!Note] 
+>這是 Azure 方案定價專屬的全新 API 資源。
 - 若現有 Azure 資源或保留部署至 Azure 方案未涵蓋的舊有 Azure 訂用帳戶，則仍應對其使用 [RateCard API](https://docs.microsoft.com/partner-center/develop/get-prices-for-microsoft-azure)。
 - 這些 API 和合作夥伴中心 API 位於不同的端點 (裝載 API 的網域)。
 
@@ -345,7 +349,7 @@ _________________
 
 雲端解決方案提供者 (CSP) 計畫中的 [Microsoft 客戶合約](https://www.microsoft.com/licensing/docs/customeragreement)已自 2019 年 10 月起推出，以取代現有的 Microsoft Cloud 合約。 不論客戶選擇何種購買方式，這項新的簡化型客戶合約都可為客戶提供一致的購買條款。
 
-**自 2020 年 2 月 1 日起，雲端解決方案提供者中的直接計費和間接提供者都必須確認客戶接受 Microsoft 公用雲端提供之任何雲端解決方案提供者供應項目的 Microsoft 客戶合約**。 若未確認客戶接受新合約，合作夥伴將無法為客戶進行新的購買，包括自該日期之後變更現有購買的基座和續約 (注意：自動續約不受影響)。
+**自 2020 年 2 月 1 日起，雲端解決方案提供者中的直接計費和間接提供者都必須確認客戶接受 Microsoft 公用雲端提供之任何雲端解決方案提供者供應項目的 Microsoft 客戶合約**。 若未確認客戶接受新合約，合作夥伴將無法為客戶進行新的購買，包括自該日期之後變更現有購買的基座和續約 (自動續約不受影響)。
 
 合作夥伴向客戶告示新合約的方式，與現有 Microsoft Cloud 合約的告示方式大同小異。 客戶檢閱並接受合約後，合作夥伴必須在合作夥伴中心內確認客戶已接受。 合作夥伴中心 Web 使用者介面、API 和 .NET SDK 已更新，以支援新合約。
 
@@ -357,10 +361,8 @@ _________________
 - 針對現有 Microsoft Cloud 合約使用 API 的合作夥伴，必須使用[更新的 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) 來修訂其現行實作措施。
 - 訓練您的專員與轉銷商了解[新的合約條款](https://www.microsoft.com/licensing/docs/customeragreement)，以及告示新合約並確認客戶接受合約。
 
-### <a name="note"></a>注意：
-
-- 客戶也必須接受 Microsoft 客戶合約，才能透過 [Azure 雲端解決方案提供者的新商務體驗購買](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)，該體驗已於 2019 年 11 月發行。
-- 在行事曆年度 2020 年第 1 季中，雲端解決方案提供者中的合作夥伴也會開始在合作夥伴中心內看到其他選項，可讓合作夥伴邀請客戶加入通過驗證的 Microsoft 入口網站 (Microsoft 365 系統管理中心)，並讓客戶直接檢視與簽署 Microsoft 客戶合約。
+>[!NOTE] 
+>客戶也必須接受 Microsoft 客戶合約，才能透過 [Azure 雲端解決方案提供者的新商務體驗購買](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)，該體驗已於 2019 年 11 月發行。 在行事曆年度 2020 年第 1 季中，雲端解決方案提供者中的合作夥伴也會開始在合作夥伴中心內看到其他選項，可讓合作夥伴邀請客戶加入通過驗證的 Microsoft 入口網站 (Microsoft 365 系統管理中心)，並讓客戶直接檢視與簽署 Microsoft 客戶合約。
 
 ### <a name="change-log"></a>變更記錄：
 

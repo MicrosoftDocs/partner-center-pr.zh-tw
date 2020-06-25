@@ -1,21 +1,20 @@
 ---
 title: 合併您的公司帳戶
+description: 了解如何在合作夥伴中心內將 Partner Membership Center (PMC) 帳戶合併成一個帳戶。 適用於從 PMC 遷移至合作夥伴中心
 ms.topic: article
-ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何在合作夥伴中心內將 Partner Membership Center (PMC) 帳戶合併成一個帳戶。 適用於從 PMC 遷移至合作夥伴中心
-ms.assetid: 4A07A85A-594E-4121-808C-37E7FA18A0C5
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63bbbc57572135b5de3d61a6fab8ea60371e58ec
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.date: 05/05/2020
+ms.openlocfilehash: a1b92f296b572d8317437519e9472972b6e5aba4
+ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908146"
+ms.lasthandoff: 06/17/2020
+ms.locfileid: "84908656"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>從 PMC 遷移至合作夥伴中心時合併公司帳戶
 
@@ -40,10 +39,9 @@ ms.locfileid: "82908146"
 
 5. 合併您的帳戶之後，您可能有資格享有更多的專長認證。 您現在也可能符合其他獎勵計畫的資格。
 
-
 ## <a name="what-happens-during-consolidation-of-accounts"></a>帳戶彙總期間會發生什麼事
 
-- 您無法變更公司詳細資料畫面上的詳細資料。 這些詳細資料是適用於合作夥伴通用帳戶。 
+- 您無法變更公司詳細資料畫面上的詳細資料。 這些詳細資料是適用於合作夥伴通用帳戶。
 
 - PMC 中的帳戶將會合併到合作夥伴通用帳戶。
 
@@ -64,4 +62,3 @@ ms.locfileid: "82908146"
 在合作夥伴中心中，所有位置帳戶都會合併為單一通用帳戶。 這表示所有進入市場供應項目、方案及專長認證也都會合併。 其他權益工具套件 (ABTK) 將無法使用。 不過，您可以視公司需求來組織行銷資源、供應項目、方案及專長認證的散發。 當您合併時，我們將會提供延期。 此延期可讓您的公司針對其用於 PMC 中的行銷資源、供應項目及方案，享受額外一年的使用權限。
 
 如需 PMC 和合作夥伴中心間差異的詳細資訊，請參閱[從 PMC 移至合作夥伴中心](guide-to-migration.md)。
-

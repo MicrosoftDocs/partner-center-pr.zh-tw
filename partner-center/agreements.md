@@ -1,20 +1,21 @@
 ---
-title: Microsoft 客戶合約客戶範本 | 合作夥伴中心
+title: Microsoft 客戶合約範本
 ms.topic: article
-ms.date: 11/13/2019
+ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何尋找並下載 Microsoft 客戶合約的地區和語言特定版本，以與您的客戶進行檢閱。
+description: 了解如何尋找並下載 Microsoft 客戶合約的區域特定和語言特定版本，以與您的客戶進行檢閱。
 author: LauraBrenner
 ms.author: labrenne
 keywords: Microsoft 客戶合約, 客戶合約範本, 雲端解決方案提供者客戶合約, Microsoft 客戶合約, MCA, 雲端解決方案提供者, 可以透過雲端解決方案提供者在哪些地方進行銷售？, 雲端解決方案提供者國家/地區, 多種語言的雲端解決方案提供者 MCA, 北美洲雲端解決方案提供者, 中美洲雲端解決方案提供者, 南美洲雲端解決方案提供者, 加勒比海雲端解決方案提供者, CSP Microsoft Cloud for US Government, 雲端解決方案提供者 Microsoft Cloud 德國, 中東雲端解決方案提供者, 非洲雲端解決方案提供者, 歐洲雲端解決方案提供者, 亞洲雲端解決方案提供者, 太平洋雲端解決方案提供者, 雲端解決方案提供者 MCA
 ms.localizationpriority: high
-ms.openlocfilehash: f60bcdd5c986e825089144ff4b908ed5b779a735
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.custom: SEOJUNE.20
+ms.openlocfilehash: 9bd4bc77c6afcd1efcb112fc45328150c54d7413
+ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798636"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "85198586"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>依地區和語言的 Microsoft 客戶合約
 
@@ -38,12 +39,6 @@ ms.locfileid: "82798636"
 各地區皆有專屬的 Microsoft 客戶合約，且提供多個語言。 在下列其中一份清單中尋找客戶的位置和慣用語言，以下載正確的合約。
 
 如果您不確定可以銷售哪些地區和市場，請在此清單中尋找貴公司的位置：[雲端解決方案提供者計畫的區域市場和貨幣](regional-authorization-overview.md)。
-
-<!--November 3, 2018. I think we can get rid of this note, but leaving it commented out in case we need to reinstate it. (MaggieE)
-
-> [!NOTE]  
-> The Microsoft Customer Agreement customer templates listed below are valid starting September 1, 2017 for all regions and all languages.
--->
 
 ## <a name="north-america-central-america-south-america-and-the-caribbean"></a>北美洲、中美洲、南美洲及加勒比海
 
@@ -180,13 +175,6 @@ ms.locfileid: "82798636"
 - 烏克蘭：[英文](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[烏克蘭文](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_UKR_Sep20172_CR.pdf) 
 - 英國：[英文](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 梵蒂岡：[英文](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
-
-<!--
-November 5, 2018 - commenting out this section because we've stopped accepting new enrollments into the MS Cloud Germany - MaggieE
-
-## Microsoft Cloud Germany
-- All EU/EFTA: [English](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_ENG_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863183184&sdata=FF2w1Zx1MhkKliW25tsvegd67%2FZy2VwE7QsRPEIkb9U%3D&reserved=0), [German](https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F2%2FC%2F8%2F2C8CAC17-FCE7-4F51-9556-4D77C7022DF5%2FMCA2017Agr_EMEA_EU-EFTA_GER_GER_Aug2018_GermanCloud_CR.pdf&data=02%7C01%7C%7C3099d55ab6df4b5d1ea608d5fd8a8cfd%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636693693863193193&sdata=bnijpI%2Fw442YANA8y2wVHKfg5gbqYp8WTS1dfGhBIxQ%3D&reserved=0)
--->
 
 ## <a name="middle-east-and-africa"></a>中東與非洲
 - 阿爾及利亞：[英文](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ENG_Sep20172_CR.pdf)、[法文](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_FRE_Sep20172_CR.pdf)、[阿拉伯文](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_MEA-EE_ARA_Sep20172_CR.pdf)

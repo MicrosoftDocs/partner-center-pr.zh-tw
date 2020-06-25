@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4437d3afd408810c9770e532950fc2661228eb62
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453235"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679085"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>從 PMC 移轉至合作夥伴中心的指南
 
@@ -27,7 +27,7 @@ Microsoft 合作夥伴網站 (網域為 Partner.microsoft.com) 是合作夥伴�
 
 Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將您的 Microsoft 合作夥伴網路會員資格管理轉移至合作夥伴中心。 本指南將為您從 PMC 移至合作夥伴中心時所預期的情況做好準備。
 
->[!Note]
+>[!NOTE]
 >即使您的公司有多個帳戶或位置，移至合作夥伴中心一開始會先將某個 (您的第一個) 帳戶移至合作夥伴中心。
 
 ## <a name="get-started"></a>開始使用
@@ -51,7 +51,7 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 如果您的公司沒有工作電子郵件和 AAD 租用戶，我們可以協助您在合作夥伴中心登入過程中設定一個。 當您嘗試使用不是工作電子郵件的電子郵件帳戶 (例如您的個人帳戶) 登入時，系統會引導您提供公司相關資訊，讓我們可以設定 AAD 租用戶和工作電子郵件。 這些公司詳細資料將用來在合作夥伴中心完成您的帳戶，因此請確定它們是正確的。
 
->[!Note]
+>[!NOTE]
 >如果您是位於中國的合作夥伴，並同時在 Microsoft 合作夥伴網路和雲端解決方案提供者 (CSP) 方案中註冊，您的每個帳戶將會有個別租用戶。 您搭配雲端解決方案提供者方案的帳戶是在國家雲端進行管理，而您的 Microsoft 合作夥伴網路帳戶則是在全球雲端進行管理。 無法連結這兩個帳戶。
 
 :::image type="content" source="images/migration/newtellusabout.png" alt-text="向我們描述您的公司":::
@@ -74,11 +74,16 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 :::image type="content" source="images/migration/invite.png" alt-text="邀請員工":::
 
-如果您已使用現有的 AAD 租用戶登入，您的員工將會與您一起移動。 在此情況下，請為您的員工指派可決定他們在合作夥伴中心做什麼的角色。 注意：合作夥伴中心的角色與 PMC 中的角色不同。 如需詳細資訊，請參閱[從 PMC 移至合作夥伴中心](move-pmc-pc-map.md)。
+如果您已使用現有的 AAD 租用戶登入，您的員工將會與您一起移動。 在此情況下，請為您的員工指派可決定他們在合作夥伴中心做什麼的角色。 
+
+>[!NOTE] 
+>合作夥伴中心的角色與 PMC 中的角色不同。 如需詳細資訊，請參閱[從 PMC 移至合作夥伴中心](move-pmc-pc-map.md)。
 
 ## <a name="verify-your-domain-and-become-a-global-admin"></a>驗證您的網域並成為全域系統管理員  
 
-如果您的 AAD 租用戶是新的，則不會有任何人獲指派為全域系統管理員的角色。若要成為全域系統管理員，您必須驗證您的網域擁有權。 您可能需要網域系統管理員來協助您處理此工作。 請注意，雖然您可以使用已購買的供應項目，但在您完成取得全域系統管理員的步驟之前，將無法購買任何新的供應項目。
+如果您的 AAD 租用戶是新的，則不會有任何人獲指派為全域系統管理員的角色。若要成為全域系統管理員，您必須驗證您的網域擁有權。 您可能需要網域系統管理員來協助您處理此工作。
+
+雖然您可以使用已購買的供應項目，但在您完成指派全域管理員的步驟之前，將無法購買任何新的供應項目。
 
 :::image type="content" source="images/migration/takecontrol.png" alt-text="掌握控制權":::
 

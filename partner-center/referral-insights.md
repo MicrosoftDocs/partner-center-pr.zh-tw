@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 推薦, 分析, 分析, 計量, 轉換
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c13f2e6d8500b715aa29fb3f0178e7ed020062a
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 4ffe5c7a485749d138be09fb5740d9b15970a546
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467448"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679425"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>在合作夥伴中心取得推薦見解，並了解您的推薦情況
 
@@ -39,13 +39,13 @@ ms.locfileid: "84467448"
   - **行銷合格**：透過 Microsoft 的行銷系統建立。
   - **銷售合格**：由 Microsoft 銷售代理人建立。
   - **不合格**：沒有相關聯品質量值的推薦。
-- **推薦類型** - 預設值是 [全部]，但您可以選擇將資料限制為 [獨立] 推薦 (您直接與客戶合作以結案的推薦)，或 [共同銷售] 推薦 (包括其他合作對象一起工作以結案的推薦)。
+  - **推薦類型** - 預設值是 [全部]，但您可以選擇將資料限制為 [獨立] 推薦 (您直接與客戶合作以結案的推薦)，或 [共同銷售] 推薦 (包括其他合作對象一起工作以結案的推薦)。
 
 下列所有圖表中的資訊將反映您選取的日期範圍和任何篩選條件，除了以下註明的地方。 某些區段也可讓您套用其他篩選，例如篩選特定解決方案。
 
 ## <a name="referrals-summary"></a>推薦摘要
 
-此圖表顯示您的推薦如何執行的概觀。 請注意，只有日期範圍篩選適用於此圖表；不會套用任何其他篩選。 
+此圖表顯示您的推薦如何執行的概觀。 只有日期範圍篩選適用於此圖表；不會套用任何其他篩選。 
 
 此圖表會顯示所選時段的推薦總數、成交的數目，以及總交易量 (美元)。 展開圖表會顯示其他資料，例如推薦來源和推薦方向的分解。 
 

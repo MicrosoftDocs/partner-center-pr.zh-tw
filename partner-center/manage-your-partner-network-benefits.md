@@ -1,7 +1,7 @@
 ---
 title: 管理 Microsoft 合作夥伴網路權益
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作夥伴網路 (MPN)，並使用合作夥伴中心來管理可協助拓展您業務的會員資格權益和優惠。
@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: MPN, 會員資格權益, 會員資格
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f937316e01f20fb0f255d9af23328a200fb8445
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: d55492a52ada3328cb040d443f2c7b854cd6be96
+ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83796001"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "85072407"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作夥伴中心管理您的 Microsoft 合作夥伴網路會員資格權益和優惠
 
@@ -85,25 +85,25 @@ ms.locfileid: "83796001"
 
 4. 針對每個您要指派的訂閱重複此程序。 使用者可以在 Visual Studio 入口網站管理訂閱。
 
-    透過移除指派的使用者，然後指定不同的使用者，您可以隨時重新指派訂閱。
+   透過移除指派的使用者，然後指定不同的使用者，您可以隨時重新指派訂閱。
 
 ## <a name="manage-technical-benefits"></a>管理技術權益
 
 1. 選取 [技術權益] 以查看您的 Microsoft 技術權益清單。
 
-    技術權益可能包含 Microsoft 產品支援事件、合作夥伴諮詢時數，以及技術售前和部署服務。
+   技術權益可能包含 Microsoft 產品支援事件、合作夥伴諮詢時數，以及技術售前和部署服務。
 
 2. 尋找您要開始使用的支援權益，然後選取資料列最右邊的向下箭頭，即可展開支援權益的詳細資料。
 
 3. 若要啟用支援權益，請將使用者指派給此項權益。
 
-   a.  從清單中選取使用者。 若想要指派的使用者不在清單中，您可以在 [帳戶設定] 中[新增使用者](create-user-accounts-and-set-permissions.md)。
+   a. 從清單中選取使用者。 若想要指派的使用者不在清單中，您可以在 [帳戶設定] 中[新增使用者](create-user-accounts-and-set-permissions.md)。
 
-   b.  提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。
+   b. 提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。
 
    做為保護措施，我們將會透過電子郵件將存取 Microsoft 產品支援的指示傳送到此電子郵件地址，除了使用者的合作夥伴中心帳戶電子郵件。 可能需要數天來啟用這個權益及透過電子郵件傳送指示給受指派的使用者。
 
-   c.  完成輸入其他電子郵件地址後，選取 [指派使用者]。
+   c. 完成輸入其他電子郵件地址後，選取 [指派使用者]。
 
 4. 在雲端和混合式解決方案的售前、設計、部署及應用程式開發階段，您可以使用您的技術售前協助或諮詢時數權益來請求技術協助。 若要請求協助，請填寫[要求表單](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)，然後選取 [提交要求]。
 
@@ -116,26 +116,26 @@ ms.locfileid: "83796001"
 
 1. 選取 [權益]，然後選取 [進入市場] 以查看和「與 Microsoft 並肩進入市場」計畫相關聯的供應項目清單。
 
-    [進入市場功能](mpn-learn-about-go-to-market-benefits.md)提供可能可供您使用的其他行銷資源、供應項目、方案和協助。 可用的供應項目類型取決於您的特定合作夥伴層級，以及您可能已取得的任何專長認證。
+   [進入市場功能](mpn-learn-about-go-to-market-benefits.md)提供可能可供您使用的其他行銷資源、供應項目、方案和協助。 可用的供應項目類型取決於您的特定合作夥伴層級，以及您可能已取得的任何專長認證。
 
 2. 若要啟用任何進入市場供應項目或方案，您必須先指派公司行銷連絡人。 此連絡人將會收到有關您作用中進入市場供應項目的後續通訊。
 
 3. 若要新增或更新您的行銷連絡人資訊，請移至 [進入市場] 頁面的頂端，然後選取 [新增]、[更新] 或 [變更]。 現在，執行下列步驟：  
 
-    a.  從清單中選取使用者。 若想要指派的使用者不在清單中，您可以在 [帳戶設定] 中[新增使用者](create-user-accounts-and-set-permissions.md)。
+   a. 從清單中選取使用者。 若想要指派的使用者不在清單中，您可以在 [帳戶設定] 中[新增使用者](create-user-accounts-and-set-permissions.md)。
 
-    b.  提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。
+   b. 提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。
 
-    我們會透過電子郵件將使用您進入市場供應項目的指示寄給您指定的行銷連絡人電子郵件地址。
+      我們會透過電子郵件將使用您進入市場供應項目的指示寄給您指定的行銷連絡人電子郵件地址。
 
-    c.  提供此行銷連絡人的連絡電話和慣用語言。 在您完成輸入此資訊之後，請選取 [指派使用者]。
+   c.  提供此行銷連絡人的連絡電話和慣用語言。 在您完成輸入此資訊之後，請選取 [指派使用者]。
 
-4. 在您更新行銷連絡人之後，請尋找您要開始使用的進入市場供應項目，然後選取該列最右邊的向下箭頭，以展開該供應項目的詳細資料。 此清單會在權益名稱底下顯示每一種可用的供應項目 (例如，[銀級核心] 或 [金級核心])。
+4. 在您更新行銷連絡人之後，請尋找您要開始使用的進入市場供應項目，然後選取該列最右邊的向下箭頭，以展開該供應項目的詳細資料。 此清單會在權益名稱底下顯示每一種可用的供應項目 (例如，[銀級核心]、[金級核心] 或 [ISV 為共同銷售做好準備])。
 
 5. 選取 [啟用] 以啟用該供應項目。
 
-> [!NOTE]
->可能需要幾天的時間，才會透過電子郵件將指示寄給指派的行銷連絡人，並啟用進入市場供應項目。 一旦啟用供應項目之後，您將會在 [進入市場] 頁面上看到變更。 在 [狀態] 欄中，您會看到供應項目變更為 [作用中]。 在 [到期] 欄中，您會看到供應項目的到期日。 在到期日之前，您都可以使用此供應項目。 深入了解[有哪些不同類型的進入市場資源、供應項目和方案](mpn-learn-about-go-to-market-benefits.md)可用。  
+   > [!NOTE]
+   >可能需要幾天的時間，才會透過電子郵件將指示寄給指派的行銷連絡人，並啟用進入市場供應項目。 一旦啟用供應項目之後，您將會在 [進入市場] 頁面上看到變更。 在 [狀態] 欄中，您會看到供應項目變更為 [作用中]。 在 [到期] 欄中，您會看到供應項目的到期日。 在到期日之前，您都可以使用此供應項目。 深入了解[有哪些不同類型的進入市場資源、供應項目和方案](mpn-learn-about-go-to-market-benefits.md)可用。  
 
 ## <a name="cancel-a-membership-benefit-or-offer"></a>取消會員資格權益或供應項目
 
@@ -143,8 +143,8 @@ ms.locfileid: "83796001"
 
 ## <a name="next-steps"></a>接下來的步驟
 
-[新增使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
+- [新增使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
 
-[購買或續約 Microsoft 行動套件的訂閱](mpn-get-action-pack.md)
+- [購買或續約 Microsoft 行動套件的訂閱](mpn-get-action-pack.md)
 
-[了解 MPN 進入市場供應項目和資源](mpn-learn-about-go-to-market-benefits.md)
+- [了解 MPN 進入市場供應項目和資源](mpn-learn-about-go-to-market-benefits.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/01/2020
-ms.openlocfilehash: 4f682fc6435d6a0b29d727ded2d08fc934666020
-ms.sourcegitcommit: 833a25c887eec10ef7cb717898b10f5ee4a61dc8
+ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "84253995"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84678925"
 ---
 # <a name="march-2020-announcements"></a>2020 年 3 月公告
 
@@ -104,7 +104,8 @@ Microsoft 已於 2018 年 8 月 31 日，在雲端解決方案提供者 (CSP) �
 
 如需詳細資訊，請參閱[雲端解決方案提供者供應項目](https://docs.microsoft.com/partner-center/csp-offers)頁面。
 
-注意：僅支援移轉授權型訂用帳戶和 Azure 訂用帳戶。 您必須手動移轉 Azure 方案和商業市集購買項目。 請注意，這牽涉到取消和續訂下列文件中所述的訂用帳戶：[Azure 方案](https://docs.microsoft.com/partner-center/azure-plan-lp)和[商業市集](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage)。 由於伺服器訂閱和 Azure 保留是買斷型購買，因此不需要將這些項目移轉到間接提供者租用戶。 如需詳細資訊，請瀏覽雲端解決方案提供者供應項目頁面。
+>[!NOTE] 
+>僅支援移轉授權型訂用帳戶和 Azure 訂用帳戶。 您必須手動移轉 Azure 方案和商業市集購買項目。 請注意，這牽涉到取消和續訂下列文件中所述的訂用帳戶：[Azure 方案](https://docs.microsoft.com/partner-center/azure-plan-lp)和[商業市集](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage)。 由於伺服器訂閱和 Azure 保留是買斷型購買，因此不需要將這些項目移轉到間接提供者租用戶。 如需詳細資訊，請瀏覽雲端解決方案提供者供應項目頁面。
 
 ### <a name="additional-resources"></a>其他資源：
 
@@ -209,7 +210,8 @@ _________________
 - 為避免因調查合法項目的審查失敗而發生任何延遲，請務必輸入**正確**的客戶資料，並盡可能**完整**。 請勿輸入測試/虛擬資料。
 - 請檢閱**在合作夥伴中心內建立教育客戶指南**和 **[新增客戶] 頁面**，其中記載在合作夥伴中心內建立新教育客戶時需要進行哪些作業。 您可以在下列資源庫中找到這兩項資訊。
 
-**注意：** **在合作夥伴中心內建立教育客戶指南**現在包含逐步指示，說明如何修正客戶資訊，並在客戶審查失敗時重新提交資訊。
+>[!NOTE] 
+>**在合作夥伴中心內建立教育客戶指南**現在包含逐步指示，說明如何修正客戶資訊，並在客戶審查失敗時重新提交資訊。
 
 **後續步驟/其他資源：**
 
@@ -218,7 +220,7 @@ _________________
 ### <a name="change-log"></a>變更記錄：
 
 - 原始發行日期：2019 年 12 月 19 日
-- 注意，若已移除 (不再需要) 銷售教育供應項目的新合作夥伴，請連絡支援人員：2020 年 1 月 13 日
+- 若已移除 (不再需要) 銷售教育供應項目的新合作夥伴，請連絡支援人員：2020 年 1 月 13 日
 - 新增了 2020 年 2 月更新：2020 年 2 月 10 日
 - 可修正客戶帳戶資訊並重新提交審查的新功能通知：2020 年 3 月 10 日
 

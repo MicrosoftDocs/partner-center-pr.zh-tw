@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 雲端解決方案提供者, 雲端解決方案提供者計畫, 雲端解決方案提供者, 新增產品, 銷售給客戶, 合作夥伴供應項目, 雲端解決方案提供者供應項目, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 在雲端解決方案提供者中銷售, Azure RI, Azure 保留的虛擬機器執行個體, Azure Reservations, 線上服務, 訂閱軟體, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客戶訂閱
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73313831bd1536e7f102520b1fd0df4606aa56dc
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 32d89ec53eb11f661758e008c9566fbdac9f383e
+ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467238"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "84679015"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>概述雲端解決方案提供者方案中的合作夥伴供應項目
 
@@ -62,9 +62,12 @@ ms.locfileid: "84467238"
 
    您可以向獨立軟體廠商 (ISV) 銷售 SaaS 產品的訂閱。 若只要查看**線上服務**中的 SaaS 供應項目，請使用篩選將**發行者**設定為**合作夥伴**。 這會顯示可為該客戶購買的所有 SaaS 供應項目。
 
-   您也可以在 [Marketplace] 頁面上找到這些產品的相關資訊。 請注意，此頁面也包含必須從 Azure 入口網站 (而非合作夥伴中心) 購買的其他類型產品相關資訊。
+   您也可以在 [Marketplace] 頁面上找到這些產品的相關資訊。
 
-   如需詳細資訊，請參閱 [CSP 商業市集的概觀](CSP-commercial-marketplace-overview.md)
+>[!NOTE] 
+>此頁面也包含必須從 Azure 入口網站 (而非合作夥伴中心) 購買的其他類型產品相關資訊。
+
+如需詳細資訊，請參閱 [CSP 商業市集的概觀](CSP-commercial-marketplace-overview.md)
 
 ## <a name="add-products-page-details"></a>新增產品頁面詳細資料
 
@@ -88,7 +91,7 @@ ms.locfileid: "84467238"
 
 若要代表您的雲端解決方案提供者客戶購買產品和服務，請選取客戶所要的項目、將這些項目新增到購物車、建立訂單，然後檢視並提交訂單。 一般程序如下所述。 (如需特定產品類型訂單的詳細資訊，請參閱上面的連結)。
 
->[!Note]
+>[!NOTE]
 >在您的租用戶國家/地區和客戶的租用戶國家/地區中都必須提供 CSP 供應項目。 例如，如果您的租用戶位於斯洛伐克，而客戶的租用戶位於德國，則您無法將 Dynamics 365 Business Central Premium 銷售給該客戶，因為目前在斯洛伐克並未提供此供應項目。
 
 1. 從 [合作夥伴中心] 功能表選取 [客戶]，然後找出要向您購買的客戶。 
@@ -110,6 +113,23 @@ ms.locfileid: "84467238"
 ## <a name="rules-for-special-segments"></a>特殊部門適用規則
 
 某些授權型供應項目只能在特定情況下購買。 特殊部門供應項目包括教育、非營利或政府社群雲端 (GCC) 供應項目。 如需這些購買條件的詳細資料，請參閱[特殊部門適用的購買規則主題](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)。
+
+## <a name="troubleshooting-catalog-purchases"></a>針對目錄購買進行疑難排解
+
+在目錄中找不到您要尋找的供應項目可能有不同的原因。 如果您找不到預期的供應項目，以下是要檢查的事項。
+
+- **確認您的客戶是合格的**。 許多供應項目都需要特殊資格才能銷售給客戶。 這些特殊部門包括教育、非營利和政府社群雲端 (GCC)。 在記錄問題之前，請先確認已據此設定客戶的資格。 您可以從客戶清單中按一下客戶，然後檢視帳戶來進行檢查。 如果適用的話，帳戶會有特殊資格。 如果您嘗試為沒有資格的客戶購買教育版，您將不會在目錄中看到這些供應項目。 如需有關為您的客戶提供資格的詳細資訊，請參閱[特殊部門文件](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)。
+- **決定您是否嘗試購買附加元件或基本供應項目**。 許多授權型服務 (例如 Microsoft 365 和 Dynamics 365) 都可以在目錄中購買基本供應項目和附加元件。 只有基本供應項目可以在目錄中購買。 若要購買附加元件，請務必先在目錄中購買基本供應項目，然後從客戶清單中選取客戶，接著選取基本供應項目的訂用帳戶。 附加元件可以套用至此管理訂用帳戶頁面上的基本供應項目。 
+- **確認產品可在您的市場中取得**。 許多產品和服務都設定為只銷售給特定國家/地區的客戶。 您可以在各種價目表檔案中找到支援的國家/地區清單。 授權型服務支援國家/地區位於定價與供應項目頁面上的供應項目清單矩陣中。
+- **確認價目表上有供應項目列出**。 可用的供應項目清單會逐月變更。 如果您在目錄中找不到供應項目，請務必確認其在 [銷售] > [定價與供應項目] 頁面的目前價目表中有提供。
+
+### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>與在合作夥伴中心購買項目相關的建議文件
+
+- [合作夥伴中心中的定價與供應項目](https://docs.microsoft.com/partner-center/pricing-and-offers)
+- [概述雲端解決方案提供者方案中的合作夥伴供應項目](https://docs.microsoft.com/partner-center/csp-offers)
+- [如何向教育客戶銷售供應項目以及建立教育客戶](https://docs.microsoft.com/partner-center/sell-to-education-customers)
+- [銷售給特殊產業，例如教育、非營利及政府使用者](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
+- [特殊部門的購買規則](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>接下來的步驟
 
