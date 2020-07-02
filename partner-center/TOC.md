@@ -44,8 +44,9 @@
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
 ## [CSP 地區市場及貨幣](regional-authorization-overview.md)
 ## [雲端解決方案提供者地區授權租用戶彙總簡介](csp-regional-authorization-tenant-consolidation.md)
-## [確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)
-### [證明代表客戶接受客戶合約的時機](attest-acceptance-customer-agreement.md)
+## [概觀 - 確認客戶接受 Microsoft 客戶合約的新方法](confirm-consent.md)
+## [如何確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)
+## [證明代表客戶接受客戶合約的時機](attest-acceptance-customer-agreement.md)
 
 ## [適用於銷售 (sell-in) 國家/地區雲](csp-national-clouds-overview.md)
 ### [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
@@ -94,12 +95,25 @@
 ### [註冊您的交易](register-deals.md)
 ### [取得推薦深入解析](referral-insights.md)
 ### [分析您的商務設定檔](analyze-your-marketing-profile.md)
-## [獎勵宣告](claims-overview.md)
-### [建立和管理獎勵宣告](create-incentives-claims.md)
-### [獎勵宣告的核心要求](core-requirements.md)
-### [存取您的獎勵支出頁面](incentives-unified-user-guide.md)
-### [查看您的獎勵付款和計畫](understand-incentive-payouts.md)
-### [使用 CPOR 模型建立客戶關聯](submit-osa-claim.md)
+## [獎勵](claims-overview.md)
+### 開始使用獎勵
+#### [判斷您的計畫資格](incentives-determined-your-program-eligibility.md)
+#### [在合作夥伴中心建立及管理支出與稅務設定檔](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [確認您的收益資格](incentives-confirm-your-earnings-eligibility.md)
+#### [查看您的獎勵付款和計畫](understand-incentive-payouts.md)
+#### [存取您的獎勵支出頁面](incentives-unified-user-guide.md)
+### 執行方案和證明
+#### [建立您的方案](incentives-create-your-plan.md)
+#### [準備您的執行證明](incentives-prepare-your-proof-of-execution.md)
+### 獎勵合作宣告
+#### [建立和管理獎勵合作宣告](create-incentives-claims.md)
+#### [獎勵合作宣告的核心需求](core-requirements.md)
+#### [合作宣告核准和付款期限](incentives-managing-co-op-claims.md)
+### 獎勵 CPOR 關聯宣告
+#### [使用 CPOR 模型建立客戶關聯](submit-osa-claim.md)
+#### [管理客戶關聯](incentives-manage-customer-associations.md)
+#### [客戶關聯問題](incentives-customer-association-issues.md)
+### [針對付款和收益問題進行疑難排解](incentives-payment-issues.md)
 
 # [帳單與稅金](billing.md)
 ## [帳單基本知識](billing-basics.md)

@@ -10,12 +10,12 @@ ms.author: labrenne
 keywords: 客戶, 客戶, 同意, MCA, Microsoft Cloud 合約, Microsoft 客戶合約, 客戶合約範本, 證明接受
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e5402d1c6075c86df8511a1621c9090cd2c9451
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: b74989324fb64cbc8875752bfc33a24285e96936
+ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909016"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "85678567"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>代表客戶證明接受 Microsoft 客戶合約
 
@@ -54,4 +54,7 @@ ms.locfileid: "84909016"
 
 **若要解決**：您必須代表客戶進行證明。  
 
-:::image type="content" source="images/mca/accept-scenario-2.png" alt-text="授權合作夥伴頁面的螢幕擷取畫面，具有可以選取的 [授權] 選項 - 顯示特定合作夥伴的詳細資料、其關聯性和其系統管理員角色。":::
+## <a name="next-steps"></a>接下來的步驟
+
+- [如何在合作夥伴中心新增客戶記錄](add-a-new-customer.md)
+- [簡介：Azure 方案可讓合作夥伴以隨用隨付費率為客戶購買 Azure](azure-plan-lp.md)
