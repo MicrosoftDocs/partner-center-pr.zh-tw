@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 77b5d692a103303b9a0e70aa49321773569bf954
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 74c78646924c923a6c9db992589ed98612245cab
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85678653"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879087"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
 了解重要的合作夥伴中心更新。 此項訊息更新頻繁，因此請務必定期回來查看！
 
-| **類別** | **2020 年 6 月公告** | **公告** |
+| **類別** | **2020 年 7 月公告** | **公告** |
 |---------|:---------|:---------|
+| 供應項目/市場 | [全新和生命週期結束 Microsoft Dynamics 365 和 Power 平台供應項目與產品](2020-july.md#3) | 7 月 1 日 |
+| 供應項目/市場 | [Microsoft 已結束銷售 Microsoft Kaizala 專業版獨立 SKU](2020-july.md#2) | 7 月 1 日 |
+| 功能 | [在 FY21 Q1 擴充的 CSP 獎勵計畫](2020-july.md#1) | 7 月 1 日 |
+| **類別** | **2020 年 6 月公告** | **日期** |
 | 供應項目/市場 | [現已推出適用於 CSP 合作夥伴的 Windows 7 Year 2 ESU](2020-june.md#6) | 6 月 29 日 |
 | 功能 | [合作夥伴中心關聯性移除功能更新](2020-june.md#5) | 6 月 29 日 |
 | 功能 | [計費頻率預設從年度定期變更為每月](2020-june.md#4) | 6 月 17 日 |

@@ -8,13 +8,13 @@ author: LauraBrenner
 ms.author: labrenne
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 02/04/2020
-ms.openlocfilehash: 74db948f1f55e52957a480f2dc74a41b888f18c4
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.date: 07/01/2020
+ms.openlocfilehash: c05ed9aca47b7d232d7d6a0087217850c834e513
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394113"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879384"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>在雲端解決方案提供者計畫中與間接經銷商建立合作關係
 
@@ -105,6 +105,25 @@ ms.locfileid: "83394113"
 | 提供經銷商獎勵的信用點數 | 關聯經銷商到訂閱（新或現有） | 在 **\[新訂閱\]** 頁面上 |
 | 委派特定訂閱的客戶支援給經銷商 | 從 **\[指派的支援連絡人\]** 清單選取經銷商 | 在訂用帳戶的詳細資料頁面上：選取 [**客戶] 頁面，** 然後從 [客戶的**訂閱**] 頁面中選取訂用帳戶 |
 
+## <a name="remove-partnership-with-indirect-resellers"></a>移除與間接轉銷商的合作關係
+
+若要移除與現有間接轉銷商的合作關係，請遵循下列步驟。 
+
+1. 從 [儀表板] 的 [合作夥伴中心] 功能表中，選取 [**間接轉銷商**]。 
+
+2. 在 [**間接轉銷商**] 頁面上，選取 [**移除合作關係**]。 隨即出現一則訊息，要求您確認選取 [是] 繼續進行。
+
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="移除合作關係":::
+
+>[!IMPORTANT]
+>與間接轉銷商相關聯的客戶將不會被移除。 任何授與的委派系統管理員許可權都將維持不變。
+>您的決策是為了確保與合作夥伴中斷關聯性、符合合法的商業目的，以及與您的客戶或合作夥伴簽訂的合約一致，而且您同意保護和保有與任何協力廠商宣告相反的 Microsoft 無害。
+>如果您的合約要求您的客戶或合作夥伴，您必須提供其終止的法律通知。 此工具不會對客戶或合作夥伴產生通知。
+
+3. 您移除其合作關係的間接轉銷商將不會出現在清單中。
+視存取層級和參與程度而定，您可能會想要與間接轉銷商溝通，並讓客戶知道這項變更。
+
+
 ## <a name="connect-with-customers"></a>與客戶保持聯繫
 
 當您收到新客戶時，您需要為他們在合作夥伴中心中建立帳戶。 當您新增客戶帳戶時，您可以指定特定的轉銷商來管理帳戶，並代表他們管理客戶的訂閱和服務。
@@ -128,7 +147,7 @@ ms.locfileid: "83394113"
     > [!IMPORTANT]  
     > 請務必記下使用者帳戶名稱和密碼，因為您在關閉此頁面之後，將無法再存取這項資訊。
 
-7. 選取 [完成]  。 新的客戶出現在您的客戶清單中，並與間接經銷商相關聯。 轉銷商現在具有客戶帳戶資訊和訂用帳戶的系統管理員存取權，而且可以代表客戶管理訂閱。
+7. 選取 [完成] 。 新的客戶出現在您的客戶清單中，並與間接經銷商相關聯。 轉銷商現在具有客戶帳戶資訊和訂用帳戶的系統管理員存取權，而且可以代表客戶管理訂閱。
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>新增新的訂閱到客戶帳戶
 
@@ -148,7 +167,7 @@ ms.locfileid: "83394113"
 
 7. 完成時選取 **\[提交\]**。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 如需有關如何管理客戶帳戶和訂閱的詳細資訊，請參閱：
 

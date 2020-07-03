@@ -8,16 +8,16 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: a5cd485c5d12c333c81954e74574968df7163d3d
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 9e88aa42331f8181b3c8e3eca9d3423741e1c69a
+ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719328"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "85879482"
 ---
 # <a name="manage-customer-associations"></a>管理客戶關聯
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 
@@ -69,17 +69,19 @@ ms.locfileid: "85719328"
 
 - 缺少產品 - PoE 未包含要宣告的產品或工作負載 
 
-
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>對 CPOR 關聯宣告的狀態進行爭議
 
-若要對 CPOR 關聯宣告的狀態進行爭議，請聯絡[支援](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)人員，並提供下列資訊給支援小組：
+如果您的 CPOR 關聯宣告遭到拒絕，您有30天的時間會對拒絕提出爭議。 您收到通知拒絕的電子郵件也會告訴您，您可以在何處查看拒絕的原因，以及如何將其爭議。  
 
-- MPN 識別碼
-- 獎勵計劃名稱 
-- CPOR 關聯宣告識別碼 
-- 產品-若為 Business Applications，請提供 Dynamics 產品和訂用帳戶。 針對 M365，請提供工作負載。 
-- 客戶租用戶識別碼
-- 問題詳細資料
+如果已超過30天，而您仍想要對已拒絕的宣告提出爭議，您必須使用更新的執行證明（PoE）提交新的關聯。 
+
+### <a name="to-dispute-a-rejected-claim"></a>若要對已拒絕的宣告提出爭議
+
+1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
+2. 開啟您想要對其進行爭議的宣告。
+3. 在 [宣告] 頁面上，選取 [**爭議**]。
+4. 輸入商務理由和（或）更新的 PoE，說明應如何 reconsidered 拒絕。
+5. 當您完成新增資訊時，請選取 [**爭議**]。 我們的審核者應該會在5個工作天內與您聯絡結果。
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>拒絕 CPOR 關聯宣告的原因
 
