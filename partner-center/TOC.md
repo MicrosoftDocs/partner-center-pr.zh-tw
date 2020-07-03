@@ -95,7 +95,7 @@
 ### [註冊您的交易](register-deals.md)
 ### [取得推薦深入解析](referral-insights.md)
 ### [分析您的商務設定檔](analyze-your-marketing-profile.md)
-## [獎勵](claims-overview.md)
+## 獎勵
 ### 開始使用獎勵
 #### [判斷您的計畫資格](incentives-determined-your-program-eligibility.md)
 #### [在合作夥伴中心建立及管理支出與稅務設定檔](incentives-create-and-manage-your-payout-and-tax-profiles.md)
@@ -106,6 +106,7 @@
 #### [建立您的方案](incentives-create-your-plan.md)
 #### [準備您的執行證明](incentives-prepare-your-proof-of-execution.md)
 ### 獎勵合作宣告
+#### [獎勵](claims-overview.md)
 #### [建立和管理獎勵合作宣告](create-incentives-claims.md)
 #### [獎勵合作宣告的核心需求](core-requirements.md)
 #### [合作宣告核准和付款期限](incentives-managing-co-op-claims.md)
