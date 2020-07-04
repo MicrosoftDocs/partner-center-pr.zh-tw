@@ -5,19 +5,19 @@ ms.date: 06/29/2020
 description: 收集並建立必要的資訊，為您的獎勵計畫產生成功的行銷計畫。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: 0398aed2ddaf46abc976d679c1fd6c15127de6d8
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 446d336d57454a87377322905b44c3981a5e0bcf
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719338"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949680"
 ---
 # <a name="create-your-plan"></a>建立您的方案
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 

@@ -5,17 +5,17 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何將合格的 Dynamics 365 Business Edition 供應專案在到期前遷移至較新的版本。
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 Keywords: Dynamics 365 優惠，續約優惠，新的 Dynamics 365 Sku
-ms.openlocfilehash: 9675f607d183c5d427371de4f09f088fd267c573
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: e32dc8f769e9ba6299a9f7d92c5c58d85940cd94
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992085"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949635"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>將 Dynamics 365 商務版提供移轉至較新版本
 

@@ -5,17 +5,17 @@ ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心流量分析，以進一步瞭解您的業務，以及您的客戶如何使用您購買的授權。
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 keywords: 資訊, 分析, 資料分析, power bi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3232a8c5b2f3e0bb4458dffdc577cbd561064dae
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: f69fc08712ca13a9593383c0a629382b0eb3b023
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795204"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947599"
 ---
 # <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>流量分析來深入瞭解客戶授權使用方式，以及如何協助滿足其需求
 

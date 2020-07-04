@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解您的表現如何，以及您對客戶銷售或管理的雲端訂閱有何改進。
 keywords: PCI，效能，度量，客戶成功，雲端訂閱，分析，報告
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dfb652551c2b94cfff226be6ffc331c2e8132042
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: bc9b306e635a27e1bf19f945341f9d8aab834782
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909086"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948806"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>[合作夥伴中心深入解析] 儀表板提供的產品訂閱報表
 

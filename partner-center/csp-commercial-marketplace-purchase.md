@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 CSP 方案合作夥伴如何使用合作夥伴中心 marketplace，讓客戶能夠從獨立軟體廠商（Isv）購買 SaaS 優惠。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 訂用帳戶，marketplace，商業 marketplace，協力廠商，ISV，SaaS 優惠，雲端解決方案提供者方案，購買供應專案，購買訂閱
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c740ae823670644cb1f81c0a667d1fb48fc873ae
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 0450acd0cfe6586e26baf55c128e64c88f680ba9
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908085"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947700"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>在合作夥伴中心為您的客戶購買商用 marketplace 產品
 

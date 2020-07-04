@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何管理客戶的 Azure 保留專案，包括如何取消保留、交換保留或要求退款。
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 keywords: azure，保留，管理，帳單，購買，取消，exchange，提早終止費用
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7470f20956a7309b4a7ec4dcbb9f18a41761596d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 7ac21da2b45cff62cbe1d2e34c226f115a9c8a7b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908307"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948317"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>為客戶管理、取消、交換或退款 Microsoft Azure 保留
 
@@ -41,7 +41,7 @@ ms.locfileid: "82908307"
 
 3. 在 [**動作**] 底下，選取 [**管理**] 以前往 Azure 入口網站中的客戶保留記錄。 在保留區詳細資料頁面上，依照下列步驟以完成任務。  
 
-    | **選取**   | **自**    |
+    | **選取**   | **若要**    |
     |:-----------------------------|:-----------------|
     | **概觀**   | 查看客戶保留的詳細資料，包括到期日、範圍和使用方式資料。 **注意** 選擇 **\[退款\]** 可建立按比例計算的退款支援要求。 選取 **\[交換\]** 可建立交換未使用的保留區期限的支援要求。  
     | **存取控制 (IAM)**   | 管理客戶保留資訊的存取權。|
@@ -93,9 +93,9 @@ ms.locfileid: "82908307"
 
 4. 在 **\[新的支援要求\]** 頁面上，依照下列步驟來要求退款。 每個步驟之後選取 **\[下一步\]**。 
 
-    |**步驟**                    |**選項**    |
+    |**Step**                    |**選項**    |
     |:---------------------------|:-----------------|
-    |**1 基本知識**                |問題類型：計費  |
+    |**1基本概念**                |問題類型：計費  |
     |**2 問題**               |問題類型︰ 保留區管理。 分類：交換與退款。 |
     |**3 連絡人資訊**   |選取您的喜好設定，然後輸入所需的資訊。 
 

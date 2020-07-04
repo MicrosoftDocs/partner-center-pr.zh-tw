@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 請查看此產品授權報表，並瞭解如何使用您為客戶銷售或管理的授權（或以基座為基礎）雲端產品來進行改善。
 keywords: PCI，效能，度量，客戶成功，雲端訂閱，分析，報告
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9fe76602d9a258f8e8766d29ebc3c4fb75bb1f8
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 680c2c92846692843d7d76496a327c0f8eba3cb4
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908616"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948793"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作夥伴中心深入解析儀表板中的產品授權報表
 

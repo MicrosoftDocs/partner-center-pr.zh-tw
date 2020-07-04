@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Office 365 企業版 E4 從 2017 年 4 月 7 日起淘汰。 了解如何將您的客戶訂閱移轉至新版 Office 365。
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd9f9effd501846934e1b0b2a86b654dfa14ebbe
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795765"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949041"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>將 Office 365 E4 訂閱移轉至新版 Office 365
 
@@ -56,10 +56,10 @@ E4 訂閱會設定為自動續約 = False 於 2017 年 4 月 7 日。 您可以�
 
 | 功能 | 選項 1 | 選項 2 | 選項 3 | 選項 4 |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| 取得 Office 365 企業版 E4 中包含所有的功能？ | Yes | 是 | 是 | No |
-| 在 Office 365 中管理電話號碼？ | Yes | 是 | 否 | 否 |
-| 在內部部署和 Office 365（混合部署）中管理電話號碼？ | Yes | 是 | 否 | 否 |
-| 選項可新增 PSTN 語音通話方案嗎？ | Yes | 是 | 否 | 否 |
+| 取得 Office 365 企業版 E4 中包含所有的功能？ | 是 | 是 | 是 | 否 |
+| 在 Office 365 中管理電話號碼？ | 是 | 是 | 否 | 否 |
+| 在內部部署和 Office 365（混合部署）中管理電話號碼？ | 是 | 是 | 否 | 否 |
+| 選項可新增 PSTN 語音通話方案嗎？ | 是 | 是 | 否 | 否 |
 | PSTN 會議？ | 是 | 否 | 否 | 否 |
 | 共同作業、分析和安全性的進階工具？ | 是 | 否 | 否 | 否 |
 | 互動式報告、儀表板，以及資料視覺效果？ | 是 | 否 | 否 | 否 | 
@@ -91,7 +91,7 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 3. 在 **\[管理授權\]** 頁面中，清除 **\[Office 365 企業版 E4\] ** 授權核取方塊，然後選取客戶訂閱移動到的新服務方案。
 
-4. 選取 [提交]  。 確認頁面會列出新的授權指派。
+4. 選取 [提交]。 確認頁面會列出新的授權指派。
 
 5. 針對需要重新指派授權的任何其他客戶使用者繼續執行相同步驟。
 
@@ -103,7 +103,7 @@ Microsoft 會持續提供新的產品及服務給我們的合作夥伴。 在這
 
 2. 在 [訂閱詳細資料] 頁面中，將訂閱狀態設定為 [已**暫停**]。
 
-3. 選取 [提交]  。
+3. 選取 [提交]。
 
 舊訂閱已暫停，而新訂閱為使用中。 暫停的訂閱將在 120 天後自動解除佈建。 客戶不會因為舊訂閱而產生額外費用。
 

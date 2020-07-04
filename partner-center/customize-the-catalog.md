@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何自訂 Microsoft catalog，讓您更輕鬆地存取貴組織最常使用的合作夥伴供應專案或產品。
-author: LauraBrenner
-ms.author: labrenne
+author: hemas
+ms.author: hemas
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 293c7458f11f309609443a845c9d80de7512438c
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 7d2e6f6bba4b095895db5cc7edc1d58daa0f210b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991268"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947616"
 ---
 # <a name="customize-the-microsoft-catalog-with-offers-or-products-most-suited-to-your-organization"></a>使用最適合您組織的優惠或產品來自訂 Microsoft catalog
 

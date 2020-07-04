@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解您已授與哪些類型的 Microsoft 合作夥伴權益，以協助拓展業務、提升效率並提升小組的技能。
 keywords: PCI，效能，測量，優點，分析，報告
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e43545e65d877debeb5b85713b5b900b4b49921
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908696"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949387"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>[合作夥伴中心深入解析] 儀表板提供的權益報表
 

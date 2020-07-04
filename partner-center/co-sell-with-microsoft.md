@@ -5,17 +5,17 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 身為合格的 Microsoft 合作夥伴，您可以與 Microsoft 共同銷售。 瞭解如何定義參與、邀請 Microsoft 共同作業，或觀看已傳送的合作。
-author: JnHs
+author: sroy
 ms.author: jenhayes
 keywords: 推薦, RFI, 尋找合作夥伴
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 836bb2634a010cee7adab883f47af50fc7007d73
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721495"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948060"
 ---
 # <a name="co-sell-with-microsoft"></a>與 Microsoft 共同銷售
 
@@ -43,7 +43,7 @@ ms.locfileid: "74721495"
 
 您將需要識別此特定參與的客戶。 輸入其名稱和位置，然後選取 [**搜尋**]。 因為許多公司在相同的位置有一個以上的商業實體，所以您可能會看到多個結果。 如果您不確定要選擇哪一種，您可以確認哪些[D-U-N-S 號碼](https://www.dnb.com/duns-number.html)屬於您的客戶。 請務必為您正在使用的客戶選取完全相符的。 
 
-一旦您按一下 [**選取**]，系統會提示您輸入此 engagement 的主要連絡人之人員的名稱、電話號碼和電子郵件地址。 輸入此資訊之後，請選取 **[下一步]** 。
+一旦您按一下 [**選取**]，系統會提示您輸入此 engagement 的主要連絡人之人員的名稱、電話號碼和電子郵件地址。 輸入此資訊之後，請選取 **[下一步]**。
 
 > [!IMPORTANT]
 > 請確定您已取得足夠的同意，將客戶的連絡人資訊提供給 Microsoft。 Microsoft 可能會使用此資訊直接與客戶聯繫。

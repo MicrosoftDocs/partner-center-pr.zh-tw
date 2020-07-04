@@ -5,19 +5,19 @@ ms.date: 06/29/2020
 description: 請確定您有資格建立收益，並以獎勵方案付費。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c030c3009361fa5c41cad13650ab553dd26e4896
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 052cd36c06c9d1856fa3ccf6d257f806891a3303
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719345"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949691"
 ---
 # <a name="confirm-your-earnings-eligibility"></a>確認您的收益資格
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 

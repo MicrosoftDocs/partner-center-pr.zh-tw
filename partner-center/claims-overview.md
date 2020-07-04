@@ -5,16 +5,16 @@ ms.date: 11/25/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在沒有必要條件的情況下提交您的獎勵宣告，以檢查您的活動計劃。
-author: LauraBrenner
-ms.author: labrenne
+author: kaushikgMSFT
+ms.author: kaushikg
 keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
-ms.openlocfilehash: f966406c0cc5e2bb427cd07a14755f41f1b55b28
-ms.sourcegitcommit: 107203f34428b296f0aff0f7881024d858ddd805
+ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "84776275"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948088"
 ---
 # <a name="incentives-co-op-claims-overview"></a>獎勵合作宣告概觀
 

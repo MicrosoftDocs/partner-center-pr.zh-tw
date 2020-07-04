@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: amrava
+ms.author: amrava
 Keywords: 訂用帳戶，自助式購買，自助 RI，啟用 RI，停用 RI，自助，客戶購買，客戶許可權，客戶購買保留實例，客戶購買 Azure 保留，開啟自助服務，關閉自助服務
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d04f7aad779a6bf3be08b24f43da6abc4dfdac4d
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0c507aae75dad4a1dce5dc9746ebe9f7ed48f040
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795109"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947466"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>授與客戶合作夥伴中心的許可權，以購買自己的產品或服務
 
@@ -66,7 +66,7 @@ CSP 方案中的合作夥伴通常會使用合作夥伴中心和其商業 market
 
 ## <a name="give-customers-permission-to-buy-their-own-azure-reservations"></a>授與客戶購買自己的 Azure 保留的許可權
 
-Azure 保留是以折扣費率購買 Azure 服務的絕佳方式。 若要深入瞭解 Azure 保留的優點，請參閱[什麼是 Azure 保留專案？](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
+Azure 保留是以折扣價購買 Azure 服務的絕佳方式。 若要深入瞭解 Azure 保留的優點，請參閱[什麼是 Azure 保留專案？](https://docs.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations)
 
 現在您可以選擇代表您的客戶購買 Azure 保留，因為您可能已經完成。 或者，您可以授與客戶購買自己的 Azure 保留區的許可權。
 

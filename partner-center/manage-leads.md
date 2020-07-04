@@ -5,17 +5,17 @@ ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用合作夥伴中心來回應參考，並管理新的、現有和封存的潛在客戶和參考。 瞭解未來如何取得更多的參考。
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 keywords: 參考，共同銷售，交易
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e91035d860c9d7e7e908e7645756ca64e64d4828
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 9e086ae93493c26880b912130752e69adcbef58a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328329"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949437"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潛在客戶，例如客戶查詢、行銷合格的潛在客戶，以及銷售合格的潛在客戶
 

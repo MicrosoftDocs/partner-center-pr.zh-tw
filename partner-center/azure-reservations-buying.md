@@ -5,17 +5,17 @@ ms.date: 06/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何在合作夥伴中心代表您的客戶購買或購買 Azure 保留。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: azure, 保留區, 管理, 計費, 購買
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 25ff9ac88876b11d76a60db6cf4e471d230dd6f3
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: da12aecaf78266c5a13da2948c0606121a0ea6ae
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104111"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948321"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表您的客戶在合作夥伴中心購買 Microsoft Azure 保留
 
@@ -58,9 +58,9 @@ ms.locfileid: "85104111"
 > [!IMPORTANT]
 > 以下是**未提供** Azure 保留的市場：  
 >  
-> **無法使用的市場（依字母順序）**
+> **不適用的市場 (以字母順序排序)**
 >
-> |A 到 Gi   | Gr 與 Pal  | Pap 到 Z |
+> |A 到 Gi   | Gr 到 Pal  | Pap 到 Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | 奧蘭島     | 格陵蘭     | 巴布亞紐幾內亞     |
 > | 美屬薩摩亞     | 格瑞那達     | 皮特康群島     |

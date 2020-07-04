@@ -5,19 +5,19 @@ ms.date: 06/12/2020
 description: 瞭解共同作業的宣告流程，包括期限、付款時間和執行證明（PoE）。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: 9ca387b5f204345d74091de9dc92305b22ef824f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ceffac9a2441895d698b9315f62e71ea9a9220b3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992125"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949710"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>共同作業宣告、方案和 PoEs
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 

@@ -5,17 +5,17 @@ ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解適用于 CSP 計畫中合作夥伴的不同合作夥伴關係和支援的交易案例。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: 間接轉銷商，間接提供者，直接帳單，直接帳單合作夥伴，雲端解決方案提供者方案，CSP 方案，CSP 合作夥伴，CSP 交易
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a5da1cdd30563b57badd2aaec619c5e53ca93641
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 5728765cb22c77e6052bf2b772d65e777355def6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83398333"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947633"
 ---
 # <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>瞭解合作夥伴如何與 CSP 計畫中的其他合作夥伴合作
 

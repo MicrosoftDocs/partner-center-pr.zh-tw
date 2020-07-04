@@ -5,21 +5,21 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 CSP 方案合作夥伴如何使用合作夥伴中心，從直接帳單合作夥伴轉移至間接轉銷商。
-author: LauraBrenner
-ms.author: labrenne
+author: aarzh-AaronZhang
+ms.author: v-aarzh
 ms.localizationpriority: medium
 keywords: 直接帳單、轉換、間接轉銷商
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05c26bdb7a8689e9b0964e19c89685cb67260ca6
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 93b3d2e204911d059ed0d17e977c0e50533e504c
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679445"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949217"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商
 
-**適用於：**
+**適用範圍：**
 
 - 雲端解決方案提供者合作夥伴
 
@@ -95,7 +95,7 @@ ms.locfileid: "84679445"
 
 2. 選取 [邀請新客戶]  以邀請客戶同時與您及間接提供者建立經銷商關係。 提供者必須與您的客戶有轉銷商關係，因此當客戶想要購買新的訂用帳戶或將新的授權新增至現有的訂用帳戶時，他們可以代表您的客戶提交訂單。
 
-3. 在下一頁，複查草稿電子郵件訊息。 您可以透過電子郵件開啟草稿訊息，或將郵件複製到剪貼簿，然後貼到電子郵件中。
+3. 在下一個頁面上，檢閱電子郵件的草稿訊息。 您可以透過電子郵件開啟草稿訊息，或將郵件複製到剪貼簿，然後貼到電子郵件中。
 
 4. 編輯電子郵件中的文字以表達您所需的內容，但請務必包含連結，因為它是個人化的，可將客戶直接連線到您的帳戶和提供者的帳戶。 然後選取 [完成]****。
 
@@ -179,7 +179,7 @@ ms.locfileid: "84679445"
 
 4. 在快顯對話方塊中，選取您想要與客戶建立轉銷商關係的**間接提供者**。
 
-5. 按一下 [儲存並繼續]****。
+5. 按一下 [儲存並繼續]。
 
 6. 確認選取的間接提供者顯示在 [**間接提供者**] 之下。
 
@@ -195,7 +195,7 @@ ms.locfileid: "84679445"
 
     :::image type="content" source="images/direct/direct6.png" alt-text="邀請新客戶":::
 
-3. 在下一頁，複查草稿電子郵件訊息。 您可以透過電子郵件開啟草稿訊息，或將郵件複製到剪貼簿，然後貼到電子郵件中。
+3. 在下一個頁面上，檢閱電子郵件的草稿訊息。 您可以透過電子郵件開啟草稿訊息，或將郵件複製到剪貼簿，然後貼到電子郵件中。
 
 4. 編輯電子郵件中的文字以表達您所需的內容，但請務必包含連結，因為它是個人化的，可將客戶直接連線到您的帳戶和提供者的帳戶。 然後選取 [完成]****。
 

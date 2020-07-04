@@ -5,16 +5,16 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 瞭解如何存取您的支出資訊。 這適用于 Windows 應用程式和遊戲付款，以及 MPN 獎勵支出。
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 keywords: 獎勵，支出
 ms.localizationpriority: medium
-ms.openlocfilehash: 1216913897fc50e0001ccb5ea2c6d0e1a463158b
-ms.sourcegitcommit: faf7b1ac1653497f963b428bbfafcd821378adaa
+ms.openlocfilehash: 4da575605baab09c3b1f349b52760e89ae20d746
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "82798926"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949468"
 ---
 # <a name="access-your-incentives-payouts-page"></a>存取您的獎勵支出頁面
 

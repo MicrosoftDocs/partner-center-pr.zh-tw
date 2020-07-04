@@ -5,19 +5,19 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心將 Azure 訂用帳戶指派給您的客戶，以及如何讓客戶管理自己的訂用帳戶。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: Azure, Azure 訂閱, 訂閱, 指派訂閱, 管理 azure 訂閱
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6733a7fd394aac2d17650cfb6bdb612f9b9d01bf
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 0beb6f0a4f4a2b0eb4cc731c9bf30add379ea6e3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795055"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948551"
 ---
-# <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>將 Azure 訂用帳戶指派給合作夥伴中心的客戶
+# <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>在合作夥伴中心指派 Azure 訂用帳戶給您的客戶
 
 **適用於**
 

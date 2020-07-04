@@ -5,17 +5,17 @@ ms.date: 05/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解在合作夥伴中心內從商業 marketplace 購買客戶的 ISV SaaS 產品或訂用帳戶的計費方式。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 訂用帳戶，產品，採購，Marketplace，協力廠商，ISV，帳單，發票，調整，偵察檔案
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9672850b699a2660f646ede5250e52298f5522cd
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394159"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947816"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>合作夥伴中心內的商業 marketplace 產品和訂用帳戶計費
 
@@ -44,7 +44,7 @@ CSP 計畫中的合作夥伴會針對客戶購買的 ISV 商業 marketplace 解�
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/)。
 
-2. 從 [合作夥伴中心] 功能表中，選取 [計費]  。 
+2. 從 [合作夥伴中心] 功能表中，選取 [計費]。 
 
     您會在 [帳單] 頁面頂端看到兩個索引標籤： [**週期性**] 和 [**週期性] 和**[單次購買]。 每個索引標籤都可讓您存取不同 marketplace 產品的發票和對帳（偵察）檔案：
 
@@ -73,7 +73,7 @@ CSP 計畫中的合作夥伴會針對客戶購買的 ISV 商業 marketplace 解�
 
 - Azure 方案
 
-- Azure Reservations
+- Azure 保留
 
 - 其他以訂閱為基礎的軟體（來自 Microsoft 或 ISV 發行者）
 

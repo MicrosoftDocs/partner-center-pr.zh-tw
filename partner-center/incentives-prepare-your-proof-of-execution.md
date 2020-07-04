@@ -3,21 +3,21 @@ title: 準備您的執行證明
 description: 瞭解您的執行證明（PoE），以及時程表、觀看狀態和提交指導方針的重要性。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 93a4b18d852dec31e2bbeb8b66f15feb075f5be8
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 56210d460d3ca4f58b87a8ead8ed7161058aba78
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719332"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949477"
 ---
 # <a name="prepare-your-proof-of-execution"></a>準備您的執行證明
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 

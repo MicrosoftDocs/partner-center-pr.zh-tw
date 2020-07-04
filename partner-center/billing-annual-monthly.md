@@ -3,16 +3,16 @@ title: 每月和每年計費的差異
 ms.topic: article
 ms.date: 05/06/2020
 Description: 瞭解合作夥伴中心的每月和年度計費方式有何不同。 同時瞭解如何在不同的計費類型和切換的含意之間切換。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 96ff9feded392219ceddd3f800bd3d12e6440a60
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 3fed5a5a584775f73ed3ad83978a6d38cb50293b
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908966"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948226"
 ---
 # <a name="understand-the-difference-between-monthly-and-annual-billing-in-partner-center"></a>瞭解合作夥伴中心的每月和年度計費差異
 

@@ -5,18 +5,18 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在提交宣告時尋找客戶的功能變數名稱和目錄識別碼。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 keywords: 獎勵索賠，共同作業索賠，共同作業資金，OSA，ISV，收入關聯，功能變數名稱，目錄識別碼
 ms.localizationpriority: medium
-ms.openlocfilehash: 09754404ddc0c0d11ad690fd33eccbbf67f2e3a0
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: 10d881e38eefa6400389b05fc9635a575e545846
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74722226"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947581"
 ---
-# <a name="find-your-customers-domain-name-and-directory-id"></a>尋找客戶的功能變數名稱和目錄識別碼
+# <a name="find-your-customers-domain-name-and-directory-id"></a>尋找客戶的網域名稱與目錄識別碼
 
 **適用於**
 

@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 CSP 計畫合作夥伴所需的客戶帳單支援。 這包括負責客戶帳單關係和回答計費問題。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 620b301aa428aef3348e316667b82507d2fc3b5b
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992056"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949322"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>為您的客戶提供帳單支援，並協助回答他們的帳單問題
 
@@ -59,7 +59,7 @@ ms.locfileid: "84992056"
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>提供帳單、訂閱管理和技術支援 
 
-每個線上服務對於提供帳單、訂閱管理和技術支援都有專屬的詳細需求。 如需詳細資訊，請參閱
+每個線上服務對於提供帳單、訂閱管理和技術支援都有專屬的詳細需求。 如需詳細資訊，請參閱：
 
 - [透過雲端解決方案提供者銷售的 Dynamics 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 

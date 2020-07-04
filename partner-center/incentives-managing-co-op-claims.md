@@ -3,21 +3,21 @@ title: 管理共同作業宣告
 description: 瞭解共同作業的宣告流程，包括期限、貨幣問題，以及如何對已拒絕的共同作業索賠提出爭議。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: e567b6bd0eaabb1dc705925e140f9de07c6f8a98
-ms.sourcegitcommit: bea864212edc90c5f851566505deef6623f79723
+ms.openlocfilehash: 3a611ca37f1ddad53d1fdbf049645c7976a67d3f
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "85719329"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949494"
 ---
 # <a name="manage-co-op-claims"></a>管理共同作業宣告
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 
@@ -27,7 +27,7 @@ ms.locfileid: "85719329"
 
 - 獎勵管理員
 
-## <a name="co-op-claims-approval-and-payment-deadlines"></a>共同作業索賠核准和付款期限
+## <a name="co-op-claims-approval-and-payment-deadlines"></a>合作宣告核准和付款期限
 
 ### <a name="when-will-my-co-op-claim-be-approved"></a>我的共同作業索賠何時會核准？
 

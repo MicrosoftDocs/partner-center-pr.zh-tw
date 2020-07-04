@@ -5,21 +5,21 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 當您新增訂閱、調整授權數量或取消訂用帳戶時，探索帳單。 查看以使用量為基礎的訂用帳戶有何不同。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 Keywords: 帳單，付款，訂單，使用量，以授權為基礎的帳單，週年日，期，取消，續約，價格公式，對帳檔案，偵察檔案
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5337244ebdcb57418dd023669749ed618394ffa2
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: d79361271424de92a85ac7819353c8d2e906cdb6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991601"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947921"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>適用于合作夥伴中心的 CSP 計畫合作夥伴常見計費案例
 
-適用於：
+適用於︰
 
 - 雲端解決方案提供者（CSP）方案計費
 

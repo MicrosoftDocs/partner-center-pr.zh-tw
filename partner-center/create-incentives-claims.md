@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 瞭解如何從合作夥伴中心起始激勵的共同作業宣告。 您可以在歷程記錄中查看在建置宣告過程中加入的所有活動。
-author: LauraBrenner
-ms.author: labrenne
+author: kim-davis
+ms.author: kimnich
 keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 1be444403d2b36bcee13648a767b0cfdf448c06b
-ms.sourcegitcommit: c793c1b61f50fc0b0a12c95cedd9f57b31703093
+ms.openlocfilehash: bce39b4bb26d465da2d7a36e299c1f09cc4b5adb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "74721692"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947845"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>建立和管理獎勵宣告
 
@@ -34,7 +34,7 @@ ms.locfileid: "74721692"
 
 2.  如果您已有處理中的宣告，\[宣告概觀\] 頁面會顯示現有宣告的狀態相關資訊，以及已核准、已宣告的資金和資金總數。
 
-3.  若要建立新的宣告，請選取 **\[建立宣告\]** 。
+3.  若要建立新的宣告，請選取 **\[建立宣告\]**。
 
 4.  當您填寫初始表單並選取 [**建立**宣告] 之後，您將會進入 [宣告詳細資料] 頁面，您可以在其中新增發票、CSR 的、證明檔和計量。 您也可以視需要新增額外的資訊。
 

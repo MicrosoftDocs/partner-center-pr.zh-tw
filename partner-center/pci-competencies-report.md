@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解您的表現如何，以及您可以如何改善 Microsoft 專長認證、專長認證等級和優惠，以協助您提供 Microsoft 解決方案。
 keywords: PCI，效能，度量，客戶成功，專長認證，優點，分析，報告
-author: LauraBrenner
-ms.author: labrenne
+author: shthota77
+ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e836a9d5c51796edf76844342fb9bc68fcfacd69
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: d95c45793cfbbc46b68794937e4c3771e9b9b01a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909076"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949351"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>可從合作夥伴中心深入解析儀表板取得的專長認證報表
 

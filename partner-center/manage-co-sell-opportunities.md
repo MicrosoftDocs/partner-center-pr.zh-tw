@@ -5,17 +5,17 @@ ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 身為合格的 Microsoft 合作夥伴，您可以與 Microsoft 共同銷售。 瞭解如何定義交易、邀請 Microsoft 共同作業，或觀看已傳送的交易。
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 keywords: 參考，共同銷售，交易
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 485999e323c325ab30361ed60dfe2c9eb7bada07
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328359"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949456"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>管理合作夥伴中心的共同銷售機會，以定義交易並更符合客戶的需求
 
@@ -81,7 +81,7 @@ ms.locfileid: "84328359"
 |**預估的結束日期**| 強制性| 您希望向客戶關閉交易的日期。 |
 |**CRM 識別碼**| 選擇性 | 在對應的 CRM 中，以您的商機識別碼標記交易以追蹤目的。|
 |**行銷活動識別碼**| 選擇性 | 捕捉導致交易的行銷活動。 如果您使用相同的識別碼來標記源自活動的所有交易，此記錄可協助您追蹤特定活動的 ROI。|
-|**注意事項**| 選擇性 | 更新所有最新資訊，讓您公司中的其他員工能夠查看相同的交易，或嘗試瞭解交易的目前狀態。 您也可以使用此資訊做為記錄的通訊，以在與貴公司的 Microsoft 賣方/其他合作夥伴之間進行討論。|
+|**備註**| 選擇性 | 更新所有最新資訊，讓您公司中的其他員工能夠查看相同的交易，或嘗試瞭解交易的目前狀態。 您也可以使用此資訊做為記錄的通訊，以在與貴公司的 Microsoft 賣方/其他合作夥伴之間進行討論。|
 
 ### <a name="add-your-employees"></a>新增您的員工
 
@@ -95,7 +95,7 @@ ms.locfileid: "84328359"
 - **Microsoft：** 這些是 Microsoft 所擁有的解決方案
 - **其他協力廠商解決方案：** 這些是由 Microsoft 共同銷售生態系統中的其他合作夥伴發佈的共同銷售就緒解決方案
 
-提供解決方案資訊之後，請選取 [下一步]，移至您可以在其中決定銷售類型的區段。 您有兩個選項：
+提供解決方案資訊之後，請選取 [下一步]，移至您可以在其中決定銷售類型的區段。 您有兩個選擇：
 
 **私人管道交易**：如果您不邀請 Microsoft 並在此步驟建立 engagement，它會是私用管線類型。 Microsoft 賣方不會看到此交易的詳細資料。
 

@@ -5,17 +5,17 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何使用客戶帳戶，一次指派或撤銷授權和服務給一位使用者或多個使用者。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 Keywords: 指派授權、撤銷授權、指派給多個使用者、
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6508fad5e72e73cfab6310a413fded49d939158a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 35ab785649419e443171f5037e66a8a38fd1c7e6
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991634"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948144"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>同時對客戶帳戶中的多個使用者指派或撤銷授權
 

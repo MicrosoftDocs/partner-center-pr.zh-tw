@@ -5,18 +5,18 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解獨立軟體廠商（ISV）如何將特定供應專案專屬，僅供特定的 CSP 合作夥伴使用。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46acf2a5d443075f840dbc24d26fc727d873f521
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: bc997d302b2ccd4dffa7708a9ec1cad60b09f998
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83794844"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949449"
 ---
-# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>獨立軟體廠商提供的 Marketplace 專屬優惠
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>獨立軟體廠商提供的 Marketplace 專屬供應項目
 
 **適當的角色**
 

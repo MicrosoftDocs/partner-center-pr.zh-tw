@@ -5,17 +5,17 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何向 marketplace 中的獨立軟體廠商（Isv）銷售軟體即服務（SaaS）提供的客戶訂用帳戶。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 訂用帳戶，Marketplace，協力廠商，ISV，SaaS，授權
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9366bfc9dc09d7c62fcf01cacf30944b8801550
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908088"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947729"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作夥伴中心的商業市場總覽
 
@@ -38,7 +38,7 @@ ms.locfileid: "82908088"
 
 如果您是 CSP 計畫的合作夥伴，您可能會想要在 ISV 供應專案方面執行許多商業 marketplace 活動。 若要深入瞭解每個活動，請參閱下表。
 
-|**如果您想要**  |**讀取**   |
+|**如果要**  |**讀取**   |
 |:------------------------------------|:------------------|
 |瞭解如何查看或搜尋可用的供應專案、定價、產品詳細資料或發行者連絡人資訊 | [探索優惠](csp-commercial-marketplace-discover.md) | 
 |瞭解如何購買及部署供應專案   | [購買優惠](csp-commercial-marketplace-purchase.md)   | 
@@ -56,7 +56,7 @@ ms.locfileid: "82908088"
 
 - [Microsoft Azure 管理入口網站](https://portal.azure.com/)
 
-    Or
+    或
 
 - 協力廠商 ISV 發行者的系統或網站
 
@@ -69,7 +69,7 @@ ms.locfileid: "82908088"
 
 若要瞭解如何完成以授權為基礎或以使用方式為基礎之 ISV 供應專案的特定 marketplace 活動，請參閱下表。
 
-|**Isv 提供的授權型 SaaS 供應專案**  |**使用**  |
+|**Isv 提供的授權型 SaaS 供應專案**  |**用途**  |
 |:------------------------------------|:------------------|
 |探索或搜尋可用的供應專案  | 合作夥伴中心儀表板或合作夥伴中心 Api  |
 |購買供應專案  | 合作夥伴中心儀表板或合作夥伴中心 Api  |
@@ -77,7 +77,7 @@ ms.locfileid: "82908088"
 |取消/更新供應專案訂閱或新增/移除基座 | 合作夥伴中心儀表板或合作夥伴中心 Api  |
 |若要建立使用者或管理許可權  | ISV 發行者的系統或網站  |
 
-|**適用于 Isv 的以使用量為基礎的優惠**  |**使用**  |
+|**適用于 Isv 的以使用量為基礎的優惠**  |**用途**  |
 |:------------------------------------|:------------------|
 |探索或搜尋可用的供應專案  | 合作夥伴中心儀表板、合作夥伴中心 Api 或 Azure 入口網站  |
 |購買供應專案  | Azure 入口網站  |

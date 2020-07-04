@@ -5,16 +5,16 @@ ms.date: 03/15/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 向合格教育客戶銷售 Minecraft 教育版訂用帳戶，然後再從 Microsoft 教育商店下載這些訂閱。
-author: LauraBrenner
-ms.author: labrenne
+author: BrentSerbus
+ms.author: brserbus
 keywords: 獲得授權的教育合作夥伴、教育、銷售教育、學校
 ms.localizationpriority: medium
-ms.openlocfilehash: ecce16a09dc4c5b415e0553b038b1810ab16197f
-ms.sourcegitcommit: 07eb5eb6c1cfed1c84fad3626b8f989247341e70
+ms.openlocfilehash: f5525a65b059451aea9831a98d90b7a3ede98562
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "75004547"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949007"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>向教育機構客戶銷售 Minecraft: Education Edition
 
@@ -41,16 +41,16 @@ ms.locfileid: "75004547"
 
   1.  從 [合作夥伴中心] 功能表選取 [**客戶**]。
   
-  2.  從客戶清單選取您的教育客戶，然後選取 **\[新增訂閱\]** 。
+  2.  從客戶清單選取您的教育客戶，然後選取 **\[新增訂閱\]**。
   
-  3.  選取最符合您需求的帳單週期，然後在 **\[類別目錄\]** 區段中選取 **\[教育\]** 。
+  3.  選取最符合您需求的帳單週期，然後在 **\[類別目錄\]** 區段中選取 **\[教育\]**。
 
-  4.  選取您想代表客戶購買的 Minecraft 訂閱，並輸入授權數量。 選取 **\[下一步: 評論\]** 。
+  4.  選取您想代表客戶購買的 Minecraft 訂閱，並輸入授權數量。 完成時，選取 下一步: **:** 。
 
       >[!NOTE]
       >您將能夠在合作夥伴中心查看和管理這些授權。 您的客戶可以在 [Minecraft: Education Edition 詳細資料頁面](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6)下方的詳細目錄中查看並管理這些授權 (您必須登入教育用 Microsoft Store 才能看到詳細資料頁面)。 
 
-  5.  如果是正確的訂單，請選取 **\[提交\]** 。 如果您需要對訂單進行變更，請選取 **\[取消\]** 並進行所需的變更。   
+  5.  如果是正確的訂單，請選取 **\[提交\]**。 如果您需要對訂單進行變更，請選取 **\[取消\]** 並進行所需的變更。   
 
   6.  成功購買訂閱之後，引導您的教育機構客戶前往 [教育用 Microsoft Store](https://educationstore.microsoft.com) 的詳細目錄，下載軟體並散發授權。
 

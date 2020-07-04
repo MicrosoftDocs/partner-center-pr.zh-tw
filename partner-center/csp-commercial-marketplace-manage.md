@@ -1,21 +1,21 @@
 ---
 title: 管理 marketplace 產品 & 優惠
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用合作夥伴中心，瞭解雲端解決方案提供者如何管理購買自商業 marketplace 客戶的協力廠商 ISV 優惠。
-author: LauraBrenner
-ms.author: labrenne
+author: rbars
+ms.author: rbars
 keywords: 訂用帳戶，Marketplace，協力廠商，ISV，SaaS 優惠，雲端解決方案提供者方案，管理供應專案，管理訂用帳戶，授權，取消訂用帳戶，基座，關閉自動續訂，間接轉售商 MPN 識別碼
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53e750c3e661115071c359ce56fbb97a31edeef9
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908106"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85947754"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>為您的客戶管理商業 marketplace 產品和優惠
 
@@ -64,11 +64,14 @@ ms.locfileid: "82908106"
 
 1. 您可以透過幾種方式，從 ISV 發行者找到這項個人化連結：
 
-    - 在您購買 ISV SaaS 供應專案之後，您可以在 [確認] 頁面中看到連結。
+   - 在您購買 ISV SaaS 供應專案之後，您可以在 [確認] 頁面中看到連結。 若要在頁面上尋找此連結，請尋找並選取 [**前往發行者的網站]**。
 
-    - 您可以從特定客戶的 [訂閱] 頁面看到連結。 此發行者連結會出現在與客戶購買的 ISV 供應專案或訂用帳戶相關聯的資料列上。
+   - 您可以從特定客戶的 [訂閱] 頁面看到連結。 此發行者連結會出現在與客戶購買的 ISV 供應專案或訂用帳戶相關聯的資料列上。
 
-    - 您可以[使用合作夥伴中心 api](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)來抓取連結。
+   - 您可以[使用合作夥伴中心 api](https://docs.microsoft.com/partner-center/develop/get-activation-link-by-order-line-item)來抓取連結。
+
+   > [!NOTE]
+   > 若要代表您的客戶執行此動作，您可能需要複製個人化連結、將其貼入私人瀏覽器，然後輸入客戶的認證。
 
 2. 一旦您在 ISV 發行者的網站或系統中，發行者就會讓您知道完成客戶設定程式以及布建或指派授權時所需採取的任何額外步驟。
 

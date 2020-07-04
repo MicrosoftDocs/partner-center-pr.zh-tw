@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 針對多夥伴、多通路案例，或如果您的委派系統管理員許可權需要還原，為客戶要求關聯性。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 5aa7a2cbc5a169dc7e702a47752b8101c44b4b94
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104089"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949250"
 ---
-# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何向合作夥伴中心的客戶要求轉銷商關係
+# <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何向合作夥伴中心的客戶要求建立轉銷商關係
 
 **適用於**
 
@@ -34,9 +34,9 @@ ms.locfileid: "85104089"
 
 1. 選取 [合作夥伴中心]  功能表中的 [客戶]  ，然後選取 [要求建立經銷商關係]  。
 
-2. 若要向此客戶要求系統管理員許可權，請選取 [**包含 Azure Active Directory 和 Office 365 的委派管理許可權**]。 若要在不要求系統管理員許可權的情況下建立關聯性，請清除此選項。
+2. 若要向此客戶要求系統管理員許可權，請選取 [**包含 Azure Active Directory 和 Office 365 的委派管理許可權**]。 若要在不要求系統管理員權限的情況下建立關係，請清除此選項。
 
-3. 在下一頁，複查草稿電子郵件訊息。 您可以在預設電子郵件應用程式中開啟草稿訊息，或是將訊息複製到您的剪貼簿，並將其貼到電子郵件。
+3. 在下一個頁面上，檢閱電子郵件的草稿訊息。 您可以在預設的電子郵件應用程式中開啟訊息草稿，也可以將訊息複製到剪貼簿，並將其貼到電子郵件中。
 
    您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。 當您完成這個步驟時，請選取 [完成]。
 
