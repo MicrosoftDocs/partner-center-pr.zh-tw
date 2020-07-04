@@ -3,20 +3,20 @@ title: 基於使用方式的對帳檔案
 ms.topic: article
 ms.date: 06/08/2020
 description: 瞭解您在合作夥伴中心內以使用量為基礎的對帳檔案中的所有專案。 包含幾個範例。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9a84ca15cd51c02a3b5c53ad4478d72343add284
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909116"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949546"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>瞭解以使用量為基礎的對帳檔案及其在合作夥伴中心的特定欄位
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
