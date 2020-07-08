@@ -5,61 +5,61 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作夥伴中心，了解如何新增位置，以及如何在獎勵計畫、雲端解決方案提供者業務、訂閱和其他交易中使用 MPN 識別碼。
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 keywords: 合作夥伴帳戶, 位置
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cce4b38cb27d8cef88f71ced6fe985631a24914
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 111acf67a57b8c8be1ef8c6bd4017c8d37770dde
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909056"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949664"
 ---
-# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a><span data-ttu-id="202b5-104">在合作夥伴中心管理您的合作夥伴帳戶位置並新增位置</span><span class="sxs-lookup"><span data-stu-id="202b5-104">Manage your partner account locations in Partner Center and add a new location</span></span>
+# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a><span data-ttu-id="f4f16-104">在合作夥伴中心管理您的合作夥伴帳戶位置並新增位置</span><span class="sxs-lookup"><span data-stu-id="f4f16-104">Manage your partner account locations in Partner Center and add a new location</span></span>
 
-<span data-ttu-id="202b5-105">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="202b5-105">**Appropriate roles**</span></span>
-- <span data-ttu-id="202b5-106">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="202b5-106">Global admin</span></span>
-- <span data-ttu-id="202b5-107">使用者系統管理員</span><span class="sxs-lookup"><span data-stu-id="202b5-107">User admin</span></span>
-- <span data-ttu-id="202b5-108">帳單系統管理員</span><span class="sxs-lookup"><span data-stu-id="202b5-108">Billing admin</span></span>
-- <span data-ttu-id="202b5-109">系統管理代理人</span><span class="sxs-lookup"><span data-stu-id="202b5-109">Admin agent</span></span>
-- <span data-ttu-id="202b5-110">銷售代理人</span><span class="sxs-lookup"><span data-stu-id="202b5-110">Sales agent</span></span>
+<span data-ttu-id="f4f16-105">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="f4f16-105">**Appropriate roles**</span></span>
+- <span data-ttu-id="f4f16-106">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="f4f16-106">Global admin</span></span>
+- <span data-ttu-id="f4f16-107">使用者系統管理員</span><span class="sxs-lookup"><span data-stu-id="f4f16-107">User admin</span></span>
+- <span data-ttu-id="f4f16-108">帳單系統管理員</span><span class="sxs-lookup"><span data-stu-id="f4f16-108">Billing admin</span></span>
+- <span data-ttu-id="f4f16-109">系統管理代理人</span><span class="sxs-lookup"><span data-stu-id="f4f16-109">Admin agent</span></span>
+- <span data-ttu-id="f4f16-110">銷售代理人</span><span class="sxs-lookup"><span data-stu-id="f4f16-110">Sales agent</span></span>
 
-<span data-ttu-id="202b5-111">位置 MPN 識別碼可識別公司的每個特定位置。</span><span class="sxs-lookup"><span data-stu-id="202b5-111">The location MPN IDs identify each specific location of your company.</span></span> <span data-ttu-id="202b5-112">您可以使用位置 MPN 識別碼來註冊獎勵計畫、交易雲端解決方案提供者 (CSP) 業務、新增訂閱以及其他商業交易。</span><span class="sxs-lookup"><span data-stu-id="202b5-112">You use the location MPN ID to enroll in incentive programs, to transact Cloud Solution Provider (CSP) business, to add new subscriptions, and other business transactions.</span></span> <span data-ttu-id="202b5-113">公司 MPN 識別碼可用於非交易式活動，例如支援要求。</span><span class="sxs-lookup"><span data-stu-id="202b5-113">The company MPN ID is used for non-transactional activities such as support requests.</span></span>
+<span data-ttu-id="f4f16-111">位置 MPN 識別碼可識別公司的每個特定位置。</span><span class="sxs-lookup"><span data-stu-id="f4f16-111">The location MPN IDs identify each specific location of your company.</span></span> <span data-ttu-id="f4f16-112">您可以使用位置 MPN 識別碼來註冊獎勵計畫、交易雲端解決方案提供者 (CSP) 業務、新增訂閱以及其他商業交易。</span><span class="sxs-lookup"><span data-stu-id="f4f16-112">You use the location MPN ID to enroll in incentive programs, to transact Cloud Solution Provider (CSP) business, to add new subscriptions, and other business transactions.</span></span> <span data-ttu-id="f4f16-113">公司 MPN 識別碼可用於非交易式活動，例如支援要求。</span><span class="sxs-lookup"><span data-stu-id="f4f16-113">The company MPN ID is used for non-transactional activities such as support requests.</span></span>
 
-## <a name="the-following-is-a-typical-scenario"></a><span data-ttu-id="202b5-114">以下為典型的案例：</span><span class="sxs-lookup"><span data-stu-id="202b5-114">The following is a typical scenario:</span></span>
+## <a name="the-following-is-a-typical-scenario"></a><span data-ttu-id="f4f16-114">以下為典型的案例：</span><span class="sxs-lookup"><span data-stu-id="f4f16-114">The following is a typical scenario:</span></span>
 
-<span data-ttu-id="202b5-115">合作夥伴公司可能有雲端解決方案提供者業務和發行業務。</span><span class="sxs-lookup"><span data-stu-id="202b5-115">A partner company can have a CSP business and a publishing business.</span></span> <span data-ttu-id="202b5-116">其雲端解決方案提供者業務可位於數個地區設定，而其發行業務可能位於其他地區設定。其已註冊的法定公司有一個 MPN 識別碼，用來管理所有的非交易式業務，例如新增使用者或記錄支援要求。</span><span class="sxs-lookup"><span data-stu-id="202b5-116">Their CSP business can be located in several locales and their pub business may be located in other locales.Their registered legal business has one MPN ID used for managing all non-transactional business such as adding users or logging support requests.</span></span>
+<span data-ttu-id="f4f16-115">合作夥伴公司可能有雲端解決方案提供者業務和發行業務。</span><span class="sxs-lookup"><span data-stu-id="f4f16-115">A partner company can have a CSP business and a publishing business.</span></span> <span data-ttu-id="f4f16-116">其雲端解決方案提供者業務可位於數個地區設定，而其發行業務可能位於其他地區設定。其已註冊的法定公司有一個 MPN 識別碼，用來管理所有的非交易式業務，例如新增使用者或記錄支援要求。</span><span class="sxs-lookup"><span data-stu-id="f4f16-116">Their CSP business can be located in several locales and their pub business may be located in other locales.Their registered legal business has one MPN ID used for managing all non-transactional business such as adding users or logging support requests.</span></span>
 
 
-<span data-ttu-id="202b5-117">每個位置都有一個 MPN 識別碼，用於交易式業務，例如雲端解決方案提供者或獎勵計畫。</span><span class="sxs-lookup"><span data-stu-id="202b5-117">Each of their locations has an MPN ID used for transactional business such as CSP or incentives programs.</span></span> <span data-ttu-id="202b5-118">支出會繫結至特定位置。</span><span class="sxs-lookup"><span data-stu-id="202b5-118">Payouts are tied to specific locations.</span></span>
+<span data-ttu-id="f4f16-117">每個位置都有一個 MPN 識別碼，用於交易式業務，例如雲端解決方案提供者或獎勵計畫。</span><span class="sxs-lookup"><span data-stu-id="f4f16-117">Each of their locations has an MPN ID used for transactional business such as CSP or incentives programs.</span></span> <span data-ttu-id="f4f16-118">支出會繫結至特定位置。</span><span class="sxs-lookup"><span data-stu-id="f4f16-118">Payouts are tied to specific locations.</span></span>
 
-<span data-ttu-id="202b5-119">使用者可能會有跨位置的角色。</span><span class="sxs-lookup"><span data-stu-id="202b5-119">Users may have roles that cross locations.</span></span> <span data-ttu-id="202b5-120">例如，獎勵管理員可能會將該角色用於歐洲的所有位置。</span><span class="sxs-lookup"><span data-stu-id="202b5-120">For example, the incentives admin could have that role for all locations in Europe.</span></span>
+<span data-ttu-id="f4f16-119">使用者可能會有跨位置的角色。</span><span class="sxs-lookup"><span data-stu-id="f4f16-119">Users may have roles that cross locations.</span></span> <span data-ttu-id="f4f16-120">例如，獎勵管理員可能會將該角色用於歐洲的所有位置。</span><span class="sxs-lookup"><span data-stu-id="f4f16-120">For example, the incentives admin could have that role for all locations in Europe.</span></span>
 
-## <a name="to-add-a-location"></a><span data-ttu-id="202b5-121">新增位置</span><span class="sxs-lookup"><span data-stu-id="202b5-121">To add a location</span></span>
+## <a name="to-add-a-location"></a><span data-ttu-id="f4f16-121">新增位置</span><span class="sxs-lookup"><span data-stu-id="f4f16-121">To add a location</span></span>
 
-1. <span data-ttu-id="202b5-122">從 [設定] 圖示選取 [合作夥伴設定]。</span><span class="sxs-lookup"><span data-stu-id="202b5-122">From the **Setting icon**, select the **Partner settings**.</span></span>
+1. <span data-ttu-id="f4f16-122">從 [設定] 圖示選取 [合作夥伴設定]。</span><span class="sxs-lookup"><span data-stu-id="f4f16-122">From the **Setting icon**, select the **Partner settings**.</span></span>
 
-2. <span data-ttu-id="202b5-123">選取 [位置]。</span><span class="sxs-lookup"><span data-stu-id="202b5-123">Select **Locations.**</span></span>
+2. <span data-ttu-id="f4f16-123">選取 [位置]。</span><span class="sxs-lookup"><span data-stu-id="f4f16-123">Select **Locations.**</span></span>
 
-3. <span data-ttu-id="202b5-124">選取 [新增位置]。</span><span class="sxs-lookup"><span data-stu-id="202b5-124">Select **Add a location**.</span></span>  
+3. <span data-ttu-id="f4f16-124">選取 [新增位置]。</span><span class="sxs-lookup"><span data-stu-id="f4f16-124">Select **Add a location**.</span></span>  
 
-4. <span data-ttu-id="202b5-125">在 [新增位置] 頁面上，插入要新增至公司之位置的地址詳細資料，以及該位置的主要連絡人。</span><span class="sxs-lookup"><span data-stu-id="202b5-125">In the **Add a location** page, insert the address details of the location that you want to add to your company as well as a primary contact for the location.</span></span>
+4. <span data-ttu-id="f4f16-125">在 [新增位置] 頁面上，插入要新增至公司之位置的地址詳細資料，以及該位置的主要連絡人。</span><span class="sxs-lookup"><span data-stu-id="f4f16-125">In the **Add a location** page, insert the address details of the location that you want to add to your company as well as a primary contact for the location.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="202b5-126">在合作夥伴中心新增位置後，即無法將其移除。</span><span class="sxs-lookup"><span data-stu-id="202b5-126">Once a location is added in Partner Center, it cannot be removed.</span></span>
+> <span data-ttu-id="f4f16-126">在合作夥伴中心新增位置後，即無法將其移除。</span><span class="sxs-lookup"><span data-stu-id="f4f16-126">Once a location is added in Partner Center, it cannot be removed.</span></span>
 
-## <a name="change-legal-headquarters-location"></a><span data-ttu-id="202b5-127">變更法定總部位置</span><span class="sxs-lookup"><span data-stu-id="202b5-127">Change legal headquarters location</span></span>
+## <a name="change-legal-headquarters-location"></a><span data-ttu-id="f4f16-127">變更法定總部位置</span><span class="sxs-lookup"><span data-stu-id="f4f16-127">Change legal headquarters location</span></span>
 
-1. <span data-ttu-id="202b5-128">在 [位置] 頁面上檢查位置清單，以確定您要作為法律實體的位置已列出。</span><span class="sxs-lookup"><span data-stu-id="202b5-128">On the **Locations** page, check the list of locations to ensure that the location you want as your legal entity is listed.</span></span> <span data-ttu-id="202b5-129">如果沒有，請新增它。</span><span class="sxs-lookup"><span data-stu-id="202b5-129">If it isn't, add it.</span></span>
+1. <span data-ttu-id="f4f16-128">在 [位置] 頁面上檢查位置清單，以確定您要作為法律實體的位置已列出。</span><span class="sxs-lookup"><span data-stu-id="f4f16-128">On the **Locations** page, check the list of locations to ensure that the location you want as your legal entity is listed.</span></span> <span data-ttu-id="f4f16-129">如果沒有，請新增它。</span><span class="sxs-lookup"><span data-stu-id="f4f16-129">If it isn't, add it.</span></span>
 
    :::image type="content" source="images/updatepartnerprofile2.png" alt-text="合作夥伴中心帳戶位置頁面的螢幕擷取畫面，其中包含所有目前位置的清單。":::
 
-2. <span data-ttu-id="202b5-131">選取 [合作夥伴設定檔]，然後選取 [更新法定公司設定檔]。</span><span class="sxs-lookup"><span data-stu-id="202b5-131">Select **Partner profile** and then select **Update legal business profile**</span></span>
+2. <span data-ttu-id="f4f16-131">選取 [合作夥伴設定檔]，然後選取 [更新法定公司設定檔]。</span><span class="sxs-lookup"><span data-stu-id="f4f16-131">Select **Partner profile** and then select **Update legal business profile**</span></span>
 
    :::image type="content" source="images/updatepartnerprofile1.png" alt-text="螢幕擷取畫面，顯示合作夥伴中心帳戶合作夥伴設定檔資訊與可選取的更新選項。":::
 
-3. <span data-ttu-id="202b5-133">選取區域和法律實體，然後加以**提交**。</span><span class="sxs-lookup"><span data-stu-id="202b5-133">Select the region and legal entity and **Submit** it.</span></span>
+3. <span data-ttu-id="f4f16-133">選取區域和法律實體，然後加以**提交**。</span><span class="sxs-lookup"><span data-stu-id="f4f16-133">Select the region and legal entity and **Submit** it.</span></span>
 
    :::image type="content" source="images/updatepartnerprofile3.png" alt-text="更新合作夥伴合法商務設定檔的螢幕擷取畫面，會顯示更新國家/地區或區域和法律實體的下拉式清單。":::
