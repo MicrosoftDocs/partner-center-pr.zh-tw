@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何協助客戶恢復合作夥伴的管理員權限，讓合作夥伴能夠協助管理客戶的 Azure CSP 訂用帳戶。
-author: LauraBrenner
-ms.author: labrenne
+author: dhirajgandhi
+ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6ffc6f4203d43a756dc3a0bf1de65eeda3d41d
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 362ae4a472b78417a4921b734a77f6259aaaa1f3
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909096"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85949259"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>恢復客戶的 Azure CSP 訂用帳戶管理員權限  
 

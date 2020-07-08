@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入了解合作夥伴所獲得信用點數 (PEC) 提供簡化的統一 Azure 定價、提供增值的受控服務，並協助消除對利潤的競爭。
-author: LauraBrenner
-ms.author: labrenne
+author: dineshvu
+ms.author: dineshvu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1da426156e3204becb01c48142329c5985b3eb3e
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 878193903561768c3f837913be5b85cadf64658c
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908996"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948939"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>合作夥伴獲得的信用點數 - 概述其在 CSP 的新商務體驗中的運作方式
 

@@ -10,12 +10,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf1822db6b689cc75c13a782c93a9d21b0ac3f75
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 73790a3fc59a2271b33c772d94b8c30902f16820
+ms.sourcegitcommit: 00f6e38cb6e3dce075174d757a5adf8fd6430bac
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949387"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "86092352"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>[合作夥伴中心深入解析] 儀表板提供的權益報表
 
@@ -42,7 +42,7 @@ ms.locfileid: "85949387"
  > [!NOTE]
  > 您可以從 Insights 儀表板取得這份報表。 若要查看這份報告，您必須在合作夥伴中心指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，也只能供具備主管報表檢視器許可權的使用者使用。
 
-**摘要**
+## <a name="summary"></a>摘要
 
 「摘要」一節提供授權軟體、雲端服務（非 Azure）、Visual Studio 訂用帳戶、技術支援和特定上市服務或供應專案的授權權益。
 
@@ -50,20 +50,20 @@ ms.locfileid: "85949387"
 
 :::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="優點摘要":::
 
-**已授與雲端服務**
+## <a name="cloud-services-granted"></a>已授與雲端服務
 
 此圖表顯示所選雲端服務的授權型訂閱在選取的日期範圍內，所授與的每月授權趨勢。
 從 [**服務**] 索引標籤選取雲端服務，以查看特定雲端服務的圖表。 折線圖代表授與貴公司的整體授權。
 
 :::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="已授與雲端服務":::
 
-**軟體產品**
+## <a name="software-products"></a>軟體產品
 
 此圖表顯示特定軟體產品在選取的日期範圍內，所授與的每月授權趨勢。 從圖表頂端的下拉式清單中選取 [軟體產品]，以查看您所授與的特定軟體產品的趨勢，使其成為權益。 折線圖代表授與貴公司的整體授權。
 
 :::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="已授與軟體產品":::
 
-**Visual Studio 訂閱**
+## <a name="visual-studio-subscriptions"></a>Visual Studio 訂閱
 
 此圖表顯示在選取的日期範圍內，針對您所配置的訂用帳戶所啟用的 Visual Studio 訂閱的每月趨勢。
 
@@ -71,7 +71,7 @@ ms.locfileid: "85949387"
 
 :::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio 訂閱":::
 
-**技術權益**
+## <a name="technical-benefits"></a>技術權益
 
 此圖表顯示所選日期範圍內所授與之支援權益的每月趨勢。
 
@@ -79,13 +79,13 @@ ms.locfileid: "85949387"
 
 :::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="技術優勢":::
 
-**上市提供或服務**
+## <a name="go-to-market-offers-or-services"></a>上市提供或服務
 
 此圖表顯示在選取的日期範圍內，以及針對所選的進入市場供應專案或服務類別，針對所配置的進入市場供應專案或服務所啟用的每月趨勢。
 
 從圖表頂端的下拉式清單中，選取 [進入市場供應專案] 或 [服務] 類別，以查看授與貴公司之所選進入市場服務的趨勢。 圖表中的資料行代表進入市場的供應專案或服務已啟用。 折線圖代表貴公司所授與的整體上市提供或服務。
 
-![上市優惠](images/pci/pci-benefits-go-to-market-7.png)
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="上市優惠":::
 
 ## <a name="next-steps"></a>後續步驟
 
