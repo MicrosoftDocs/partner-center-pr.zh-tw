@@ -1,23 +1,23 @@
 ---
-title: 分析訂閱和授權 | 合作夥伴中心
-ms.date: 11/13/2019
+title: 分析訂閱與授權
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何使用 [訂用帳戶和授權分析] 頁面中的計量，來識別您的成功和需要注意的區域。
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 6248b3fcf99bba9aaaa3984b40346c97ce5e37bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: bef5eb909b5ad739325c87b774fb738e89c26ac0
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948586"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175957"
 ---
-# <a name="analyze-subscriptions-and-licenses"></a>分析訂閱與授權 
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>分析訂用帳戶和授權，以協助您推動商務決策和新的目標
 
 **適用於**
 
@@ -44,6 +44,8 @@ ms.locfileid: "85948586"
  - **Microsoft 365**：Microsoft 365 資料  
  - **Office 365**：Office 365 資料  
 
+
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>您可以查看的訂用帳戶和授權計量類型
 
 我們正在追蹤下列計量︰
 
@@ -77,4 +79,6 @@ ms.locfileid: "85948586"
 **試用訂閱在 30 天內結束**  
  - 結束日期在 30 天內，且訂閱沒有相關的付費開始日期的已開始試用清單  
 
-  
+## <a name="next-steps"></a>後續步驟
+
+- [分析間接轉銷商的效能](analyze-indirect-resellers.md)

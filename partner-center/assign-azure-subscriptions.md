@@ -10,12 +10,12 @@ ms.author: dineshvu
 keywords: Azure, Azure 訂閱, 訂閱, 指派訂閱, 管理 azure 訂閱
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0beb6f0a4f4a2b0eb4cc731c9bf30add379ea6e3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ae6b1dd2d5b24dd44431f27473f783b90a74fd18
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948551"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175924"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>在合作夥伴中心指派 Azure 訂用帳戶給您的客戶
 
@@ -37,11 +37,12 @@ ms.locfileid: "85948551"
 
 6. 將使用者新增至訂閱後，您可以指派角色給使用者，以及使用者可以存取的特定帳戶。
 
-**讓客戶能夠管理他們的 Azure 訂閱**
+## <a name="enable-customers-to-manage-their-azure-subscriptions"></a>讓客戶能夠管理他們的 Azure 訂閱
 
 建立客戶的 Microsoft Azure 訂閱之後，您可以允許他們管理訂閱。 若要這樣做，您必須登入客戶的 Microsoft Azure 管理入口網站。 
 
 1. 若要開啟客戶的 Azure 入口網站，請在客戶清單中展開客戶的清單，或選取客戶的名稱，然後選取 [ **Microsoft Azure 管理入口網站**]。
+
    > [!NOTE]  
    > 如果系統提示您登入 Azure 入口網站，表示您可能沒有委派管理許可權。 選取 **\[要求建立關係\]** 以邀請客戶將您列名為他們的「記錄可查夥伴」。 客戶接受您的邀請後，系統就會自動將委派的管理員權限授與您。
 
@@ -49,4 +50,8 @@ ms.locfileid: "85948551"
 
 3. 將角色指派給任何客戶的使用者，讓他們可以建立和管理其訂用帳戶下的資源。
 
+## <a name="next-steps"></a>後續步驟
 
+- [CSP 合作夥伴可以如何銷售訂用帳戶給客戶](customer-subscriptions.md)
+
+- [如何取得管理客戶服務或訂用帳戶的許可權](customers-revoke-admin-privileges.md)

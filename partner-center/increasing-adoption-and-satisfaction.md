@@ -9,12 +9,12 @@ author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32c765797af31095ddec0c43c9bb132b68e1d319
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ef1ea79e669c16e663a40cdef8b0d4d3af6f219f
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992111"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175886"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作夥伴中心的計量來增加採用和滿意度
 
@@ -39,21 +39,31 @@ ms.locfileid: "84992111"
 
 ## <a name="find-license-and-user-data"></a>尋找授權和使用者資料
 
+您可以找到單一客戶的授權和使用者資料，或在您的組合中尋找。
 
-**單一客戶**
+### <a name="find-license-and-user-data-for-a-single-customer"></a>尋找單一客戶的授權和使用者資料
 
-- 從**合作夥伴中心**選取 [**客戶**]，選擇客戶，然後選取 [ **customer insights**]。
+1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-**涵蓋您的客戶組合**
+2. 從**合作夥伴中心**選取**客戶**
 
-1.  在**合作夥伴中心**上，選取 [**分析**]。
-2.  選取**匯出**選項，以在整個客戶集合中下載部署和使用方式資料。
+3. 選擇客戶。
+
+4. 選取 [ **Customer insights**]。
+
+### <a name="find-license-and-user-data-across-your-portfolio"></a>在您的組合中尋找授權和使用者資料
+
+1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
+
+2. 選取 [**分析**]，然後選擇功能表上的任何分析選項。
+
+3. 若要在整個客戶集合中下載部署和使用方式資料，請選取 [**匯出** (向下箭) ] 選項。
 
 術語：
 
-- **權利：** 使用者有權使用的授權（不會因為詐騙或未付款而暫停、尚未升級為其他授權、使用者未取消）等等。
+- **權利**= 使用者有權使用的授權 (不會針對詐騙或非付款而暫停、尚未升級為不同的授權、使用者未取消）等等 ) 
 
-- **使用中：** 如果訂閱的使用者在過去 28 個日曆天內曾經將權利用於工作。
+- 作用**中 = 如果**訂閱的使用者在過去28個日曆天內已使用工作的權利。
 
 - **部署 %** = 已指派授權/已銷售授權
 
@@ -61,13 +71,13 @@ ms.locfileid: "84992111"
 
    有時使用量 % 會比實際多，或大於 100%。 這種情形可能由幾種原因所造成：
 
-   - 客戶有員工流動，因此受權移轉給新的使用者。
+  - 客戶有員工流動，因此受權移轉給新的使用者。
 
-   - 如果客戶對一個 SKU 有兩個訂閱，但其中一個是「在寬限期內」、「已停用」或「已解除佈建」，則兩個訂閱中的權益都可能註冊 28 天期間內的作用中使用量，但只有一個會算在總量中。
+  - 如果客戶對一個 SKU 有兩個訂閱，但其中一個是「在寬限期內」、「已停用」或「已解除佈建」，則兩個訂閱中的權益都可能註冊 28 天期間內的作用中使用量，但只有一個會算在總量中。
 
-   - 如果客戶有一個試用版訂閱，則該訂閱會計算在作用中的量，但不會計算在總權益中。
+  - 如果客戶有一個試用版訂閱，則該訂閱會計算在作用中的量，但不會計算在總權益中。
 
-   - 如果客戶使用 Yammer 遠超出其授權符合的量，則資料可能會大幅偏離實際值。
+  - 如果客戶使用 Yammer 遠超出其授權符合的量，則資料可能會大幅偏離實際值。
 
 ## <a name="next-steps"></a>後續步驟
 
@@ -86,7 +96,7 @@ ms.locfileid: "84992111"
 <tr class="even">
 <td><p><strong>問題：</strong>有大量支援電話要求取得說明和使用方法。</p>
 <p><strong>考慮事項：</strong>客戶可能是軟體、該產品版本或其從事之工作的新手。</p>
-<p><strong>應嘗試的動作：</strong>您可以使用一套雙重策略來訓練（親自或線上）以提高客戶&#39;的整體專長，同時也將一些可供客戶使用的自助選項推廣。</p>
+<p><strong>應嘗試的動作：</strong>您可以使用一套雙重策略來提供訓練 (人員或線上) ，以提高客戶&#39;的整體專長，同時也將一些可供客戶使用的自助選項推廣。</p>
 <p>您可能會想要重新設計您的支援網站，使其中除了包含您的支援連絡資訊外，也包含<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客戶自我支援</a>主題中所述的自助服務選項。</p></td>
 </tr>
 </tbody>

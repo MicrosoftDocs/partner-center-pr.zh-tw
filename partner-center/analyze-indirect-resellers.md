@@ -4,18 +4,18 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 流量分析來瞭解間接轉銷商的表現，包括成功和可能需要注意的區域。
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.topic: article
 keywords: 業務資料
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3bdc3e149d445a1d43f24d54e16c04464bea807e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947413"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175966"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>流量分析來分析間接轉銷商的效能
 
@@ -35,6 +35,8 @@ ms.locfileid: "85947413"
 
 > [!NOTE]
 > 間接經銷商分析僅適用於雲端解決方案提供者計畫中的合作夥伴。
+
+## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>您可以查看的轉銷商分析計量類型
 
 我們正在追蹤下列計量︰
 
@@ -69,4 +71,6 @@ ms.locfileid: "85947413"
  - **訂閱**：經銷商售出的訂閱數  
  - **授權**：經銷商在所有訂閱中已售出的授權總數  
   
-  
+## <a name="next-steps"></a>後續步驟
+
+- [分析訂用帳戶和授權，以協助推動商業決策](analyze-subscriptions-licenses.md)

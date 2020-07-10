@@ -1,21 +1,21 @@
 ---
-title: 適用于保留使用量上限的 Microsoft Azure VM 大小 |合作夥伴中心
+title: 適用于保留使用量上限的 Azure VM 大小調整
 ms.topic: article
-ms.date: 04/27/2020
+ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解如何在為虛擬機器（VM）購買 Microsoft Azure 保留時，將其調整為您客戶的運算需求。
+Description: 瞭解如何在您購買 Microsoft Azure 保留時，將虛擬機器 (VM) 大小調整為客戶的計算需求。
 author: LauraBrenner
 ms.author: labrenne
 keywords: azure, 保留區, vm, 管理, 使用率, 調整大小
 ms.localizationpriority: medium
-ms.custom: seodec18
-ms.openlocfilehash: 05a041ae794270430b6e2ed7b72ff48b04018601
-ms.sourcegitcommit: ca6e0d4a9034120dd600c52ac67b9927dc63b7f5
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "84453275"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175914"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率
 
@@ -25,9 +25,9 @@ ms.locfileid: "84453275"
 - Azure 入口網站
 - 雲端解決方案提供者中的合作夥伴
 
-## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>判斷客戶的 Azure 保留專案的 VM 大小 
+## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>判斷客戶的 Azure 保留專案的 VM 大小
 
-代表您的客戶購買 Microsoft Azure 保留時，您必須選擇虛擬機器（VM）大小，以符合客戶的運算需求。 您可以使用下列其中一個方法來找到此項資訊：
+代表您的客戶購買 Microsoft Azure 保留時，您必須選擇虛擬機器 (VM) 大小，以符合客戶的運算需求。 您可以使用下列其中一個方法來找到此項資訊：
 
 - Azure 使用量 API
 - Azure 入口網站
@@ -42,27 +42,31 @@ ms.locfileid: "84453275"
 >[!IMPORTANT]
 >若要正確找出代表您客戶購買的 VM 大小和類型，您必須使用以下所述的其中一種方法，因為合作夥伴中心對帳檔案不會正確顯示 VM 系列類型。
 
-**使用 Azure 使用量 API，取得 VM 大小調整資訊**
+### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>使用 Azure 使用量 API，取得 VM 大小調整資訊
 
 1. 使用 API 回應中 additionalInfo 的 ServiceType 屬性值，找出要購買的 VM 大小。
+
 2. 如需詳細資訊，請參閱[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/)中的[取得 Azure 的客戶使用量記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
 
-**使用 Microsoft Azure 入口網站，取得 VM 大小調整資訊**
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>使用 Microsoft Azure 入口網站，取得 VM 大小調整資訊
 
 1. 在合作夥伴中心，移至您的 [**客戶**] 頁面。
+
 2. 尋找想要購買 Azure VM 保留的客戶，然後選取向下箭號以展開客戶的資訊。 選取 [ **Microsoft Azure 管理入口網站**] 以在 Azure 入口網站中開啟客戶的記錄。
+
 3. 從入口網站功能表選取 **\[虛擬機器\]**，然後選取您要購買保留區的 VM。
+
 4. 在 VM 的詳細資料頁面上，尋找大小和區域資訊（如下所示），並使用此資訊在合作夥伴中心購買保留。  
 
-    :::image type="content" source="images/usage1.png" alt-text="詳細資料頁面上的大小和區域資訊":::
+   :::image type="content" source="images/usage1.png" alt-text="詳細資料頁面上的大小和區域資訊":::
 
-**使用 Microsoft Azure PowerShell 取得 VM 大小調整資訊**
+### <a name="get-vm-sizing-information-using-microsoft-azure-powershell"></a>使用 Microsoft Azure PowerShell 取得 VM 大小調整資訊
 
 使用下列影像中的資訊，取得您要購買保留區的 VM 大小與位置。 
 
 :::image type="content" source="images/usage2.png" alt-text="VM 位置和大小":::
 
-**使用 Azure Resource Manager (ARM) API 取得 VM 大小調整資訊**
+### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>使用 Azure Resource Manager (ARM) API 取得 VM 大小調整資訊
 
 1. 使用 ARMClient 或 ARM API，呼叫您要購買保留區之 VM 的 ARM 用戶端。
 
