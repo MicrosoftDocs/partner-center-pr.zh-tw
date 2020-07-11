@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心重設使用者密碼。 使用者下次登入合作夥伴中心時，將會收到暫時的密碼。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84ba4806e1241fd8857e39f8c47f5391f316393b
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 9174b8caaed8f49d40b3f599fc3264ebd36bd937
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991996"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265222"
 ---
 # <a name="reset-a-users-password-in-partner-center"></a>在合作夥伴中心重設使用者的密碼
 
@@ -23,7 +23,7 @@ ms.locfileid: "84991996"
 - 合作夥伴中心
 
 > [!NOTE]  
-> 如果您已在 Microsoft Cloud 德國的雲端解決方案提供者（CSP）計畫中註冊，請參閱[Microsoft Cloud 德國的合作夥伴中心內的使用者管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)，以取得重設使用者密碼的相關資訊。
+> 如果您已在 Microsoft Cloud 德國的雲端解決方案提供者中註冊 (CSP) 方案，請參閱[Microsoft Cloud 德國的合作夥伴中心內的使用者管理](user-management-in-partner-center-for-microsoft-cloud-germany.md)，以取得重設使用者密碼的相關資訊。
 
 如果使用者忘記密碼，請指派臨時密碼給他們。 他們下次登入合作夥伴中心時可以使用臨時密碼。
 

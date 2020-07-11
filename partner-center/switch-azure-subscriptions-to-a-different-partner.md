@@ -1,21 +1,20 @@
 ---
 title: 將 Azure 訂用帳戶轉移給另一個合作夥伴
 ms.topic: article
-ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何協助客戶變更與該客戶的 Azure 訂用帳戶相關聯的 CSP 方案合作夥伴。
-author: dhirajgandhi
-ms.author: dhgandhi
-keywords: azure 訂閱, 切換合作夥伴, 變更合作夥伴, 取得新合作夥伴, 其他合作夥伴
+description: 瞭解如何變更與客戶的 Azure 訂用帳戶相關聯的雲端解決方案提供者方案合作夥伴。
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 65278a9c597fb240f87c04f215a8195a0cff3e19
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+author: dhirajgandhi
+ms.author: dhgandhi
+ms.date: 07/10/2020
+ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
+ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949098"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86237968"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>瞭解如何將客戶的 Azure 訂用帳戶轉移給另一個合作夥伴
 
@@ -25,7 +24,7 @@ ms.locfileid: "85949098"
 - Microsoft 全球雲端的合作夥伴中心
 - 雲端解決方案提供者 (CSP) 計畫中的合作夥伴
 
-本文說明客戶可以如何將其 Microsoft Azure 服務從一個雲端解決方案提供者（CSP）切換到另一個。
+本文說明客戶可以如何將其 Microsoft Azure 服務從一個雲端解決方案提供者 (CSP) 切換至另一個。
 
 若要將客戶的 Azure 服務或訂用帳戶切換至不同的夥伴，請遵循下列手動步驟。 合作夥伴和客戶都需要完成這些步驟。
 
@@ -52,9 +51,9 @@ ms.locfileid: "85949098"
 
      在步驟2中，選取 [ **C-最小影響**]，然後選擇 [**其他一般問題**] 作為問題類型。
 
-     下載 [CSP 訂用帳戶移轉表單](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)。
+     下載 [CSP 訂用帳戶移轉表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)。
 
-3. 訂閱的合作夥伴：請填寫[雲端解決方案提供者訂閱移轉表單](https://assets.windowsphone.com/5222c408-e546-4e01-b72a-2ec7d4c43d57/CSP_Subscription_Transfer_Form_Azure_InvariantCulture_Default.zip)，簽署該表單，然後將它寄給客戶。 如果要填寫表單，您將會需要下列資訊：
+3. 訂閱的合作夥伴：請填寫[雲端解決方案提供者訂閱移轉表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)，簽署該表單，然後將它寄給客戶。 如果要填寫表單，您將會需要下列資訊：
 
    - 目前合作夥伴的連絡資訊和 Microsoft ID。 在 [合作夥伴中心] 功能表中，選取 [**帳戶設定**] [ &gt; **組織設定檔**]，並使用此處所列的**Microsoft ID**、**組織名稱**和**位址**。
 

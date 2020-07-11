@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 合作夥伴可以使用 Office 365 和 Microsoft Azure 合作夥伴的 Api 來進行即時服務健全狀況、訊息中心通訊，以及預定的維護事件。
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28a858afc0f34ff51523da8af2365141191348dc
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 12a7c37bca999d6f31286a121dd191625e5b7470
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991246"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219586"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>使用適用于 Azure Insights 的自動化服務通知 & Office 365 服務通訊的 Api
 

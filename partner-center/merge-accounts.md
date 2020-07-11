@@ -2,16 +2,16 @@
 title: 將您的合作夥伴帳戶與另一個夥伴帳戶合併
 description: 在合作夥伴中心使用中的 Microsoft 合作夥伴的公司可以合併他們的帳戶。
 ms.topic: article
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 479b22e3b9666184a1dc2f75ba1f36f721d31445
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: fb54d52d77c6ea80dc2b60f2889e8404c6aca3e0
+ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909028"
+ms.lasthandoff: 07/11/2020
+ms.locfileid: "86265203"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>將您的合作夥伴帳戶與另一個夥伴帳戶合併
 
@@ -23,7 +23,7 @@ ms.locfileid: "84909028"
 
 ## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>當兩個合作夥伴選擇合併其合作夥伴中心帳戶時，會發生什麼事
 
-- 起始合併的夥伴組織將會是合作夥伴通用帳戶（PGA）。
+- 起始合併的夥伴組織將成為合作夥伴通用帳戶 (PGA) 。
 
 - 受邀組織的 PGA 會成為起始公司的位置。
 
@@ -45,7 +45,7 @@ ms.locfileid: "84909028"
 
 ## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>如果您已受邀將合作夥伴中心帳戶與另一個合作夥伴中心帳戶合併，該怎麼辦
 
-如果您決定接受合併帳戶的邀請：·您的 MPN 識別碼和位置將會合並至邀請您的合作夥伴帳戶的 PGA。
+如果您決定接受合併帳戶的邀請：·您的 MPN 識別碼 (s) 和位置將會合並至受邀您的合作夥伴帳戶的 PGA。
 
 - 您的使用者將會帶入已合併的帳戶，並將其角色原封不動。
 
@@ -53,7 +53,7 @@ ms.locfileid: "84909028"
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>瞭解當合作夥伴選擇合併帳戶時，對程式和權益的影響
 
-- 所有現有的職稱（金級/銀級）、購買（例如 Microsoft 行動套件）和相關權益都會在匯總期間保留。 如果這兩家公司都具有相同的專長認證，但其中一個是金級，而另一個銀級，則會獎勵具有最高專長的專長認證，而合作夥伴在下一次更新之前，會有一組銀級權益和一組黃金優勢。 
+- 所有現有的職稱 (金級/銀級) 、購買 (例如 Microsoft 行動套件) ，以及相關權益會在匯總期間保留。 如果這兩家公司都具有相同的專長認證，但其中一個是金級，而另一個銀級，則會獎勵具有最高專長的專長認證，而合作夥伴在下一次更新之前，會有一組銀級權益和一組黃金優勢。 
 
 - Microsoft 行動套件的最新週年日會在合併之後保留。 例如，如果公司1的週年日是2020年6月的行動套件更新，而公司2行動套件續訂的週年日是2020年10月，Microsoft 將使用10月2020日作為合併公司的新週年日。
 
@@ -65,7 +65,7 @@ ms.locfileid: "84909028"
 
   - 專長認證：合作夥伴公司會收到一份核心權益的套件，其與最高的實現相關，再加上合作夥伴適用于每個合作夥伴通用帳戶的專長認證權益。
 
-- 擁有權益均受[Microsoft 合作夥伴網路權益使用指南](https://aka.ms/partner-benefits-use-guide)的影響。 例如：啟用的 O365 E3 權杖在啟用後的12（12）個月內可運作。 一旦為租使用者上的基座啟用權杖之後，這些基座可能不會移至另一個租使用者。
+- 擁有權益均受[Microsoft 合作夥伴網路權益使用指南](https://aka.ms/partner-benefits-use-guide)的影響。 例如：啟用的 O365 E3 權杖在啟用後的) 12 個月內，會有十二 (的功能。 一旦為租使用者上的基座啟用權杖之後，這些基座可能不會移至另一個租使用者。
 
 - 這兩家公司的 MCP 識別碼關聯將會保留，並與 PGA MPN 識別碼相關聯。
 

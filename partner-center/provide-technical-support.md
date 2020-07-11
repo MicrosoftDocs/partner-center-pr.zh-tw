@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解技術支援雲端解決方案提供者方案合作夥伴可以提供客戶的類型。
-author: LauraBrenner
-ms.author: labrenne
+author: brentserbus
+ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09f4b9e07957ccede25a493f5b05d9112d2955eb
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: e6562778e9b3be1ddeaac1c3cfbe5bc1e82a268a
+ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992047"
+ms.lasthandoff: 07/10/2020
+ms.locfileid: "86219566"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>提供技術支援，協助客戶設定、管理及使用其訂閱
 
@@ -56,13 +56,13 @@ ms.locfileid: "84992047"
 
 - **技術**問題支援透過下列管道提供：
 
-  - 合作夥伴的頂級支援（以費用為基礎）
-  - 合作夥伴的先進支援（以費用為基礎）
+  -  (以費用為基礎) 的合作夥伴頂級支援
+  - 對合作夥伴 (費用) 的先進支援
   - Signature Cloud Support (隨附於金級/銀級專長認證)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>提供帳單、訂閱管理和技術支援 
 
-每個線上服務對於提供帳單、訂閱管理和技術支援都有專屬的詳細需求。 如需詳細資訊，請參閱
+每個線上服務對於提供帳單、訂閱管理和技術支援都有專屬的詳細需求。 如需詳細資訊，請參閱：
 
 - [透過雲端解決方案提供者銷售的 Dynamics 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
