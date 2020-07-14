@@ -252,6 +252,4 @@
 ## [概觀](partner-security-requirements.md)
 ## [對合作夥伴租用戶強制使用 MFA](partner-security-requirements-mandating-mfa.md) 
 ## [需求狀態](partner-security-compliance.md)
-## [實作合作夥伴安全性需求](implement-security-requirements.md)
 ## [常見問題集](partner-security-requirements-faq.md)
-
