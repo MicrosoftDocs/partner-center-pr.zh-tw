@@ -5,15 +5,15 @@ ms.date: 05/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作夥伴中心與您的 Salesforce CRM 同步處理您的參考
-author: LauraBrenner
-ms.author: labrenne
+author: sroy
+ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e51ddc8ec3ea568a20404801802548f79cae43d0
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0a22587f5b555281cae6f557acfc2695ba92727e
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991617"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302375"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM 的共同銷售連接器 – 概觀
 
@@ -97,13 +97,13 @@ ms.locfileid: "84991617"
 
        :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="建立連線":::
 
-   3. 在右上角的搜尋列中搜尋**合作夥伴中心參照（預覽）** 。
+   3. 在右上角的搜尋列中搜尋**合作夥伴中心的參考 (預覽) ** 。
 
    4. 使用 [參考管理員] 的認證角色建立合作夥伴中心使用者的連線。
 
    5. 接下來，使用 [參考管理員] 的認證為合作夥伴中心使用者建立合作夥伴中心的事件連線。
 
-   6. 為 CRM 系統管理員使用者建立 Common Data Service （目前的環境）的連接。
+   6. 為 CRM 系統管理員使用者建立 Common Data Service (目前環境) 的連接。
 
 4. 若要讓電源自動化流程與連線產生關聯，請編輯每個電源自動化流程，以連線至 Common Data Service 和合作夥伴中心的參照。 儲存變更。
 
@@ -113,9 +113,9 @@ ms.locfileid: "84991617"
 
 合作夥伴中心 Webhook Api 可讓您註冊資源變更事件。 這些變更事件會當做 HTTP post 傳送至您的 url。
 
-1. 若要註冊您的 url，請選取 **[合作夥伴中心 Webhook 註冊（Insider preview）** 電源自動化流程]。
+1. 若要註冊您的 url，請選取 [**合作夥伴中心 Webhook 註冊 (Insider preview) **電源自動化流程]。
 
-2. 新增（a）的連接。具有參照系統管理員認證的合作夥伴中心使用者（b.）以下反白顯示合作夥伴中心事件
+2. 新增 (a 的連線。 ) 合作夥伴中心使用者，其參照系統管理員認證 (b. ) 合作夥伴中心的事件，如下所示
 
    :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="觸發程序":::
 
@@ -127,7 +127,7 @@ ms.locfileid: "84991617"
 
    若要讓合作夥伴中心 webhook 接聽事件變更，請執行下列步驟：
 
-5. 選取 **[合作夥伴中心至 SALESFORCE CRM （Insider preview）**]。
+5. 選取 [**合作夥伴中心] 至 [SALESFORCE CRM] (Insider preview) **。
 
 6. 選取 [**編輯**] 圖示，然後選取 [**收到 HTTP 要求時**]。
 
@@ -135,7 +135,7 @@ ms.locfileid: "84991617"
 
    :::image type="content" source="images/salesforce/copy-url.png" alt-text="複製 URL":::
 
-8. 現在選取 [合作夥伴中心 Webhook 註冊（Insider Preview）] 電源自動化流程，然後選取 [**執行**]。
+8. 現在，選取 [合作夥伴中心 Webhook 註冊 (Insider Preview) ] [電源自動化流程]，然後選取 [**執行**]。
 
 9. 確定 [執行流程] 視窗在右側窗格中開啟，然後按一下 [**繼續**]。
 
@@ -145,7 +145,7 @@ ms.locfileid: "84991617"
 
     2. **要註冊的事件**：「參考建立」和「參考更新」
 
-    3. **覆寫現有的觸發程式端點（如果有的話**）：是（這會覆寫任何現有的端點）。
+    3. **覆寫現有的觸發程式端點（如果有的話**）：是 (這會覆寫任何現有的端點。 ) 
 
 11. 選取 [**執行**]，然後選取 [**完成]。**
 
@@ -161,15 +161,15 @@ Webhook 現在可以接聽建立和更新事件。
 
 1. 若要在合作夥伴中心內自訂建立或更新事件的欄位以進行 CRM 參考同步處理：
 
-   1. 選取 [合作夥伴中心至 Salesforce CRM （Insider Preview）]。
+   1. 選取 [合作夥伴中心] 至 [Salesforce CRM] (Insider Preview) 。
 
    2. 選取 [**編輯**] 以編輯/自訂電源自動化流程。
 
-   3. 選取 **[（範圍）]，同步處理潛在客戶或商機**。
+   3. 選取 **[ (範圍]) 同步處理潛在客戶或商機**。
 
 2. 若要自訂建立事件的 CRM 欄位對應，請選取 [**如果是新的共用機會]，然後**。 **如果是**，請選取子步驟，然後**在 CRM 中展開 [建立新商機**]。 您可以使用欄位對應指南來編輯本節中的對應。
 
-   1. 若要自訂更新事件的 CRM 欄位對應，請按一下步驟「（範圍）同步處理潛在客戶或商機」。
+   1. 若要自訂更新事件的 CRM 欄位對應，請按一下步驟「 (範圍) 同步處理潛在客戶或商機」。
 
    2. **如果它是商機的更新，請選取此**方式。 **若為 [是]** ，請選取 [子步驟]，然後展開 **[合作夥伴中心與 CRM 中的商機物件之間的差異**]。  
 
@@ -179,9 +179,9 @@ Webhook 現在可以接聽建立和更新事件。
 
    1. 選取 [**編輯**] 以編輯/自訂電源自動化流程。
 
-   2. 選取 **[（範圍）] 以同步處理商機**。
+   2. 選取 [ ** (範圍]) 同步處理商機**。
 
-   3. 針對 [更新事件] 的自訂 CRM 欄位對應（根據欄位對應指南），選取 **[合作夥伴中心和 CRM 中的潛在客戶] 物件之間是否有差異，然後**。
+   3. 如需自訂 CRM 欄位對應 (依據欄位對應指南) 更新事件，請選取 **[合作夥伴中心和 CRM 中的潛在客戶] 物件之間是否有差異，然後**。
 
    4. 選取子步驟（**如果是**），然後展開 [**以商機資料更新參考**] 步驟。
 
@@ -191,9 +191,9 @@ Webhook 現在可以接聽建立和更新事件。
 
    1. 選取 [**編輯**] 以編輯/自訂電源自動化流程。
 
-   2. 選取 **[同步處理參考] （範圍）。**
+   2. 選取** (範圍) 同步處理參考。**
 
-   3. 如需自訂建立事件的 CRM 欄位對應（根據欄位對應指南），請選取 [**建立 Microsoft 參考**]。
+   3. 如需自訂 CRM 欄位對應 (依據欄位對應指南) 若要建立事件，請選取 [**建立 Microsoft 參考**]。
 
 您可以根據欄位對應指南，編輯本節中的對應。
 
@@ -232,12 +232,12 @@ Salesforce CRM 系統管理員使用者將需要建立個別的 CRM 區段。
 
    |**欄位標籤**   |**欄位名稱**|**Data type**|**編制**|
    |---------------------|:-------------------|:--------------|:----------------|
-   |稽核| Audit__c|長文字區域（100000）（顯示行4）||
+   |稽核| Audit__c|長文字區域 (100000) # B2 可見行 4) ||
    |Microsoft 如何提供協助？|How_can_Microsoft_help_c|清單|
-   |Products|Products_c|文字（255）||
-   |轉介 | Referral_Identfier_c|文字（100）（外部識別碼）|是|
-   |參考連結| Referral_Link_c_|URL （255）||
-   |與合作夥伴中心同步|sync_with_partner_center_c|核取方塊（預設為未核取）||
+   |產品|Products_c|文字 (255) ||
+   |轉介 | Referral_Identfier_c|文字 (100) # B2 外部識別碼) |是|
+   |參考連結| Referral_Link_c_|URL (255) ||
+   |與合作夥伴中心同步|sync_with_partner_center_c|核取方塊 (預設未核取) ||
 
    * 挑選清單值：
 

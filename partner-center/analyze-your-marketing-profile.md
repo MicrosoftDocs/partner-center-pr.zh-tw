@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何使用 [商務設定檔深入解析] 頁面，查看您的目標客戶和產生參考的觀點。
-author: vikramb
+author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c648fbf98ff0af3f79d689cc2b22297bc1a5aa84
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a683d7a375ebb3bbb3ef481c3dbfb27cd86bcb86
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948561"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302225"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>分析您的商務設定檔-瞭解您對目標客戶和潛在推薦的吸引程度
 <!-- 
@@ -40,9 +40,9 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 若要查看您的參考深入解析資料，請從 [合作夥伴中心] 功能表移至 [**參考] > 商務設定檔深入**解析]。 您的資料會顯示設定檔績效、分析趨勢，以及辨識需要有所動作的區域。
 
-在靠近 [**商務設定檔深入**解析] 頁面頂端的地方，您可以選取要顯示資料的時間週期。 預設選項是 [ **30D** （30天）]，但您可以選擇將資料顯示為3或6個月的時間。 包含所有區域的資料。
+在靠近 [**商務設定檔深入**解析] 頁面頂端的地方，您可以選取要顯示資料的時間週期。 預設選項為**30D** (30 天) ，但您可以選擇將資料顯示為3或6個月的時間。 包含所有區域的資料。
 
-在您張貼公司的[商務設定檔](create-a-marketing-profile.md)之後，您將會開始查看有多少客戶找到您的設定檔、按一下以深入瞭解的頻率，以及他們傳送資訊要求的頻率（RFIs）。 請在調整您的商務設定檔時使用此資料，以產生更多潛在客戶和更多相關的潛在客戶。
+在您張貼公司的[商務設定檔](create-a-marketing-profile.md)之後，您將會開始查看有多少客戶找到您的個人資料、按一下以深入瞭解的頻率，以及他們將 (RFIs) 的資訊要求傳送給您的頻率。 請在調整您的商務設定檔時使用此資料，以產生更多潛在客戶和更多相關的潛在客戶。
 
 [**設定檔效能摘要**] 圖表包含所選時段的下列資訊：
 

@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 當您在合作夥伴中心註冊您所贏得的交易時，它會協助 Microsoft 在未來提供更多機會。
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: 交易註冊
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bb638d82315be392181ebad17040723d164119b
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: 782eee28a7bd26131d15d449d451a4c29050fd4a
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467408"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302255"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>在合作夥伴中心註冊您所贏得的交易，讓您可以在稍後取得更多商機
 
@@ -59,12 +59,12 @@ ms.locfileid: "84467408"
 
 在 [推薦] > [交易註冊] > [需要採取動作]**** 頁面中，您會看到尚未註冊或需要更新的新註冊。 您可以使用篩選器，只顯示 [未完成]**** 或 [需要更新]**** 的交易註冊。 [不完整]**** 的交易註冊是源自推薦但尚未註冊的交易。 [需要更新]**** 交易註冊是已建立並註冊的交易，但是需要您更新所提供的資訊。
 
-### <a name="in-progress"></a>正在進行
+### <a name="in-progress"></a>進行中
 
 在 [推薦] > [交易註冊] > [進行中]**** 頁面中，您會看見 Microsoft 正在審查的交易註冊。 如果需要進一步資訊，我們將使用您提供的 [註冊連絡人]**** 資訊。
 
 如需更新任何資訊，我們可以將交易註冊移至 [需要採取動作]**** 頁面中。
 
-### <a name="closed"></a>關閉
+### <a name="closed"></a>已關閉
 
 在 [推薦] > [交易註冊] > [已結束]**** 頁面中，您會看到 Microsoft 已成功註冊並審查的交易。 您可以使用篩選器，只顯示 [已核准]**** 或 [已拒絕]**** 的交易註冊。

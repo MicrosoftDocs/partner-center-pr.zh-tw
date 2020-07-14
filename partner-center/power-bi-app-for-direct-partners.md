@@ -6,18 +6,18 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 探索此總覽和合作夥伴中心分析應用程式的相關常見問題，以取得 Power BI。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
-author: LauraBrenner
-ms.author: labrenne
+author: v-sumukh
+ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eacf0408e8ee87b6eeb15a2c61e24e6056cd593c
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 54301590ce6be6d9076d1fb337979148455f25f6
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795848"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302305"
 ---
-# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>適用于 Power BI 的合作夥伴中心分析應用程式的總覽和常見問題（CSP 中的直接合作夥伴）
+# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>適用于 Power BI 在 CSP 中 (直接合作夥伴的合作夥伴中心分析應用程式的總覽和常見問題) 
 
 **適用於**
 

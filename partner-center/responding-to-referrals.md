@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解合格的 Microsoft 合作夥伴如何回應參考、管理新的、現有的和封存的參考，並在未來取得更多推薦。
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: 推薦, RFI, 尋找合作夥伴
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 65d9629f610e3b6e145c348eebf6c197f3583318
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: cb9a175016c27896c467ffe78d692c162e41c41f
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467268"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302245"
 ---
 # <a name="respond-to-referrals-and-get-potential-business-leads"></a>回應參考並取得潛在的業務潛在客戶
 
@@ -33,7 +33,7 @@ ms.locfileid: "84467268"
 - 內部 Microsoft 銷售和服務專員
 - 客戶搜尋，使用**[解決方案提供者](https://www.microsoft.com/solution-providers/home)** 搜尋工具。
 
-當客戶想要深入瞭解您的解決方案和服務時，他們會藉由提交資訊要求（RFI）來與您聯繫。 所選地區和位置專屬[商務設定檔](create-a-marketing-profile.md)中所列的連絡人將會收到系統產生的電子郵件。 您也可以前往 [推薦] > [參與] > [收件匣]****，查看合作夥伴中心的傳入 RFI。
+當客戶想要深入瞭解您的解決方案和服務時，他們會藉由提交 (RFI) 的資訊要求來聯絡您。 所選地區和位置專屬[商務設定檔](create-a-marketing-profile.md)中所列的連絡人將會收到系統產生的電子郵件。 您也可以前往 [推薦] > [參與] > [收件匣]****，查看合作夥伴中心的傳入 RFI。
 
 客戶通常選擇同時傳送相同的 RFI 給多家公司。 若要提升您的成功機會，我們建議在 24 小時内接受或拒絕新的合作轉介。
 
@@ -47,7 +47,7 @@ ms.locfileid: "84467268"
 
 - **拒絕**：選取您要拒絕 engagement 的原因，並新增您想要包含的任何附注，然後選取 [**關閉參與**]。 我們會將其封存為已**拒絕**，並通知客戶選擇不同的夥伴。
 
-如果您未在指定的時間期間內回應（目前為14天），我們會將其封存為**過期**，並通知客戶選擇不同的合作夥伴。
+如果您未在指定的期間內回應 (目前) 14 天，我們會將其封存為**過期**，並通知客戶選擇不同的夥伴。
 
 > [!TIP]
 > 客戶可以選擇明確要求感興趣的合作夥伴直接連絡他們。 如果是這種情況，您會在頁面頂端看到一個具有火焰圖示的警示。 我們強烈建議您儘快與客戶聯繫，以改善您贏得合作的機會。 72小時後，推薦將持續有效，但圖示和訊息將會變更。 如果您想要追蹤此推薦，仍然應該與客戶聯繫。

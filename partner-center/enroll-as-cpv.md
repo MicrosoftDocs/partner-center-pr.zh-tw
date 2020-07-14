@@ -5,17 +5,17 @@ ms.date: 05/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何在合作夥伴中心 (CPV) 註冊為「控制台」廠商。
-author: kbangalore
-ms.author: kiranban
+author: parthpandyaMSFT
+ms.author: parthp
 keywords: 控制台廠商，註冊 CPV 應用程式，管理 CPV 應用程式
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 819c814333878efc882749a1597e993eb9002545
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 503bbb6d1c083337dc9bad9cc469c43d614eb5a3
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219606"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302365"
 ---
 # <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>註冊為控制台廠商，協助整合 CSP 合作夥伴系統與合作夥伴中心 Api
 

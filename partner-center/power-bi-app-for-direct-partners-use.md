@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何使用適用于 Power BI 的合作夥伴中心分析應用程式（適用于 CSP 中的直接合作夥伴）來查看您的商務資料。
+description: 瞭解如何使用適用于 CSP) 中的直接合作夥伴 Power BI (的合作夥伴中心分析應用程式來查看您的商務資料。
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
-author: LauraBrenner
-ms.author: labrenne
+author: v-sumukh
+ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 684ddb00a0497e01fc0fff318000c4b17dd0ea53
-ms.sourcegitcommit: 2a980b50cf177753c15ebfd7770e14cf6d486cf7
+ms.openlocfilehash: 248527fdbc536c552f7b2d00f208838b4ef19085
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/22/2020
-ms.locfileid: "83795866"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302284"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>使用適用於 Microsoft Power BI 的合作夥伴中心分析應用程式來檢視業務資料
 
@@ -62,7 +62,7 @@ ms.locfileid: "83795866"
 
 - **新增 (過去 30 天)**：在過去 30 天中購買至少一個訂閱的新客戶
 
-- 變換 **（過去30天）**：沒有任何「作用中」、「在寬限期」或「已停用」訂閱的客戶
+- **過去30天) **的變換 (：沒有任何「作用中」、「在寬限期」或「已停用」訂閱的客戶
 
 - **新增 (過去 24 小時)**：在過去 24 小時中購買至少一個訂閱的新客戶
 
