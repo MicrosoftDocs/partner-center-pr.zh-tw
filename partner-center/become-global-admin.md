@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 若要在合作夥伴中心內工作，您必須先確認網域的擁有權。 了解如何執行此操作，以及如何成為可新增使用者的全域管理員。
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 keywords: 網域, 網域驗證, 驗證網域, 全域系統管理員, 使用者角色, 權限
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2aed5fa0c8e80f056d643dbfd7c55b3a156331e7
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
+ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908265"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "85948235"
 ---
 # <a name="verify-your-domain-ownership"></a>確認網域的擁有權
 
@@ -32,19 +32,19 @@ ms.locfileid: "82908265"
 您必須驗證網域的擁有權，以便您可以購買貴公司符合資格的權益、新增使用者並為其指派角色，或在合作夥伴中心執行其他工作。
 
 >[!Note]
->例如，貴公司中的全域系統管理員就是管理雲端服務的系統管理員。 如果貴公司確有全域系統管理員，但您不確定誰是全域系統管理員，請從合作夥伴中心右上角的 [設定]  圖示中，選取 [使用者管理]  。 移至 [使用者管理] 並篩選全域系統管理員，來找到要連絡的全域系統管理員。
+>例如，貴公司中的全域系統管理員就是管理雲端服務的系統管理員。 如果貴公司確有全域系統管理員，但您不確定誰是全域系統管理員，請從合作夥伴中心右上角的 [設定] 圖示中，選取 [使用者管理]。 移至 [使用者管理] 並篩選全域系統管理員，來找到要連絡的全域系統管理員。
 
 ## <a name="verify-your-domain-ownership-and-become-a-global-admin-in-partner-center"></a>驗證您的網域擁有權，並成為合作夥伴中心的全域管理員
 
-1. 在合作夥伴中心上，從 [會員資格供應項目]  頁面中，選取 [成為全域系統管理員]  。 
+1. 在 [合作夥伴中心] 儀表板上，從 [會員資格供應項目] 頁面中，選取 [成為全域系統管理員]。 
 
-2. 在 [驗證網域擁有權]  頁面上，複製資料表中的 TXT 值。 請注意，已為您選取您的網域。
+2. 在 [驗證網域擁有權] 頁面上，複製資料表中的 TXT 值。 請注意，已為您選取您的網域。
 
 3. 登入您的網域。 
 
 4. 遵循您網域所提供的步驟，將 TXT 值貼入 DNS 表單中。  這可讓我們驗證您是否擁有嘗試從中工作的網域。
 
-5. 返回合作夥伴中心，然後選取 [好的，我已新增記錄] 
+5. 返回合作夥伴中心，然後選取 [好的，我已新增記錄]
 
 6. 一旦完成驗證，您就必須登出。再次登入以重新整理您的狀態。 
 
@@ -53,7 +53,7 @@ ms.locfileid: "82908265"
 - 具有能存取所有 Microsoft 帳戶/服務的完整權限 
 - 建立合作夥伴中心的支援票證
 - 檢視合約、價格清單和優惠
-- 計費
+- 帳單
 - 檢視、建立和管理合作夥伴使用者
 - 購買和管理雲端服務
 
