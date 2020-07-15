@@ -5,17 +5,17 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何將轉銷商指派為具有 Microsoft 服務訂閱之客戶的技術支援連絡人。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: 協助代理人, 支援, 指派支援連絡人, 指定的支援連絡人
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 711ee7ac693402553c2afcad7f5387bf4d04ab6c
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 481f8cdf0f2b1834bca12c2523e43c76765bae4b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84990980"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377672"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>將轉銷商指派為客戶的技術支援連絡人
 

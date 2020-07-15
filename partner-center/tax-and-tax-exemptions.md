@@ -5,21 +5,21 @@ ms.date: 06/05/2020
 description: 針對 CSP 方案合作夥伴，請瞭解每個區域的稅務責任、如何提交 CSP 銷售的稅金豁免，以及如何取得稅務問題的支援。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
+author: BillLinzbach
 keywords: 稅金，免稅，vat，轉銷商，帳單
-ms.author: labrenne
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1236facdfdb1f73f940c36c4a748cc9a1694e72c
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: c02533f69e6d79da435dfa9ef9e4feffc4085571
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991792"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377372"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>依照 CSP 計畫中的合作夥伴區域或國家/地區，閱讀有關稅金和免稅明細的詳細資訊
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心

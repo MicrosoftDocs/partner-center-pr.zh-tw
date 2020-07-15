@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作夥伴中心定期檢閱您的推薦見解資料，了解要因應的趨勢或要改進的範圍，以助您達成業務目標。
-author: LauraBrenner
-ms.author: labrenne
+author: rajap-ms
+ms.author: rajap
 keywords: 推薦, 分析, 分析, 計量, 轉換
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ffe5c7a485749d138be09fb5740d9b15970a546
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 34794d3ef29167b9e6012bfdbedcbfa835028a83
+ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679425"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86302335"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>在合作夥伴中心取得推薦見解，並了解您的推薦情況
 

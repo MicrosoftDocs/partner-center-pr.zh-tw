@@ -5,17 +5,17 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 以雲端解決方案提供者 (CSP) 方案的合作夥伴身分，了解逐漸成長的 Microsoft 雲端服務和供應項目目錄，以便向客戶銷售。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: 雲端解決方案提供者, 雲端解決方案提供者計畫, 雲端解決方案提供者, 新增產品, 銷售給客戶, 合作夥伴供應項目, 雲端解決方案提供者供應項目, 雲端式服務, Azure, Office 365, Dynamics, 雲端解決方案提供者合作夥伴, 在雲端解決方案提供者中銷售, Azure RI, Azure 保留的虛擬機器執行個體, Azure Reservations, 線上服務, 訂閱軟體, AHUB, Azure 上的 SQL Server, Azure 上的 Windows Server, 客戶訂閱
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32d89ec53eb11f661758e008c9566fbdac9f383e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 88565466bfe124e05d3bac85e6814dfa44ec3ca7
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679015"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390525"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>概述雲端解決方案提供者方案中的合作夥伴供應項目
 

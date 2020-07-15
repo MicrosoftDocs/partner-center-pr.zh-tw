@@ -1,22 +1,23 @@
 ---
-title: 存取您的獎勵支出頁面 |合作夥伴中心
+title: 存取您的支出頁面
 ms.topic: article
-ms.date: 11/20/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 瞭解如何存取您的支出資訊。 這適用于 Windows 應用程式和遊戲付款，以及 MPN 獎勵支出。
+description: 瞭解如何為獨立軟體廠商存取您的 Windows 應用程式和遊戲、MPN 獎勵及商業 Marketplace 費用的支出資訊。
 author: kim-davis
 ms.author: kimnich
 keywords: 獎勵，支出
 ms.localizationpriority: medium
-ms.openlocfilehash: 4da575605baab09c3b1f349b52760e89ae20d746
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: b2ccca4afc16716d24074a30859cf7ab910e6391
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949468"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377722"
 ---
-# <a name="access-your-incentives-payouts-page"></a>存取您的獎勵支出頁面
+# <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>存取 Windows 應用程式和遊戲、MPN 獎勵及商業 Marketplace 費用的支出頁面
 
 **適當的角色**
 -   全域系統管理員

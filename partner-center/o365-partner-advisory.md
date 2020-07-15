@@ -3,19 +3,19 @@ title: CSP 合作夥伴諮詢-Microsoft 365 語音
 description: 瞭解某些國家/地區的 PSTN 服務，以及可能適用和影響合作夥伴訂單和發票的特殊稅金或法規需求。
 ms.topic: article
 ms.date: 05/05/2020
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: Office，O365，PSTN 服務，稅金，需求，發票，發票
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ed43b8ca9a5596f6734ee5e2ecb6c041bbf72ea
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 96271a574ad84d28651e263c34a8238093e0d026
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82907357"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377792"
 ---
-# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 合作夥伴諮詢： Microsoft 365 商務版 CSP 方案中的語音
+# <a name="office-365-partner-advisory-microsoft-365-business-voice-in-the-csp-program"></a>Office 365 合作夥伴諮詢：雲端解決方案提供者計畫中的 Microsoft 365 商務版 Voice
 
 **適用於**
 
@@ -38,7 +38,7 @@ ms.locfileid: "82907357"
 
 此外，CSP 發票會顯示下列註腳：
 
-* 顯示的價格是音訊會議和通話方案服務的收費。  任何適用的交易稅金都會以所顯示的金額為限，但美國境內的銷售額除外。  在美國，顯示的價格為含稅，因為它包含通話方案和音訊會議服務的費用，以及我們所需收取的稅金和費用費用。  「音訊會議」和「通話方案服務」是由已獲授權提供他們的「Microsoft 分支機搆」所提供。  如需詳細資訊，請參閱[Microsoft 大量授權](https://go.microsoft.com/fwlink/?LinkId=690247)。
+* 顯示的價格是音訊會議和通話方案服務的收費。  任何適用的交易稅金都會以所顯示的金額為限，但美國境內的銷售額除外。  在美國，顯示的價格為含稅，因為它包含通話方案和音訊會議服務的費用，以及我們所需收取的稅金和費用費用。  「音訊會議」和「通話方案服務」是由已獲授權提供他們的「Microsoft 分支機搆」所提供。  如需詳細資料，請參閱 [Microsoft 大量授權](https://go.microsoft.com/fwlink/?LinkId=690247)。
 
 ## <a name="reconciliation-file-example"></a>對帳檔案範例
 

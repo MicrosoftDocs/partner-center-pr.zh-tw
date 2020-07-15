@@ -4,17 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 CSP 合作夥伴如何使用合作夥伴中心，將客戶從現有的 CSP Azure 供應項目移至 Azure 方案下的 Azure 服務。
-author: mowrim
+author: mowree
 ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: a6f2c3cfe2c19c2764b8149a00c065eb1c429a98
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a2a378107f5a376c78779066c62e8098ae1cdef8
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948389"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390345"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>將客戶從現有 CSP Azure 供應項目轉換至 Azure 方案
 

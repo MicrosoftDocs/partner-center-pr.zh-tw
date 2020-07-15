@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 讓客戶試用 Microsoft 訂用帳戶產品30天。 在目錄中註冊這些免費試用，就像其他許多線上服務一樣。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb1b2104119a28b376301637e559df76392d65c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175986"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377772"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>提供客戶30天免費試用版的 Microsoft 產品
 
@@ -31,7 +31,7 @@ ms.locfileid: "86175986"
 
 ## <a name="available-trial-offers"></a>可用的試用版優惠
 
-您可以在 [**客戶**] 頁面上找到所有未完成的試用版供應專案。 此頁面會列出所有訂閱，包括免費試用版和付費訂閱。  (中國目前無法使用這項功能 ) 
+您可以在 [**客戶**] 頁面上找到所有未完成的試用版供應專案。 此頁面會列出所有訂閱，包括免費試用版和付費訂閱。 （這項功能目前不適用於中國）。
 
 每位客戶都有權取得每個供應專案的免費試用版。 例如，他們可以取得 Microsoft 365 商務版 Standard 的免費試用版，以及一個 Office 365 E3 免費試用版。 不過，如果客戶已擁有該供應專案，他們就無法使用該供應專案的免費試用版。
 
@@ -64,7 +64,7 @@ ms.locfileid: "86175986"
 您必須自行將試用版轉換成付費訂用帳戶。 您可以[使用合作夥伴中心](#convert-trials-using-partner-center)或[透過合作夥伴中心 api](#convert-trials-using-apis)來執行此動作。
 
 > [!NOTE]
-> 客戶免費試用雲端解決方案提供者 (CSP) 方案無法轉換為另一個方案租使用者 (例如 EA、Open 或 MOSP) 。
+> 雲端解決方案提供者（CSP）方案的客戶免費試用版無法轉換為另一個程式租使用者（例如 EA、Open 或 MOSP）。
 
 ### <a name="convert-trials-using-partner-center"></a>使用合作夥伴中心轉換試用版
 
@@ -88,7 +88,7 @@ ms.locfileid: "86175986"
 
 |**試用版**   |**相容的小型企業提供**   |**相容的企業提供**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Microsoft 小組商業雲端 (使用者起始的) 試用版   |Microsoft 365 商務版 Basic、Microsoft 365 商務版 Standard、Microsoft 365 商務版 Premium   | F3 (之前的 F1) 、Office 365 for Enterprise (E1、E3 和 E5) 、M365 F1/F3、M365 Enterprise (E3)    |
+|Microsoft 小組商業雲端（使用者起始）試用版   |Microsoft 365 商務版 Basic、Microsoft 365 商務版 Standard、Microsoft 365 商務版 Premium   | F3 （先前為 F1）、Office 365 for Enterprise （E1、E3 和 E5）、M365 F1/F3、M365 Enterprise （E3）   |
 
 >[!NOTE]
 >以上的供應專案具有類似功能的類似服務方案，但供應專案之間可能會有一些差異。
@@ -99,7 +99,7 @@ ms.locfileid: "86175986"
 
 試用期到期後，嘗試登入該試用版的客戶會看到到期訊息。 不過，資料會以資料保留標準來儲存。 當您使用相同的服務方案購買新的訂用帳戶之後，就可以從新啟動的訂用帳戶再次存取您的客戶資訊。
 
-## <a name="billing"></a>計費
+## <a name="billing"></a>帳單
 
 年度計費和免費試用版在主權雲端和公用雲端中都相同。 唯一的差異在於啟動時可用的試用 Sku。
 

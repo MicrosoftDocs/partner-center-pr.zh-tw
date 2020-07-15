@@ -5,18 +5,18 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心註冊 Cloudyn web 應用程式並使用它的秘密金鑰，讓您可以使用應用程式來追蹤客戶的 Azure 使用量和成本。
-author: LauraBrenner
-ms.author: labrenne
+author: aparnagkrishnan
+ms.author: aparnag
 Keywords: Azure 成本管理應用程式，管理成本，web 應用程式
 robots: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d88f37e0fe653c679df5729fa283336e4c7e144
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: 521501f9a979c0993d299ab30443168408656a44
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908367"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390445"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>使用適用于 CSP 合作夥伴的 Azure 成本管理應用程式來追蹤客戶的 Azure 使用量和成本  
 
@@ -38,14 +38,14 @@ ms.locfileid: "82908367"
 - 您是雲端解決方案提供者計畫的合作夥伴。
 - 您有能力建立 Partner Center API Web 應用程式。
 
-## <a name="overview"></a>總覽
+## <a name="overview"></a>概觀
 
 Cloudyn 是一個 web 應用程式，可讓您追蹤及管理客戶使用 Azure 的程度，以及該使用量的成本。 您是透過合作夥伴中心 API 使用此應用程式。
 
 ## <a name="register-your-web-app-in-the-partner-center"></a>在合作夥伴中心註冊您的 Web 應用程式
 當您在合作夥伴中心註冊 Azure Active Directory Web 應用程式，您就啟用對 Partner Center API 的存取權。 
 1.  使用[全域系統管理員或系統管理代理人帳戶](create-user-accounts-and-set-permissions.md)登入[合作夥伴中心](https://partnercenter.microsoft.com/pcv/dashboard/overview)。
-2.  從**合作夥伴中心**，選取 [**帳戶設定** &gt; ] [**[應用程式管理](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)**]。
+2.  從**合作夥伴中心**，選取 [**帳戶設定**] [ &gt; **[應用程式管理](https://partnercenter.microsoft.com/pcv/apiintegration/appmanagement)**]。
 3.  在 **\[Web 應用程式\]** 區段中，按一下 **\[新增 Web 應用程式\]**。
 <br> **注意**：如果您先前已建立 Web 應用程式，可以略過步驟 3。
 4.  複製並儲存您 Web 應用程式的**商務識別碼** GUID 和**應用程式識別碼** GUID。 您將需要這兩個識別碼，才能使用 30 天免費試用版的 Azure 成本管理應用程式。

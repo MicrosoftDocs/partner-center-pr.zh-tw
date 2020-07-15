@@ -6,16 +6,16 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 身為合格的 Microsoft 合作夥伴，您可以與 Microsoft 共同銷售。 瞭解如何定義參與、邀請 Microsoft 共同作業，或觀看已傳送的合作。
 author: sroy
-ms.author: jenhayes
+ms.author: sroy
 keywords: 推薦, RFI, 尋找合作夥伴
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 63b046422d76864b0836cd85483a0a3aebfe8b25
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948060"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390555"
 ---
 # <a name="co-sell-with-microsoft"></a>與 Microsoft 共同銷售
 
@@ -31,7 +31,7 @@ ms.locfileid: "85948060"
 身為合格的 Microsoft 合作夥伴，您有機會與 Microsoft 共同銷售。 這種共同作業可協助您將解決方案帶到市場、促進銷售的收益，並確保客戶的成功。
 
 > [!IMPORTANT]
-> 若要與 Microsoft 共同銷售，合作夥伴需要具備商業功能的解決方案、參與的銷售團隊，以及強大的進入市場策略。 它們也必須符合特定的其他準則。 如需詳細資訊，請參閱[成為共同銷售就緒](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)。
+> 若要與 Microsoft 共同銷售，合作夥伴需要具備商業解決方案、參與的銷售小組，以及強大的上市策略。 合作夥伴也必須符合其他特定準則。 如需詳細資訊，請參閱[成為共同銷售就緒](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)。
 
 ## <a name="invite-microsoft-to-collaborate-on-an-engagement"></a>邀請 Microsoft 在 engagement 上共同作業
 

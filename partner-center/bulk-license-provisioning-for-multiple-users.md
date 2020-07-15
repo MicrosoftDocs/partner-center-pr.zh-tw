@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何使用客戶帳戶，一次指派或撤銷授權和服務給一位使用者或多個使用者。
-author: dineshvu
-ms.author: dineshvu
+author: amitravat
+ms.author: amrava
 Keywords: 指派授權、撤銷授權、指派給多個使用者、
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6211bbca4fad5bf6a28c98a76a98a6be02d4fceb
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 8da5ffd66e717cf26aadc519fe0e5431067b25dd
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86176014"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390575"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>同時對客戶帳戶中的多個使用者指派或撤銷授權
 
@@ -77,7 +77,7 @@ ms.locfileid: "86176014"
 7. 請透過選取每項產品的核取方塊來為使用者選取超過一項產品。
     -   選取 [查看任何產品的**服務方案**]，以查看並選取使用者所需的服務方案。
 
-8. 選取 [Save] \(儲存\)。 合作夥伴中心會開啟**授權已更新**的確認頁面，其中列出使用者和其新的授權。
+8. 選取 [儲存]。 合作夥伴中心會開啟**授權已更新**的確認頁面，其中列出使用者和其新的授權。
 
 >[!NOTE]
 >某些 Microsoft 產品可能無法在特定位置使用。 其他產品則取決於其他產品或服務，或者可以一起指派給同一個使用者。 在您儲存之後，確認頁面就會列出所有使用者授權指派成功的結果，以及任何授權指派錯誤。

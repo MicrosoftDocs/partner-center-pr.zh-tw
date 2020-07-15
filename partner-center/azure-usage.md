@@ -4,18 +4,18 @@ ms.topic: article
 ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解如何在您購買 Microsoft Azure 保留時，將虛擬機器 (VM) 大小調整為客戶的計算需求。
-author: LauraBrenner
-ms.author: labrenne
+Description: 瞭解如何在為虛擬機器（VM）購買 Microsoft Azure 保留時，將其調整為您客戶的運算需求。
+author: BillLinzbach
+ms.author: BillLi
 keywords: azure, 保留區, vm, 管理, 使用率, 調整大小
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 02635631d618b226eebcacee534e5947975b8153
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 00da6723fc8aa4a5b3f1e0f747cb63acc1a504a8
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175914"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377652"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率
 
@@ -27,7 +27,7 @@ ms.locfileid: "86175914"
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>判斷客戶的 Azure 保留專案的 VM 大小
 
-代表您的客戶購買 Microsoft Azure 保留時，您必須選擇虛擬機器 (VM) 大小，以符合客戶的運算需求。 您可以使用下列其中一個方法來找到此項資訊：
+代表您的客戶購買 Microsoft Azure 保留時，您必須選擇虛擬機器（VM）大小，以符合客戶的運算需求。 您可以使用下列其中一個方法來找到此項資訊：
 
 - Azure 使用量 API
 - Azure 入口網站

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/01/2020
-ms.openlocfilehash: 8f4a7d6cb423eac8360eee85fbfdb310bd54eeda
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678925"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286616"
 ---
 # <a name="march-2020-announcements"></a>2020 年 3 月公告
 
@@ -118,7 +118,7 @@ Microsoft 已於 2018 年 8 月 31 日，在雲端解決方案提供者 (CSP) �
 
 **有任何問題嗎？**
 
-如有任何問題、質疑，或者如需詳細資訊，請[連絡支援人員](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp)。
+如有任何問題、質疑，或者如需詳細資訊，請[連絡支援人員](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
 
 _________________
 
@@ -148,7 +148,7 @@ Microsoft 將於 2020 年 4 月 1 日引進全新的入門 SKU，並會重新定
 
 **全新入門 SKU：** 全新的入門 SKU 名稱為 Microsoft 365 F1，其能為第一線員工賦予量身打造的價值，同時能為所有員工提供更廣泛的安全性與身分識別價值。 這項供應項目包括 Teams、SharePoint Online、Yammer Enterprise、Stream、EMS E3 和 Office Web/Mobile Apps 的唯讀存取。
 
-這些變更能為第一線員工提供更高的價值，並能讓合作夥伴大幅拓展使用者商機。 **請查看[這裡](http:/resources/collection/Microsoft-365-firstline-offer-updates#/)的其他文件，深入了解價值主張與後續步驟。**
+這些變更能為第一線員工提供更高的價值，並能讓合作夥伴大幅拓展使用者商機。 **請查看[這裡](https://partner.microsoft.com/resources/collection/Microsoft-365-firstline-offer-updates)的其他文件，深入了解價值主張與後續步驟。**
 
 |**變更時間表**|**變更**|
 |-------------------|:------|
@@ -311,7 +311,7 @@ _________________
 - 第一方機器人程序自動化 (RPA) 供應項目
 - 適用於 RPA 供應項目的新 Bot 產品
 
-如需具體變更，請參閱[此處](https://partner.microsoft.com/en-us/pcv/.)的 "Dynamics CSP Offer Updates–Mar 2020" (Dynamics CSP 供應項目更新 - 2020 年 3 月) 檔案
+如需具體變更，請參閱[此處](https://partner.microsoft.com/pcv/.)的 "Dynamics CSP Offer Updates–Mar 2020" (Dynamics CSP 供應項目更新 - 2020 年 3 月) 檔案
 
 ### <a name="additional-resources"></a>其他資源：
 
@@ -367,7 +367,7 @@ Microsoft 即將移除 Microsoft Defender 進階威脅防護 (MDATP) 中的 Wind
 
 **有任何問題嗎？**
 
-如果您對於與 Microsoft 的合作有疑問，請透過您的合作夥伴儀表板連絡支援人員： https://partner.microsoft.com/en-us/pcv/servicerequests/create 。
+如果您對於與 Microsoft 的合作有疑問，請透過您的合作夥伴儀表板連絡支援人員： https://partner.microsoft.com/pcv/servicerequests/create 。
 
 ### <a name="change-log"></a>變更記錄
 

@@ -3,16 +3,16 @@ title: 以授權為基礎的對帳檔案
 ms.topic: article
 ms.date: 05/18/2020
 description: 瞭解如何在合作夥伴中心讀取以授權為基礎的對帳檔案。 本文說明以授權為基礎的偵察檔中每個欄位的意義。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ce9400c3672ff09997321b2e55f46daf102ebbd
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909046"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377692"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>瞭解以合作夥伴中心授權為基礎的對帳檔案中的欄位
 
@@ -51,7 +51,7 @@ ms.locfileid: "84909046"
 | ChargeType | 費用或調整的[類型](recon-file-charge-types.md)。 | 請參閱[費用類型](recon-file-charge-types.md)。 |
 | UnitPrice | 每一基座價格，即購買時價目表中所公佈的價格。 請確定這符合您的計費系統中儲存的資訊。 | *6.82* |
 | 數量 | 基座數目。 請確定這符合您的計費系統中儲存的資訊。 | *2* |
-| Amount | 數量總價。 用來檢查金額計算是否符合您為客戶計算此值的方式。 | *13.32* |
+| 金額 | 數量總價。 用來檢查金額計算是否符合您為客戶計算此值的方式。 | *13.32* |
 | TotalOtherDiscount | 套用至這些費用的折扣金額。 專長認證或地圖所附的產品授權，或符合獎勵資格的新訂用帳戶，也會在本專欄中包含折扣金額。 | *2.32* |
 | 小計 | 稅前總計。 檢查您的小計是否符合您的預期總計（以折扣為例）。 | *11* |
 | 稅金 | 稅金金額費用。 根據您市場的稅務規則和特定情況。 | *0* |

@@ -3,17 +3,17 @@ title: 計費-一次性 & 選取週期性費用
 ms.topic: article
 ms.date: 05/26/2020
 Description: 深入瞭解合作夥伴中心計費-預先計費以取得預設的條款，並針對選取的週期性費用計費。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 keywords: 計費，一次性，週期性，採購，費用，isv
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2c833d132b56969f1c8b06bc01fd50d28110819
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 9720d06d42025ee69c52afb893e4a6b6fee4a28f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749148"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390245"
 ---
 # <a name="billing-for-one-time-and-select-recurring-charges-in-partner-center"></a>在合作夥伴中心計費一次並選取週期性費用
 

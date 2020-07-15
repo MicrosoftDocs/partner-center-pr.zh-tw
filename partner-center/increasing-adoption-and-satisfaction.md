@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心使用計量。 計量可以顯示您的業務是否成長、客戶使用其授權的方式，以及要將投資放在何處。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ef1ea79e669c16e663a40cdef8b0d4d3af6f219f
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175886"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377262"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作夥伴中心的計量來增加採用和滿意度
 
@@ -57,11 +57,11 @@ ms.locfileid: "86175886"
 
 2. 選取 [**分析**]，然後選擇功能表上的任何分析選項。
 
-3. 若要在整個客戶集合中下載部署和使用方式資料，請選取 [**匯出** (向下箭) ] 選項。
+3. 若要在整個客戶集合中下載部署和使用方式資料，請選取 [**匯出**] （向下箭號）選項。
 
 術語：
 
-- **權利**= 使用者有權使用的授權 (不會針對詐騙或非付款而暫停、尚未升級為不同的授權、使用者未取消）等等 ) 
+- **權利**= 使用者有權使用的授權（不會因為詐騙或非付款而暫停、尚未升級為其他授權、使用者未取消）等等）
 
 - 作用**中 = 如果**訂閱的使用者在過去28個日曆天內已使用工作的權利。
 
@@ -96,7 +96,7 @@ ms.locfileid: "86175886"
 <tr class="even">
 <td><p><strong>問題：</strong>有大量支援電話要求取得說明和使用方法。</p>
 <p><strong>考慮事項：</strong>客戶可能是軟體、該產品版本或其從事之工作的新手。</p>
-<p><strong>應嘗試的動作：</strong>您可以使用一套雙重策略來提供訓練 (人員或線上) ，以提高客戶&#39;的整體專長，同時也將一些可供客戶使用的自助選項推廣。</p>
+<p><strong>應嘗試的動作：</strong>您可以使用一套雙重策略來訓練（親自或線上）以提高客戶&#39;的整體專長，同時也將一些可供客戶使用的自助選項推廣。</p>
 <p>您可能會想要重新設計您的支援網站，使其中除了包含您的支援連絡資訊外，也包含<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客戶自我支援</a>主題中所述的自助服務選項。</p></td>
 </tr>
 </tbody>

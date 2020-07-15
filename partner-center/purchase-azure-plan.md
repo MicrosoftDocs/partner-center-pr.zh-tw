@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 使用 Azure 方案，了解如何購買一或多個 Azure 訂用帳戶與 Azure 保留，以設定資源及檢視或新增訂用帳戶。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 711a787fd6ebd3494eb2b975aee338494728aa89
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909126"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377782"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>為客戶購買 Azure 方案，並以隨用隨付費率存取最新的 Azure 服務
 

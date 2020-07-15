@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 身為雲端解決方案提供者，您可以購買、銷售或管理客戶的 Azure 保留專案。 使用合作夥伴中心、Azure 入口網站或合作夥伴中心 API。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: azure, 保留區, 管理, 帳單, 購買, Azure RI, Azure 保留的執行個體
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5393e757b209de5a7df22b35a0cee0703419bef4
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 93c6353922197270245b4b21f3bc210f26c7ec8f
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198636"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377642"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>使用合作夥伴中心、Azure 入口網站或 Api，為客戶銷售 Microsoft Azure 預約
 
@@ -54,7 +54,7 @@ Azure 保留可透過下列方式吸引客戶：
 
 |**如需下列資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
-| 適用于您客戶的 Azure 保留檔 | [什麼是 Azure 保留專案？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
+| 適用于您客戶的 Azure 保留檔 | [什麼是 Azure 保留？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
 |在合作夥伴中心為您的客戶購買 Azure 保留   |[購買 Azure Reservations](azure-reservations-buying.md)
 |在合作夥伴中心管理 Azure 保留專案 | [在合作夥伴中心管理 Azure 保留專案](azure-reservations-manage.md)
 |判斷正確的 VM 大小，並確認客戶 VM 使用量   |[調整 VM 大小以提供最大 Azure Reservations 使用率](azure-usage.md)   |

@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解間接提供者如何與雲端解決方案提供者（CSP）計畫中的間接轉銷商協力合作，並判斷哪一個角色適合您。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3b2ccd077b745e8ec17a046a2dbaec541567d6b
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 1089c2eeb419bbc826a3df433d3ed6c25273a7cc
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603837"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377192"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>您可以在合作夥伴中心與其他合作夥伴合作的不同方式
 

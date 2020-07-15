@@ -5,17 +5,17 @@ ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何向 Microsoft 所發佈的產品以及由協力廠商 Isv 發佈的 SaaS 產品，銷售您的客戶訂用帳戶。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 Keywords: 訂用帳戶，建立新的訂用帳戶，暫停，取消，暫停，暫停，SaaS，授權，ISV，協力廠商
 ms.localizationpriority: medium
-ms.openlocfilehash: 3588fb8408ef3c190813691d42331753ac531a8f
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ea5c15248eb38e1c69b6501e21aed1772e937d45
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991490"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377593"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -44,7 +44,7 @@ ms.locfileid: "84991490"
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard)。
 
-2. 從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。
+2. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
 
 3. 選取 [訂用帳戶]****。 [**線上服務**] 索引標籤會顯示所有可用的 Marketplace SaaS 供應專案。
 
@@ -89,7 +89,7 @@ ms.locfileid: "84991490"
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-2. 從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。
+2. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
 
 3. 選擇您要管理的訂閱。
 
@@ -124,7 +124,7 @@ ms.locfileid: "84991490"
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-2. 從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。
+2. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
 
 3. 找出您想要取消的訂用帳戶。
 
@@ -139,13 +139,13 @@ ms.locfileid: "84991490"
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>選擇是否要自動續訂商業市集訂用帳戶
 
-根據預設，使用中的訂用帳戶會設定為在訂用帳戶期間到期時自動續訂。 對於[商業市集產品的訂用帳戶](csp-commercial-marketplace-overview.md)，您可以選擇不自動更新訂用帳戶。
+根據預設，使用中的訂閱會設定為在訂閱期間到期時自動續訂。 對於[商業 marketplace 產品的訂閱](csp-commercial-marketplace-overview.md)，您可以選擇不自動更新訂用帳戶。
 
 若要停止有效的商用 marketplace 訂用帳戶，使其無法自動續約：
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-2. 從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。
+2. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
 
 3. 選取 **訂用帳戶** 。 這會列出您已為客戶購買的任何授權型訂閱。
 

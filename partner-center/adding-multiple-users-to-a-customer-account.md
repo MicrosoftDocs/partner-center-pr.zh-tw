@@ -5,17 +5,17 @@ ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何一次將多個使用者新增至客戶的帳戶。 使用逗號分隔值（.csv）檔案格式，將資料檔案上傳至合作夥伴中心。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 keywords: 大量上傳, 新增多個使用者至客戶的帳戶, 新增客戶使用者, 大量上傳客戶使用者, 客戶帳戶, 客戶使用者, 使用者
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44e8da91a622fe640e9e41f8d8d464a61652ef30
-ms.sourcegitcommit: f71963d6a7ced48ea73580fa57f559ae69f31940
+ms.openlocfilehash: 72a1bf634950ac5a445dca894e3925abcae5f645
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "85104124"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377272"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>將多個使用者新增至客戶帳戶-將資料檔案上傳至合作夥伴中心
 
@@ -57,7 +57,7 @@ ms.locfileid: "85104124"
 
 2. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-3. 從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。
+3. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
 
 4. 選取客戶的 [**使用者和授權**] 索引標籤，然後選取 [**上傳使用者**]。
 

@@ -6,17 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解間接轉銷商如何與 Microsoft 間接提供者 (或代理商) 合作，以協助提供客戶支援和計費服務。
 ms.prod: ''
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: 間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 9450d4e32a086add3c86e398dacd1a590e7e6d4c
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: 79eda54e958acd2c83074c6b84bba85c87096a33
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879350"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377712"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在雲端解決方案提供者計畫中與間接提供者成為合作夥伴
 

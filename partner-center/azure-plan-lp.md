@@ -1,7 +1,7 @@
 ---
 title: Azure 方案 - 以隨用隨付費率購買 Azure
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Azure 方案的商務體驗，以隨用隨付費率為客戶購買 Azure 服務。 同時了解新的安全性需求。
@@ -11,12 +11,12 @@ Keywords: Azure, Azure 方案, 購買訂用帳戶, 訂閱
 robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77e99f8151227650639f9bd9b54a794985db4554
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c2638aea520500d6007495281226078a8acf7701
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948426"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286586"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>簡介：Azure 方案可讓合作夥伴以隨用隨付費率為客戶購買 Azure
 
@@ -44,9 +44,5 @@ Microsoft 在合作夥伴中心引進了新的商務體驗，那就是 Azure 方
 |管理客戶在 Azure 方案底下的訂用帳戶和資源|[管理 Azure 方案下的訂用帳戶和資源](azure-plan-manage.md)|
 |了解如何看懂 Azure 方案價目表   |[Azure 方案價目表說明](azure-plan-price-list.md)|
 |哪些地區有提供 Azure 方案？|[提供 Azure 方案的國家/地區完整清單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
-|若要了解合作夥伴所獲得信用點數的計算方式，您必須登入合作夥伴中心儀表板的價目表|[合作夥伴中心儀表板](https://partner.microsoft.com/en-us/dashboard/home)|
-|Azure 方案底下的計費|[Azure 計費](azure-plan-billing.md)| 
-
-
-
-
+|若要了解合作夥伴所獲得信用點數的計算方式，您必須登入合作夥伴中心儀表板的價目表|[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/home)|
+|Azure 方案底下的計費|[Azure 計費](azure-plan-billing.md)|

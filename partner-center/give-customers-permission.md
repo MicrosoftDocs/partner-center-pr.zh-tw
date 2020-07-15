@@ -5,17 +5,17 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: amrava
+author: amitravat
 ms.author: amrava
 Keywords: 訂用帳戶，自助式購買，自助 RI，啟用 RI，停用 RI，自助，客戶購買，客戶許可權，客戶購買保留實例，客戶購買 Azure 保留，開啟自助服務，關閉自助服務
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0c507aae75dad4a1dce5dc9746ebe9f7ed48f040
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 62447e284ce35b414594031c590110cedc5a59ab
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947466"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377452"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>授與客戶合作夥伴中心的許可權，以購買自己的產品或服務
 
@@ -33,7 +33,7 @@ ms.locfileid: "85947466"
 
 CSP 方案中的合作夥伴通常會使用合作夥伴中心和其商業 marketplace，為客戶購買解決方案和服務。 然後，合作夥伴可以讓某些客戶直接從 Azure 入口網站布建這些服務。
 
-以下是範例。 假設您在合作夥伴中心購買客戶的 Azure 方案訂用帳戶。 接著，您決定將其他資源或服務新增至該訂用帳戶（代表客戶）。 在此情況下，您可以將 Azure 保留專案新增至客戶的訂用帳戶（例如，新增保留的虛擬機器實例）。 接著，您可以允許客戶進一步在 Azure 入口網站中布建 Azure 保留資源本身。
+以下為範例。 假設您在合作夥伴中心購買客戶的 Azure 方案訂用帳戶。 接著，您決定將其他資源或服務新增至該訂用帳戶（代表客戶）。 在此情況下，您可以將 Azure 保留專案新增至客戶的訂用帳戶（例如，新增保留的虛擬機器實例）。 接著，您可以允許客戶進一步在 Azure 入口網站中布建 Azure 保留資源本身。
 
 現在，透過**客戶**權力功能，您可以使用 Azure 資源為客戶提供更多的自助選項。 藉由開啟客戶的許可權，您可以讓客戶購買自己的資源（例如購買自己的 Azure 保留）。  
 

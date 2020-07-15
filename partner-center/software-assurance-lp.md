@@ -5,16 +5,16 @@ ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 註冊軟體保證計畫以打造業務，並獲得補償以提供企業客戶的訓練和規劃。
-author: LauraBrenner
-ms.author: labrenne
+author: mowree
+ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d56cc5791a81ff4ca5917ae0d0a942cf64177b48
-ms.sourcegitcommit: 7ec7514ee9693d62d8eb930aa38fe701cd152835
+ms.openlocfilehash: ecc3aa2a5bb9059211b74f35ed43147e754bbf05
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "84425917"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390255"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>參與軟體保證方案，包括訓練券和規劃服務
 

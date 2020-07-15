@@ -5,16 +5,16 @@ ms.date: 04/28/2020
 description: 如果您的客戶遇到服務中斷，請瞭解從 Microsoft 要求服務等級協定（SLA）點數的優點、限制和程式。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 27a444bc5f923b1d2ad18bfe47cf70b365751e42
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: cb8f6b2280318427b2015403b528fc288ef64d97
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84992011"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377752"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>如何及何時向 Microsoft 要求服務等級協定（SLA）信用額度
 
@@ -47,7 +47,7 @@ Microsoft 的 SLA 信用額度取決於哪些服務受到影響。 例如，如�
 | EX | Exchange Online |
 | FO | Exchange Online 保護 |
 | SB | 商務用 Skype Online （先前稱為 Lync Online） |
-| OS | Office 訂閱 |
+| 作業系統 | Office 訂閱 |
 | PB | Power BI for Office 365 |
 | SP | SharePoint Online |
 | YA | Yammer Enterprise |

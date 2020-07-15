@@ -5,16 +5,16 @@ ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解合作夥伴的角色和許可權，使其能夠獲得合作夥伴獲額的點數（PEC）。 這些角色與合作夥伴中心的工作不同。
-author: dineshvu
-ms.author: dineshvu
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0f4e99dab2c898564941e926fc6d754547d66c1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa6241755e228e36abdd15022c127d2b243b488f
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948256"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390585"
 ---
 # <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>適合獲得合作夥伴獲額信用額度的角色和許可權
 
@@ -27,7 +27,7 @@ ms.locfileid: "85948256"
 |-----------------|:------------------|:--------------|
 |擁有者  |您可以管理所有專案，包括對資源的存取。|是|
 |參與者 |除了授與資源的存取權之外，您還可以管理所有專案。|是|
-|讀取者|您可以查看所有專案，但不會進行任何變更|否|
+|讀者|您可以查看所有專案，但不會進行任何變更|否|
 |ACRDelete|acr 刪除|是|
 |ACRImageSigner|ACR 影像簽署者|是|
 |ACRPull|acr 提取|是|

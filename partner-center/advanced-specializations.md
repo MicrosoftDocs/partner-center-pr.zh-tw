@@ -5,17 +5,17 @@ ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 強化合作夥伴目錄中的商務設定檔。 瞭解如何獲得先進的特製化，以及您的金級/銀級專長認證。
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 keywords: 專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格, 進階專長
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7393fdfbc1aa94961680d869cf00cd5855efa0a6
-ms.sourcegitcommit: d5fc07cf20a9de970f9bb65019732792dd81b4a0
+ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85911288"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390195"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>獲得先進的特製化，展現專業知識並向客戶脫穎而出 
 
@@ -29,7 +29,7 @@ ms.locfileid: "85911288"
 
 如果您對名為**Web 應用程式現代化的**先進特製化感興趣 Microsoft Azure，請從合作夥伴中心的功能表中選取它。 您會進入 [必要條件] 頁面。
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="必要條件":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="先決條件":::
 
 
 在您符合所有必要條件之前，您的狀態仍**不會是 [已啟動]。** 當您符合必要條件時，就會啟用 [**排程審核**] 按鈕。 您需要針對下列 Azure advanced 特製化，使用協力廠商審核程式完成 audit：
@@ -47,11 +47,11 @@ ms.locfileid: "85911288"
 
 需要客戶參考的先進特製化範例，就是**Microsoft 團隊的會議和會議室**。 除了黃金專長認證、認證和效能需求之外，您還必須提供三個客戶參考，以示範您部署和管理的能力。
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="必要條件":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="先決條件":::
 
 在您符合所有必要條件之前，您的狀態仍**不會是 [已啟動]。** 當您完成所有需求時，您的**狀態會是 [作用中]**。 [作用中] 狀態會自動啟用您的**商務設定檔**上的標籤，搜尋[尋找解決方案提供者](https://www.microsoft.com/solution-providers/home)的所有客戶都可以看到此標記。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - 瞭解取得 Microsoft 專長認證需求[microsoft 專長和銀級成員資格的需求](learn-about-competencies.md)
 

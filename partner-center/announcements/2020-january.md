@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/01/2020
-ms.openlocfilehash: 93e29f5ed6409e244768136b1f7609a8e8e3391e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.date: 07/10/2020
+ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
+ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84678935"
+ms.lasthandoff: 07/13/2020
+ms.locfileid: "86286606"
 ---
 # <a name="january-2020-announcements"></a>2020 年 1 月公告
 
@@ -52,7 +52,7 @@ _________________
 
 ### <a name="additional-resources"></a>其他資源
 
-- 合作夥伴資源庫頁面上的雲端解決方案提供者計畫資源：[俄羅斯雲端解決方案提供者合作夥伴可使用 Windows Server 和 SQL Server 訂用帳戶](https://partner.microsoft.com/en-us/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
+- 合作夥伴資源庫頁面上的雲端解決方案提供者計畫資源：[俄羅斯雲端解決方案提供者合作夥伴可使用 Windows Server 和 SQL Server 訂用帳戶](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
 - [深入了解合作夥伴中心](https://docs.microsoft.com/partner-center/azure-plan-get-started)
 
 ### <a name="next-steps"></a>接下來的步驟
@@ -61,7 +61,7 @@ _________________
 
 ### <a name="questions"></a>有任何問題嗎？
 
-- 如有任何問題、質疑，或者如需詳細資訊，請[連絡支援人員](https://partner.microsoft.com/en-US/dashboard/support/csp/servicerequests/create?category=csp)。
+- 如有任何問題、質疑，或者如需詳細資訊，請[連絡支援人員](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
 
 _________________
 
@@ -329,7 +329,7 @@ Microsoft 已於 2020 年 1 月 2 日發行 Dynamics 365 Power Virtual Agent、B
 
 - Dynamics 365 Virtual Agent for Customer Service
 
-如需詳細的 SKU 資訊，請參閱[此處](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offers 1-1-20" 檔案。
+如需詳細的 SKU 資訊，請參閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offers 1-1-20" 檔案。
 
 Biz Apps 和 Power Platform
 
@@ -337,7 +337,7 @@ Biz Apps 和 Power Platform
 
 - 現有 PowerApps 個別應用程式方案已推出學生供應項目
 
-如需詳細的 SKU 資訊，請參閱[此處](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offers 1-1-20" 檔案。
+如需詳細的 SKU 資訊，請參閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offers 1-1-20" 檔案。
 
 我們將會在 2020 年 2 月 1 日發行下列新的與更新的 Biz Apps 和 Power Platform 供應項目：
 
@@ -371,7 +371,7 @@ Dynamics 365 Human Resources 將不再提供下列供應項目：
 
 Microsoft 將會在 2020 年 2 月 1 日變更某些產品系列和供應項目的名稱，以使現有 Dynamics 365 及 Power Platform 供應項目的命名和其他管道及區域中使用的命名一致。
 
-如需具體變更，請參閱[此處](https://partner.microsoft.com/en-US/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offer Name Changes – Feb 2020" 檔案。
+如需具體變更，請參閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offer Name Changes – Feb 2020" 檔案。
 
 ### <a name="additional-resources"></a>其他資源
 
@@ -389,7 +389,7 @@ Microsoft 將會在 2020 年 2 月 1 日變更某些產品系列和供應項目�
 
 ### <a name="questions"></a>有任何問題嗎？
 
-- 如果您有與使用 Microsoft 作業嚴格相關的問題，請[尋求支援](https://partner.microsoft.com/en-us/pcv/servicerequests/create)。
+- 如果您有與使用 Microsoft 作業嚴格相關的問題，請[尋求支援](https://partner.microsoft.com/pcv/servicerequests/create)。
 
 ### <a name="change-log"></a>變更記錄
 

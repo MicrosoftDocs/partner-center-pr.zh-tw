@@ -5,17 +5,17 @@ ms.date: 06/12/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何註冊軟體保證訓練券計畫，讓您可以獲得報酬，將訓練和規劃提供給企業客戶。
-author: mowrim
+author: mowree
 ms.author: mowrim
 keywords: 訓練憑券, 軟體保證, 訓練, 註冊 SATV, SATV
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: e4910ed3301e6399f9ce6ab26bfc69c7257e2bff
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: a041631be7fe602ea16eebda557bb55aa9595173
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949556"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390235"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作夥伴中心的軟體保證訓練憑券 (SATV) 計畫
 

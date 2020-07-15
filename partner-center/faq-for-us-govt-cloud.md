@@ -5,15 +5,15 @@ ms.date: 11/20/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 如需適用于美國政府 Microsoft Cloud 的雲端解決方案提供者（CSP）計畫，請參閱常見問題（FAQ）的解答。
-author: mowrim
+author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.openlocfilehash: 67bdaebcf87f147d45c87eda605559e41334b9a9
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 0971753d47eb86882167b5dcfe922e4810ae4c9d
+ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947525"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86390535"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 適用的合作夥伴中心常見問題集
 
@@ -37,7 +37,7 @@ ms.locfileid: "85947525"
 
 **客戶定價是否與 CSP Commercial 的客戶定價相同？**
 
-否。 定價將反映提供 Microsoft Cloud for US Government 適用之獨特價值的額外成本。
+不正確。 定價將反映提供 Microsoft Cloud for US Government 適用之獨特價值的額外成本。
 
 **合作夥伴折扣模式是否相同？**
 
@@ -103,11 +103,11 @@ Microsoft Cloud 代理商合約 (MCDA) 授與代理商透過雲端解決方案�
 
 **合作夥伴獎勵是否有任何差異？**
 
-否。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的合作夥伴獎勵，與 CSP Commercial 的合作夥伴獎勵相同。 若要深入了解合作夥伴獎勵，請登入 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/partner-incentives)。
+不正確。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的合作夥伴獎勵，與 CSP Commercial 的合作夥伴獎勵相同。 若要深入了解合作夥伴獎勵，請登入 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/partner-incentives)。
 
 **計費方式是否有任何變更？**
 
-否。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的計費條件及需求，與 CSP Commercial 的計費條件及需求相同。 若要深入了解計費，請檢閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/cloud-solution-provider/resources)上的資源。
+不正確。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的計費條件及需求，與 CSP Commercial 的計費條件及需求相同。 若要深入了解計費，請檢閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/cloud-solution-provider/resources)上的資源。
 
 **如果資料是在商業資料中心託管，是否能改換到 Microsoft Cloud for US Government 中託管？**
 

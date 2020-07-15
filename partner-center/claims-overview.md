@@ -1,20 +1,21 @@
 ---
-title: 獎勵共同作業宣告 |合作夥伴中心
+title: 獎勵合作宣告
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何在沒有必要條件的情況下提交您的獎勵宣告，以檢查您的活動計劃。
+description: 瞭解如何藉由組織適當的檔、發票、語句和執行證明，為您的獎勵提交成功的共同作業索賠。
 author: kaushikgMSFT
 ms.author: kaushikg
 keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b789b3243231307e3aa969b52498117199f4612
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948088"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377632"
 ---
 # <a name="incentives-co-op-claims-overview"></a>獎勵合作宣告概觀
 

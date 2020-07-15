@@ -5,17 +5,17 @@ ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何為客戶建立使用者帳戶、新增或移除使用者授權、重設使用者密碼、刪除使用者帳戶，或將其還原。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 Keywords: 客戶管理、帳戶、建立帳戶、授權、指派授權、使用者管理、密碼、重設密碼、變更密碼
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3fb55e341692e38250c4e751cf73f3120604c15a
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 57d5a91fda593b47d6e22b3682d0072b256ae655
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991028"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377682"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>合作夥伴中心內客戶帳戶的使用者管理工作
 
@@ -43,7 +43,7 @@ ms.locfileid: "84991028"
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-2. 從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。
+2. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
 
 3. 在客戶功能表中，選取 [使用者與授權]****。
 
@@ -63,7 +63,7 @@ ms.locfileid: "84991028"
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-2. 從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。
+2. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
 
 3. 在客戶功能表中，選取 [使用者與授權]****。
 
@@ -80,7 +80,7 @@ ms.locfileid: "84991028"
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-2. 從 [合作夥伴中心] 功能表上，選取 [客戶]  ，然後從清單中選擇客戶。
+2. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
 
 3.  在客戶功能表中，選取 [使用者與授權]****。 從清單中選擇使用者。
 

@@ -6,20 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 請務必瞭解線上交易牽涉到的各種風險，以及管理和緩和這些風險的最佳作法。
 keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8ca1461ed8b71ea2e6c82603672f4029599b4cc
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991902"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377802"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>在合作夥伴中心內管理未付款、詐騙或誤用
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心

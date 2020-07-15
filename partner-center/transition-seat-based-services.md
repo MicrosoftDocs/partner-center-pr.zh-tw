@@ -2,19 +2,19 @@
 title: 將以授權為基礎的客戶移至 CSP 計畫
 description: 瞭解如何將以授權為基礎的客戶從其他頻道或其他合作夥伴移至合作夥伴中心的雲端解決方案提供者（CSP）計畫。
 ms.topic: article
-ms.date: 06/19/2020
+ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f4eabe3e31a521dcb2bd0f26bac702e1f92984f
-ms.sourcegitcommit: cf4c5c3469581d6371c99a735c186547dd0c92d9
+ms.openlocfilehash: a76c433f79b6c060c284e8a058c50f50a6b9628c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "85879132"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377222"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>將以授權為基礎的客戶從其他管道 & 合作夥伴移至雲端解決方案提供者方案
 
@@ -46,7 +46,7 @@ ms.locfileid: "85879132"
 >[!NOTE]
 > 您（CSP 合作夥伴）必須位於與客戶租使用者相同的區域，才能將該客戶轉型為您。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [開始搭配 Azure 方案使用隨用隨付費率](azure-plan-get-started.md)
  

@@ -5,17 +5,17 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 取得代表客戶管理其服務或訂閱所需的權限。 了解如何授與、撤銷和管理權限。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.custom: SEOAPR.20
 keywords: 委派的管理員權限, 代表的管理員, 移除權限, DAP, AOBO
 ms.localizationpriority: high
-ms.openlocfilehash: 7fdc39dd3d9da7532b52e9b77517da1c0b72fa58
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: 95f6ae6661180e4d607065a5211ca5f600719f7c
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198596"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377432"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>取得管理客戶服務或訂閱的權限
 
@@ -34,7 +34,7 @@ ms.locfileid: "85198596"
 
 1.  選取 [客戶]，然後選取 [要求建立轉銷商關係]。
 
-2.  在下一頁，複查草稿電子郵件訊息。 您可以在預設電子郵件應用程式中開啟草稿訊息，或是將訊息複製到您的剪貼簿，並將其貼到電子郵件。 
+2.  在下一頁，複查草稿電子郵件訊息。 您可以在預設的電子郵件應用程式中開啟訊息草稿，也可以將訊息複製到剪貼簿，並將其貼到電子郵件中。 
 
     >[!IMPORTANT]
     >您可以在電子郵件中編輯文字，但是請務必包含連結，因為它已個人化，用來將客戶直接連結至您的帳戶。 
