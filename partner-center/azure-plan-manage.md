@@ -5,16 +5,16 @@ ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解合作夥伴如何使用不同的角色型存取控制 (RBAC) 選項，來對客戶 Azure 資源的操作進行控制和管理。
-author: amrava
+author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d06ada3cc16949da9a457b4515978444887ed56
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
+ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948431"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "86175951"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 方案下的訂用帳戶和資源
 
@@ -29,9 +29,9 @@ ms.locfileid: "85948431"
 
 - **Azure Lighthouse**：AOBO 不允許彈性建立與不同客戶一起使用的不同群組，或為群組或使用者啟用不同的角色。 使用 Azure Lighthouse，您可以將不同的群組指派給不同的客戶或角色。 因為使用者會透過 Azure 委派的資源管理來擁有適當的存取層級，所以您可以減少擁有系統管理代理人角色的使用者人數 (因而擁有完整的 AOBO 存取權)。 藉由限制對客戶資源的不必要存取來協助改善安全性。 它也可讓您更有彈性地大規模管理多個客戶。 如需詳細資訊，請參閱 [Azure Lighthouse 與雲端解決方案提供者計畫](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)。
 
--  **目錄或來賓使用者或[服務主體](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** ：您可以藉由在客戶目錄中新增使用者，或新增來賓使用者並指派特定 RBAC 角色，委派對 CSP 訂用帳戶的細微存取權。 
+-  **目錄或來賓使用者或[服務主體](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** ：您可以藉由在客戶目錄中新增使用者，或新增來賓使用者並指派特定 RBAC 角色，委派對 CSP 訂用帳戶的細微存取權。
 
-Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安全性做法。 請參閱 [Azure Active Directory Privileged Identity Management 資源](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)。 
+Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安全性做法。 請參閱 [Azure Active Directory Privileged Identity Management 資源](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)。
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>將您的合作夥伴識別碼 (MPN 識別碼) 連結至您的認證，以管理客戶的 Azure 資源
 
@@ -56,28 +56,27 @@ Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安�
 
 1. 建立警示。
 
-:::image type="content" source="images/azure/azurealert1.png" alt-text="Azure 警示":::
+   :::image type="content" source="images/azure/azurealert1.png" alt-text="Azure 警示":::
 
 2. 選取您想要讓警示採取的動作類型。例如，如果您指定要使用電子郵件，您會收到一封電子郵件，通知您是否發生任何角色指派刪除。
 
-:::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="設定警示":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="設定警示":::
 
 ### <a name="aobo-removal"></a>AOBO 移除
 
 客戶可以前往 Azure 入口網站上的 **Access 控制**，來管理其訂用帳戶的存取權。 從 [角色指派] 索引標籤中，選取 [移除存取權]。 如果發生這種情況，您可以：
 
 - 與您的客戶交談，查看是否可以恢復系統管理員存取權。
+
 - 使用透過[角色型存取控制 (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview) 提供的存取權。
+
 - 使用透過 [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) 提供的存取權。
 
 角色型存取權與系統管理員存取權不同。 角色會精確地分隔您可以和不可以執行的動作。 系統管理員存取權較廣泛。
 
 若要查看有資格獲得 PEC 的角色，請參閱[合作夥伴所獲得信用點數的角色和權限](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)。
 
-
-
-
-**詳細資訊**
+## <a name="next-steps"></a>接下來的步驟
 
 - [撤銷及恢復 Azure CSP 訂用帳戶的系統管理員權限](revoke-reinstate-csp.md)
 
