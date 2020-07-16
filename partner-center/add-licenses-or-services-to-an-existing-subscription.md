@@ -5,17 +5,17 @@ ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何升級或修改客戶的訂閱。 新增更多授權、新增更多基座，或移至具有更多服務的不同版本。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 keywords: 新增授權到現有的訂閱, 新增基座到現有的訂閱, 修改訂閱, 變更訂閱, 為客戶購買更多授權
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d5cc8e161f2a519d656baceeac51146f638c754
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: fefb11f9e54d1d227bf4cb846c4e324041e0bd4e
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991089"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377302"
 ---
 # <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>將授權、基座或更多服務新增至客戶的訂閱
 
@@ -34,8 +34,7 @@ ms.locfileid: "84991089"
 
 如果您的客戶需要的基座數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。 如需詳細資料，請參閱[切換為不同的 Microsoft 365 Apps 商務版方案](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
 
-## <a href="" id="upgradesubscription"></a>
-
+## <a name="upgrades-supported-in-the-csp-program"></a>CSP 計畫中支援的升級 <a href="" id="upgradesubscription"></a>
 
 雲端解決方案提供者支援下列升級：
 
@@ -85,28 +84,32 @@ ms.locfileid: "84991089"
 
 如果符合下列條件，便可以升級訂閱：
 
--   訂閱必須為作用中 (而非已暫停或已取消)。
+- 訂閱必須為作用中 (而非已暫停或已取消)。
 
--   您必須擁有此客戶及服務的委派管理員權限。 了解如何[要求委派的系統管理員權限](request-a-relationship-with-a-customer.md)。
+- 您必須擁有此客戶及服務的委派管理員權限。 了解如何[要求委派的系統管理員權限](request-a-relationship-with-a-customer.md)。
 
--   客戶不能已經擁有包含其他服務的訂閱。
+- 客戶不能已經擁有包含其他服務的訂閱。
 
--   客戶不能已經擁有您正在嘗試為他們升級的訂閱。
+- 客戶不能已經擁有您正在嘗試為他們升級的訂閱。
 
 在後面兩個情況下，客戶有可能已經透過其他合作夥伴或管道購買那些訂閱或服務，而在沒有取消現有訂閱或服務的情況下，他們將無法透過您購買那些訂閱或服務。 如需詳細資訊，請參閱[多通路](multichannel.md)。
 
 如需此情況會對帳單所造成之影響的詳細資訊，請參閱[常見帳單案例](common-billing-scenarios.md)中有關取消訂閱並新增新訂閱的詳細資料。
 
-**升級訂閱**
+## <a name="upgrade-a-subscription"></a>升級訂閱
 
-1.  如果要查看訂閱是否符合升級的資格，請選擇您的客戶，然後開啟其訂閱清單。
-2.  如果訂閱可以升級，您將會在訂閱名稱之後看見一個資訊圖示。 暫留於此圖示上，然後選取 \[立即升級\]  。
-3.  選取新的訂閱詳情，然後選擇 \[送出\]  。
-4.  針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 針對此情況，合作夥伴中心將會提供受影響的帳戶和服務清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](https://go.microsoft.com/fwlink/p/?LinkId=723576)。
+1. 如果要查看訂閱是否符合升級的資格，請選擇您的客戶，然後開啟其訂閱清單。
 
- 
+2. 如果訂閱可以升級，您將會在訂閱名稱之後看見一個資訊圖示。 暫留於此圖示上，然後選取 \[立即升級\]。
 
- 
+3. 選取新的訂閱詳情，然後選擇 \[送出\]。
 
+4. 針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 針對此情況，合作夥伴中心將會提供受影響的帳戶和服務清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](https://go.microsoft.com/fwlink/p/?LinkId=723576)。
 
+## <a name="next-steps"></a>接下來的步驟
 
+- [切換至不同的 Microsoft 365 商務版方案](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+
+- [要求委派的系統管理員權限](request-a-relationship-with-a-customer.md)
+
+- [了解常見帳單案例](common-billing-scenarios.md)

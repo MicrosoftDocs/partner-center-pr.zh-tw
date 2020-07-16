@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在雲端解決方案提供者 (CSP) 計畫中，比較合作夥伴的新 Microsoft 商務體驗中各供應項目之間的主要差異。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a68009f213ac31210b5c1c142116e8057231c3ed
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 5160c494dbd6b64fd6f1c29ce7d3ffcf0d83730b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84908736"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377622"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>比較 CSP 方案中各個 Azure 供應項目之間的差異
 
@@ -26,8 +26,11 @@ ms.locfileid: "84908736"
 - 技術服務代理人
 - 銷售代理人
 
-下表概述可透過雲端解決方案提供者 (CSP) 計畫 (屬於新的 Microsoft 商務體驗) 所提供供應項目之間的主要差異。
+本文說明雲端解決方案提供者 (CSP) 計畫中，Azure 供應項目之間的主要差異。
 
+## <a name="overview-of-key-differences-between-azure-offers"></a>Azure 供應項目之間的主要差異概觀
+
+下表概述了 CSP 計畫所提供供應項目 (屬於新的 Microsoft 商務體驗) 之間的主要差異。
 
 |**供應項目**| **Azure 方案**|**第三方市集供應項目**|**Azure Reservations**|**透過雲端解決方案提供者銷售的伺服器訂閱**|**基座型供應項目**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
@@ -44,11 +47,10 @@ ms.locfileid: "84908736"
 
 *Microsoft 會在 Q4 提供價目表 API，以程式設計方式在 Azure 計量價格上進行即時存取。
 
-**詳細資訊**
+## <a name="next-steps"></a>接下來的步驟
 
 - [移至 Azure 方案 - 開始使用](azure-plan-get-started.md)
 
 - [購買 Azure 方案](purchase-azure-plan.md)
 
 - [管理 Azure 方案下的訂用帳戶和資源](azure-plan-manage.md)
-

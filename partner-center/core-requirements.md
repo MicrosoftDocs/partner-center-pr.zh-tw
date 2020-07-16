@@ -1,22 +1,23 @@
 ---
-title: 獎勵合作宣告核心要求 | 合作夥伴中心
+title: 獎勵合作宣告的核心要求
 ms.topic: article
-ms.date: 11/25/2019
+ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 了解在合作夥伴中心對獎勵合作計畫內的特定活動類型提出獎勵宣告時有什麼需求。
+description: 了解如何在獎勵計畫中產生需求、了解市場開發，以及讓合作夥伴為活動做好充分的準備。
 author: kim-davis
 ms.author: kimnich
 keywords: 獎勵宣告, 合作宣告, 合作基金, 核心要求
 ms.localizationpriority: high
-ms.openlocfilehash: ec231bf62c302f48cbdb66994433277c96e3f862
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.custom: SEOJULY.20
+ms.openlocfilehash: 9ba2ea7a19309443f847322e847666e78ecf058b
+ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947863"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "86377612"
 ---
-# <a name="core-requirements-for-incentives-co-op-claims"></a>獎勵合作宣告的核心要求
+# <a name="incentives-co-op-claims-core-requirements"></a>獎勵合作宣告需求
 
 **適用於**
 
