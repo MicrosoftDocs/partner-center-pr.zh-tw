@@ -7,19 +7,19 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
-keywords: 預繳稅金、稅務點數、德文稅點數表、稅務憑證
+keywords: 預繳稅金、稅務點數、德文稅點數表、稅務憑證、信用額度
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b232526a213a06e2c11001131241dd5be554770
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3992254595024635ab4200456537366d5c5cc52d
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949576"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405519"
 ---
 # <a name="make-sure-you-are-credited-for-withholding-tax-if-you-pay-a-local-tax-authority-instead-of-microsoft"></a>如果您支付當地稅務機關（而非 Microsoft），請確定您已為預繳稅金貸記
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 
@@ -40,7 +40,7 @@ ms.locfileid: "85949576"
 
 2. 在左側功能表中，選擇 [**計費**]，然後移至 [**帳單記錄**]。
 
-3. 按一下 [**提交新**的]，將會帶您前往 [**新的稅金要求**] 頁面。
+3. 按一下 [**提交新**的]，將會帶您前往 [**新的稅務預繳要求**] 頁面。
 
    :::image type="content" source="images/wht1.png" alt-text="提交發票的新預繳稅":::
 

@@ -1,25 +1,24 @@
 ---
 title: 管理未付款、詐騙或濫用
+description: 請務必瞭解線上交易牽涉到的各種風險，以及管理和緩和這些風險的最佳作法。
 ms.topic: article
-ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 請務必瞭解線上交易牽涉到的各種風險，以及管理和緩和這些風險的最佳作法。
-keywords: 詐騙, 濫用, 可接受的使用, 可接受的使用原則, 不付款, 客戶不支付帳單, 線上風險, 竊取服務, 濫用服務, 暫停訂閱,
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b08fc6a94f91be978802a6bf850b46189ea740f
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.date: 07/14/2020
+ms.openlocfilehash: ad0ef9c7aa242645ed0ffef0d5bbb07521edbc72
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377802"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405559"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>在合作夥伴中心內管理未付款、詐騙或誤用
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
@@ -87,7 +86,7 @@ ms.locfileid: "86377802"
 在購買後管理客戶帳戶的建議事項包括：
 
 - 執行程式來快速接收、審查、處理和回應 Microsoft 通知。
-- 在設定適當的監視閾值時，與客戶合作以瞭解其雲端使用量的商務需求。 （例如，您可以在合作夥伴中心[設定每月的 Azure 支出預算](set-an-azure-spending-budget-for-your-customers.md)。 這可讓您在該月內監視客戶的使用量，並在客戶接近其預算時收到通知）。
+- 在設定適當的監視閾值時，與客戶合作以瞭解其雲端使用量的商務需求。 （例如，您可以在合作夥伴中心[設定每月的 Azure 支出預算](set-an-azure-spending-budget-for-your-customers.md)。 這種瞭解可讓您監視客戶在該月的使用量，並在客戶接近其預算時收到通知）。
 - 定期監視[客戶活動記錄](activity-logs.md)，以協助及早偵測到詐騙。
 - 在偵測到可疑的活動時採取快速動作。
 - 避免為客戶提供訂用帳戶的完整系統管理存取權，而不需先執行風險降低控制。
@@ -100,4 +99,4 @@ ms.locfileid: "86377802"
 - 不接受高風險的付款條件（例如預付式卡片或儲存值卡）。
 - 監視客戶付款和過時帳戶的應收帳款。 積極地強制執行標準的欠款流程，以進行逾期付款或非付款。
 
-如需降低線上風險的詳細策略，請參閱[線上交易風險管理指南。](https://assets.windowsphone.com/7d885238-e13b-4f10-a682-3d5adacd2859/CSP-PartnerRiskGuide-APSFinal_InvariantCulture_Default.zip)
+如需降低線上風險的詳細策略，請參閱[線上交易風險管理指南。](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)
