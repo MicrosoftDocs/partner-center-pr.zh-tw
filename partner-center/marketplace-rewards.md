@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 將供應專案發佈到商業 marketplace 的合作夥伴，有資格享有提供行銷支援的權益。
 author: laurabrenner
 ms.author: labrenne
-Keywords: marketplace 供應專案、行銷支援、獎勵、發行者權益
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9df2d287899da4c92ac55a5ac160f0e36b09c520
-ms.sourcegitcommit: 1796d3d0ec2e06a3792852377ff81127b4d22fe0
+ms.openlocfilehash: 2b811ab94a3774c41955b2d152bba5b143d711fa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "84909006"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436837"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>在合作夥伴中心管理 Marketplace 報酬 & 啟用行銷、銷售和技術優勢
 

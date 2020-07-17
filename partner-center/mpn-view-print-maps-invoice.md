@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: 瞭解如何查看或下載您的 MPN 會員資格發票、如何提出免稅的檔案，以及如何將您的加值稅識別碼傳送給 Microsoft。
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN，發票，地圖，免稅，加值稅，加值稅 ID
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b022216a30d87205744c44ca340825396fa61bd
-ms.sourcegitcommit: 8833bc54f64f2b7f1b3985bf5bcd5fc736eb228f
+ms.openlocfilehash: d4e0665a86a47790fea7c829505475e54e4b3d38
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84633808"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436757"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作夥伴網路中的發票和稅金
 
@@ -39,7 +38,7 @@ ms.locfileid: "84633808"
 
 1.  使用您的工作帳戶登入[合作夥伴中心](https://partner.microsoft.com/dashboard/home)，然後選取左側功能表上的 [ **MPN** ]。
 
-4.  在下拉式清單中，選取 [**成員資格**供應專案] 以查看可供購買的供應專案，以及適用于目前註冊年份的發票。 若要查看過去幾年的發票，請選取 [過期]  。
+4.  在下拉式清單中，選取 [**成員資格**供應專案] 以查看可供購買的供應專案，以及適用于目前註冊年份的發票。 若要查看過去幾年的發票，請選取 [過期]。
 
 6.  選取您想要的發票，然後選取 [**下載發票**]。 
 
