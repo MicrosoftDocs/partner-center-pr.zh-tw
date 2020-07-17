@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 根據您公司的位置，查看您可以銷售 CSP 供應專案的國家、地區和貨幣。
 author: LauraBrenner
 ms.author: labrenne
-keywords: CSP 市場，區域，我可以透過 CSP、CSP 供應專案、區域、銷售雲端解決方案、全域 CSP 銷售
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a4d70252d1baebd1bade6182218d4b3198825f3
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991820"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434167"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>雲端解決方案提供者方案地區市場和貨幣，您可以在其中銷售 CSP 優惠
 
@@ -80,7 +79,7 @@ ms.locfileid: "84991820"
 | 奈及利亞                  |   美元    |
 | 留尼旺                  |   美元    |
 | 盧安達                   |   美元    |
-| 聖多美和普林西比    |   美元    |
+| 聖多美普林西比    |   美元    |
 | 塞內加爾                  |          |
 | 塞席爾               |   美元    |
 | 獅子山             |   美元    |
@@ -125,14 +124,14 @@ ms.locfileid: "84991820"
 
 |  國家/地區        | 貨幣 |
 |  --------------        |:--------:|
-|  澳大利亞             |   澳幣    |
+|  澳洲             |   澳幣    |
 |  聖誕島      |   澳幣    |
 |  科克斯 (基靈) 群島|   澳幣   |
 |  庫克群島          |   澳幣    |
 |  斐濟                  |   澳幣    |
 |  法屬南部屬地| 澳幣 |
 |  關島                  |  澳幣     |
-|  赫德島及麥唐納群島| 澳幣 |
+|  赫德島及麥當勞群島| 澳幣 |
 |  吉里巴斯              |   澳幣    |
 |  馬紹爾群島      |   澳幣    |
 |  密克羅尼西亞            |   澳幣    |
@@ -147,7 +146,7 @@ ms.locfileid: "84991820"
 |  托克勞群島               |   澳幣    |
 |  東加                 |   澳幣    |
 |  吐瓦魯                |   澳幣    |
-|  瓦利斯及福杜納群島     |   澳幣    |
+|  瓦利斯及福杜納     |   澳幣    |
 |
 
 ## <a name="brazil-region-and-market"></a>巴西地區和市場
@@ -165,7 +164,7 @@ ms.locfileid: "84991820"
 
 |  國家/地區 | 貨幣 |
 |  -------------- |:--------:|
-|  Canada         |   加拿大幣    |
+|  加拿大         |   加拿大幣    |
 |  聖匹島|  加拿大幣   |
 |
 
@@ -271,7 +270,7 @@ ms.locfileid: "84991820"
 |  智利          |   美元    |
 |  哥倫比亞       |   美元    |
 |  哥斯大黎加     |   美元    |
-|  古拉果        |   美元    |
+|  庫拉索        |   美元    |
 |  多米尼克       |  美元     |
 |  多明尼加共和國| 美元   |
 |  厄瓜多        |   美元    |
@@ -279,7 +278,7 @@ ms.locfileid: "84991820"
 |  福克蘭群島|  美元    |
 |  法屬圭亞那  |   美元    |
 |  格瑞那達        |   美元    |
-|  哥德洛普     |          |
+|  瓜地洛普     |          |
 |  瓜地馬拉      |   美元    |
 |  蓋亞那         |   美元    |
 |  海地          |   美元    |

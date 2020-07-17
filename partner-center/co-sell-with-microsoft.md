@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 身為合格的 Microsoft 合作夥伴，您可以與 Microsoft 共同銷售。 瞭解如何定義參與、邀請 Microsoft 共同作業，或觀看已傳送的合作。
 author: sroy
 ms.author: sroy
-keywords: 推薦, RFI, 尋找合作夥伴
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: 6297fc3f43fbb19d4d1501e812d8b8350031ddef
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 7e996b260b9cb23f36eeb1a344c66545b17c57a3
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390555"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435467"
 ---
 # <a name="co-sell-with-microsoft"></a>與 Microsoft 共同銷售
 

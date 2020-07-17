@@ -6,16 +6,15 @@ description: 針對 Azure、雲端、Visual Studio 和技術和支援權益的�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: LauraBrenner
-keywords: 權益，到期日，到期日，續約，訂用帳戶，授權，延伸
 ms.author: labrenne
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 6050dc81a192d924ce9d1203ed435f8983bb1b26
-ms.sourcegitcommit: b81cde2d62e096e58ac3ce12fc9c35a97d10d51f
+ms.openlocfilehash: 9449778c184ab9e64abfd908fd5f8708f752f44a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "85072791"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435627"
 ---
 # <a name="benefits-faq"></a>權益常見問題集
 

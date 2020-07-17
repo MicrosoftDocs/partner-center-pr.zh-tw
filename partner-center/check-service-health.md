@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解當客戶遇到服務問題時，如何使用合作夥伴中心來檢查其服務健康狀態。
 author: brentserbus
 ms.author: brserbus
-Keywords: 健全狀況，服務健全狀況，服務問題
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 110e47e18620230c8f152864d8e61b5847bb8c51
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 11ec4cfcfc9326c1e9d6598dce528410c0e02542
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219536"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435477"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>針對回報潛在服務問題或中斷的客戶檢查服務健全狀況
 

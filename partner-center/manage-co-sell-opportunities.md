@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 身為合格的 Microsoft 合作夥伴，您可以與 Microsoft 共同銷售。 瞭解如何定義交易、邀請 Microsoft 共同作業，或觀看已傳送的交易。
 author: sroy
 ms.author: sroy
-keywords: 參考，共同銷售，交易
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cee3c8a54aafb8fd8b984f3ece1647597afbe2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1eea363576f40604465cef55e49be9be92a117d4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949456"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434357"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center-to-define-deals-and-better-meet-customer-needs"></a>管理合作夥伴中心的共同銷售機會，以定義交易並更符合客戶的需求
 
@@ -56,7 +55,7 @@ ms.locfileid: "85949456"
 ## <a name="creating-a-co-sell-opportunity"></a>建立共同銷售商機 
 
 > [!IMPORTANT]
-> 若要與 Microsoft 共同銷售，合作夥伴需要具備商業功能的解決方案、參與的銷售團隊，以及強大的進入市場策略。 它們也必須符合特定的其他準則。 如需詳細資訊，請參閱[成為共同銷售就緒](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)。
+> 若要與 Microsoft 共同銷售，合作夥伴需要具備商業解決方案、參與的銷售小組，以及強大的上市策略。 合作夥伴也必須符合其他特定準則。 如需詳細資訊，請參閱[成為共同銷售就緒](https://partner.microsoft.com/reach-customers/selling-with-microsoft#become-ready)。
 
 
 您可以建立兩種類型的共同銷售商機。 
@@ -65,7 +64,7 @@ ms.locfileid: "85949456"
 
 選取此特定交易的客戶。 輸入其位置，然後開始鍵入名稱。 自動建議會開始顯示以搜尋準則為基礎的建議。 因為許多公司在相同的位置有一個以上的商業實體，所以您可能會看到多個結果。 如果您不確定要選擇哪一種，您可以確認哪些 D-U-N-S 號碼屬於您的客戶。 請務必為您正在使用的客戶選取完全相符的。
 
-一旦您按一下 **[選取客戶**]，系統會提示您輸入此交易的主要連絡人之人員的名稱、電話號碼和電子郵件地址。 這些詳細資料是選擇性的，只有在您打算邀請 Microsoft 銷售以協助您參與時才需要。 選取 [下一步] 。
+一旦您按一下 **[選取客戶**]，系統會提示您輸入此交易的主要連絡人之人員的名稱、電話號碼和電子郵件地址。 這些詳細資料是選擇性的，只有在您打算邀請 Microsoft 銷售以協助您參與時才需要。 選取 [下一步]。
 
 > [!IMPORTANT]
 > 請確定您已取得客戶同意，將其連絡人資訊提供給 Microsoft 進行交易。 Microsoft 可能會使用此資訊直接與客戶聯繫。

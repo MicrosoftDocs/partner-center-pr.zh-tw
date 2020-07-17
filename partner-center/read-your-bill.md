@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
-keywords: 訂閱計費, 計費, 合作夥伴中心的計費, 合作夥伴中心計費, 閱讀帳單, 發票, 合作夥伴中心發票, CSP 發票, 我的帳單在哪裡？
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40809fbca8ed81882e9b1d315fd5967143faff1e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949318"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436627"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>瞭解您的帳單和對帳檔案-瞭解如何在合作夥伴中心尋找
 
@@ -37,7 +36,7 @@ ms.locfileid: "85949318"
 
 Microsoft 會針對任何以授權為基礎的費用（例如，Office 365）和以使用量為基礎的費用（例如 Azure），或針對一次性費用（例如 Azure RI、Marketplace 或 Azure 方案）發出一份發票。
 
-例如，  
+例如  
 
 **案例 1 [單一貨幣]**：合作夥伴已購買145P 供應專案和 O365 授權，  
 

@@ -7,16 +7,15 @@ ms.subservice: partnercenter-csp
 description: 瞭解當您看到一或多個 Azure 訂用帳戶上可能的加密貨幣挖掘（或加密編譯）的相關通知時，所代表的意義。
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-Keywords: 加密-挖掘，加密貨幣的挖掘，安全性
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5154267299b3ac15c58cb531ef1bd43f54cad187
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947851"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435197"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密貨幣挖掘活動的合作夥伴中心通知
 
@@ -73,6 +72,6 @@ ms.locfileid: "85947851"
 
 6. 在 **\[描述\]** 欄位中，輸入受影響訂閱的名稱以及其他問題或疑慮。
 
-7. 輸入您的連絡人資訊。
+7. 輸入連絡資訊。
 
 8. 選取 [提交]。

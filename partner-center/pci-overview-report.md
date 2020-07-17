@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 請參閱使用授權、訂用帳戶和 Azure 耗用量來進行銷售和部署、客戶成長和收益成長的快照集。
-keywords: PCI，效能，客戶成功，測量，
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72bc94f35cc189e032304c78781adbb10f71327c
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 54315583dcecc745eb5525dc84504ce603b9eb7d
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948825"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436697"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>概述合作夥伴中心深入解析中可用的儀表板報表
  
@@ -28,7 +27,7 @@ ms.locfileid: "85948825"
 - Azure 已耗用的收益成長趨勢 
 - 授權成長趨勢 
 
-**摘要**
+**總結**
 
 - 客戶：所有客戶的目前計數（至少有一個使用中的訂用帳戶），您的公司會透過所有雲端產品的不同屬性類型來建立關聯。 
 - 所選日期範圍內的客戶成長百分比 

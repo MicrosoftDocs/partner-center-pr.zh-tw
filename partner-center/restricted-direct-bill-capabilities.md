@@ -8,14 +8,13 @@ description: 瞭解 CSP 直接帳單合作夥伴需求，以及如何避免受�
 author: LauraBrenner
 ms.author: labrenne
 ms.localizationpriority: medium
-keywords: 直接帳單，限制
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41db00bab2f421ca3ab0a8f828e8a72b26087ebd
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 710c012af7ded851693eacef0e150bef897ef786
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679415"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436587"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>受限制的直接帳單功能和 CSP 直接帳單合作夥伴所需的需求  
 

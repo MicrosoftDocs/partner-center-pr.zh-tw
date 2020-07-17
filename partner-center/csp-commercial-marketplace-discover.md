@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解 CSP 合作夥伴如何使用合作夥伴中心，從獨立軟體廠商（Isv）查看或搜尋 marketplace 提供的 SaaS 供應專案或定價。
 author: rbars
 ms.author: rbars
-keywords: 訂用帳戶，marketplace，商業 marketplace，協力廠商，ISV，SaaS 優惠，雲端解決方案提供者方案，CSP 計畫，CSP 合作夥伴
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a4576faeeeed6bddd86bb3ec8d340af91adf408
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2d1185fec49c594996094d62b4de628175d931a5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947769"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435117"
 ---
 # <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>在合作夥伴中心的商業 marketplace 中探索優惠和定價
 

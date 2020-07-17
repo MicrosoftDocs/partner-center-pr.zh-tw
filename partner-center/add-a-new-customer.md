@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心新增新的客戶記錄。 然後，您可以銷售客戶訂用帳戶、管理帳單，或提供客戶支援。
 author: parthp
 ms.author: parthp
-keywords: 客戶, 新增客戶, 客戶帳戶, 合作夥伴中心的客戶帳戶, 客戶, 新增客戶, 建立客戶帳戶
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b61fe6df289d0ca95d170439573bf7887cd2a9bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c4486153c5b9a03b90102dd42460e61ad43ecbf8
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947443"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436377"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>如何在合作夥伴中心新增客戶記錄
 

@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解 CSP 方案中的合作夥伴如何代表合作夥伴中心的客戶購買、管理、銷售和取消內部部署軟體訂閱。
 author: BillLinzbach
 ms.author: BillLi
-keywords: Cloud Solution Provider, CSP, Cloud-based services, Azure, Office 365, Dynamics, CSP partner, sell in CSP, direct partner, direct CSP partner, indirect CSP reseller, direct CSP, indirect CSP, direct model, indirect model, indirect reseller, indirect provider, provider, distributor, cloud solution provider program, 雲端解決方案提供者, 雲端式服務, 雲端解決方案提供者合作夥伴, 過雲端解決方案提供者銷售, 直接合作夥伴, 間接雲端解決方案提供者合作夥伴, 間接雲端解決方案提供者經銷商, 直接雲端解決方案提供者, 間接雲端解決方案提供者, 直接模型, 間接模型, 間接經銷商, 間接提供者, 提供者, 散發者, 雲端解決方案提供者計畫
-robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecea7dcaa30f95a0156681e6d74b80382cfd66fe
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 79448a366665a5ace8ed230aee685c40c0465b85
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377601"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434937"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>透過雲端解決方案提供者（CSP）方案銷售內部部署軟體
 
@@ -55,16 +53,17 @@ ms.locfileid: "86377601"
 
 
 ## <a name="cancel-a-purchase"></a>取消購買
+
 使用下列程序來取消購買。 取消完成之後，將會撤銷軟體金鑰。 
 
 >[!NOTE]
 >您必須是系統管理代理人，才能取消購買。 
 
 1.  開始程序之前，請確定您具備下列各項： 
-    -   客戶租用戶 GUID 或網域名稱
-    -   訂單識別碼或訂閱識別碼
-    -   退款原因
-    -   要求金額
+    - 客戶租用戶 GUID 或網域名稱
+    - 訂單識別碼或訂閱識別碼
+    - 退款原因
+    - 要求金額
 
 2.  在客戶的詳細資料頁面上，選取 [**軟體**]。 您會看到您已購買的所有軟體清單。 
 

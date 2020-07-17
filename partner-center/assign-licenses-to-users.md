@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解如何為客戶建立使用者帳戶、新增或移除使用者授權、重設使用者密碼、刪除使用者帳戶，或將其還原。
 author: BillLinzbach
 ms.author: BillLi
-Keywords: 客戶管理、帳戶、建立帳戶、授權、指派授權、使用者管理、密碼、重設密碼、變更密碼
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57d5a91fda593b47d6e22b3682d0072b256ae655
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 18b1fd689db84d20b62389841c5e5474d97ff1cb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377682"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435957"
 ---
 # <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>合作夥伴中心內客戶帳戶的使用者管理工作
 

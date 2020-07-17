@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 瞭解如何及何時將過期的商務用 Skype Online 方案1訂閱遷移至新的 Office 365 版本。
 author: BrentSerbus
 ms.author: brserbus
-keywords: 商務用 Skype 方案, 淘汰 Skype, Office 365
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4202e146a470e2231ac33df9878be91e19fcddf3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3f65977c5ff8f512c0b95a165cc667bc6bff05c7
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949611"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436557"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>將商務用 Skype Online 方案 1 訂閱移轉至較新的 Office 365 版本
 

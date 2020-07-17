@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解 Microsoft 如何預期在雲端解決方案提供者方案中的客戶與合作夥伴之間進行客戶溝通。
 author: brentserbus
 ms.author: brserbus
-keywords: 通訊, 客戶通訊, 與 Microsoft 對話
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: d0b705f915959c1d6850452828323c2070b335f2
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 9a36cbd8ceefda5e514ddf0e543daf78bc266285
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377462"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434867"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>成功與 Microsoft 進行客戶通訊的指導方針
 

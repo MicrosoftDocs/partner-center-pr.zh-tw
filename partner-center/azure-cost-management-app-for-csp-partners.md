@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心註冊 Cloudyn web 應用程式並使用它的秘密金鑰，讓您可以使用應用程式來追蹤客戶的 Azure 使用量和成本。
 author: aparnagkrishnan
 ms.author: aparnag
-Keywords: Azure 成本管理應用程式，管理成本，web 應用程式
-robots: ''
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 521501f9a979c0993d299ab30443168408656a44
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 4ea156ef0932fe1af20f3e3c4b9be1a5f931cdde
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390445"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435907"
 ---
 # <a name="track-customer-azure-usage-and-costs-with-the-azure-cost-management-app-for-csp-partners"></a>使用適用于 CSP 合作夥伴的 Azure 成本管理應用程式來追蹤客戶的 Azure 使用量和成本  
 

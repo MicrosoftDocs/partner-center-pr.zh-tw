@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解將客戶服務問題呈報給 Microsoft 的時機，以及如何為其提出支援票證。
 author: BrentSerbus
 ms.author: brserbus
-Keywords: 服務要求, 服務票證, 支援, 支援權利, aobo, Azure aobo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 512b8b51dd036bb6428a3f5f730c36168c5fa455
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 20b1fb378af7f5a9cc565e944e3b255abb946d54
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949279"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434067"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客戶回報服務問題，包括何時和如何執行這項操作
 

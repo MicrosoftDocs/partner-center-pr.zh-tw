@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解如何向 marketplace 中的獨立軟體廠商（Isv）銷售軟體即服務（SaaS）提供的客戶訂用帳戶。
 author: rbars
 ms.author: rbars
-keywords: 訂用帳戶，Marketplace，協力廠商，ISV，SaaS，授權
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96e8001294112bdc5af59512fe04c282a09430bb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947729"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435067"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作夥伴中心的商業市場總覽
 
@@ -56,7 +55,7 @@ ms.locfileid: "85947729"
 
 - [Microsoft Azure 管理入口網站](https://portal.azure.com/)
 
-    或
+    Or
 
 - 協力廠商 ISV 發行者的系統或網站
 
@@ -69,7 +68,7 @@ ms.locfileid: "85947729"
 
 若要瞭解如何完成以授權為基礎或以使用方式為基礎之 ISV 供應專案的特定 marketplace 活動，請參閱下表。
 
-|**Isv 提供的授權型 SaaS 供應專案**  |**用途**  |
+|**Isv 提供的授權型 SaaS 供應專案**  |**使用**  |
 |:------------------------------------|:------------------|
 |探索或搜尋可用的供應專案  | 合作夥伴中心儀表板或合作夥伴中心 Api  |
 |購買供應專案  | 合作夥伴中心儀表板或合作夥伴中心 Api  |
@@ -77,7 +76,7 @@ ms.locfileid: "85947729"
 |取消/更新供應專案訂閱或新增/移除基座 | 合作夥伴中心儀表板或合作夥伴中心 Api  |
 |若要建立使用者或管理許可權  | ISV 發行者的系統或網站  |
 
-|**適用于 Isv 的以使用量為基礎的優惠**  |**用途**  |
+|**適用于 Isv 的以使用量為基礎的優惠**  |**使用**  |
 |:------------------------------------|:------------------|
 |探索或搜尋可用的供應專案  | 合作夥伴中心儀表板、合作夥伴中心 Api 或 Azure 入口網站  |
 |購買供應專案  | Azure 入口網站  |

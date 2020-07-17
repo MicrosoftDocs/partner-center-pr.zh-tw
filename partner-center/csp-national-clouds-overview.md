@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解雲端解決方案提供者方案中的 Microsoft 合作夥伴如何向已在支援的國家雲端中註冊的客戶銷售。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 國內雲, Microsoft Cloud 德國, 美國政府適用的 Microsoft Cloud, 21Vianet, Microsoft Cloud 中國
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5977eb6ac583c9de79de3b1ba1fe7f0f98aa1e4d
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: a8b809d83cf775af84889cbcfddde5dfe0c1cf73
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908066"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434947"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>申請在 Microsoft 國家雲端銷售作為 CSP 計畫的一部分
 

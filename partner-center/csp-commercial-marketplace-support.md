@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解 CSP 計畫的商業市場中，協力廠商 ISV 產品或訂用帳戶的支援。
 author: rbars
 ms.author: rbars
-keywords: 訂用帳戶，產品，Marketplace，協力廠商，ISV，發行者，支援，CSP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c6fccc14cd01d8131933e3e957a7a3f64801866
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 86ae657725717fea06a6fdb18cadc069e9140ffa
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947671"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435037"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>支援 CSP 方案中的商業 marketplace 產品
 

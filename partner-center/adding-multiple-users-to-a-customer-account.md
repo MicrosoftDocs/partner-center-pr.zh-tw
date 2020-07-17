@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解如何一次將多個使用者新增至客戶的帳戶。 使用逗號分隔值（.csv）檔案格式，將資料檔案上傳至合作夥伴中心。
 author: parthpandyaMSFT
 ms.author: parthp
-keywords: 大量上傳, 新增多個使用者至客戶的帳戶, 新增客戶使用者, 大量上傳客戶使用者, 客戶帳戶, 客戶使用者, 使用者
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72a1bf634950ac5a445dca894e3925abcae5f645
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: a9a94ac9d9022b33c7f909a258b66daa4312ad13
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377272"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436307"
 ---
 # <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>將多個使用者新增至客戶帳戶-將資料檔案上傳至合作夥伴中心
 

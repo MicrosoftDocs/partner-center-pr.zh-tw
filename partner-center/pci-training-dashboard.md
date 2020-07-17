@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 探索合作夥伴中心訓練儀表板。
 author: sroy
 ms.author: sroy
-Keywords: 合作夥伴中心深入解析，報表，下載報表
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2db166e61ad153c23ffa991d430f711f0f5ddd87
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4ca943d75869e793237989304888c6e6932ed824
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948670"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436647"
 ---
 # <a name="trainings-dashboard"></a>訓練儀表板
 
@@ -33,11 +32,11 @@ ms.locfileid: "85948670"
 >[!NOTE] 
 >此報告可在合作夥伴中心的 Insights 中樞下取得。 若要查看此報表，您應該將報表檢視器或主管報表檢視器的角色指派給您。 只有執行報表檢視器的使用者才看得到此報表的幾個區段。 如需有關深入解析報告之存取控制的詳細資訊，請參閱[PCI 角色](pci-roles.md)。
 
-**摘要**
+**總結**
 
 [摘要] 區段會顯示與訓練相關之各種效能指標的數值快照集視圖。 各種效能指標是經過認證的個人、認證、具有測驗認證的個人、測驗認證、具有評估認證的個人，以及評估認證。 本節中的資料會根據選取的日期範圍進行重新整理，這可能是三個月（3M）、六個月（6M） & 12 個月（1Y）或自訂資料範圍（自訂）。 
 
-:::image type="content" source="images/pci/td-summary.png" alt-text="摘要":::
+:::image type="content" source="images/pci/td-summary.png" alt-text="總結":::
 
 - **具有認證的個人**：代表您公司中具有認證的相異個人數目。
 - **認證計數**：代表貴公司的個人所採用的認證總數。

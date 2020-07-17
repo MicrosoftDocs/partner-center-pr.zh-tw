@@ -9,11 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2dd815862d84509a58726bea804be4fa14f3b729
-ms.sourcegitcommit: 622dab23ac25ebdcc9fcd736c23ce9cc177fe6da
+ms.openlocfilehash: 6163da45280bf0e94fa041470d5ca131341a0516
+ms.sourcegitcommit: 9dcdd1225f62a9d9019e72ed12324cdba962fd1a
+ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "86032482"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "86405549"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -21,6 +22,7 @@ ms.locfileid: "86032482"
 
 | **類別** | **2020 年 7 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[雲端解決方案提供者計畫中的永久軟體](2020-july.md#5)|7 月 15 日|
 | 供應項目/市場 | [適用於 Teams 的全新 Microsoft 365 企業版語音 SKU](2020-july.md#4) | 7 月 3 日 |
 | 供應項目/市場 | [全新和生命週期結束 Microsoft Dynamics 365 和 Power 平台供應項目與產品](2020-july.md#3) | 7 月 1 日 |
 | 供應項目/市場 | [Microsoft 已結束銷售 Microsoft Kaizala 專業版獨立 SKU](2020-july.md#2) | 7 月 1 日 |

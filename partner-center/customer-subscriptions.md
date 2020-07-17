@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解 CSP 方案中的合作夥伴如何銷售客戶的訂用帳戶，並透過合作夥伴中心來管理。
 author: BillLinzbach
 ms.author: BillLi
-Keywords: 訂用帳戶，指派授權，授權，客戶滿意度，Azure 訂用帳戶
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb35353c84e35c3900b76676ed5cf1d908979fb3
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 1521f9b14f6ae01a69d625f308f9eed9d677a45e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377442"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434757"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>CSP 方案合作夥伴可以如何銷售訂用帳戶給客戶
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解如何在 Microsoft 規劃服務參與中註冊並符合資格，讓您可以提供訓練和其他服務給具有軟體保證的客戶。
 author: mowree
 ms.author: mowrim
-Keywords: 預先部署、規劃、軟體保證
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 976c7c7648c13ca1a190b3a1bc901efb53998bac
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390325"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436537"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作夥伴中心的軟體保證規劃服務
 

@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解您的表現如何，以及您對客戶銷售或管理的雲端訂閱有何改進。
-keywords: PCI，效能，度量，客戶成功，雲端訂閱，分析，報告
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc9b306e635a27e1bf19f945341f9d8aab834782
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 0f1f2498f9c91f467b4b2b1980a14995782a5137
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948806"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436667"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>[合作夥伴中心深入解析] 儀表板提供的產品訂閱報表
 
@@ -39,7 +38,7 @@ ms.locfileid: "85948806"
  > [!NOTE]
  > 您可以從 Insights 儀表板取得這份報表。 若要查看這份報告，您必須在合作夥伴中心指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，也只能供具備主管報表檢視器許可權的使用者使用。
 
-**摘要**
+**總結**
 
 [摘要] 區段會顯示與您為客戶銷售或管理之訂用帳戶相關之關鍵效能指標（Kpi）的快照集。  
 

@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解您的表現如何，以及您可以如何改善 Microsoft 專長認證、專長認證等級和優惠，以協助您提供 Microsoft 解決方案。
-keywords: PCI，效能，度量，客戶成功，專長認證，優點，分析，報告
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d95c45793cfbbc46b68794937e4c3771e9b9b01a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3c2194391214bde36f50c4792a0fd53c654197ca
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949351"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436687"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>可從合作夥伴中心深入解析儀表板取得的專長認證報表
 
@@ -49,7 +48,7 @@ ms.locfileid: "85949351"
  > [!NOTE]
  > 您可以從 Insights 儀表板取得這份報表。 若要查看這份報告，您必須在合作夥伴中心指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，也只能供具備主管報表檢視器許可權的使用者使用。
 
-**摘要**
+**總結**
 
 [摘要] 視圖會針對專長認證生命週期的所有階段，顯示其名稱在每個專長認證層級（金/銀）中的能力計數。 專長認證生命週期的階段包括：**已啟動**、**合格** **、作用中且有****風險**。 範例：雲端專長認證需求分為兩類：技能和效能。
 

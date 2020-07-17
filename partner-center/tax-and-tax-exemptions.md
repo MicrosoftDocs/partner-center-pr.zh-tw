@@ -6,20 +6,19 @@ description: 針對 CSP 方案合作夥伴，請瞭解每個區域的稅務責�
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
-keywords: 稅金，免稅，vat，轉銷商，帳單
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c02533f69e6d79da435dfa9ef9e4feffc4085571
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ea6d654f6124c711ae1cc355f71e6ee956c8c65a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377372"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436417"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>依照 CSP 計畫中的合作夥伴區域或國家/地區，閱讀有關稅金和免稅明細的詳細資訊
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
@@ -36,7 +35,7 @@ ms.locfileid: "86377372"
 
 如有其他問題，請[在合作夥伴中心要求支援](#support)。
 
-### <a name="canada"></a>Canada
+### <a name="canada"></a>加拿大
 
 大部分經銷商不能於 GST/HST/QST 免稅。 請洽詢您的稅務顧問，以判斷您是否符合豁免資格，以及應提供給 Microsoft 的檔。
 

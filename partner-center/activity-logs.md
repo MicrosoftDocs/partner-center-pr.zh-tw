@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解如何查看和匯出活動記錄，以深入瞭解客戶帳戶交易和其他客戶相關的合作夥伴管理活動。
 author: dineshvu
 ms.author: dineshvu
-Keywords: activity logs,subscription, subscriptions, payments, billing, transactions, 活動記錄, 訂用帳戶, 付款, 帳單, 交易
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eda13a4a08c30cea5a6e9f20881bcf4a68f0b7b6
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 06cc76ee5689bbce5e8017f6bc5a664ff130c1ec
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175995"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436397"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>查看或匯出客戶活動記錄，以深入瞭解客戶交易
 

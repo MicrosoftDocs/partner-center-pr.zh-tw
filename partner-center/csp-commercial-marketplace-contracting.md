@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解商業 marketplace 中 CSP 合作夥伴所購買之協力廠商 ISV 產品的訂閱條款、條件和合約。
 author: rbars
 ms.author: rbars
-keywords: 訂閱，Marketplace，協力廠商，ISV，CSP 合作夥伴計畫，合約，銷售，購買，
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ce5d441c3ac3b2c7cf350ea8647c8e569c66c1
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947781"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435147"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>在商業 marketplace 中進行業務的 CSP 合作夥伴合約
 

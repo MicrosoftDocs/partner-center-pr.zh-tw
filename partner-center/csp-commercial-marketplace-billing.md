@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解在合作夥伴中心內從商業 marketplace 購買客戶的 ISV SaaS 產品或訂用帳戶的計費方式。
 author: rbars
 ms.author: rbars
-keywords: 訂用帳戶，產品，採購，Marketplace，協力廠商，ISV，帳單，發票，調整，偵察檔案
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af02c5e0d9f824bfe2e5d5e67e5582a3c92c74ed
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947816"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435137"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>合作夥伴中心內的商業 marketplace 產品和訂用帳戶計費
 

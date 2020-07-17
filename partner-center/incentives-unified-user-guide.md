@@ -7,15 +7,14 @@ ms.subservice: partnercenter-incentives
 description: 瞭解如何為獨立軟體廠商存取您的 Windows 應用程式和遊戲、MPN 獎勵及商業 Marketplace 費用的支出資訊。
 author: kim-davis
 ms.author: kimnich
-keywords: 獎勵，支出
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b2ccca4afc16716d24074a30859cf7ab910e6391
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: eae2220525e05c2da612896c77014f4225fe319f
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377722"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434547"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>存取 Windows 應用程式和遊戲、MPN 獎勵及商業 Marketplace 費用的支出頁面
 

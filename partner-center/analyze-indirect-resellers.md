@@ -7,15 +7,14 @@ Description: 流量分析來瞭解間接轉銷商的表現，包括成功和可�
 author: amitravat
 ms.author: amrava
 ms.topic: article
-keywords: 業務資料
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 33d435b6497f84d87ce866624deb47e2bd6ebc89
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 07c245cf811768a53da522545bf776caf0b85f75
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175966"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436127"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>流量分析來分析間接轉銷商的效能
 
@@ -40,7 +39,7 @@ ms.locfileid: "86175966"
 
 我們正在追蹤下列計量︰
 
-**摘要**  
+**總結**  
  - **經銷商總數**：在訂閱最後一天的使用中經銷商計數  
  - **新經銷商**：在指定的時段中新的間接經銷商計數  
  - **使用中經銷商**：MPNID 至少有 1 個訂閱，以及訂閱狀態不是取消佈建的間接經銷商計數  

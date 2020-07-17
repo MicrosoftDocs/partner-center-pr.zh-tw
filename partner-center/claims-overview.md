@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解如何藉由組織適當的檔、發票、語句和執行證明，為您的獎勵提交成功的共同作業索賠。
 author: kaushikgMSFT
 ms.author: kaushikg
-keywords: 獎勵宣告, 合作宣告, 合作基金
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 56d22bf704b0ce702b36668f03dfbc766fdf367e
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 487aacc5028b501f4cb8ac673e339a0d766784b5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377632"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435417"
 ---
 # <a name="incentives-co-op-claims-overview"></a>獎勵合作宣告概觀
 

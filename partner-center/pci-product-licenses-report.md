@@ -5,17 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 請查看此產品授權報表，並瞭解如何使用您為客戶銷售或管理的授權（或以基座為基礎）雲端產品來進行改善。
-keywords: PCI，效能，度量，客戶成功，雲端訂閱，分析，報告
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 680c2c92846692843d7d76496a327c0f8eba3cb4
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948793"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436657"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作夥伴中心深入解析儀表板中的產品授權報表
 
@@ -35,7 +34,7 @@ ms.locfileid: "85948793"
  > [!NOTE]
  > 您可以從 Insights 儀表板取得這份報表。 若要查看這份報告，您必須在合作夥伴中心指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，也只能供具備主管報表檢視器許可權的使用者使用。
 
-**摘要**
+**總結**
 
 [摘要] 區段會提供與已銷售、部署和使用之雲端產品授權相關聯之關鍵效能指標（Kpi）的快照集視圖。 這可協助您針對銷售給客戶的授權，追蹤作用中的使用方式。
 

@@ -10,12 +10,12 @@ robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a69a7486ea40f5a52dca8cf0de4109bee3bda5e2
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: dac4c066df7022489cc43694450f5ae4aa7027a4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603877"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436477"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>升級您的 Microsoft 合作夥伴網路成員資格，以及探索新的供應專案、方案和資源
 
@@ -109,7 +109,7 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，其中包�
 
 若要取消您的 Microsoft 行動套件訂閱，您必須連絡合作夥伴中心支援。
 
-1. 移至 [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)。
+1. 前往 [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)。
 
 2. 選取 [回報合作夥伴中心的問題]，然後在下一頁選取 [新增要求]。
 

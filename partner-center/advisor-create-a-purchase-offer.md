@@ -7,14 +7,13 @@ description: 瞭解授權的訂用帳戶顧問如何使用合作夥伴中心來�
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
-keywords: advisor，office 365，購買
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11aa00692ac3686aedaf069e11960919d1c4380
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 80a2f719df77227d19db39dc87e8eb559eeeb827
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947459"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436267"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顧問：建立購買供應專案
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 強化合作夥伴目錄中的商務設定檔。 瞭解如何獲得先進的特製化，以及您的金級/銀級專長認證。
 author: ArpithaKanuganti
 ms.author: v-arkanu
-keywords: 專長認證, 銀會員資格, 金會員資格, mpn, MAPS, 熟練程度, Microsoft 合作夥伴網路, 網路會員資格, 進階專長
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e4d4c8d6a89674153987308f11bd45ee1a5b7ec
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: f4dbfee981023fe567ef345db8b9363cce886adc
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390195"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436347"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>獲得先進的特製化，展現專業知識並向客戶脫穎而出 
 

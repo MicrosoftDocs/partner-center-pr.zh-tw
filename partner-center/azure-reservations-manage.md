@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 瞭解如何管理客戶的 Azure 保留專案，包括如何取消保留、交換保留或要求退款。
 author: amitravat
 ms.author: amrava
-keywords: azure，保留，管理，帳單，購買，取消，exchange，提早終止費用
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ed925dc5a3b59db936f1e65290f58bc7912736c
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175901"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435757"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>為客戶管理、取消、交換或退款 Microsoft Azure 保留
 
@@ -57,12 +56,12 @@ ms.locfileid: "86175901"
 
 ### <a name="how-cancellations-work"></a>取消的運作方式
 
-客戶可以隨時要求取消保留 (每年) 上限為 $50000 的退款金額。 取消保留可讓客戶針對提前終止費用，傳回 Azure 保留的剩餘月份數量。 剩餘的按比例餘額（減去提早終止費用）會退款給您的帳戶，讓您可以退款給客戶的帳戶。 
+客戶可以隨時要求取消保留期（每年上限為 $50000 的退款金額）。 取消保留可讓客戶針對提前終止費用，傳回 Azure 保留的剩餘月份數量。 剩餘的按比例餘額（減去提早終止費用）會退款給您的帳戶，讓您可以退款給客戶的帳戶。 
 
 如需取消的詳細資料和費用，請參閱下文。
 
 
-|**取消日期**<br>  (天)    |**使用量**    |**點數**  |**提早終止**<br> 費用    |**退款上限** | 
+|**取消日期**<br> 之內   |**使用量**    |**點數**  |**提早終止**<br> 費用    |**退款上限** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5或更少                         | 否          | 100%       | 否                              | $50000 美元   |
 |5或更少                         | 是         | 依比例計算  | 否                              | $50000 美元   |

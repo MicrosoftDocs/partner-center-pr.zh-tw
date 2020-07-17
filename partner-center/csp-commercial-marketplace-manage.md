@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 使用合作夥伴中心，瞭解雲端解決方案提供者如何管理購買自商業 marketplace 客戶的協力廠商 ISV 優惠。
 author: rbars
 ms.author: rbars
-keywords: 訂用帳戶，Marketplace，協力廠商，ISV，SaaS 優惠，雲端解決方案提供者方案，管理供應專案，管理訂用帳戶，授權，取消訂用帳戶，基座，關閉自動續訂，間接轉售商 MPN 識別碼
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a2d64a18410ac5a668d7ace8f236716df21eb2bc
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 076cd97dcecc706b9cd47ffc4a4227c93d20d632
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947754"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435087"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>為您的客戶管理商業 marketplace 產品和優惠
 

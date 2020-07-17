@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 如果您無法登入合作夥伴中心，請瞭解該怎麼辦-包含重設工作帳戶密碼或學校帳戶密碼的資訊（如果您忘了）。
 author: parthpandyaMSFT
 ms.author: parthp
-Keywords: 登入問題，忘記密碼，密碼
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 898fa832855744bf0c846b7d64391a92de5e5b4f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265047"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436507"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>如果您無法登入合作夥伴中心，而需要重設密碼
 
@@ -27,7 +26,7 @@ ms.locfileid: "86265047"
 
 ## <a name="see-more"></a>查看更多
 
-- [驗證帳戶資訊](verification-responses.md)
-- [重設密碼](reset-my-pasword.md)
+- [確認您的帳戶資訊](verification-responses.md)
+- [重設我的密碼](reset-my-pasword.md)
 - [重設使用者密碼](reset-a-user-password.md)
 

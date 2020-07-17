@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解公司可能想要提供給企業客戶的每項軟體保證規劃服務參與的資格需求。
 author: ArpithaKanuganti
 ms.author: v-arkanu
-Keywords: 預先部署、規劃、軟體保證、參與、需求、資格、供應專案
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 491f685867a529047405df8941e8abdebf8c91ba
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 1ab8d3fd15fcd0d50e3bf6ff89865c4dd402e679
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390205"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436547"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>查看規劃服務合作的資格需求
 

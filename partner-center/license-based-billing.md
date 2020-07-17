@@ -5,15 +5,14 @@ ms.date: 05/18/2020
 Description: 瞭解授權型計費與合作夥伴中心的使用量型計費有何不同，包括依授權計費的方式（不依授權使用量而定）。
 author: sodeb
 ms.author: sodeb
-keywords: 計費、付款、授權、授權
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3f2e982d82731159b20014dbcc7ee10cf9f73b9
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377702"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434377"
 ---
 # <a name="license-based-billing-in-partner-center"></a>合作夥伴中心以授權為基礎的計費
 

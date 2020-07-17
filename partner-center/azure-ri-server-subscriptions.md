@@ -7,19 +7,18 @@ ms.subservice: partnercenter-csp
 description: 深入瞭解雲端解決方案提供者的機會，以取得、布建及管理客戶的 Azure 保留和伺服器訂閱。
 author: rbars
 ms.author: rbars
-keywords: Azure，訂用帳戶，VM，保留，保留實例
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dacab1c67a12be5143946c7ede33e647e1373cbb
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948265"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435707"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>取得、布建、& 管理適用于客戶的 Azure 保留的 VM 實例（RI） + 伺服器訂閱
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 
@@ -83,7 +82,7 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 
 - 由 CloudSimple 提供的 Azure VMware 解決方案
 
-## <a name="getting-started"></a>開始使用
+## <a name="getting-started"></a>使用者入門
 
 若要瞭解如何將 Azure 保留與您的客戶進行定位，並儘快啟動並執行操作，我們建議您採用下列方法來審查準備就緒資料：
 

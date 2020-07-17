@@ -5,17 +5,16 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 探索改善您業務的方式。 依地理位置、產品和其他屬性，查看您的特定客戶趨勢。
-keywords: PCI，效能，客戶成功，測量，
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0680a1f88517e12fc1625593f9fb34cc7cc66b81
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: f4aca8154965bbce3c4d2c100478756f6e9dd1e4
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949366"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434457"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>合作夥伴中心深入解析的客戶儀表板報表
 

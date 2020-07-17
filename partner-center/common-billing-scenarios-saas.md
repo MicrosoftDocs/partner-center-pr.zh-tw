@@ -5,15 +5,14 @@ ms.date: 05/05/2020
 description: 瞭解以授權為基礎的 SaaS 交易之合作夥伴中心常見的計費案例。
 author: sodeb
 ms.author: sodeb
-Keywords: 帳單，付款，一次性購買，週期性購買，訂用帳戶，基座
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d19ab812d09ff797de70eb27430e26f7a0966980
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eb98a45a1ddbf150c64bb7021a2d18a0abd957fd
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947947"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435347"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>合作夥伴中心以授權為基礎的 SaaS 交易常見計費案例
 

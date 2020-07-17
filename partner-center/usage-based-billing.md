@@ -5,15 +5,14 @@ ms.date: 06/05/2020
 Description: 在合作夥伴中心深入瞭解以使用量為基礎的計費，其中會以每月使用量費率向您收費。
 author: sodeb
 ms.author: sodeb
-keywords: 計費，使用量為基礎，使用量
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e75e915d4728d021856b099b7c62434f6481254
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 4b3c3626bea685a8751ffcc5aa877fd95824e693
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949089"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436457"
 ---
 # <a name="understand-usage-based-billing-for-monthly-pay-as-you-go-consumption-of-services"></a>瞭解每月隨用隨付的服務使用量計費
 

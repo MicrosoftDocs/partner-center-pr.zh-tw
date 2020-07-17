@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 探索合作夥伴中心整合報表儀表板。
 author: shthota77
 ms.author: shthota
-Keywords: 合作夥伴中心深入解析，報表，下載報表
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42be29d69d5d4937d984047f4c75e357aa4d436d
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 311cff645487d613ed23d2109ed195822f8e021a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948861"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436677"
 ---
 # <a name="download-reports"></a>下載報表
 
@@ -29,11 +28,11 @@ ms.locfileid: "85948861"
 
 產生之後，報表就會出現在 [**產生的報告**] 區段中，供您下載和分析使用如 Microsoft Excel 的工具。
 
-**建立新報告**
+**建立新報表**
 
 若要產生報表，請先從 [**選取報表**] 下拉式選單選取報表。 然後，從 [**選取日期範圍**] 下拉式清單中選取日期範圍。 選取 [產生]。 系統會以定位字元分隔值（TSV）格式產生報告，並可在幾分鐘內于 [**產生的報告**] 區段中下載。 在過去14天內產生的報表將可供下載。
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="建立新報告":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="建立新報表":::
 
 :::image type="content" source="images/pci/generated-reports.png" alt-text="產生的報表":::
 

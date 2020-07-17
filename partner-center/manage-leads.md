@@ -7,17 +7,16 @@ ms.subservice: partnercenter-csp
 description: 使用合作夥伴中心來回應參考，並管理新的、現有和封存的潛在客戶和參考。 瞭解未來如何取得更多的參考。
 author: sroy
 ms.author: sroy
-keywords: 參考，共同銷售，交易
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9e086ae93493c26880b912130752e69adcbef58a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949437"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434367"
 ---
-# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潛在客戶，例如客戶查詢、行銷合格的潛在客戶，以及銷售合格的潛在客戶
+# <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潛在客戶，例如客戶查詢、適合行銷的潛在客戶，以及適合銷售的潛在客戶
 
 **適用於**
 

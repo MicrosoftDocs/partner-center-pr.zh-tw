@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 瞭解當您在合作夥伴中心的 [帳單] 頁面上看到哪些未配置的付款時。 深入瞭解如何將它們套用到您的發票。
 author: sodeb
 ms.author: sodeb
-keywords: 帳單、付款、付款、未配置的付款
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ddd82643b43be7ab19e4bcf6d25f67d031ed87af
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8724cf6bb487d42742c83d80340acbbcc01d0b6e
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949583"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436497"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>在您的合作夥伴中心計費頁面上管理未配置的付款
 

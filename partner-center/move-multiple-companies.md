@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 當您從合作夥伴成員中心（PMC）將多家公司遷移至合作夥伴中心，並將其合併到合作夥伴的通用帳戶時，要知道的事項。
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d021946fa09a046cdff10bcf1ca8dc25558063c8
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603777"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434407"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>從合作夥伴成員中心將多家公司移至合作夥伴中心（PMC）
 
@@ -52,7 +51,7 @@ ms.locfileid: "84603777"
 
 此畫面會顯示已在合作夥伴中心建立的現有帳戶詳細資料 (名稱和地址)，以及主要連絡人的詳細資料。
 
-選取 [繼續]。
+選取 \[繼續\]。
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>帳戶彙總期間會發生什麼事
 

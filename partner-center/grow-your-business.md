@@ -5,17 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解成長您的 Microsoft 合作夥伴業務的資源。 這包括如何取得 Microsoft 的銷售潛在客戶（參考）。
-keywords: 推薦, 回應推薦, 潛在客戶, 業務潛在客戶, 行銷設定檔, 商務設定檔, 拓展您的業務, 業務機會, 專長認證, 銀級成員, 金級成員, 試用供應項目, 市場擴張, 國内雲
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e783c9881ad314618b7851bd9f877b52727e286
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: c244b5d8a1498ed0107925ed0a6ef0e9d584cf83
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390505"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434587"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>拓展您的 Microsoft 合作夥伴業務-瞭解如何取得潛在客戶 & 將您的公司分開
 
