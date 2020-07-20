@@ -42,6 +42,7 @@
 ## [受限制的直接計費功能](restricted-direct-bill-capabilities.md)
 ## [從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商](transition-direct-to-indirect.md)
 ## [雲端解決方案提供者合約、價目表和優惠](csp-documents-and-learning-resources.md)
+## [Cloudyn 提供適用於 CSP 的 Azure 成本管理](azure-cost-management-app-for-csp-partners.md)
 ## [CSP 地區市場及貨幣](regional-authorization-overview.md)
 ## [雲端解決方案提供者地區授權租用戶彙總簡介](csp-regional-authorization-tenant-consolidation.md)
 ## [概觀 - 確認客戶接受 Microsoft 客戶合約的新方法](confirm-consent.md)
@@ -121,6 +122,7 @@
 ## [合作夥伴中心的帳單類型](billing-different-types.md)
 ## [了解您的帳單](read-your-bill.md)
 ## [使用對帳檔案](use-the-reconciliation-files.md)
+## [對帳檔案費用類型](recon-file-charge-types.md)
 ## [合作夥伴中心的每日分級使用量對帳檔案](daily-rated-usage-recon-files.md)
 ## [授權型對帳檔案](license-based-recon-files.md)
 ## [常見帳單案例](common-billing-scenarios.md)
@@ -203,7 +205,10 @@
 ### [將商務用 Skype Online 方案 1 遷移至較新的 Office 365 版本](skype-retiring.md)
 ### [轉移 Azure 訂閱](switch-azure-subscriptions-to-a-different-partner.md)
 ### [將 Kaizala 專業版訂用帳戶遷移至 Microsoft 365](migrate-kaizala-pro-partner.md)
-
+## Office 365 銷售顧問
+### [建立 Office 365 試用邀請](advisors-create-a-trial-invitation.md)
+### [新增具有 Office 365 試用版供應項目的用戶端](advisors-build-your-business.md)
+### [建立 Office 365 購買供應項目](advisor-create-a-purchase-offer.md)
 # 合作夥伴中心資料和分析
 ## [存取使用者資料和分析](data-analysis-lp.md)
 ## [使用適用於 Microsoft Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners.md)
