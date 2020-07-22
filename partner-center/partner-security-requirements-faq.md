@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 關於合作夥伴安全性需求的常見問題 - 是什麼、合作夥伴應如何實行這些問題，以及如何知道您是否符合這些需求。
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e58b17ccbde0cea2f6dfbf586b1e49c85da35a22
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265177"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434117"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
 

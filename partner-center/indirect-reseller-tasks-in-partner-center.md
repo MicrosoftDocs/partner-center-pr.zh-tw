@@ -8,15 +8,14 @@ description: 了解間接轉銷商如何與 Microsoft 間接提供者 (或代理
 ms.prod: ''
 author: BillLinzbach
 ms.author: BillLi
-keywords: 間接經銷商, 經銷商, 間接提供者, 提供者, 合作關係, VAR, tier2, 第 2 層
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 79eda54e958acd2c83074c6b84bba85c87096a33
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 3ffc69804c90707f9e8691e56c64bc23e8c0daf5
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377712"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434537"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在雲端解決方案提供者計畫中與間接提供者成為合作夥伴
 
@@ -64,7 +63,7 @@ ms.locfileid: "86377712"
 
    我們可能需要數天來審查並確認您所提供的資訊。 複查完成後，我們會傳送電子郵件通知您的主要連絡人。
 
-### <a name="get-started"></a>立即開始
+### <a name="get-started"></a>開始使用
 
 1. 若要開始進行此程序，請移至 [**歡迎頁面**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)進行註冊。
 
@@ -96,7 +95,7 @@ ms.locfileid: "86377712"
 
 9. 您的合作夥伴中心帳戶準備好可以使用時，請確認您已新增至系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
 
-   1. 在您的**合作夥伴中心**中，選取 [設定] 圖示，然後選取 [使用者管理]。
+   1. 在您的**合作夥伴中心**中，選取 [設定]  圖示，然後選取 [使用者管理]  。
 
    2. 從使用者清單中選取您的名稱。 然後選取 [系統管理代理人] (如果尚未選取的話)。 選取 [更新]。
 

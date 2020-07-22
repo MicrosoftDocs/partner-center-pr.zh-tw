@@ -6,16 +6,15 @@ ms.subservice: partnercenter-csp
 description: 深入了解在雲端解決方案提供者計畫中，針對顧問、控制台廠商和合作夥伴增加安全性的新強制需求。
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bfafbf24910a6d194846af5a15f14050af33be7f
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 14f5a8e4f3ed25162ffc3c9f3dfa7ef0171f690b
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265162"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436727"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>合作夥伴安全性需求狀態 - 取得解答並查看目前狀態的報告
 

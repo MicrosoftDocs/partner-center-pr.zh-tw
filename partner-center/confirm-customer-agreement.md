@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 了解如何確認客戶接受 Microsoft 客戶合約。 雲端解決方案提供者需要此合約來為客戶訂購 Microsoft 產品和服務。
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-keywords: 客戶, 客戶, 同意, MCA, Microsoft Cloud 合約, Microsoft 客戶合約, 客戶合約範本
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc809c693b74f2a7fc6a906c625efebb6678784e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9df7dadbf9d2e6d1cc685b888ea2ae18436c8abf
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947955"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435427"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>確認客戶接受 CSP 合作夥伴方案中的 Microsoft 客戶合約
 

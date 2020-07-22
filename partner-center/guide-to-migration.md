@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何將您的公司從 Partner Membership Center (PMC) 遷移至合作夥伴中心。
 author: LauraBrenner
 ms.author: labrenne
-keywords: PMC, 移轉, 移至合作夥伴中心
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 773466a1c7bfb8a091be11f8e825dae6cc90b765
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 38985138984335f72e822cf6c77411cf2432dde9
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679085"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434657"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>從 PMC 移轉至合作夥伴中心的指南
 

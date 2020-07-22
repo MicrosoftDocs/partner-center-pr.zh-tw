@@ -7,15 +7,14 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
-keywords: 帳單, 付款,訂單,取消, 訂單管理, 不付款, 詐騙, 濫用, 稅金, 免稅, 對帳檔案, 對帳檔案
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91b3aaf27e049c4aab5c2c1c5c44d0fb2976a25f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ba6ea547ed63bc4369b06cb86df8aad24870d2ab
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948213"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435607"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>在合作夥伴中心運作的 CSP 方案合作夥伴計費概觀 
 
