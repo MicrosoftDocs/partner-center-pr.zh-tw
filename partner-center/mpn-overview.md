@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: 了解與 Microsoft 合作的權益，包括 Microsoft 行動套件、專長認證和計畫選項，可讓您的產品上市並銷售您的解決方案。
 author: LauraBrenner
 ms.author: labrenne
-keywords: 合作夥伴, 合作關係, MPN, Microsoft 合作夥伴網路, 行動寶盒, MAPS, 行動寶盒訂閱, 權益, MPN 權益, 會員資格, 銀級, 金級, 專長認證
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d71f5b315d8c7497febfae662ac8050280a10ea6
-ms.sourcegitcommit: 595b7de03963a4a78cad8344bd4b5d4f5cff9802
+ms.openlocfilehash: f8589776eb291da1931e727d170704ccd205ef69
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "85198606"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436777"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>與 Microsoft 合作 - 探索權益、如何協助客戶，以及如何推動業務成長
 

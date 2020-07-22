@@ -7,16 +7,14 @@ ms.subservice: partnercenter-csp
 description: 了解如何將服務主體新增至您的 Azure AD 租用戶。 這樣做就等於在合作夥伴中心新增 Azure AD 應用程式 (服務主體)。
 author: dhirajgandhi
 ms.author: dhgandhi
-Keywords: Azure、Azure 方案、服務主體、Azure AD 應用程式
-robots: ''
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd2880f57d1ccb3c3675fef4fae7499f7ac02f4b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 9d0507b684b213e6da5f48a250e6e61f395fd52a
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949629"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436427"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>在合作夥伴中心新增 Azure AD 應用程式 (服務主體)
 

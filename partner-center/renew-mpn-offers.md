@@ -7,15 +7,14 @@ ms.subservice: partnercenter-mpn
 description: 續訂 Microsoft 合作夥伴網路 (MPN) 供應項目，以取得 Microsoft 行動套件與專長認證。續訂時間開始於購買日期的週年日加一天。
 author: LauraBrenner
 ms.author: labrenne
-keywords: MPN, Microsoft 行動套件, MAPS, 專長認證更新, 續約日期
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c980c7820efcb5eba5de88356587c27719d0ce14
-ms.sourcegitcommit: 7abdd277c0eea51237c97cbb163a4943fd740356
+ms.openlocfilehash: ab672c37c5bc707742bd7a28a54343b5a1b01aa9
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/06/2020
-ms.locfileid: "84467398"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434207"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>在續訂時間範圍內續訂 MPN 供應項目以取得 Microsoft 行動套件與專長認證
 

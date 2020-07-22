@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 在合作夥伴中心定期檢閱您的推薦見解資料，了解要因應的趨勢或要改進的範圍，以助您達成業務目標。
 author: rajap-ms
 ms.author: rajap
-keywords: 推薦, 分析, 分析, 計量, 轉換
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34794d3ef29167b9e6012bfdbedcbfa835028a83
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 24bbca2c973f985e441bd1aebc44d63fdb3e78af
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86302335"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86436617"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>在合作夥伴中心取得推薦見解，並了解您的推薦情況
 

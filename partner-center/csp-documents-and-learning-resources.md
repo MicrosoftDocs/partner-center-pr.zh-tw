@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 尋找雲端解決方案提供者計畫指南、合作夥伴合約、客戶合約、價目表與供應項目的連結。
 author: LauraBrenner
 ms.author: labrenne
-keywords: csp program guides, program guide, partner agreements, customer agreement, price lists, offers, 雲端解決方案提供者計畫指南, 計畫指南, 合作夥伴合約, 客戶合約, 價目表, 供應項目
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db194fb2566c5a474c6743e37deea6ee63ad247
-ms.sourcegitcommit: e0a1b4506840486f4bb82620051e0f6a5e81662a
+ms.openlocfilehash: d3bdc0e2eb26f9841c4a40a9f3afb7a8c89e5795
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "84991409"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434957"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、合約、價目表和優惠
 

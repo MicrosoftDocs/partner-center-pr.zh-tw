@@ -8,14 +8,13 @@ description: 若要在合作夥伴中心內工作，您必須先確認網域的�
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-keywords: 網域, 網域驗證, 驗證網域, 全域系統管理員, 使用者角色, 權限
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9081796263e109e65a633b0a492d4bd58c7fa0a
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c448ea1786311c265ffc6defe0ec445fd41bc9a2
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948235"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435637"
 ---
 # <a name="verify-your-domain-ownership"></a>確認網域的擁有權
 
@@ -53,7 +52,7 @@ ms.locfileid: "85948235"
 - 具有能存取所有 Microsoft 帳戶/服務的完整權限 
 - 建立合作夥伴中心的支援票證
 - 檢視合約、價格清單和優惠
-- 帳單
+- 計費
 - 檢視、建立和管理合作夥伴使用者
 - 購買和管理雲端服務
 

@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 description: 介紹啟用多重要素驗證 (MFA) 的合作夥伴需求，並採用安全應用程式模型架構。
 author: isaiahwilliams
 ms.author: iswillia
-keywords: Azure Active Directory, 雲端解決方案提供者, 雲端解決方案提供者計畫, CSP, 控制台廠商, CPV, 多重要素驗證, MFA, 安全應用程式模型, 安全應用程式模型, 安全性
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43febea2a5eb78d983c620bcc6ec155ba49a7c5e
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: 981163a710f3d220ce1031957f9ccdca3e544d60
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265094"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86434007"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>使用合作夥伴中心或合作夥伴中心 API 的合作夥伴的合作夥伴安全性需求
 
