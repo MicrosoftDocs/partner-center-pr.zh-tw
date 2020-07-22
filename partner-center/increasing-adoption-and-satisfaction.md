@@ -1,7 +1,7 @@
 ---
 title: 提高採用率與滿意度
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在合作夥伴中心使用計量。 計量可以顯示您的業務是否成長、客戶使用其授權的方式，以及要將投資放在何處。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fda561933082f829a35e6cd9c9b8b0754225cb4c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377262"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875284"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作夥伴中心的計量來增加採用和滿意度
 
@@ -35,7 +35,7 @@ ms.locfileid: "86377262"
 透過「雲端解決方案提供者」計畫，您可以看到您所有客戶的資料。 某些客戶可能會向其他合作夥伴或直接向 Microsoft 購買授權。 在這些情況下，您會看到所有合作夥伴的總授權數。 若只要看到您自己的授權，請改為移至客戶的訂閱。
 
 > [!NOTE]  
->  目前，我們只會顯示 Office 365 和 Dynamics 365 的資料。 我們未來會啟用其他產品的資料。
+> 目前，我們只會顯示 Office 365 和 Dynamics 365 的資料。 我們未來會啟用其他產品的資料。
 
 ## <a name="find-license-and-user-data"></a>尋找授權和使用者資料
 
@@ -81,23 +81,21 @@ ms.locfileid: "86377262"
 
 ## <a name="next-steps"></a>後續步驟
 
-如果您有許多協助和 How-to 問題，您帳戶上的採用號碼很低，或者您想要尋找向上銷售的機會，您可以考慮提供訓練課程。 藉由教客戶如何更有效地使用所購買的雲端解決方案軟體，您更有可能會發現生產力和滿意度增加，而且支援需求也會降低。
+如果您有許多協助和 How-to 問題，您帳戶上的採用號碼很低，或者您要尋找銷售機會，您可以考慮提供訓練課程。 藉由教客戶如何更有效地使用所購買的雲端解決方案軟體，您更有可能會發現生產力和滿意度增加，而且支援需求也會降低。
 
-<table>
-<colgroup>
-<col width="100%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>問題：</strong>使用者採用率很低，而許多授權並不&#39;使用。</p>
-<p><strong>考量事項：</strong>客戶可能不了解軟體可提供的價值。 他們需要協助構思他們可以將其納入一天的方式，以簡化他們已經在執行的工作，或實現新的產能。</p>
-<p><strong>嘗試事項：</strong>案例研究、與特定案例有關的使用者見證、教學課程的部落格或影片。</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>問題：</strong>有大量支援電話要求取得說明和使用方法。</p>
-<p><strong>考慮事項：</strong>客戶可能是軟體、該產品版本或其從事之工作的新手。</p>
-<p><strong>應嘗試的動作：</strong>您可以使用一套雙重策略來訓練（親自或線上）以提高客戶&#39;的整體專長，同時也將一些可供客戶使用的自助選項推廣。</p>
-<p>您可能會想要重新設計您的支援網站，使其中除了包含您的支援連絡資訊外，也包含<a href="customer-self-support.md" data-raw-source="[Customer self-support](customer-self-support.md)">客戶自我支援</a>主題中所述的自助服務選項。</p></td>
-</tr>
-</tbody>
-</table>
+### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>考慮如何改善客戶採用和使用方式-幾個案例
+
+**問題**：使用者採用率很低，而且沒有使用許多授權。
+
+**應考慮**的事項：客戶可能無法瞭解軟體可以提供的價值。 他們需要協助構思他們可以將其納入一天的方式，以簡化他們已經在執行的工作，或實現新的產能。
+
+**嘗試進行**的動作：案例研究、有關特定案例的使用者評價、教學課程 blog 或影片。
+
+**問題**：有大量的支援服務呼叫需要協助和操作說明問題。
+
+**應考慮**的事項：客戶可能不熟悉軟體、產品版本或其工作。
+
+**應嘗試**的專案：您可以使用雙重策略來訓練（親自或線上），以提高客戶的整體專長，同時也將一些可供客戶使用的自助服務選項推廣。
+
+您可能想要重新設計您的支援網站，以同時包含[客戶自我支援](customer-self-support.md)中所述的自助選項，以及您的支援連絡人資訊。
+

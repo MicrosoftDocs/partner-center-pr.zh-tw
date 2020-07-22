@@ -7,15 +7,14 @@ ms.subservice: partnercenter-csp
 Description: 了解代表客戶證明接受 Microsoft 客戶合約的適當時機。
 author: aarzh-AaronZhang
 ms.author: v-aarzh
-keywords: 客戶, 客戶, 同意, MCA, Microsoft Cloud 合約, Microsoft 客戶合約, 客戶合約範本, 證明接受
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: feb5d900e140e4c70b45572b1ea20ed37c4e49e3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: e687df87b933bfad2e1cd3f631c730c54986cd42
+ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85948575"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "86435967"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>代表客戶證明接受 Microsoft 客戶合約
 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: ceffac9a2441895d698b9315f62e71ea9a9220b3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3796a22dc2239394672b7991f78eeafe487da032
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949710"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875234"
 ---
 # <a name="co-op-claims-plans-and-poes"></a>共同作業宣告、方案和 PoEs
 

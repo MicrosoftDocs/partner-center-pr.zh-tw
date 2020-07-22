@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 47291be42523cbcc3aafbb76a6fd9512191ca806
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435247"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875224"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -77,6 +77,26 @@ ms.locfileid: "86435247"
     > 您或您的客戶都不會收到一封電子郵件，說明如何針對此類型的 ISV 訂閱完成帳戶設定/布建。）
 
     - 如果您的訂用帳戶隨附30天免費試用版，將會自動套用免費試用期限。 身為 CSP 計畫的合作夥伴，您無法在購買給客戶的供應專案上放棄免費試用期。 一旦免費試用期結束後，訂用帳戶期限就會開始，且訂用帳戶將會轉換成付費狀態。 然後，訂用帳戶會根據相同的排程進行 autorenew。
+   
+## <a name="update-subscriptions-with-add-ons"></a>使用附加元件更新訂閱 
+
+若要購買附加元件，客戶必須先具備作用中的基本訂用帳戶。  您無法透過類別目錄來購買附加元件。
+
+1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
+
+2. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
+
+3. 選擇您要管理的訂閱。
+
+4. 在 [**狀態**] 區段下方，是訂用帳戶的可用附加元件清單。  
+
+5. 更新每個所需附加元件的授權數量。 然後，**提交**您的變更。
+
+透過合作夥伴中心購買附加元件的功能，僅適用于 CSP 合作夥伴。
+根據基本需求和區域可用性，只會顯示合格的附加元件。 如需定價和優惠的詳細資訊，請參閱雲端轉銷商供應專案對照表。  暫停基底訂用帳戶也會暫止任何相關聯的附加元件。
+
+附加元件的開始日期會與基本訂用帳戶對齊，而費用會從第一張發票中的 rata 費用，計算自開始日期和收費結束日期。 
+
 
 ## <a name="suspend-or-cancel-a-subscription"></a>暫停或取消訂用帳戶
 
@@ -96,7 +116,7 @@ ms.locfileid: "86435247"
 
 5. 所有的資料將被刪除，除非訂用帳戶在 90 日内重新啟用，或 90 天加上開啟帳戶的時間和第一個計費期間之間的天數 (最多 120 天)。
 
-當您在暫停訂用帳戶時，您在 [已暫停]**** 按鈕下方看到的日期會顯示該訂用帳戶何時會自動到期 (如果您沒有重新啟用的話)。 如需詳細資訊，請參閱[關於新帳單功能的常見問題](faq-about-new-billing-features.md)。
+當您在暫停訂用帳戶時，您在 [已暫停]**** 按鈕下方看到的日期會顯示該訂用帳戶何時會自動到期 (如果您沒有重新啟用的話)。 
 
 ### <a name="cancel-a-subscription"></a>取消訂用帳戶
 
