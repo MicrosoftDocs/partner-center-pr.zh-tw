@@ -177,6 +177,7 @@
 ### [將您的客戶轉換為 Azure 方案](azure-plan-transition.md)
 ### [合作夥伴所獲得信用點數 - 概觀](partner-earned-credit.md)
 ### [合作夥伴所獲得信用點數如何計算及付費](partner-earned-credit-explanation.md)
+### [合作夥伴獲得信用點數的角色和許可權](azure-roles-perms-pec.md)
 ### [CSP 中的新商務體驗 - Azure 計費](azure-plan-billing.md) 
 ### [適用於 Azure 的 CSP 中新商務體驗的價目表](azure-plan-price-list.md)
 ### [管理 Azure 方案下的訂用帳戶和資源](azure-plan-manage.md)
