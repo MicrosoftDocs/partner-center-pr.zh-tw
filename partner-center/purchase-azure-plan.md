@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8b701f372292497d227f607fbd56f06f6da90e4
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
+ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377782"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86875254"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>為客戶購買 Azure 方案，並以隨用隨付費率存取最新的 Azure 服務
 
@@ -78,7 +78,7 @@ Azure Reservations 必須關聯至有效的 Azure 方案。 從 [客戶訂用帳
 >如果客戶還沒有作用中的 Azure 方案，請選取 [Azure] 立即新增一個方案。 如需進一步的指示，請參閱[購買 Azure Reservations](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)。
 
 >[!Note] 
->保留的範圍目前只能設定為**共用**。 
+>保留的範圍目前在合作夥伴中心內只能設定為**共用**。 若要選取單一訂用帳戶範圍或從共用範圍更新至單一訂用帳戶範圍，請按照下列指示移至 **Microsoft Azure 管理入口網站**。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共用範圍保留設定":::
 
