@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: bd73a9b8f5dfd1956b2b5dc598194778208aaa7e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2fc6c66de21a32c2b4cfd47ecd0fe97764109b18
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436767"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943695"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>合作夥伴中心深入解析-顯示 Microsoft 商業夥伴如何執行的儀表板
 
@@ -76,7 +76,7 @@ ms.locfileid: "86436767"
 
 ### <a name="filters-definitions"></a>篩選定義：
 
-- 產品：您的組織所銷售/管理的所有 Microsoft Cloud 產品清單，例如 O365、Azure、D365 移轉、EMS、PowerBI 等等。
+- 產品：您的組織所銷售/管理的所有 Microsoft Cloud 產品清單，例如 O365、Azure、D365 移轉、EMS、Power BI 等等。
 - 客戶市場：客戶國家/地區清單
 - 合作夥伴歸屬：您與您的客戶訂用帳戶相關聯的關聯類型，例如，數位合作夥伴記錄（DPOR）、委派的系統管理員許可權（聯盟）、合作夥伴系統管理員連結（PAL）等。 
 - 合作夥伴位置：所有組織的 MPN 位置清單。

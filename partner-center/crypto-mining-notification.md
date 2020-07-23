@@ -10,12 +10,12 @@ ms.author: v-aarzh
 robots: noindex, nofollow
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d691ef30bf01fcb25d686649291e92cfec47f100
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05da3ae93a43b1e9977d5b6646a73750b30b4415
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435197"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943495"
 ---
 # <a name="partner-center-notification-for-cryptocurrency-mining-activity"></a>加密貨幣挖掘活動的合作夥伴中心通知
 
@@ -54,7 +54,7 @@ ms.locfileid: "86435197"
 
 3. 如果您需要找出訂用帳戶的建立者，請參閱合作夥伴中心活動記錄。
 
-對於加密貨幣採礦的偵測是啟發學習法，可能無法達到 100% 準確。 請務必就地控管和監控系統，以避免詐騙或其他未經許可的活動。 如需詳細資訊，請參閱[未付款、詐騙或濫用](https://docs.microsoft.com/partner-center/non-payment--fraud--or-misuse)。
+對於加密貨幣採礦的偵測是啟發學習法，可能無法達到 100% 準確。 請務必就地控管和監控系統，以避免詐騙或其他未經許可的活動。 如需詳細資訊，請參閱[未付款、詐騙或濫用](non-payment--fraud--or-misuse.md)。
 
 ## <a name="contact-support-if-needed"></a>如有需要，請聯絡支援人員
 

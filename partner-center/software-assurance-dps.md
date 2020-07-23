@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6a0aefa9a6342a6588888c592f0026382e3eb0e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4078bbbc264ec48343deb69d93bedbf75de6d364
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436537"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943685"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作夥伴中心的軟體保證規劃服務
 
@@ -68,7 +68,7 @@ ms.locfileid: "86436537"
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>建立或更新您公司的商務設定檔（新合作夥伴）
 
-最大化潛在客戶的風險。 依照[指示和指導](https://docs.microsoft.com/partner-center/create-a-marketing-profile)方針，在合作夥伴中心內建立或更新公司的商務設定檔。
+最大化潛在客戶的風險。 依照[指示和指導](create-a-marketing-profile.md)方針，在合作夥伴中心內建立或更新公司的商務設定檔。
 
 ## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>客戶建立並指派憑證（現有的夥伴）
 
@@ -103,7 +103,7 @@ ms.locfileid: "86436537"
 
 若要透過 SAVB 將發票提交給 Microsoft，請遵循工作流程[步驟 8](https://go.microsoft.com/fwlink/?linkid=2115983)中的指示。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [軟體保證規劃服務工作流程](https://go.microsoft.com/fwlink/?linkid=2115983)
 - [軟體保證規劃服務常見問題](https://go.microsoft.com/fwlink/?linkid=2116077)

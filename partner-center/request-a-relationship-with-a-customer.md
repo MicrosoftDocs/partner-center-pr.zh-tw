@@ -8,12 +8,12 @@ description: 針對多夥伴、多通路案例，或如果您的委派系統管�
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: cbf6f1751fb58208b0394b6c6a3a6652cb60fe6e
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949250"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943715"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何向合作夥伴中心的客戶要求建立轉銷商關係
 
@@ -26,13 +26,13 @@ ms.locfileid: "85949250"
 如果您想要與客戶建立轉銷商關係，而且只管理您布建的 Azure 訂用帳戶，則不需要取得系統管理員許可權。
 
 >[!NOTE] 
->Microsoft Cloud 適用于美國政府或 Microsoft Cloud 德國的合作夥伴，無法使用 [不要求許可權] 選項。 若要深入瞭解，請參閱[客戶將系統管理許可權委派給合作夥伴](https://docs.microsoft.com/partner-center/customers_revoke_admin_privileges)。
+>Microsoft Cloud 適用于美國政府或 Microsoft Cloud 德國的合作夥伴，無法使用 [不要求許可權] 選項。 若要深入瞭解，請參閱[客戶將系統管理許可權委派給合作夥伴](customers-revoke-admin-privileges.md)。
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>邀請客戶與您建立經銷商關係
 
 您可以從您的國家/地區或相同區域中的客戶要求轉銷商關係。
 
-1. 選取 [合作夥伴中心]  功能表中的 [客戶]  ，然後選取 [要求建立經銷商關係]  。
+1. 選取 [合作夥伴中心] 功能表中的 [客戶]，然後選取 [要求建立經銷商關係]。
 
 2. 若要向此客戶要求系統管理員許可權，請選取 [**包含 Azure Active Directory 和 Office 365 的委派管理許可權**]。 若要在不要求系統管理員權限的情況下建立關係，請清除此選項。
 
@@ -63,7 +63,7 @@ ms.locfileid: "85949250"
 | 適用于美國政府 Microsoft Cloud 合作夥伴中心的客戶 | Microsoft Office 系統管理員入口網站 |
 |
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [指派支援連絡人](assign-support-contacts.md)
 
