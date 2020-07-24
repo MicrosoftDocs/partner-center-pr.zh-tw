@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 當您從合作夥伴成員中心（PMC）將多家公司遷移至合作夥伴中心，並將其合併到合作夥伴的通用帳戶時，要知道的事項。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyaMSFT
+ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0bab2b69564915fb617754d55e7c113eaf0ddeb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59c40ebfe65d83abfb33f8994f1c0a0ffa7149a7
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434407"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114148"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>從合作夥伴成員中心將多家公司移至合作夥伴中心（PMC）
 
@@ -86,7 +86,7 @@ ms.locfileid: "86434407"
 
 檢視設定檔時，您會看到法定公司的資訊 (在 PMC 中稱為總公司) 以及所有其他位置的資訊。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [從 PMC 移至合作夥伴中心](move-pmc-pc-map.md)
 - [建立使用者帳戶](create-user-accounts-and-set-permissions.md)

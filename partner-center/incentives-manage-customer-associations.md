@@ -4,16 +4,16 @@ description: 瞭解管理宣告的記錄夥伴（CPOR）客戶關聯的重要程
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.topic: article
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 97871089ad7614be47a65bb41dfb8dc4f871b54b
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949507"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114789"
 ---
 # <a name="manage-customer-associations"></a>管理客戶關聯
 
@@ -71,7 +71,7 @@ ms.locfileid: "85949507"
 
 ## <a name="dispute-the-status-of-a-cpor-association-claim"></a>對 CPOR 關聯宣告的狀態進行爭議
 
-如果您的 CPOR 關聯宣告遭到拒絕，您有30天的時間會對拒絕提出爭議。 您收到通知拒絕的電子郵件也會告訴您，您可以在何處查看拒絕的原因，以及如何將其爭議。  
+如果您的 CPOR 關聯宣告遭到拒絕，您有30天的時間會對拒絕提出爭議。 您收到通知拒絕的電子郵件也會告訴您，您可以在何處檢視拒絕的原因，以及如何提出爭議。  
 
 如果已超過30天，而您仍想要對已拒絕的宣告提出爭議，您必須使用更新的執行證明（PoE）提交新的關聯。 
 
@@ -81,17 +81,17 @@ ms.locfileid: "85949507"
 2. 開啟您想要對其進行爭議的宣告。
 3. 在 [宣告] 頁面上，選取 [**爭議**]。
 4. 輸入商務理由和（或）更新的 PoE，說明應如何 reconsidered 拒絕。
-5. 當您完成新增資訊時，請選取 [**爭議**]。 我們的審核者應該會在5個工作天內與您聯絡結果。
+5. 當您完成新增資訊時，請選取 [爭議]。 我們的審核者應該會在五個工作天內與您聯絡結果。
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>拒絕 CPOR 關聯宣告的原因
 
 有三個主要原因是 CPOR 關聯宣告遭到拒絕。
 
-**合作夥伴要求：** 合作夥伴可以要求拒絕其關聯。 當合作夥伴使用不正確的 MPN 來建立 CPOR 關聯宣告，但選擇了不正確的活動（範例 ...）時，就會使用這種方式。 您選擇了 [收益關聯] 而非 [售前]），或不再與客戶合作。
+**合作夥伴要求：** 合作夥伴可以要求拒絕其關聯。 當合作夥伴使用不正確的 MPN 來建立 CPOR 關聯宣告，而選擇了不正確的活動（範例 ...）時，主要會使用此原理。 您選擇了 [收益關聯] 而非 [售前]），或不再與客戶合作。
 
 **客戶拒絕：** 當 CPOR 關聯宣告順利完成 PoE 核准程式後，其狀態會變更為 [已核准]，而客戶會收到拒絕該關聯同意的機會。 如果客戶拒絕同意，則該關聯將會遭到拒絕。
 
-**執行證明不足：** 每個 CPOR 關聯都需要執行證明。 提交您的 CPOR 關聯宣告之後，Microsoft 審核者最多需要5天的時間來審查您的 PoE，並使用宣告中的 [批註] 區段詢問所需的任何其他資訊。 如果資訊不足，就會拒絕您的 CPOR 關聯宣告。
+**執行證明不足：** 每個 CPOR 關聯都需要執行證明。 提交 CPOR 關聯宣告之後，Microsoft 審核者最多需要五天的時間來審查您的 PoE，並使用宣告中的 [批註] 區段要求任何需要的其他資訊。 如果資訊不足，就會拒絕您的 CPOR 關聯宣告。
 
 拒絕的其他可能原因：
 
@@ -113,7 +113,7 @@ ms.locfileid: "85949507"
 
 ## <a name="customer-consent-notification"></a>客戶同意通知
 
-在您的 CPOR 關聯宣告核准後，將會傳送通知給客戶，讓他們有機會拒絕您的關聯。 客戶接著會有7天可退出宣告。您在這段期間的狀態會顯示為 [已核准]。 如果客戶拒絕同意，則該關聯將會遭到拒絕。 一旦通過同意期間且客戶未拒絕同意，就會傳送宣告以評估獎勵計畫的資格。
+在您的 CPOR 關聯宣告核准後，將會傳送通知給客戶，讓他們有機會拒絕您的關聯。 接著，客戶會有7天可退出宣告。您在這段期間的狀態會顯示為 [已核准]。 如果客戶拒絕同意，則該關聯將會遭到拒絕。 一旦通過同意期間且客戶未拒絕同意，就會傳送宣告以評估獎勵計畫的資格。
 
 ## <a name="how-to-communicate-with-poe-reviewers"></a>如何與 PoE 審核者通訊
 

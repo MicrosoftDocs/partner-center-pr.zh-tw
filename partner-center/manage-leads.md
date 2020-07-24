@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 25e5cbea7cd28dbe3f0fbdd67a264d1be0728e08
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434367"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944475"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>管理不同的潛在客戶，例如客戶查詢、適合行銷的潛在客戶，以及適合銷售的潛在客戶
 
@@ -32,7 +32,7 @@ ms.locfileid: "86434367"
 
 Microsoft 每年將數百萬個潛在客戶傳送給其合作夥伴。 您有機會收到 Microsoft 的潛在客戶，並培養您的業務。 本節將協助您瞭解如何管理您從 Microsoft 解決方案提供者頁面收到的潛在客戶，並對其採取行動。
 
-接收潛在客戶的必要條件是為您的公司[建立商務設定檔](https://docs.microsoft.com/partner-center/create-a-marketing-profile)。 您為公司所建立的商務設定檔，可協助您在[microsoft 解決方案提供者](https://www.microsoft.com/solution-providers/home)網頁上看到潛在客戶、其他合作夥伴和 microsoft 賣方。 您的商務設定檔資訊會與貴公司的成員資格資訊（例如專長認證資料和 Microsoft 的其他簽署）結合，當他們搜尋合作夥伴以使用時，為客戶提供豐富的個人資料。 來自 Microsoft 解決方案提供者頁面上之配置檔案清單的所有要求，都可以在左側流覽窗格中 [**參考**] 索引標籤下的 [**潛在客戶**] 區段中取得。 
+接收潛在客戶的必要條件是為您的公司[建立商務設定檔](create-a-marketing-profile.md)。 您為公司所建立的商務設定檔，可協助您在[microsoft 解決方案提供者](https://www.microsoft.com/solution-providers/home)網頁上看到潛在客戶、其他合作夥伴和 microsoft 賣方。 您的商務設定檔資訊會與貴公司的成員資格資訊（例如專長認證資料和 Microsoft 的其他簽署）結合，當他們搜尋合作夥伴以使用時，為客戶提供豐富的個人資料。 來自 Microsoft 解決方案提供者頁面上之配置檔案清單的所有要求，皆可在左側流覽窗格中 [**參考**] 索引標籤下的 [**潛在客戶**] 區段中取得。
 
 ## <a name="types-of-leads"></a>潛在客戶類型
 
@@ -85,9 +85,9 @@ Microsoft 每年將數百萬個潛在客戶傳送給其合作夥伴。 您有機
 
 以下是一些秘訣，可協助您取得更適當的參考：
 
-- 在您的[商務設定檔](https://docs.microsoft.com/partner-center/create-a-marketing-profile)中，**選擇關鍵字和喜好設定，表示您的唯一專業和業務模式**。 移除會產生您不感興趣之參考的關鍵字。 如果您不想要處理特定規模的企業，請更新此喜好設定。
+- 在您的[商務設定檔](create-a-marketing-profile.md)中，**選擇關鍵字和喜好設定，表示您的唯一專業和業務模式**。 移除會產生您不感興趣之參考的關鍵字。 如果您不想要處理特定規模的企業，請更新此喜好設定。
 
-- **在您的[商務設定檔](https://docs.microsoft.com/partner-center/create-a-marketing-profile)中，檢查每個位置的連絡人資訊**請確定您的小組收到內送警示。
+- **在您的[商務設定檔](create-a-marketing-profile.md)中，檢查每個位置的連絡人資訊**請確定您的小組收到內送警示。
 
 - **快速回應參考**當您及時回應連入要求時，我們會在未來的客戶搜尋結果中增加您的可見度。 請確定您的團隊快速回應並表明意向。
 
@@ -95,7 +95,7 @@ Microsoft 每年將數百萬個潛在客戶傳送給其合作夥伴。 您有機
 
 - **回報預估的交易大小、結束日期，以及交易的最後狀態**(已成交或未成交)。 我們將使用此資訊來繼續為您提供品質的參考。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [管理共同銷售商機](manage-co-sell-opportunities.md)
 

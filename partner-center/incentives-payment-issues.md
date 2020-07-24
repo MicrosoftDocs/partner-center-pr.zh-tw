@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: 瞭解如何解決遺失或不正確的收益、資格問題，以及如何協調您的獎勵收益等問題。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 7408b3c1adf8741104a8d27e68dccf27be07c5c0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: fc086b74fd140e669720743b067959fc3463f6c9
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949488"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114762"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>針對付款和收益問題進行疑難排解
 

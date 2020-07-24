@@ -5,16 +5,16 @@ ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 使用這些頁面來查看、管理和匯出付款和收益詳細資料，以及程式狀態和完整的交易歷程記錄。
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 2ffd5168f0bcad08502a8afe751e568b34f394b1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f42ce255396411b68363f3a6ad928e80d87d96ad
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436487"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114835"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>查看、管理和匯出您的獎勵方案詳細資料
 
@@ -62,12 +62,12 @@ ms.locfileid: "86436487"
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 2. 從功能表中選取 [**獎勵**]，然後選取 **[總覽**]。
-3. 在頁面頂端查看 [收益] 和 [付款] 摘要，並在下表中取得進一步的詳細資料。 您也可以排序、分組和展開隨附的資料表：
+3. 在頁面頂端查看 [收益] 和 [付款] 摘要，並在下表中取得進一步的詳細資料。 您也可以排序、群組和展開隨附的資料表：
 
    - 若要依資料行排序，請選取資料行名稱。
    - 若要依程式分組，請選取資料表上方的 [**依程式**] 索引標籤。
    - 若要依位置分組，請選取資料表上方的 [**依位置**] 索引標籤。
-   - 若要查看特定群組內註冊的詳細資料，請選取位於指定資料列結尾的 v 形符號。 這會展開您的視圖。
+   - 若要查看特定群組內註冊的詳細資料，請選取位於指定資料列結尾的 v 形符號。 這個按鈕會展開您的視圖。
 
 4. 如果需要進一步動作以在程式中註冊，此資訊將會出現在 [**狀態**] 欄中。 在此情況下，請選取 v 形符號，以瞭解您需要採取的後續步驟。
 
@@ -94,14 +94,14 @@ ms.locfileid: "86436487"
 |下一個預估付款      |您的單一下一期付款（即使有其他人即將推出），以美元為單位。                                     |
 |上一次付款           |您最近付款的數量（以美元為單位）、計畫名稱和 MPN 識別碼。                                      |
 |付款 (依來源)       |過去12個月內由程式代表的付款金額（以美元為單位）。                                      |
-|付款                       |選取 [**付費**] 或 [**暫**止]，然後依您想要的方式排序。 如需特定付款的其他詳細資料，請選取 [檢視]。 若要下載付款匯款單的複本，請選取 [下載]。 請注意，交易記錄資料最多可能需要24小時的時間才會出現，因此您可能不會立即看到相關的收益。  |
+|付款                       |選取 [**付費**] 或 [**暫**止]，然後依您想要的方式排序。 如需特定付款的其他詳細資料，請選取 [ **View**]。 若要下載付款匯款單的複本，請選取 [下載]。 交易記錄資料最多可能需要24小時才會出現，因此您可能不會立即看到相關的收益。  |
 
 若要匯出此頁面上的任何資料，請選取 [**匯出**]，然後依照 [匯出資料] 頁面上的指示進行。
 
 ## <a name="transaction-history-page"></a>[交易記錄] 頁面
 此頁面會顯示所有的個人收益，包括日期、類型和每個項目的收益。 您可選取要檢視的時間間隔，也可透過註冊識別碼、計劃、付款識別碼、收益類型、控制桿和狀態等進行篩選。 資料適用于目前的會計年度（7月1日至6月30日）和前兩個會計年度。
 
-若要查看收益的詳細資料，請選取位於頁面右側的向下箭號。 這會顯示杠杆、收益金額、產品和客戶。 如果因為某些原因而無法使用任何資料，但您需要存取它，請聯絡支援人員。 如果收益是調整的結果，而不是交易，則不會顯示 [產品] 和 [客戶] 欄位。
+若要查看收益的詳細資料，請選取位於頁面右側的向下箭號。 這麼做會顯示杠杆、收益金額、產品和客戶。 如果因為某些原因而無法使用任何資料，但您需要存取它，請聯絡支援人員。 如果收益是調整的結果，而不是交易，則不會顯示 [產品] 和 [客戶] 欄位。
 
 若要匯出此頁面上的任何交易資料，請選取 [**匯出**]，然後依照 [匯出資料] 頁面上的指示進行。 從 [交易記錄] 頁面匯出的檔案會顯示交易貨幣中資料、兩種交易貨幣和美金收益，以及付款貨幣的付款值。
 
@@ -130,7 +130,7 @@ ms.locfileid: "86436487"
 
 - 您只會看到與您相關聯的 MPN 識別碼和程式的資料。 如果您想要存取其他資料，請參閱您的獎勵系統管理員。
 - [匯出資料] 頁面不會自行重新整理。 您可能需要手動重新整理頁面，才能看到最新的資料。
-- 篩選條件可能會導致**無可用資料**錯誤。 這可能表示您已保留在三個月內選取的預設時間週期，然後從該期間外的收益中選取付款識別碼。 請展開時間間隔，然後再試一次。
+- 篩選條件可能會導致**無可用資料**錯誤。 此錯誤可能表示您已保留在三個月內選取的預設時間週期，然後從該期間外的收益中選取付款識別碼。 請展開時間間隔，然後再試一次。
 
 ## <a name="payment-download-export"></a>付款下載匯出
 此選項可為指定計劃、關聯稅務和彙總金額提供您在銀行內所收到的付款下載。
@@ -159,32 +159,32 @@ ms.locfileid: "86436487"
 
 |**資料行名稱**   |**說明**   |
 |------------------|:-------------------------------------|
-|earningId   |每一項收益的唯一識別碼   |
-|participantID   |根據該計劃獲取收益的合作夥伴主要身分識別   |
-|participantIDType   |通常會 MPN 商店計畫的獎勵計畫和賣方識別碼   |
-|participantName   |收益合作夥伴的名稱   |
-|partnerCountryCode   |賺取合作夥伴的地點/國家/地區   |
-|programName   |獎勵/Microsoft Store 計劃名稱   |
-|transactionCurrency   |發生原始客戶交易的貨幣   |
-|transactionDate   |交易的日期。 適用于許多交易貢獻給一個收益的程式。   |
-|transactionExchangeRate  |用來顯示對應美元金額的匯率日期 |
-|transactionAmount   |原始交易貨幣 (據以產生收益) 的交易金額   |
-|transactionAmountUSD   |以美金為單位的交易金額   |
-|transactionCountryCode   |交易購買/銷售到國家/地區代碼   |
-|lever   |指出收益的商務規則   |
-|earningRate   |套用到交易金額以產生收益的獎勵率   |
-|quantity |此欄位會因程式而異。 若為交易式程式，它會指出已計費的數量。 |
-|earningType   |指出是否為費用、退款、合作行銷、銷售等。   |
+|customerId   |客戶識別碼   |
+|customerName   |交易客戶名稱   |
 |earningAmount   |原始交易貨幣中的賺取金額   |
 |earningAmountUSD   |賺取金額（美元）   |
 |earningDate   |收益的日期   |
 |earningExchangeRate   |用來顯示對應美金金額的匯率   |
+|earningId   |每一項收益的唯一識別碼   |
+|earningRate   |套用到交易金額以產生收益的獎勵率   |
+|earningType   |指出是否為費用、退款、合作行銷、銷售等。   |
 |exchangeRateDate   |用來計算 EarningAmount (以美金為單位) 的匯率日期   |
+|lever   |指出收益的商務規則   |
+|participantID   |根據該計劃獲取收益的合作夥伴主要身分識別   |
+|participantIDType   |通常會 MPN 商店計畫的獎勵計畫和賣方識別碼   |
+|participantName   |收益合作夥伴的名稱   |
+|partnerCountryCode   |賺取合作夥伴的地點/國家/地區   |
 |paymentId   |付款的唯一識別碼。 這個數位通常會顯示在您的 bank 語句中。   |
 |paymentStatus   |付款狀態   |
 |paymentStatusDescription   |付款狀態的易記描述   |
-|customerId   |客戶識別碼   |
-|customerName   |交易客戶名稱   |
+|programName   |獎勵/Microsoft Store 計劃名稱   |
+|quantity |此欄位會因程式而異。 若為交易式程式，則表示計費數量。 |
+|transactionAmount   |原始交易貨幣 (據以產生收益) 的交易金額   |
+|transactionAmountUSD   |以美金為單位的交易金額   |
+|transactionCountryCode   |交易購買/銷售到國家/地區代碼   |
+|transactionCurrency   |發生原始客戶交易的貨幣   |
+|transactionDate   |交易的日期。 適用于許多交易貢獻給一個收益的程式。   |
+|transactionExchangeRate  |用來顯示對應美元金額的匯率日期 |
 
 除了上表外，這些交易歷程記錄欄位也會提供給程式使用。
 

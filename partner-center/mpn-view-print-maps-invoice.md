@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 瞭解如何查看或下載您的 MPN 會員資格發票、如何提出免稅的檔案，以及如何將您的加值稅識別碼傳送給 Microsoft。
-author: LauraBrenner
-ms.author: labrenne
+author: sodeb
+ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4e0665a86a47790fea7c829505475e54e4b3d38
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4102dae63c07a85993f1cf4a9a9dc91e42ee493a
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436757"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120042"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft 合作夥伴網路中的發票和稅金
 
@@ -61,7 +61,7 @@ ms.locfileid: "86436757"
 
 3.  輸入您公司的 [加值稅 ID]，選取 [**新增**]，然後選取 **[下一步]**。 
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [合作夥伴中心計費概觀](billing-basics.md)
 

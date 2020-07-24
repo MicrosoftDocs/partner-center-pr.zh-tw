@@ -5,15 +5,15 @@ ms.date: 06/29/2020
 description: 您必須先建立您的付款和稅務設定檔，才能支付獎勵的工作費用。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 02212a09ab18ff5b978107af00ac990aa0c702a3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949690"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114083"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>合作夥伴中心的支出和稅務設定檔
 
@@ -85,11 +85,11 @@ ms.locfileid: "85949690"
     **銀行帳戶位置：** 貴公司的銀行所在國家/地區。
     **付款方法：**「合作夥伴中心」的慣用付款條件是「電子銀行傳輸」。
 
-2. 選取 [下一步] 。
+2. 選取 [下一步]。
 
 3. 在 [**銀行帳戶**] 頁面上，輸入您的資訊。 此頁面上顯示的欄位會因國家/地區而異。 
 
-4. 選取 [下一步] 。
+4. 選取 [下一步]。
 
 5. 在 [**受益人**] 頁面上，輸入適當的資訊。 如果您的公司需要討論您的帳戶，這些受益者就是銀行所要聯繫的人員。
 
@@ -116,7 +116,7 @@ ms.locfileid: "85949690"
    - 如果您的公司僅納入美國，或此設定檔適用于個人，請選取左側的選項。 
    - 如果您的公司已納入美國以外的地區，請選取右側的選項，然後從清單中選取您的國家/地區。
 
-3. 選取 [下一步] 。 
+3. 選取 [下一步]。 
 
 4. 在 [**稅務狀態**] 頁面上，輸入必要的資訊，然後選取 **[下一步]**。 此頁面上的欄位會因國家/地區而異。 您的詳細資料。 
 

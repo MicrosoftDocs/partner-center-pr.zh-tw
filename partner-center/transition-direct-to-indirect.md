@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010e647be83ea07eb77a52e80682d582aad52df1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436467"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944495"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商
 
@@ -204,7 +204,7 @@ ms.locfileid: "86436467"
 
 ### <a name="microsoft-customer-agreement-acceptance"></a>Microsoft 客戶合約接受
 
-Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所有客戶（現有和新的）都必須簽署新的[Microsoft 客戶合約](https://docs.microsoft.com/partner-center/confirm-customer-agreement)。 針對轉換客戶，如果：
+Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所有客戶（現有和新的）都必須簽署新的[Microsoft 客戶合約](confirm-customer-agreement.md)。 針對轉換客戶，如果：
 
 - **客戶尚未接受 Microsoft 客戶合約**
 
@@ -347,7 +347,7 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 - **對訂用帳戶的基座計數變更不會反映在現有的傳輸要求中。** 建立包含現有訂用帳戶的傳送要求之後，您應該避免更新訂用帳戶的基座數量（或相關聯的附加元件）。 如果您這樣做，新的數量將不會反映在傳送要求中。 當間接提供者接受傳輸要求之後，結果訂用帳戶將會有舊的數量。 如果您想要將新的數量轉移給間接提供者，您必須取消現有的傳輸要求，然後重新建立一個新的。
 
-- **並非所有購買都可以使用自助式訂用帳戶傳輸來傳輸。** 目前，您只能使用這項功能來傳送 O365 訂用帳戶和 Azure PAYG 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p）。 不支援其他購買專案，包括 Azure 方案、Azure 保留實例、以詞彙為基礎的訂用帳戶，以及適用于 Azure Marketplace 的 SaaS 訂閱。 您會在 [提交轉移要求] 頁面中看到無法轉移訂用帳戶的原因。 若要傳送這些訂用帳戶，您必須[取消現有的訂](https://docs.microsoft.com/partner-center/create-a-new-subscription#suspend-or-cancel-a-subscription)用帳戶，並透過間接提供者購買客戶的新供應專案。
+- **並非所有購買都可以使用自助式訂用帳戶傳輸來傳輸。** 目前，您只能使用這項功能來傳送 O365 訂用帳戶和 Azure PAYG 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p）。 不支援其他購買專案，包括 Azure 方案、Azure 保留實例、以詞彙為基礎的訂用帳戶，以及適用于 Azure Marketplace 的 SaaS 訂閱。 您會在 [提交轉移要求] 頁面中看到無法轉移訂用帳戶的原因。 若要傳送這些訂用帳戶，您必須[取消現有的訂](create-a-new-subscription.md#suspend-or-cancel-a-subscription)用帳戶，並透過間接提供者購買客戶的新供應專案。
 
 - **無法使用沙箱環境進行測試。**
 

@@ -9,16 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b804c76428b0d1f699874b48f7a884161aebcdd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435707"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943945"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>取得、布建、& 管理適用于客戶的 Azure 保留的 VM 實例（RI） + 伺服器訂閱
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 
@@ -82,7 +82,7 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 
 - 由 CloudSimple 提供的 Azure VMware 解決方案
 
-## <a name="getting-started"></a>使用者入門
+## <a name="getting-started"></a>開始使用
 
 若要瞭解如何將 Azure 保留與您的客戶進行定位，並儘快啟動並執行操作，我們建議您採用下列方法來審查準備就緒資料：
 
@@ -103,7 +103,7 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 - [Azure 保留和 SQL DB 的合作夥伴常見問題](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
 - [遠端桌面服務（RDS）用戶端存取許可證（CAL）（公告）](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 - [Azure 保留的 VM 執行個體（Azure 入口網站）](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
-- [伺服器訂閱](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [伺服器訂閱](csp-software-subscriptions.md)
 - [Azure 中的 SQL DB 總覽](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
 - [SQL DB 保留（Azure 入口網站）](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
 - [Azure Cosmos DB （Azure 入口網站）](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
@@ -130,7 +130,7 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 
 其他實用的訓練課程包含[合作夥伴大學的 Azure 授權模組](https://aka.ms/azure_partner_licensing)。
 
-### <a name="operations"></a>Operations
+### <a name="operations"></a>作業
 
 - [現代化商務營運指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（更新）：涵蓋主要原則和操作層面的完整指南，例如合約、透過合作夥伴中心訂購、發票、價目表詳細資料、獎勵、對帳檔案、API/SDK、沙箱和 Azure 合作夥伴共用服務。
 - [現代化優惠國家/地區可用性和客戶貨幣矩陣](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
