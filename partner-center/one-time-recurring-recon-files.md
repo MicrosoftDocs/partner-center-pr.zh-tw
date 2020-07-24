@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5853d3eedef07c63f9818f85f1695c2abf8a2baa
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3874d384aa1f4b932832d599f73bd601dc73fb07
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875264"
+ms.locfileid: "86943805"
 ---
 # <a name="one-time-and-recurring-reconciliation-files-in-partner-center"></a>合作夥伴中心的一次性和週期性對帳檔案
 
@@ -29,7 +29,7 @@ ms.locfileid: "86875264"
 - 系統管理代理人
 - 銷售代理人
 
-本主題說明如何在合作夥伴中心讀取一次性和週期性的對帳檔案。
+本文說明如何在合作夥伴中心讀取一次性和週期性的對帳檔案。
 
 ## <a name="fields-in-one-time-and-recurring-reconciliation-files"></a>一次性和週期性對帳檔案中的欄位
 
@@ -46,16 +46,16 @@ ms.locfileid: "86875264"
 | OrderDate | 下訂單的日期。 |
 | ProductId | 產品的識別碼。 |
 | SkuId | 特定 SKU （庫存單位）的識別碼。 |
-| AvailabilityId | 特定 SKU 可用性的識別碼。 這會顯示 SKU 是否可在指定的國家/地區、貨幣、產業區段等中購買。 |
+| AvailabilityId | 特定 SKU 可用性的識別碼。 此欄位會顯示 SKU 是否可在指定的國家/地區、貨幣、產業區段等中購買。 |
 | SkuName | 特定 SKU 的標題。 |
 | ProductName | 產品的名稱。 |
 | ChargeType | 費用或調整的類型。 |
-| UnitPrice | 購買時價格清單中所發佈的單價。 *請確定這符合您的計費系統中儲存的資訊。* |
-| 數量 | 單位數目。 *請確定這符合您的計費系統中儲存的資訊。* |
-| SubTotal | 稅前總計。 檢查您的小計是否符合您的預期總計（以折扣為例）。 |
+| UnitPrice | 購買時價格清單中所發佈的單價。 *請確定此欄位符合您在對帳期間儲存于計費系統中的資訊。* |
+| 數量 | 單位數目。 *請確定此欄位符合您在對帳期間儲存于計費系統中的資訊。* |
+| SubTotal | 稅前總計。 檢查您的小計是否符合您的預期總計（如果有折扣的話）。 |
 | TaxTotal | 稅金金額費用。 根據您市場的稅務規則和特定情況。 |
 | 總計 | 稅後總計。 檢查發票中是否向您收取稅金。 |
-| 貨幣 | 貨幣類型。 每個計費實體都只有一個貨幣。 請確定這符合您的第一張發票，並在任何主要計費平臺更新之後再次檢查。 |
+| 貨幣 | 貨幣類型。 每個計費實體都只有一個貨幣。 請確定此欄位符合您的第一個發票，並在任何主要計費平臺更新之後再次檢查。 |
 | PriceAdjustmentDescription | 任何適用折扣的說明。 |
 | PublisherName | 產品發行者的名稱。
 | PublisherId | 特定發行者的唯一識別碼。 |
@@ -68,7 +68,7 @@ ms.locfileid: "86875264"
 | Unittype.pixel 表示 | 所購買的單位類型。 |
 | 替代識別碼 | **訂單**識別碼的替代識別碼。 |
 | BillableQuantity | 代表已購買或耗用的單位總數。 |
-| BillingFrequency | 描述明細專案是每月或一次性計費頻率。 *這目前僅支援 Azure RI，每月支援的值為。如果 RI 以一次性計費頻率購買，偵察檔案中的這個欄位將會顯示為空白。* |
+| BillingFrequency | 描述明細專案是每月或一次性計費頻率。 *此欄位目前僅支援 Azure RI，支援的值為每月。如果 RI 以一次性計費頻率購買，偵察檔案中的這個欄位將會顯示為空白。* |
 | PricingCurrency | 資源或供應專案的標價。 |
 | PCToBCExchangeRate | 定價貨幣對計費貨幣的匯率。 |
 | PCToBCExchangeRateDate | 決定計費貨幣的定價貨幣的日期。 |

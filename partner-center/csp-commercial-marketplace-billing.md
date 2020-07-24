@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7625488266aab3eb8d1797a99847eaec56ced36f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f5c506e1f3dd5e1ffcac1d7017687b1b36718745
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435137"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943472"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>合作夥伴中心內的商業 marketplace 產品和訂用帳戶計費
 
@@ -47,7 +47,7 @@ CSP 計畫中的合作夥伴會針對客戶購買的 ISV 商業 marketplace 解�
 
     您會在 [帳單] 頁面頂端看到兩個索引標籤： [**週期性**] 和 [**週期性] 和**[單次購買]。 每個索引標籤都可讓您存取不同 marketplace 產品的發票和對帳（偵察）檔案：
 
-    - **週期性**索引標籤：顯示與 Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、PowerBI Pro 和 Microsoft Azure 相關之訂閱的發票和對帳檔案。
+    - **週期性**索引標籤：顯示與 Office 365、Microsoft 365、Dynamics 365、Azure Active Directory、Power BI Pro 和 Microsoft Azure 相關之訂閱的發票和對帳檔案。
 
     - **週期性和一次性購買**索引標籤：顯示 azure 方案、azure 保留、軟體和商用 marketplace 產品的發票和對帳檔案。
   
@@ -107,7 +107,7 @@ CSP 計畫中的合作夥伴會針對客戶購買的 ISV 商業 marketplace 解�
 
 如需每個資料行所代表之內容的詳細資訊，請參閱[使用您的對帳](use-the-reconciliation-files.md)檔案。 另請參閱[合作夥伴中心的帳單類型](billing-different-types.md)
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [管理客戶的商業 marketplace 產品](csp-commercial-marketplace-manage.md)
 - [瞭解商業 marketplace 產品的支援](csp-commercial-marketplace-support.md)

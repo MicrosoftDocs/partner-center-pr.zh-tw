@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解直接帳單合作夥伴（直接轉銷商、間接提供者）的步驟，以驗證適用于 CSP 的 Office 365 政府版 GCC 的合作夥伴和客戶。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d598db3760c54c1be5b37501d04f373231b2e4da
-ms.sourcegitcommit: e9b627159745bcce53a8c2b1676f63f5249bba76
+ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "82908054"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114380"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>適用于 CSP 的 Office 365 政府 GCC 合作夥伴和客戶資格條件-合作夥伴中心
 

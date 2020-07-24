@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b3a82e53c4947cdfd761fd2a9e0d998ca0d5c3a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436437"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943815"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>當您註冊新的合作夥伴中心方案時，請確認您的帳戶資訊
 
@@ -39,7 +39,7 @@ ms.locfileid: "86436437"
 |Microsoft Store   |商務驗證會確認註冊公司是合法的商業實體，以及用於註冊的位址。|如果商務驗證失敗，則會要求主要連絡人（通常是您的全域或帳戶管理員）提供官方的檔，例如商業註冊或稅務註冊憑證或收據、公司的家中國家/地區，或 municipality 確認公司已獲授權在該機構名稱下執行業務，並位於登入位址。 [建立支援票證](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
->瞭解如何更新您的[合法商務設定檔（位址）](https://docs.microsoft.com/partner-center/update-your-partner-profile)。
+>瞭解如何更新您的[合法商務設定檔（位址）](update-your-partner-profile.md)。
 
 ## <a name="when-verification-concludes"></a>當驗證結束時
 

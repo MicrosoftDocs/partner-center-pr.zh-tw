@@ -5,17 +5,17 @@ ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 請依照下列指示合併不同國家/地區的租用戶。 這包括遷移客戶帳戶和客戶訂閱的步驟。
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46ba699bee0a7e4554042522528fdc6d2a18596a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434917"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114408"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>雲端解決方案提供者地區授權租用戶彙總簡介
 
@@ -146,6 +146,6 @@ ms.locfileid: "86434917"
 
 如需 API 註冊的詳細資訊，請參閱[在合作夥伴中心設定 api 存取](https://go.microsoft.com/fwlink/?linkid=847990)。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [合作夥伴中心內轉售商合作夥伴的客戶帳戶設定和管理](customer-accounts.md)

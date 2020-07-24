@@ -5,20 +5,20 @@ ms.date: 06/17/2020
 description: 針對 Azure、雲端、Visual Studio 和技術和支援權益的權益到期、更新及啟用授權問題的解答
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 9449778c184ab9e64abfd908fd5f8708f752f44a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 89b3c8ae87072247da32bc015693205e3b2d8479
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435627"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120023"
 ---
 # <a name="benefits-faq"></a>權益常見問題集
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
@@ -79,7 +79,7 @@ ms.locfileid: "86435627"
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Q. 我可以啟用客戶帳戶的授權
 
-否。 發行產品授權以供示範之用。 您的銷售與行銷員工可以使用此軟體向您的客戶展示產品，但示範產品無法安裝在客戶硬體或基礎結構上，而且必須與合作夥伴監督搭配使用。
+不可以。 發行產品授權以供示範之用。 您的銷售與行銷員工可以使用此軟體向您的客戶展示產品，但示範產品無法安裝在客戶硬體或基礎結構上，而且必須與合作夥伴監督搭配使用。
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>Q. 我在 Azure 大量點數中指派使用者時遇到問題。 我該怎麼做
 

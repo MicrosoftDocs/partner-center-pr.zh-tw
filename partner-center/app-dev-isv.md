@@ -5,16 +5,16 @@ ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 針對具有先前 ISV 專長認證的合作夥伴，瞭解如何取得應用程式開發專長認證的一次性測驗需求豁免
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 39fd6fea1845edbb520cfd9d9c6ebe985765716b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: ed3fd024b415cba79684359e1f1f01f594164c34
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436077"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114793"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>應用程式開發專長認證的一次性測驗需求豁免
 

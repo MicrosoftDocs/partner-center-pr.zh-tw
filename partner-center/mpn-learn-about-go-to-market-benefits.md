@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 瞭解 Microsoft 供應專案的進入市場如何協助加速上市時間、產生潛在客戶，以及拓展您的業務。
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80d4a8c15a5812186d8a9604b7cd8089804be7fb
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: d09dce7f4a80ed3014ecc8345d6f2bdf93da214d
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436787"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114650"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>透過 Microsoft 供應專案探索您的進入市場
 
@@ -83,7 +83,7 @@ ms.locfileid: "86436787"
 >[!IMPORTANT]
 >您必須是全域管理員或 MPN 合作夥伴系統管理員，才能啟用特定的進入市場供應專案，並指派相關的行銷連絡人。 如有需要，您可以依照 [[權益] 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)中的指示 (需要登入) 成為全域系統管理員。 貴公司可能已經有全域系統管理員，請務必洽詢您的團隊。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [管理您的合作夥伴網路權益](manage-your-partner-network-benefits.md)
 

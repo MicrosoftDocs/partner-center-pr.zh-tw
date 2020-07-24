@@ -1,20 +1,20 @@
 ---
 title: 將問題呈報給 Microsoft
+description: 瞭解 Microsoft 合作夥伴預期會為客戶解決的問題，以及他們可能需要向 Microsoft 呈報哪些問題。
 ms.topic: article
-ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解 Microsoft 合作夥伴預期會為客戶解決的問題，以及他們可能需要向 Microsoft 呈報哪些問題。
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c08f98477e1c7761a66c2d7cfccabd27d8e81a77
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.date: 05/18/2020
+ms.openlocfilehash: 92ce4eea3fba444967f83aab5ff4e3d8ed9aa560
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219596"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114159"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>向 Microsoft 呈報問題，並瞭解哪些問題更適合 Microsoft 呈報  
 
@@ -56,19 +56,12 @@ ms.locfileid: "86219596"
 
 5. 您會進入 Office 365 入口網站，您需要使用合作夥伴中心認證登入。
 
-6. 從左邊功能表選取 **\[支援\]**、**\[新服務要求\]**。
+6. 從左側功能表中選取 [**支援**]、[**新增服務要求**]。
 
 7. 選取支援主題。
 
 >[!NOTE]
 >請務必從合作夥伴中心儀表板開始，讓合作夥伴和客戶之間的關聯性維持在一起。 
 
-
 如需代表客戶回報問題的相關資訊，請參閱[代表客戶回報問題](report-problems-on-behalf-of-a-customer.md)。
-
- 
-
- 
-
-
 

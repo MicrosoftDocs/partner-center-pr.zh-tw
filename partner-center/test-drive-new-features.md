@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在發行之前測試新的合作夥伴中心功能，並讓我們知道您的想法。 協助打造合作夥伴中心的未來！
-author: LauraBrenner
-ms.author: labrenne
+author: adamyeh
+ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d34094b9112cb69087006f2537c43ca1bd4fc8e
-ms.sourcegitcommit: ecc5472c986e67525dbfcc6fc328c991d6db77ba
+ms.openlocfilehash: 422f2d662d8fa8d992532bf5945acdd5bf6683ca
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "84679395"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114849"
 ---
 # <a name="test-drive-new-partner-center-features-and-help-shape-the-future-of-partner-center"></a>試用新的合作夥伴中心功能並協助塑造合作夥伴中心的未來
 
@@ -24,7 +24,7 @@ ms.locfileid: "84679395"
 
 ## <a name="help-shape-the-future-of-partner-center"></a>協助打造合作夥伴中心的未來！
 
-我們會持續發行合作夥伴中心的新特色與功能，並想要您的意見反應！ 
+我們會持續發行合作夥伴中心的新特色與功能，並想要您的意見反應！
 
 我們邀請您在新功能發行至合作夥伴中心全球社群之前搶先試用，並分享您的想法。 請查看[合作夥伴中心公告頁面](announcements/index.md)，以取得即將發行之功能的相關資訊，讓您開始計畫如何使用它們來擴展您的業務。 您可能會有數個功能可供您在指定時間測試磁片磁碟機。
 

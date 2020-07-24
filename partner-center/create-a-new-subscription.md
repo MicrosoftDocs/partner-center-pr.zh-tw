@@ -1,7 +1,7 @@
 ---
 title: 在合作夥伴中心建立客戶訂用帳戶
 ms.topic: article
-ms.date: 11/27/2019
+ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何向 Microsoft 所發佈的產品以及由協力廠商 Isv 發佈的 SaaS 產品，銷售您的客戶訂用帳戶。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: e72c499cac9b2408e34a0f6fbf2e442f93faef47
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 3e154fd217af8ca0f5d45c686467e671e5bd9a03
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875224"
+ms.locfileid: "86949834"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -49,7 +49,7 @@ ms.locfileid: "86875224"
 
 4. 若只要查看特定類型的訂用帳戶，請在可用的篩選中進行選取：
    - **發行者**：選擇 [ **microsoft** ] 僅查看 microsoft 或**合作夥伴**提供的供應專案，以查看 isv 所發佈的商業 marketplace 產品。
-   - **計費類型**：選取您想要使用的訂用帳戶計費類型： [**授權**] 或 [**使用**方式]。 如需可協助您在每月與年度計費頻率之間做選擇的詳細資訊，請參閱[新計費功能的常見問題集](faq-about-new-billing-features.md)。
+   - **計費類型**：選取您想要使用的訂用帳戶計費類型： [**授權**] 或 [**使用**方式]。 如需可協助您決定每月和年度計費頻率的資訊，請參閱以[授權為基礎的計費](license-based-billing.md)。
    - **類別**：選擇 [**企業**]、[**小型企業**] 或 [**試用**]。 如需試用訂用帳戶的相關資訊，請參閱[為您的客戶提供 Microsoft 產品試用版](offer-your-customers-trials-of-microsoft-products.md)。
 
 5. 選取您想要為客戶購買的產品訂閱。 您看到的產品取決於客戶區段的類型（教育、政府等），以及您已套用的篩選。 Marketplace 上顯示的某些供應專案可能不一定會提供給特定的客戶或特定的 CSP 合作夥伴。 這可能是因為：
@@ -76,7 +76,7 @@ ms.locfileid: "86875224"
     >[!NOTE]
     > 您或您的客戶都不會收到一封電子郵件，說明如何針對此類型的 ISV 訂閱完成帳戶設定/布建。）
 
-    - 如果您的訂用帳戶隨附30天免費試用版，將會自動套用免費試用期限。 身為 CSP 計畫的合作夥伴，您無法在購買給客戶的供應專案上放棄免費試用期。 一旦免費試用期結束後，訂用帳戶期限就會開始，且訂用帳戶將會轉換成付費狀態。 然後，訂用帳戶會根據相同的排程進行 autorenew。
+    - 如果您的訂用帳戶隨附30天免費試用版，將會自動套用免費試用期限。 身為 CSP 計畫的合作夥伴，您無法在購買給客戶的供應專案上放棄免費試用期。 一旦免費試用期結束後，訂用帳戶期限就會開始，且訂用帳戶將會轉換成付費狀態。 然後，訂用帳戶會根據相同的排程自動更新。
    
 ## <a name="update-subscriptions-with-add-ons"></a>使用附加元件更新訂閱 
 
@@ -92,10 +92,10 @@ ms.locfileid: "86875224"
 
 5. 更新每個所需附加元件的授權數量。 然後，**提交**您的變更。
 
-透過合作夥伴中心購買附加元件的功能，僅適用于 CSP 合作夥伴。
+透過合作夥伴中心購買附加元件的功能，僅適用于直接帳單和間接提供者。
 根據基本需求和區域可用性，只會顯示合格的附加元件。 如需定價和優惠的詳細資訊，請參閱雲端轉銷商供應專案對照表。  暫停基底訂用帳戶也會暫止任何相關聯的附加元件。
 
-附加元件的開始日期會與基本訂用帳戶對齊，而費用會從第一張發票中的 rata 費用，計算自開始日期和收費結束日期。 
+附加元件的開始日期會與基本訂用帳戶對齊，而費用會從第一張發票中的 rata 費用，計算自開始日期和收費結束日期。 如需其他資訊，請參閱以[授權為基礎的計費](license-based-billing.md)。
 
 
 ## <a name="suspend-or-cancel-a-subscription"></a>暫停或取消訂用帳戶
@@ -174,7 +174,7 @@ ms.locfileid: "86875224"
 
 6. 選取 [提交]。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [為您的客戶購買商業市集產品](csp-commercial-marketplace-purchase.md)
 

@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解客戶可以執行自我支援的時機和位置，以管理自己的帳戶，以及何時應洽詢其雲端解決方案提供者合作夥伴。
-author: brentserbus
-ms.author: brserbus
+author: Kim-Davis
+ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b52799639c99073ef82d1458362f74051b52990
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e4224df0393e8a9bd06204e0e9667069fb7e64e8
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434837"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114348"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>透過 Microsoft Office 365 系統管理中心或透過 Azure 入口網站的客戶自我支援
 

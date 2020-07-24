@@ -5,16 +5,16 @@ ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365 合作夥伴系統管理中心功能即將移轉到合作夥伴中心。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c53aac7566bfa561521d5cb9304b90dd172784d5
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 674cb8d9e97874093224e4f2ef818921ce74ec15
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943745"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114520"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作夥伴系統管理中心即將移轉到合作夥伴中心
 

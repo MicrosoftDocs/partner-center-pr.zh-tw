@@ -5,20 +5,20 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 根據您公司的位置，查看您可以銷售 CSP 供應專案的國家、地區和貨幣。
-author: LauraBrenner
-ms.author: labrenne
+author: BillLinzbach
+ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ced2ff2890f9e017de5f4bcc1dfefaedf33cda64
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434167"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114099"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>雲端解決方案提供者方案地區市場和貨幣，您可以在其中銷售 CSP 優惠
 
-貴公司的位置決定您的市場。 您的市場包含您可以銷售雲端解決方案提供者（CSP）方案供應專案的區域和/或國家/地區。
+貴公司的地點決定您的市場。 您的市場包含您可以銷售雲端解決方案提供者（CSP）方案供應專案的區域和/或國家/地區。
 
 例如，如果您的公司位於美國，您可以將 CSP 供應專案銷售給美國與美國外島的客戶。 如果您的公司位於巴西，您只能將 CSP 供應專案銷售給巴西的客戶。 如果您的公司位於非洲地區，您可以將 CSP 供應專案銷售給非洲地區所有18個國家/地區的客戶。
 

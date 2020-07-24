@@ -4,18 +4,18 @@ description: 將您的 MPN 成員資格升級為 Microsoft 行動套件訂用帳
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 robots: noindex,nofollow
 ms.localizationpriority: medium
 ms.date: 03/19/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dac4c066df7022489cc43694450f5ae4aa7027a4
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 53b25e454c3ba5c59b9fa460bbd38d81391f7093
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436477"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114459"
 ---
 # <a name="upgrade-your-microsoft-partner-network-membership-and-explore-new-offers-programs-and-resources"></a>升級您的 Microsoft 合作夥伴網路成員資格，以及探索新的供應專案、方案和資源
 
@@ -109,7 +109,7 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，其中包�
 
 若要取消您的 Microsoft 行動套件訂閱，您必須連絡合作夥伴中心支援。
 
-1. 前往 [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)。
+1. 移至 [https://partnercenter.microsoft.com/partner/support](https://partnercenter.microsoft.com/partner/support)。
 
 2. 選取 [回報合作夥伴中心的問題]，然後在下一頁選取 [新增要求]。
 
@@ -119,7 +119,7 @@ Microsoft 的合作夥伴計畫提供下列三種成員資格選項，其中包�
 
    若要檢查您的服務要求狀態，請選取 **\[支援要求\] > \[合作夥伴中心要求\]**，然後選取 **\[開啟\]**。 從清單選擇適當的服務。  
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [啟用您的行動套件訂閱](manage-your-partner-network-benefits.md)
 

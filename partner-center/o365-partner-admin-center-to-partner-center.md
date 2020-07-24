@@ -5,16 +5,16 @@ ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在遷移至合作夥伴中心之後，尋找常見的 Office 365 合作夥伴系統管理中心（PAC）功能，例如建立您的商務和服務要求。
-author: LauraBrenner
-ms.author: labrenne
+author: billLinzbach
+ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dc5247d9ee9dc72276412d441b0f627ec448900
-ms.sourcegitcommit: dadc0b112497802db2d8d5e72fc76c95a4dc18d6
+ms.openlocfilehash: 1a9270f405b58ee065a67427395a392128b3eda1
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/27/2020
-ms.locfileid: "83998434"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114585"
 ---
 # <a name="office-365-partner-admin-center-partners---get-ready-to-move-business-operations-to-partner-center"></a>Office 365 合作夥伴系統管理中心合作夥伴-準備將商務營運移至合作夥伴中心
 
