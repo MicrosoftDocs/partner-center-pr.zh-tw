@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1bf50d056d9f1b688e9593aea9b0edfc955876d7
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
+ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436067"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86949854"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "86436067"
 
 | **類別** | **2020 年 7 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[適用於合格 Microsoft 商業市集供應項目的雲端解決方案提供者 (CSP) 獎勵在 FY21 獲得提升](2020-July.md#7)|7 月 22 日|
 |功能|[在合作夥伴中心的深入見解報告中新增功能](2020-july.md#6)|7 月 16 日|
 |供應項目/市場|[雲端解決方案提供者計畫中的永久軟體](2020-july.md#5)|7 月 15 日|
 | 供應項目/市場 | [適用於 Teams 的全新 Microsoft 365 企業版語音 SKU](2020-july.md#4) | 7 月 3 日 |
@@ -35,7 +36,7 @@ ms.locfileid: "86436067"
 | 供應項目/市場 | [Microsoft 365 F1 的變更](2020-june.md#3) | 6 月 15 日 |
 | 功能 | [適用於雲端解決方案提供者的 Windows Server 軟體訂閱媒體重新整理](2020-june.md#2) | 6 月 12 日 |
 | 供應項目/市場 | [全新和生命週期結束 Microsoft Dynamics 365 和 Power 平台供應項目與產品](2020-june.md#1) | 6 月 11 日 |
-| 功能 | [在合作夥伴中心合併兩個或多個公司帳戶](https://docs.microsoft.com/partner-center/merge-accounts) | 6 月 9 日 |
+| 功能 | [在合作夥伴中心合併兩個或多個公司帳戶](../merge-accounts.md) | 6 月 9 日 |
 | **類別** | **2020 年 5 月公告** | **日期** |
 | 功能 | [Microsoft 365 A3 – 教育版自動授權供應項目更正](2020-may.md#5) | 5 月 28 日 |
 | 功能 | [效期內的客戶可透過雲端方案提供者 (CSP) 計劃，續訂 Enhancement Plan (EP) 取得線上授權](2020-may.md#4) | 5 月 26 日 |
