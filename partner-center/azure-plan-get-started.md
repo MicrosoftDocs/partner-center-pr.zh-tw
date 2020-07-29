@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: a1937a750100450aa8c3fe0e0846ea688d284bf5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cf2d1085b529e1fbd0fad74c4e56d16f789a48e9
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435817"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943955"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>開始搭配 Azure 方案使用隨用隨付費率
 
@@ -48,7 +48,7 @@ Microsoft 在合作夥伴中心引進了新的商務體驗。  透過這種新�
 - 實作 [Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - 實作協力廠商解決方案，並確保對每個使用者強制執行 MFA
 
-自 2019 年 8 月 1 日起，所有合作夥伴都必須針對其合作夥伴租用戶的所有使用者 (包括服務帳戶) 強制執行多重要素驗證。 如需這些安全性需求的詳細資訊，請參閱[合作夥伴安全性需求](https://docs.microsoft.com/partner-center/partner-security-requirements)。
+自 2019 年 8 月 1 日起，所有合作夥伴都必須針對其合作夥伴租用戶的所有使用者 (包括服務帳戶) 強制執行多重要素驗證。 如需這些安全性需求的詳細資訊，請參閱[合作夥伴安全性需求](partner-security-requirements.md)。
 
 Microsoft 建議合作夥伴盡量使用 RBAC，遵循透過 [Azure Active Directory Privileged Identity Management 資源](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)啟用的最佳做法。
 

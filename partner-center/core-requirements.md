@@ -5,16 +5,16 @@ ms.date: 07/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解如何在獎勵計畫中產生需求、了解市場開發，以及讓合作夥伴為活動做好充分的準備。
-author: kim-davis
-ms.author: kimnich
+author: mseamons
+ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3c17813ef9fec4ebdf9dee00a644d708c66dcfe5
-ms.sourcegitcommit: 3c28f795e0a2bd7e14e72bc5c0466b46f5e31527
+ms.openlocfilehash: ce728bc22625aecd86142a21aaec00a111b58732
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "86475543"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114875"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>獎勵合作宣告需求
 

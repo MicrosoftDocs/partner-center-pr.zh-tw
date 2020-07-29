@@ -5,16 +5,16 @@ ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解與 Microsoft 合作的權益，包括 Microsoft 行動套件、專長認證和計畫選項，可讓您的產品上市並銷售您的解決方案。
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8589776eb291da1931e727d170704ccd205ef69
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 53cf9976ffef5254499d03215782ad428a067189
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436777"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114612"
 ---
 # <a name="partner-with-microsoft---discover-benefits-how-to-help-customers--how-to-drive-business-growth"></a>與 Microsoft 合作 - 探索權益、如何協助客戶，以及如何推動業務成長
 

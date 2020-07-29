@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dd50d2e4e02e342162c8680126dd9e11f1b5a0f2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434557"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943925"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>概述雲端解決方案提供者方案中的合作夥伴供應項目
 
@@ -117,21 +117,21 @@ ms.locfileid: "86434557"
 
 在目錄中找不到您要尋找的供應項目可能有不同的原因。 如果您找不到預期的供應項目，以下是要檢查的事項。
 
-- **確認您的客戶是合格的**。 許多供應項目都需要特殊資格才能銷售給客戶。 這些特殊部門包括教育、非營利團體和政府社區雲端 (GCC)。 在記錄問題之前，請先確認已據此設定客戶的資格。 您可以在客戶清單中按一下客戶名稱，然後檢視帳戶加以檢查。 如果適用，帳戶會設定為具有特殊資格。 如果您嘗試為沒有資格的客戶購買教育版，您將不會在目錄中看到這些供應項目。 如需有關為您的客戶提供資格的詳細資訊，請參閱[特殊部門文件](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)。
+- **確認您的客戶是合格的**。 許多供應項目都需要特殊資格才能銷售給客戶。 這些特殊部門包括教育、非營利團體和政府社區雲端 (GCC)。 在記錄問題之前，請先確認已據此設定客戶的資格。 您可以在客戶清單中按一下客戶名稱，然後檢視帳戶加以檢查。 如果適用，帳戶會設定為具有特殊資格。 如果您嘗試為沒有資格的客戶購買教育版，您將不會在目錄中看到這些供應項目。 如需有關為您的客戶提供資格的詳細資訊，請參閱[特殊部門文件](get-special-pricing-for-offers.md)。
 - **決定您是否嘗試購買附加元件或基本供應項目**。 許多授權型服務 (例如 Microsoft 365 和 Dynamics 365) 都可同時購買基礎供應項目和附加元件。 您只能在目錄中購買基礎供應項目。 若要購買附加元件，請務必先在目錄中購買基礎供應項目，然後從客戶清單中選取客戶，接著選取基礎供應項目的訂用帳戶。 附加元件可套用至此管理訂用帳戶頁面上的基礎供應項目。 
 - **確認產品可在您的市場中取得**。 許多產品和服務都設定為只銷售給特定國家/地區的客戶。 您可以在各種價格清單檔案中找到支援的國家/地區清單。 您可以在定價與供應項目頁面上的供應項目清單矩陣中，找到支援授權型服務的國家/地區。
 - **確認價目表中提供供應項目**。 可用的供應項目清單每個月都會變更。 如果您在目錄中找不到供應項目，請務必確認其在 [銷售] > [定價與供應項目] 頁面的目前價目表中有提供。
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>與在合作夥伴中心購買項目相關的建議文件
 
-- [合作夥伴中心中的定價與供應項目](https://docs.microsoft.com/partner-center/pricing-and-offers)
-- [雲端解決方案提供者方案中的合作夥伴供應項目概觀](https://docs.microsoft.com/partner-center/csp-offers)
-- [如何向教育客戶銷售供應項目，並建立教育客戶](https://docs.microsoft.com/partner-center/sell-to-education-customers)
-- [銷售給特定產業，例如教育、非營利團體和政府使用者](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers)
-- [特殊部門的購買規則](https://docs.microsoft.com/partner-center/get-special-pricing-for-offers#purchase-rules-for-special-segments)
+- [合作夥伴中心中的定價與供應項目](pricing-and-offers.md)
+- [雲端解決方案提供者方案中的合作夥伴供應項目概觀](csp-offers.md)
+- [如何向教育客戶銷售供應項目，並建立教育客戶](sell-to-education-customers.md)
+- [銷售給特定產業，例如教育、非營利團體和政府使用者](get-special-pricing-for-offers.md)
+- [特殊部門的購買規則](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="next-steps"></a>接下來的步驟
 
-如需計費程序運作方式的詳細資訊，請參閱[計費基本概念](https://docs.microsoft.com/partner-center/billing-basics)。
+如需計費程序運作方式的詳細資訊，請參閱[計費基本概念](billing-basics.md)。
 
 如需在 Azure 方案下購買的相關資訊，請參閱[購買 Azure 方案](purchase-azure-plan.md)。

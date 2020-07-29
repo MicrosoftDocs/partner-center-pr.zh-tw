@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d54522500c52b6237377889a6766dd935bc40804
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 9dae2a9b716ee87891aafbe41ad87200f99ecb1b
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875254"
+ms.locfileid: "86943525"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>為客戶購買 Azure 方案，並以隨用隨付費率存取最新的 Azure 服務
 
@@ -37,7 +37,7 @@ Azure CSP 中的新商務體驗目前已排程於 139 個國家/地區提供。 
 
 :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="購買":::
 
-合作夥伴必須確認客戶已檢閱並接受 Microsoft 客戶合約條款。 如需有關合作夥伴如何達成此目的的詳細資訊，請參閱[確認客戶接受 Microsoft 客戶合約](https://docs.microsoft.com/partner-center/confirm-customer-agreement)。 其他資源可於[資源庫](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)中取得。
+合作夥伴必須確認客戶已檢閱並接受 Microsoft 客戶合約條款。 如需有關合作夥伴如何達成此目的的詳細資訊，請參閱[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)。 其他資源可於[資源庫](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)中取得。
 
 **若要確認，您可以**： 
 
@@ -75,9 +75,9 @@ Azure CSP 中的新商務體驗目前已排程於 139 個國家/地區提供。 
 Azure Reservations 必須關聯至有效的 Azure 方案。 從 [客戶訂用帳戶] 清單中，選擇您想要在其中新增 Azure Reservations 的 Azure 方案。 
 
 >[!Important] 
->如果客戶還沒有作用中的 Azure 方案，請選取 [Azure] 立即新增一個方案。 如需進一步的指示，請參閱[購買 Azure Reservations](https://docs.microsoft.com/partner-center/azure-reservations-buying#purchase-azure-reservations)。
+>如果客戶還沒有作用中的 Azure 方案，請選取 [Azure] 立即新增一個方案。 如需進一步的指示，請參閱[購買 Azure Reservations](azure-reservations-buying.md#purchase-azure-reservations)。
 
->[!Note] 
+>[!Note]
 >保留的範圍目前在合作夥伴中心內只能設定為**共用**。 若要選取單一訂用帳戶範圍或從共用範圍更新至單一訂用帳戶範圍，請按照下列指示移至 **Microsoft Azure 管理入口網站**。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共用範圍保留設定":::

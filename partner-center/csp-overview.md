@@ -5,16 +5,16 @@ ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入了解雲端解決方案提供者計畫的優點和不同模型，以協助您的企業透過新的客戶和新的專長持續成長。
-author: LauraBrenner
-ms.author: labrenne
+author: billlinzbach
+ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 152283c6996021ab3944cecd89d808ee70b2d250
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7be23ecd37aadcccdb29606573b8bb46ae607539
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434907"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114323"
 ---
 # <a name="cloud-solution-provider-program-benefits-and-different-models"></a>雲端解決方案提供者方案的優點和不同模型
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 22cdcb48df263323ac2862ced3a0f06eff2b0570
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 88b3a71bb63ac7ac3287712944a2a4663928a165
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434747"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943505"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>取得管理客戶服務或訂閱的權限
 
@@ -106,7 +106,7 @@ ms.locfileid: "86434747"
 
 - 您無法管理客戶透過商務用 Microsoft Store 或 Microsoft Intune 入口網站上傳的裝置。
 
-如需 Autopilot 的詳細資訊，請參閱[透過 Windows Autopilot 簡化裝置設定](https://docs.microsoft.com/partner-center/autopilot)。
+如需 Autopilot 的詳細資訊，請參閱[透過 Windows Autopilot 簡化裝置設定](autopilot.md)。
 
 >[!IMPORTANT]  
 >目前合作夥伴中心的 Autopilot 管理體驗可能仍會改變。 在本文發表的同時，下列改變已納入考量：

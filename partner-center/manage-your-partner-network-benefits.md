@@ -5,16 +5,16 @@ ms.date: 06/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作夥伴網路 (MPN)，並使用合作夥伴中心來管理可協助拓展您業務的會員資格權益和優惠。
-author: LauraBrenner
-ms.author: labrenne
+author: arpithakanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f13dcd911da248b1674f2ded9c596f85857541a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cb44a8c32476995275535e1252e2bc9ae2c618d1
+ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434347"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87120006"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作夥伴中心管理您的 Microsoft 合作夥伴網路會員資格權益和優惠
 
@@ -43,7 +43,7 @@ ms.locfileid: "86434347"
 
 權益套件包括配置授權軟體、雲端服務、Visual Studio 訂閱和支援。 權益套件也可以包括特定的進入市場資源、供應項目和方案。 您可以在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/internal-use-software)網站找到行動套件訂閱的詳細資料。  
 
-若要檢視和管理您的所有會員資格權益，請前往您的 [[權益] 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits) (需要登入)。 或者，您可以登入合作夥伴中心[儀表板](https://docs.microsoft.com/partner-center/)，從左側功能表中選取 [權益選項]，然後選取所顯示的任何權益選項。  
+若要檢視和管理您的所有會員資格權益，請前往您的 [[權益] 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits) (需要登入)。 或者，您可以登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)，從左側功能表中選取 [權益選項]，然後選取所顯示的任何權益選項。  
 
 ## <a name="manage-software-benefits"></a>管理軟體權益
 

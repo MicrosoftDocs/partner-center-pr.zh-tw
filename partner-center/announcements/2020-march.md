@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: cf651921412afac599fc186bf54e87be5783b0bb
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: 5cbaaa63ce4e28f57e8f50bff8ee13f013080526
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286616"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943975"
 ---
 # <a name="march-2020-announcements"></a>2020 年 3 月公告
 
@@ -102,14 +102,14 @@ Microsoft 已於 2018 年 8 月 31 日，在雲端解決方案提供者 (CSP) �
 
 我們推出了新功能，可將客戶的雲端解決方案提供者訂用帳戶從直接計費租用戶移轉到間接提供者租用戶。 這項新功能會簡化從直接計費合作夥伴轉換到間接轉銷商的流程，促進計畫中的企業加速成長。
 
-如需詳細資訊，請參閱[雲端解決方案提供者供應項目](https://docs.microsoft.com/partner-center/csp-offers)頁面。
+如需詳細資訊，請參閱[雲端解決方案提供者供應項目](../csp-offers.md)頁面。
 
 >[!NOTE] 
->僅支援移轉授權型訂用帳戶和 Azure 訂用帳戶。 您必須手動移轉 Azure 方案和商業市集購買項目。 請注意，這牽涉到取消和續訂下列文件中所述的訂用帳戶：[Azure 方案](https://docs.microsoft.com/partner-center/azure-plan-lp)和[商業市集](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-manage)。 由於伺服器訂閱和 Azure 保留是買斷型購買，因此不需要將這些項目移轉到間接提供者租用戶。 如需詳細資訊，請瀏覽雲端解決方案提供者供應項目頁面。
+>僅支援移轉授權型訂用帳戶和 Azure 訂用帳戶。 您必須手動移轉 Azure 方案和商業市集購買項目。 請注意，這牽涉到取消和續訂下列文件中所述的訂用帳戶：[Azure 方案](../azure-plan-lp.md)和[商業市集](../csp-commercial-marketplace-manage.md)。 由於伺服器訂閱和 Azure 保留是買斷型購買，因此不需要將這些項目移轉到間接提供者租用戶。 如需詳細資訊，請瀏覽雲端解決方案提供者供應項目頁面。
 
 ### <a name="additional-resources"></a>其他資源：
 
-- [從雲端解決方案提供者 (CSP) 直接計費合作夥伴轉換到雲端解決方案提供者間接轉銷商](https://docs.microsoft.com/partner-center/transition-direct-to-indirect#move-your-direct-bill-customers-to-your-indirect-provider) (機器翻譯) 說明文章
+- [從雲端解決方案提供者 (CSP) 直接計費合作夥伴轉換到雲端解決方案提供者間接轉銷商](../transition-direct-to-indirect.md#move-your-direct-bill-customers-to-your-indirect-provider) (機器翻譯) 說明文章
 - [從直接計費轉換到間接轉銷商投影片組](https://assetsprod.microsoft.com/mpn/direct-bill-transition-to-indirect-reseller-new-capability)
 
 ### <a name="next-steps"></a>後續步驟

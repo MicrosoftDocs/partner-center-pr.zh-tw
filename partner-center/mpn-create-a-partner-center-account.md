@@ -5,16 +5,16 @@ ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 合作夥伴網路成員如何建立合作夥伴中心帳戶，來管理他們的網路權益和專長認證。
-author: LauraBrenner
-ms.author: labrenne
+author: ParthP
+ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb703eac9e609badbc71f53bb9561a363f3a76f8
-ms.sourcegitcommit: 8b7ef46a88aa5eb52ceefadfc5b0a06c3702d123
+ms.openlocfilehash: 927cfcaf87b01dc31d899e2509f441462f1d295a
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "84603817"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114719"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>建立合作夥伴中心帳戶，以管理網路權益和專長認證
 

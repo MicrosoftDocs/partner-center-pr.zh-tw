@@ -5,16 +5,16 @@ ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 從 Partner Membership Center 移至合作夥伴中心之前，請先檢閱有用的資訊和常見問題集。
-author: LauraBrenner
-ms.author: labrenne
+author: parthpandyamsft
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9085a4faaea4ac028633eb669212af5afbcb3d4
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749163"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114571"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備從 Partner Membership Center (PMC) 移至合作夥伴中心
 
@@ -55,7 +55,7 @@ Azure 工作帳戶是您公司在 Azure 公用雲端的專用且隔離的虛擬�
 
 **我的使用者角色從 PMC 移至合作夥伴中心後，將會如何？**
 
-除了 MPN 全域管理員或執行移轉的主要計畫連絡人以外，PMC 中的所有使用者都將失去其管理員角色。 完成移轉的人員將必須在合作夥伴中心指派角色。 合作夥伴中心的角色與 PMC 中的角色並不相同。 請參閱 [指派使用者角色和權限] (permissions-overview.md) 和[從 PMC 移至合作夥伴中心](https://docs.microsoft.com/partner-center/move-pmc-pc-map#user-roles)，以深入了解合作夥伴中心的使用者角色。
+除了 MPN 全域管理員或執行移轉的主要計畫連絡人以外，PMC 中的所有使用者都將失去其管理員角色。 完成移轉的人員將必須在合作夥伴中心指派角色。 合作夥伴中心的角色與 PMC 中的角色並不相同。 請參閱 [指派使用者角色和權限] (permissions-overview.md) 和[從 PMC 移至合作夥伴中心](move-pmc-pc-map.md#user-roles)，以深入了解合作夥伴中心的使用者角色。
 
 
 **我的公司設定檔與商務設定檔之間有何差異？**

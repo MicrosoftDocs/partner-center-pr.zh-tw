@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: ebff4f924224c02f5c622b5f87849e36c96f6ab7
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749129"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944445"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -48,7 +48,7 @@ Microsoft 將於 2020 年 5 月 4 日推出 Office 365 E1 與 Microsoft 365 商�
 
 這些促銷將取代目前的 Office 365 E1 試用供應項目，相異之處如下所示：
 
-- 合作夥伴將利用前 6 個月享有 100% 折扣的雲端解決方案提供者促銷 (而不是唯一的 6 個月試用 SKU)，來交易年度 Office 365 E1 或 Microsoft 365 商務基本版 SKU。 [深入了解雲端解決方案提供者促銷](https://docs.microsoft.com/partner-center/promotions)。
+- 合作夥伴將利用前 6 個月享有 100% 折扣的雲端解決方案提供者促銷 (而不是唯一的 6 個月試用 SKU)，來交易年度 Office 365 E1 或 Microsoft 365 商務基本版 SKU。 [深入了解雲端解決方案提供者促銷](../promotions.md)。
 - 我們會從技術上限制「只有新客戶」能夠進行訂購，而不是像 Office 365 E1 試用，僅透過書面原則限制只有新客戶可以使用。 [請參閱 Microsoft 合作夥伴常見問題集以深入了解](https://aka.ms/CSPCOVIDPromo)。
 - 對於 SMB 客戶，Microsoft 365 商務基本版將包含在此促銷活動中。 這可確保合作夥伴能使用 Microsoft 365 商務版，讓客戶在正確的產品系列中從少於 300 個基座開始。
 目前已獲授權使用 Office 365 E1 試用的客戶 (可於 2020 年 5 月 4 日之前取得) 將保留目前使用的方案，這項變更只會影響全新客戶。
@@ -106,7 +106,7 @@ Azure 保留是以折扣價購買 Azure 服務的絕佳方式。 藉由這項新
 ### <a name="next-steps"></a>接下來的步驟
 
 1. 使用這項新功能，開始協助您的客戶購買自己的 Azure 保留。
-2. [檢閱此集合所提供的資源](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)，其所含的詳細資訊包括[技術文件](https://docs.microsoft.com/partner-center/give-customers-permission)、合作夥伴體驗逐步解說及客戶體驗逐步解說。
+2. [檢閱此集合所提供的資源](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)，其所含的詳細資訊包括[技術文件](../give-customers-permission.md)、合作夥伴體驗逐步解說及客戶體驗逐步解說。
 
 _________________
 
@@ -168,7 +168,7 @@ _________________
 
 我們最近已順利完成為所有合作夥伴租用戶啟用代理管理 (Admin-On-Behalf-Of，AOBO) 功能的安全性保護，以保護其企業與客戶免於身分盜用的相關事件。
 
-為了進一步協助保護合作夥伴與客戶，**自 2020 年 5 月 1 日起，我們將開始為雲端解決方案提供者中的合作夥伴中心交易啟用保護**。 啟用額外的安全性保護，表示合作夥伴必須使用多重要素驗證 (MFA)，來處理雲端解決方案提供者中透過合作夥伴中心使用者體驗或 API 的任何交易，以避免未經授權的存取，並保護其客戶與租用戶免於身分盜用的相關安全性事件。 如需詳細資訊，請參閱[此處](https://docs.microsoft.com/partner-center/partner-security-requirements-mandating-mfa)。
+為了進一步協助保護合作夥伴與客戶，**自 2020 年 5 月 1 日起，我們將開始為雲端解決方案提供者中的合作夥伴中心交易啟用保護**。 啟用額外的安全性保護，表示合作夥伴必須使用多重要素驗證 (MFA)，來處理雲端解決方案提供者中透過合作夥伴中心使用者體驗或 API 的任何交易，以避免未經授權的存取，並保護其客戶與租用戶免於身分盜用的相關安全性事件。 如需詳細資訊，請參閱[此處](../partner-security-requirements-mandating-mfa.md)。
 
 ### <a name="next-steps"></a>接下來的步驟
 
@@ -181,9 +181,9 @@ _________________
 
 請檢閱下列資源，以協助您實作安全性需求。
 
-- 請查看[逐步指南](https://docs.microsoft.com/partner-center/partner-security-requirements)以實作合作夥伴安全性需求。
-- 請參閱[常見問題集](https://docs.microsoft.com/partner-center/partner-security-requirements-faq)，以及合作夥伴安全性需求相關問題的回答。
-- 請檢視[安全性需求狀態檢查指南](https://docs.microsoft.com/partner-center/partner-security-compliance)。
+- 請查看[逐步指南](../partner-security-requirements.md)以實作合作夥伴安全性需求。
+- 請參閱[常見問題集](../partner-security-requirements-faq.md)，以及合作夥伴安全性需求相關問題的回答。
+- 請檢視[安全性需求狀態檢查指南](../partner-security-compliance.md)。
 - 請存取[實作合作夥伴安全性需求](https://partner.microsoft.com/resources/collection/partner-security-requirements#/) (英文) 集合的其他資源。
 - 請將[合作夥伴中心安全性指導社群團體](https://aka.ms/MPCSecurityGuidance) (英文) 加入書籤。
 
@@ -192,7 +192,7 @@ _________________
 感謝您的合作，也感謝您為保障生態系統的運行得以信賴，所付出的一切努力。
 
 >[!NOTE] 
->如果您使用基準原則，但尚未轉換成安全性預設原則或[其他 MFA 實作選項](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)，請參考[此處的重要資源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)儘快進行轉換。
+>如果您使用基準原則，但尚未轉換成安全性預設原則或[其他 MFA 實作選項](..\partner-security-requirements.md#actions-that-you-need-to-take)，請參考[此處的重要資源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)儘快進行轉換。
 
 ### <a name="change-log"></a>變更記錄
 
