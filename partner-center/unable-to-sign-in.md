@@ -9,14 +9,18 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 76c16d7f40bac4a01f90df3dfe289cf92f588462
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: af06cd5da4ea5a38ea272a2210bca9917bbecdd9
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436507"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365744"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>如果您無法登入合作夥伴中心，而需要重設密碼
+
+**適當的角色**
+
+- 合作夥伴中心使用者
 
 如果您忘記密碼，而且無法登入合作夥伴中心，必須致電支援服務尋求協助。 您可以在[商務產品支援](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide&tabs=phone#ID0EAADAAA=Phone_support_)中找到適當的電話號碼。 
 
@@ -24,7 +28,7 @@ ms.locfileid: "86436507"
 
 在您的工作帳戶密碼重設之後，您將能夠存取合作夥伴中心。 
 
-## <a name="see-more"></a>查看更多
+## <a name="next-steps"></a>後續步驟
 
 - [確認您的帳戶資訊](verification-responses.md)
 - [重設我的密碼](reset-my-pasword.md)

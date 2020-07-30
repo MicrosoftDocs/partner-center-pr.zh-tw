@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07d9f4f484a7c7803d5b7a41d1d8fe0f698b58d3
-ms.sourcegitcommit: 13b0e1358dc306f896190088d31a0d883644850f
+ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86219646"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365734"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>還原暫時停權的合作夥伴中心帳戶 - 了解發生原因及處理方式
 
@@ -24,6 +24,10 @@ ms.locfileid: "86219646"
 
 -  合作夥伴中心
 -  Microsoft Cloud for US Government 適用的合作夥伴中心
+
+**適當的角色**
+
+- 全域系統管理員
 
 
 > [!IMPORTANT]  
@@ -35,7 +39,7 @@ Microsoft 會基於下列其中一個原因而暫時停用合作夥伴中心帳�
 
 - 目前的帳單金額已逾期超過 60 天 
 - 偵測到嚴重的帳戶濫用
-- 當問題影響間接提供者作業，且對您的帳戶造成負面影響時 (僅限間接轉銷商) 
+- 當問題影響間接提供者作業並對您的帳戶產生負面影響時（僅限間接轉銷商）
 - 當您的帳戶設定檔處於 [失敗] 或 [已拒絕] 狀態時
 
 ## <a name="what-to-do-if-your-account-is-suspended"></a>帳戶遭到暫時停權的處理方式

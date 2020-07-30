@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38c36ab0cf33cd8217f0a745e7a9e47376990105
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 73ace89b24dba143f410e879e9012a0f0f60e3c6
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943815"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365724"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>當您註冊新的合作夥伴中心方案時，請確認您的帳戶資訊
 
-當您在合作夥伴中心註冊新程式時，Microsoft 會驗證您提供的帳戶註冊資訊，例如公司名稱、公司地址，以及主要連絡人詳細資料。 在此過程中，Microsoft 可能會傳送電子郵件給您的主要連絡人，以通知他們狀態相關資訊並要求其他驗證文件。
+**適當的角色**
+
+- 全域系統管理員
+- MPN 帳戶管理員
+
+當您在合作夥伴中心註冊新程式時，Microsoft 會驗證您所提供的帳戶註冊資訊，例如您的公司名稱、公司位址，以及主要連絡人詳細資料。 在此過程中，Microsoft 可能會傳送電子郵件給您的主要連絡人，以通知他們狀態相關資訊並要求其他驗證文件。
 
 >[!NOTE]
 >為確保您收到電子郵件，請務必將 Microsoft.com 的電子郵件標示為「安全」網域，並檢查垃圾郵件資料夾。

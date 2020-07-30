@@ -8,13 +8,13 @@ ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
-ms.date: 07/10/2020
-ms.openlocfilehash: 688208dc94b2be7c641065bbc262241a488d9152
-ms.sourcegitcommit: 51b8acee427a8130d20b4a82d1ac107f962a51db
+ms.date: 07/29/2020
+ms.openlocfilehash: 2ffb35ecb0b0b92b1adfbd11172b14776a5a27d3
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "86237968"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412434"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>瞭解如何將客戶的 Azure 訂用帳戶轉移給另一個合作夥伴
 
@@ -24,7 +24,7 @@ ms.locfileid: "86237968"
 - Microsoft 全球雲端的合作夥伴中心
 - 雲端解決方案提供者 (CSP) 計畫中的合作夥伴
 
-本文說明客戶可以如何將其 Microsoft Azure 服務從一個雲端解決方案提供者 (CSP) 切換至另一個。
+本文說明客戶可以如何將其 Microsoft Azure 服務從一個雲端解決方案提供者（CSP）切換到另一個。
 
 若要將客戶的 Azure 服務或訂用帳戶切換至不同的夥伴，請遵循下列手動步驟。 合作夥伴和客戶都需要完成這些步驟。
 
@@ -32,7 +32,7 @@ ms.locfileid: "86237968"
 >目前只有直接或間接提供者可以傳送訂閱。
 >您無法變更與 Azure 方案、Office 365、企業行動套件或 Microsoft Dynamics CRM 訂閱相關聯之雲端解決方案提供者訂用帳戶的合作夥伴。
 
-**切換 Azure 訂用帳戶的合作夥伴**
+## <a name="switch-partners-for-azure-subscriptions"></a>切換 Azure 訂用帳戶的合作夥伴
 
 1. 如果要將 Azure 訂閱轉移至新的合作夥伴，客戶必須開始該程序，並以書面方式連絡其目前記錄的合作夥伴。
 
@@ -84,20 +84,27 @@ ms.locfileid: "86237968"
    - 在帳戶上將新合作夥伴新增為經銷商：
 
      ```powershell
-     Add-AzureRMAccount -tenant "CustomerDomainName"
+     Connect-AzAccount -Tenant 'xxxx-xxxx-xxxx-xxxx'
      ```
 
-     尋找 customerDomainName：在 \[合作夥伴中心\] 功能表中，選取 \ **[客戶\]**。 從客戶清單中選取客戶。 在 \[客戶\] 功能表中，選取 **\[帳戶\]**，並使用 **\[網域名稱\]** 的內容。
+     >[!NOTE]
+     > 客戶的**租使用者識別碼**會顯示在 [合作夥伴中心] 中，作為客戶的**Microsoft id**。 若要尋找特定客戶的 Microsoft ID （租使用者識別碼），請登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。 然後從功能表中選取 [**客戶**]。 在清單中找出客戶。 選取向下箭號以展開客戶的清單。 您會看到客戶的*功能變數名稱*和客戶的**Microsoft ID**的相關資訊。 在 PowerShell commandlet 中使用16位數的**MICROSOFT ID** 。
 
    - 在帳戶上檢視角色，包括先前的雲端解決方案提供者合作夥伴：
 
      ```powershell
-     Get-AzureRMRoleAssignment
+     Get-AzRoleAssignment
      ```
 
 7. 移除過時存取權限
 
    - 在 [合作夥伴中心] 功能表中，選取 [**客戶**]。
-   - 展開客戶的列表並選取 **\[檢視訂閱\]**。
-   - 在 [客戶] 功能表中，選取 [**服務管理**]。
+   - 在清單中找出客戶。 選取（按兩下）其 [公司名稱]。 這會開啟 [客戶**訂閱**] 頁面。
+   - 在 [客戶詳細資料] 功能表中，選取 [**服務管理**]。
    - 在 **\[Microsoft Azure\]** 下方，按一下連結以移至 **\[Microsoft Azure 管理入口網站\]**。
+
+## <a name="next-steps"></a>後續步驟
+
+- 下載 [CSP 訂用帳戶移轉表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)。
+- 深入瞭解[多合作夥伴支援](multipartner.md)。
+- 閱讀[多通路支援](multichannel.md)的相關資訊。
