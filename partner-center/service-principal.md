@@ -9,14 +9,22 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d0507b684b213e6da5f48a250e6e61f395fd52a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 7d75c5c7311feaa3ca53139f2abf2702035b1069
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436427"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365754"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>在合作夥伴中心新增 Azure AD 應用程式 (服務主體)
+
+**適用於**
+
+- 合作夥伴中心
+
+**適當的角色**
+
+- 全域系統管理員
 
 在合作夥伴中心的商務 Marketplace 計畫中，您現在可以將 Azure AD 應用程式 (服務主體) 新增為合作夥伴中心帳戶中的使用者。 (先前，您可以在 Cloud Partner 入口網站或 CPP 帳戶中這麼做。 但現在您已移轉至合作夥伴中心，所以 CPP 帳戶為唯讀狀態。)
  
@@ -38,3 +46,7 @@ ms.locfileid: "86436427"
    - **應用程式識別碼 URI**：Azure AD 應用程式的邏輯識別碼，會在向 Azure AD 傳送單一登入要求時顯示。
 
    - **安全性角色**：**管理員** (與 CPP 中的「擁有者」角色相同) 和**開發人員** (與 CPP 中的「參與者」角色相同) 角色適用於合作夥伴中心內的商務 Marketplace 計畫，而且可與此 Azure AD 應用程式相關聯。  
+
+## <a name="next-steps"></a>接下來的步驟
+
+- [合作夥伴中心的商業市場概觀](csp-commercial-marketplace-overview.md)

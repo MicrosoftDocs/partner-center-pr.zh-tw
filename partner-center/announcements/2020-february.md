@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 623e2002687727ab6ec4a2e37a44c89e994aee6c
-ms.sourcegitcommit: 0154eabccdc92d1fbe73734f5514f317b9e9fee0
+ms.openlocfilehash: 478458e57ab31ccad25e99cb977833d2973f30ea
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "84749137"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944435"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月公告
 
@@ -70,7 +70,7 @@ _________________
 
 合作夥伴現在可以邀請新的和現有的客戶直接在已驗證的 Microsoft 入口網站 (Microsoft 365 系統管理中心) 中檢閱及接受 Microsoft 客戶合約。
 
-這項新功能表示向客戶出示 Microsoft 客戶合約時，[合作夥伴現在有兩種選項](https://docs.microsoft.com/partner-center/confirm-customer-agreement)：
+這項新功能表示向客戶出示 Microsoft 客戶合約時，[合作夥伴現在有兩種選項](../confirm-customer-agreement.md)：
 
 - **選項 1：** 合作夥伴向客戶告示新 Microsoft 客戶合約的方式與先前告示 Microsoft Cloud 合約的方式大同小異。 客戶檢閱並接受合約後，合作夥伴必須證明客戶接受 Microsoft 的合約。 我們已更新合作夥伴中心儀表板、合作夥伴中心 API 與 .NET SDK，以支援合作夥伴以此方式確認客戶接受 Microsoft 客戶合約。
 - **選項 2 (新功能)：** 合作夥伴可以邀請客戶在已驗證的 Microsoft 入口網站 (Microsoft 365 系統管理中心) 檢視及簽署合約。 此選項可為合作夥伴簡化合約管理、加快實作並減輕工作負擔，因為客戶只要直接在 Microsoft 365 系統管理中心接受合約，即確認同意條款。
@@ -130,7 +130,7 @@ _________________
 
 供應項目：Microsoft 365 電話系統 - 虛擬使用者試用版供應項目識別碼：`b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
-下面這些供應項目可以取得，但不在供應項目清單矩陣中，請參閱 2020 年 1 月所提供的先前供應項目清單矩陣，以取得供應項目矩陣的詳細資料。
+這些供應項目已可供使用，但不在供應項目清單對照表中。 如需供應項目對照表的詳細資料，請參閱先前 2020 年 1 月的供應項目清單對照表。
 
 供應項目：針對 Dynamics 365 Unified Operations 的 Pro 直接支援供應項目識別碼：`09dc6202-bfbb-44fb-9c87-b12c90084010`
 
@@ -175,7 +175,7 @@ _________________
 
 ### <a name="key-considerations"></a>主要考量
 
-安全性預設原則是其中一個[選項](https://docs.microsoft.com/partner-center/partner-security-requirements#actions-that-you-need-to-take)，合作夥伴可以根據其商務需求，針對安全性需求選擇此選項來執行 MFA。 其提供基本層級的安全性，而且不需額外費用即可啟用。 請參閱[如何使用 Azure AD 和金鑰，為您的組織啟用 MFA ](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)以及以下注意事項：
+安全性預設原則是其中一個[選項](../partner-security-requirements.md#actions-that-you-need-to-take)，合作夥伴可以根據其商務需求，針對安全性需求選擇此選項來執行 MFA。 其提供基本層級的安全性，而且不需額外費用即可啟用。 請參閱[如何使用 Azure AD 和金鑰，為您的組織啟用 MFA ](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)以及以下注意事項：
 
 - 使用[條件式存取](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作夥伴將無法使用安全性預設值。
 - 安全性預設會一次實施所有原則，包括管理員原則所需的 MFA、終端使用者保護原則及服務管理所需的 MFA。
@@ -288,7 +288,7 @@ _________________
 
 - 請參閱[開發人員文件](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)
 - 使用[新的 API](https://docs.microsoft.com/partner/develop/pricing) 實作自動化流程
-- 如有定價相關疑問，請參閱 [Azure 方案定價文件](https://docs.microsoft.com/partner-center/azure-plan-price-list)。
+- 如有定價相關疑問，請參閱 [Azure 方案定價文件](../azure-plan-price-list.md)。
 - [深入了解 Azure 方案和雲端解決方案提供者的新商務體驗](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="change-log"></a>變更記錄
@@ -324,7 +324,7 @@ _________________
 
 ### <a name="additional-resources"></a>其他資源：
 
-- [在合作夥伴中心建立支援要求](https://docs.microsoft.com/partner-center/report-problems-with-partner-center)的詳細資訊。
+- [在合作夥伴中心建立支援要求](../report-problems-with-partner-center.md)的詳細資訊。
 
 ### <a name="change-log"></a>變更記錄
 
@@ -357,8 +357,8 @@ _________________
 
 ### <a name="next-steps"></a>接下來的步驟
 
-- 使用[合作夥伴中心 Web 使用者介面或 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) 確認客戶已接受。
-- 針對現有 Microsoft Cloud 合約使用 API 的合作夥伴，必須使用[更新的 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) 來修訂其現行實作措施。
+- 使用[合作夥伴中心 Web 使用者介面或 API](../confirm-customer-agreement.md) 確認客戶已接受。
+- 針對現有 Microsoft Cloud 合約使用 API 的合作夥伴，必須使用[更新的 API](../confirm-customer-agreement.md) 來修訂其現行實作措施。
 - 訓練您的專員與轉銷商了解[新的合約條款](https://www.microsoft.com/licensing/docs/customeragreement)，以及告示新合約並確認客戶接受合約。
 
 >[!NOTE] 

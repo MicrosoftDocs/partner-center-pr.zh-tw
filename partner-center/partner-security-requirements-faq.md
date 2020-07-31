@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d2656ad80cc66742ee432f3eaecb284da798b1c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434117"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943556"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
 
@@ -40,9 +40,9 @@ Microsoft 合作夥伴合約會要求您對使用者帳戶強制執行多重要�
 
 未遵守這些安全性作法的合作夥伴可能會失去在 CSP 計畫中進行交易，或使用委派系統管理員權限來管理客戶租用戶的能力。
 
-### <a name="does-this-apply-to-all-geographies"></a>這是否適用於所有地理位置？
+### <a name="do-the-security-requirements-apply-to-all-geographies"></a>安全性需求適用於所有地理位置嗎？
 
-是。這適用於所有地理位置。 我們強烈建議所有合作夥伴透過主權雲端 (21Vianet、US Government 和 Germany) 進行交易，並立即採取這些新的安全性需求。 不過，這些合作夥伴不需要符合 8 月 1 日生效的新安全性需求。 Microsoft 未來將針對主權雲端的這些安全性需求強制執行，提供額外的詳細資料。
+是，安全性需求適用於所有地理位置。 我們強烈建議所有合作夥伴透過主權雲端 (21Vianet、US Government 和 Germany) 進行交易，並立即採取這些新的安全性需求。 不過，這些合作夥伴不需要符合 8 月 1 日生效的新安全性需求。 Microsoft 未來將針對主權雲端的這些安全性需求強制執行，提供額外的詳細資料。
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>是否可以要求特別排除某個帳戶？
 
@@ -52,12 +52,12 @@ Microsoft 合作夥伴合約會要求您對使用者帳戶強制執行多重要�
 
 您必須完成下列步驟
 
-- 您必須符合[合作夥伴安全性需求](https://docs.microsoft.com/partner-center/partner-security-requirements)中所述的所有需求
+- 您必須符合[合作夥伴安全性需求](partner-security-requirements.md)中所述的所有需求
 - 您必須確保合作夥伴租用戶中的所有使用者帳戶都已強制執行多重要素驗證。
 
 為了協助識別您可採取動作的主要區域，我們會提供可透過合作夥伴中心取得的[安全性需求狀態](https://partner.microsoft.com/pcv/security/compliance)報告。
 
-如需狀態報告的詳細資訊，請參閱[合作夥伴安全性需求狀態](https://docs.microsoft.com/partner-center/partner-security-compliance)。
+如需狀態報告的詳細資訊，請參閱[合作夥伴安全性需求狀態](partner-security-compliance.md)。
 
 ## <a name="required-actions"></a>必要動作
 
@@ -89,7 +89,7 @@ Microsoft 合作夥伴合約會要求您對使用者帳戶強制執行多重要�
 
     如果您使用的是控制台，則請向廠商洽詢有關採用安全應用程式模型架構的事宜。
 
-    控制台廠商必須以控制台廠商的身分針對合作夥伴中心進行[上線](https://docs.microsoft.com/partner-center/enroll-as-cpv)，並立即開始實作此需求。 請參閱[合作夥伴中心：安全應用程式模型架構](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制台廠商必須接受並管理雲端解決方案提供者合作夥伴的同意 (而非認證)，並清除所有現有雲端解決方案提供者合作夥伴的認證。
+    控制台廠商必須以控制台廠商的身分針對合作夥伴中心進行[上線](enroll-as-cpv.md)，並立即開始實作此需求。 請參閱[合作夥伴中心：安全應用程式模型架構](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制台廠商必須接受並管理雲端解決方案提供者合作夥伴的同意 (而非認證)，並清除所有現有雲端解決方案提供者合作夥伴的認證。
 
 ## <a name="multi-factor-authentication"></a>多重要素驗證
 
@@ -124,9 +124,9 @@ Microsoft 透過實作 Azure AD 安全性預設值免費提供 MFA。 透過此 
 
 直接帳單雲端解決方案提供者合作夥伴必須針對其合作夥伴租用戶中的每個使用者強制執行 MFA。
 
-### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-this"></a>我是間接轉銷商，且僅透過經銷商進行交易。 我仍然需要這麼做嗎？
+### <a name="i-am-an-indirect-reseller-and-only-transact-though-a-distributor-do-i-still-have-to-do-enable-mfa"></a>我是間接轉銷商，且僅透過經銷商進行交易。 我仍然必須啟用 MFA 嗎？
 
-所有間接轉銷商都必須針對其合作夥伴租用戶中的每個使用者強制執行 MFA。 這是間接轉銷商必須執行的動作。
+所有間接轉銷商都必須針對其合作夥伴租用戶中的每個使用者強制執行 MFA。 間接轉銷商必須啟用 MFA。
 
 ### <a name="i-dont-use-the-partner-center-api-do-i-still-need-to-implement-mfa"></a>我沒有使用合作夥伴中心 API。 我是否仍然需要實作 MFA？
 
@@ -152,7 +152,7 @@ Microsoft 已不再針對獨立身分識別提供者提供驗證測試，以確�
 
 否。您不需要針對您客戶 Azure AD 租用戶中的每個使用者強制執行 MFA。 不過，建議您與每個客戶合作，以判斷保護其使用者的最佳方式。
 
-### <a name="can-any-user-be-excluded-from-this-requirement"></a>是否可以將任何使用者排除於此需求之外？
+### <a name="can-any-user-be-excluded-from-the-mfa-requirement"></a>是否可以將任何使用者排除於 MFA 需求之外？
 
 否。您合作夥伴租用戶中的每個使用者 (包括服務帳戶) 都必須使用 MFA 進行驗證。
 
@@ -162,7 +162,7 @@ Microsoft 已不再針對獨立身分識別提供者提供驗證測試，以確�
 
 ### <a name="how-do-i-configure-an-emergency-access-break-glass-account"></a>我如何設定緊急存取 (緊急開關) 帳戶？
 
-一般認為的最佳做法，是建立一或兩個緊急存取帳戶，以因應不小心被封鎖在自己的 Azure AD 租用戶之外的情況。 基於合作夥伴安全性需求，每個使用者都必須使用 MFA 進行驗證。 這代表您必須修改緊急存取帳戶的定義。 它可以是運用協力廠商解決方案來進行 MFA 的帳戶。
+一般認為的最佳做法，是建立一或兩個緊急存取帳戶，以因應不小心被封鎖在自己的 Azure AD 租用戶之外的情況。 基於合作夥伴安全性需求，每個使用者都必須使用 MFA 進行驗證。 此需求代表您必須修改緊急存取帳戶的定義。 它可以是運用協力廠商解決方案來進行 MFA 的帳戶。
 
 ### <a name="is-active-directory-federation-service-adfs-required-if-i-am-using-a-third-party-solution"></a>如果我使用的是第三方解決方案，是否需要 Active Directory 同盟服務 (ADFS)？
 
@@ -203,11 +203,11 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 如果您使用的是控制台，則必須洽詢廠商有關採用安全應用程式模型架構的事宜。
 
-控制台廠商必須以控制台廠商的身分針對合作夥伴中心進行[上線](https://docs.microsoft.com/partner-center/enroll-as-cpv)，並立即開始實作此需求。 請參閱[合作夥伴中心：安全應用程式模型架構](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制台廠商必須接受並管理雲端解決方案提供者合作夥伴的同意 (而非認證)，並清除所有現有雲端解決方案提供者合作夥伴的認證。
+控制台廠商必須以控制台廠商的身分針對合作夥伴中心進行[上線](enroll-as-cpv.md)，並立即開始實作此需求。 請參閱[合作夥伴中心：安全應用程式模型架構](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制台廠商必須接受並管理雲端解決方案提供者合作夥伴的同意 (而非認證)，並清除所有現有雲端解決方案提供者合作夥伴的認證。
 
 ### <a name="does-the-secure-application-model-need-to-be-implemented-for-the-partner-center-apisdk-only"></a>安全應用程式模型是否僅需針對合作夥伴中心 API/SDK 實作？
 
-藉由針對所有使用者帳戶強制執行多重要素驗證，任何想要以非互動方式執行的自動化或整合都會受到影響。 儘管合作夥伴安全性需求需要您針對合作夥伴中心 API 啟用安全應用程式模型，但您可以利用它來解決自動化和整合進行第二個要素驗證的需求。 
+藉由針對所有使用者帳戶強制執行多重要素驗證，任何想要以非互動方式執行的自動化或整合都會受到影響。 儘管合作夥伴安全性需求需要您針對合作夥伴中心 API 啟用安全應用程式模型，但您可以利用它來解決自動化和整合進行第二個要素驗證的需求。
 
 >[!Note] 
 >存取的資源必須支援以存取權杖為基礎的驗證。
@@ -221,7 +221,7 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 ### <a name="what-user-credentials-should-the-application-administrator-provide-when-performing-the-consent-process"></a>應用程式系統管理員在執行同意程序時，應該提供哪些使用者認證？
 
-建議您使用已指派最低權限的服務帳戶。 就合作夥伴中心 API 而言，這表示您應該使用已指派給「銷售代理人」或「系統管理代理人」角色的帳戶。
+建議您使用已指派最低權限的服務帳戶。 就合作夥伴中心 API 而言，您應該使用已指派給「銷售代理人」或「系統管理代理人」角色的帳戶。
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>應用程式系統管理員在執行同意程序時，為何不應該提供全域系統管理使用者認證？
 
@@ -237,17 +237,20 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 ### <a name="i-am-a-cpv-how-do-i-enroll"></a>我是 CPV。 我要如何註冊？
 
-若要註冊為控制台廠商 (CPV)，請遵循[這裡](https://docs.microsoft.com/partner-center/enroll-as-cpv)所提供的指導方針。
+若要註冊為控制台廠商 (CPV)，請遵循[這裡](enroll-as-cpv.md)所提供的指導方針。
 
 CPV 必須連絡 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com)，以接收註冊連結並提供與該 CPV 具有商務關係或了解其業務的 Microsoft 員工贊助者。 例如合作夥伴開發經理 (PDM)。
 
 在您註冊至合作夥伴中心並註冊您的應用程式之後，您將能存取合作夥伴中心 API。 如果您是新的 CPV，您將能透過合作夥伴中心通知接收到您的沙箱資訊。 在您完成 Microsoft CPV 的註冊，並接受 CPV 合約之後，您便可以：
 
-1. 管理多租用戶應用程式 (將應用程式加入 Azure 入口網站、在合作夥伴中心中將應用程式註冊及解除註冊)。 
-     >[!Note] 
-     >CPV 必須在合作夥伴中心註冊其應用程式，以取得合作夥伴中心 API 的授權。 單純將應用程式加入 Azure 入口網站，並無法授權 CPV 應用程式使用合作夥伴中心 API。
-2. 檢視及管理您的 CPV 設定檔。
-3. 檢視及管理您需要存取 CPV 功能的使用者。 CPV 唯一可以擁有的角色是全域管理員角色。
+1. 管理多租用戶應用程式 (將應用程式加入 Azure 入口網站、在合作夥伴中心中將應用程式註冊及解除註冊)。
+
+   >[!Note]
+   >CPV 必須在合作夥伴中心註冊其應用程式，以取得合作夥伴中心 API 的授權。 單純將應用程式加入 Azure 入口網站，並無法授權 CPV 應用程式使用合作夥伴中心 API。
+
+1. 檢視及管理您的 CPV 設定檔。
+
+1. 檢視及管理您需要存取 CPV 功能的使用者。 CPV 只能有全域管理員角色。
 
 ### <a name="i-am-using-the-partner-center-sdk-will-sdk-automatically-adopt-the-secure-application-model"></a>我正在使用合作夥伴中心 SDK。 該 SDK 是否會自動採用安全應用程式模型？
 
@@ -255,7 +258,7 @@ CPV 必須連絡 [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com)，以接�
 
 ### <a name="can-i-generate-a-refresh-token-for-the-secure-application-model-with-accounts-that-dont-have-mfa-enabled"></a>我是否可以搭配未啟用 MFA 的帳戶針對安全應用程式模型產生重新整理權杖？
 
-是。可以使用未強制執行 MFA 的帳戶產生重新整理權杖。 不過您不應該這麼做，因為基於 MFA 需求的因素，使用未啟用 MFA 的帳戶產生的所有權杖都會無法存取資源。
+是。可以使用未強制執行 MFA 的帳戶產生重新整理權杖。 不過，應該避免這種情況。 因為基於 MFA 需求的因素，使用未啟用 MFA 的帳戶產生的所有權杖都會無法存取資源。
 
 ### <a name="how-should-my-application-obtain-an-access-token-if-we-enable-mfa"></a>在啟用 MFA 的情況下，我的應用程式要如何取得存取權杖？
 
@@ -315,7 +318,7 @@ Azure Active Directory (Azure AD) [「基準」原則將會遭到移除，並取
 
 ### <a name="how-to-get-started"></a>如何開始使用
 
-- [合作夥伴安全性需求：逐步指南](https://docs.microsoft.com/partner-center/partner-security-requirements)。
+- [合作夥伴安全性需求：逐步指南](partner-security-requirements.md)。
 - 將您的問題和意見反應移至此[合作夥伴中心安全性指引群組](https://aka.ms/MPCSecurityGuidance) \(英文\)。
 - 參與近期的合作夥伴辦公時間和網路研討會。 請查看[這裡的詳細排程和資源](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) \(英文\)。
 
@@ -340,9 +343,8 @@ Azure Active Directory (Azure AD) [「基準」原則將會遭到移除，並取
 
 ### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>當我失去合作夥伴中心的存取權時，如何聯絡支援人員？
 
-前往 [Microsoft 合作夥伴支援](https://partner.microsoft.com/support)，然後選擇 [顯示所有支援選項]。 您會看到可用來聯絡 Microsoft 合作夥伴支援的選項。 其中包括致電支援人員的電話號碼，以及與支援人員交談的選項。 
+前往 [Microsoft 合作夥伴支援](https://partner.microsoft.com/support)，然後選擇 [顯示所有支援選項]。 您會看到聯繫 Microsoft 合作夥伴支援的可用選項，包括與支援服務人員通話的電話號碼，以及與支援人員交談的選項。
 
-### <a name="where-can-i-find-more-information-about-technical-common-issues"></a>我可以在哪裡找到技術性常見問題的詳細資訊？
+### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>我可以在哪裡找到常見技術性問題的詳細資訊？
 
-關於技術性常見問題的相關資訊可在[這裡](https://docs.microsoft.com/partner-center/partner-security-requirements#common-issues)找到。
-
+有關常見技術性問題的資訊，請參閱[合作夥伴使用合作夥伴中心或合作夥伴中心 API 時的安全性需求](partner-security-requirements.md)

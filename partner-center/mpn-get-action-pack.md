@@ -5,16 +5,16 @@ ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何購買 Microsoft 行動套件訂用帳戶，並開始使用行動套件的權益。 同時了解如何更新、取消、檢視您的帳單等等。
-author: LauraBrenner
-ms.author: labrenne
+author: ArpithaKanuganti
+ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45abf47801dce26e14880afe91b3f104ee9822ec
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
+ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436797"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "87114683"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>購買或續約 Microsoft 行動套件優惠，或者銀級或金級專長認證
 
@@ -32,7 +32,7 @@ ms.locfileid: "86436797"
 - 系統管理代理人
 - 銷售代理人
 
-現在，從合作夥伴中心[儀表板](https://docs.microsoft.com/partner-center/)中，Microsoft 合作夥伴網路 (MPN) 的成員可以購買或續約您的權益優惠。 這類優惠包括 Microsoft 行動套件訂閱，以及銀級和金級專長認證。
+現在，從合作夥伴中心[儀表板]()中，Microsoft 合作夥伴網路 (MPN.md) 的成員可以購買或續約您的權益優惠。 這類優惠包括 Microsoft 行動套件訂閱，以及銀級和金級專長認證。
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>首次購買 Microsoft 行動套件
 

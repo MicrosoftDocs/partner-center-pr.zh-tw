@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 1de1cebbf42eb03e375af2210bbae2d2ed55e5d8
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286606"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86944005"
 ---
 # <a name="january-2020-announcements"></a>2020 年 1 月公告
 
@@ -53,7 +53,7 @@ _________________
 ### <a name="additional-resources"></a>其他資源
 
 - 合作夥伴資源庫頁面上的雲端解決方案提供者計畫資源：[俄羅斯雲端解決方案提供者合作夥伴可使用 Windows Server 和 SQL Server 訂用帳戶](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)
-- [深入了解合作夥伴中心](https://docs.microsoft.com/partner-center/azure-plan-get-started)
+- [深入了解合作夥伴中心](../azure-plan-get-started.md)
 
 ### <a name="next-steps"></a>接下來的步驟
 
@@ -102,7 +102,7 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 
 ### <a name="next-steps"></a>接下來的步驟
 
-請參閱價目表，並與貴組織內的所有適當連絡人 (特別是您的銷售小組) 分享這項資訊。
+請參閱價目表，並與您組織內的所有適當連絡人 (特別是您的銷售小組) 分享這項資訊。
 
 ### <a name="questions"></a>有任何問題嗎？
 
@@ -136,18 +136,18 @@ _________________
 更新：我們在過去一週收到了許多關於 Power Platform 自助式購買功能推出的意見反應。 在此感謝提供意見反應的所有人！ 我們已根據各位的意見反應調整了推出方式，以更妥善滿足組織內 IT 系統管理員和終端使用者的需求。 我們將對方案進行以下變更：
 
 - 自 11 月 19 日起，IT 系統管理員將可透過 PowerShell 關閉每項產品的自助式購買功能。 我們之後將提供更多詳細資料。
-- 為了讓您有更多時間針對這項變更做好準備，我們將更新為從 1 月 14 日的 Power BI 開始，向所有商業雲端客戶推出 Power Platform 產品的自助式購買功能。 我們之後將提供更多有關 PowerApps 和 Power Automate 的詳細資料。
+- 為了讓您有更多時間針對這項變更做好準備，我們將更新為從 1 月 14 日的 Power BI 開始，向所有商業雲端客戶推出 Power Platform 產品的自助式購買功能。 我們之後將提供更多有關 Power Apps 和 Power Automate 的詳細資料。
 
 再次感謝您撥冗提供意見反應。 我們期待與您繼續合作，以協助組織達成更多目標。
 
 在全球數位轉型的發展過程中，有愈來愈多的終端使用者和營業單位自行逐一採用和購買軟體即服務解決方案。 我們將推出自助式購買功能，讓使用者能夠購買一到多個授權，為部門、小組或整個企業提供更大的彈性和自由，以建置自己的解決方案。
 
-我們將分段推出到 Microsoft Power Platform 產品 (Power BI、PowerApps、Power Automate)：
+我們將分段推出 Microsoft Power Platform 產品 (Power BI、Power Apps、Power Automate)：
 
 - 從 **1 月 14 日的 Power BI** 開始推出自助式購買功能。
 - 一開始會推出給美國客戶，再擴充到其他地區。
 - 這項功能目前無法供政府、非營利組織或教育客戶使用。
-- 我們將盡快提供有關 PowerApps 和 Power Automate 的詳細資料。
+- 我們將盡快提供有關 Power Apps 和 Power Automate 的詳細資料。
 
 合作夥伴可以利用自助式購買功能，建置跨越 Azure 和 Power Platform 的解決方案。 具有系統管理存取權的合作夥伴將會在 Microsoft 365 系統管理中心看到個別的 Power Platform 購買，並可將其視為雲端解決方案的銷售潛在客戶。 例如，合作夥伴若看到工作群組採用 Power BI，即有機會建置和銷售從 Azure SQL 資料庫或其他商務應用程式提取資料的精密 Power BI 儀表板。 當組織內透過自助式購買功能大量採用時，合作夥伴也可以將廣大的 Power Platform 涵蓋範圍銷售給中央 IT 部門。
 
@@ -190,7 +190,7 @@ _________________
 ### <a name="additional-resources"></a>其他資源
 
 - 若要了解涵蓋存取權、導覽、報告概觀與使用方式、如何留下意見反應等所有見解資源，請前往這裡：[宣布在合作夥伴中心推出新的報告儀表板 (搶鮮版 (Beta))](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)
-- 有任何問題嗎？ 請連絡[合作夥伴支援服務](https://partner.microsoft.com/support)。
+- 有任何問題嗎？ [連絡合作夥伴支援服務](https://partner.microsoft.com/support)。
 
 ### <a name="change-log"></a>變更記錄
 
@@ -229,7 +229,7 @@ Microsoft 客戶合約是簡化的購買合約，不論客戶選擇何種購買�
 
 - 在 2020 年 1 月 31 日前確認新 Microsoft 客戶合約的接受。
 - 訓練您的專員與轉銷商了解新的合約條款，以及推廣新合約並確認客戶接受合約。 間接提供者必須與間接轉銷商合作，以確認客戶確實接受。
-- 使用 API 的直接計費與間接提供者必須使用[更新的 API](https://docs.microsoft.com/partner-center/confirm-customer-agreement) 更新現有的實作，以配合新的 Microsoft 客戶合約。
+- 使用 API 的直接計費與間接提供者必須使用[更新的 API](../confirm-customer-agreement.md) 更新現有的實作，以配合新的 Microsoft 客戶合約。
 - 直接計費和間接提供者也可以使用合作夥伴中心 Web UI 來確認客戶確實接受。
 
 ### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>合作夥伴可以檢視 [[雲端解決方案提供者資源庫] 頁面](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)上提供的內容，包括：
@@ -389,7 +389,7 @@ Microsoft 將會在 2020 年 2 月 1 日變更某些產品系列和供應項目�
 
 ### <a name="questions"></a>有任何問題嗎？
 
-- 如果您有與使用 Microsoft 作業嚴格相關的問題，請[尋求支援](https://partner.microsoft.com/pcv/servicerequests/create)。
+- 如果您有與使用 Microsoft 作業密切相關的問題，請[連絡支援服務](https://partner.microsoft.com/pcv/servicerequests/create)。
 
 ### <a name="change-log"></a>變更記錄
 

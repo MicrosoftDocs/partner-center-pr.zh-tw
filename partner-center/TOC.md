@@ -15,6 +15,7 @@
 ### [從多家公司移到合作夥伴中心指南](move-multiple-companies.md)
 ### [合併您的公司](consolidate-accounts.md)
 
+
 ## 會員供應項目
 ### [行動寶盒](mpn-get-action-pack.md)
 ### [續訂您的供應項目方案](renew-mpn-offers.md)
@@ -65,6 +66,7 @@
 ## [確認網域的擁有權](become-global-admin.md)
 ## [確認您的帳戶資訊](verification-responses.md)
 ## [將您的合作夥伴帳戶與另一個夥伴帳戶合併](merge-accounts.md)
+## [將其他 Azure AD 租用戶與合作夥伴中心帳戶產生關聯](multi-tenant-account.md)
 ## [更新您的合作夥伴設定檔](update-your-partner-profile.md)
 ## [位置](manage-locations.md)
 ## [註冊為控制台廠商](enroll-as-cpv.md)
@@ -100,6 +102,7 @@
 ### 開始使用獎勵
 #### [判斷您的計畫資格](incentives-determined-your-program-eligibility.md)
 #### [在合作夥伴中心建立及管理支出與稅務設定檔](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+#### [獎勵支出和稅務設定檔常見問題集](incentives-payout-tax-profile-faqs.md)
 #### [確認您的收益資格](incentives-confirm-your-earnings-eligibility.md)
 #### [查看您的獎勵付款和計畫](understand-incentive-payouts.md)
 #### [存取您的獎勵支出頁面](incentives-unified-user-guide.md)
@@ -132,6 +135,9 @@
 ### [帳單發票 - 讀取帳單和一次性費用欄位](invoice-file.md)
 ### [授權型帳單](license-based-billing.md)
 ### [授權型 SaaS 訂用帳戶的案例](common-billing-scenarios-saas.md)
+
+## [檢視數位簽章 - 印度合作夥伴中心](digital-signature.md)
+
 ## [稅金與免稅](tax-and-tax-exemptions.md)
 ### [公司 VAT 資訊](organization-tax-info.md)
 ### [請確認已計入扣繳稅](withholding-tax-credit-form.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7db336b8d954c738d2d9d7bf9acd9ec744206a72
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
+ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949854"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "87330115"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,7 +22,9 @@ ms.locfileid: "86949854"
 
 | **類別** | **2020 年 7 月公告** | **公告** |
 |---------|:---------|:---------|
-|功能|[適用於合格 Microsoft 商業市集供應項目的雲端解決方案提供者 (CSP) 獎勵在 FY21 獲得提升](2020-July.md#7)|7 月 22 日|
+|功能|[合作夥伴中心 API 的變更](2020-july.md#9)|7 月 28 日|
+|功能|[.NET Standard v1.16.1-preview 上的 SDK 版本](2020-july.md#8)|7 月 21 日|
+|功能|[適用於合格 Microsoft 商業市集供應項目的雲端解決方案提供者 (CSP) 獎勵在 FY21 獲得提升](2020-july.md#7)|7 月 22 日|
 |功能|[在合作夥伴中心的深入見解報告中新增功能](2020-july.md#6)|7 月 16 日|
 |供應項目/市場|[雲端解決方案提供者計畫中的永久軟體](2020-july.md#5)|7 月 15 日|
 | 供應項目/市場 | [適用於 Teams 的全新 Microsoft 365 企業版語音 SKU](2020-july.md#4) | 7 月 3 日 |

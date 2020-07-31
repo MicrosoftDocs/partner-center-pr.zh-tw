@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8c42916c253d1ff2497f47c11c640f2805fc0a86
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: db2dc98d3f40dbb29bd00111d8787a4a8cb0e082
+ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436737"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "86943615"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作夥伴所獲得信用點數如何計算及付費
 
@@ -48,15 +48,17 @@ ms.locfileid: "86436737"
 
 ## <a name="azure-cost-management"></a>Azure 成本管理
 
- 使用成本分析的 Azure 成本管理 (ACM) 可讓您成為合作夥伴，查看已獲得 PEC 優勢的成本。  
+使用成本分析的 Azure 成本管理 (ACM) 可讓您成為合作夥伴，查看已獲得 PEC 優勢的成本。  
 
-1. 在 Azure 入口網站中，登入您的合作夥伴租用戶，然後選取 [成本管理 + 帳單]。
-2.  選取 [Azure 成本管理]
-3.  選取 [成本分析]
+1. 在 [Azure 入口網站](https://portal.azure.com)中，登入您的合作夥伴租用戶，然後選取 [成本管理 + 帳單]。
 
-[成本分析] 視圖會顯示您計費帳戶的成本，適用於以您支付 Microsoft 的價格所購買及使用的所有服務。
+2. 選取 [Azure 成本管理]
 
-4.  在樞紐分析表的下拉式清單中選取 **PartnerEarnedCreditApplied**，以查看已套用 PEC 的成本。 當 **PartnerEarnedCreditApplied** 屬性為 True 時，相關聯的成本就會享有合作夥伴所取得信用額度的權益。 
+3. 選取 [成本分析]
+
+   [成本分析] 視圖會顯示您計費帳戶的成本，適用於以您支付 Microsoft 的價格所購買及使用的所有服務。
+
+4. 在樞紐分析表的下拉式清單中選取 **PartnerEarnedCreditApplied**，以查看已套用 PEC 的成本。 當 **PartnerEarnedCreditApplied** 屬性為 True 時，相關聯的成本就會享有合作夥伴所取得信用額度的權益。 
 
 當 PartnerEarnedCreditApplied 屬性為 False 時，相關聯的成本尚不符合所需的信用額度資格，或所購買的服務不符合合作夥伴所取得的信用額度。
 

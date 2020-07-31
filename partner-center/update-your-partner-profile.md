@@ -9,14 +9,19 @@ ms.topic: conceptual
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64c794fad671cee780c23cb67e1679dff4f00233
-ms.sourcegitcommit: 7f4a292b6f6f24f2d05de7c332bd4b067752683f
+ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/13/2020
-ms.locfileid: "86286576"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365714"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>在合作夥伴中心確認您的合作夥伴設定檔資訊
+
+**適當的角色**
+
+- 全域系統管理員
+- MPN 帳戶管理員
 
 當您第一次以全域管理員身分登入合作夥伴中心時，應該確認所有的公司詳細資料都正確無誤。 包括主要連絡人、法定公司名稱和地址、計畫資訊。 如果您的公司有多個位置，請複查您的位置資料的正確性。 身為全域管理員、帳單管理員或系統管理代理人，您也可以查看並更新您的帳單和稅務資訊。
 
@@ -56,5 +61,7 @@ ms.locfileid: "86286576"
 如果您是全域管理員、帳單管理員或系統管理代理人，您可以在 [帳單設定檔] 中變更出現在發票上的地址。 不過，因為發票系統的限制，您無法變更發票上的公司名稱。
 
  
+## <a name="next-steps"></a>接下來的步驟
 
+- [管理位置](manage-locations.md)
 

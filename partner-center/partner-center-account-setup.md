@@ -9,18 +9,23 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 0fcdd4129eb61ee955ec5804ae16e346a222c45b
-ms.sourcegitcommit: e68e7ab63b6e7807f0aa797680e9b2e0315ecc97
+ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
+ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/11/2020
-ms.locfileid: "86265240"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87365774"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>管理您的合作夥伴中心帳戶 - 公司設定檔、銀行資訊、角色、權限等等
 
 **適用於**
 
 - 合作夥伴中心
+ 
+**適當的角色**
+
+- 全域系統管理員
+- MPN 帳戶管理員
 
 您註冊時在合作夥伴中心建立的帳戶會是您的工作電子郵件加上商務資訊的組合。 在合作夥伴中心建立帳戶之後，您將必須完成設定您公司的完整設定檔，包括支援詳細資料、列報免稅 (若適用) 以及主要連絡資訊。 若有任何人員將會使用合作夥伴中心來新增或管理客戶、銷售訂閱、開立帳單和發票、建立商務設定檔、管理轉介、使用獎勵計畫以及提供支援，貴公司的帳戶也必須納入其使用者帳戶。
 
@@ -94,7 +99,7 @@ ms.locfileid: "86265240"
 
 - [商業市集計畫](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
 - [MPN 計畫](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [雲端解決方案提供者計畫](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
 - [Office 市集](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 若要深入了解如何在合作夥伴中心計畫中註冊，請參閱[合作夥伴網路資源](https://partner.microsoft.com/)。
