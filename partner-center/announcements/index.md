@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 7a15cd7fbf51a54e6190f29c41fd21ef5ed419fd
-ms.sourcegitcommit: 93b7230d5807adc470775ee38d4e139d84980ebb
+ms.openlocfilehash: ff92983f936add17d746c08815149ffb2731cbab
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87330115"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479081"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "87330115"
 
 | **類別** | **2020 年 7 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[對企業語音和音訊會議擴充撥出啟動的變更](2020-july.md#10)|7 月 31 日|
 |功能|[合作夥伴中心 API 的變更](2020-july.md#9)|7 月 28 日|
 |功能|[.NET Standard v1.16.1-preview 上的 SDK 版本](2020-july.md#8)|7 月 21 日|
 |功能|[適用於合格 Microsoft 商業市集供應項目的雲端解決方案提供者 (CSP) 獎勵在 FY21 獲得提升](2020-july.md#7)|7 月 22 日|

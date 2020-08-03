@@ -149,7 +149,6 @@
 
 # [與客戶保持聯繫](customer-accounts.md)
 ## [加入新的客戶](add-a-new-customer.md)
-## [尋找客戶的網域名稱與目錄識別碼](find-customer-domain-name.md)
 ## [要求與客戶建立經銷商關係](request-a-relationship-with-a-customer.md)
 ## [移除與客戶的經銷商關係](remove-a-relationship.md)
 ## [客戶委派或撤銷對合作夥伴的管理權限](customers-revoke-admin-privileges.md) 
@@ -217,9 +216,12 @@
 ### [新增具有 Office 365 試用版供應項目的用戶端](advisors-build-your-business.md)
 ### [建立 Office 365 購買供應項目](advisor-create-a-purchase-offer.md)
 # 合作夥伴中心資料和分析
+
 ## [存取使用者資料和分析](data-analysis-lp.md)
-## [使用適用於 Microsoft Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners.md)
-## [使用適用於 Microsoft Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners.md)
+## 適用於 Power BI 的合作夥伴中心分析應用程式
+### [適用於 Power BI 的合作夥伴中心分析應用程式簡介](power-bi-app-for-direct-partners.md)
+### [安裝適用於 Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners-install.md)
+### [使用適用於 Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners-use.md)
 ## [合作夥伴中心深入解析](partner-center-insights.md)
 ### [深入解析 - 概觀儀表板](pci-overview-report.md)
 ### [深入解析 - 對深入解析儀表板的角色型存取控制](pci-roles.md)
@@ -237,8 +239,6 @@
 ## [分析間接經銷商績效](analyze-indirect-resellers.md)
 ## [分析訂閱與授權](analyze-subscriptions-licenses.md)
 ## [Microsoft Learn 分析](ms-learn-analytics.md)
-## [適用於 Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners-use.md)
-## [安裝和預覽適用於 Microsoft Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners-install.md)
 
 # [與其他合作夥伴合作](work-with-other-partners.md)
 ## [在合作夥伴中心的間接提供者工作](indirect-provider-tasks-in-partner-center.md)
