@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
+ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444771"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87479111"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>瞭解合作夥伴中心對帳檔案中的不同費用類型
 
@@ -52,8 +52,7 @@ ms.locfileid: "87444771"
 | 取消時按比例計算費用 | 取消時未使用的服務部分按比例計算。 |
 | 從目前的供應專案轉換時依比例分配費用 | 從目前每月訂用帳戶轉換為年度訂閱之後，按比例計算費用。 |
 | 轉換成新的供應專案時依比例分配費用 | 將每月訂閱轉換為新年度訂閱之後，按比例計算費用。 |
-| 購買時按比例計算之費用 | 使用年度計費時，訂用帳戶的費用類型。 |
-| 購買費用 | 使用每月計費時，訂用帳戶的費用類型。 |
+| 購買時按比例計算之費用 | 使用每月或年度計費時的訂用帳戶費用類型。 |
 | 續約時按比例計算費用 | 訂閱更新時按比例計算費用。 |
 | 續約費用 | 訂閱續約時的費用 |
 | 啟用時按比例計算費用 | 從啟用到計費週期結束之前按比例計算的費用。 |
