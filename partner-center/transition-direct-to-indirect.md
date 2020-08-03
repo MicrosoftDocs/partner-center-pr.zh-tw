@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1c3c3384516f7ff5d7780ac69ccaf635ab7e39fa
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944495"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444998"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商
 
@@ -277,7 +277,7 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
     :::image type="content" source="images/direct/direct9.png" alt-text="建立傳輸要求":::
 
-8. 按一下 [建立]。
+8. 按一下 [建立]  。
 
 9. 作用中的訂用帳戶轉移要求會顯示在 [訂用帳戶**轉移**] 底下。
 
@@ -333,7 +333,7 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
    1. 如果這是 Azure 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p），則不會再列出。
 
-   2. 如果這是以基座為基礎的訂用帳戶（Office 365、Dynamics、Intune），則會以「已**暫停**」狀態列出。
+   2. 如果這是以授權為基礎的訂用帳戶（Office 365、Dynamics、Intune），則會以 [已**暫停**] 狀態列出。
 
    :::image type="content" source="images/direct/direct13.png" alt-text="訂用帳戶已暫停":::
 
@@ -343,9 +343,9 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 - **相同的訂用帳戶無法由多個傳送要求參考。** 建立包含現有訂用帳戶的轉移要求之後，您將無法建立包含相同訂用帳戶的其他傳輸要求，直到第一次轉移要求取消為止。
 
-- **以基座訂用帳戶為基礎的附加元件，必須連同其基本訂用帳戶一起傳輸。** 建立傳送要求時，如果您挑選具有一或多個附加元件的現有訂用帳戶，此附加元件將會自動包含在傳送要求中。
+- **以授權為基礎之訂用帳戶的附加元件必須連同其基底訂用帳戶一起傳輸。** 建立傳送要求時，如果您挑選具有一或多個附加元件的現有訂用帳戶，此附加元件將會自動包含在傳送要求中。
 
-- **對訂用帳戶的基座計數變更不會反映在現有的傳輸要求中。** 建立包含現有訂用帳戶的傳送要求之後，您應該避免更新訂用帳戶的基座數量（或相關聯的附加元件）。 如果您這樣做，新的數量將不會反映在傳送要求中。 當間接提供者接受傳輸要求之後，結果訂用帳戶將會有舊的數量。 如果您想要將新的數量轉移給間接提供者，您必須取消現有的傳輸要求，然後重新建立一個新的。
+- **訂用帳戶的授權計數變更不會反映在現有的傳輸要求中。** 建立包含現有訂用帳戶的傳送要求之後，您應該避免更新訂用帳戶的授權數量（或相關聯的附加元件）。 如果您這樣做，新的數量將不會反映在傳送要求中。 當間接提供者接受傳輸要求之後，結果訂用帳戶將會有舊的數量。 如果您想要將新的數量轉移給間接提供者，您必須取消現有的傳輸要求，然後重新建立一個新的。
 
 - **並非所有購買都可以使用自助式訂用帳戶傳輸來傳輸。** 目前，您只能使用這項功能來傳送 O365 訂用帳戶和 Azure PAYG 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p）。 不支援其他購買專案，包括 Azure 方案、Azure 保留實例、以詞彙為基礎的訂用帳戶，以及適用于 Azure Marketplace 的 SaaS 訂閱。 您會在 [提交轉移要求] 頁面中看到無法轉移訂用帳戶的原因。 若要傳送這些訂用帳戶，您必須[取消現有的訂](create-a-new-subscription.md#suspend-or-cancel-a-subscription)用帳戶，並透過間接提供者購買客戶的新供應專案。
 

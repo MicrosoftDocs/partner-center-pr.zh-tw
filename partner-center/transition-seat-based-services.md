@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a76c433f79b6c060c284e8a058c50f50a6b9628c
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377222"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444563"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>將以授權為基礎的客戶從其他管道 & 合作夥伴移至雲端解決方案提供者方案
 
@@ -28,7 +28,7 @@ ms.locfileid: "86377222"
 
 1. 選取 [合作夥伴中心] 功能表中的 [**客戶**]，然後選取 [**要求轉銷商關係**]。 若要提供支援給多管道帳戶，方法相同。
 
-2. 一旦客戶接受您的邀請之後，您就能夠為客戶布建所需的訂用帳戶和基座（例如，客戶先前購買的相同 Office 365 供應專案）。
+2. 一旦客戶接受您的邀請之後，您就能夠為客戶布建所需的訂用帳戶和授權（例如，客戶先前購買的相同 Office 365 供應專案）。
 
 3. 客戶可以允許原始訂閱到期或取消。 不過，由於取消的訂用帳戶沒有退款，因此最好等到訂用帳戶接近自然到期日期。
 

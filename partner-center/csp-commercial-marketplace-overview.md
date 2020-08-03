@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fa66390ef899d3c6a3fd4c25b040c858a1ecb2be
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 044f541e519a0f2789f340e9fc7b9fb558e6bb38
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435067"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444941"
 ---
-# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作夥伴中心的商業市場總覽
+# <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作夥伴中心的商業市場概觀
 
 **適用於**
 
@@ -37,11 +37,11 @@ ms.locfileid: "86435067"
 
 如果您是 CSP 計畫的合作夥伴，您可能會想要在 ISV 供應專案方面執行許多商業 marketplace 活動。 若要深入瞭解每個活動，請參閱下表。
 
-|**如果要**  |**讀取**   |
+|**如果您想要**  |**讀取**   |
 |:------------------------------------|:------------------|
 |瞭解如何查看或搜尋可用的供應專案、定價、產品詳細資料或發行者連絡人資訊 | [探索優惠](csp-commercial-marketplace-discover.md) | 
 |瞭解如何購買及部署供應專案   | [購買優惠](csp-commercial-marketplace-purchase.md)   | 
-|瞭解如何取消或更新訂用帳戶，或新增或移除基座  | [管理供應項目](csp-commercial-marketplace-manage.md) |
+|瞭解如何取消或更新訂用帳戶，或新增或移除授權  | [管理供應項目](csp-commercial-marketplace-manage.md) |
 |瞭解商業 marketplace 購買的計費方式 | [瞭解帳單](csp-commercial-marketplace-billing.md) |
 |瞭解誰負責哪些類型的 ISV 購買支援 | [瞭解支援](csp-commercial-marketplace-support.md) |
 |瞭解在商業 marketplace 中 CSP 合作夥伴和 Isv 的合約和責任 | [瞭解簽約](csp-commercial-marketplace-contracting.md) |
@@ -55,7 +55,7 @@ ms.locfileid: "86435067"
 
 - [Microsoft Azure 管理入口網站](https://portal.azure.com/)
 
-    Or
+    或者
 
 - 協力廠商 ISV 發行者的系統或網站
 
@@ -73,7 +73,7 @@ ms.locfileid: "86435067"
 |探索或搜尋可用的供應專案  | 合作夥伴中心儀表板或合作夥伴中心 Api  |
 |購買供應專案  | 合作夥伴中心儀表板或合作夥伴中心 Api  |
 |若要部署購買的供應專案（客戶的 AAD 租使用者中的帳戶設定、軟體管理或部署）  | ISV 發行者的系統或網站  |
-|取消/更新供應專案訂閱或新增/移除基座 | 合作夥伴中心儀表板或合作夥伴中心 Api  |
+|取消/更新供應專案訂閱或新增/移除授權 | 合作夥伴中心儀表板或合作夥伴中心 Api  |
 |若要建立使用者或管理許可權  | ISV 發行者的系統或網站  |
 
 |**適用于 Isv 的以使用量為基礎的優惠**  |**使用**  |
@@ -81,7 +81,7 @@ ms.locfileid: "86435067"
 |探索或搜尋可用的供應專案  | 合作夥伴中心儀表板、合作夥伴中心 Api 或 Azure 入口網站  |
 |購買供應專案  | Azure 入口網站  |
 |若要部署購買的供應專案（客戶的 AAD 租使用者中的帳戶設定、軟體管理或部署）  | Azure 入口網站  |
-|取消/更新供應專案訂閱或新增/移除基座 | Azure 入口網站  |
+|取消/更新供應專案訂閱或新增/移除授權 | Azure 入口網站  |
 |若要建立使用者或管理許可權  | Azure 入口網站  |
 
 ## <a name="next-steps"></a>後續步驟

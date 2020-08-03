@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff289f2fd93030e3ed7055b17ad696b6700fe3aa
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dcac190570d42fa165d33226c3ad33ec836f521b
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435337"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444633"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>適用于合作夥伴中心的 CSP 計畫合作夥伴常見計費案例
 
@@ -29,11 +29,11 @@ ms.locfileid: "86435337"
 - 技術服務代理人
 - 銷售代理人
 
-這些主題說明您在新增訂閱、新增基座、調整訂用帳戶的授權數目或取消訂用帳戶之後，預期會在帳單上看到的內容。 其他[合作夥伴中心計費類型](billing-different-types.md)，例如以使用量為基礎和以授權為基礎的訂用帳戶，則會以不同的方式計費。
+這些主題說明當您新增訂閱、調整訂用帳戶的授權數目或取消訂用帳戶之後，應該會在帳單上看到的內容。 其他[合作夥伴中心計費類型](billing-different-types.md)，例如以使用量為基礎和以授權為基礎的訂用帳戶，則會以不同的方式計費。
 
 | 計費類型 | 涵蓋的案例 |
 | --------------- | ----------------- |
 | [每月計費](common-billing-scenarios-monthly.md) | 加入新的訂閱、變更授權數量，以及暫停訂閱。 |
 | [年度帳單](common-billing-scenarios-annual.md) | 加入新的訂用帳戶、在帳單日期之前新增授權、變更授權數量，以及暫停和重新開機訂閱。 |
-| [一次性和選取週期性購買的帳單](common-billing-scenarios-onetime-recurring.md) | 購買訂閱、新增更多訂用帳戶、新增和移除基座。 |
+| [一次性和選取週期性購買的帳單](common-billing-scenarios-onetime-recurring.md) | 購買訂閱、新增更多訂用帳戶、新增和移除授權。 |
 | [以授權為基礎的 SaaS 訂用帳戶計費](common-billing-scenarios-saas.md) | 以授權為基礎的軟體即服務（SaaS）訂閱的免費試用版。 購買和取消自訂計量 SaaS 訂閱。 |

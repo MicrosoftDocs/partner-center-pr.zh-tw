@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b91b2f9580d9c369e7a267c2b413db8a4a6300d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436627"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444992"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>瞭解您的帳單和對帳檔案-瞭解如何在合作夥伴中心尋找
 
@@ -88,7 +88,7 @@ Microsoft 會針對任何以授權為基礎的費用（例如，Office 365）和
 
 **費用**：您的計費貨幣在個別計費週期中的到期金額。 
 
-**信用額度**：對訂用帳戶所做之變更的信用額度（例如 SLA）或調整（例如，基座增加或減少）。 
+**信用額度**：對訂用帳戶所做變更的信用額度（例如 SLA）或調整（例如，授權增加或減少）。 
 
 **付款指示**：根據您的區域支付發票費用的說明。 付款時務必要包含您的發票號碼。 
 

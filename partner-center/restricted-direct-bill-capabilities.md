@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb6f89bca86feb1f2c3d2b7d536a810bdb5173e3
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87113979"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444770"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>受限制的直接帳單功能和 CSP 直接帳單合作夥伴所需的需求  
 
@@ -43,9 +43,9 @@ ms.locfileid: "87113979"
 
 - Azure 訂用帳戶
 
-- 以基座為基礎的訂用帳戶
+- 以授權為基礎的訂閱
 
-- 將新的附加元件加入至現有的基座型訂閱。
+- 將新的附加元件新增至現有的授權型訂閱。
 
 - 進行一次性購買的軟體和保留產品（例如，軟體訂閱、永久軟體和 Azure 保留的虛擬機器實例）。
 
@@ -55,9 +55,9 @@ ms.locfileid: "87113979"
 
 - 暫止現有的訂閱
 
-- 調整現有以基座為基礎的訂用帳戶的基座計數
+- 調整現有授權型訂閱的授權計數
 
-- 調整現有附加元件對訂用帳戶的基座計數。 
+- 調整現有附加元件在訂用帳戶中的授權計數。 
  
     >[!Note] 
     >您無法將新的附加元件加入現有的訂用帳戶，因為它被視為新購買的訂閱。

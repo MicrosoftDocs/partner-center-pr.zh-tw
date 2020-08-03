@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fdd372ba260254032d0978e6b2f80947d11aa84f
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: c12bd8b08f3f72c42d788cb677888a7e3cde85a5
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949306"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444771"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>瞭解合作夥伴中心對帳檔案中的不同費用類型
 
@@ -45,10 +45,10 @@ ms.locfileid: "85949306"
 | 費用描述（對帳檔案中的 ChargeType 資料行） | 收費說明 |
 | ------------------------------------------------------------- | ------------------ |
 | 啟用費用 | 購買後使用訂用帳戶時，向客戶收取的金額。 |
-| 取消費用 | 當相關聯的基座變更時，會向客戶收取按比例計算的費用。 |
-| 取消執行個體按比例計算 | 當具有每月訂用帳戶的客戶已暫停訂用帳戶，且相關聯的基座在同一個月內變更時，已 |
+| 取消費用 | 當相關聯的授權變更時，會向客戶收取按比例計算的費用。 |
+| 取消執行個體按比例計算 | 當具有每月訂用帳戶的客戶已暫停訂閱且相關聯的授權在同一個月內變更時，已取消按比例 |
 | 循環費用 | 訂用帳戶的定期費用。 |
-| 循環執行個體 (依比例計算) | 當相關聯的基座變更時，從客戶評估的按比例計算費用。 |
+| 循環執行個體 (依比例計算) | 當相關聯的授權變更時，從客戶評估的按比例計算費用。 |
 | 取消時按比例計算費用 | 取消時未使用的服務部分按比例計算。 |
 | 從目前的供應專案轉換時依比例分配費用 | 從目前每月訂用帳戶轉換為年度訂閱之後，按比例計算費用。 |
 | 轉換成新的供應專案時依比例分配費用 | 將每月訂閱轉換為新年度訂閱之後，按比例計算費用。 |
@@ -68,7 +68,7 @@ ms.locfileid: "85949306"
 | addQuantity | 用於原始購買的退款和增加後的新數量。 |
 | removeQuantity | 用於原始購買的退款和減少後的新數量。 |
 | 取消 | 在取消訂用帳戶時使用。 |
-| 轉換 | 當授權升級，但基座數目維持不變時使用。 |
+| 轉換 | 當授權升級，但授權數目維持不變時使用。 |
 
 ## <a name="usage-charges"></a>使用費用
 

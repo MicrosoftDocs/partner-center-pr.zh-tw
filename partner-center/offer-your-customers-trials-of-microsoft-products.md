@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a940370e50579e09cd24467145decbc6ec4f98a
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: ecf19a5f519333e40d7f5ae8e982ac8d816e8604
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377772"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444904"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>提供客戶30天免費試用版的 Microsoft 產品
 
@@ -45,9 +45,9 @@ ms.locfileid: "86377772"
 
 ## <a name="licenses-for-free-trial-offers"></a>免費試用優惠的授權
 
-所有免費試用版都會提供25個授權。 您無法在試用期間變更此號碼。 您無法在免費試用中新增或移除基座。 將試用版轉換成付費訂用帳戶之後，您就可以將額外的授權新增至訂用帳戶。
+所有免費試用版都會提供25個授權。 您無法在試用期間變更此號碼。 您無法在免費試用中新增或移除授權。 將試用版轉換成付費訂用帳戶之後，您就可以將額外的授權新增至訂用帳戶。
 
-試用版授權和基座應指派給使用者，方法與指派付費服務授權的方式相同。
+試用版授權應指派給使用者，方法與指派付費服務授權的方式相同。
 
 ## <a name="sign-customers-up-for-trials"></a>為客戶註冊試用版
 
@@ -99,7 +99,7 @@ ms.locfileid: "86377772"
 
 試用期到期後，嘗試登入該試用版的客戶會看到到期訊息。 不過，資料會以資料保留標準來儲存。 當您使用相同的服務方案購買新的訂用帳戶之後，就可以從新啟動的訂用帳戶再次存取您的客戶資訊。
 
-## <a name="billing"></a>帳單
+## <a name="billing"></a>計費
 
 年度計費和免費試用版在主權雲端和公用雲端中都相同。 唯一的差異在於啟動時可用的試用 Sku。
 

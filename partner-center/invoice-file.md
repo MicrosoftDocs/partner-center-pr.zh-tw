@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72b8abc1edb4e27b4c9677cc9f374af2aff25986
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cc2515a2658fbd4f47f45bcbe21dff710ed39ae0
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434527"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444949"
 ---
 # <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>合作夥伴中心帳單發票-瞭解如何閱讀帳單和一次性費用欄位
 
@@ -37,7 +37,7 @@ ms.locfileid: "86434527"
 | 授權型費用 | 購買的使用量型授權的每月或每年費用，以服務事先計費。 此數位是以授權為基礎的對帳檔案中，**小計**資料行（資料行**T**）中所有費用的總和。 |
 | 用量型費用 | 您的 Azure 使用量。 這包括在計費期間啟用和使用的新服務或應用程式。 這個數位是以使用量為基礎的對帳檔案中，**計算 pretaxcharges**資料行（資料行**Z**）中所有費用的總和。 |
 | 折扣 | 客戶從訂用帳戶的標準價格收到的折扣。 這個數位會顯示為*固定金額*，而不是每個單位或授權的價格。 |
-| 學分 | 對訂閱所做變更的信用額度或調整（例如，基座增加或減少）。 |
+| 學分 | 對訂閱所做變更的信用額度或調整（例如，授權增加或減少）。 |
 | 小計 | 稅前總計以及稅收專屬費用和點數。 |
 | 稅金 | 您目前費用的總稅額，在您發票第2頁開始的**詳細資料**區段中總計。 此數位是以使用量為基礎的對帳檔案中， **TaxAmount**資料行（資料行**AA**）中所有費用的總和，以及以授權為基礎的對帳檔案中的**稅務**資料行（資料行**U**）。 |
 | 其他點數 | 稅收專屬點數。 |
@@ -59,7 +59,7 @@ ms.locfileid: "86434527"
 | 欄位 | 定義 |
 | ----- | ---------- |
 | Date | 購買日期。 |
-| 描述 | 產品名稱。 |
+| 說明 | 產品名稱。 |
 | 數量 | 購買的產品數（例如保留）。 |
 | 單位價格 | 每個產品的價格（例如保留）。 |
 | 折扣 | 適用的任何折扣。 |

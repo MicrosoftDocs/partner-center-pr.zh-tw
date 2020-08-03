@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baa61b2f22f7b585f9764ea33d968c35d7360b53
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943675"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468340"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>透過 CPOR 模型建立客戶關聯-用於 Microsoft 365 和 Dynamics 365 客戶
 
@@ -30,9 +30,9 @@ ms.locfileid: "86943675"
 
 - 進行宣告之實體的**MPN 識別碼**
 
-- 客戶的**功能變數名稱**[尋找此](find-customer-domain-name.md)
+- 客戶的**功能變數名稱**[尋找此](find-domain-name.md)
 
-- 客戶的**目錄識別碼**或**租使用者識別碼**[尋找此](find-customer-domain-name.md)
+- 客戶的**目錄識別碼**或**租使用者識別碼**[尋找此](find-domain-name.md)
 
 - **解決方案區域**，例如 Business Applications 或 Microsoft 365
 
@@ -66,7 +66,7 @@ ms.locfileid: "86943675"
 
 2. 在 [客戶關聯] 頁面頂端，選取 [ **+ 客戶關聯**]。
 
-3. 選取要與客戶相關聯之夥伴位置的 [ **MPN 識別碼**]，然後新增客戶的 [功能變數名稱] 和 [目錄識別碼]。 [這些專案在哪裡？](find-customer-domain-name.md)
+3. 選取要與客戶相關聯合作夥伴位置的 **MPN 識別碼**，然後新增客戶的網域名稱和目錄識別碼。 [尋找此](find-domain-name.md)
 
 4. 選取 \[繼續\]。
 
@@ -87,13 +87,13 @@ ms.locfileid: "86943675"
    >[!NOTE]
    >如果您的產品是 Dynamics 365，而您選擇的產品有此特定客戶的多個訂用帳戶，您也必須輸入訂用帳戶識別碼。
 
-9. 提供您的執行證明（POE）。 您可以將它拖曳到方塊中，流覽至您自己的支援檔，或選取 [**下載範本**] 來使用範本。 
+9. 提供執行證明 (POE)。 您可以將其拖曳到方塊中，瀏覽至您自己的支援文件，或選取 [下載範本] 以使用範本。 
 
-10. 如有需要，請新增並儲存留言，然後選取 [**提交**宣告]。 我們會傳送一封電子郵件給客戶，要求核准您的客戶關係。
+10. 如有需要，請新增並儲存註解，然後選取 [提交申請]。 我們會傳送一封電子郵件給客戶，要求核准您的客戶關係。
 
    >[!NOTE]
    >當您提交客戶關聯之後，就無法進行編輯。
 
-您的客戶關聯狀態會出現在 [**狀態**] 欄位中。
+您的客戶關聯狀態會出現在**狀態**欄位中。
 
-選取 [歷程**記錄**] 以查看客戶關聯的歷程記錄。
+選取 [歷程記錄] 以檢視客戶關聯的歷程記錄。

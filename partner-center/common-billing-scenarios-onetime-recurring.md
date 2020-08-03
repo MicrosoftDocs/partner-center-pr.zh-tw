@@ -2,17 +2,17 @@
 title: 單次 & 定期購買的帳單
 ms.topic: article
 ms.date: 05/05/2020
-description: 請參閱一次的合作夥伴中心計費範例，並選取週期性購買--當您購買訂閱、新增更多訂用帳戶、新增或移除基座時。
+description: 請參閱一次的合作夥伴中心計費範例，並選取週期性購買--當您購買訂閱、新增更多訂用帳戶、新增或移除授權時。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 06ecd9463f7b9bcb5d370de8f3cd011973cb3607
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5349a78b788c060999c98440edf962a64cb43112
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435387"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468392"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>一次和選取週期性購買的合作夥伴中心計費案例
 
@@ -23,9 +23,9 @@ ms.locfileid: "86435387"
 - 技術服務代理人
 - 銷售代理人
 
-這些範例[常見計費案例](common-billing-scenarios.md)適用于[一次，並](one-time-and-recurring-billing.md)在合作夥伴中心內選取週期性費用。
+這些是[常見的計費案例](common-billing-scenarios.md)。 
 
-## <a name="purchase-a-subscription-and-add-a-seat-on-the-same-day"></a>購買訂用帳戶並在同一天新增基座
+## <a name="purchase-a-subscription-and-add-a-license-on-the-same-day"></a>購買訂用帳戶並在同一天新增授權
 
 在案例 1，您在 6 月 11 日以 $4 美元的單價購買一個訂用帳戶。 同一天稍晚，您以相同的價格購買另一個相同的訂用帳戶。
 
@@ -57,9 +57,9 @@ ms.locfileid: "86435387"
 |6/12/2019     | 6/10/2019    |7/09/2019        |$4        |1        | -$3.87       |addQuantity           |
 |6/12/2019     | 6/10/2019    |7/09/2019        |$4        | 2      |$7.74       |addQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-a-seat-on-the-same-day"></a>購買訂用帳戶並移除同一天的基座
+## <a name="purchase-a-subscription-and-remove-a-license-on-the-same-day"></a>購買訂用帳戶並移除同一天的授權
 
-在案例 3，您在 6 月 11 日以 $4 美元的單價針對相同產品購買兩個訂用帳戶。 同一天稍晚，您移除其中一個基座。  
+在案例 3，您在 6 月 11 日以 $4 美元的單價針對相同產品購買兩個訂用帳戶。 之後，您就可以移除其中一個授權。  
 
 對帳檔案會包含下列內容：
 
@@ -73,9 +73,9 @@ ms.locfileid: "86435387"
 |6/11/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$8       |removeQuantity           |
 |6/11/2019     | 6/10/2019    |7/09/2019        |$4        | 1      |$4         |removeQuantity           |
 
-## <a name="purchase-a-subscription-and-remove-seats-later"></a>購買訂用帳戶並于稍後移除基座
+## <a name="purchase-a-subscription-and-remove-licenses-later"></a>購買訂用帳戶並于稍後移除授權
 
-在案例 4，您在 6 月 11 日以單價 $4 美元購買 2 個訂用帳戶，並在 6 月 12 日移除其中一個基座。
+在案例4中，您會在6月11日以 $4 的單價購買2個訂用帳戶，並在6月12日移除其中一個授權。
 
 對帳檔案會包含下列內容：
 

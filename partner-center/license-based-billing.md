@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17cdb74dfded2c9c10cc4d648d8941b25a27e57b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3600dac6d5ad7f6f5994cddaf771c0397ec4cf7f
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434377"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468342"
 ---
 # <a name="license-based-billing-in-partner-center"></a>合作夥伴中心以授權為基礎的計費
 
@@ -30,7 +30,7 @@ ms.locfileid: "86434377"
 
 ## <a name="license-billing-frequency"></a>授權計費頻率
 
-您可以選擇每個月（**每月計費**）或一年（**年度計費**）支付授權一次。 如需**計費頻率**的詳細資訊，請參閱[每月和年度計費差異](billing-annual-monthly.md)。
+您可以選擇每個月（**每月計費**）或一年（**年度計費**）支付授權一次。 
 
 ## <a name="billing-date-for-licenses"></a>授權的計費日期
 
@@ -55,14 +55,12 @@ ms.locfileid: "86434377"
 
 ## <a name="license-renewal"></a>授權更新
 
-所有以授權為基礎的訂用帳戶會在付費期限開始後的12個月內 autorenew。
+所有以授權為基礎的訂閱都會在付費期限開始後12個月自動續訂。
 
 ## <a name="next-steps"></a>後續步驟
 
 - [合作夥伴中心計費概觀](billing-basics.md)
 
 - [合作夥伴中心的帳單類型](billing-different-types.md)
-
-- [每月和每年計費的差異](billing-annual-monthly.md)
 
 - [主要帳單和稅務文章](billing.md)

@@ -9,21 +9,21 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cdb72310368dd76c43d01129a19328d776c00469
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 05939dc5edaddeb2f74b3b75017e2062dff25e31
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949567"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468329"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>瞭解如何讀取合作夥伴中心對帳檔案中的明細專案
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
-您可以從合作夥伴中心下載您的對帳檔案，以取得計費週期中每個費用的詳細明細專案。 明細專案詳細資料包括每個客戶的訂用帳戶的費用，以及詳細的事件（例如，將基座加入訂用帳戶中）。
+您可以從合作夥伴中心下載您的對帳檔案，以取得計費週期中每個費用的詳細明細專案。 明細專案詳細資料包括每個客戶的訂用帳戶的費用，以及詳細的事件（例如，將授權新增至訂用帳戶）。
 
 適當的角色：
 
@@ -36,7 +36,6 @@ ms.locfileid: "85949567"
 
 - [以授權為基礎的對帳檔案欄位](license-based-recon-files.md)
 - [基於使用方式的對帳檔案欄位](usage-based-recon-files.md)
-- [一次性和週期性的對帳檔案欄位](one-time-recurring-recon-files.md)
 - [每日評分的使用量對帳檔案欄位](daily-rated-usage-recon-files.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>瞭解對帳檔案中的收費類型

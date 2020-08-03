@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 956ed0dec2588e1cc2f697e61671308c2d86f8d0
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114408"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444928"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>雲端解決方案提供者地區授權租用戶彙總簡介
 
@@ -29,12 +29,12 @@ ms.locfileid: "87114408"
 - 全域系統管理員
 - 系統管理代理人
 
-\[某些資訊與預先發行的產品有關，在正式發行之前，可能會大幅修改。 Microsoft 對於此處提供的資訊不做任何明示或暗示保證。\]
+\[某些資訊與預先發行的產品有關，在正式發行之前，可能會大幅修改。 針對此處提供的資訊，Microsoft 不做任何明示或默許的擔保。\]
 
 您可以為您的企業合併租使用者。 請依照下列指示合併不同國家/地區的租用戶。
 
 >[!NOTE]  
->您必須知道您要轉換的帳戶中，每個客戶的所有布建訂閱和基座計數。 在遷移過程中，您將會在新的中央 CSP 帳戶底下，以相同的基座計數重新布建那些完全相同的訂用帳戶。 請使用匯出清單功能來協助建立要移到集中式租用戶之客戶的清單。  合併完成後，您就無法還原為先前的租使用者狀態。 可能也需要客戶動作。
+>您必須知道您要轉換的帳戶中，每個客戶的所有布建訂閱和授權計數。 在遷移過程中，您將會在新的中央 CSP 帳戶底下，以相同的授權計數重新布建那些相同的正確訂用帳戶。 請使用匯出清單功能來協助建立要移到集中式租用戶之客戶的清單。  合併完成後，您就無法還原為先前的租使用者狀態。 可能也需要客戶動作。
 
 ## <a name="prepare-for-migration"></a>為移轉做準備
 
@@ -66,7 +66,7 @@ ms.locfileid: "87114408"
 
 4. 選取 [訂用帳戶]****。
 
-5. 從目錄新增正確的訂閱與基座數目。 請使用從合作夥伴帳戶**轉換**中提供的資訊進行驗證。
+5. 從目錄新增正確的訂用帳戶和授權計數。 請使用從合作夥伴帳戶**轉換**中提供的資訊進行驗證。
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="客戶清單":::
 
@@ -146,6 +146,6 @@ ms.locfileid: "87114408"
 
 如需 API 註冊的詳細資訊，請參閱[在合作夥伴中心設定 api 存取](https://go.microsoft.com/fwlink/?linkid=847990)。
 
-## <a name="next-steps"></a>接下來的步驟
+## <a name="next-steps"></a>後續步驟
 
 - [合作夥伴中心內轉售商合作夥伴的客戶帳戶設定和管理](customer-accounts.md)

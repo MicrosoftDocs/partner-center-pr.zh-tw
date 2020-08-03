@@ -1,5 +1,5 @@
 ---
-title: 以授權為基礎的對帳檔案
+title: 授權型對帳檔案
 ms.topic: article
 ms.date: 05/18/2020
 description: 瞭解如何在合作夥伴中心讀取以授權為基礎的對帳檔案。 本文說明以授權為基礎的偵察檔中每個欄位的意義。
@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd275c074bb3710a2a438d65989b16a1be398830
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 86581db73f1bf2b6660af45aca4747a5db779bbe
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377692"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444918"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>瞭解以合作夥伴中心授權為基礎的對帳檔案中的欄位
 
@@ -46,11 +46,11 @@ ms.locfileid: "86377692"
 | OfferName | 客戶購買的服務優惠名稱，如價目表中所定義。 | *Microsoft Office 365 (Plan E3)* |
 | SubscriptionStartDate | 訂用帳戶開始日期。 此時間一律為第一天的開始時間，即 0:00。 此欄位會設定為提交訂單後的日期。 與**subscription.subscriptionenddate**搭配使用，以判斷客戶是否仍在訂用帳戶的第一年內，或訂用帳戶已于以下年度續訂。 | *2/1/2019 0:00* |
 | SubscriptionEndDate | 訂閱結束日期。 此時間一律為第一天的開始時間，即 0:00。 *12 個月加上開始日期後的**x**天*，以符合合作夥伴的帳單日期或*從續約日期算起12個月*。 續約時，價格會更新至目前的價目表。 自動續約之前，可能需要與客戶連絡。 | *2/1/2019 0:00* |
-| ChargeStartDate | 開始計算費用的日期。 此時間一律為第一天的開始時間，即 0:00。 當客戶變更基座號碼時，用來計算每日費用（*pro rata*費用）。 | *2/1/2019 0:00* |
-| ChargeEndDate | 結束計算費用的日期。 時間一律是一天的結束時間 (23:59)。 當客戶變更基座號碼時，用來計算每日費用（*pro rata*費用）。 | *2/28/2019 23:59* |
+| ChargeStartDate | 開始計算費用的日期。 此時間一律為第一天的開始時間，即 0:00。 當客戶變更授權號碼時，用來計算每日費用（*pro rata*費用）。 | *2/1/2019 0:00* |
+| ChargeEndDate | 結束計算費用的日期。 時間一律是一天的結束時間 (23:59)。 當客戶變更授權號碼時，用來計算每日費用（*pro rata*費用）。 | *2/28/2019 23:59* |
 | ChargeType | 費用或調整的[類型](recon-file-charge-types.md)。 | 請參閱[費用類型](recon-file-charge-types.md)。 |
-| UnitPrice | 每一基座價格，即購買時價目表中所公佈的價格。 請確定這符合您的計費系統中儲存的資訊。 | *6.82* |
-| 數量 | 基座數目。 請確定這符合您的計費系統中儲存的資訊。 | *2* |
+| UnitPrice | 每份授權的價格，在購買時于價目表中發行。 請確定這符合您的計費系統中儲存的資訊。 | *6.82* |
+| 數量 | 授權數目。 請確定這符合您的計費系統中儲存的資訊。 | *2* |
 | 金額 | 數量總價。 用來檢查金額計算是否符合您為客戶計算此值的方式。 | *13.32* |
 | TotalOtherDiscount | 套用至這些費用的折扣金額。 專長認證或地圖所附的產品授權，或符合獎勵資格的新訂用帳戶，也會在本專欄中包含折扣金額。 | *2.32* |
 | 小計 | 稅前總計。 檢查您的小計是否符合您的預期總計（以折扣為例）。 | *11* |

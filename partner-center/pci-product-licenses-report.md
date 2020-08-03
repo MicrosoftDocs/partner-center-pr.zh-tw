@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 請查看此產品授權報表，並瞭解如何使用您為客戶銷售或管理的授權（或以基座為基礎）雲端產品來進行改善。
+description: 請查看此產品授權報表，並瞭解如何使用您為客戶銷售或管理的授權型雲端產品來進行改善。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 466ae67b46834ae803c7900c3bd610cfd5813ed5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436657"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444839"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作夥伴中心深入解析儀表板中的產品授權報表
 
@@ -24,7 +24,7 @@ ms.locfileid: "86436657"
 - 報表檢視器
 - 執行報表檢視器
 
-[產品授權] 報表會針對以基座為基礎的雲端產品（例如 O365、Dynamics、M365、Power BI 等）提供授權分析。這裡所呈現的分析，與您所銷售或為客戶管理的授權使用量相關聯。 您可以從 [產品授權] 報表中查看下列區段。
+[產品授權] 報表會針對以授權為基礎的雲端產品（例如 O365、Dynamics、M365、Power BI 等）出示授權分析。這裡所呈現的分析，與您所銷售或為客戶管理的授權使用量相關聯。 您可以從 [產品授權] 報表中查看下列區段。
 
 - 摘要
 - 授權的地理散佈
@@ -38,7 +38,7 @@ ms.locfileid: "86436657"
 
 [摘要] 區段會提供與已銷售、部署和使用之雲端產品授權相關聯之關鍵效能指標（Kpi）的快照集視圖。 這可協助您針對銷售給客戶的授權，追蹤作用中的使用方式。
 
-- 授權：您為以基座為基礎的雲端產品（例如 O365、Dynamics、M365、Power BI 等）所銷售或管理的所有授權的目前計數。這些授權在選取的日期範圍內成長或拒絕的百分比。
+- 授權：您針對授權型雲端產品（例如 O365、Dynamics、M365、Power BI 等）銷售或管理的所有授權目前計數。這些授權在選取的日期範圍內成長或拒絕的百分比。
 
 微圖表會顯示在所選日期範圍內，授權計數的月數月趨勢
 
