@@ -156,7 +156,8 @@
 ## [檢視客戶活動記錄](activity-logs.md)
 ## [更新客戶帳戶資訊](update-customer-account-info.md)
 ## [讓客戶購買自己的服務](give-customers-permission.md)
-## [為客戶建立多個使用者](adding-multiple-users-to-a-customer-account.md)
+## [如何為客戶新增多個使用者](adding-multiple-users-to-a-customer-account.md)
+## [要為客戶帳戶匯入多個使用者所需的檔案欄位](file-customer-users.md)
 ## [指派支援連絡人](assign-support-contacts.md)
 
 # [雲端解決方案提供者優惠方案](csp-offers.md)
