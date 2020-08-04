@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eba88c5380254929809d27ff2b877a5ee72df239
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114803"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527584"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>針對回報潛在服務問題或中斷的客戶檢查服務健全狀況
 
@@ -42,9 +42,11 @@ ms.locfileid: "87114803"
  
 在服務中斷期間，Microsoft 會在解決問題期間提供定期更新。 這些通知也會顯示在 Microsoft Azure 入口網站或 Microsoft 365 系統管理中心。
 
-如果服務中斷結束之後問題仍然存在，請提交服務要求。 請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。
+## <a name="next-steps"></a>後續步驟 
 
-Microsoft 365 和 Microsoft Azure 各提供[api，可讓合作夥伴用來抓取即時服務健全狀況](get-automated-service-notifications-with-our-apis.md)、訊息中心通訊和預定的維護事件。
+- 如果服務中斷結束之後問題仍然存在，請提交服務要求。 請參閱[代表客戶報告問題](report-problems-on-behalf-of-a-customer.md)。
+
+- Microsoft 365 和 Microsoft Azure 各提供[api，可讓合作夥伴用來抓取即時服務健全狀況](get-automated-service-notifications-with-our-apis.md)、訊息中心通訊和預定的維護事件。
 
  
 

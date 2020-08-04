@@ -1,22 +1,23 @@
 ---
 title: 為客戶帳戶新增多個使用者
-ms.topic: article
-ms.date: 06/17/2020
+ms.topic: how-to
+ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何一次將多個使用者新增至客戶的帳戶。 使用逗號分隔值（.csv）檔案格式，將資料檔案上傳至合作夥伴中心。
+description: 若要將多個使用者新增至客戶的帳戶，請使用逗號分隔值（.csv）檔案格式，將資料檔案上傳至合作夥伴中心。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a9a94ac9d9022b33c7f909a258b66daa4312ad13
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 0a9b2ed89b10e43c31d00777054839f3208e5c16
+ms.sourcegitcommit: 32516c30e90ee78415e5537d2b8ccf467f56a82d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436307"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87535738"
 ---
-# <a name="add-multiple-users-to-a-customer-account---upload-a-data-file-to-partner-center"></a>將多個使用者新增至客戶帳戶-將資料檔案上傳至合作夥伴中心
+# <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>將使用者的 .csv 檔案上傳至客戶的帳戶
+
 
 **適用於**
 
@@ -26,33 +27,11 @@ ms.locfileid: "86436307"
 
 - 全域系統管理員
 
-您可以將多個使用者一次新增至客戶的帳戶，方法是將以逗點分隔值檔案格式（.csv）中的資料檔案上傳至合作夥伴中心。 您可以從合作夥伴中心下載範例資料檔案，然後進行編輯以供您使用，或者您可以使用以下定義的資料模型來建立新的資料檔案。
+以逗點分隔值檔案格式（.csv）將資料檔案上傳至合作夥伴中心，一次將多個使用者新增至客戶的帳戶。 
 
-## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>資料檔案需求
+## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>建立客戶使用者的檔案，並上傳至客戶帳戶
 
-若要使用大量上傳程式，將多個使用者新增至客戶的帳戶，您必須符合下列需求：
-
-- 您必須擁有對客戶帳戶的全域系統管理員權限；
-- 每位使用者都必須有唯一的電子郵件地址，並已附加到客戶的電子郵件網域；
-- 您一次最多可以上傳 100 筆記錄。 如果您需要新增超過 100 位使用者，請建立並上傳其他資料檔案。
-- 所有使用者都必須位於相同的地理**位置**。
-- 請只輸入下面描述的資料。 沒有直接關聯的資料將會導致上傳失敗。
-
-請在資料檔案中輸入以下資料：
-
-| **資料行名稱** | **說明**  | **限制**  |
-|:-------- |:------  |:----- |
-| 名字  | 使用者的名字（選擇性欄位）  | 50 個字元的限制  |
-| 姓氏  | 使用者的姓氏 (選擇性欄位)  | 50 個字元的限制  |
-| 顯示名稱    | 顯示在合作夥伴中心的名稱（必要欄位）                            | 50 個字元的限制                         |
-| 電子郵件   | 使用者在 customer 公司的公司電子郵件地址（必要欄位）           | 每個使用者都必須有唯一的電子郵件地址 |
-| 狀態更新   | 用來指示是否已經成功建立新的使用者記錄 | \*\*保留空白\*\*                        |
-
-### <a name="to-create-multiple-user-accounts"></a><a href="" id="createmultipleuseraccounts"></a>建立多位使用者帳戶
-
-<a href="" id="creatingtheaccounts"></a>
-
-1. 建立包含上述資料並以逗號分隔值 (.csv) 的資料檔案。 儲存檔案以便您在之後的步驟中瀏覽該檔案。
+1. 建立包含上述資料並以逗號分隔值 (.csv) 的資料檔案。 儲存檔案以便您在之後的步驟中瀏覽該檔案。 請參閱 .csv 檔案的[欄位，以匯入客戶帳戶的多個使用者](file-customer-users.md)。 
 
 2. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
@@ -69,16 +48,14 @@ ms.locfileid: "86436307"
     **注意**   大部分的帳戶建立錯誤是由資料檔案問題所造成，包括遺漏資訊、格式不正確或重複的電子郵件地址，或檔案中有太多記錄。
 
 8. 合作夥伴中心驗證檔案之後，請選取新使用者的地理**位置**。
-9. 選取 [儲存]。
+9. 選取 [儲存]  。
 10. 下載使用者的暫存密碼資訊。
 
-**重要：** 請務必立即下載包含暫時密碼的檔案，因為您無法在之後執行此作業。 新的使用者必須他們新帳戶的暫時密碼登入他們的新帳戶。
+    >[!IMPORTANT]
+    > 請務必立即下載含有暫時密碼的檔案，因為您稍後將無法執行此動作。 新的使用者必須他們新帳戶的暫時密碼登入他們的新帳戶。
 
-10. 新的使用者會自動獲派 **\[可以使用授權與服務\]** 的權限。 
+11. 新的使用者會自動獲派 **\[可以使用授權與服務\]** 的權限。 
 
- 
+## <a name="next-steps"></a>後續步驟
 
- 
-
-
-
+- [授與客戶合作夥伴中心的許可權，以購買自己的產品或服務](give-customers-permission.md)

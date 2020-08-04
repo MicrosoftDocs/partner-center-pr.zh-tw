@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8ae3334685ee74fabd3be99d53b1f90d18026e4
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 87df060346e380a17030e6d1dc83ff5746f55eb0
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468516"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527604"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>合作夥伴中心的帳單類型-包含以授權為基礎、以使用量為基礎的一次性計費
 
@@ -39,3 +39,7 @@ ms.locfileid: "87468516"
 根據您為客戶購買的產品類型而定，您可能會有不同的計費週期，並在相同月份的不同日期計費。
 
 如果您已選擇按月計費，或您購買按月計費的以使用量為基礎的產品，則每月計費日期就是您在合作夥伴中心建立 CSP 帳戶時所選取的月份日期。 成功建立您的 CSP 帳戶之後，Microsoft 會傳送確認電子郵件，其中包含您的帳單日期。 建立之後，即無法變更此日期。
+
+## <a name="next-steps"></a>後續步驟
+
+- [瞭解您的帳單和對帳檔案-瞭解如何在合作夥伴中心尋找](read-your-bill.md)

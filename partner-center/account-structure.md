@@ -3,18 +3,18 @@ title: MPN 夥伴帳戶的兩個層級
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: MPN 合作夥伴可以深入瞭解合作夥伴中心、合作夥伴通用帳戶（PGA）和合作夥伴位置帳戶（PLA）中的兩個帳戶層級。
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 326f46af86c890c6f34460669ec167399515014d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4fabdc52056b4b4bd9fe612dfa2d299a357be213
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436407"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527434"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>合作夥伴中心有兩個層級的 MPN 合作夥伴帳戶
 

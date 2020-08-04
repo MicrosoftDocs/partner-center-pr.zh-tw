@@ -9,12 +9,12 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22581771f05c88ec2ad097890959dab6d6e27962
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436177"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526944"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>取得您的客戶和 Azure 訂用帳戶的運作狀況資料
 
@@ -32,12 +32,14 @@ ms.locfileid: "86436177"
 
 資料推動業務決策。 使用 **\[Azure 使用狀況\]** 頁面上的計量，找出您的成功之處、您客戶的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。
 
+若要取得**Azure 使用量**，請登入合作夥伴中心[儀表板](https:/partner.microsoft.com/dashboard)。 從 [合作夥伴中心] 功能表選取 [**分析**]，然後選取 [ **Azure 使用方式**]。
+
 > [!NOTE]
 > Azure 使用量分析僅適用于雲端解決方案提供者方案中的合作夥伴。
 
 我們正在追蹤下列計量︰
 
-## <a name="summary"></a>摘要
+## <a name="summary"></a>總結
 
 - **售出的 Azure 訂閱總數**：在指定的時段中售出的訂閱數  
 - **具使用量的客戶**：在指定的時段中有使用 Azure 的客戶數  
@@ -67,3 +69,7 @@ ms.locfileid: "86436177"
 ## <a name="azure-subscription-retention"></a>Azure 訂閱保留
 
 - 已續約的訂閱數。
+
+ ## <a name="next-steps"></a>後續步驟
+
+- [購買適用于客戶的 Azure 方案 & 以隨用隨付費率存取最新的 Azure 服務](purchase-azure-plan.md)

@@ -1,6 +1,6 @@
 ---
 title: 為客戶指派支援連絡人
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8186a58523502fddb0ecb2e8ef7bb91bd318680f
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 2963ac7fbcba36d61782e49a4696f95a86bf95b8
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435947"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527664"
 ---
 # <a name="assign-a-reseller-as-a-technical-support-contact-for-customers"></a>將轉銷商指派為客戶的技術支援連絡人
 
@@ -36,7 +36,7 @@ ms.locfileid: "86435947"
 
 這可用於[多合作夥伴](multipartner.md)和[多通路](multichannel.md)案例。 
 
-<a href="" id="assigncontacts"></a>
+
 ## <a name="assign-contacts"></a>指派連絡人
 
 1.  從與您指派的產品經銷商[要求建立關係](request-a-relationship-with-a-customer.md)開始。 與他們協議出處理技術支援的支援合約。

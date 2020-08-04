@@ -1,6 +1,6 @@
 ---
 title: 指派或撤銷多個使用者的授權
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 20ef77322ced5a7198dbd0ecaf519f614bc17a32
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435567"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527394"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>同時對客戶帳戶中的多個使用者指派或撤銷授權
 
@@ -34,11 +34,6 @@ ms.locfileid: "86435567"
 
 合作夥伴中心會追蹤並顯示所有客戶擁有的授權權利。
 
-下列各節將示範如何：
-- [指派授權給多個使用者](#assign-licenses-to-groups)
-- [撤銷使用者的授權指派](#revoking-licenses)
-
-<a href="" id="assign-licenses-to-groups"></a>
 ## <a name="assign-licenses-to-multiple-users"></a>指派授權給多個使用者
 
 1. 從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]，然後從清單中選擇客戶。
@@ -76,12 +71,11 @@ ms.locfileid: "86435567"
 7. 請透過選取每項產品的核取方塊來為使用者選取超過一項產品。
     -   選取 [查看任何產品的**服務方案**]，以查看並選取使用者所需的服務方案。
 
-8. 選取 [儲存]。 合作夥伴中心會開啟**授權已更新**的確認頁面，其中列出使用者和其新的授權。
+8. 選取 [儲存]  。 合作夥伴中心會開啟**授權已更新**的確認頁面，其中列出使用者和其新的授權。
 
 >[!NOTE]
 >某些 Microsoft 產品可能無法在特定位置使用。 其他產品則取決於其他產品或服務，或者可以一起指派給同一個使用者。 在您儲存之後，確認頁面就會列出所有使用者授權指派成功的結果，以及任何授權指派錯誤。
 
-<a href="" id="revoking-licenses"></a>
 ## <a name="revoke-users-license-assignments"></a>撤銷使用者的授權指派
 
 1. 從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]，然後從清單中選擇客戶。
@@ -100,7 +94,7 @@ ms.locfileid: "86435567"
 
    例如，如果所有選取的使用者中都擁有 Office 365 企業版授權，且您想要撤銷它們，請選取核取方塊來將它清除。
 
-7. 選取 [儲存]。
+7. 選取 [儲存]  。
 
 ## <a name="next-steps"></a>後續步驟
 

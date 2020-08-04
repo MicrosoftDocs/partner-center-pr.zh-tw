@@ -3,19 +3,28 @@ title: 建立 Office 365 試用邀請
 ms.topic: article
 ms.date: 04/28/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 瞭解合作夥伴如何為他們的用戶端建立和傳送試用邀請，以試用 Office 365。 合作夥伴非常是授權的訂閱顧問。
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 5d76de11eb69692f8829697a664a55b01ee87c12
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: db32f3d48089457cb9c49196bcb190ccd4308582
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120032"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526994"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>顧問：為用戶端建立及傳送試用邀請，以試用 Office 365
+
+**適用於**
+
+- 合作夥伴中心
+ 
+**適當的角色**
+
+- 顧問
 
 > [!NOTE]
 > 這項功能僅適用于已獲授權訂閱顧問的 Microsoft 合作夥伴。
@@ -38,7 +47,7 @@ ms.locfileid: "87120032"
     - **試用**訂用帳戶：您可以選擇的試用訂閱清單取決於用戶端的國家或地區的使用位置。
     - **委派系統管理**：此選項僅適用于經過認證可提供委派管理的合作夥伴。 如果您想要提供用戶端委派的系統管理，請選擇此選項。 如果您這樣做，不論是否接受委派管理，您的用戶端都可以接受試用邀請。 如需委派系統管理的詳細資訊，請參閱[提供委派](customers-revoke-admin-privileges.md)的系統管理。
 
-3. 按 [下一步]  。
+3. 按 [下一步] 。
 
 4. 在 [**您的試用邀請**] 頁面上，複製試用邀請資訊和 URL，然後將其貼到電子郵件、檔或網頁中，以建立自訂的試用邀請。
 

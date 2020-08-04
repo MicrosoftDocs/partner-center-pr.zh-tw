@@ -1,6 +1,6 @@
 ---
 title: 在合作夥伴中心建立客戶訂用帳戶
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 3e154fd217af8ca0f5d45c686467e671e5bd9a03
-ms.sourcegitcommit: f8e8803b7d9fdf801ba181015a07dc6b570621c0
+ms.openlocfilehash: 66c8b490e69e9b03ec0db213ca2a5baf3d42635e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86949834"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527801"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>建立、暫停或取消客戶訂閱
 
@@ -174,7 +174,7 @@ ms.locfileid: "86949834"
 
 6. 選取 [提交]。
 
-## <a name="next-steps"></a>接下來的步驟
+## <a name="next-steps"></a>後續步驟
 
 - [為您的客戶購買商業市集產品](csp-commercial-marketplace-purchase.md)
 

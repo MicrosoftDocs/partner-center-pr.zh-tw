@@ -1,6 +1,6 @@
 ---
 title: 建立和管理獎勵宣告 |合作夥伴中心
-ms.topic: article
+ms.topic: how-to
 ms.date: 11/27/2019
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: a4be2158c0879cdace97b26f79a37d767624c304
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 431b4fa095ecf87f1174d8c5570463bd3f79f21b
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114858"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527791"
 ---
 # <a name="create-and-manage-an-incentives-claim"></a>建立和管理獎勵宣告
 
@@ -33,11 +33,11 @@ ms.locfileid: "87114858"
 
 2.  如果您已有處理中的宣告，\[宣告概觀\] 頁面會顯示現有宣告的狀態相關資訊，以及已核准、已宣告的資金和資金總數。
 
-3.  若要建立新的宣告，請選取 **\[建立宣告\]**。
+3.  若要建立新的宣告，請選取 [**建立**宣告]。
 
-4.  當您填寫初始表單並選取 [**建立**宣告] 之後，您將會進入 [宣告詳細資料] 頁面，您可以在其中新增發票、CSR 的、證明檔和計量。 您也可以視需要新增額外的資訊。
+4.  當您填寫初始表單並選取 [**建立**宣告] 之後，您將會進入 [宣告詳細資料] 頁面，您可以在其中新增發票、CSR 的、證明檔和計量。 您也可以視需要新增其他資訊。
 
-宣告詳細資料頁面可讓您請求組織中的其他人上傳文件至表單。 對於您上傳的每個支援文件，您可以提供詳細解釋。 
+申請詳細資料頁面可讓您要求組織中的其他人將文件上傳至表單。 針對您上傳的每個支援文件，您可以提供說明詳細資料， 
 
 ### <a name="manage-your-claims"></a>管理您的宣告
 

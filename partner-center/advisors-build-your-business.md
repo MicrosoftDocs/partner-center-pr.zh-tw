@@ -1,21 +1,31 @@
 ---
-title: 新增具有 Office 365 試用版供應專案的用戶端
+title: 新增具有 Office 365 試用版供應項目的用戶端
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 瞭解授權的 Microsoft 顧問如何拓展其 Office 365 訂閱。 建立並傳送 Office 365 試用邀請和購買供應專案給用戶端。
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c1dc96c2947da8ab37787e406d40400071a3b31
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436257"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527004"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>顧問：使用 Office 365 試用邀請和購買供應專案來建立您的用戶端基底
+
+**適用於**
+
+- 合作夥伴中心
+ 
+**適當的角色**
+
+- 顧問
+
 
 身為授權的 Microsoft advisor，**合作夥伴中心**讓您有機會擴大客戶群，並建立與用戶端的持續關係。 透過合作夥伴中心，您可以傳送用戶端試用邀請和購買供應專案，並根據您授權提供的服務，提供他們委派的系統管理服務。
 

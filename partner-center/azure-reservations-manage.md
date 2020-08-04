@@ -1,6 +1,6 @@
 ---
 title: 管理客戶的 Azure 保留專案
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3197f2281ef4a41a200e08290712218c634d1f52
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: bb5e88b284aac3325de79d41c0c9a19ffc906b3f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435757"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527454"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>為客戶管理、取消、交換或退款 Microsoft Azure 保留
 
@@ -44,7 +44,7 @@ ms.locfileid: "86435757"
     |:-----------------------------|:-----------------|
     | **概觀**   | 查看客戶保留的詳細資料，包括到期日、範圍和使用方式資料。 **注意** 選擇 **\[退款\]** 可建立按比例計算的退款支援要求。 選取 **\[交換\]** 可建立交換未使用的保留區期限的支援要求。  
     | **存取控制 (IAM)**   | 管理客戶保留資訊的存取權。|
-    | **Configuration**   | 變更保留區所關聯的保留範圍和（或） Azure 訂用帳戶。    |
+    | **組態**   | 變更保留區所關聯的保留範圍和（或） Azure 訂用帳戶。    |
     | **屬性**   | 查看保留的屬性，並將保留識別碼和保留訂單識別碼複製到剪貼簿。 **注意** 當您代表客戶要求支援時，支援人員可能會請您提供保留區識別碼和保留區訂單識別碼。    |
     | **新增支援要求**    | 向 Microsoft 支援服務要求協助。   |
  

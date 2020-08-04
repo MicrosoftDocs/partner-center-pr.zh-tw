@@ -1,21 +1,31 @@
 ---
-title: 建立購買供應專案
+title: 顧問-建立購買供應專案
 ms.topic: article
-ms.date: 05/07/2020
+ms.date: 05/17/2020
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: 瞭解授權的訂用帳戶顧問如何使用合作夥伴中心來建立購買供應專案和自訂 URL，以包含在 Office 365 試用邀請中。
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a2f719df77227d19db39dc87e8eb559eeeb827
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436267"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87526984"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>顧問：建立購買供應專案
+
+**適用於**
+
+- 合作夥伴中心
+ 
+**適當的角色**
+
+- 顧問
+
 
 > [!NOTE]
 > 這項功能僅適用于已獲授權訂閱顧問的 Microsoft 合作夥伴。
