@@ -1,6 +1,6 @@
 ---
 title: 雲端解決方案提供者地區授權租用戶彙總
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4389ed675bfc7186aa19e595b14ac9200334c61c
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 4e6d98069822df9a6310335ffd8b1ab08dc61ccb
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444928"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545649"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>雲端解決方案提供者地區授權租用戶彙總簡介
 
@@ -38,13 +38,13 @@ ms.locfileid: "87444928"
 
 ## <a name="prepare-for-migration"></a>為移轉做準備
 
-- 使用**轉換**的帳戶（您將轉換至新帳戶的帳戶）登入**合作夥伴中心**，並查看所有客戶和為這些客戶布建的所有服務。
+- 使用**轉換**後的帳戶登入**合作夥伴中心** (您將轉換至新帳戶) ，並查看所有客戶和為這些客戶布建的所有服務。
 
 - 登出此帳戶。
 
 ## <a name="migrate-customer-accounts"></a>移轉客戶帳戶
 
-1. 使用**轉換**（新）帳戶（您要將客戶轉換成其中一項）來登入**合作夥伴中心**。
+1. 使用**轉換** (新) 帳戶來登入**合作夥伴中心**， (您要將客戶轉換到) 。
 
 2. 選取 [客戶]。
 
@@ -117,7 +117,7 @@ ms.locfileid: "87444928"
    >[!Note]
    > 停用客戶下的訂用帳戶並不會變更客戶在 Customers 清單中的外觀。 目前沒有將客戶從清單移除的選項。 合作夥伴應避免將訂用帳戶從他們在未來的**轉換中**，新增回給這些客戶。
 
-6. 針對所有客戶下的所有訂用帳戶，重複這些步驟，以停止未來**從帳戶轉換**的費用。 合作夥伴將會收到一份最終發票，其中包含取消日期到計費期間最後一天之間未使用天數的點數。 未來在該最終計費期間之後將不會再產生發票。
+6. 針對所有客戶下的所有訂用帳戶重複這些步驟，以停止從帳戶 () **轉換**的未來費用。 合作夥伴將會收到一份最終發票，其中包含取消日期到計費期間最後一天之間未使用天數的點數。 未來在該最終計費期間之後將不會再產生發票。
 
 ### <a name="additional-information"></a>其他資訊
 

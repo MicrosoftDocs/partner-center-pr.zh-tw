@@ -1,23 +1,23 @@
 ---
 title: 客戶關聯問題
-description: 瞭解如何解決使用已宣告的記錄夥伴（CPOR）客戶關聯時所出現的問題。
-ms.topic: article
+description: 瞭解如何解決在使用已宣告的記錄夥伴 (CPOR) 客戶關聯時所出現的問題。
+ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 63138dd6eaa16534cb73f41655ba728cb0c7a430
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 69c0eb822ed8bf2ff09d7fc4a37e920dc123133a
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114523"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546009"
 ---
 # <a name="customer-association-issues"></a>客戶關聯問題
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 
@@ -31,11 +31,11 @@ ms.locfileid: "87114523"
 
 ## <a name="domain-tenant-mismatch"></a>網域-租使用者不符
 
-在領取的記錄（CPOR）關聯宣告流程合作夥伴中，系統會要求您提供客戶租使用者識別碼和子域。 如果您收到錯誤訊息，指出它們不相符，請洽詢您的客戶，以確保您有正確的詳細資料。
+在宣告的記錄夥伴中， (CPOR) 關聯聲明流程中，系統會要求您提供客戶租使用者識別碼和子域。 如果您收到錯誤訊息，指出它們不相符，請洽詢您的客戶，以確保您有正確的詳細資料。
 
 ## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>CPOR 關聯宣告流程中的訂用帳戶錯誤
 
-在 CPOR 關聯宣告流程中，系統可能會要求您透過 Business Applications （Dynamics 365）為您嘗試宣告的產品提供訂用帳戶。 我們會要求您提供訂用帳戶，因為我們會動態檢查產品和訂用帳戶是否屬於所宣告的租使用者。 我們也正在檢查訂用帳戶是否為使用中/處於「寬限期」狀態。
+在 CPOR 關聯宣告流程中，系統可能會要求您透過 Business Applications (Dynamics 365) ，為您嘗試領取的產品提供訂用帳戶。 我們會要求您提供訂用帳戶，因為我們會動態檢查產品和訂用帳戶是否屬於所宣告的租使用者。 我們也正在檢查訂用帳戶是否為使用中/處於「寬限期」狀態。
 
 如果您收到錯誤，可能有幾個原因：
 
@@ -62,9 +62,9 @@ CPOR 聲稱平臺允許與 Business Applications 和 Microsoft 365 解決方案�
 | 解決方案領域 | 活動 | 適用于 |
 | ------ | ----------- | ----------- |
 | 商務應用程式      | 售前   | 如果您影響其購買合格產品，而且想要申請售前獎勵，請選取此項。 只有當客戶透過大量授權合約或 Web Direct 購買這些產品時，才適用此選項。 |
-|    |  使用方式  | 如果您要推動其採用和使用合格的工作負載，而且想要申請使用獎勵，請選取此項。 只有當客戶透過大量授權合約或 Web Direct 購買這些產品時，才適用此選項。 |
+|    |  使用量  | 如果您要推動其採用和使用合格的工作負載，而且想要申請使用獎勵，請選取此項。 只有當客戶透過大量授權合約或 Web Direct 購買這些產品時，才適用此選項。 |
 |    | 收益關聯   | 如果您將其合格產品的選取範圍影響為商業影響因素，請選取此選項。 此選項僅適用于收益關聯，而不是獎勵付款。 只有當客戶透過大量授權合約或 Web Direct 購買這些產品時，才適用此選項。   |
-| Microsoft 365   | 使用方式   | 如果您要推動其採用和使用合格的工作負載，而且想要申請使用獎勵，請選取此項。 |
+| Microsoft 365   | 使用量   | 如果您要推動其採用和使用合格的工作負載，而且想要申請使用獎勵，請選取此項。 |
 
 ## <a name="which-mpn-do-i-choose"></a>我要選擇哪一種 MPN？
 
@@ -80,7 +80,7 @@ CPOR 聲稱平臺允許與 Business Applications 和 Microsoft 365 解決方案�
 
 ## <a name="competing-claims"></a>競爭宣告
 
-如果您要為客戶建立 CPOR 關聯宣告，而其產品已與另一個合作夥伴相關聯，您的宣告將會通過仲裁：
+如果您要為客戶建立 CPOR 關聯宣告，而且其產品 (的) 已與另一個合作夥伴相關聯，您的宣告將會通過仲裁：
 
 1. 在您建立新的客戶關聯後，Microsoft 將會驗證所提供關聯和執行證明的詳細資料，以確保其正確性。
 

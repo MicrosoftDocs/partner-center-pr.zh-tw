@@ -1,21 +1,21 @@
 ---
-title: 獎勵支出和稅務設定檔常見問題
+title: 獎勵支出和稅務設定檔常見問題集
 ms.topic: article
 ms.date: 07/21/2020
 description: 獎勵支出和稅務設定檔的相關常見問題。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: kim-davis
 ms.author: kimnich
 ms.localizationpriority: medium
-ms.openlocfilehash: c98a150957a55c75d875cfba64699f080d0a238d
-ms.sourcegitcommit: b4fe2fa43663fe46b205f9daa01494d5053c1ede
+ms.openlocfilehash: 176533700870af15107221396803d7f7cacfd0d7
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "87264225"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545909"
 ---
-# <a name="incentives-payout-and-tax-profile-faqs"></a>獎勵支出和稅務設定檔常見問題
+# <a name="incentives-payout-and-tax-profile-faqs"></a>獎勵支出和稅務設定檔常見問題集
 
 適用於：
 
@@ -71,4 +71,4 @@ ms.locfileid: "87264225"
 
 ## <a name="next-steps"></a>後續步驟
 
-- [合作夥伴中心的支出和稅務設定檔](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [合作夥伴中心的支出和稅金設定檔](incentives-create-and-manage-your-payout-and-tax-profiles.md)

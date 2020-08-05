@@ -1,34 +1,34 @@
 ---
 title: 判斷您的計畫資格
 description: 請確定您的獎勵方案符合資格，才能獲得報酬。
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 15b674a9e3c643de2899f3658b474c9209878880
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 498604c94d86c2e8996725470cd15869dc99d068
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114777"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545999"
 ---
 # <a name="program-eligibility"></a>程式資格
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 
-每個獎勵計劃都有特定的資格需求。 這些計畫資格需求的設計，是為了確保您已簽署所有適當的合約、專長認證、收入預測，以及獎勵計畫成功所需的其他必要必要條件。
+每個獎勵計劃都有特定的資格需求。 這些計劃資格需求的設計，是為了確保您已具備已簽署所有適用的合約、已取得專長認證、收入預測，以及獎勵計劃成功所需的其他必要條件。
 
 適當的角色：
 
 - 全域系統管理員
 - 獎勵管理員
 
-## <a name="determining-your-program-eligibility"></a>判斷您的程式資格
+## <a name="determining-your-program-eligibility"></a>判斷您的計劃資格
 
 您可以在計劃指南中找到您計劃特有的資格需求。 
 
@@ -36,7 +36,7 @@ ms.locfileid: "87114777"
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
 
-2. 在左側導覽的 [獎勵] 下，選取 [概觀]。 [**程式總覽**] 頁面隨即開啟。
+2. 在左側導覽的 [獎勵] 下，選取 [概觀]。 [計劃概觀] 頁面隨即開啟。
 
 3. 選取您要允許的計劃，然後開啟該頁面。
 

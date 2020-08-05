@@ -1,27 +1,27 @@
 ---
 title: 管理客戶關聯
-description: 瞭解管理宣告的記錄夥伴（CPOR）客戶關聯的重要程式和時程表。
+description: 瞭解管理宣告的記錄合作夥伴的重要程式和時程表 (CPOR) 客戶關聯。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-ms.topic: article
+ms.subservice: partnercenter-incentives
+ms.topic: how-to
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: eef3ac8253c0507b5fd5fc24cc961f45518f6da2
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 23d2694cbd78de0d6db7669b33c793c535594978
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114789"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545989"
 ---
 # <a name="manage-customer-associations"></a>管理客戶關聯
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 
-宣稱的「記錄」（CPOR）平臺合作夥伴會用來將自己關聯至他們會影響使用或購買 Microsoft 產品的終端客戶。 目前，CPOR 平臺支援 Business Applications 和 Microsoft 365 產品。 合作夥伴會使用此關聯方法來深入瞭解客戶的效能、透過 OSU 和 OSA 計畫取得獎勵款項，並以業務影響者的方式獲得收益關聯。  
+ (CPOR) 平臺的已索取記錄合作夥伴，可讓合作夥伴將自己關聯至其影響使用或購買 Microsoft 產品的終端客戶。 目前，CPOR 平臺支援 Business Applications 和 Microsoft 365 產品。 合作夥伴會使用此關聯方法來深入瞭解客戶的效能、透過 OSU 和 OSA 計畫取得獎勵款項，並以業務影響者的方式獲得收益關聯。  
 
 適當的角色：
 
@@ -73,7 +73,7 @@ ms.locfileid: "87114789"
 
 如果您的 CPOR 關聯宣告遭到拒絕，您有30天的時間會對拒絕提出爭議。 您收到通知拒絕的電子郵件也會告訴您，您可以在何處檢視拒絕的原因，以及如何提出爭議。  
 
-如果已超過30天，而您仍想要對已拒絕的宣告提出爭議，您必須使用更新的執行證明（PoE）提交新的關聯。 
+如果已超過30天，而您仍想要對已拒絕的宣告提出爭議，您將需要使用更新的執行證明來提交新的關聯 (PoE) 。 
 
 ### <a name="to-dispute-a-rejected-claim"></a>若要對已拒絕的宣告提出爭議
 
@@ -87,7 +87,7 @@ ms.locfileid: "87114789"
 
 有三個主要原因是 CPOR 關聯宣告遭到拒絕。
 
-**合作夥伴要求：** 合作夥伴可以要求拒絕其關聯。 當合作夥伴使用不正確的 MPN 來建立 CPOR 關聯宣告，而選擇了不正確的活動（範例 ...）時，主要會使用此原理。 您選擇了 [收益關聯] 而非 [售前]），或不再與客戶合作。
+**合作夥伴要求：** 合作夥伴可以要求拒絕其關聯。 當合作夥伴使用不正確的 MPN 來錯誤地建立 CPOR 關聯宣告，而選擇了不正確的活動 (範例 ...] 時，就會用到此原理。 您選擇了 [收益關聯]，而不是 [售前) ]，或不再與客戶合作。
 
 **客戶拒絕：** 當 CPOR 關聯宣告順利完成 PoE 核准程式後，其狀態會變更為 [已核准]，而客戶會收到拒絕該關聯同意的機會。 如果客戶拒絕同意，則該關聯將會遭到拒絕。
 

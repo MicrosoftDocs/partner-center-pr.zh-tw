@@ -1,27 +1,27 @@
 ---
 title: 準備您的執行證明
-description: 瞭解您的執行證明（PoE）、時程表、觀看狀態和提交指導方針的重要性。
+description: 瞭解您的執行證明的重要性 (PoE) 、時程表、觀看狀態和提交指導方針。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: c036d11840cbec6d4fd390ac48e2ef4824eb2608
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: ce7f135dfc4a2a1e6af5396a6fe01c9d7377f493
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114751"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545939"
 ---
 # <a name="prepare-your-proof-of-execution"></a>準備您的執行證明
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 
-您必須先提交詳細的執行證明（PoE），才能支付獎勵工作的費用。 這篇文章會引導您完成建立有效執行證明的程式。
+在為您的獎勵工作付費之前，您必須 (PoE) 提交詳細的執行證明。 這篇文章會引導您完成建立有效執行證明的程式。
 
 適當的角色：
 
@@ -75,7 +75,7 @@ ms.locfileid: "87114751"
    以下是您的共同作業索賠 PoE 的各種可能狀態。
 
    - 已提交
-   - 待審查後（Microsoft 會在您提交 PoE 後的最後一天前完成其評論）。
+   - 在 [審查] 底下 (Microsoft 會在您提交 PoE 之後，于當月最後一天完成審查。 ) 
    - 必要的動作
    - 編輯中
    - 已核准

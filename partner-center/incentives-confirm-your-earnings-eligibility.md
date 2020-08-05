@@ -1,23 +1,23 @@
 ---
 title: 確認您的收益資格
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/29/2020
 description: 請確定您有資格建立收益，並以獎勵方案付費。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: f67874d5fe44f52e8080abea3dd9403a5f3645e6
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: d8605b564e65473e0f83139c44b2846e5d260292
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114558"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546029"
 ---
 # <a name="confirm-your-earnings-eligibility"></a>確認您的收益資格
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 
@@ -34,7 +34,7 @@ ms.locfileid: "87114558"
 2. 向下滾動以存取您感興趣的程式檔，然後按一下個別程式的檔連結。
 3. 請參閱文件中的＜合作夥伴資格＞與＜合格的營收規則＞小節。
 
-## <a name="next-steps"></a>接下來的步驟
+## <a name="next-steps"></a>後續步驟
 
 - [如何聯絡支援以取得獎勵的協助](https://support.microsoft.com/help/4014850)
 - [如何? 在合作夥伴中心尋找我的全域或帳戶管理員嗎？](https://support.microsoft.com/help/4534519)

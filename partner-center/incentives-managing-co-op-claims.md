@@ -2,22 +2,22 @@
 title: 管理共同作業宣告
 description: 瞭解共同作業的宣告流程，包括期限、貨幣問題，以及如何對已拒絕的共同作業索賠提出爭議。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: b200c946825fa84d4cd9ca87c05c345a0476e344
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 4d164eed72906b8fd04700865c7320c7fc23f11f
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114766"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545969"
 ---
 # <a name="manage-co-op-claims"></a>管理共同作業宣告
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 

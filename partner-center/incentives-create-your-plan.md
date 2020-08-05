@@ -4,20 +4,20 @@ ms.topic: article
 ms.date: 06/29/2020
 description: 收集並建立必要的資訊，為您的獎勵計畫產生成功的行銷計畫。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 37e39328b555e53b0f9789da5baddb280ed4fdea
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 9e10bdf6d47213ec88f4b434fc4c815ce336d956
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114173"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546019"
 ---
 # <a name="create-your-plan"></a>建立您的方案
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 

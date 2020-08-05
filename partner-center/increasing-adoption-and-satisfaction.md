@@ -1,6 +1,6 @@
 ---
 title: 提高採用率與滿意度
-ms.topic: article
+ms.topic: how-to
 ms.date: 07/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d60f1b21a6f9b29fdcaa5551875ce2c6d338a26
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875284"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545929"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>使用合作夥伴中心的計量來增加採用和滿意度
 
@@ -57,11 +57,11 @@ ms.locfileid: "86875284"
 
 2. 選取 [**分析**]，然後選擇功能表上的任何分析選項。
 
-3. 若要在整個客戶集合中下載部署和使用方式資料，請選取 [**匯出**] （向下箭號）選項。
+3. 若要在整個客戶集合中下載部署和使用方式資料，請選取 [**匯出** (向下箭) ] 選項。
 
 術語：
 
-- **權利**= 使用者有權使用的授權（不會因為詐騙或非付款而暫停、尚未升級為其他授權、使用者未取消）等等）
+- **權利**= 使用者有權使用的授權 (不會針對詐騙或非付款而暫停、尚未升級為不同的授權、使用者未取消）等等 ) 
 
 - 作用**中 = 如果**訂閱的使用者在過去28個日曆天內已使用工作的權利。
 
@@ -95,7 +95,7 @@ ms.locfileid: "86875284"
 
 **應考慮**的事項：客戶可能不熟悉軟體、產品版本或其工作。
 
-**應嘗試**的專案：您可以使用雙重策略來訓練（親自或線上），以提高客戶的整體專長，同時也將一些可供客戶使用的自助服務選項推廣。
+**應嘗試**的專案：您可以使用雙重策略來提供訓練 (的人員或線上) ，以提高客戶的整體專長，同時也將一些可供客戶使用的自助選項推廣。
 
 您可能想要重新設計您的支援網站，以同時包含[客戶自我支援](customer-self-support.md)中所述的自助選項，以及您的支援連絡人資訊。
 

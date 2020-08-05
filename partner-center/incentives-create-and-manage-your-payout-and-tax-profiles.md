@@ -1,23 +1,23 @@
 ---
 title: 在合作夥伴中心建立及管理支出與稅務設定檔
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/29/2020
 description: 您必須先建立您的付款和稅務設定檔，才能支付獎勵的工作費用。
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: ed8820065c8c009e64419e58fa11758a27f95d7e
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 3e7424ff1329d9c2bf13e9a6c4181c312396e073
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114083"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87546039"
 ---
-# <a name="payout-and-tax-profiles-in-partner-center"></a>合作夥伴中心的支出和稅務設定檔
+# <a name="payout-and-tax-profiles-in-partner-center"></a>合作夥伴中心的支出和稅金設定檔
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 
@@ -38,7 +38,7 @@ ms.locfileid: "87114083"
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>存取合作夥伴中心的支出和稅務區段
 
-1. 使用您的 AAD 帳戶（公司帳戶）或適當的電子郵件地址（如果有指派）登入合作夥伴中心。 
+1. 使用您的 AAD 帳戶登入合作夥伴中心， (公司帳戶) 或適當的電子郵件地址（如果有指派）。 
 
    - 您可以在一個 AAD 帳戶內註冊多個網域。 請洽詢您的全域管理員，以判斷哪些網域相關聯。
    - 如果您只能夠使用網域登入 **@onmicrosoft.com** ，請洽詢您的帳戶管理員，將其他網域新增至 AAD 帳戶。

@@ -1,6 +1,6 @@
 ---
 title: 銷售到特色產業
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 849c7fc92a4ca88fbddf5e8aa3c95e6ac60ff984
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947403"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545529"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>銷售給特定產業，例如教育、非營利團體和政府使用者
 
@@ -36,7 +36,7 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 |----------------------------|:---------------------------------|:------------------------------------------|
 |教育訓練   |無   | 必須是[合格的教育使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
 |政府機關   |若要銷售 Azure，請使用[MICROSOFT 美國政府雲端驗證表單](https://azuregov.microsoft.com/csp)進行註冊。 若要銷售授權型訂閱給政府機構，沒有要求資格。|   無|
-|非營利  |無<br/> 必須有非營利 Azure Active Directory 租用戶。<br/> 深入了解[非營利特別優惠](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)。   |透過[Microsoft 非贏利計畫](https://nonprofit.microsoft.com/#/register)註冊以符合資格。   |
+|非營利  |無<br/> 必須有非營利 Azure Active Directory 租用戶。<br/> 深入了解[非營利特殊供應項目](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)。   |透過[Microsoft 非贏利計畫](https://nonprofit.microsoft.com/#/register)註冊以符合資格。   |
 
 ## <a name="check-your-reseller-qualifications"></a>檢查您的經銷商資格
 
@@ -62,9 +62,9 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 ## <a name="purchase-rules-for-special-segments"></a>特殊部門的採購規則
 
-只有當合作夥伴符合特定準則時，才能夠銷售特別優惠給客戶。 
+只有當合作夥伴符合特定準則時，才能夠銷售特殊供應項目給客戶。 
 
-- 只有在客戶授權為教育機構時，才能購買教育優惠。 教育客戶只能接受教育和商業供應專案，而不是非收益或政府機關雲端（GCC）。
+- 只有在客戶授權為教育機構時，才能購買教育優惠。 教育客戶只能接收教育和商業供應專案，但不能 (GCC) 的非收益或政府機關雲端。
 - 合作夥伴只能購買 GCC 客戶的 GCC 訂閱。 一旦客戶擁有 GCC 訂用帳戶，合作夥伴就無法購買商業、教育或非盈利訂閱。 
 - 合作夥伴只能購買非盈利客戶的商業或非收益訂閱。 合作夥伴無法為非盈利客戶購買 GCC 或教育版訂閱。
 
