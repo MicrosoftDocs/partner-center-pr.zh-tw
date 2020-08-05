@@ -1,6 +1,6 @@
 ---
 title: 取得客戶的系統管理員權限
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 88b3a71bb63ac7ac3287712944a2a4663928a165
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
+ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943505"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "87545899"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>取得管理客戶服務或訂閱的權限
 

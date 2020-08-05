@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6408aca4275b331b46de45b62d66e637dd422033
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
+ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114683"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87389127"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>購買或續約 Microsoft 行動套件優惠，或者銀級或金級專長認證
 
@@ -32,7 +32,7 @@ ms.locfileid: "87114683"
 - 系統管理代理人
 - 銷售代理人
 
-現在，從合作夥伴中心[儀表板]()中，Microsoft 合作夥伴網路 (MPN.md) 的成員可以購買或續約您的權益優惠。 這類優惠包括 Microsoft 行動套件訂閱，以及銀級和金級專長認證。
+現在，從合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)中，Microsoft 合作夥伴網路 (MPN.md) 的成員可以購買或續約您的權益優惠。 這類優惠包括 Microsoft 行動套件訂閱，以及銀級和金級專長認證。
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>首次購買 Microsoft 行動套件
 

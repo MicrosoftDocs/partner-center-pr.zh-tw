@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: d03421995c2243b5deb8575916dbe15c76ea746c
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944445"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433897"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -174,7 +174,7 @@ _________________
 
 - **如果您尚未啟用建議的安全性需求來保護您的租用戶及使用者**，請立即進行，以確保符合規範，以及避免管理客戶或在雲端解決方案提供者中交易時的任何業務中斷。 未實作安全性需求的合作夥伴，可能會使他們在參與雲端解決方案提供者計畫時面臨風險。
 - 間接提供者必須在自己的公司實作這些安全性需求，並利用此電子郵件範本，確認轉銷商也實作了這些需求。 我們也會透過電子郵件，直接連絡您的轉銷商。
-- 請前往[合作夥伴中心安全性需求狀態頁面](https://partner.microsoft.com/pcv/security/compliance)，以識別進度及需要採取的主要動作。 與您的全域管理員合作，定期檢查各個租用戶的安全性需求進度。
+- 請前往[合作夥伴中心安全性需求狀態頁面](https://partner.microsoft.com/commerce/security/compliance)，以識別進度及需要採取的主要動作。 與您的全域管理員合作，定期檢查各個租用戶的安全性需求進度。
 - 如果您使用的是控制台廠商 (CPV) 解決方案，請洽詢您的 CPV。
 
 ### <a name="additional-resources"></a>其他資源

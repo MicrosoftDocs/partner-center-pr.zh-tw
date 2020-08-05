@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f89240966de1976bd08ae8a91272bf6b10dddfcc
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943556"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444902"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
 
@@ -55,7 +55,7 @@ Microsoft 合作夥伴合約會要求您對使用者帳戶強制執行多重要�
 - 您必須符合[合作夥伴安全性需求](partner-security-requirements.md)中所述的所有需求
 - 您必須確保合作夥伴租用戶中的所有使用者帳戶都已強制執行多重要素驗證。
 
-為了協助識別您可採取動作的主要區域，我們會提供可透過合作夥伴中心取得的[安全性需求狀態](https://partner.microsoft.com/pcv/security/compliance)報告。
+為了協助識別您可採取動作的主要區域，我們會提供可透過合作夥伴中心取得的[安全性需求狀態](https://partner.microsoft.com/commerce/security/compliance)報告。
 
 如需狀態報告的詳細資訊，請參閱[合作夥伴安全性需求狀態](partner-security-compliance.md)。
 
