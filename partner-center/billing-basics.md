@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba6ea547ed63bc4369b06cb86df8aad24870d2ab
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4ff64c265aadacca5389c16168d1e161936f5e88
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435607"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468526"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>在合作夥伴中心運作的 CSP 方案合作夥伴計費概觀 
 
@@ -49,7 +49,7 @@ Microsoft 對於您開立發票的處理方式上沒有任何要求或條件。
 
 ### <a name="billing-types"></a>帳單類型
 
-合作夥伴中心內的計費類型包含**授權型計費**、**用量型計費**、**一次性計費**。 如需詳細資訊，請參閱[合作夥伴中心的帳單類型](billing-different-types.md)完整說明。
+合作夥伴中心內的計費類型包含**授權型計費**、**用量型計費**、**一次性計費**。 
 
 ### <a name="billing-currency"></a>計費貨幣
 

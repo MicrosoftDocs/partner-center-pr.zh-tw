@@ -1,6 +1,6 @@
 ---
 title: 成為貴公司的全域系統管理員
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c448ea1786311c265ffc6defe0ec445fd41bc9a2
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: fd2f47675cc60442390eb3394d7257d971c0e234
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435637"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527384"
 ---
 # <a name="verify-your-domain-ownership"></a>確認網域的擁有權
 
@@ -56,4 +56,6 @@ ms.locfileid: "86435637"
 - 檢視、建立和管理合作夥伴使用者
 - 購買和管理雲端服務
 
-如需角色和權限的詳細資訊，請參閱[建立使用者帳戶](create-user-accounts-and-set-permissions.md)。 
+## <a name="next-steps"></a>接下來的步驟
+
+- 如需角色和權限的詳細資訊，請參閱[建立使用者帳戶](create-user-accounts-and-set-permissions.md)。 
