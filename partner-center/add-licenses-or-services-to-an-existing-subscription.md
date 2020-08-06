@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何升級或修改客戶的訂閱。 新增更多授權、新增更多基座，或移至具有更多服務的不同版本。
+description: 了解如何升級或修改客戶的訂閱。 新增更多授權，或移至具有更多服務的不同版本。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 251423b40508e25dc9ea5c89fffb34c4f0c10499
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
+ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436357"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "87468777"
 ---
-# <a name="add-licenses-seats-or-more-services-to-a-customers-subscription"></a>將授權、基座或更多服務新增至客戶的訂閱
+# <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>將授權或更多服務新增至客戶的訂閱
 
 **適用於**
 
@@ -31,55 +31,22 @@ ms.locfileid: "86436357"
 - 銷售代理人
 - 技術服務代理人
 
-如果您的客戶需要的基座數目比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您可能可以透過升級訂閱來達成。 如需詳細資料，請參閱[切換為不同的 Microsoft 365 Apps 商務版方案](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
+如果您的客戶需要的授權數比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您或許可透過升級訂閱來達成。 如需詳細資訊，請參閱[切換為不同的 Microsoft 365 Apps 商務版方案](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
 
-## <a name="upgrades-supported-in-the-csp-program"></a>CSP 計畫中支援的升級 <a href="" id="upgradesubscription"></a>
+## <a name="upgrades-supported-in-the-csp-program"></a>CSP 計畫中支援的升級 <a id="upgradesubscription"></a>
 
 雲端解決方案提供者支援下列升級：
 
-<table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>產品</th>
-<th>可能的升級</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Microsoft 365 Apps 商務版</td>
-<td><ul>
-<li>Microsoft 365 商務進階版¹</li>
-<li>Microsoft 365 Apps 企業版</li>
-<li>Office 365 企業版 E3</li>
-<li>Office 365 企業版 E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td>Microsoft 365 商務版標準版</td>
-<td><ul>
-<li>Office 365 企業版 E3</li>
-<li>Office 365 企業版 E5</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td>Microsoft 365 商務基本版</td>
-<td><ul>
-<li>Microsoft 365 商務標準版¹</li>
-<li>Office 365 企業版 E1</li>
-<li>Office 365 企業版 E3</li>
-<li>Office 365 企業版 E5</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>¹ Microsoft 365 Apps 商務版 (印度) 和 Microsoft 365 商務基本版 (印度) 可以升級為 Microsoft 365 商務標準版 (印度)，而不是 Microsoft 365 商務標準版。</p></td>
-</tr>
-</tbody>
-</table>
+| 產品 | 可能的升級|
+|---:|:---|
+| Microsoft 365 Apps 商務版   | - Microsoft 365 商務進階版¹ <br/>  - Microsoft 365 Apps 企業版 <br/> - Office 365 企業版 E3 <br/> - Office 365 企業版 E5 <br/> |
+| Microsoft 365 商務標準版    | - Office 365 企業版 E3 <br/> - Office 365 企業版 E5 <br/> |
+| Microsoft 365 商務基本版 | - Microsoft 365 商務標準版¹ <br/> - Office 365 企業版 E1 <br/> - Office 365 企業版 E3<br/> - Office 365 企業版 E5 <br/> |
+
+¹ Microsoft 365 Apps 商務版 (印度) 和 Microsoft 365 商務基本版 (印度) 可以升級為 Microsoft 365 商務標準版 (印度)，而不是 Microsoft 365 商務標準版。
+
+
+## <a name="conditions"></a>條件
 
 如果符合下列條件，便可以升級訂閱：
 
@@ -93,7 +60,7 @@ ms.locfileid: "86436357"
 
 在後面兩個情況下，客戶有可能已經透過其他合作夥伴或管道購買那些訂閱或服務，而在沒有取消現有訂閱或服務的情況下，他們將無法透過您購買那些訂閱或服務。 如需詳細資訊，請參閱[多通路](multichannel.md)。
 
-如需此情況會對帳單所造成之影響的詳細資訊，請參閱[常見帳單案例](common-billing-scenarios.md)中有關取消訂閱並新增新訂閱的詳細資料。
+如需帳單所受影響的詳細資訊，請參閱[常見帳單案例](common-billing-scenarios.md)以了解如何取消訂閱和新增訂閱。
 
 ## <a name="upgrade-a-subscription"></a>升級訂閱
 

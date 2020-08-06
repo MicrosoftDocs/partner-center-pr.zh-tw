@@ -1,7 +1,7 @@
 ---
 title: 恢復 Azure CSP 的管理員權限
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 07/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何協助客戶恢復合作夥伴的管理員權限，讓合作夥伴能夠協助管理客戶的 Azure CSP 訂用帳戶。
@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 362ae4a472b78417a4921b734a77f6259aaaa1f3
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 2c98ddf67567935a17e33546ce41de723b3be134
+ms.sourcegitcommit: d7e620f826cd6570113384c3db34bd96e2f0359b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85949259"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "87412424"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>恢復客戶的 Azure CSP 訂用帳戶管理員權限  
 
@@ -49,7 +49,7 @@ CSP 中的 Azure 系統管理員許可權有兩種層級。
 
 您的客戶必須將您的系統管理員代理程式群組新增為 Azure CSP 訂用帳戶的擁有者。
 
-1. 請使用 PowerShell 主控台或 PowerShell 整合式腳本環境 (ISE)。 請確定已安裝 AzureRM 和 AzureAD 模組。
+1. 請使用 PowerShell 主控台或 PowerShell 整合式腳本環境 (ISE)。 請確定已安裝 AzureAD 模組。
 
 2. 連線到您的 Azure AD 租用戶。
 
@@ -62,24 +62,19 @@ CSP 中的 Azure 系統管理員許可權有兩種層級。
    ```powershell
    Get-AzureADGroup
    ```
-
-   :::image type="content" source="images/azure/revoke5.png" alt-text="系統管理代理人群組":::
-
    下列步驟是由您客戶公司中的使用者所執行，這些使用者具有 Azure CSP 訂用帳戶擁有者存取權。
 
-4. 具有 Azure CSP 訂用帳戶擁有者存取權的使用者，會使用自己的認證登入 Azure Resource Manager。
+4. 具有 Azure CSP 訂用帳戶擁有者存取權的使用者，會使用自己的認證登入 Azure。
 
    ```powershell
-   Login-AzureRMAccount
+   Connect-AzAccount
    ```
 
 5. 然後，她可以新增您的系統管理員代理程式群組，作為 CSP Azure 訂用帳戶的擁有者。
 
     ```powershell
-    New-AzureRMRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
     ```
-
-   :::image type="content" source="images/azure/revoke6.png" alt-text="系統管理代理人擁有者":::
 
 ## <a name="next-steps"></a>接下來的步驟
 

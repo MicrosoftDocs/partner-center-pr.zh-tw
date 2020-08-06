@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7cbf049d2a65fd9738299e090e8ab40107d64f89
-ms.sourcegitcommit: 54f823f0e02e0e7add737d78de74d8eba8d9f381
+ms.openlocfilehash: 42732a20b4901223a9376d3221579e7cd7be3297
+ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86875164"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87444590"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>比較 CSP 方案中各個 Azure 供應項目之間的差異
 
@@ -32,11 +32,11 @@ ms.locfileid: "86875164"
 
 下表概述了 CSP 計畫所提供供應項目 (屬於新的 Microsoft 商務體驗) 之間的主要差異。
 
-|**供應項目**| **Azure 方案**|**第三方市集供應項目**|**Azure Reservations**|**透過雲端解決方案提供者銷售的伺服器訂閱**|**基座型供應項目**|
+|**供應項目**| **Azure 方案**|**第三方市集供應項目**|**Azure Reservations**|**透過雲端解決方案提供者銷售的伺服器訂閱**|**授權型供應項目**|
 |-------------------|:------|:-----|:---------|:--------------|:---------|
 |計費|每月|變數 (供應項目相依)|客戶|完整期限或 3 年期限的前期|每月或每年|
 |被授權人|客戶|變數 (供應項目相依)|客戶| 客戶|客戶|
-|涵蓋範圍|使用中直到取消|變數 (供應項目相依)|請參閱供應項目描述|所有 Azure Reservations 都有自己獨特的涵蓋範圍。 所有伺服器訂閱都有自己獨特的涵蓋範圍。|   其他基座型授權將會納入現有的涵蓋範圍期間|
+|涵蓋範圍|使用中直到取消|變數 (供應項目相依)|請參閱供應項目描述|所有 Azure Reservations 都有自己獨特的涵蓋範圍。 所有伺服器訂閱都有自己獨特的涵蓋範圍。|   其他授權將會納入現有的涵蓋範圍期間內|
 |自動更新|是|是|否| 否|是|
 |多重貨幣|根據客戶位置/貨幣的發票|根據客戶位置/貨幣的發票|根據客戶位置/貨幣的發票|根據客戶位置/貨幣的發票|根據合作夥伴位置貨幣| 
 |發票和對帳檔案|針對每個客戶位置貨幣，區分發票和對帳檔案。  我們也會提供每日評分的使用量檔案 (適用於帳單和未開立帳單部分) |針對每個客戶位置貨幣，區分發票和對帳檔案|針對每個客戶位置貨幣，區分發票和對帳檔案|針對每個客戶位置貨幣，區分發票和對帳檔案|一張發票與對帳檔案上的所有訂單|

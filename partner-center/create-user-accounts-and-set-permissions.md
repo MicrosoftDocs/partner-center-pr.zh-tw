@@ -3,18 +3,18 @@ title: 建立使用者帳戶和指派角色
 description: 每位員工都必須先獲指派角色，然後才能存取合作夥伴中心。 了解如何建立使用者帳戶、指派角色，以及設定權限。
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: c7d04307be7a81cf3501e1b50e278cf1a012afcd
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
+ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435187"
+ms.lasthandoff: 08/03/2020
+ms.locfileid: "87527734"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>建立使用者帳戶以及指派角色和權限
 
@@ -102,3 +102,7 @@ ms.locfileid: "86435187"
 1. 從合作夥伴中心儀表板，選取儀表板右上角的 [您的帳戶] 圖示，然後選取 [我的設定檔]。
 
 2. 在 [您的學習] 之下，您將能夠關聯 Microsoft Learning 帳戶，也可以將您的 Microsoft 帳戶連線到 Partner University。
+
+## <a name="next-steps"></a>接下來的步驟
+
+- [為需要在合作夥伴中心工作的公司使用者指派使用者角色和權限](permissions-overview.md)

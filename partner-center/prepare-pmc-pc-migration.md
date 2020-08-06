@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31da796b50e9deeb2d6256e7818e587e9bedb881
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 08b1b547fc6f494dfdb1199824221aecad9120bc
+ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114571"
+ms.lasthandoff: 07/30/2020
+ms.locfileid: "87433890"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備從 Partner Membership Center (PMC) 移至合作夥伴中心
 
@@ -117,7 +117,6 @@ Microsoft 會自動移轉目前的專長認證、權益、位置資訊、獎勵�
 
 雖然 MPN 系統管理員或全域系統管理員可以將 Visual Studio 以使用量為基礎的訂用帳戶指派給來賓使用者，來賓使用者並無法使用其 MSA 登入合作夥伴中心。 不過，來賓使用者可以登入 Azure 和 Visual Studio 以驗證並使用指派給他的權益。
 
-
  **我們應如何管理 MCP 關聯和 Partner University 存取權？**
 
  從 PMC 移動後，MCP 關聯不會有任何變更。 不過，在移至合作夥伴中心後新增的任何新員工，將必須於合作夥伴中心建立關聯。 現有使用者的所有 Partner University 權限將會保留，但任何新員工都應前往[訓練中心](https://partner.microsoft.com/training)了解如何取得 Partner University 的存取權。
@@ -137,7 +136,9 @@ Microsoft 會自動移轉目前的專長認證、權益、位置資訊、獎勵�
 
 **移至合作夥伴中心是否會影響到獎勵？**
 
-否，如果您在移動帳戶時並未合併位置，獎勵將不受影響。 如果您的公司在 PMC 中有多個帳戶，且您在移至合作夥伴中心時決定將其合併為通用帳戶，您將不會失去獎勵，但獎勵給付可能會有延遲。 如果您未移動所有與獎勵計畫相關的 PMC 帳戶，就可能不會再獲得與這些帳戶繫結的獎勵。
+否，如果您在移動帳戶時並未合併位置，獎勵將不受影響。 如果您的公司在 PMC 中有多個帳戶，且您在移至合作夥伴中心時決定將其合併為通用帳戶，您將不會失去獎勵，但獎勵給付可能會有延遲。 
+
+如果您未移動所有與獎勵計畫相關的 PMC 帳戶，就可能不會再獲得與這些帳戶繫結的獎勵。
 
 
 **合作夥伴中心有哪些獎勵角色？** 
@@ -160,7 +161,12 @@ Microsoft 會自動移轉目前的專長認證、權益、位置資訊、獎勵�
 
 系統會根據客戶定義的搜尋參數來指派推薦。 不論您是有一個還是多個位置，在客戶指定了所需的位置後，如果您有符合其他參數的業務，則會將推薦指派至該位置。
 
+**我要從俄羅斯移轉至合作夥伴中心。我收到了關於 Web Direct 的錯誤訊息。我應如何繼續進行移轉？**
 
+如果您因為參與 Web Direct 計畫而收到錯誤訊息，您應執行下列動作：
+
+1. 登入 portal.Azure.com，並建立新的 Azure AD 租用戶。 如需詳細資訊，請參閱[建立新的 Azure AD 租用戶](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)。
+1. 建立新的 Azure AD 租用戶之後，請使用此租用戶從 Partner Membership Center 移轉至合作夥伴中心，或註冊為合作夥伴中心的全新客戶。
 
 
 
