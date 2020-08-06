@@ -3,18 +3,18 @@ title: 規劃服務合作的資格
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 瞭解公司可能想要提供給企業客戶的每項軟體保證規劃服務參與的資格需求。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1ab8d3fd15fcd0d50e3bf6ff89865c4dd402e679
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 5712d8ef046e6ffd684775377fc43329d49e842c
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436547"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811228"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>查看規劃服務合作的資格需求
 
@@ -34,12 +34,12 @@ ms.locfileid: "86436547"
 
 |**若要瞭解這些合作的資格需求**   |**前往此供應專案的資料工作表**  |
 |:------------------------------------|:------------------|
-| Windows 和 Office 部署規劃<br/><br/> 行動生產力部署規劃<br/><br/> 現代化 IT 企業安全性概念證明 | [桌上型電腦部署規劃服務（DDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116072) |
-| 升級 Microsoft Dynamics 365 for Customer Engagement<br/><br/> 遷移至 Microsoft Dynamics 365 for Customer Engagement<br/><br/> 升級 Microsoft Dynamics 365 以進行財務和營運  | [Dynamics 部署規劃服務（DYDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| 現代化您的 Windows Server 平臺 | [私用雲端、管理和虛擬化規劃服務（PVDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2115982) |
-| SharePoint 部署規劃   | [SharePoint 部署規劃服務（SDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Exchange 部署規劃<br/><br/> 商務用 Skype 部署規劃  | [商務用 Skype 和 Exchange 部署規劃服務（S-EDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116075)  |
-| 資料資產現代化  | [SQL Server 部署規劃服務（SSDPS）的合作](https://go.microsoft.com/fwlink/?linkid=2116076)  |
+| Windows 和 Office 部署規劃<br/><br/> 行動生產力部署規劃<br/><br/> 現代化 IT 企業安全性概念證明 | [桌上型電腦部署規劃服務 (DDPS) 的合作](https://go.microsoft.com/fwlink/?linkid=2116072) |
+| 升級 Microsoft Dynamics 365 for Customer Engagement<br/><br/> 遷移至 Microsoft Dynamics 365 for Customer Engagement<br/><br/> 升級 Microsoft Dynamics 365 以進行財務和營運  | [Dynamics 部署規劃服務 (DYDPS) 的合作](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| 現代化您的 Windows Server 平臺 | [私用雲端、管理和虛擬化規劃服務 (PVDPS) 的合作](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| SharePoint 部署規劃   | [SharePoint 部署規劃服務 (SDPS) 的合作](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Exchange 部署規劃<br/><br/> 商務用 Skype 部署規劃  | [商務用 Skype 和 Exchange 部署規劃服務 (S-EDPS) 的合作](https://go.microsoft.com/fwlink/?linkid=2116075)  |
+| 資料資產現代化  | [SQL Server 部署規劃服務 (SSDPS) 的合作](https://go.microsoft.com/fwlink/?linkid=2116076)  |
 
 ## <a name="next-steps"></a>後續步驟
 

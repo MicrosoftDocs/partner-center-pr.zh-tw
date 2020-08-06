@@ -1,6 +1,6 @@
 ---
 title: 重設密碼
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f750d27753d78267def99eb06053174a25d0f04d
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: f8618e6b75e6d45ebe37510b398c2f03c9e1e9c8
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365694"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811278"
 ---
 # <a name="reset-my-password"></a>重設密碼
 
@@ -32,7 +32,7 @@ ms.locfileid: "87365694"
 
 ## <a name="to-reset-your-partner-center-password"></a>重設您的合作夥伴中心密碼
 
-您的全域管理員必須設定自己的密碼重設功能。 （如果您的全域系統管理員尚未設定此專案，您必須要求他們為[您重設密碼](reset-a-user-password.md)）。
+您的全域管理員必須設定自己的密碼重設功能。  (如果您的全域管理員尚未設定此專案，您就必須要求他們為[您重設密碼](reset-a-user-password.md)。 ) 
 
 1. 在 [登**入**] 畫面上，選取 [**無法存取您的帳戶？** ]，然後選取 **[下一步]**。
 

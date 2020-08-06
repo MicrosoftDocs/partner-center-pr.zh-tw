@@ -3,18 +3,18 @@ title: 軟體保證訓練憑證計畫
 ms.topic: article
 ms.date: 06/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 瞭解如何註冊軟體保證訓練券計畫，讓您可以獲得報酬，將訓練和規劃提供給企業客戶。
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 91cf374c8739bfc428f58e5ec5f4b7748778f923
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436527"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811198"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>合作夥伴中心的軟體保證訓練憑券 (SATV) 計畫
 
@@ -24,7 +24,7 @@ ms.locfileid: "86436527"
 
 ## <a name="get-started"></a>開始使用
 
-如果您不熟悉軟體保證訓練服務，請遵循下列所有步驟。 如果您已經在訓練券計畫中使用，請從下面的步驟4（4）開始。 
+如果您不熟悉軟體保證訓練服務，請遵循下列所有步驟。 如果您已經在訓練券計畫中使用，請從下面的步驟四 (4) 開始。 
 
 1. 確認計畫資格
 2. 註冊訓練計畫
@@ -61,7 +61,7 @@ ms.locfileid: "86436527"
 
 ## <a name="deliver-training-and-activate-product"></a>提供訓練並啟用產品
 
-一旦保留了憑券，就可以將訓練提供給您的客戶。 如需適用于 MOOC 課程的訓練參與指導方針和指示，請參閱開發和購買 Microsoft 官方課程（MOC）、測驗和 Microsoft 課程憑證（LaaS）的工作流程[步驟 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) 。
+一旦保留了憑券，就可以將訓練提供給您的客戶。 請參閱訓練參與指導方針的工作流程[步驟 6](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) ，以及啟用和購買 Microsoft 官方課程的指示 (MOC) 、測驗和 microsoft 課程憑證券 (LaaS) 針對 MOOC 課程。
 
 ## <a name="redeem-voucher"></a>兌換憑券
 
@@ -76,6 +76,6 @@ ms.locfileid: "86436527"
 
 另請參閱：
 
-- [軟體保證訓練券（SATV）工作流程](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
-- [軟體保證訓練券（SATV）常見問題](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
-- [軟體保證訓練券（SATV）原則](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
+- [軟體保證訓練券 (SATV) 工作流程](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB)
+- [軟體保證訓練券 (SATV) 常見問題](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o)
+- [軟體保證訓練券 (SATV) 原則](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)

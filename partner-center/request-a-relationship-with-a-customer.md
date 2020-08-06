@@ -1,6 +1,6 @@
 ---
 title: 要求與客戶建立關係
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ description: 針對多夥伴、多通路案例，或如果您的委派系統管�
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: b928b5fabb0a3f24a3b60e1712c2e2f77659ad5e
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 53cb70e4d21824dc030f469b43e4465e9c5ce871
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943715"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811298"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>如何向合作夥伴中心的客戶要求建立轉銷商關係
 
@@ -63,7 +63,7 @@ ms.locfileid: "86943715"
 | 適用于美國政府 Microsoft Cloud 合作夥伴中心的客戶 | Microsoft Office 系統管理員入口網站 |
 |
 
-## <a name="next-steps"></a>接下來的步驟
+## <a name="next-steps"></a>後續步驟
 
 - [指派支援連絡人](assign-support-contacts.md)
 

@@ -3,18 +3,18 @@ title: 透過 CPOR 模型建立客戶關聯
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: 透過 CPOR （索取記錄夥伴）模型建立客戶關聯。 協助管理 Microsoft 365 和 Dynamics 365 客戶的銷售、使用、& 獎勵。
+ms.subservice: partnercenter-incentives
+description: 透過 CPOR (索取記錄) 模型的夥伴，建立客戶關聯。 協助管理 Microsoft 365 和 Dynamics 365 客戶的銷售、使用、& 獎勵。
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 47f4912e33eb1a2bb3e7c5a1c734d7cc5d3e5f33
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 7f36480f62e82c10fe90cb0b95dbd7c7db9a5080
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468340"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811178"
 ---
 # <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>透過 CPOR 模型建立客戶關聯-用於 Microsoft 365 和 Dynamics 365 客戶
 
@@ -22,7 +22,7 @@ ms.locfileid: "87468340"
 
 - 合作夥伴中心
 
-在2019年10月1日，Microsoft 開始使用宣告合作夥伴的記錄（CPOR）模型來管理與您的 Microsoft 365 和 Dynamics 365 客戶的關聯，與線上服務諮詢（OSA）銷售、線上服務使用（OSU）-Microsoft 365 和 OSU-商務應用程式獎勵相關。
+在2019年10月1日，Microsoft 開始使用 (CPOR) 模型的宣告合作夥伴來管理與您的 Microsoft 365 和 Dynamics 365 客戶有關的線上服務諮詢 (OSA) 銷售、線上服務使用量 (OSU) Microsoft 365 和 OSU-商務應用程式獎勵。
 
 當您提交宣告時，Microsoft 會進行驗證。 此時，我們可能會要求您提供詳細資訊。 我們也會通知客戶您的關聯要求。 客戶有五個工作天可以退出宣告。如果他們未退出宣告，您與此特定租使用者和工作負載的關聯將會是官方的。 此時，您可以存取客戶的使用量資料。 
 
@@ -46,9 +46,9 @@ ms.locfileid: "87468340"
 
 - 您將建立此宣告的**名稱**
 
-- 您所索取的**產品**或工作負載
+- **產品 (s) **或您所索取的工作負載 () 
 
-- **執行證明（POE）**，例如客戶所簽署的工作聲明。 您也可以下載要使用的 POE 範本。
+- **執行證明 (POE) **，例如客戶所簽署的工作聲明。 您也可以下載要使用的 POE 範本。
 
 - 僅適用于宣告收益關聯的合作夥伴： **Dynamics 解決方案賣方名稱**、**客戶名稱**和**ISV 產品/解決方案的名稱**。 
 
@@ -58,7 +58,7 @@ ms.locfileid: "87468340"
 
 - 如果您有與 Dynamics 365 或 Power BI 客戶的現有關聯，這些關聯將會維持有效，直到其訂閱到期為止。
 
-- 客戶可以有多個夥伴，但每個工作負載（適用于 Microsoft 365 OSU）或訂用帳戶（適用于 OSA 銷售和 OSU Business Applications）只能與一個合作夥伴相關聯。
+- 一個客戶可以有多個夥伴，但 OSU Microsoft 365) 或訂用帳戶 (的每個工作負載 (用於 OSA 銷售和 OSU Business Applications) 只能與一個合作夥伴建立關聯。
 
 ## <a name="create-a-customer-association"></a>建立客戶關聯
 
@@ -80,7 +80,7 @@ ms.locfileid: "87468340"
 
 6. 在 [**關聯客戶**] 頁面上輸入適當的資訊，然後選取 [**建立**宣告]。
 
-7. 選取與此客戶關聯相關聯的產品，然後選取 [**繼續**]。
+7. 選取與此客戶關聯相關聯的 [產品 (]) ，然後選取 [**繼續**]。
 
 8. 完成客戶連絡人資訊和貴公司的連絡人資訊。 所有欄位皆為必填項目。 
 

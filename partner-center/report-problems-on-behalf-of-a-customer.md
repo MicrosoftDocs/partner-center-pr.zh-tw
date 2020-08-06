@@ -1,6 +1,6 @@
 ---
 title: 代表客戶報告問題
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 032c4b924da4f123485c3959448441f420f6ba37
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389137"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811318"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客戶回報服務問題，包括何時和如何執行這項操作
 
@@ -34,7 +34,7 @@ ms.locfileid: "87389137"
 3. 從 [新增要求]**** 下拉式功能表中，選取 **Azure** 或 **Office 365、Dynamics 365、Enterprise Mobility Suite**。 系統會將您重新導向至 Microsoft Azure 入口網站或 Office 365 系統管理中心。
 
 >[!NOTE]
->需要在 CSP 中交易 Dynamics 365 的支援作業合作夥伴，才能維護對合作夥伴（ASfP）方案或更高版本的支援合約。 需要此支援合約，才能代表 CSP 客戶提交 Dynamics 365 事件。 [深入瞭解](https://partner.microsoft.com/support/partnersupport)支援協定選項。
+>在 CSP 中交易 Dynamics 365 的支援作業合作夥伴，必須維護合作夥伴 (ASfP) 方案或更高版本的支援合約。 需要此支援合約，才能代表 CSP 客戶提交 Dynamics 365 事件。 [深入瞭解](https://partner.microsoft.com/support/partnersupport)支援協定選項。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
@@ -84,7 +84,7 @@ ms.locfileid: "87389137"
 
 ### <a name="support-for-commercial-marketplace-products"></a>商業市集產品的支援
 
-Microsoft 不會供應商業 marketplace 產品的產品支援。 您必須洽詢發佈產品的獨立軟體廠商（ISV）以取得支援。
+Microsoft 不會供應商業 marketplace 產品的產品支援。 您必須洽詢獨立軟體廠商 (ISV) 發佈產品以取得支援。
 
 若要尋找 ISV 的連絡人資訊：
 
@@ -102,7 +102,7 @@ Microsoft 不會供應商業 marketplace 產品的產品支援。 您必須洽�
 
 服務要求應透過合作夥伴中心來進行歸檔。 這些版本適用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企業行動套件。 身為參與雲端解決方案提供者計畫的合作夥伴，您可以期待您的重大問題獲得優先回應。
 
-CSP 支援權益中不包含您自己的合作夥伴租使用者支援。 不過，Office 365、Microsoft Dynamics CRM Online 和企業行動套件不會向合作夥伴或客戶收取個別的支援訂用帳戶費用。 Azure 會收取費用，但如果您有權簽署雲端支援或其他 Microsoft 合作夥伴網路（MPN）權益，您可以使用這些功能來支付費用。
+CSP 支援權益中不包含您自己的合作夥伴租使用者支援。 不過，Office 365、Microsoft Dynamics CRM Online 和企業行動套件不會向合作夥伴或客戶收取個別的支援訂用帳戶費用。 Azure 會收取費用，但如果您有權簽署雲端支援或其他 Microsoft 合作夥伴網路 (MPN) 權益，您可以使用這些功能來支付費用。
 
 這項權益適用於參與雲端解決方案提供者計畫的所有合作夥伴 (無論是付費或在試用期內)。 此套件中也包含了免費的帳單和訂閱管理支援。
 
@@ -113,8 +113,8 @@ CSP 支援權益中不包含您自己的合作夥伴租使用者支援。 不過
 **技術中斷修復事件**的初始回應時間：
 
 - 嚴重影響 (嚴重性 A)：2 小時 (顯著的服務中斷或品質降低。 生產服務關閉)。
-- 中度影響（嚴重性 B）：四小時（仲裁遺失或服務效能降低）。 生產服務部分受到影響。）
-- 最小影響（嚴重性 C）：8小時（最少遺失或服務效能降低）。 服務仍在使用中，或非生產服務受到影響。）
+- 中等影響 (嚴重性 B) ：四小時 (仲裁遺失或服務效能降低。 生產服務部分受到影響。 ) 
+-  (嚴重性 C) 的最小影響：8小時 (最少遺失或降低服務效能。 服務仍在使用中，或非生產服務受到影響。 ) 
 
 初始回應時間僅提供英文支援。 當地語言支援僅於營業時間提供。
 對於落在支援權利界限內但未視為協助修正事件的事件，初始回應時間最多可能是一個工作天。

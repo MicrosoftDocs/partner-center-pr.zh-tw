@@ -1,6 +1,6 @@
 ---
 title: 管理客戶清單
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 865af6a054fc10cddd5422e1ef91ec3df14f69aa
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 40df034e88a1bba7829d6f73e0fb970795a2a0dd
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377742"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811258"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>管理您的客戶清單-在合作夥伴中心搜尋、更新或匯出客戶
 
@@ -39,7 +39,7 @@ ms.locfileid: "86377742"
 2.  若要搜尋客戶，請在搜尋方塊中輸入客戶名稱或網域名稱。
 3.  選取客戶列末端的 **「向下箭號」** 來查看其 Microsoft ID，以及與他們相關聯的訂閱和服務的快速連結。
 4.  在客戶的 **\[帳單地址\]** 資訊下方，更新公司名稱。 當您儲存新值時，該值將反映在客戶清單中。 這只會變更帳單地址公司名稱和客戶清單值， 而不會反映在任何其他地方。
-<sup>1</sup>
+
 ## <a name="export-your-customer-list"></a>匯出客戶清單
 
 1. 從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]。
@@ -55,7 +55,7 @@ ms.locfileid: "86377742"
     根據預設，不論客戶清單多長，合作夥伴中心會匯出整個清單。 您也可以根據公司名稱或網域來搜尋客戶清單，並匯出該資料子集。
 
 3. 如果您是間接提供者，您可以根據間接經銷商篩選客戶清單。 請從下拉式清單選取 **\[依據間接經銷商篩選\]**，然後選擇經銷商。
-<sup>1</sup>
+
 
 ## <a name="export-customer-subscription-information"></a>匯出客戶訂閱資訊
 

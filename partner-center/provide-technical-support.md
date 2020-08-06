@@ -3,18 +3,18 @@ title: 提供客戶技術支援
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-incentives
 description: 瞭解技術支援雲端解決方案提供者方案合作夥伴可以提供客戶的類型。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b10601bcfaf71b9b36eb9955ad7b4822cd0fe63b
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: e5ee0fcacb1d67fd015bd0e143d8d4e19b49ce71
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114503"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87810908"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>提供技術支援，協助客戶設定、管理及使用其訂閱
 
@@ -56,8 +56,8 @@ ms.locfileid: "87114503"
 
 - **技術**問題支援透過下列管道提供：
 
-  - 合作夥伴的頂級支援（以費用為基礎）
-  - 合作夥伴的先進支援（以費用為基礎）
+  -  (以費用為基礎) 的合作夥伴頂級支援
+  - 對合作夥伴 (費用) 的先進支援
   - Signature Cloud Support (隨附於金級/銀級專長認證)
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>提供帳單、訂閱管理和技術支援 

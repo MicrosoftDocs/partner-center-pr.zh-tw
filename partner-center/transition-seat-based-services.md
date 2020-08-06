@@ -1,7 +1,7 @@
 ---
 title: 將以授權為基礎的客戶移至 CSP 計畫
-description: 瞭解如何將以授權為基礎的客戶從其他頻道或其他合作夥伴移至合作夥伴中心的雲端解決方案提供者（CSP）計畫。
-ms.topic: article
+description: 瞭解如何在合作夥伴中心，將以授權為基礎的客戶從其他頻道或其他合作夥伴移至雲端解決方案提供者 (CSP) 方案。
+ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 993fc3a3e6ff55c392b617b265215d95f7bd7513
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5304e8c2e00b832551bfdb06872bc0051b6064dc
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444563"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811128"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>將以授權為基礎的客戶從其他管道 & 合作夥伴移至雲端解決方案提供者方案
 
@@ -24,17 +24,17 @@ ms.locfileid: "87444563"
 
 如果您的客戶想雇用多個合作夥伴、將其訂閱轉移到另一個合作夥伴，或管理其在其他地方購買的訂閱，您可以手動移動他們。 您也可以從另一個頻道將客戶移至合作夥伴中心。
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>將客戶的授權型訂閱移至雲端解決方案提供者方案（CSP）
+## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>將客戶以授權為基礎的訂用帳戶移至雲端解決方案提供者方案 (CSP) 
 
 1. 選取 [合作夥伴中心] 功能表中的 [**客戶**]，然後選取 [**要求轉銷商關係**]。 若要提供支援給多管道帳戶，方法相同。
 
-2. 一旦客戶接受您的邀請之後，您就能夠為客戶布建所需的訂用帳戶和授權（例如，客戶先前購買的相同 Office 365 供應專案）。
+2. 一旦客戶接受您的邀請之後，您就能夠為客戶提供所需的訂用帳戶和授權 (例如，客戶先前購買) 的相同 Office 365 供應專案。
 
 3. 客戶可以允許原始訂閱到期或取消。 不過，由於取消的訂用帳戶沒有退款，因此最好等到訂用帳戶接近自然到期日期。
 
 
    >[!NOTE]
-   >如果客戶透過 Microsoft 365 （M365）系統管理員入口網站購買（例如，從 Microsoft 的每月或每年計費直接），就有資格享有信用額度。 直接向 Microsoft 購買之訂用帳戶的信用額度是由**M365 帳務支援**所處理。 如需如何[取消 M365 訂](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)用帳戶的相關資訊，請參閱 M365 指引。 如果您已委派客戶的系統管理許可權，您可以代表您的客戶聯繫 M65 支援人員。 如果不是，請要求您的客戶直接聯絡 M365 支援，以瞭解他們有哪些點數符合資格，以及如何提供此信用額度。 閱讀委派系統[管理員許可權](customers-revoke-admin-privileges.md)的資訊。
+   >如果客戶是透過 Microsoft 365 (M365) 系統管理員入口網站 (例如，從 Microsoft) 的每月或每年帳單直接取得，就有資格享有信用額度。 直接向 Microsoft 購買之訂用帳戶的信用額度是由**M365 帳務支援**所處理。 如需如何[取消 M365 訂](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)用帳戶的相關資訊，請參閱 M365 指引。 如果您已委派客戶的系統管理許可權，您可以代表您的客戶聯繫 M65 支援人員。 如果不是，請要求您的客戶直接聯絡 M365 支援，以瞭解他們有哪些點數符合資格，以及如何提供此信用額度。 閱讀委派系統[管理員許可權](customers-revoke-admin-privileges.md)的資訊。
 
 
 4. 客戶屆時將繼續沿用您已佈建的訂閱，而不會中斷。

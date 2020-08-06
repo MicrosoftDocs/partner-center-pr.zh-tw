@@ -1,6 +1,6 @@
 ---
 title: 為客戶設定 Azure 消費預算
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/03/2020
 description: 瞭解如何為您的客戶設定或移除每月的 Azure 費用預算，同時也可查看 Azure 費用資料並設定預算相關通知。
 ms.service: partner-dashboard
@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a52fa8d490ad43cc1e4f331b1a335004a07c83bd
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 982d4ed310415349acde3d260afce04eb0d55ac5
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377732"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811248"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>在合作夥伴中心內設定、檢查或移除客戶的每月 Azure 費用預算
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
@@ -26,9 +26,9 @@ ms.locfileid: "86377732"
 您可以在合作夥伴中心[為您的客戶設定每月的 Azure 費用預算](#set-azure-spending-budget)。 這可協助您的客戶管理其 Azure 費用。 此選項可讓您將客戶的 Azure 費用與當月的預算進行比較。 它也可協助您的客戶預算其 Azure 費用，使其每月帳單不會高於預期。
 
 > [!NOTE]  
-> 這項功能無法在沙箱中使用，或在生產（TIP）帳戶中測試。
+> 這項功能不適用於在生產環境中的沙箱或測試 (TIP) 帳戶。
 
-[為客戶設定 Azure 消費預算](#set-azure-spending-budget)之後，您也可以透過下列方式來審查客戶的使用量。 這些選項可協助您找出設定錯誤的服務或可能會建議詐騙的異常趨勢。 接著，您可以與您的客戶合作，找出根本原因並管理成本。 如有必要，您也可以[將客戶的預算變更](#set-azure-spending-budget)為較高的金額。
+[為客戶 (s) 設定 Azure 消費預算](#set-azure-spending-budget)之後，您也可以透過下列方式來審查客戶的使用量。 這些選項可協助您找出設定錯誤的服務或可能會建議詐騙的異常趨勢。 接著，您可以與客戶 () ，找出根本原因並管理成本。 如有必要，您也可以[將客戶的預算變更](#set-azure-spending-budget)為較高的金額。
 
 - [檢查目前的 Azure 費用](#check-current-azure-spending)
 
@@ -36,13 +36,13 @@ ms.locfileid: "86377732"
 
 - [依據依使用量的訂用帳戶，查看服務的明細成本](#itemized-costs-by-service)
 
-您也可以隨時[移除客戶的 Azure 消費預算](#remove-azure-spending-budget)。
+您也可以隨時移除客戶 (s) 的[Azure 消費預算](#remove-azure-spending-budget)。
 
 ## <a name="azure-spending-data"></a>Azure 費用資料
 
 Azure 消費資料是*估計值*，而*實際的計費金額可能會有所不同*。 資料的值*不會反映*可能適用的稅金、信用額度、調整或其他費用。
 
-消費資料每天會重新整理*一次*。 除非您變更 Azure 入口網站中的帳戶設定，否則您的客戶可以繼續使用（並收取） Azure 服務和資源。
+消費資料每天會重新整理*一次*。 除非您變更 Azure 入口網站中的帳戶設定，否則您的客戶可以繼續使用 (並收取) Azure 服務和資源的費用。
 
 ## <a name="set-azure-spending-budget"></a>設定 Azure 消費預算
 
@@ -52,7 +52,7 @@ Azure 消費資料是*估計值*，而*實際的計費金額可能會有所不�
 
 2. 在左側功能表的 [ **CSP**] 底下，選擇 [ **Azure 費用**]。
 
-3. 在 [ **Azure 消費**] 頁面的 [**具有 Microsoft Azure 訂用**帳戶的客戶] 底下，選取您想要設定預算的客戶。
+3. 在 [ **Azure 消費**] 頁面的 [**具有 Microsoft Azure 訂用**帳戶的客戶] 底下，選取您想要設定預算的客戶 (s) 。
 
 4. 輸入 [**每月預算**] 的值。
 
@@ -74,13 +74,13 @@ Azure 消費資料是*估計值*，而*實際的計費金額可能會有所不�
 
 ## <a name="remove-azure-spending-budget"></a>移除 Azure 費用預算
 
-您可以在合作夥伴中心移除客戶的*每月 Azure 費用預算*：
+您可以在合作夥伴中心內移除客戶 () 的*每月 Azure 費用預算*：
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
 
 2. 在左側功能表的 [ **CSP**] 底下，選擇 [ **Azure 費用**]。
 
-3. 在 [ **Azure 消費**] 頁面的 [**具有 Microsoft Azure 訂用帳戶的客戶**] 底下，選取您想要移除其預算的客戶。
+3. 在 [ **Azure 消費**] 頁面的 [**具有 Microsoft Azure 訂用**帳戶的客戶] 底下，選取您想要移除其預算的客戶 (s) 。
 
 4. 選擇 [**移除預算**]。
 
@@ -110,7 +110,7 @@ Azure 消費資料是*估計值*，而*實際的計費金額可能會有所不�
 
 ## <a name="itemized-costs-by-service"></a>依服務的明細成本
 
-您可以*針對使用量型訂用帳戶，根據服務來查看明細成本（和預估使用量）*：
+您可以*針對以使用量為基礎的訂用帳戶，查看依服務) 的明細成本 (和預估使用量*：
 
 1. 登入合作夥伴中心。
 

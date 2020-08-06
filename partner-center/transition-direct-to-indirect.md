@@ -1,6 +1,6 @@
 ---
 title: 將直接帳單合作夥伴切換至間接轉銷商
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 057c0549d05fc560a325c20a31e64f516d0d7ff8
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 16f3c4a2e61bbc207bb99d6c9aeb1636260a55ee
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444998"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811188"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>從雲端解決方案提供者 (CSP) 直接帳單合作夥伴轉換到雲端解決方案提供者間接經銷商
 
@@ -110,7 +110,7 @@ ms.locfileid: "87444998"
 
 您以不同的方式管理您的直接帳單客戶和間接轉銷商客戶。
 
-### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>直接帳單客戶（不會做為間接轉銷商的專案）
+### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>直接帳單客戶 (您不會做為間接轉銷商的專案) 
 
 - 建立產品的訂單
 - 管理 Azure 保留項目
@@ -172,7 +172,7 @@ ms.locfileid: "87444998"
 
 2. 在 [**客戶] 頁面**上，選取現有的客戶，然後按一下其 [**快速連結**] 圖示，以展開客戶的 [摘要] 視圖。
 
-3. 在 **[間接提供者**] 底下，按一下 [**在間接提供者上傳送客戶**]。
+3. 在 [**間接提供者 (s) **] 下，按一下 [**在間接提供者上傳送客戶**]。
 
     :::image type="content" source="images/direct/direct5-1.png" alt-text="將客戶轉移至間接提供者":::
 
@@ -180,7 +180,7 @@ ms.locfileid: "87444998"
 
 5. 按一下 [儲存並繼續]。
 
-6. 確認選取的間接提供者顯示在 [**間接提供者**] 之下。
+6. 確認選取的間接提供者顯示在** (s) 的間接提供者**底下。
 
     :::image type="content" source="images/direct/direct5-2.png" alt-text="列出的間接提供者":::
 
@@ -236,7 +236,7 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 - 轉換的夥伴會建立訂用帳戶轉移要求。 此要求包含一個或多個與相同客戶相關聯的現有訂用帳戶，並會被定址為間接提供者。
 
-- 間接提供者會審查並接受（或拒絕）傳送要求。
+- 間接提供者會審查並接受 (或拒絕傳輸要求) 。
 
 - 間接提供者會確認傳送要求已完成。
 
@@ -263,7 +263,7 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 2. 在 [**客戶**] 頁面上，選取想要的客戶，並按一下 [快速連結] 圖示，以展開客戶的 [摘要] 視圖。
 
-3. 在 [**間接提供者**] 底下，確認已列出預定的間接提供者。
+3. 在 [**間接提供者 (s) **] 下，確認已列出預期的間接提供者。
 
 4. 按一下 [ **View 訂閱**]。
 
@@ -277,7 +277,7 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
     :::image type="content" source="images/direct/direct9.png" alt-text="建立傳輸要求":::
 
-8. 按一下 [建立]  。
+8. 按一下 [建立]。
 
 9. 作用中的訂用帳戶轉移要求會顯示在 [訂用帳戶**轉移**] 底下。
 
@@ -293,7 +293,7 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 2. 在 [**客戶**] 頁面上，選取想要的客戶，然後按一下其 [快速連結] 圖示，以展開客戶的 [摘要] 視圖。
 
-3. 在 [**間接轉銷商**] 底下，確認已列出 [轉換夥伴]。
+3. 在 [**間接轉銷商 (s) **] 下，確認已列出 [轉換夥伴]。
 
 4. 按一下 [ **View 訂閱**]。
 
@@ -303,7 +303,7 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 6. 在 [**訂閱轉移**] 底下，按一下要審查的傳送要求。
 
-7. 視需要按一下 [**接受**] （或 [**拒絕**]）。
+7. 視需要按一下 [**接受** (] 或 [**拒絕**) ]。
 
     :::image type="content" source="images/direct/direct12.png" alt-text="接受傳輸要求":::
 
@@ -329,25 +329,25 @@ Microsoft Cloud 合約在2020年1月31日前有效。 在該日期之後，所�
 
 5. 確認傳送要求已標示為**完成**。
 
-6. 確認訂用帳戶在 [**訂閱**] 頁面中不會再顯示為 [使用中]：
+6. 確認訂用帳戶 () 不再于 [**訂閱**] 頁面中顯示為 [使用中]：
 
-   1. 如果這是 Azure 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p），則不會再列出。
+   1. 如果這是 Azure 訂用帳戶 (MS-AZR-0017P-流程 ms-azr-0145p) ，它將不會再列出。
 
-   2. 如果這是以授權為基礎的訂用帳戶（Office 365、Dynamics、Intune），則會以 [已**暫停**] 狀態列出。
+   2. 如果這是以授權為基礎的訂用帳戶 (Office 365、Dynamics、Intune) ，它將會以 [已**暫停**] 狀態列出。
 
    :::image type="content" source="images/direct/direct13.png" alt-text="訂用帳戶已暫停":::
 
 ### <a name="considerations"></a>考量
 
-- **傳送之後，訂用帳戶識別碼會不同。** 如果它是 Azure 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p），則會有 Azure 訂用帳戶識別碼，其會由先前的擁有者保留，並會出現在 Azure 管理入口網站中。
+- **傳送之後，訂用帳戶識別碼會不同。** 如果它是 Azure 訂用帳戶 (MS-AZR-0017P-流程 ms-azr-0145p) ，則會有 Azure 訂用帳戶識別碼，其會由前一個擁有者保留，並會出現在 Azure 管理入口網站中。
 
 - **相同的訂用帳戶無法由多個傳送要求參考。** 建立包含現有訂用帳戶的轉移要求之後，您將無法建立包含相同訂用帳戶的其他傳輸要求，直到第一次轉移要求取消為止。
 
 - **以授權為基礎之訂用帳戶的附加元件必須連同其基底訂用帳戶一起傳輸。** 建立傳送要求時，如果您挑選具有一或多個附加元件的現有訂用帳戶，此附加元件將會自動包含在傳送要求中。
 
-- **訂用帳戶的授權計數變更不會反映在現有的傳輸要求中。** 建立包含現有訂用帳戶的傳送要求之後，您應該避免更新訂用帳戶的授權數量（或相關聯的附加元件）。 如果您這樣做，新的數量將不會反映在傳送要求中。 當間接提供者接受傳輸要求之後，結果訂用帳戶將會有舊的數量。 如果您想要將新的數量轉移給間接提供者，您必須取消現有的傳輸要求，然後重新建立一個新的。
+- **訂用帳戶的授權計數變更不會反映在現有的傳輸要求中。** 建立包含現有訂用帳戶的傳輸要求之後，您應該避免更新訂用帳戶 (或相關聯附加元件) 的授權數量。 如果您這樣做，新的數量將不會反映在傳送要求中。 當間接提供者接受傳輸要求之後，結果訂用帳戶將會有舊的數量。 如果您想要將新的數量轉移給間接提供者，您必須取消現有的傳輸要求，然後重新建立一個新的。
 
-- **並非所有購買都可以使用自助式訂用帳戶傳輸來傳輸。** 目前，您只能使用這項功能來傳送 O365 訂用帳戶和 Azure PAYG 訂用帳戶（MS-AZR-0017P-流程 ms-azr-0145p）。 不支援其他購買專案，包括 Azure 方案、Azure 保留實例、以詞彙為基礎的訂用帳戶，以及適用于 Azure Marketplace 的 SaaS 訂閱。 您會在 [提交轉移要求] 頁面中看到無法轉移訂用帳戶的原因。 若要傳送這些訂用帳戶，您必須[取消現有的訂](create-a-new-subscription.md#suspend-or-cancel-a-subscription)用帳戶，並透過間接提供者購買客戶的新供應專案。
+- **並非所有購買都可以使用自助式訂用帳戶傳輸來傳輸。** 目前，您只能使用這項功能) 傳輸 O365 訂用帳戶和 Azure PAYG 訂用帳戶 (MS-MS-AZR-0017P-流程 ms-azr-0145p。 不支援其他購買專案，包括 Azure 方案、Azure 保留實例、以詞彙為基礎的訂用帳戶，以及適用于 Azure Marketplace 的 SaaS 訂閱。 您會在 [提交轉移要求] 頁面中看到無法轉移訂用帳戶的原因。 若要傳送這些訂用帳戶，您必須[取消現有的訂](create-a-new-subscription.md#suspend-or-cancel-a-subscription)用帳戶，並透過間接提供者購買客戶的新供應專案。
 
 - **無法使用沙箱環境進行測試。**
 
