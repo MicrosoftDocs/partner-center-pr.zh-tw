@@ -1,6 +1,6 @@
 ---
 title: 代表客戶報告問題
-ms.topic: article
+ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,139 +9,139 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 032c4b924da4f123485c3959448441f420f6ba37
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389137"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811318"
 ---
-# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a><span data-ttu-id="38bf2-103">代表客戶回報服務問題，包括何時和如何執行這項操作</span><span class="sxs-lookup"><span data-stu-id="38bf2-103">Report a service problem on behalf of a customer - including when and how to do so</span></span>
+# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a><span data-ttu-id="e0daf-103">代表客戶回報服務問題，包括何時和如何執行這項操作</span><span class="sxs-lookup"><span data-stu-id="e0daf-103">Report a service problem on behalf of a customer - including when and how to do so</span></span>
 
-<span data-ttu-id="38bf2-104">**適用於**</span><span class="sxs-lookup"><span data-stu-id="38bf2-104">**Applies to**</span></span>
+<span data-ttu-id="e0daf-104">**適用於**</span><span class="sxs-lookup"><span data-stu-id="e0daf-104">**Applies to**</span></span>
 
-- <span data-ttu-id="38bf2-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="38bf2-105">Partner Center</span></span>
-- <span data-ttu-id="38bf2-106">Microsoft Cloud for US Government 適用的合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="38bf2-106">Partner Center for Microsoft Cloud for US Government</span></span>
+- <span data-ttu-id="e0daf-105">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="e0daf-105">Partner Center</span></span>
+- <span data-ttu-id="e0daf-106">Microsoft Cloud for US Government 適用的合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="e0daf-106">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="38bf2-107">如果您的客戶遇到無法解決的服務問題，而且符合[向 Microsoft 呈報問題](escalate-problems-to-microsoft.md)中所述的準則，您可以為他們提出支援票證。</span><span class="sxs-lookup"><span data-stu-id="38bf2-107">If your customer is experiencing a service problem that you can't resolve, and that meets the criteria described in [Escalate problems to Microsoft](escalate-problems-to-microsoft.md), you can file a support ticket for them.</span></span> <span data-ttu-id="38bf2-108">這個程序對於向上呈報帳單問題或爭議，以及詐騙的疑慮也很有用。</span><span class="sxs-lookup"><span data-stu-id="38bf2-108">This process is also useful for escalating billing issues or disputes, and for fraud concerns.</span></span> 
+<span data-ttu-id="e0daf-107">如果您的客戶遇到無法解決的服務問題，而且符合[向 Microsoft 呈報問題](escalate-problems-to-microsoft.md)中所述的準則，您可以為他們提出支援票證。</span><span class="sxs-lookup"><span data-stu-id="e0daf-107">If your customer is experiencing a service problem that you can't resolve, and that meets the criteria described in [Escalate problems to Microsoft](escalate-problems-to-microsoft.md), you can file a support ticket for them.</span></span> <span data-ttu-id="e0daf-108">這個程序對於向上呈報帳單問題或爭議，以及詐騙的疑慮也很有用。</span><span class="sxs-lookup"><span data-stu-id="e0daf-108">This process is also useful for escalating billing issues or disputes, and for fraud concerns.</span></span> 
 
-## <a name="submit-a-service-request-for-a-customer"></a><span data-ttu-id="38bf2-109">為客戶提交服務要求</span><span class="sxs-lookup"><span data-stu-id="38bf2-109">Submit a service request for a customer</span></span>
+## <a name="submit-a-service-request-for-a-customer"></a><span data-ttu-id="e0daf-109">為客戶提交服務要求</span><span class="sxs-lookup"><span data-stu-id="e0daf-109">Submit a service request for a customer</span></span>
 
-1. <span data-ttu-id="38bf2-110">從 [合作夥伴中心]\*\*\*\* 功能表，選取 [服務要求]\*\*\*\*，然後選取 [客戶要求]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="38bf2-110">From the **Partner Center** menu, select **Service requests** and then **Customer request**.</span></span> 
+1. <span data-ttu-id="e0daf-110">從 [合作夥伴中心]\*\*\*\* 功能表，選取 [服務要求]\*\*\*\*，然後選取 [客戶要求]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="e0daf-110">From the **Partner Center** menu, select **Service requests** and then **Customer request**.</span></span> 
 
-2. <span data-ttu-id="38bf2-111">在 [客戶要求] 頁面上，搜尋您想要的客戶。</span><span class="sxs-lookup"><span data-stu-id="38bf2-111">On the Customer requests page, search for the customer you want.</span></span>
+2. <span data-ttu-id="e0daf-111">在 [客戶要求] 頁面上，搜尋您想要的客戶。</span><span class="sxs-lookup"><span data-stu-id="e0daf-111">On the Customer requests page, search for the customer you want.</span></span>
 
-3. <span data-ttu-id="38bf2-112">從 [新增要求]\*\*\*\* 下拉式功能表中，選取 **Azure** 或 **Office 365、Dynamics 365、Enterprise Mobility Suite**。</span><span class="sxs-lookup"><span data-stu-id="38bf2-112">From the **New request** dropdown menu, select either **Azure** or **Office 365, Dynamics 365, Enterprise Mobility Suite**.</span></span> <span data-ttu-id="38bf2-113">系統會將您重新導向至 Microsoft Azure 入口網站或 Office 365 系統管理中心。</span><span class="sxs-lookup"><span data-stu-id="38bf2-113">You'll be redirected to either the Microsoft Azure portal or the Office 365 admin center.</span></span>
+3. <span data-ttu-id="e0daf-112">從 [新增要求]\*\*\*\* 下拉式功能表中，選取 **Azure** 或 **Office 365、Dynamics 365、Enterprise Mobility Suite**。</span><span class="sxs-lookup"><span data-stu-id="e0daf-112">From the **New request** dropdown menu, select either **Azure** or **Office 365, Dynamics 365, Enterprise Mobility Suite**.</span></span> <span data-ttu-id="e0daf-113">系統會將您重新導向至 Microsoft Azure 入口網站或 Office 365 系統管理中心。</span><span class="sxs-lookup"><span data-stu-id="e0daf-113">You'll be redirected to either the Microsoft Azure portal or the Office 365 admin center.</span></span>
 
 >[!NOTE]
-><span data-ttu-id="38bf2-114">需要在 CSP 中交易 Dynamics 365 的支援作業合作夥伴，才能維護對合作夥伴（ASfP）方案或更高版本的支援合約。</span><span class="sxs-lookup"><span data-stu-id="38bf2-114">Support Operations partners transacting Dynamics 365 in CSP are required to maintain a support agreement of Advanced Support for Partner (ASfP) plan or higher.</span></span> <span data-ttu-id="38bf2-115">需要此支援合約，才能代表 CSP 客戶提交 Dynamics 365 事件。</span><span class="sxs-lookup"><span data-stu-id="38bf2-115">This support agreement is required to submit Dynamics 365 incidents on behalf of a CSP customer.</span></span> <span data-ttu-id="38bf2-116">[深入瞭解](https://partner.microsoft.com/support/partnersupport)支援協定選項。</span><span class="sxs-lookup"><span data-stu-id="38bf2-116">[Learn more](https://partner.microsoft.com/support/partnersupport) about the support agreement options.</span></span>
+><span data-ttu-id="e0daf-114">在 CSP 中交易 Dynamics 365 的支援作業合作夥伴，必須維護合作夥伴 (ASfP) 方案或更高版本的支援合約。</span><span class="sxs-lookup"><span data-stu-id="e0daf-114">Support Operations partners transacting Dynamics 365 in CSP are required to maintain a support agreement of Advanced Support for Partner (ASfP) plan or higher.</span></span> <span data-ttu-id="e0daf-115">需要此支援合約，才能代表 CSP 客戶提交 Dynamics 365 事件。</span><span class="sxs-lookup"><span data-stu-id="e0daf-115">This support agreement is required to submit Dynamics 365 incidents on behalf of a CSP customer.</span></span> <span data-ttu-id="e0daf-116">[深入瞭解](https://partner.microsoft.com/support/partnersupport)支援協定選項。</span><span class="sxs-lookup"><span data-stu-id="e0daf-116">[Learn more](https://partner.microsoft.com/support/partnersupport) about the support agreement options.</span></span>
 
-### <a name="microsoft-azure"></a><span data-ttu-id="38bf2-117">Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="38bf2-117">Microsoft Azure</span></span>
+### <a name="microsoft-azure"></a><span data-ttu-id="e0daf-117">Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="e0daf-117">Microsoft Azure</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="38bf2-118">當您需要在 Azure 中為您的客戶建立服務要求時，請注意下列事項：</span><span class="sxs-lookup"><span data-stu-id="38bf2-118">When you need to create a service request for your customer in Azure, be aware of the following:</span></span>
+> <span data-ttu-id="e0daf-118">當您需要在 Azure 中為您的客戶建立服務要求時，請注意下列事項：</span><span class="sxs-lookup"><span data-stu-id="e0daf-118">When you need to create a service request for your customer in Azure, be aware of the following:</span></span>
 >
->- <span data-ttu-id="38bf2-119">為了讓您可以替 Azure 中的客戶建立服務要求，您的間接提供者必須授與您對客戶 Azure 帳戶的存取權。</span><span class="sxs-lookup"><span data-stu-id="38bf2-119">In order for you to create service requests for your customer in Azure, your indirect provider must grant you access to the customer's Azure account.</span></span> <span data-ttu-id="38bf2-120">這與代表 Office 365 的客戶進行管理有所不同。</span><span class="sxs-lookup"><span data-stu-id="38bf2-120">This is different from administering on behalf of customers for Office 365.</span></span>
+>- <span data-ttu-id="e0daf-119">為了讓您可以替 Azure 中的客戶建立服務要求，您的間接提供者必須授與您對客戶 Azure 帳戶的存取權。</span><span class="sxs-lookup"><span data-stu-id="e0daf-119">In order for you to create service requests for your customer in Azure, your indirect provider must grant you access to the customer's Azure account.</span></span> <span data-ttu-id="e0daf-120">這與代表 Office 365 的客戶進行管理有所不同。</span><span class="sxs-lookup"><span data-stu-id="e0daf-120">This is different from administering on behalf of customers for Office 365.</span></span>
 >
->- <span data-ttu-id="38bf2-121">雖然合作夥伴中心的技術支援系統管理員無法在 Azure 服務入口網站中建立服務要求，但他們可以在 Azure 服務入口網站中建立支援群組，並將記錄支援要求的許可權授與該群組。</span><span class="sxs-lookup"><span data-stu-id="38bf2-121">Although the Helpdesk admin in Partner Center can't create service requests in the Azure service portal, what they can do is create a support group in the Azure service portal and give that group permissions to log support requests.</span></span>
+>- <span data-ttu-id="e0daf-121">雖然合作夥伴中心的技術支援系統管理員無法在 Azure 服務入口網站中建立服務要求，但他們可以在 Azure 服務入口網站中建立支援群組，並將記錄支援要求的許可權授與該群組。</span><span class="sxs-lookup"><span data-stu-id="e0daf-121">Although the Helpdesk admin in Partner Center can't create service requests in the Azure service portal, what they can do is create a support group in the Azure service portal and give that group permissions to log support requests.</span></span>
 
-1. <span data-ttu-id="38bf2-122">選取 [新增支援要求]。</span><span class="sxs-lookup"><span data-stu-id="38bf2-122">Select **New support request**.</span></span>
+1. <span data-ttu-id="e0daf-122">選取 [新增支援要求]。</span><span class="sxs-lookup"><span data-stu-id="e0daf-122">Select **New support request**.</span></span>
 
-2. <span data-ttu-id="38bf2-123">以適當的資訊填寫支援要求，並選取 [建立]\*\*\*\*：</span><span class="sxs-lookup"><span data-stu-id="38bf2-123">Fill out the support request with the appropriate information, and then select **Create**:</span></span>
+2. <span data-ttu-id="e0daf-123">以適當的資訊填寫支援要求，並選取 [建立]\*\*\*\*：</span><span class="sxs-lookup"><span data-stu-id="e0daf-123">Fill out the support request with the appropriate information, and then select **Create**:</span></span>
 
-   - <span data-ttu-id="38bf2-124">在支援要求的 [基本]\*\*\*\* 區段中，請確定選取 [支援方案]\*\*\*\* 中的 [雲端解決方案提供者]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="38bf2-124">In the **Basics** section of the support request, make sure to select **Cloud Solution Provider** in the **Support plan** field.</span></span>
+   - <span data-ttu-id="e0daf-124">在支援要求的 [基本]\*\*\*\* 區段中，請確定選取 [支援方案]\*\*\*\* 中的 [雲端解決方案提供者]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="e0daf-124">In the **Basics** section of the support request, make sure to select **Cloud Solution Provider** in the **Support plan** field.</span></span>
 
-   - <span data-ttu-id="38bf2-125">在支援要求的 [連絡人]\*\*\*\* 資訊區段中，輸入您的資訊，而不是客戶的資訊。</span><span class="sxs-lookup"><span data-stu-id="38bf2-125">In the **Contact** information section of the support request, enter your information, not your customer's information.</span></span>
+   - <span data-ttu-id="e0daf-125">在支援要求的 [連絡人]\*\*\*\* 資訊區段中，輸入您的資訊，而不是客戶的資訊。</span><span class="sxs-lookup"><span data-stu-id="e0daf-125">In the **Contact** information section of the support request, enter your information, not your customer's information.</span></span>
 
-3. <span data-ttu-id="38bf2-126">稍後，選取 [管理支援要求]\*\*\*\*，以在 Microsoft Azure 入口網站中檢閱您客戶的服務要求。</span><span class="sxs-lookup"><span data-stu-id="38bf2-126">Later, review your customer's service requests within the Microsoft Azure portal by selecting **Manage support requests**.</span></span>
+3. <span data-ttu-id="e0daf-126">稍後，選取 [管理支援要求]\*\*\*\*，以在 Microsoft Azure 入口網站中檢閱您客戶的服務要求。</span><span class="sxs-lookup"><span data-stu-id="e0daf-126">Later, review your customer's service requests within the Microsoft Azure portal by selecting **Manage support requests**.</span></span>
 
-<span data-ttu-id="38bf2-127">當您沒有該客戶的系統管理員許可權時，您可能需要為客戶建立支援要求。</span><span class="sxs-lookup"><span data-stu-id="38bf2-127">You may need to create a support request for a customer when you don't have administrator permissions for that customer.</span></span> <span data-ttu-id="38bf2-128">在下列兩個案例中的其中一種情況下就可能發生這種情形：</span><span class="sxs-lookup"><span data-stu-id="38bf2-128">This could happen in one of two scenarios:</span></span>
+<span data-ttu-id="e0daf-127">當您沒有該客戶的系統管理員許可權時，您可能需要為客戶建立支援要求。</span><span class="sxs-lookup"><span data-stu-id="e0daf-127">You may need to create a support request for a customer when you don't have administrator permissions for that customer.</span></span> <span data-ttu-id="e0daf-128">在下列兩個案例中的其中一種情況下就可能發生這種情形：</span><span class="sxs-lookup"><span data-stu-id="e0daf-128">This could happen in one of two scenarios:</span></span>
 
-- <span data-ttu-id="38bf2-129">當您第一次建立關聯性時，不會要求系統管理員許可權。</span><span class="sxs-lookup"><span data-stu-id="38bf2-129">You didn't request administrator privileges when you first established the relationship.</span></span>
-- <span data-ttu-id="38bf2-130">您只管理客戶的 Azure 訂用帳戶，因此您不具有系統管理許可權。</span><span class="sxs-lookup"><span data-stu-id="38bf2-130">You only manage a customer's Azure subscriptions, so you don't have administrative permissions.</span></span>
+- <span data-ttu-id="e0daf-129">當您第一次建立關聯性時，不會要求系統管理員許可權。</span><span class="sxs-lookup"><span data-stu-id="e0daf-129">You didn't request administrator privileges when you first established the relationship.</span></span>
+- <span data-ttu-id="e0daf-130">您只管理客戶的 Azure 訂用帳戶，因此您不具有系統管理許可權。</span><span class="sxs-lookup"><span data-stu-id="e0daf-130">You only manage a customer's Azure subscriptions, so you don't have administrative permissions.</span></span>
  
-<span data-ttu-id="38bf2-131">在上述任一情況下，您都可以使用下列程序來建立支援要求。</span><span class="sxs-lookup"><span data-stu-id="38bf2-131">In either of these cases, you can use the following procedure to create a support request.</span></span> 
+<span data-ttu-id="e0daf-131">在上述任一情況下，您都可以使用下列程序來建立支援要求。</span><span class="sxs-lookup"><span data-stu-id="e0daf-131">In either of these cases, you can use the following procedure to create a support request.</span></span> 
 
-1. <span data-ttu-id="38bf2-132">從合作夥伴中心的 [帳戶] 頁面複製客戶的功能變數名稱。</span><span class="sxs-lookup"><span data-stu-id="38bf2-132">Copy the customer's domain name from their account page in Partner Center.</span></span>
+1. <span data-ttu-id="e0daf-132">從合作夥伴中心的 [帳戶] 頁面複製客戶的功能變數名稱。</span><span class="sxs-lookup"><span data-stu-id="e0daf-132">Copy the customer's domain name from their account page in Partner Center.</span></span>
 
-2. <span data-ttu-id="38bf2-133">移至 https://portal.azure.com/[customerdomainname]。</span><span class="sxs-lookup"><span data-stu-id="38bf2-133">Go to https://portal.azure.com/[customerdomainname].</span></span> 
+2. <span data-ttu-id="e0daf-133">移至 https://portal.azure.com/[customerdomainname]。</span><span class="sxs-lookup"><span data-stu-id="e0daf-133">Go to https://portal.azure.com/[customerdomainname].</span></span> 
 
-3. <span data-ttu-id="38bf2-134">選取需要支援的 Azure 訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="38bf2-134">Select the Azure subscription that requires support.</span></span>
+3. <span data-ttu-id="e0daf-134">選取需要支援的 Azure 訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="e0daf-134">Select the Azure subscription that requires support.</span></span>
 
-4. <span data-ttu-id="38bf2-135">選取 [新增支援要求]\*\*\*\*，然後遵循提示來建立要求。</span><span class="sxs-lookup"><span data-stu-id="38bf2-135">Select **New support request**, and then follow the prompts to create the request.</span></span> 
+4. <span data-ttu-id="e0daf-135">選取 [新增支援要求]\*\*\*\*，然後遵循提示來建立要求。</span><span class="sxs-lookup"><span data-stu-id="e0daf-135">Select **New support request**, and then follow the prompts to create the request.</span></span> 
 
  
-### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a><span data-ttu-id="38bf2-136">Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite</span><span class="sxs-lookup"><span data-stu-id="38bf2-136">Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite</span></span>
+### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a><span data-ttu-id="e0daf-136">Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite</span><span class="sxs-lookup"><span data-stu-id="e0daf-136">Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite</span></span>
 
-1. <span data-ttu-id="38bf2-137">在 [**建立服務要求**] 區段中，選擇適當的支援類別。</span><span class="sxs-lookup"><span data-stu-id="38bf2-137">In the **Create a service request** section, choose the appropriate support category.</span></span> <span data-ttu-id="38bf2-138">您可能需要選取 [**更多 ...** ] 以查看其他文章。</span><span class="sxs-lookup"><span data-stu-id="38bf2-138">You may need to select **More...** to view additional articles.</span></span>
+1. <span data-ttu-id="e0daf-137">在 [**建立服務要求**] 區段中，選擇適當的支援類別。</span><span class="sxs-lookup"><span data-stu-id="e0daf-137">In the **Create a service request** section, choose the appropriate support category.</span></span> <span data-ttu-id="e0daf-138">您可能需要選取 [**更多 ...** ] 以查看其他文章。</span><span class="sxs-lookup"><span data-stu-id="e0daf-138">You may need to select **More...** to view additional articles.</span></span>
 
-2. <span data-ttu-id="38bf2-139">完成服務要求表單，然候選取 [提交]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="38bf2-139">Complete the service request form, and select **Submit**.</span></span>
+2. <span data-ttu-id="e0daf-139">完成服務要求表單，然候選取 [提交]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="e0daf-139">Complete the service request form, and select **Submit**.</span></span>
 
    > [!TIP]
-   > <span data-ttu-id="38bf2-140">請務必包含您的連絡資訊，而非客戶連絡資訊。</span><span class="sxs-lookup"><span data-stu-id="38bf2-140">Make sure to include your contact information, not your customer's.</span></span>
+   > <span data-ttu-id="e0daf-140">請務必包含您的連絡資訊，而非客戶連絡資訊。</span><span class="sxs-lookup"><span data-stu-id="e0daf-140">Make sure to include your contact information, not your customer's.</span></span>
 
-3. <span data-ttu-id="38bf2-141">稍後，前往 Office 365 系統管理中心並選取 [**查看所有支援票證**]，以檢查您客戶的服務要求。</span><span class="sxs-lookup"><span data-stu-id="38bf2-141">Later, review your customer's service requests by going to the Office 365 admin center and selecting **See all support tickets**.</span></span>
+3. <span data-ttu-id="e0daf-141">稍後，前往 Office 365 系統管理中心並選取 [**查看所有支援票證**]，以檢查您客戶的服務要求。</span><span class="sxs-lookup"><span data-stu-id="e0daf-141">Later, review your customer's service requests by going to the Office 365 admin center and selecting **See all support tickets**.</span></span>
 
-### <a name="support-for-commercial-marketplace-products"></a><span data-ttu-id="38bf2-142">商業市集產品的支援</span><span class="sxs-lookup"><span data-stu-id="38bf2-142">Support for commercial marketplace products</span></span>
+### <a name="support-for-commercial-marketplace-products"></a><span data-ttu-id="e0daf-142">商業市集產品的支援</span><span class="sxs-lookup"><span data-stu-id="e0daf-142">Support for commercial marketplace products</span></span>
 
-<span data-ttu-id="38bf2-143">Microsoft 不會供應商業 marketplace 產品的產品支援。</span><span class="sxs-lookup"><span data-stu-id="38bf2-143">Microsoft doesn't provide product support for commercial marketplace products.</span></span> <span data-ttu-id="38bf2-144">您必須洽詢發佈產品的獨立軟體廠商（ISV）以取得支援。</span><span class="sxs-lookup"><span data-stu-id="38bf2-144">You'll need to contact the Independent Software Vendor (ISV) who published the product to get support.</span></span>
+<span data-ttu-id="e0daf-143">Microsoft 不會供應商業 marketplace 產品的產品支援。</span><span class="sxs-lookup"><span data-stu-id="e0daf-143">Microsoft doesn't provide product support for commercial marketplace products.</span></span> <span data-ttu-id="e0daf-144">您必須洽詢獨立軟體廠商 (ISV) 發佈產品以取得支援。</span><span class="sxs-lookup"><span data-stu-id="e0daf-144">You'll need to contact the Independent Software Vendor (ISV) who published the product to get support.</span></span>
 
-<span data-ttu-id="38bf2-145">若要尋找 ISV 的連絡人資訊：</span><span class="sxs-lookup"><span data-stu-id="38bf2-145">To find the ISV's contact info:</span></span>
+<span data-ttu-id="e0daf-145">若要尋找 ISV 的連絡人資訊：</span><span class="sxs-lookup"><span data-stu-id="e0daf-145">To find the ISV's contact info:</span></span>
 
-1.  <span data-ttu-id="38bf2-146">在 [Marketplace]\*\*\*\* 頁面上，選取您需要協助的產品。</span><span class="sxs-lookup"><span data-stu-id="38bf2-146">On the **Marketplace** page, select the product you need help with.</span></span>
+1.  <span data-ttu-id="e0daf-146">在 [Marketplace]\*\*\*\* 頁面上，選取您需要協助的產品。</span><span class="sxs-lookup"><span data-stu-id="e0daf-146">On the **Marketplace** page, select the product you need help with.</span></span>
 
-2.  <span data-ttu-id="38bf2-147">在產品的頁面上，您會找到支援連絡人資訊。</span><span class="sxs-lookup"><span data-stu-id="38bf2-147">On the product's page, you'll find support contact info.</span></span> <span data-ttu-id="38bf2-148">這可能是下列一個或多個選項：</span><span class="sxs-lookup"><span data-stu-id="38bf2-148">This may be one or more of the following options:</span></span>
+2.  <span data-ttu-id="e0daf-147">在產品的頁面上，您會找到支援連絡人資訊。</span><span class="sxs-lookup"><span data-stu-id="e0daf-147">On the product's page, you'll find support contact info.</span></span> <span data-ttu-id="e0daf-148">這可能是下列一個或多個選項：</span><span class="sxs-lookup"><span data-stu-id="e0daf-148">This may be one or more of the following options:</span></span>
 
-    - <span data-ttu-id="38bf2-149">ISV 網站上支援進入點的連結</span><span class="sxs-lookup"><span data-stu-id="38bf2-149">A link to a support entry point on the ISV's website</span></span>
-    - <span data-ttu-id="38bf2-150">支援電子郵件</span><span class="sxs-lookup"><span data-stu-id="38bf2-150">A support email</span></span>
-    - <span data-ttu-id="38bf2-151">支援連絡人電話號碼</span><span class="sxs-lookup"><span data-stu-id="38bf2-151">A support contact phone number</span></span>
+    - <span data-ttu-id="e0daf-149">ISV 網站上支援進入點的連結</span><span class="sxs-lookup"><span data-stu-id="e0daf-149">A link to a support entry point on the ISV's website</span></span>
+    - <span data-ttu-id="e0daf-150">支援電子郵件</span><span class="sxs-lookup"><span data-stu-id="e0daf-150">A support email</span></span>
+    - <span data-ttu-id="e0daf-151">支援連絡人電話號碼</span><span class="sxs-lookup"><span data-stu-id="e0daf-151">A support contact phone number</span></span>
 
-## <a name="faq"></a><span data-ttu-id="38bf2-152">常見問題集</span><span class="sxs-lookup"><span data-stu-id="38bf2-152">FAQ</span></span>
+## <a name="faq"></a><span data-ttu-id="e0daf-152">常見問題集</span><span class="sxs-lookup"><span data-stu-id="e0daf-152">FAQ</span></span>
 
-<span data-ttu-id="38bf2-153">**支援權益包含哪些內容？**</span><span class="sxs-lookup"><span data-stu-id="38bf2-153">**What is included as part of the Support Entitlement?**</span></span>
+<span data-ttu-id="e0daf-153">**支援權益包含哪些內容？**</span><span class="sxs-lookup"><span data-stu-id="e0daf-153">**What is included as part of the Support Entitlement?**</span></span>
 
-<span data-ttu-id="38bf2-154">服務要求應透過合作夥伴中心來進行歸檔。</span><span class="sxs-lookup"><span data-stu-id="38bf2-154">Service requests should be filed through Partner Center.</span></span> <span data-ttu-id="38bf2-155">這些版本適用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企業行動套件。</span><span class="sxs-lookup"><span data-stu-id="38bf2-155">They're available for Azure, Microsoft Office 365, Microsoft Dynamics CRM Online, and Enterprise Mobility Suite.</span></span> <span data-ttu-id="38bf2-156">身為參與雲端解決方案提供者計畫的合作夥伴，您可以期待您的重大問題獲得優先回應。</span><span class="sxs-lookup"><span data-stu-id="38bf2-156">As a partner participating in the Cloud Solution Provider program, you can expect priority response time to your major issues.</span></span>
+<span data-ttu-id="e0daf-154">服務要求應透過合作夥伴中心來進行歸檔。</span><span class="sxs-lookup"><span data-stu-id="e0daf-154">Service requests should be filed through Partner Center.</span></span> <span data-ttu-id="e0daf-155">這些版本適用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企業行動套件。</span><span class="sxs-lookup"><span data-stu-id="e0daf-155">They're available for Azure, Microsoft Office 365, Microsoft Dynamics CRM Online, and Enterprise Mobility Suite.</span></span> <span data-ttu-id="e0daf-156">身為參與雲端解決方案提供者計畫的合作夥伴，您可以期待您的重大問題獲得優先回應。</span><span class="sxs-lookup"><span data-stu-id="e0daf-156">As a partner participating in the Cloud Solution Provider program, you can expect priority response time to your major issues.</span></span>
 
-<span data-ttu-id="38bf2-157">CSP 支援權益中不包含您自己的合作夥伴租使用者支援。</span><span class="sxs-lookup"><span data-stu-id="38bf2-157">Support for your own partner tenant isn't included as part of the CSP support benefit.</span></span> <span data-ttu-id="38bf2-158">不過，Office 365、Microsoft Dynamics CRM Online 和企業行動套件不會向合作夥伴或客戶收取個別的支援訂用帳戶費用。</span><span class="sxs-lookup"><span data-stu-id="38bf2-158">However, Office 365, Microsoft Dynamics CRM Online, and Enterprise Mobility Suite don't charge a separate support subscription fee for partners or customers.</span></span> <span data-ttu-id="38bf2-159">Azure 會收取費用，但如果您有權簽署雲端支援或其他 Microsoft 合作夥伴網路（MPN）權益，您可以使用這些功能來支付費用。</span><span class="sxs-lookup"><span data-stu-id="38bf2-159">Azure does charge a fee, but if you're entitled to Signature Cloud Support or other Microsoft Partner Network (MPN) benefits you may use these to pay that fee.</span></span>
+<span data-ttu-id="e0daf-157">CSP 支援權益中不包含您自己的合作夥伴租使用者支援。</span><span class="sxs-lookup"><span data-stu-id="e0daf-157">Support for your own partner tenant isn't included as part of the CSP support benefit.</span></span> <span data-ttu-id="e0daf-158">不過，Office 365、Microsoft Dynamics CRM Online 和企業行動套件不會向合作夥伴或客戶收取個別的支援訂用帳戶費用。</span><span class="sxs-lookup"><span data-stu-id="e0daf-158">However, Office 365, Microsoft Dynamics CRM Online, and Enterprise Mobility Suite don't charge a separate support subscription fee for partners or customers.</span></span> <span data-ttu-id="e0daf-159">Azure 會收取費用，但如果您有權簽署雲端支援或其他 Microsoft 合作夥伴網路 (MPN) 權益，您可以使用這些功能來支付費用。</span><span class="sxs-lookup"><span data-stu-id="e0daf-159">Azure does charge a fee, but if you're entitled to Signature Cloud Support or other Microsoft Partner Network (MPN) benefits you may use these to pay that fee.</span></span>
 
-<span data-ttu-id="38bf2-160">這項權益適用於參與雲端解決方案提供者計畫的所有合作夥伴 (無論是付費或在試用期內)。</span><span class="sxs-lookup"><span data-stu-id="38bf2-160">This benefit applies to all partners participating in the Cloud Solution Provider program, whether paid or on a trial period.</span></span> <span data-ttu-id="38bf2-161">此套件中也包含了免費的帳單和訂閱管理支援。</span><span class="sxs-lookup"><span data-stu-id="38bf2-161">Billing and subscription management support is also included as a free component of this package.</span></span>
+<span data-ttu-id="e0daf-160">這項權益適用於參與雲端解決方案提供者計畫的所有合作夥伴 (無論是付費或在試用期內)。</span><span class="sxs-lookup"><span data-stu-id="e0daf-160">This benefit applies to all partners participating in the Cloud Solution Provider program, whether paid or on a trial period.</span></span> <span data-ttu-id="e0daf-161">此套件中也包含了免費的帳單和訂閱管理支援。</span><span class="sxs-lookup"><span data-stu-id="e0daf-161">Billing and subscription management support is also included as a free component of this package.</span></span>
 
-<span data-ttu-id="38bf2-162">**我能多快取得初始回應？**</span><span class="sxs-lookup"><span data-stu-id="38bf2-162">**How quickly will I get an initial response?**</span></span>
+<span data-ttu-id="e0daf-162">**我能多快取得初始回應？**</span><span class="sxs-lookup"><span data-stu-id="e0daf-162">**How quickly will I get an initial response?**</span></span>
 
-<span data-ttu-id="38bf2-163">我們的初始回應時間取決於已提交之事件的嚴重性。</span><span class="sxs-lookup"><span data-stu-id="38bf2-163">Our initial response times depend on the severity of the incident submitted.</span></span> <span data-ttu-id="38bf2-164">您在提交服務要求時將會指出該問題對業務造成影響的程度，這將會決定該問題的嚴重性。</span><span class="sxs-lookup"><span data-stu-id="38bf2-164">The severity of an issue is determined by your indication of business impact when you submit a service request.</span></span>
+<span data-ttu-id="e0daf-163">我們的初始回應時間取決於已提交之事件的嚴重性。</span><span class="sxs-lookup"><span data-stu-id="e0daf-163">Our initial response times depend on the severity of the incident submitted.</span></span> <span data-ttu-id="e0daf-164">您在提交服務要求時將會指出該問題對業務造成影響的程度，這將會決定該問題的嚴重性。</span><span class="sxs-lookup"><span data-stu-id="e0daf-164">The severity of an issue is determined by your indication of business impact when you submit a service request.</span></span>
 
-<span data-ttu-id="38bf2-165">**技術中斷修復事件**的初始回應時間：</span><span class="sxs-lookup"><span data-stu-id="38bf2-165">Initial response times for **technical break-fix incidents**:</span></span>
+<span data-ttu-id="e0daf-165">**技術中斷修復事件**的初始回應時間：</span><span class="sxs-lookup"><span data-stu-id="e0daf-165">Initial response times for **technical break-fix incidents**:</span></span>
 
-- <span data-ttu-id="38bf2-166">嚴重影響 (嚴重性 A)：2 小時 (顯著的服務中斷或品質降低。</span><span class="sxs-lookup"><span data-stu-id="38bf2-166">Critical Impact (severity A): 2 hours (Significant loss or degradation of services.</span></span> <span data-ttu-id="38bf2-167">生產服務關閉)。</span><span class="sxs-lookup"><span data-stu-id="38bf2-167">Production services down.)</span></span>
-- <span data-ttu-id="38bf2-168">中度影響（嚴重性 B）：四小時（仲裁遺失或服務效能降低）。</span><span class="sxs-lookup"><span data-stu-id="38bf2-168">Moderate Impact (severity B): Four hour (Moderate loss or degradation of services.</span></span> <span data-ttu-id="38bf2-169">生產服務部分受到影響。）</span><span class="sxs-lookup"><span data-stu-id="38bf2-169">Production services partially affected.)</span></span>
-- <span data-ttu-id="38bf2-170">最小影響（嚴重性 C）：8小時（最少遺失或服務效能降低）。</span><span class="sxs-lookup"><span data-stu-id="38bf2-170">Minimal Impact (severity C): Eight hour (Minimal loss or degradation of services.</span></span> <span data-ttu-id="38bf2-171">服務仍在使用中，或非生產服務受到影響。）</span><span class="sxs-lookup"><span data-stu-id="38bf2-171">Services still available or non-production services affected.)</span></span>
+- <span data-ttu-id="e0daf-166">嚴重影響 (嚴重性 A)：2 小時 (顯著的服務中斷或品質降低。</span><span class="sxs-lookup"><span data-stu-id="e0daf-166">Critical Impact (severity A): 2 hours (Significant loss or degradation of services.</span></span> <span data-ttu-id="e0daf-167">生產服務關閉)。</span><span class="sxs-lookup"><span data-stu-id="e0daf-167">Production services down.)</span></span>
+- <span data-ttu-id="e0daf-168">中等影響 (嚴重性 B) ：四小時 (仲裁遺失或服務效能降低。</span><span class="sxs-lookup"><span data-stu-id="e0daf-168">Moderate Impact (severity B): Four hour (Moderate loss or degradation of services.</span></span> <span data-ttu-id="e0daf-169">生產服務部分受到影響。 ) </span><span class="sxs-lookup"><span data-stu-id="e0daf-169">Production services partially affected.)</span></span>
+- <span data-ttu-id="e0daf-170"> (嚴重性 C) 的最小影響：8小時 (最少遺失或降低服務效能。</span><span class="sxs-lookup"><span data-stu-id="e0daf-170">Minimal Impact (severity C): Eight hour (Minimal loss or degradation of services.</span></span> <span data-ttu-id="e0daf-171">服務仍在使用中，或非生產服務受到影響。 ) </span><span class="sxs-lookup"><span data-stu-id="e0daf-171">Services still available or non-production services affected.)</span></span>
 
-<span data-ttu-id="38bf2-172">初始回應時間僅提供英文支援。</span><span class="sxs-lookup"><span data-stu-id="38bf2-172">Initial response times are for English-speaking support only.</span></span> <span data-ttu-id="38bf2-173">當地語言支援僅於營業時間提供。</span><span class="sxs-lookup"><span data-stu-id="38bf2-173">Local language support is provided during business hours.</span></span>
-<span data-ttu-id="38bf2-174">對於落在支援權利界限內但未視為協助修正事件的事件，初始回應時間最多可能是一個工作天。</span><span class="sxs-lookup"><span data-stu-id="38bf2-174">For incidents that fall within the boundaries of the support entitlement but aren't considered break-fix incidents, the initial response time may be up to one business day.</span></span>
+<span data-ttu-id="e0daf-172">初始回應時間僅提供英文支援。</span><span class="sxs-lookup"><span data-stu-id="e0daf-172">Initial response times are for English-speaking support only.</span></span> <span data-ttu-id="e0daf-173">當地語言支援僅於營業時間提供。</span><span class="sxs-lookup"><span data-stu-id="e0daf-173">Local language support is provided during business hours.</span></span>
+<span data-ttu-id="e0daf-174">對於落在支援權利界限內但未視為協助修正事件的事件，初始回應時間最多可能是一個工作天。</span><span class="sxs-lookup"><span data-stu-id="e0daf-174">For incidents that fall within the boundaries of the support entitlement but aren't considered break-fix incidents, the initial response time may be up to one business day.</span></span>
 
-<span data-ttu-id="38bf2-175">**我能透過電話提交服務要求嗎？**</span><span class="sxs-lookup"><span data-stu-id="38bf2-175">**Can I submit a service request by phone?**</span></span>
+<span data-ttu-id="e0daf-175">**我能透過電話提交服務要求嗎？**</span><span class="sxs-lookup"><span data-stu-id="e0daf-175">**Can I submit a service request by phone?**</span></span>
 
-<span data-ttu-id="38bf2-176">否，此計畫未提供電話支援。</span><span class="sxs-lookup"><span data-stu-id="38bf2-176">No, phone support isn't offered for this program.</span></span>
+<span data-ttu-id="e0daf-176">否，此計畫未提供電話支援。</span><span class="sxs-lookup"><span data-stu-id="e0daf-176">No, phone support isn't offered for this program.</span></span>
 
-<span data-ttu-id="38bf2-177">**如果我略過合作夥伴中心登入 Azure 入口網站，會發生什麼事？**</span><span class="sxs-lookup"><span data-stu-id="38bf2-177">**What happens if I sign into the Azure portal and bypass Partner Center?**</span></span>
+<span data-ttu-id="e0daf-177">**如果我略過合作夥伴中心登入 Azure 入口網站，會發生什麼事？**</span><span class="sxs-lookup"><span data-stu-id="e0daf-177">**What happens if I sign into the Azure portal and bypass Partner Center?**</span></span>
 
-<span data-ttu-id="38bf2-178">如果您直接登入 Microsoft Azure 入口網站，就會在您自己的內容中看到中心，而不是客戶的內容。</span><span class="sxs-lookup"><span data-stu-id="38bf2-178">If you sign into the Microsoft Azure portal directly, you're viewing the center in your own context, not a customer's context.</span></span> <span data-ttu-id="38bf2-179">這就是為什麼只有在為自己的訂用帳戶建立服務要求時，才應該直接登入 Microsoft Azure 入口網站。</span><span class="sxs-lookup"><span data-stu-id="38bf2-179">That's why you should only sign directly into the Microsoft Azure portal when creating a service request for your own subscriptions.</span></span>
+<span data-ttu-id="e0daf-178">如果您直接登入 Microsoft Azure 入口網站，就會在您自己的內容中看到中心，而不是客戶的內容。</span><span class="sxs-lookup"><span data-stu-id="e0daf-178">If you sign into the Microsoft Azure portal directly, you're viewing the center in your own context, not a customer's context.</span></span> <span data-ttu-id="e0daf-179">這就是為什麼只有在為自己的訂用帳戶建立服務要求時，才應該直接登入 Microsoft Azure 入口網站。</span><span class="sxs-lookup"><span data-stu-id="e0daf-179">That's why you should only sign directly into the Microsoft Azure portal when creating a service request for your own subscriptions.</span></span>
 
-<span data-ttu-id="38bf2-180">您的 CSP 方案支援權利不會提供您自己的合作夥伴訂用帳戶支援。</span><span class="sxs-lookup"><span data-stu-id="38bf2-180">Your CSP program support entitlement doesn't provide for support on your own Partner subscription.</span></span> <span data-ttu-id="38bf2-181">因此，當您建立的服務要求考慮自己的合作夥伴訂用帳戶時，您必須提供有效的支援方案權利。</span><span class="sxs-lookup"><span data-stu-id="38bf2-181">Because of this, you need to provide your valid support plan entitlement when you create a service request that concerns your own Partner subscription.</span></span> <span data-ttu-id="38bf2-182">範例包括 MPN 合約識別碼、Premier 或 Azure 支援計畫。</span><span class="sxs-lookup"><span data-stu-id="38bf2-182">Examples include MPN contract ID, Premier, or an Azure support plan.</span></span> <span data-ttu-id="38bf2-183">如需詳細資訊，請參閱[Azure 支援常見問題](https://go.microsoft.com/fwlink/?LinkId=717532)。</span><span class="sxs-lookup"><span data-stu-id="38bf2-183">For more information, see the [Azure Support FAQ](https://go.microsoft.com/fwlink/?LinkId=717532).</span></span>
+<span data-ttu-id="e0daf-180">您的 CSP 方案支援權利不會提供您自己的合作夥伴訂用帳戶支援。</span><span class="sxs-lookup"><span data-stu-id="e0daf-180">Your CSP program support entitlement doesn't provide for support on your own Partner subscription.</span></span> <span data-ttu-id="e0daf-181">因此，當您建立的服務要求考慮自己的合作夥伴訂用帳戶時，您必須提供有效的支援方案權利。</span><span class="sxs-lookup"><span data-stu-id="e0daf-181">Because of this, you need to provide your valid support plan entitlement when you create a service request that concerns your own Partner subscription.</span></span> <span data-ttu-id="e0daf-182">範例包括 MPN 合約識別碼、Premier 或 Azure 支援計畫。</span><span class="sxs-lookup"><span data-stu-id="e0daf-182">Examples include MPN contract ID, Premier, or an Azure support plan.</span></span> <span data-ttu-id="e0daf-183">如需詳細資訊，請參閱[Azure 支援常見問題](https://go.microsoft.com/fwlink/?LinkId=717532)。</span><span class="sxs-lookup"><span data-stu-id="e0daf-183">For more information, see the [Azure Support FAQ](https://go.microsoft.com/fwlink/?LinkId=717532).</span></span>
 
-<span data-ttu-id="38bf2-184">**當我登入 Office 365 系統管理中心入口網站並略過合作夥伴中心時，會發生什麼事？**</span><span class="sxs-lookup"><span data-stu-id="38bf2-184">**What happens if I sign into the Office 365 admin center portal and bypass Partner Center?**</span></span>
+<span data-ttu-id="e0daf-184">**當我登入 Office 365 系統管理中心入口網站並略過合作夥伴中心時，會發生什麼事？**</span><span class="sxs-lookup"><span data-stu-id="e0daf-184">**What happens if I sign into the Office 365 admin center portal and bypass Partner Center?**</span></span>
 
-<span data-ttu-id="38bf2-185">如果您直接登入 Office 365 系統管理中心，則會在您自己的內容中觀看中心，而不是客戶的內容。</span><span class="sxs-lookup"><span data-stu-id="38bf2-185">If you sign into the Office 365 admin center directly, you're viewing the center in your own context, not a customer's context.</span></span> <span data-ttu-id="38bf2-186">這就是為什麼您在為自己的訂用帳戶建立服務要求時，只應直接登入 Office 365 系統管理中心的原因。</span><span class="sxs-lookup"><span data-stu-id="38bf2-186">That's why you should only sign directly into the Office 365 admin center when creating a service request for your own subscriptions.</span></span>
+<span data-ttu-id="e0daf-185">如果您直接登入 Office 365 系統管理中心，則會在您自己的內容中觀看中心，而不是客戶的內容。</span><span class="sxs-lookup"><span data-stu-id="e0daf-185">If you sign into the Office 365 admin center directly, you're viewing the center in your own context, not a customer's context.</span></span> <span data-ttu-id="e0daf-186">這就是為什麼您在為自己的訂用帳戶建立服務要求時，只應直接登入 Office 365 系統管理中心的原因。</span><span class="sxs-lookup"><span data-stu-id="e0daf-186">That's why you should only sign directly into the Office 365 admin center when creating a service request for your own subscriptions.</span></span>
 
-<span data-ttu-id="38bf2-187">**如何取得額外的 Dynamics 365 支援？**</span><span class="sxs-lookup"><span data-stu-id="38bf2-187">**How do I get additional Dynamics 365 support?**</span></span>
+<span data-ttu-id="e0daf-187">**如何取得額外的 Dynamics 365 支援？**</span><span class="sxs-lookup"><span data-stu-id="e0daf-187">**How do I get additional Dynamics 365 support?**</span></span>
 
-<span data-ttu-id="38bf2-188">如果您遇到與下列相關的問題： Dynamics 365 方案訂閱、授權、帳單、財務 & 作業、Dynamics 365 產品授權或您需要進一步的技術支援：</span><span class="sxs-lookup"><span data-stu-id="38bf2-188">If you're experiencing issues related to: Dynamics 365 Plan Subscriptions, Licensing, Billing, Finance & Operations, Dynamics 365 product licenses or you require further technical support:</span></span>
+<span data-ttu-id="e0daf-188">如果您遇到與下列相關的問題： Dynamics 365 方案訂閱、授權、帳單、財務 & 作業、Dynamics 365 產品授權或您需要進一步的技術支援：</span><span class="sxs-lookup"><span data-stu-id="e0daf-188">If you're experiencing issues related to: Dynamics 365 Plan Subscriptions, Licensing, Billing, Finance & Operations, Dynamics 365 product licenses or you require further technical support:</span></span>
  
-<span data-ttu-id="38bf2-189">連絡 [Dynamics 支援](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)</span><span class="sxs-lookup"><span data-stu-id="38bf2-189">Contact [Dynamics Support](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)</span></span>
+<span data-ttu-id="e0daf-189">連絡 [Dynamics 支援](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)</span><span class="sxs-lookup"><span data-stu-id="e0daf-189">Contact [Dynamics Support](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)</span></span>
 
-<span data-ttu-id="38bf2-190">閱讀 [Microsoft Dynamics 支援](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)</span><span class="sxs-lookup"><span data-stu-id="38bf2-190">Read [Microsoft Dynamics Support](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)</span></span>
+<span data-ttu-id="e0daf-190">閱讀 [Microsoft Dynamics 支援](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)</span><span class="sxs-lookup"><span data-stu-id="e0daf-190">Read [Microsoft Dynamics Support](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="38bf2-191">後續步驟</span><span class="sxs-lookup"><span data-stu-id="38bf2-191">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="e0daf-191">後續步驟</span><span class="sxs-lookup"><span data-stu-id="e0daf-191">Next steps</span></span>
 
-- [<span data-ttu-id="38bf2-192">為客戶提供支援</span><span class="sxs-lookup"><span data-stu-id="38bf2-192">Provide support to your customers</span></span>](customer-support.md)
-- [<span data-ttu-id="38bf2-193">檢查服務健康狀況</span><span class="sxs-lookup"><span data-stu-id="38bf2-193">Check service health</span></span>](check-service-health.md)
+- [<span data-ttu-id="e0daf-192">為客戶提供支援</span><span class="sxs-lookup"><span data-stu-id="e0daf-192">Provide support to your customers</span></span>](customer-support.md)
+- [<span data-ttu-id="e0daf-193">檢查服務健康狀況</span><span class="sxs-lookup"><span data-stu-id="e0daf-193">Check service health</span></span>](check-service-health.md)
