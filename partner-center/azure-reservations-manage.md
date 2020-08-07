@@ -1,7 +1,7 @@
 ---
 title: 管理客戶的 Azure 保留專案
 ms.topic: how-to
-ms.date: 05/04/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何管理客戶的 Azure 保留專案，包括如何取消保留、交換保留或要求退款。
@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb5e88b284aac3325de79d41c0c9a19ffc906b3f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 126d8bcae5ca7feb3eefe414bd14e476b4047d11
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527454"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900073"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>為客戶管理、取消、交換或退款 Microsoft Azure 保留
 
@@ -31,6 +31,9 @@ ms.locfileid: "87527454"
 - 技術服務代理人
 - 銷售代理人
 - 使用者管理系統管理員
+
+> [!NOTE]
+> 本文僅適用于雲端解決方案提供者 (CSP) 方案中的合作夥伴。 使用其他類型之訂用帳戶的客戶 (例如，隨用隨付、個人、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀[此 Azure 保留檔](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
 
 若要在購買後管理客戶的 Azure 保留專案，請選取您想要在合作夥伴中心管理的客戶和保留，然後對 Azure 入口網站中的保留進行變更。
 
@@ -56,12 +59,12 @@ ms.locfileid: "87527454"
 
 ### <a name="how-cancellations-work"></a>取消的運作方式
 
-客戶可以隨時要求取消保留期（每年上限為 $50000 的退款金額）。 取消保留可讓客戶針對提前終止費用，傳回 Azure 保留的剩餘月份數量。 剩餘的按比例餘額（減去提早終止費用）會退款給您的帳戶，讓您可以退款給客戶的帳戶。 
+客戶可以隨時要求取消保留 (每年) 上限為 $50000 的退款金額。 取消保留可讓客戶針對提前終止費用，傳回 Azure 保留的剩餘月份數量。 剩餘的按比例餘額（減去提早終止費用）會退款給您的帳戶，讓您可以退款給客戶的帳戶。 
 
 如需取消的詳細資料和費用，請參閱下文。
 
 
-|**取消日期**<br> 之內   |**使用量**    |**點數**  |**提早終止**<br> 費用    |**退款上限** | 
+|**取消日期**<br>  (天)    |**使用量**    |**點數**  |**提早終止**<br> 費用    |**退款上限** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
 |5或更少                         | 否          | 100%       | 否                              | $50000 美元   |
 |5或更少                         | 是         | 依比例計算  | 否                              | $50000 美元   |

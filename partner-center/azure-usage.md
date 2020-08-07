@@ -1,20 +1,20 @@
 ---
 title: 調整 Azure VM 大小以提供最大保留區使用率
 ms.topic: how-to
-ms.date: 07/08/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解如何在為虛擬機器（VM）購買 Microsoft Azure 保留時，將其調整為您客戶的運算需求。
+Description: 瞭解如何在您購買 Microsoft Azure 保留時，將虛擬機器 (VM) 大小調整為客戶的計算需求。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 48f7fb317d35c87eaf3d8fddc7a5da907178ef36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: bc9fc14598e7c96f9cc1b55eba7c59af68ad84a9
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527444"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900112"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率
 
@@ -22,11 +22,14 @@ ms.locfileid: "87527444"
 
 - 合作夥伴中心
 - Azure 入口網站
-- 雲端解決方案提供者中的合作夥伴
+- 雲端解決方案提供者方案中的合作夥伴
+ 
+> [!NOTE]
+> 本文僅適用于雲端解決方案提供者 (CSP) 方案中的合作夥伴。 使用其他類型之訂用帳戶的客戶 (例如，隨用隨付、個人、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀[此 Azure 保留檔](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>判斷客戶的 Azure 保留專案的 VM 大小
 
-代表您的客戶購買 Microsoft Azure 保留時，您必須選擇虛擬機器（VM）大小，以符合客戶的運算需求。 您可以使用下列其中一個方法來找到此項資訊：
+代表您的客戶購買 Microsoft Azure 保留時，您必須選擇虛擬機器 (VM) 大小，以符合客戶的運算需求。 您可以使用下列其中一個方法來找到此項資訊：
 
 - Azure 使用量 API
 - Azure 入口網站

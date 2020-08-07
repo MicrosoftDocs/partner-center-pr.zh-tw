@@ -1,7 +1,7 @@
 ---
 title: 為客戶購買 Microsoft Azure 保留
 ms.topic: article
-ms.date: 06/18/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 Description: 瞭解如何在合作夥伴中心代表您的客戶購買或購買 Azure 保留。
@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a8f9193d7bb383b602acc8092b159401ab0785d5
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a9da6208ec72c1d6e93fadec3d205a809dbfabe5
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435767"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900103"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>代表您的客戶在合作夥伴中心購買 Microsoft Azure 保留
 
@@ -31,12 +31,15 @@ ms.locfileid: "86435767"
 - 技術服務代理人
 - 銷售代理人
 - 使用者管理系統管理員
+ 
+> [!NOTE]
+> 本文僅適用于雲端解決方案提供者 (CSP) 方案中的合作夥伴。 使用其他類型之訂用帳戶的客戶 (例如，隨用隨付、個人、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀[此 Azure 保留檔](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
 
 ## <a name="before-you-begin"></a>開始之前
 
-請先參閱下面的重要資訊，然後再代表您的客戶購買 Azure 保留。 （您想要讓客戶能夠向您購買的先前 Azure 訂用帳戶購買自己的 Azure 保留嗎？ 請參閱[授與客戶購買自己的 Azure 保留的許可權](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)）。
+請先參閱下面的重要資訊，然後再代表您的客戶購買 Azure 保留。  (是否要讓客戶能夠向您購買的先前 Azure 訂用帳戶購買自己的 Azure 保留專案？ 請參閱[提供客戶購買自己的 Azure 保留的許可權](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)。 ) 
 
-- 如果您的客戶簽署新的 Microsoft 客戶合約（請參閱[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)），您必須在 azure 方案下購買 azure 保留。 如需詳細資訊，請參閱[購買 Azure 方案](purchase-azure-plan.md)。
+- 如果您的客戶簽署新的 Microsoft 客戶合約 (請參閱[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)) ，您必須在 azure 方案下購買 azure 保留。 如需詳細資訊，請參閱[購買 Azure 方案](purchase-azure-plan.md)。
 
 - 在您代表客戶購買保留區之前，客戶必須已擁有有效的 Azure 訂閱
   
@@ -46,7 +49,7 @@ ms.locfileid: "86435767"
 
 - 銷售人員和技術支援中心需能代表客戶明確的存取 Azure 訂閱，以便在 Azure 入口網站與檔案支援要求中購買或管理訂閱，包括換貨與退款  
 
-- 如果您是間接提供者，而且您透過 Azure 入口網站購買 Azure 保留，則會從您選取的 Azure CSP 訂用帳戶繼承記錄夥伴（間接轉銷商）。
+- 如果您是間接提供者，而且您透過 Azure 入口網站購買 Azure 保留，則會從您選取的 Azure CSP 訂用帳戶繼承記錄 (間接轉銷商) 的夥伴。
 
 - 購買後無法變更 Azure 保留的記錄合作夥伴。 您可以取消現有的保留，並向新的記錄夥伴購買新的保留。
 
@@ -101,7 +104,7 @@ ms.locfileid: "86435767"
 
 ## <a name="purchase-azure-reservations"></a>購買 Azure 保留
 
-請遵循下列步驟，代表您的客戶在合作夥伴中心購買 Microsoft Azure 保留。 （您想要讓客戶能夠向您購買的先前 Azure 訂用帳戶購買自己的 Azure 保留嗎？ 請參閱[授與客戶購買自己的 Azure 保留的許可權](give-customers-permission.md)）。
+請遵循下列步驟，代表您的客戶在合作夥伴中心購買 Microsoft Azure 保留。  (是否要讓客戶能夠向您購買的先前 Azure 訂用帳戶購買自己的 Azure 保留專案？ 請參閱[提供客戶購買自己的 Azure 保留的許可權](give-customers-permission.md)。 ) 
 
 1. 從 [合作夥伴中心] 功能表選取 [**客戶**]。  
 
@@ -122,7 +125,7 @@ ms.locfileid: "86435767"
 
 5. 使用篩選器來尋找符合客戶需求之虛擬機器上的 Azure 保留專案。  
 
-6. 找到您想要購買的保留後，請輸入客戶在**數量**中所需的保留實例數目，然後選取 [**新增至購物車**]。  
+6. 在您找到您想要購買的保留 () 之後，請在 [**數量**] 中輸入客戶所需的保留實例數目，然後選取 [**新增至購物車**]。  
 
 7. 重複步驟5和6，直到您將所有必要的專案新增至訂單為止。 選取 [檢閱] 確認您的訂單正確無誤。  
 
@@ -130,7 +133,7 @@ ms.locfileid: "86435767"
 
     - 確認或變更保留執行個體數量。
 
-    - 選取保留範圍。 保留的範圍可以涵蓋一個訂用帳戶或多個訂用帳戶（共用範圍）。 如果您將保留範圍限定為單一訂用帳戶，則保留折扣僅適用于此訂用帳戶。 如果您選取 [共用]，保留折扣會套用至客戶帳單內容內的任何訂用帳戶。 
+    - 選取保留範圍。 保留的範圍可以涵蓋一個訂用帳戶或多個訂閱 (共用範圍) 。 如果您將保留範圍限定為單一訂用帳戶，則保留折扣僅適用于此訂用帳戶。 如果您選取 [共用]，保留折扣會套用至客戶帳單內容內的任何訂用帳戶。 
 
       >[!NOTE] 
       >如果您選擇將保留範圍限制為單一 Azure 訂用帳戶，您可能需要增加訂用帳戶的 vCPU 配額。 若要增加訂用帳戶的 vCPU 配額，您必須在 Azure 入口網站中建立支援要求。 請遵循[本主題中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request)的指示來建立要求。 

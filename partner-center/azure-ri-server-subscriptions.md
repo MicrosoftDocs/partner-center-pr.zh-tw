@@ -1,7 +1,7 @@
 ---
 title: '& server 訂用帳戶的 Azure 保留專案'
 ms.topic: article
-ms.date: 05/04/2020
+ms.date: 08/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入瞭解雲端解決方案提供者的機會，以取得、布建及管理客戶的 Azure 保留和伺服器訂閱。
@@ -9,16 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 408f0e59bb1d6da7caebdcf323ebcd242c49af97
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 5b8a9cf07f8dace47346c68ade3707d6b12a1532
+ms.sourcegitcommit: b79504dbfc335aca995f370e15a654829acdaaff
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86943945"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87900088"
 ---
-# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>取得、布建、& 管理適用于客戶的 Azure 保留的 VM 實例（RI） + 伺服器訂閱
+# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>取得、布建、& 管理適用于客戶的 Azure 保留的 VM 實例 (RI) + 伺服器訂閱
 
-適用於︰
+適用於：
 
 - 合作夥伴中心
 
@@ -29,7 +29,11 @@ ms.locfileid: "86943945"
 - 技術服務代理人
 - 銷售代理人
 - 使用者管理系統管理員
- 
+
+> [!NOTE]
+> 本文僅適用于雲端解決方案提供者 (CSP) 方案中的合作夥伴。 使用其他類型之訂用帳戶的客戶 (例如，隨用隨付、個人、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀[此 Azure 保留檔](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
+
+
 ## <a name="what-are-azure-reservations"></a>什麼是 Azure 保留項目？
 
 Azure 保留可協助您透過預先支付一年或三年的虛擬機器、SQL Database 計算容量、Azure Cosmos DB 輸送量或其他 Azure 資源來節省成本。 預先支付費用可讓您在所使用的資源上取得折扣。 相較于隨用隨付價格，保留可以大幅降低您的虛擬機器、SQL database 計算、Azure Cosmos DB 和其他資源成本，最高可達72%。 保留會提供計費折扣，且不會影響資源的執行階段狀態。 如需詳細資訊，請參閱[什麼是 Azure 保留專案？](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations)
@@ -69,7 +73,7 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 #### <a name="server-subscriptions"></a>伺服器訂閱
 
 - Windows Server
-- 遠端桌面服務（RDS） Cal
+- 遠端桌面服務 (RDS) Cal
 - SQL Server
 
 #### <a name="linux-isv-annual-subscriptions"></a>Linux ISV 年度訂閱
@@ -101,14 +105,14 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 - [銷售資料表](https://assetsprod.microsoft.com/mpn/Azure-RI-Sales-Sheet-CSP.pdf)
 - [Azure 保留的合作夥伴常見問題](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations.docx)
 - [Azure 保留和 SQL DB 的合作夥伴常見問題](https://assetsprod.microsoft.com/Partner-faq-for-azure-reservations-sql-db.docx)
-- [遠端桌面服務（RDS）用戶端存取許可證（CAL）（公告）](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
-- [Azure 保留的 VM 執行個體（Azure 入口網站）](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [遠端桌面服務 (RDS) 用戶端存取許可證 (CAL)  (公告) ](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
+- [Azure 保留的 VM 執行個體 (Azure 入口網站) ](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 - [伺服器訂閱](csp-software-subscriptions.md)
 - [Azure 中的 SQL DB 總覽](https://assetsprod.microsoft.com/Sql-db-in-azure-overview.pptx)
-- [SQL DB 保留（Azure 入口網站）](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
-- [Azure Cosmos DB （Azure 入口網站）](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
-- [SQL 受控執行個體（Azure 入口網站）](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
-- [SUSE 和 Red Hat Enterprise Linux （Azure 入口網站）](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [Azure 入口網站) 的 SQL DB 保留 (](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [Azure Cosmos DB (Azure 入口網站) ](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [SQL 受控執行個體 (Azure 入口網站) ](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [SUSE 和 Red Hat Enterprise Linux (Azure 入口網站) ](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
 - [Azure 上的 Red Hat Linux](https://azure.com/redhat)
 - [Azure 上的 SUSE Linux](https://azure.microsoft.com/overview/linux-on-azure/suse/)
 - [Azure 上的 Linux](https://azure.microsoft.com/overview/linux-on-azure/)
@@ -123,28 +127,28 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 
 授權的隨選準備事件包括如下的主題：
 
-- CSP 線上服務、CSP Azure 和一般授權更新，包括 Azure （2018年11月）
-- SQL DB 保留容量 & 實例大小彈性（2018年8月）
-- CSP 中的伺服器訂閱（2018年7月）
-- CSP 中的 Azure 保留總覽（5月2018）
+- CSP 線上服務、CSP Azure 和一般授權更新（包括 Azure (2018 年11月）) 
+- SQL DB 保留容量 & 實例大小彈性 (2018 年8月) 
+- CSP 中的伺服器訂閱 (2018 年7月) 
+- CSP 中的 Azure 保留總覽 (5 月 2018) 
 
 其他實用的訓練課程包含[合作夥伴大學的 Azure 授權模組](https://aka.ms/azure_partner_licensing)。
 
 ### <a name="operations"></a>作業
 
-- [現代化商務營運指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx)（更新）：涵蓋主要原則和操作層面的完整指南，例如合約、透過合作夥伴中心訂購、發票、價目表詳細資料、獎勵、對帳檔案、API/SDK、沙箱和 Azure 合作夥伴共用服務。
+- [新式商務操作指南](https://assetsprod.microsoft.com/mpn/Partner-Center-Modern-Commerce-Operating-Guide.docx) (更新) ：涵蓋主要原則和作業層面（例如合約、透過合作夥伴中心排序、發票、價目表詳細資料、獎勵、對帳檔案、API/SDK、沙箱和 Azure 合作夥伴共用服務）的完整指南。
 - [現代化優惠國家/地區可用性和客戶貨幣矩陣](https://assetsprod.microsoft.com/modern-offers-country-currency-availability.xlsx)
 - [銷售 Microsoft Azure 保留的執行個體](https://go.microsoft.com/fwlink/?linkid=872806)
 - [代表您的客戶購買 Microsoft Azure Reservations](https://go.microsoft.com/fwlink/?linkid=872807)
 - [代表您的客戶管理 Azure Reservations](https://go.microsoft.com/fwlink/?linkid=872808)
 - [Azure Reservations 的帳單](azure-plan-billing.md)
 - [調整 VM 大小以提供最大保留區使用率](https://go.microsoft.com/fwlink/?linkid=872810)
-- [合作夥伴中心 API （API/SDK）](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
+- [合作夥伴中心 API (API/SDK) ](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)
 - [遠端桌面服務](https://docs.microsoft.com/windows-server/remote/remote-desktop-services/welcome-to-rds)
 
 ## <a name="azure-hybrid-benefit"></a>Azure Hybrid Benefit
 
-[Azure Hybrid Benefit](https://azure.microsoft.com/pricing/hybrid-benefit) 可協助您從您的 Windows Server 授權獲得更多價值，並可節省高達 *47% 的虛擬機器。 您可以將權益搭配用於軟體保證所涵蓋的 Windows Server Datacenter 和 Standard Edition 授權。 視版本而定，您可以轉換或重複使用您的授權，在 Azure 中執行 Windows Server 虛擬機器，並以較低的基礎計算費率支付（Linux 虛擬機器費率）。
+[Azure Hybrid Benefit](https://azure.microsoft.com/pricing/hybrid-benefit) 可協助您從您的 Windows Server 授權獲得更多價值，並可節省高達 *47% 的虛擬機器。 您可以將權益搭配用於軟體保證所涵蓋的 Windows Server Datacenter 和 Standard Edition 授權。 視版本而定，您可以轉換或重複使用您的授權，在 Azure 中執行 Windows Server 虛擬機器，並以較低的基礎計算費率支付 (Linux 虛擬機器費率) 。
 
 請參閱 [Azure Hybrid Benefit 常見問題集](https://azure.microsoft.com/pricing/hybrid-benefit/faq/)
 
