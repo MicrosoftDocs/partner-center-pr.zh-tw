@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 4ed7167faf3b090025d040d692b9cb2eac35a6d4
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545539"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811158"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "87545539"
 
 | **類別** | **2020 年 8 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[現已推出新的 Microsoft Teams 進階通訊 SKU](2020-august.md#4)|8 月 4 日|
+|供應項目/市場|[9 月推出適用於教育用伺服器的 Microsoft Defender 進階威脅防護 (ATP)](2020-august.md#3)|8 月 4 日|
 |供應項目/市場|[新的 Dynamics 365 Sales Premium 搭售供應項目](2020-august.md#2)|8 月 3 日|
 |供應項目/市場|[宣布推出 Visio 方案 1 和方案 2 試用版供應項目](2020-august.md#1)|8 月 3 日|
 | **類別** | **2020 年 7 月公告** | **日期** |
