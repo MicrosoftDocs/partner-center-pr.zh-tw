@@ -5,16 +5,16 @@ ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解 Azure 方案的商務體驗，以隨用隨付費率為客戶購買 Azure 服務。 同時了解新的安全性需求。
-author: amrava
-ms.author: amrava
+author: rbars
+ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 339aaff4eb943c10aaef2c171ff505b6e9dad7b6
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435797"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998387"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>簡介：Azure 方案可讓合作夥伴以隨用隨付費率為客戶購買 Azure
 

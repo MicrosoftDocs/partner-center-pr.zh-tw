@@ -5,16 +5,16 @@ ms.subservice: partnercenter-csp
 description: 瞭解如何確認您的公司詳細資料，像是主要連絡人、地址、計畫資訊。 您也可以更新您的法定和帳單地址。
 author: parthpandyaMSFT
 ms.author: parthp
-ms.topic: conceptual
+ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8a090b4f49260ecbb6597d8b989a1a1156422ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: efae9cce608524835c8e4526f23e61b793470d2b
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365714"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811108"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>在合作夥伴中心確認您的合作夥伴設定檔資訊
 
