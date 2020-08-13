@@ -102,6 +102,7 @@
 ### [分析您的商務設定檔](analyze-your-marketing-profile.md)
 ## 獎勵
 ### 開始使用獎勵
+#### [快速入門](incentives-get-started-intro.md)
 #### [判斷您的計畫資格](incentives-determined-your-program-eligibility.md)
 #### [在合作夥伴中心建立及管理支出與稅務設定檔](incentives-create-and-manage-your-payout-and-tax-profiles.md)
 #### [獎勵支出和稅務設定檔常見問題集](incentives-payout-tax-profile-faqs.md)
@@ -109,14 +110,16 @@
 #### [查看您的獎勵付款和計畫](understand-incentive-payouts.md)
 #### [存取您的獎勵支出頁面](incentives-unified-user-guide.md)
 ### 執行方案和證明
+#### [關於方案和 PoE](incentives-plans-proofs-intro.md)
 #### [建立您的方案](incentives-create-your-plan.md)
 #### [準備您的執行證明](incentives-prepare-your-proof-of-execution.md)
 ### 獎勵合作宣告
-#### [獎勵](claims-overview.md)
+#### [關於合作宣告](claims-overview.md)
 #### [建立和管理獎勵合作宣告](create-incentives-claims.md)
 #### [獎勵合作宣告的核心需求](core-requirements.md)
 #### [合作宣告核准和付款期限](incentives-managing-co-op-claims.md)
 ### 獎勵 CPOR 關聯宣告
+#### [關於 CPOR 關聯](incentives-customer-associations-intro.md)
 #### [使用 CPOR 模型建立客戶關聯](submit-osa-claim.md)
 #### [管理客戶關聯](incentives-manage-customer-associations.md)
 #### [客戶關聯問題](incentives-customer-association-issues.md)
