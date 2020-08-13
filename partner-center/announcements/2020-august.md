@@ -9,18 +9,98 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/03/2020
-ms.openlocfilehash: ec9dc4110e4cd0d980142d012a570b84c864f14a
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 10416b9054cc01669fd8a9cc0606f8ecdb565fd9
+ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87546684"
+ms.lasthandoff: 08/05/2020
+ms.locfileid: "87811098"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月公告
 
 本頁詳述 Microsoft 合作夥伴中心 2020 年 8 月的公告。
 
 2020 公告：[1 月](2020-january.md) | [2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | 8 月
+
+________________
+
+## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>現已推出新的 Microsoft Teams 進階通訊 SKU
+### <a name="categories"></a>類別
+
+- 日期：2020-08-04
+- 供應項目/市場
+
+### <a name="summary"></a>摘要
+
+適用於 Microsoft Teams 的進階通訊附加元件 SKU 已於 2020 年 8 月 1 日推出。
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 計畫交易的所有合作夥伴
+
+### <a name="details"></a>詳細資料
+
+您現在可以以每個使用者每月 $12 美元的價格，取得適用於 Microsoft Teams 的進階通訊附加元件。 附加元件 SKU 可以在包含 Microsoft Teams 的任何其他 Microsoft 365 套件上購買。 除了適用於 IT 管理的進階工具以外，進階通訊還提供一組新的功能，可用於大型會議、通訊原則和整合。 
+
+#### <a name="advanced-communications-features"></a>進階通訊功能
+
+推出時的釋出內容
+- 即時事件的參與者人數限制為 20K (允許 50 個並行事件，時間為 16 小時)
+- 法規遵循記錄整合 (ISV) 
+- Contact Center 解決方案整合 (ISV) 
+
+稍後在 CY2020 中釋出的內容
+- 1,000 人互動式 Teams 會議 
+- 容納 1,000 位參與者的互動式會議，並允許最多 20,000 人加入「僅限觀看」的會議體驗中。 
+- 自訂品牌的會議大廳
+- 其他自訂、工具和通訊增強功能將會在整個日曆年度中新增至 SKU
+
+#### <a name="offer-details"></a>供應項目詳細資料
+
+   |**供應項目名稱**|**優惠識別碼**|**材質識別碼**|
+   |-------------------|:------|:------|
+   |進階通訊|efb0c254-e9c6-4e9b-be12-eb2b7849953f|1UC-00006|
+   |適用於教職員的進階通訊|13219baa-468f-4eeb-bfaa-243216dbddca|2P8-00005|
+   |適用於學生的進階通訊|31a690b0-3945-4adf-98ab-644e0a879b3f|2P8-00006|
+
+#### <a name="frequently-asked-questions"></a>常見問題集
+
+- **什麼是進階通訊？** 這是新的 Microsoft Teams 附加元件，可讓客戶進一步強化其溝通經驗。 客戶可以在其訂閱的任何 Microsoft 365 SKU 上購買。
+- **需要多少成本？** 商用 ERP 是每位使用者每月 $12 美元。 
+- **哪些客戶可以購買此附加元件？** 商業、全球商業公共事業部門、教育和非營利組織。
+- **如何購買？** 您可以透過 EA/EAS、EES、CSP 或 Web Direct 購買此附加元件。
+- **可以在何處銷售？** 該元件可以在目前所有市場中銷售。
+- **有哪些必要條件？** 包含 Microsoft Teams 的任何 Microsoft 365/Office 365 套件。
+
+### <a name="next-steps"></a>後續步驟
+
+- 請與您組織中相關連絡人分享這項資訊，以了解追加銷售和交叉銷售商機。 請參閱 [Teams 合作夥伴指南](https://aka.ms/teamscallingmeetingsguide)的資源區段。
+
+________________
+
+## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-available-in-september"></a><a name="3"></a>9 月會推出適用於教育用伺服器的 Microsoft Defender 進階威脅防護 (ATP)
+### <a name="categories"></a>類別
+
+- 日期：2020-08-04
+- 供應項目/市場
+
+### <a name="impacted-audience"></a>影響對象
+
+參與 CSP 計畫的所有合作夥伴
+
+### <a name="details"></a>詳細資料
+
+2020 年 9 月 1 日，雲端解決方案提供者 (CSP) 計畫中將推出適用於教育用伺服器的 Microsoft Defender 進階威脅防護 (ATP)。
+
+#### <a name="product-details"></a>產品詳細資料
+
+- 供應項目名稱：適用於教育用伺服器的 Microsoft Defender ATP
+- 供應項目識別碼：c7b9ab7e-8f80-4b4b-8aed-dcad61f28995
+
+### <a name="next-steps"></a>後續步驟
+
+- 請與貴組織內適當的連絡人分享這項資訊。
+- 如需產品的詳細資訊，請參閱 [Microsoft Defender ATP 文件](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)。
 
 ________________
 

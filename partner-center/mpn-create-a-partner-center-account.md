@@ -1,7 +1,7 @@
 ---
 title: 建立合作夥伴中心帳戶
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 08/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 合作夥伴網路成員如何建立合作夥伴中心帳戶，來管理他們的網路權益和專長認證。
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927cfcaf87b01dc31d899e2509f441462f1d295a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: f39b53e7b1a0a95b9d90a18c1a07694f4eac62b7
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114719"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998411"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>建立合作夥伴中心帳戶，以管理網路權益和專長認證
 
@@ -65,6 +65,45 @@ ms.locfileid: "87114719"
     a. 從合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/home**) 中，選取 [設定] 圖示，然後選取 [使用者管理]。  
 
     b. 從使用者清單中選取您的名稱，然後選取 [系統管理代理人] (如果尚未選取)。 選取 [更新]。  
+
+## <a name="view-mpn-account-details"></a>檢視 MPN 帳戶詳細資料
+
+建立合作夥伴中心帳戶之後，您可以返回合作夥伴中心檢視各種帳戶詳細資料。 其中有許多資料會出現在合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)的 [合作夥伴基本資料] 頁面上。
+
+這類詳細資料包括：
+
+- 公司的法定商務基本資料
+
+- MPN 識別碼的相關資訊
+
+- 目前與所註冊 Microsoft 計畫相關聯的合約連結
+
+  例如，如果您已在 MPN 計畫中註冊，您會看到目前 Microsoft 合作夥伴網路合約的連結。 如果您已在其他合作夥伴計畫中註冊，例如雲端解決方案提供者 (CSP) 計畫，您可能也會看到其他合約的連結，例如 Microsoft 合作夥伴合約。 
+
+  > [!NOTE]
+  > 如果您想要檢閱、存取或下載合約，或檢查簽署的日期，查看這些類型的連結可能會很有幫助。
+
+### <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>如何檢視帳戶詳細資料，或檢視及下載 MPN 合約
+
+請遵循下列步驟來檢視帳戶詳細資料，或檢視及下載 MPN 合約：
+
+1. 使用您的公司帳戶使用者名稱和密碼，登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
+
+2. [概觀] 頁面會隨即顯示。 (如果您看不到 [概觀] 頁面，請從左側導覽功能表中選取 [概觀]。)
+
+3. 選取儀表板右上角的齒輪圖示，然後選取 [合作夥伴設定]。 這會帶您前往 [合作夥伴基本資料] 頁面。
+
+4. 在 [合作夥伴基本資料] 頁面中，您會看到不同的區域。 其中包括 [法定商務基本資料] 區域和 [計畫資訊] 區域。
+
+5. 在 [計畫資訊] 底下，找出 [MPN 計畫狀態] 欄位。 這會顯示 Microsoft 合作夥伴網路合約的連結。 也會描述您目前在計畫中的狀態。
+
+
+   :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="顯示 [合作夥伴基本資料] 頁面上 [計畫資訊] 區域的影像，並以紅色方框醒目提示此區域中的 [MPN 計畫狀態] 欄位及其相關聯的 Microsoft 合作夥伴網路合約連結。":::
+
+6. 若要檢視或下載此合約，請選取 [Microsoft 合作夥伴網路合約]。  
+
+> [!NOTE]
+> 如果您曾在雲端解決方案提供者 (CSP) 計畫中註冊，您也可以使用上述步驟來檢視或下載如 Microsoft 合作夥伴合約等已註冊計畫的合約。
 
 ## <a name="next-steps"></a>接下來的步驟
 

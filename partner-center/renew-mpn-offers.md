@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6d50081332a404507fea9c196e10cf3d5f0ecb
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114060"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998389"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>在續訂時間範圍內續訂 MPN 供應項目以取得 Microsoft 行動套件與專長認證
 
@@ -40,11 +40,13 @@ Microsoft 行動寶盒及專長認證是需要年度續約的 Microsoft 合作�
 
 ## <a name="responding-to-covid-19"></a>因應 COVID-19：
 
-為協助您專注於支援客戶，**如果您的專長認證週年日期介於 2020 年 1 月 1 日到 6 月 30 日之間**，我們會將您目前的一或多個專長認證延長至 2021 年的下一個週年日期。 您的專長認證續約提醒會更新，以反映這個新的供應項目。 
+為協助您全力支援您的客戶： 
+
+- **如果您的專長認證週年日期介於 2020 年 7 月 1 日到 12 月 31 日之間**，我們會將您目前的一或多個專長認證延長至 2021 年的下一個週年日期。 您的專長認證續約提醒會更新，以反映這個新的供應項目。 
 
 - **如果您的專長認證即將續約**，您會在合作夥伴中心內看到您的需求已滿足。 若要續訂，您必須在 [成員資格供應項目] 頁面的 [續訂] 視窗內支付您的專長認證費用。 
 
-- **如果您已錯過續約時間範圍**，可以在 [成員資格供應項目] 頁面上支付費用，以重新啟用您的專長認證並重新取得資源和權益的存取權。 此擴充功能可在 2020 年 6 月 30 日前提供使用。   
+- **如果您已錯過續約時間範圍**，可以在 [成員資格供應項目] 頁面上支付費用，以重新啟用您的專長認證並重新取得資源和權益的存取權。此延長方案的期限到 2020 年 12 月 31 日止。
 
 ### <a name="how-to-view-this-information"></a>如何檢視這項資訊
 

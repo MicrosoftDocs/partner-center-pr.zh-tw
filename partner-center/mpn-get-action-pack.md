@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41797ec9a176e9bec05746cc860d65faba684029
-ms.sourcegitcommit: 583c792d904cc1b15eda9217a1f21f434564c8e7
+ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
+ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87389127"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "87998381"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>購買或續約 Microsoft 行動套件優惠，或者銀級或金級專長認證
 
@@ -72,6 +72,13 @@ ms.locfileid: "87389127"
 
 您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從 [已購買] 優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 
 
+### <a name="update-your-bill-to-address"></a>更新您的帳單地址
+
+在續訂或購買行動套件的過程中，您可以藉此機會確認您的帳單寄送地址。
+
+ 1. 選取 [提交] 之後，您可以檢視購買詳細資料。 如果您看到您的地址需要更新，請選取 [更新]。
+  
+ 1. 在 [合作夥伴基本資料] 頁面上，更新您的地址。
 
 ## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>關閉自動行動套件訂閱續約
 

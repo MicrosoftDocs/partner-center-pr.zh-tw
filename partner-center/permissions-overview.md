@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0e7aecd7d56e1919c7f142312a9090b8ff40bd3
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c87e47efc6c94e4e53a031a983a4a4e528ddc012
+ms.sourcegitcommit: 59bdf42f5282262835cb7ee2bd215bbddc7686d7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86434317"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "87839183"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>為需要在合作夥伴中心工作的公司使用者指派使用者角色和權限
 
@@ -46,6 +46,7 @@ ms.locfileid: "86434317"
 ||*    檢視所有合作夥伴設定檔
 ||*    檢視、建立和管理合作夥伴使用者  |
 |帳單系統管理員 | - 檢視、建立和管理帳單、發票和對帳檔案|
+||*    檢視定價
 |預設使用者|  檢視我的設定檔   |
 |系統管理代理人 | *    客戶管理
 ||*    將裝置清單新增至合作夥伴中心
@@ -62,6 +63,7 @@ ms.locfileid: "86434317"
 ||*    訂用帳戶管理
 ||*    檢視支援票證
 ||*    要求與客戶建立關係
+||*    檢視定價和供應項目
 ||*    管理潛在客戶
 ||*    檢視客戶合約
 ||*    註冊加值型經銷商|
