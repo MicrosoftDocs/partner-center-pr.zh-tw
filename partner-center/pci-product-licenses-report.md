@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dd4dc27c17c40b76020f6233257637a387c5f81
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 66b913688b279654c79b0860fbd0f92a921d87dd
+ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444839"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88239046"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>合作夥伴中心深入解析儀表板中的產品授權報表
 
@@ -26,7 +26,7 @@ ms.locfileid: "87444839"
 
 [產品授權] 報表會針對以授權為基礎的雲端產品（例如 O365、Dynamics、M365、Power BI 等）出示授權分析。這裡所呈現的分析，與您所銷售或為客戶管理的授權使用量相關聯。 您可以從 [產品授權] 報表中查看下列區段。
 
-- 摘要
+- 總結
 - 授權的地理散佈
 - 授權新增
 - 依合作夥伴位置、銷售通路、Sku、合作夥伴附加類型、區段的授權發佈
@@ -36,7 +36,7 @@ ms.locfileid: "87444839"
 
 **總結**
 
-[摘要] 區段會提供與已銷售、部署和使用之雲端產品授權相關聯之關鍵效能指標（Kpi）的快照集視圖。 這可協助您針對銷售給客戶的授權，追蹤作用中的使用方式。
+[摘要] 區段會提供關鍵效能指標的快照集視圖， (與銷售、部署和使用之雲端產品授權相關聯的 Kpi) 。 這可協助您針對銷售給客戶的授權，追蹤作用中的使用方式。
 
 - 授權：您針對授權型雲端產品（例如 O365、Dynamics、M365、Power BI 等）銷售或管理的所有授權目前計數。這些授權在選取的日期範圍內成長或拒絕的百分比。
 
@@ -56,11 +56,11 @@ ms.locfileid: "87444839"
 
 **授權的地理散佈**
 
-[**授權地理分佈**] 視圖會顯示目前授權的地理分佈，以及客戶市場的有效授權。 （**目前**的授權計數也包含未指派的授權）。
+[ **授權地理分佈** ] 視圖會顯示目前授權的地理分佈，以及客戶市場的有效授權。  (**目前** 的授權計數也包含未指派的授權。 ) 
 
 [**國家/地區] 的數目**會顯示您目前和作用中客戶授權的國家/地區總計。
 
-您可以搜尋並選取方格中的國家/地區，以縮放至地圖中的位置。 按下地圖上的 [**首頁**] 選項，以還原為預設的 view。 將滑鼠停留在地圖上，以依客戶國家/地區查看目前的授權和作用中的授權。 格線上的兩個欄位都可以排序。
+您可以搜尋並選取方格中的國家/地區，以縮放至地圖中的位置。 按下地圖上的 [ **首頁** ] 選項，以還原為預設的 view。 將滑鼠停留在地圖上，以依客戶國家/地區查看目前的授權和作用中的授權。 格線上的兩個欄位都可以排序。
 
 :::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="授權地理分佈":::
 
@@ -76,10 +76,13 @@ X 軸代表所選日期範圍的月份。 Y 軸代表新增的授權計數。 �
 
 **授權散發**
 
-此視圖會依產品和客戶國家/地區顯示客戶授權的明細。 當您選取 [**依產品的授權**] 圓形圖中的產品時，連續的圖表會顯示用戶端區域的授權明細。
+此視圖會依產品和客戶國家/地區顯示客戶授權的明細。 當您選取 [ **依產品的授權** ] 圓形圖中的產品時，連續的圖表會顯示用戶端區域的授權明細。
 
 :::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="授權散發":::
 
 ## <a name="next-steps"></a>後續步驟
 
-如需更多報告，請參閱[合作夥伴中心深入](partner-center-insights.md)解析。
+如需更多報告，請參閱 [合作夥伴中心深入](partner-center-insights.md)解析。
+
+>[!NOTE] 
+> 您可以從 [深入解析] 儀表板的 [下載報告] 區段，下載與此報表有關的原始資料。 [深入了解](pci-download-reports.md)
