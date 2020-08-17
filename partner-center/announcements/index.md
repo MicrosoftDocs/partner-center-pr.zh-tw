@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c8c6798c216ce4b0228feabdf59838f23526c362
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 07ebb79d38a0340129fdc590bc873c9fd7ed05c9
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811158"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220205"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "87811158"
 
 | **類別** | **2020 年 8 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[.NET Standard v1.16.1 上的 SDK 版本](2020-august.md#6)|8 月 12 日|
+|功能|[即將推出 Microsoft Project 和 Microsoft Visio 的自助式購買](2020-august.md#5)|8 月 12 日|
 |供應項目/市場|[現已推出新的 Microsoft Teams 進階通訊 SKU](2020-august.md#4)|8 月 4 日|
 |供應項目/市場|[9 月推出適用於教育用伺服器的 Microsoft Defender 進階威脅防護 (ATP)](2020-august.md#3)|8 月 4 日|
 |供應項目/市場|[新的 Dynamics 365 Sales Premium 搭售供應項目](2020-august.md#2)|8 月 3 日|
@@ -86,7 +88,7 @@ ms.locfileid: "87811158"
 | **類別** | **2020 年 1 月公告** | **日期** |
 | 供應項目/市場 | [俄羅斯的雲端解決方案提供者 (CSP) 合作夥伴自 2020 年 2 月 1 日起已可使用 Windows Server 和 SQL Server 訂用帳戶](2020-january.md#7) | 1 月 31 日 |
 | 供應項目/市場 | [Microsoft 365 F1 的會議室和會議附加元件現已在政府社群雲端 (GCC) 中推出](2020-january.md#6) | 1 月 29 日 |
-| 功能 | [Microsoft 365 F1 的會議室和會議附加元件現已在政府社群雲端 (GCC) 中推出](2020-january.md#5) | 1 月 28 日 |
+| 功能 | [現已推出！適用於美國的 Power Apps 和 Power Automate 自助式購買商業客戶](2020-january.md#5) | 1 月 28 日 |
 | 功能 | [宣布在合作夥伴中心推出新的報告儀表板](2020-january.md#4) |1 月 27 日 |
 | 功能 | [請記得在 2020 年 1 月 31 日前確認 Microsoft 客戶合約的接受](2020-january.md#3) | 1 月 27 日 |
 | 功能 | [2020 年 1 月的價目表和供應項目更新排程](2020-january.md#2) | 1 月 7 日 |
