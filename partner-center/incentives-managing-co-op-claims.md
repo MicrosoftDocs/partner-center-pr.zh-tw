@@ -1,27 +1,27 @@
 ---
-title: 管理共同作業宣告
-description: 瞭解共同作業的宣告流程，包括期限、貨幣問題，以及如何對已拒絕的共同作業索賠提出爭議。
+title: 管理合作宣告
+description: 瞭解共同作業宣告程式，包括期限、貨幣問題，以及如何對已拒絕的共同作業索賠發出爭議。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 4d164eed72906b8fd04700865c7320c7fc23f11f
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545969"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303194"
 ---
-# <a name="manage-co-op-claims"></a>管理共同作業宣告
+# <a name="manage-co-op-claims"></a>管理合作宣告
 
 適用於：
 
 - 合作夥伴中心
 
-下列內容提供管理共同作業宣告的資訊，包括時程表、規則，以及如何對已拒絕的共同作業索賠發出爭議。
+下列內容提供管理共同作業宣告的資訊，包括時間軸、規則，以及如何對已拒絕的共同作業宣告提出爭議。
 
 適當的角色：
 
@@ -29,15 +29,15 @@ ms.locfileid: "87545969"
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>合作宣告核准和付款期限
 
-### <a name="when-will-my-co-op-claim-be-approved"></a>我的共同作業索賠何時會核准？
+### <a name="when-will-my-co-op-claim-be-approved"></a>我的共同作業申請何時會核准？
 
-共同作業宣告會在提交後的兩個工作天內進行審核。 一旦將其視為有效，就會設定為 [已核准] 狀態。  
+共同作業的宣告會在提交之後的兩個工作天內進行審核。 一旦它們被視為有效，就會設定為 [已核准] 狀態。  
 
-以下是您的共同作業宣告的各種可能狀態。
+以下是您共同作業宣告的各種可能狀態。
 
 - 已提交
 - 檢閱中
-  - Microsoft 會在送出的宣告的兩個工作天內完成其審查。 如果您的狀態為 [審核時間超過兩天]，請聯絡[支援](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)人員。
+  - Microsoft 將會在提交的宣告的兩個工作天內完成評論。 如果您的狀態正在審核超過兩天，請聯絡 [支援](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)人員。
 - 必要的動作
 - 編輯中
 - 已核准
@@ -57,7 +57,7 @@ ms.locfileid: "87545969"
 
 每個獎勵計劃在設定期間都會建立一個銀行設定檔。 該設定檔中指定的貨幣就是付款給您所用的貨幣。
 
-## <a name="rejected-co-op-claims"></a>已拒絕共同 op 宣告
+## <a name="rejected-co-op-claims"></a>拒絕的共同作業宣告
 
 如果您透過合作索賠提供的資料已判斷為不足，則會遭到拒絕。 您可以在合作索賠頁面的 [歷程] 欄位中看到拒絕的原因。 若要對拒絕提出爭議，請使用下列程式：
 
@@ -67,7 +67,7 @@ ms.locfileid: "87545969"
 
 2. 在 [獎勵] 底下，選取 [合作索賠]。
 
-3. 選取您想要提出爭議的合作索賠。 [共同作業索賠] 頁面隨即開啟。
+3. 選取您想要提出爭議的合作索賠。 [共同作業索取] 頁面隨即開啟。
 
 4. 選取頁面底部的 [爭議]。
 

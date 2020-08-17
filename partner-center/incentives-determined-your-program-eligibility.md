@@ -1,21 +1,21 @@
 ---
 title: 判斷您的計畫資格
-description: 請確定您的獎勵方案符合資格，才能獲得報酬。
+description: 請確定您的獎勵方案符合資格，以便您可以支付費用。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-author: mseamons
-ms.author: mseamons
+author: Karthic83
+ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 498604c94d86c2e8996725470cd15869dc99d068
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 20045f321bd3fea5410fff148e8d9fb58dacef50
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545999"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303224"
 ---
-# <a name="program-eligibility"></a>程式資格
+# <a name="program-eligibility"></a>方案資格
 
 適用於：
 
@@ -32,7 +32,7 @@ ms.locfileid: "87545999"
 
 您可以在計劃指南中找到您計劃特有的資格需求。 
 
-### <a name="to-see-your-program-guide"></a>查看您的程式指南
+### <a name="to-see-your-program-guide"></a>查看您的節目表
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
 
