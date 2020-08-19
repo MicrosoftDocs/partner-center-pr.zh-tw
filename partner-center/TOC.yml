@@ -171,8 +171,6 @@
     - name: 推薦概觀
       href: referrals.md
       items:
-        - name: 回應推薦
-          href: responding-to-referrals.md
         - name: 管理商務設定檔
           href: create-a-marketing-profile.md
         - name: 管理潛在客戶
@@ -193,8 +191,12 @@
       items:
         - name: 開始使用獎勵
           items:
+            - name: 常見問題集
+              href: incentives-faq.md
             - name: 開始使用
               href: incentives-get-started-intro.md
+            - name: 符合獎勵計畫
+              href: incentives-enroll.md
             - name: 判斷您的計畫資格
               href: incentives-determined-your-program-eligibility.md
             - name: 在合作夥伴中心建立及管理支出與稅務設定檔
