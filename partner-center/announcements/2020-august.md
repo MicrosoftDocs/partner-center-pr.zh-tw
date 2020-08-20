@@ -8,19 +8,101 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/03/2020
-ms.openlocfilehash: 10416b9054cc01669fd8a9cc0606f8ecdb565fd9
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.date: 08/14/2020
+ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
+ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811098"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "88303054"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月公告
 
 本頁詳述 Microsoft 合作夥伴中心 2020 年 8 月的公告。
 
 2020 公告：[1 月](2020-january.md) | [2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | 8 月
+
+________________
+
+## <a name="updates-to-the-microsoft-365-voice-promotion"></a><a name="7"></a>更新至 Microsoft 365 企業語音促銷 
+
+### <a name="categories"></a>類別
+
+- 日期：2020-08-14
+- 供應項目/市場
+
+### <a name="details"></a>詳細資料
+
+我們已對先前宣佈的 Microsoft 365 商務版語音促銷進行一些更新。 您可以造訪[合作夥伴中心資源庫](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf)，以取得詳細資料。 
+
+________________
+
+## <a name="sdk-release-on-net-standard-v1161"></a><a name="6"></a>.NET Standard 上的 SDK 版本 (v1.16.1)
+
+### <a name="categories"></a>類別
+
+- 日期：2020-08-12
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+使用合作夥伴中心 .NET SDK 且參與 CSP 計畫的 Direct Bill 合作夥伴和 Indirect Provider。 
+
+### <a name="summary"></a>摘要
+
+自 2020 年 7 月 21 日起，合作夥伴可以開始下載 **.NET Standard SDK Microsoft 合作夥伴中心** .NET SDK v1.16.1，以及更新的公用**合作夥伴中心 SDK GitHub 範例**。
+
+### <a name="details"></a>詳細資料
+
+參與 CSP 計畫的 Direct Bill 合作夥伴和 Indirect Provider 都有資格下載最新的 .NET Standard SDK 版本。 這些變更會使用 .NET Framework 4.6.1 和更新版本，讓 SDK 與現有的應用程式相容。 .NET Standard 將支援 .NET Core 2.0 和更新版本。
+
+已有大量合作夥伴要求使用 .NET Standard 的 SDK。 目前的 SDK 版本會強制合作夥伴使用以 ASP.NET Framework 撰寫的應用程式，但此方式比 .NET Core 應用程式緩慢且成本高昂。 因此，遷移至 .NET Standard 有助於解決 .NET Core 的效能或相容性問題。
+ 
+**重點**
+- Microsoft 不會再針對 .NET Framework 4.8 提供其他版本，因為這是其產品線中的最後一版。
+- 未來的開發會受到限制，因為大部分的程式庫會針對 .NET Core 或 .NET Standard 來發行，而這可能不支援目前的架構版本。
+- 由於 .NET Core 的輕量本質，其很適合與容器搭配使用。
+- 適用於 Windows Server 和 Linux 的高效能伺服器執行階段會使 .NET Core 成為最佳的 Web 架構。
+
+### <a name="next-steps"></a>後續步驟
+
+- 下載最新版本的 [.NET SDK v1.16.1](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.1)
+- 版本：.NET SDK v1.16.1
+- 範例程式碼：[範例程式碼](https://github.com/microsoft/Partner-Center-DotNet-Samples)
+- GA：2020/8/12
+- 目前版本中沒有新的 API 變更
+
+________________
+
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-coming-soon"></a><a name="5"></a>即將推出 Microsoft Project 和 Microsoft Visio 的自助式購買功能
+### <a name="categories"></a>類別
+
+- 日期：2020-08-12
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+銷售線上服務給商業客戶的合作夥伴
+
+### <a name="details"></a>詳細資料
+
+我們[去年](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf)分享 Microsoft 可讓個人和團隊直接購買選取服務。 今天我們宣佈了 Microsoft Project 和 Microsoft Visio 產品的自助式購買功能即將推出。 從 2020 年 9 月 15 日起，全球各地的個人使用者將能透過自助服務購買下列產品的訂閱：
+
+- [Visio 方案 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) 和 [Visio 方案 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [專案計劃 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) 和 [專案計劃 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+
+**注意：** 自助式購買功能不適用於印度，也不適用於符合政府或教育版優惠的客戶。
+
+#### <a name="partner-benefits"></a>合作夥伴權益
+
+您將能夠為個人和團隊提供服務，而不需要經過集中化的 IT 採購程序來取得所需的授權。 根據 Microsoft 365 和 Power Platform 的整合案例，您的服務可以橫跨 Project 和 Visio。 
+
+在 Microsoft Inspire 研習會「[利用 Microsoft Visio 和 Power Platform 重建和重新構思業務](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」中，深入了解具有 Visio 和 Power Platform 解決方案的合作夥伴商機。 如需其他資訊，請造訪[自助式系統管理員指南](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide)。
+
+#### <a name="additional-resources"></a>其他資源
+
+- 請檢閱「作業整備度」資源庫中的所有整備資源：[客戶自助式購買功能](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)。
+- 客戶可以在購買之前先試用 Visio 和 Project 試用版，現已推出 [Visio 方案 1 和 Visio 方案 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)，以及 [Project 方案 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)。
 
 ________________
 

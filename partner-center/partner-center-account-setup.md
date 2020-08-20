@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: b8f06013651f6b41ea9e31d1a444465c052dcb06
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
+ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "87365774"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88215578"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>管理您的合作夥伴中心帳戶 - 公司設定檔、銀行資訊、角色、權限等等
 
@@ -118,6 +118,7 @@ ms.locfileid: "87365774"
 |-----------------------|:-----------------------|
 |確定您公司的設定檔案是最新的   |[更新您的合作夥伴設定檔](update-your-partner-profile.md)|
 |新增使用者|[建立使用者帳戶和指派權限](create-user-accounts-and-set-permissions.md)|
+|尋找您的驗證狀態|[確認您的帳戶資訊](verification-responses.md)|
 |您公司中所有需要在合作夥伴中心裡工作的人員都必須有指派的角色。 每個角色都有其適用的特定權限與工作。|[建立使用者帳戶與設定權限](create-user-accounts-and-set-permissions.md)|
 |檢閱每個角色需要的權限|[指派使用者角色和權限](permissions-overview.md)
 |管理貴公司的位置|[管理您的合作夥伴帳戶：位置](manage-locations.md)
@@ -127,3 +128,4 @@ ms.locfileid: "87365774"
 |請務必行銷宣傳您的公司，讓客戶可以找到您   |[建立商務設定檔](create-a-marketing-profile.md)|
 |整理您的類別目錄，讓最重要的產品列在清單頂端   |[自訂型錄](customize-the-catalog.md)|
 |隨時取得在目前定價與方案的最新資訊   |[定價與供應項目](pricing-and-offers.md)|
+|API：確認合作夥伴的 MPN 識別碼|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]

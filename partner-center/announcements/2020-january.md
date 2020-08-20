@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 0ed5d5a0037d9fe11e77c56eca784e9aad93c5a4
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944005"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220220"
 ---
 # <a name="january-2020-announcements"></a>2020 年 1 月公告
 
@@ -110,7 +110,7 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 
 _________________
 
-## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="5"/></a>Microsoft 365 F1 的會議室和會議附加元件現已在政府社群雲端 (GCC) 中推出
+## <a name="available-now-power-apps-and-power-automate-self-service-purchase-for-us-commercial-customers"></a><a id="5"/></a>現已推出！ 適用於美國的 Power Apps 和 Power Automate 自助式購買商業客戶
 
 ### <a name="categories"></a>類別
 
