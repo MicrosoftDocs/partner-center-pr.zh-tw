@@ -9,390 +9,390 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: dd12838ec0cdbb697aa64b8b398d1a770d2a4517
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 0ed5d5a0037d9fe11e77c56eca784e9aad93c5a4
+ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "86944005"
+ms.lasthandoff: 08/14/2020
+ms.locfileid: "88220220"
 ---
-# <a name="january-2020-announcements"></a><span data-ttu-id="9f163-103">2020 年 1 月公告</span><span class="sxs-lookup"><span data-stu-id="9f163-103">January 2020 announcements</span></span>
+# <a name="january-2020-announcements"></a><span data-ttu-id="a8d8d-103">2020 年 1 月公告</span><span class="sxs-lookup"><span data-stu-id="a8d8d-103">January 2020 announcements</span></span>
 
-<span data-ttu-id="9f163-104">本頁詳述 Microsoft 合作夥伴中心 2020 年 1 月的公告。</span><span class="sxs-lookup"><span data-stu-id="9f163-104">This page details the announcements for Microsoft Partner Center for January 2020.</span></span>
+<span data-ttu-id="a8d8d-104">本頁詳述 Microsoft 合作夥伴中心 2020 年 1 月的公告。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-104">This page details the announcements for Microsoft Partner Center for January 2020.</span></span>
 
-<span data-ttu-id="9f163-105">2020 公告：2020 年 1 月 | [2020 年 2 月](2020-february.md) | [2020 年3月](2020-march.md) | [2020 年 4 月](2020-april.md) | [2020 年 5 月](2020-may.md)</span><span class="sxs-lookup"><span data-stu-id="9f163-105">2020 announcements: January 2020 | [February 2020](2020-february.md) | [March 2020](2020-march.md) | [April 2020](2020-april.md) | [May 2020](2020-may.md)</span></span>
+<span data-ttu-id="a8d8d-105">2020 公告：2020 年 1 月 | [2020 年 2 月](2020-february.md) | [2020 年3月](2020-march.md) | [2020 年 4 月](2020-april.md) | [2020 年 5 月](2020-may.md)</span><span class="sxs-lookup"><span data-stu-id="a8d8d-105">2020 announcements: January 2020 | [February 2020](2020-february.md) | [March 2020](2020-march.md) | [April 2020](2020-april.md) | [May 2020](2020-may.md)</span></span>
 
 _________________
 
-## <a name="windows-server-and-sql-server-subscriptions-available-to-cloud-solution-provider-csp-partners-in-russia-from-february-1-2020"></a><a id="7"/></a><span data-ttu-id="9f163-106">俄羅斯的雲端解決方案提供者 (CSP) 合作夥伴自 2020 年 2 月 1 日起已可使用 Windows Server 和 SQL Server 訂用帳戶</span><span class="sxs-lookup"><span data-stu-id="9f163-106">Windows Server and SQL Server subscriptions available to Cloud Solution Provider (CSP) partners in Russia from February 1, 2020</span></span>
+## <a name="windows-server-and-sql-server-subscriptions-available-to-cloud-solution-provider-csp-partners-in-russia-from-february-1-2020"></a><a id="7"/></a><span data-ttu-id="a8d8d-106">俄羅斯的雲端解決方案提供者 (CSP) 合作夥伴自 2020 年 2 月 1 日起已可使用 Windows Server 和 SQL Server 訂用帳戶</span><span class="sxs-lookup"><span data-stu-id="a8d8d-106">Windows Server and SQL Server subscriptions available to Cloud Solution Provider (CSP) partners in Russia from February 1, 2020</span></span>
 
-### <a name="categories"></a><span data-ttu-id="9f163-107">類別</span><span class="sxs-lookup"><span data-stu-id="9f163-107">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="a8d8d-107">類別</span><span class="sxs-lookup"><span data-stu-id="a8d8d-107">Categories</span></span>
 
-- <span data-ttu-id="9f163-108">日期：2020-01-31</span><span class="sxs-lookup"><span data-stu-id="9f163-108">Date: 2020-01-31</span></span>
-- <span data-ttu-id="9f163-109">輸入：供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="9f163-109">Type: Offers/Markets</span></span>
-- <span data-ttu-id="9f163-110">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="9f163-110">Status: Now Available</span></span>
+- <span data-ttu-id="a8d8d-108">日期：2020-01-31</span><span class="sxs-lookup"><span data-stu-id="a8d8d-108">Date: 2020-01-31</span></span>
+- <span data-ttu-id="a8d8d-109">輸入：供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="a8d8d-109">Type: Offers/Markets</span></span>
+- <span data-ttu-id="a8d8d-110">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="a8d8d-110">Status: Now Available</span></span>
 
-### <a name="summary"></a><span data-ttu-id="9f163-111">摘要</span><span class="sxs-lookup"><span data-stu-id="9f163-111">Summary</span></span>
+### <a name="summary"></a><span data-ttu-id="a8d8d-111">摘要</span><span class="sxs-lookup"><span data-stu-id="a8d8d-111">Summary</span></span>
 
-<span data-ttu-id="9f163-112">自 2020 年 2 月 1 日起，俄羅斯的雲端解決方案提供者合作夥伴將可購買 Windows Server 和 SQL Server 訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="9f163-112">From February 1, 2020, Windows Server and SQL Server subscriptions will be available for purchase to CSP partners in Russia.</span></span>
+<span data-ttu-id="a8d8d-112">自 2020 年 2 月 1 日起，俄羅斯的雲端解決方案提供者合作夥伴將可購買 Windows Server 和 SQL Server 訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-112">From February 1, 2020, Windows Server and SQL Server subscriptions will be available for purchase to CSP partners in Russia.</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="9f163-113">影響對象</span><span class="sxs-lookup"><span data-stu-id="9f163-113">Impacted audience</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="a8d8d-113">影響對象</span><span class="sxs-lookup"><span data-stu-id="a8d8d-113">Impacted audience</span></span>
 
-<span data-ttu-id="9f163-114">在俄羅斯進行交易的所有雲端解決方案提供者合作夥伴</span><span class="sxs-lookup"><span data-stu-id="9f163-114">All CSP partners transacting in Russia</span></span>
+<span data-ttu-id="a8d8d-114">在俄羅斯進行交易的所有雲端解決方案提供者合作夥伴</span><span class="sxs-lookup"><span data-stu-id="a8d8d-114">All CSP partners transacting in Russia</span></span>
 
-### <a name="details"></a><span data-ttu-id="9f163-115">詳細資料</span><span class="sxs-lookup"><span data-stu-id="9f163-115">Details</span></span>
+### <a name="details"></a><span data-ttu-id="a8d8d-115">詳細資料</span><span class="sxs-lookup"><span data-stu-id="a8d8d-115">Details</span></span>
 
-<span data-ttu-id="9f163-116">很高興在此宣佈，在 2019 年 12 月發行了 Azure 保留後，自 2020 年 2 月 1 日起，將可在俄羅斯購買 Windows Server 和 SQL Server 訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="9f163-116">We're excited to announce that following our release of Azure reservations in December 2019, Windows Server and SQL Server subscriptions will be available for purchase in Russia from February 1, 2020.</span></span>
-<span data-ttu-id="9f163-117">有了 Azure 保留和這些伺服器訂用帳戶 (包括 Azure Hybrid Benefit)，雲端解決方案提供者計畫的合作夥伴就能更妥善處理快速增長的客戶需求，使解決方案更合乎成本效益，可支援具高預測性和持續性的雲端工作負載。</span><span class="sxs-lookup"><span data-stu-id="9f163-117">With Azure reservations and these server subscriptions, which include Azure Hybrid Benefit, partners in the CSP program can better address the fast-growing customer demand for more cost-effective solutions to support highly predictable and persistent cloud workloads.</span></span>
+<span data-ttu-id="a8d8d-116">很高興在此宣佈，在 2019 年 12 月發行了 Azure 保留後，自 2020 年 2 月 1 日起，將可在俄羅斯購買 Windows Server 和 SQL Server 訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-116">We're excited to announce that following our release of Azure reservations in December 2019, Windows Server and SQL Server subscriptions will be available for purchase in Russia from February 1, 2020.</span></span>
+<span data-ttu-id="a8d8d-117">有了 Azure 保留和這些伺服器訂用帳戶 (包括 Azure Hybrid Benefit)，雲端解決方案提供者計畫的合作夥伴就能更妥善處理快速增長的客戶需求，使解決方案更合乎成本效益，可支援具高預測性和持續性的雲端工作負載。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-117">With Azure reservations and these server subscriptions, which include Azure Hybrid Benefit, partners in the CSP program can better address the fast-growing customer demand for more cost-effective solutions to support highly predictable and persistent cloud workloads.</span></span>
 
-<span data-ttu-id="9f163-118">合作夥伴現在可以透過合作夥伴中心和 Azure 入口網站，代表商業客戶取得、佈建及管理 Azure 保留和 Windows Server 及 SQL Server 訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="9f163-118">Partners can now acquire, provision, and manage Azure reservations and Windows Server and SQL Server subscriptions on behalf of commercial customers through Partner Center and the Azure portal.</span></span>
+<span data-ttu-id="a8d8d-118">合作夥伴現在可以透過合作夥伴中心和 Azure 入口網站，代表商業客戶取得、佈建及管理 Azure 保留和 Windows Server 及 SQL Server 訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-118">Partners can now acquire, provision, and manage Azure reservations and Windows Server and SQL Server subscriptions on behalf of commercial customers through Partner Center and the Azure portal.</span></span>
 
 >[!Note] 
-><span data-ttu-id="9f163-119">所有受影響的供應項目皆有列在合作夥伴中心價目表中。</span><span class="sxs-lookup"><span data-stu-id="9f163-119">All impacted offers can be found in the Partner Center price list.</span></span>
+><span data-ttu-id="a8d8d-119">所有受影響的供應項目皆有列在合作夥伴中心價目表中。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-119">All impacted offers can be found in the Partner Center price list.</span></span>
 
-### <a name="additional-resources"></a><span data-ttu-id="9f163-120">其他資源</span><span class="sxs-lookup"><span data-stu-id="9f163-120">Additional resources</span></span>
+### <a name="additional-resources"></a><span data-ttu-id="a8d8d-120">其他資源</span><span class="sxs-lookup"><span data-stu-id="a8d8d-120">Additional resources</span></span>
 
-- <span data-ttu-id="9f163-121">合作夥伴資源庫頁面上的雲端解決方案提供者計畫資源：[俄羅斯雲端解決方案提供者合作夥伴可使用 Windows Server 和 SQL Server 訂用帳戶](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)</span><span class="sxs-lookup"><span data-stu-id="9f163-121">CSP program resources on the partner gallery page: [Windows Server and SQL Server subscriptions available in Russia to CSP partners](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)</span></span>
-- [<span data-ttu-id="9f163-122">深入了解合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="9f163-122">Learn more about Partner Center</span></span>](../azure-plan-get-started.md)
+- <span data-ttu-id="a8d8d-121">合作夥伴資源庫頁面上的雲端解決方案提供者計畫資源：[俄羅斯雲端解決方案提供者合作夥伴可使用 Windows Server 和 SQL Server 訂用帳戶](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)</span><span class="sxs-lookup"><span data-stu-id="a8d8d-121">CSP program resources on the partner gallery page: [Windows Server and SQL Server subscriptions available in Russia to CSP partners](https://partner.microsoft.com/resources/collection/geo-expansion-for-azure-reservations-and-server-subscriptions-for-windows-server-and-sql-server#/)</span></span>
+- [<span data-ttu-id="a8d8d-122">深入了解合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="a8d8d-122">Learn more about Partner Center</span></span>](../azure-plan-get-started.md)
 
-### <a name="next-steps"></a><span data-ttu-id="9f163-123">接下來的步驟</span><span class="sxs-lookup"><span data-stu-id="9f163-123">Next steps</span></span>
+### <a name="next-steps"></a><span data-ttu-id="a8d8d-123">接下來的步驟</span><span class="sxs-lookup"><span data-stu-id="a8d8d-123">Next steps</span></span>
 
-- <span data-ttu-id="9f163-124">請在貴組織內部並與您的客戶分享這項資訊。</span><span class="sxs-lookup"><span data-stu-id="9f163-124">Share this information within your organization and with your customers.</span></span>
+- <span data-ttu-id="a8d8d-124">請在貴組織內部並與您的客戶分享這項資訊。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-124">Share this information within your organization and with your customers.</span></span>
 
-### <a name="questions"></a><span data-ttu-id="9f163-125">有任何問題嗎？</span><span class="sxs-lookup"><span data-stu-id="9f163-125">Questions?</span></span>
+### <a name="questions"></a><span data-ttu-id="a8d8d-125">有任何問題嗎？</span><span class="sxs-lookup"><span data-stu-id="a8d8d-125">Questions?</span></span>
 
-- <span data-ttu-id="9f163-126">如有任何問題、質疑，或者如需詳細資訊，請[連絡支援人員](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。</span><span class="sxs-lookup"><span data-stu-id="9f163-126">[Contact Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) for questions, queries, or more information.</span></span>
-
-_________________
-
-## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="6"/></a><span data-ttu-id="9f163-127">Microsoft 365 F1 的會議室和會議附加元件現已在政府社群雲端 (GCC) 中推出</span><span class="sxs-lookup"><span data-stu-id="9f163-127">Meeting Room and Meetings Add-on for Microsoft 365 F1 are now available in the Government Community Cloud (GCC)</span></span>
-
-### <a name="categories"></a><span data-ttu-id="9f163-128">類別</span><span class="sxs-lookup"><span data-stu-id="9f163-128">Categories</span></span>
-
-- <span data-ttu-id="9f163-129">日期：2020-01-29</span><span class="sxs-lookup"><span data-stu-id="9f163-129">Date: 2020-01-29</span></span>
-- <span data-ttu-id="9f163-130">輸入：供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="9f163-130">Type: Offers/Markets</span></span>
-- <span data-ttu-id="9f163-131">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="9f163-131">Status: Now Available</span></span>
-- [<span data-ttu-id="9f163-132">深入了解</span><span class="sxs-lookup"><span data-stu-id="9f163-132">Learn more</span></span>](https://www.microsoft.com/microsoft-365/government/)
-
-### <a name="summary"></a><span data-ttu-id="9f163-133">摘要</span><span class="sxs-lookup"><span data-stu-id="9f163-133">Summary</span></span>
-
-<span data-ttu-id="9f163-134">自 2020 年 1 月 7 日起，Microsoft 已推出 GCC 適用的 Microsoft 365 F1 會議室和會議附加元件。</span><span class="sxs-lookup"><span data-stu-id="9f163-134">As of January 7, 2020, Microsoft has introduced Meeting Room and Meetings Add-on for Microsoft 365 F1 for the GCC.</span></span> <span data-ttu-id="9f163-135">若要深入了解，請參閱價目表。</span><span class="sxs-lookup"><span data-stu-id="9f163-135">Check the price list to find out more.</span></span>
-
-### <a name="impacted-audience"></a><span data-ttu-id="9f163-136">影響對象</span><span class="sxs-lookup"><span data-stu-id="9f163-136">Impacted audience</span></span>
-
-<span data-ttu-id="9f163-137">雲端解決方案提供者 (CSP) 計畫中進行 GCC 供應項目交易的所有合作夥伴</span><span class="sxs-lookup"><span data-stu-id="9f163-137">All partners transacting GCC offers in the Cloud Solution Provider (CSP) program</span></span>
-
-### <a name="details"></a><span data-ttu-id="9f163-138">詳細資料</span><span class="sxs-lookup"><span data-stu-id="9f163-138">Details</span></span>
-
-<span data-ttu-id="9f163-139">Microsoft 很高興宣布，自 2020 年 1 月 7 日起，雲端解決方案提供者 GCC 已同時推出 Microsoft 365 F1 的會議室和會議附加元件。</span><span class="sxs-lookup"><span data-stu-id="9f163-139">Microsoft is excited to announce that both Meeting Room and Meetings Add-on for Microsoft 365 F1 are available for the CSP GCC, as of January 7, 2020.</span></span>
-
-<span data-ttu-id="9f163-140">本次推出進一步改進了我們 Microsoft 365 F1 的 Teams 供應項目，這項進階政府套件可讓我們的政府機構客戶提高生產力、安全性和創新。</span><span class="sxs-lookup"><span data-stu-id="9f163-140">This launch further improves our Teams offering for Microsoft 365 F1, which is our advanced government suite that enhances productivity, security, and innovation for our government customers.</span></span>
-
-<span data-ttu-id="9f163-141">Microsoft Teams 會議室是 Microsoft 的原生會議解決方案，適用於 Microsoft Teams 和商務用 Skype 會議。</span><span class="sxs-lookup"><span data-stu-id="9f163-141">Microsoft Teams Rooms is Microsoft's native conference solution for Microsoft Teams and Skype for Business meetings.</span></span> <span data-ttu-id="9f163-142">Microsoft Teams 會議室的會議室和會議附加元件讓您 GCC 客戶的會議室和會議空間能夠加入 Teams 和商務用 Skype 會議、舉辦參與者能夠以電話撥入進行會議通話的會議，以及使用電話系統連線到電話語音。</span><span class="sxs-lookup"><span data-stu-id="9f163-142">Meeting Room and Meetings Add-on for Microsoft Teams Rooms enable your GCC customers' meeting rooms and huddle spaces to be able to join Teams and Skype for Business meetings, host meetings where participants can dial in to conference calls, and connect to telephony using phone systems.</span></span>
-
-### <a name="offer-list"></a><span data-ttu-id="9f163-143">供應項目清單</span><span class="sxs-lookup"><span data-stu-id="9f163-143">Offer List</span></span>
-
-<span data-ttu-id="9f163-144">d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)</span><span class="sxs-lookup"><span data-stu-id="9f163-144">d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)</span></span>
-
-### <a name="additional-resources"></a><span data-ttu-id="9f163-145">其他資源</span><span class="sxs-lookup"><span data-stu-id="9f163-145">Additional resources</span></span>
-
-- [<span data-ttu-id="9f163-146">Microsoft 365 政府版產品頁面</span><span class="sxs-lookup"><span data-stu-id="9f163-146">Microsoft 365 Government product page</span></span>](https://www.microsoft.com/microsoft-365/government/)
-- [<span data-ttu-id="9f163-147">Docs 上 GCC-High 中的 Teams 頁面</span><span class="sxs-lookup"><span data-stu-id="9f163-147">Teams in GCC-High page on Docs</span></span>](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [<span data-ttu-id="9f163-148">在 Microsoft Teams 中設定會議室</span><span class="sxs-lookup"><span data-stu-id="9f163-148">Setting up Meeting Rooms in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/room-systems/)
-
-### <a name="next-steps"></a><span data-ttu-id="9f163-149">接下來的步驟</span><span class="sxs-lookup"><span data-stu-id="9f163-149">Next steps</span></span>
-
-<span data-ttu-id="9f163-150">請參閱價目表，並與您組織內的所有適當連絡人 (特別是您的銷售小組) 分享這項資訊。</span><span class="sxs-lookup"><span data-stu-id="9f163-150">Familiarize yourself with the price list and share this information with all appropriate contacts in your organization—particularly your sales team.</span></span>
-
-### <a name="questions"></a><span data-ttu-id="9f163-151">有任何問題嗎？</span><span class="sxs-lookup"><span data-stu-id="9f163-151">Questions?</span></span>
-
-<span data-ttu-id="9f163-152">若對這些供應項目有任何進一步疑問，請連絡您 Microsoft 帳戶小組的代表，或查看您的相關 Yammer 合作夥伴社群。</span><span class="sxs-lookup"><span data-stu-id="9f163-152">For any further question about these offers, contact your representative in the Microsoft account team or check your relevant Yammer partner community.</span></span>
+- <span data-ttu-id="a8d8d-126">如有任何問題、質疑，或者如需詳細資訊，請[連絡支援人員](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-126">[Contact Support](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) for questions, queries, or more information.</span></span>
 
 _________________
 
-## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="5"/></a><span data-ttu-id="9f163-153">Microsoft 365 F1 的會議室和會議附加元件現已在政府社群雲端 (GCC) 中推出</span><span class="sxs-lookup"><span data-stu-id="9f163-153">Meeting Room and Meetings Add-on for Microsoft 365 F1 are now available in the Government Community Cloud (GCC)</span></span>
+## <a name="meeting-room-and-meetings-add-on-for-microsoft-365-f1-are-now-available-in-the-government-community-cloud-gcc"></a><a id="6"/></a><span data-ttu-id="a8d8d-127">Microsoft 365 F1 的會議室和會議附加元件現已在政府社群雲端 (GCC) 中推出</span><span class="sxs-lookup"><span data-stu-id="a8d8d-127">Meeting Room and Meetings Add-on for Microsoft 365 F1 are now available in the Government Community Cloud (GCC)</span></span>
 
-### <a name="categories"></a><span data-ttu-id="9f163-154">類別</span><span class="sxs-lookup"><span data-stu-id="9f163-154">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="a8d8d-128">類別</span><span class="sxs-lookup"><span data-stu-id="a8d8d-128">Categories</span></span>
 
-- <span data-ttu-id="9f163-155">日期：2020-01-28</span><span class="sxs-lookup"><span data-stu-id="9f163-155">Date: 2020-01-28</span></span>
-- <span data-ttu-id="9f163-156">輸入：功能</span><span class="sxs-lookup"><span data-stu-id="9f163-156">Type: Capabilities</span></span>
-- <span data-ttu-id="9f163-157">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="9f163-157">Status: Now Available</span></span>
-- [<span data-ttu-id="9f163-158">深入了解</span><span class="sxs-lookup"><span data-stu-id="9f163-158">Learn more</span></span>](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
+- <span data-ttu-id="a8d8d-129">日期：2020-01-29</span><span class="sxs-lookup"><span data-stu-id="a8d8d-129">Date: 2020-01-29</span></span>
+- <span data-ttu-id="a8d8d-130">輸入：供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="a8d8d-130">Type: Offers/Markets</span></span>
+- <span data-ttu-id="a8d8d-131">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="a8d8d-131">Status: Now Available</span></span>
+- [<span data-ttu-id="a8d8d-132">深入了解</span><span class="sxs-lookup"><span data-stu-id="a8d8d-132">Learn more</span></span>](https://www.microsoft.com/microsoft-365/government/)
 
-### <a name="impacted-audience"></a><span data-ttu-id="9f163-159">影響對象</span><span class="sxs-lookup"><span data-stu-id="9f163-159">Impacted audience</span></span>
+### <a name="summary"></a><span data-ttu-id="a8d8d-133">摘要</span><span class="sxs-lookup"><span data-stu-id="a8d8d-133">Summary</span></span>
 
-<span data-ttu-id="9f163-160">銷售線上服務給商業客戶的所有合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="9f163-160">All partners selling online services to commercial customers.</span></span>
+<span data-ttu-id="a8d8d-134">自 2020 年 1 月 7 日起，Microsoft 已推出 GCC 適用的 Microsoft 365 F1 會議室和會議附加元件。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-134">As of January 7, 2020, Microsoft has introduced Meeting Room and Meetings Add-on for Microsoft 365 F1 for the GCC.</span></span> <span data-ttu-id="a8d8d-135">若要深入了解，請參閱價目表。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-135">Check the price list to find out more.</span></span>
 
-### <a name="summary"></a><span data-ttu-id="9f163-161">摘要</span><span class="sxs-lookup"><span data-stu-id="9f163-161">Summary</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="a8d8d-136">影響對象</span><span class="sxs-lookup"><span data-stu-id="a8d8d-136">Impacted audience</span></span>
 
-<span data-ttu-id="9f163-162">在 2020 年 1 月 14 日，Microsoft 為美國的商業雲端客戶發行了 Power BI 的**自助式購買、訂用帳戶和授權管理功能**。</span><span class="sxs-lookup"><span data-stu-id="9f163-162">On January 14, 2020 Microsoft released **self-service purchase, subscription, and license management capabilities** for Power BI for commercial cloud customers in the United States.</span></span> <span data-ttu-id="9f163-163">然後，在 **2020 年 1 月 28 日**，又於美國的 **Power Apps** 和 **Power Automate** 推出了這些功能。</span><span class="sxs-lookup"><span data-stu-id="9f163-163">Then on **January 28, 2020** these capabilities became available for **Power Apps** and **Power Automate** in the United States.</span></span>
+<span data-ttu-id="a8d8d-137">雲端解決方案提供者 (CSP) 計畫中進行 GCC 供應項目交易的所有合作夥伴</span><span class="sxs-lookup"><span data-stu-id="a8d8d-137">All partners transacting GCC offers in the Cloud Solution Provider (CSP) program</span></span>
 
-<span data-ttu-id="9f163-164">之後，我們將在 2020 會計年度第 3 季中，為多個其他國家/地區的商業客戶推出 Power Platform 的自助式購買。</span><span class="sxs-lookup"><span data-stu-id="9f163-164">Later in Q3 FY20, we are making self-service purchase for Power Platform available to commercial customers in several additional countries.</span></span> <span data-ttu-id="9f163-165">當我們發行到這些國家/地區時，我們會更新客戶常見問題集文件，以反映其供應情形。</span><span class="sxs-lookup"><span data-stu-id="9f163-165">As we release to these countries, we will update the Customer Frequently Asked Questions documentation to reflect their availability.</span></span> <span data-ttu-id="9f163-166">客戶常見問題集內含如下所述的整備度資源。</span><span class="sxs-lookup"><span data-stu-id="9f163-166">The Customer Frequently Asked Questions is included the readiness resources noted below.</span></span> <span data-ttu-id="9f163-167">請務必在接下來的幾個月內經常查看此文件。</span><span class="sxs-lookup"><span data-stu-id="9f163-167">Be sure to check this often over the next few months.</span></span>
+### <a name="details"></a><span data-ttu-id="a8d8d-138">詳細資料</span><span class="sxs-lookup"><span data-stu-id="a8d8d-138">Details</span></span>
 
-<span data-ttu-id="9f163-168">如需自助式購買的進一步詳細資料 (包括在客戶想退出自助式購買時，如何實作 PowerShell 的指示)，請參閱資源庫中的所有資源 (請參閱下方的＜其他資源＞)。</span><span class="sxs-lookup"><span data-stu-id="9f163-168">Review all resources in the resource gallery (see Additional Resources below) for further details regarding self-service purchasing, including instructions for implementing PowerShell if customers wish to opt out of self-service purchasing.</span></span>
+<span data-ttu-id="a8d8d-139">Microsoft 很高興宣布，自 2020 年 1 月 7 日起，雲端解決方案提供者 GCC 已同時推出 Microsoft 365 F1 的會議室和會議附加元件。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-139">Microsoft is excited to announce that both Meeting Room and Meetings Add-on for Microsoft 365 F1 are available for the CSP GCC, as of January 7, 2020.</span></span>
 
-<span data-ttu-id="9f163-169">讓 IT 系統管理員能夠控制 (開啟或關閉) 每項產品自助式購買功能的 **PowerShell** 指令碼**現已推出**。</span><span class="sxs-lookup"><span data-stu-id="9f163-169">The **PowerShell** script enabling IT admins the ability to control (turn on or off) the self-service purchasing capability on a per product basis is **now available**.</span></span> <span data-ttu-id="9f163-170">如需技術文件，請參閱下面的＜其他資源＞一節。</span><span class="sxs-lookup"><span data-stu-id="9f163-170">See the Additional Resources section below for technical documentation.</span></span>
+<span data-ttu-id="a8d8d-140">本次推出進一步改進了我們 Microsoft 365 F1 的 Teams 供應項目，這項進階政府套件可讓我們的政府機構客戶提高生產力、安全性和創新。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-140">This launch further improves our Teams offering for Microsoft 365 F1, which is our advanced government suite that enhances productivity, security, and innovation for our government customers.</span></span>
 
-<span data-ttu-id="9f163-171">更新：我們在過去一週收到了許多關於 Power Platform 自助式購買功能推出的意見反應。</span><span class="sxs-lookup"><span data-stu-id="9f163-171">UPDATE: Over the past week, we’ve been listening to your feedback regarding the rollout of our self-service purchase capabilities for Power Platform products.</span></span> <span data-ttu-id="9f163-172">在此感謝提供意見反應的所有人！</span><span class="sxs-lookup"><span data-stu-id="9f163-172">To those of you who provided your input, thank you!</span></span> <span data-ttu-id="9f163-173">我們已根據各位的意見反應調整了推出方式，以更妥善滿足組織內 IT 系統管理員和終端使用者的需求。</span><span class="sxs-lookup"><span data-stu-id="9f163-173">Based on your feedback, we’ve adjusted our approach to better address the needs of both IT admins and end users within organizations.</span></span> <span data-ttu-id="9f163-174">我們將對方案進行以下變更：</span><span class="sxs-lookup"><span data-stu-id="9f163-174">We’re making the following changes to our plan:</span></span>
+<span data-ttu-id="a8d8d-141">Microsoft Teams 會議室是 Microsoft 的原生會議解決方案，適用於 Microsoft Teams 和商務用 Skype 會議。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-141">Microsoft Teams Rooms is Microsoft's native conference solution for Microsoft Teams and Skype for Business meetings.</span></span> <span data-ttu-id="a8d8d-142">Microsoft Teams 會議室的會議室和會議附加元件讓您 GCC 客戶的會議室和會議空間能夠加入 Teams 和商務用 Skype 會議、舉辦參與者能夠以電話撥入進行會議通話的會議，以及使用電話系統連線到電話語音。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-142">Meeting Room and Meetings Add-on for Microsoft Teams Rooms enable your GCC customers' meeting rooms and huddle spaces to be able to join Teams and Skype for Business meetings, host meetings where participants can dial in to conference calls, and connect to telephony using phone systems.</span></span>
 
-- <span data-ttu-id="9f163-175">自 11 月 19 日起，IT 系統管理員將可透過 PowerShell 關閉每項產品的自助式購買功能。</span><span class="sxs-lookup"><span data-stu-id="9f163-175">On November 19, we will provide IT admins a way to turn off self-service purchasing on a per product basis via PowerShell.</span></span> <span data-ttu-id="9f163-176">我們之後將提供更多詳細資料。</span><span class="sxs-lookup"><span data-stu-id="9f163-176">More details will be forthcoming.</span></span>
-- <span data-ttu-id="9f163-177">為了讓您有更多時間針對這項變更做好準備，我們將更新為從 1 月 14 日的 Power BI 開始，向所有商業雲端客戶推出 Power Platform 產品的自助式購買功能。</span><span class="sxs-lookup"><span data-stu-id="9f163-177">To provide more time to prepare for this change, we are updating the launch for self-service purchase capabilities for Power Platform products to start with Power BI on January 14 for all commercial cloud customers.</span></span> <span data-ttu-id="9f163-178">我們之後將提供更多有關 Power Apps 和 Power Automate 的詳細資料。</span><span class="sxs-lookup"><span data-stu-id="9f163-178">More details on Power Apps and Power Automate will be forthcoming.</span></span>
+### <a name="offer-list"></a><span data-ttu-id="a8d8d-143">供應項目清單</span><span class="sxs-lookup"><span data-stu-id="a8d8d-143">Offer List</span></span>
 
-<span data-ttu-id="9f163-179">再次感謝您撥冗提供意見反應。</span><span class="sxs-lookup"><span data-stu-id="9f163-179">Thank you again for taking the time to provide your feedback.</span></span> <span data-ttu-id="9f163-180">我們期待與您繼續合作，以協助組織達成更多目標。</span><span class="sxs-lookup"><span data-stu-id="9f163-180">We look forward to a continued partnership to help empower organizations to achieve more.</span></span>
+<span data-ttu-id="a8d8d-144">d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)</span><span class="sxs-lookup"><span data-stu-id="a8d8d-144">d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)</span></span>
 
-<span data-ttu-id="9f163-181">在全球數位轉型的發展過程中，有愈來愈多的終端使用者和營業單位自行逐一採用和購買軟體即服務解決方案。</span><span class="sxs-lookup"><span data-stu-id="9f163-181">As the world advances down the path of digital transformation, end users and business units are increasingly adopting and purchasing a-la-carte Software as a Service solutions on their own.</span></span> <span data-ttu-id="9f163-182">我們將推出自助式購買功能，讓使用者能夠購買一到多個授權，為部門、小組或整個企業提供更大的彈性和自由，以建置自己的解決方案。</span><span class="sxs-lookup"><span data-stu-id="9f163-182">We’re introducing self-service purchase, to enable users to buy one to many licenses, giving greater flexibility and freedom to departments, teams, or across an entire enterprise to create their own solutions.</span></span>
+### <a name="additional-resources"></a><span data-ttu-id="a8d8d-145">其他資源</span><span class="sxs-lookup"><span data-stu-id="a8d8d-145">Additional resources</span></span>
 
-<span data-ttu-id="9f163-183">我們將分段推出 Microsoft Power Platform 產品 (Power BI、Power Apps、Power Automate)：</span><span class="sxs-lookup"><span data-stu-id="9f163-183">We’re following a phased rollout for Microsoft Power Platform products (Power BI, Power Apps, Power Automate):</span></span>
+- [<span data-ttu-id="a8d8d-146">Microsoft 365 政府版產品頁面</span><span class="sxs-lookup"><span data-stu-id="a8d8d-146">Microsoft 365 Government product page</span></span>](https://www.microsoft.com/microsoft-365/government/)
+- [<span data-ttu-id="a8d8d-147">Docs 上 GCC-High 中的 Teams 頁面</span><span class="sxs-lookup"><span data-stu-id="a8d8d-147">Teams in GCC-High page on Docs</span></span>](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
+- [<span data-ttu-id="a8d8d-148">在 Microsoft Teams 中設定會議室</span><span class="sxs-lookup"><span data-stu-id="a8d8d-148">Setting up Meeting Rooms in Microsoft Teams</span></span>](https://docs.microsoft.com/microsoftteams/room-systems/)
 
-- <span data-ttu-id="9f163-184">從 **1 月 14 日的 Power BI** 開始推出自助式購買功能。</span><span class="sxs-lookup"><span data-stu-id="9f163-184">Availability through self-service begins with **Power BI on January 14**.</span></span>
-- <span data-ttu-id="9f163-185">一開始會推出給美國客戶，再擴充到其他地區。</span><span class="sxs-lookup"><span data-stu-id="9f163-185">Rollout will start with customers in the United States then expand to other geographies.</span></span>
-- <span data-ttu-id="9f163-186">這項功能目前無法供政府、非營利組織或教育客戶使用。</span><span class="sxs-lookup"><span data-stu-id="9f163-186">This capability will not be available for government, nonprofit, or education customers at this time.</span></span>
-- <span data-ttu-id="9f163-187">我們將盡快提供有關 Power Apps 和 Power Automate 的詳細資料。</span><span class="sxs-lookup"><span data-stu-id="9f163-187">Details on Power Apps and Power Automate coming soon.</span></span>
+### <a name="next-steps"></a><span data-ttu-id="a8d8d-149">接下來的步驟</span><span class="sxs-lookup"><span data-stu-id="a8d8d-149">Next steps</span></span>
 
-<span data-ttu-id="9f163-188">合作夥伴可以利用自助式購買功能，建置跨越 Azure 和 Power Platform 的解決方案。</span><span class="sxs-lookup"><span data-stu-id="9f163-188">Partners can benefit from self-service purchases by building solutions that span Azure and Power Platform.</span></span> <span data-ttu-id="9f163-189">具有系統管理存取權的合作夥伴將會在 Microsoft 365 系統管理中心看到個別的 Power Platform 購買，並可將其視為雲端解決方案的銷售潛在客戶。</span><span class="sxs-lookup"><span data-stu-id="9f163-189">Partners with administrative access will see individual Power Platform purchases in the Microsoft 365 admin center and can treat them as sales leads for their cloud solutions.</span></span><span data-ttu-id="9f163-190"> 例如，合作夥伴若看到工作群組採用 Power BI，即有機會建置和銷售從 Azure SQL 資料庫或其他商務應用程式提取資料的精密 Power BI 儀表板。</span><span class="sxs-lookup"><span data-stu-id="9f163-190"> For example, a partner that sees a work group adopting Power BI will have the opportunity to build and sell sophisticated Power BI dashboards that pull data from Azure SQL databases or other business applications.</span></span> <span data-ttu-id="9f163-191">當組織內透過自助式購買功能大量採用時，合作夥伴也可以將廣大的 Power Platform 涵蓋範圍銷售給中央 IT 部門。</span><span class="sxs-lookup"><span data-stu-id="9f163-191">As adoption spreads virally within organizations from self-service purchases, partners could also sell broad Power Platform coverage to central IT.</span></span>
+<span data-ttu-id="a8d8d-150">請參閱價目表，並與您組織內的所有適當連絡人 (特別是您的銷售小組) 分享這項資訊。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-150">Familiarize yourself with the price list and share this information with all appropriate contacts in your organization—particularly your sales team.</span></span>
 
-<span data-ttu-id="9f163-192">沒有系統管理存取權的合作夥伴仍可驅動概念證明專案，並可為購買 Power Platform 服務的個人建置自訂解決方案。</span><span class="sxs-lookup"><span data-stu-id="9f163-192">Partners who do not have administrative access can still drive proof of concept projects and can build custom solutions for individuals buying Power Platform services.</span></span> <span data-ttu-id="9f163-193">這些合作夥伴可以彈性地直接與終端使用者共同作業，而不需要經過集中式 IT 購買動作。</span><span class="sxs-lookup"><span data-stu-id="9f163-193">These partners benefit from the agility of working directly with end users and not having to go through a centralized IT purchasing motion.</span></span> <span data-ttu-id="9f163-194">合作夥伴參與若成功加速 Power BI 採用，將有助於提高該合作夥伴在公司內部的可信度，並可輕鬆地獲取其他商機。</span><span class="sxs-lookup"><span data-stu-id="9f163-194">A successful partner engagement to ramp Power BI adoption would give the partner credibility within the company and could easily lead to other opportunities.</span></span>
+### <a name="questions"></a><span data-ttu-id="a8d8d-151">有任何問題嗎？</span><span class="sxs-lookup"><span data-stu-id="a8d8d-151">Questions?</span></span>
 
-### <a name="additional-resources"></a><span data-ttu-id="9f163-195">其他資源</span><span class="sxs-lookup"><span data-stu-id="9f163-195">Additional resources</span></span>
-
-- <span data-ttu-id="9f163-196">雲端解決方案提供者計畫更新資源庫：[客戶自助式購買功能](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)</span><span class="sxs-lookup"><span data-stu-id="9f163-196">CSP Program Updates Resource Gallery: [Customer self-serve purchase capability](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)</span></span>
-
-### <a name="change-log"></a><span data-ttu-id="9f163-197">變更記錄</span><span class="sxs-lookup"><span data-stu-id="9f163-197">Change log</span></span>
-
-- <span data-ttu-id="9f163-198">原始發行日期：2019 年 10 月 21 日</span><span class="sxs-lookup"><span data-stu-id="9f163-198">Original publication date: October 21, 2019</span></span>
-- <span data-ttu-id="9f163-199">已更新 Power BI 推出日期及引進的 PowerShell 日期：2019 年 11 月 1 日</span><span class="sxs-lookup"><span data-stu-id="9f163-199">Updated Power BI launch date and introduced PowerShell date: November 1, 2019</span></span>
-- <span data-ttu-id="9f163-200">PowerShell 指令碼現在可供 IT 系統管理員使用。</span><span class="sxs-lookup"><span data-stu-id="9f163-200">PowerShell script now available for IT Admins.</span></span> <span data-ttu-id="9f163-201">Power Automate 已更新 Microsoft Flow：2019 年 11 月 19 日。</span><span class="sxs-lookup"><span data-stu-id="9f163-201">Microsoft Flow updated to Power Automate: November 19, 2019.</span></span>
-- <span data-ttu-id="9f163-202">推出了 Power BI 的自助式購買，以及發表了 Power Apps、Power Automate 和其他國家/地區的詳細資料：- 2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="9f163-202">Launch of self-service purchase for Power BI and launch details for Power Apps, Power Automate, and other countries: - January 14, 2020</span></span>
-- <span data-ttu-id="9f163-203">推出了 Power Apps 和 Power Automate 的自助式購買：2020 年 1 月 28 日</span><span class="sxs-lookup"><span data-stu-id="9f163-203">Launch of self-service purchase for Power Apps and Power Automate: January 28, 2020</span></span>
+<span data-ttu-id="a8d8d-152">若對這些供應項目有任何進一步疑問，請連絡您 Microsoft 帳戶小組的代表，或查看您的相關 Yammer 合作夥伴社群。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-152">For any further question about these offers, contact your representative in the Microsoft account team or check your relevant Yammer partner community.</span></span>
 
 _________________
 
-## <a name="announcing-a-new-reporting-dashboard-beta-in-partner-center"></a><a id="4"/></a><span data-ttu-id="9f163-204">宣布在合作夥伴中心推出新的報告儀表板 (搶鮮版 (Beta))</span><span class="sxs-lookup"><span data-stu-id="9f163-204">Announcing a new reporting dashboard (beta) in Partner Center</span></span>
+## <a name="available-now-power-apps-and-power-automate-self-service-purchase-for-us-commercial-customers"></a><a id="5"/></a><span data-ttu-id="a8d8d-153">現已推出！</span><span class="sxs-lookup"><span data-stu-id="a8d8d-153">Available Now!</span></span> <span data-ttu-id="a8d8d-154">適用於美國的 Power Apps 和 Power Automate 自助式購買商業客戶</span><span class="sxs-lookup"><span data-stu-id="a8d8d-154">Power Apps and Power Automate self-service purchase for U.S. Commercial Customers</span></span>
 
-### <a name="categories"></a><span data-ttu-id="9f163-205">類別</span><span class="sxs-lookup"><span data-stu-id="9f163-205">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="a8d8d-155">類別</span><span class="sxs-lookup"><span data-stu-id="a8d8d-155">Categories</span></span>
 
-- <span data-ttu-id="9f163-206">日期：2020-01-27</span><span class="sxs-lookup"><span data-stu-id="9f163-206">Date: 2020-01-27</span></span>
-- <span data-ttu-id="9f163-207">輸入：功能</span><span class="sxs-lookup"><span data-stu-id="9f163-207">Type: Capabilities</span></span>
-- <span data-ttu-id="9f163-208">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="9f163-208">Status: Now Available</span></span>
+- <span data-ttu-id="a8d8d-156">日期：2020-01-28</span><span class="sxs-lookup"><span data-stu-id="a8d8d-156">Date: 2020-01-28</span></span>
+- <span data-ttu-id="a8d8d-157">輸入：功能</span><span class="sxs-lookup"><span data-stu-id="a8d8d-157">Type: Capabilities</span></span>
+- <span data-ttu-id="a8d8d-158">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="a8d8d-158">Status: Now Available</span></span>
+- [<span data-ttu-id="a8d8d-159">深入了解</span><span class="sxs-lookup"><span data-stu-id="a8d8d-159">Learn more</span></span>](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)
 
-### <a name="impacted-audience"></a><span data-ttu-id="9f163-209">影響對象</span><span class="sxs-lookup"><span data-stu-id="9f163-209">Impacted audience</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="a8d8d-160">影響對象</span><span class="sxs-lookup"><span data-stu-id="a8d8d-160">Impacted audience</span></span>
 
-<span data-ttu-id="9f163-210">宣布在合作夥伴中心推出新的報告儀表板 (搶鮮版 (Beta))</span><span class="sxs-lookup"><span data-stu-id="9f163-210">Announcing a new reporting dashboard (beta) in Partner Center</span></span>
+<span data-ttu-id="a8d8d-161">銷售線上服務給商業客戶的所有合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-161">All partners selling online services to commercial customers.</span></span>
 
-### <a name="summary"></a><span data-ttu-id="9f163-211">摘要</span><span class="sxs-lookup"><span data-stu-id="9f163-211">Summary</span></span>
+### <a name="summary"></a><span data-ttu-id="a8d8d-162">摘要</span><span class="sxs-lookup"><span data-stu-id="a8d8d-162">Summary</span></span>
 
-<span data-ttu-id="9f163-212">我們為在合作夥伴中心為屬於 Microsoft 合作夥伴網路成員的合作夥伴組織推出了新的統一報告儀表板。</span><span class="sxs-lookup"><span data-stu-id="9f163-212">We are introducing a new unified reporting dashboard in Partner Center for partner organizations that are members of the Microsoft Partner Network.</span></span> <span data-ttu-id="9f163-213">透過此儀表板，您可以統一而全面地檢視合作夥伴組織各項雲端產品 (例如 Office 365、Azure、Dynamics 365) 的關鍵效能指標 (KPI) 以及授權模型 (例如雲端解決方案提供者 (CSP) 和 Enterprise 合約 (EA))。</span><span class="sxs-lookup"><span data-stu-id="9f163-213">Through this dashboard, you have access to a unified, 360-degree view of your partner organization’s key performance indicators (KPI) across cloud products such as Office 365, Azure, Dynamics 365, and licensing models such as Cloud Solution Provider (CSP) and Enterprise Agreement (EA).</span></span> <span data-ttu-id="9f163-214">Intelligent Insights 會提供給您，以讓您清楚了解您與 Microsoft 的業務往來，並放心根據資料制定決策。</span><span class="sxs-lookup"><span data-stu-id="9f163-214">Intelligent insights are delivered to you so you clearly understand your business with Microsoft and can make data driven decisions with confidence.</span></span>
+<span data-ttu-id="a8d8d-163">在 2020 年 1 月 14 日，Microsoft 為美國的商業雲端客戶發行了 Power BI 的**自助式購買、訂用帳戶和授權管理功能**。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-163">On January 14, 2020 Microsoft released **self-service purchase, subscription, and license management capabilities** for Power BI for commercial cloud customers in the United States.</span></span> <span data-ttu-id="a8d8d-164">然後，在 **2020 年 1 月 28 日**，又於美國的 **Power Apps** 和 **Power Automate** 推出了這些功能。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-164">Then on **January 28, 2020** these capabilities became available for **Power Apps** and **Power Automate** in the United States.</span></span>
 
-<span data-ttu-id="9f163-215">若要查看此儀表板，請從合作夥伴中心的左側導覽功能表中選取 [見解]。</span><span class="sxs-lookup"><span data-stu-id="9f163-215">To see this dashboard, select **INSIGHTS** from the Partner Center left-hand navigation menu.</span></span> <span data-ttu-id="9f163-216">此儀表板使用與目前 MyInsights 報告工具相同的基礎資料，但提供更豐富的視覺效果，以及更深入的報告功能和 KPI，範圍涵蓋客戶、訂用帳戶、授權使用方式、專長認證和權益。</span><span class="sxs-lookup"><span data-stu-id="9f163-216">This dashboard uses the same underlying data as the current MyInsights reporting tool but offers richer visuals and more insightful reporting capabilities and KPIs covering customers, subscriptions, license usage, competencies, and benefits.</span></span> <span data-ttu-id="9f163-217">今天提供的這個見解儀表板是搶鮮版 (Beta)，並會陸續擴增新的報告和功能，之後會在會計年度 2020 年下半年正式運作。</span><span class="sxs-lookup"><span data-stu-id="9f163-217">The version of this insights dashboard offered today is a beta version and will continue to be augmented with new reports and capabilities as we approach general availability, which is planned for later in H2 FY20.</span></span>
+<span data-ttu-id="a8d8d-165">之後，我們將在 2020 會計年度第 3 季中，為多個其他國家/地區的商業客戶推出 Power Platform 的自助式購買。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-165">Later in Q3 FY20, we are making self-service purchase for Power Platform available to commercial customers in several additional countries.</span></span> <span data-ttu-id="a8d8d-166">當我們發行到這些國家/地區時，我們會更新客戶常見問題集文件，以反映其供應情形。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-166">As we release to these countries, we will update the Customer Frequently Asked Questions documentation to reflect their availability.</span></span> <span data-ttu-id="a8d8d-167">客戶常見問題集內含如下所述的整備度資源。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-167">The Customer Frequently Asked Questions is included the readiness resources noted below.</span></span> <span data-ttu-id="a8d8d-168">請務必在接下來的幾個月內經常查看此文件。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-168">Be sure to check this often over the next few months.</span></span>
 
-<span data-ttu-id="9f163-218">敬邀您開始使用這個新的見解儀表板 (您先前可能已在此儀表板中使用過 MyInsights)，並在透過 [見解] 索引標籤取得的每份報告中，使用意見反應機制反應您的意見給我們。</span><span class="sxs-lookup"><span data-stu-id="9f163-218">We invite you to start using this new insights dashboard where you would have used MyInsights before, and share your feedback with us using the feedback mechanism within each of the reports available through the **INSIGHTS** tab.</span></span>
+<span data-ttu-id="a8d8d-169">如需自助式購買的進一步詳細資料 (包括在客戶想退出自助式購買時，如何實作 PowerShell 的指示)，請參閱資源庫中的所有資源 (請參閱下方的＜其他資源＞)。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-169">Review all resources in the resource gallery (see Additional Resources below) for further details regarding self-service purchasing, including instructions for implementing PowerShell if customers wish to opt out of self-service purchasing.</span></span>
 
-### <a name="additional-resources"></a><span data-ttu-id="9f163-219">其他資源</span><span class="sxs-lookup"><span data-stu-id="9f163-219">Additional resources</span></span>
+<span data-ttu-id="a8d8d-170">讓 IT 系統管理員能夠控制 (開啟或關閉) 每項產品自助式購買功能的 **PowerShell** 指令碼**現已推出**。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-170">The **PowerShell** script enabling IT admins the ability to control (turn on or off) the self-service purchasing capability on a per product basis is **now available**.</span></span> <span data-ttu-id="a8d8d-171">如需技術文件，請參閱下面的＜其他資源＞一節。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-171">See the Additional Resources section below for technical documentation.</span></span>
 
-- <span data-ttu-id="9f163-220">若要了解涵蓋存取權、導覽、報告概觀與使用方式、如何留下意見反應等所有見解資源，請前往這裡：[宣布在合作夥伴中心推出新的報告儀表板 (搶鮮版 (Beta))](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)</span><span class="sxs-lookup"><span data-stu-id="9f163-220">Review all Insights resources covering access, navigation, report overviews & usage, how to leave feedback, and more here: [Announcing a new reporting dashboard (beta) in Partner Center](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)</span></span>
-- <span data-ttu-id="9f163-221">有任何問題嗎？</span><span class="sxs-lookup"><span data-stu-id="9f163-221">Questions?</span></span> <span data-ttu-id="9f163-222">[連絡合作夥伴支援服務](https://partner.microsoft.com/support)。</span><span class="sxs-lookup"><span data-stu-id="9f163-222">[Contact Partner Support](https://partner.microsoft.com/support).</span></span>
+<span data-ttu-id="a8d8d-172">更新：我們在過去一週收到了許多關於 Power Platform 自助式購買功能推出的意見反應。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-172">UPDATE: Over the past week, we’ve been listening to your feedback regarding the rollout of our self-service purchase capabilities for Power Platform products.</span></span> <span data-ttu-id="a8d8d-173">在此感謝提供意見反應的所有人！</span><span class="sxs-lookup"><span data-stu-id="a8d8d-173">To those of you who provided your input, thank you!</span></span> <span data-ttu-id="a8d8d-174">我們已根據各位的意見反應調整了推出方式，以更妥善滿足組織內 IT 系統管理員和終端使用者的需求。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-174">Based on your feedback, we’ve adjusted our approach to better address the needs of both IT admins and end users within organizations.</span></span> <span data-ttu-id="a8d8d-175">我們將對方案進行以下變更：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-175">We’re making the following changes to our plan:</span></span>
 
-### <a name="change-log"></a><span data-ttu-id="9f163-223">變更記錄</span><span class="sxs-lookup"><span data-stu-id="9f163-223">Change log</span></span>
+- <span data-ttu-id="a8d8d-176">自 11 月 19 日起，IT 系統管理員將可透過 PowerShell 關閉每項產品的自助式購買功能。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-176">On November 19, we will provide IT admins a way to turn off self-service purchasing on a per product basis via PowerShell.</span></span> <span data-ttu-id="a8d8d-177">我們之後將提供更多詳細資料。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-177">More details will be forthcoming.</span></span>
+- <span data-ttu-id="a8d8d-178">為了讓您有更多時間針對這項變更做好準備，我們將更新為從 1 月 14 日的 Power BI 開始，向所有商業雲端客戶推出 Power Platform 產品的自助式購買功能。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-178">To provide more time to prepare for this change, we are updating the launch for self-service purchase capabilities for Power Platform products to start with Power BI on January 14 for all commercial cloud customers.</span></span> <span data-ttu-id="a8d8d-179">我們之後將提供更多有關 Power Apps 和 Power Automate 的詳細資料。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-179">More details on Power Apps and Power Automate will be forthcoming.</span></span>
 
-- <span data-ttu-id="9f163-224">原始發行日期：2020 年 1 月 27 日</span><span class="sxs-lookup"><span data-stu-id="9f163-224">Original publication date: January 27, 2020</span></span>
+<span data-ttu-id="a8d8d-180">再次感謝您撥冗提供意見反應。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-180">Thank you again for taking the time to provide your feedback.</span></span> <span data-ttu-id="a8d8d-181">我們期待與您繼續合作，以協助組織達成更多目標。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-181">We look forward to a continued partnership to help empower organizations to achieve more.</span></span>
+
+<span data-ttu-id="a8d8d-182">在全球數位轉型的發展過程中，有愈來愈多的終端使用者和營業單位自行逐一採用和購買軟體即服務解決方案。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-182">As the world advances down the path of digital transformation, end users and business units are increasingly adopting and purchasing a-la-carte Software as a Service solutions on their own.</span></span> <span data-ttu-id="a8d8d-183">我們將推出自助式購買功能，讓使用者能夠購買一到多個授權，為部門、小組或整個企業提供更大的彈性和自由，以建置自己的解決方案。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-183">We’re introducing self-service purchase, to enable users to buy one to many licenses, giving greater flexibility and freedom to departments, teams, or across an entire enterprise to create their own solutions.</span></span>
+
+<span data-ttu-id="a8d8d-184">我們將分段推出 Microsoft Power Platform 產品 (Power BI、Power Apps、Power Automate)：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-184">We’re following a phased rollout for Microsoft Power Platform products (Power BI, Power Apps, Power Automate):</span></span>
+
+- <span data-ttu-id="a8d8d-185">從 **1 月 14 日的 Power BI** 開始推出自助式購買功能。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-185">Availability through self-service begins with **Power BI on January 14**.</span></span>
+- <span data-ttu-id="a8d8d-186">一開始會推出給美國客戶，再擴充到其他地區。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-186">Rollout will start with customers in the United States then expand to other geographies.</span></span>
+- <span data-ttu-id="a8d8d-187">這項功能目前無法供政府、非營利組織或教育客戶使用。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-187">This capability will not be available for government, nonprofit, or education customers at this time.</span></span>
+- <span data-ttu-id="a8d8d-188">我們將盡快提供有關 Power Apps 和 Power Automate 的詳細資料。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-188">Details on Power Apps and Power Automate coming soon.</span></span>
+
+<span data-ttu-id="a8d8d-189">合作夥伴可以利用自助式購買功能，建置跨越 Azure 和 Power Platform 的解決方案。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-189">Partners can benefit from self-service purchases by building solutions that span Azure and Power Platform.</span></span> <span data-ttu-id="a8d8d-190">具有系統管理存取權的合作夥伴將會在 Microsoft 365 系統管理中心看到個別的 Power Platform 購買，並可將其視為雲端解決方案的銷售潛在客戶。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-190">Partners with administrative access will see individual Power Platform purchases in the Microsoft 365 admin center and can treat them as sales leads for their cloud solutions.</span></span><span data-ttu-id="a8d8d-191"> 例如，合作夥伴若看到工作群組採用 Power BI，即有機會建置和銷售從 Azure SQL 資料庫或其他商務應用程式提取資料的精密 Power BI 儀表板。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-191"> For example, a partner that sees a work group adopting Power BI will have the opportunity to build and sell sophisticated Power BI dashboards that pull data from Azure SQL databases or other business applications.</span></span> <span data-ttu-id="a8d8d-192">當組織內透過自助式購買功能大量採用時，合作夥伴也可以將廣大的 Power Platform 涵蓋範圍銷售給中央 IT 部門。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-192">As adoption spreads virally within organizations from self-service purchases, partners could also sell broad Power Platform coverage to central IT.</span></span>
+
+<span data-ttu-id="a8d8d-193">沒有系統管理存取權的合作夥伴仍可驅動概念證明專案，並可為購買 Power Platform 服務的個人建置自訂解決方案。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-193">Partners who do not have administrative access can still drive proof of concept projects and can build custom solutions for individuals buying Power Platform services.</span></span> <span data-ttu-id="a8d8d-194">這些合作夥伴可以彈性地直接與終端使用者共同作業，而不需要經過集中式 IT 購買動作。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-194">These partners benefit from the agility of working directly with end users and not having to go through a centralized IT purchasing motion.</span></span> <span data-ttu-id="a8d8d-195">合作夥伴參與若成功加速 Power BI 採用，將有助於提高該合作夥伴在公司內部的可信度，並可輕鬆地獲取其他商機。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-195">A successful partner engagement to ramp Power BI adoption would give the partner credibility within the company and could easily lead to other opportunities.</span></span>
+
+### <a name="additional-resources"></a><span data-ttu-id="a8d8d-196">其他資源</span><span class="sxs-lookup"><span data-stu-id="a8d8d-196">Additional resources</span></span>
+
+- <span data-ttu-id="a8d8d-197">雲端解決方案提供者計畫更新資源庫：[客戶自助式購買功能](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)</span><span class="sxs-lookup"><span data-stu-id="a8d8d-197">CSP Program Updates Resource Gallery: [Customer self-serve purchase capability](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)</span></span>
+
+### <a name="change-log"></a><span data-ttu-id="a8d8d-198">變更記錄</span><span class="sxs-lookup"><span data-stu-id="a8d8d-198">Change log</span></span>
+
+- <span data-ttu-id="a8d8d-199">原始發行日期：2019 年 10 月 21 日</span><span class="sxs-lookup"><span data-stu-id="a8d8d-199">Original publication date: October 21, 2019</span></span>
+- <span data-ttu-id="a8d8d-200">已更新 Power BI 推出日期及引進的 PowerShell 日期：2019 年 11 月 1 日</span><span class="sxs-lookup"><span data-stu-id="a8d8d-200">Updated Power BI launch date and introduced PowerShell date: November 1, 2019</span></span>
+- <span data-ttu-id="a8d8d-201">PowerShell 指令碼現在可供 IT 系統管理員使用。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-201">PowerShell script now available for IT Admins.</span></span> <span data-ttu-id="a8d8d-202">Power Automate 已更新 Microsoft Flow：2019 年 11 月 19 日。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-202">Microsoft Flow updated to Power Automate: November 19, 2019.</span></span>
+- <span data-ttu-id="a8d8d-203">推出了 Power BI 的自助式購買，以及發表了 Power Apps、Power Automate 和其他國家/地區的詳細資料：- 2020 年 1 月 14 日</span><span class="sxs-lookup"><span data-stu-id="a8d8d-203">Launch of self-service purchase for Power BI and launch details for Power Apps, Power Automate, and other countries: - January 14, 2020</span></span>
+- <span data-ttu-id="a8d8d-204">推出了 Power Apps 和 Power Automate 的自助式購買：2020 年 1 月 28 日</span><span class="sxs-lookup"><span data-stu-id="a8d8d-204">Launch of self-service purchase for Power Apps and Power Automate: January 28, 2020</span></span>
 
 _________________
 
-## <a name="action-required-remember-to-confirm-the-acceptance-of-microsoft-customer-agreement-by-january-31-2020"></a><a id="3"/></a><span data-ttu-id="9f163-225">需要採取動作：請記得在 2020 年 1 月 31 日前確認 Microsoft 客戶合約的接受</span><span class="sxs-lookup"><span data-stu-id="9f163-225">Action required: Remember to confirm the acceptance of Microsoft Customer Agreement by January 31, 2020</span></span>
+## <a name="announcing-a-new-reporting-dashboard-beta-in-partner-center"></a><a id="4"/></a><span data-ttu-id="a8d8d-205">宣布在合作夥伴中心推出新的報告儀表板 (搶鮮版 (Beta))</span><span class="sxs-lookup"><span data-stu-id="a8d8d-205">Announcing a new reporting dashboard (beta) in Partner Center</span></span>
 
-### <a name="categories"></a><span data-ttu-id="9f163-226">類別</span><span class="sxs-lookup"><span data-stu-id="9f163-226">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="a8d8d-206">類別</span><span class="sxs-lookup"><span data-stu-id="a8d8d-206">Categories</span></span>
 
-- <span data-ttu-id="9f163-227">日期：2020-01-27</span><span class="sxs-lookup"><span data-stu-id="9f163-227">Date: 2020-01-27</span></span>
-- <span data-ttu-id="9f163-228">輸入：功能</span><span class="sxs-lookup"><span data-stu-id="9f163-228">Type: Capabilities</span></span>
-- <span data-ttu-id="9f163-229">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="9f163-229">Status: Now Available</span></span>
-- [<span data-ttu-id="9f163-230">深入了解</span><span class="sxs-lookup"><span data-stu-id="9f163-230">Learn more</span></span>](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
+- <span data-ttu-id="a8d8d-207">日期：2020-01-27</span><span class="sxs-lookup"><span data-stu-id="a8d8d-207">Date: 2020-01-27</span></span>
+- <span data-ttu-id="a8d8d-208">輸入：功能</span><span class="sxs-lookup"><span data-stu-id="a8d8d-208">Type: Capabilities</span></span>
+- <span data-ttu-id="a8d8d-209">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="a8d8d-209">Status: Now Available</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="9f163-231">影響對象</span><span class="sxs-lookup"><span data-stu-id="9f163-231">Impacted audience</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="a8d8d-210">影響對象</span><span class="sxs-lookup"><span data-stu-id="a8d8d-210">Impacted audience</span></span>
 
-- <span data-ttu-id="9f163-232">主要：Microsoft 公用雲端下雲端解決方案提供者計畫中的直接計費和間接提供者</span><span class="sxs-lookup"><span data-stu-id="9f163-232">Primary: Direct bill and indirect providers in the CSP program under the Microsoft Public Cloud</span></span>
-- <span data-ttu-id="9f163-233">次要：Microsoft 公用雲端下的雲端解決方案提供者間接轉銷商</span><span class="sxs-lookup"><span data-stu-id="9f163-233">Secondary: CSP indirect resellers under the Microsoft Public Cloud</span></span>
+<span data-ttu-id="a8d8d-211">宣布在合作夥伴中心推出新的報告儀表板 (搶鮮版 (Beta))</span><span class="sxs-lookup"><span data-stu-id="a8d8d-211">Announcing a new reporting dashboard (beta) in Partner Center</span></span>
 
-### <a name="summary"></a><span data-ttu-id="9f163-234">摘要</span><span class="sxs-lookup"><span data-stu-id="9f163-234">Summary</span></span>
+### <a name="summary"></a><span data-ttu-id="a8d8d-212">摘要</span><span class="sxs-lookup"><span data-stu-id="a8d8d-212">Summary</span></span>
 
-<span data-ttu-id="9f163-235">雲端解決方案提供者 (CSP) 計畫中所有產品供應項目的新 Microsoft 客戶合約已於 2019 年 10 月 1 日推出。</span><span class="sxs-lookup"><span data-stu-id="9f163-235">The new Microsoft Customer Agreement for all product offers in the Cloud Solution Provider (CSP) program became available on October 1, 2019.</span></span>
+<span data-ttu-id="a8d8d-213">我們為在合作夥伴中心為屬於 Microsoft 合作夥伴網路成員的合作夥伴組織推出了新的統一報告儀表板。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-213">We are introducing a new unified reporting dashboard in Partner Center for partner organizations that are members of the Microsoft Partner Network.</span></span> <span data-ttu-id="a8d8d-214">透過此儀表板，您可以統一而全面地檢視合作夥伴組織各項雲端產品 (例如 Office 365、Azure、Dynamics 365) 的關鍵效能指標 (KPI) 以及授權模型 (例如雲端解決方案提供者 (CSP) 和 Enterprise 合約 (EA))。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-214">Through this dashboard, you have access to a unified, 360-degree view of your partner organization’s key performance indicators (KPI) across cloud products such as Office 365, Azure, Dynamics 365, and licensing models such as Cloud Solution Provider (CSP) and Enterprise Agreement (EA).</span></span> <span data-ttu-id="a8d8d-215">Intelligent Insights 會提供給您，以讓您清楚了解您與 Microsoft 的業務往來，並放心根據資料制定決策。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-215">Intelligent insights are delivered to you so you clearly understand your business with Microsoft and can make data driven decisions with confidence.</span></span>
 
-<span data-ttu-id="9f163-236">從 2020 年 2 月 1 日開始，合作夥伴必須確認 Microsoft 客戶合約的接受，才能下新訂單，訂購 Microsoft 公用雲端下所有區域中的任何雲端解決方案提供者供應項目。</span><span class="sxs-lookup"><span data-stu-id="9f163-236">Starting February 1, 2020, a partner’s confirmation of Microsoft Customer Agreement acceptance will be required to make new orders for any CSP offers in all regions under Microsoft Public Cloud.</span></span> <span data-ttu-id="9f163-237">從該日期開始，在客戶未接受 Microsoft 客戶合約的情況下，雲端解決方案提供者中的合作夥伴將無法進行新的購買，包括變更現有購買的基座和續約。</span><span class="sxs-lookup"><span data-stu-id="9f163-237">From that date, a partner in CSP will not be able to make a new purchase including changing seats and renewal of existing purchases without the acceptance of the Microsoft Customer Agreement from the customer.</span></span>
+<span data-ttu-id="a8d8d-216">若要查看此儀表板，請從合作夥伴中心的左側導覽功能表中選取 [見解]。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-216">To see this dashboard, select **INSIGHTS** from the Partner Center left-hand navigation menu.</span></span> <span data-ttu-id="a8d8d-217">此儀表板使用與目前 MyInsights 報告工具相同的基礎資料，但提供更豐富的視覺效果，以及更深入的報告功能和 KPI，範圍涵蓋客戶、訂用帳戶、授權使用方式、專長認證和權益。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-217">This dashboard uses the same underlying data as the current MyInsights reporting tool but offers richer visuals and more insightful reporting capabilities and KPIs covering customers, subscriptions, license usage, competencies, and benefits.</span></span> <span data-ttu-id="a8d8d-218">今天提供的這個見解儀表板是搶鮮版 (Beta)，並會陸續擴增新的報告和功能，之後會在會計年度 2020 年下半年正式運作。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-218">The version of this insights dashboard offered today is a beta version and will continue to be augmented with new reports and capabilities as we approach general availability, which is planned for later in H2 FY20.</span></span>
+
+<span data-ttu-id="a8d8d-219">敬邀您開始使用這個新的見解儀表板 (您先前可能已在此儀表板中使用過 MyInsights)，並在透過 [見解] 索引標籤取得的每份報告中，使用意見反應機制反應您的意見給我們。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-219">We invite you to start using this new insights dashboard where you would have used MyInsights before, and share your feedback with us using the feedback mechanism within each of the reports available through the **INSIGHTS** tab.</span></span>
+
+### <a name="additional-resources"></a><span data-ttu-id="a8d8d-220">其他資源</span><span class="sxs-lookup"><span data-stu-id="a8d8d-220">Additional resources</span></span>
+
+- <span data-ttu-id="a8d8d-221">若要了解涵蓋存取權、導覽、報告概觀與使用方式、如何留下意見反應等所有見解資源，請前往這裡：[宣布在合作夥伴中心推出新的報告儀表板 (搶鮮版 (Beta))](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)</span><span class="sxs-lookup"><span data-stu-id="a8d8d-221">Review all Insights resources covering access, navigation, report overviews & usage, how to leave feedback, and more here: [Announcing a new reporting dashboard (beta) in Partner Center](https://partner.microsoft.com/resources/collection/partner-center-insights-reporting-dashboard#/)</span></span>
+- <span data-ttu-id="a8d8d-222">有任何問題嗎？</span><span class="sxs-lookup"><span data-stu-id="a8d8d-222">Questions?</span></span> <span data-ttu-id="a8d8d-223">[連絡合作夥伴支援服務](https://partner.microsoft.com/support)。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-223">[Contact Partner Support](https://partner.microsoft.com/support).</span></span>
+
+### <a name="change-log"></a><span data-ttu-id="a8d8d-224">變更記錄</span><span class="sxs-lookup"><span data-stu-id="a8d8d-224">Change log</span></span>
+
+- <span data-ttu-id="a8d8d-225">原始發行日期：2020 年 1 月 27 日</span><span class="sxs-lookup"><span data-stu-id="a8d8d-225">Original publication date: January 27, 2020</span></span>
+
+_________________
+
+## <a name="action-required-remember-to-confirm-the-acceptance-of-microsoft-customer-agreement-by-january-31-2020"></a><a id="3"/></a><span data-ttu-id="a8d8d-226">需要採取動作：請記得在 2020 年 1 月 31 日前確認 Microsoft 客戶合約的接受</span><span class="sxs-lookup"><span data-stu-id="a8d8d-226">Action required: Remember to confirm the acceptance of Microsoft Customer Agreement by January 31, 2020</span></span>
+
+### <a name="categories"></a><span data-ttu-id="a8d8d-227">類別</span><span class="sxs-lookup"><span data-stu-id="a8d8d-227">Categories</span></span>
+
+- <span data-ttu-id="a8d8d-228">日期：2020-01-27</span><span class="sxs-lookup"><span data-stu-id="a8d8d-228">Date: 2020-01-27</span></span>
+- <span data-ttu-id="a8d8d-229">輸入：功能</span><span class="sxs-lookup"><span data-stu-id="a8d8d-229">Type: Capabilities</span></span>
+- <span data-ttu-id="a8d8d-230">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="a8d8d-230">Status: Now Available</span></span>
+- [<span data-ttu-id="a8d8d-231">深入了解</span><span class="sxs-lookup"><span data-stu-id="a8d8d-231">Learn more</span></span>](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
+
+### <a name="impacted-audience"></a><span data-ttu-id="a8d8d-232">影響對象</span><span class="sxs-lookup"><span data-stu-id="a8d8d-232">Impacted audience</span></span>
+
+- <span data-ttu-id="a8d8d-233">主要：Microsoft 公用雲端下雲端解決方案提供者計畫中的直接計費和間接提供者</span><span class="sxs-lookup"><span data-stu-id="a8d8d-233">Primary: Direct bill and indirect providers in the CSP program under the Microsoft Public Cloud</span></span>
+- <span data-ttu-id="a8d8d-234">次要：Microsoft 公用雲端下的雲端解決方案提供者間接轉銷商</span><span class="sxs-lookup"><span data-stu-id="a8d8d-234">Secondary: CSP indirect resellers under the Microsoft Public Cloud</span></span>
+
+### <a name="summary"></a><span data-ttu-id="a8d8d-235">摘要</span><span class="sxs-lookup"><span data-stu-id="a8d8d-235">Summary</span></span>
+
+<span data-ttu-id="a8d8d-236">雲端解決方案提供者 (CSP) 計畫中所有產品供應項目的新 Microsoft 客戶合約已於 2019 年 10 月 1 日推出。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-236">The new Microsoft Customer Agreement for all product offers in the Cloud Solution Provider (CSP) program became available on October 1, 2019.</span></span>
+
+<span data-ttu-id="a8d8d-237">從 2020 年 2 月 1 日開始，合作夥伴必須確認 Microsoft 客戶合約的接受，才能下新訂單，訂購 Microsoft 公用雲端下所有區域中的任何雲端解決方案提供者供應項目。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-237">Starting February 1, 2020, a partner’s confirmation of Microsoft Customer Agreement acceptance will be required to make new orders for any CSP offers in all regions under Microsoft Public Cloud.</span></span> <span data-ttu-id="a8d8d-238">從該日期開始，在客戶未接受 Microsoft 客戶合約的情況下，雲端解決方案提供者中的合作夥伴將無法進行新的購買，包括變更現有購買的基座和續約。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-238">From that date, a partner in CSP will not be able to make a new purchase including changing seats and renewal of existing purchases without the acceptance of the Microsoft Customer Agreement from the customer.</span></span>
 
 >[!NOTE] 
-><span data-ttu-id="9f163-238">Microsoft 客戶合約與 Azure 雲端解決方案提供者的新商務體驗：\*\* 客戶必須接受 Microsoft 客戶合約，合作夥伴才能透過 [Azure 雲端解決方案提供者的新商務體驗](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)購買，該體驗已於 2019 年 11 月 1 日推出。</span><span class="sxs-lookup"><span data-stu-id="9f163-238">Microsoft Customer Agreement and the new commerce experience in CSP for Azure:\*\* Customer acceptance of the Microsoft Customer Agreement is required for purchasing via [the new commerce experience in CSP for Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) that became available November 1, 2019.</span></span>
+><span data-ttu-id="a8d8d-239">Microsoft 客戶合約與 Azure 雲端解決方案提供者的新商務體驗：\*\* 客戶必須接受 Microsoft 客戶合約，合作夥伴才能透過 [Azure 雲端解決方案提供者的新商務體驗](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)購買，該體驗已於 2019 年 11 月 1 日推出。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-239">Microsoft Customer Agreement and the new commerce experience in CSP for Azure:\*\* Customer acceptance of the Microsoft Customer Agreement is required for purchasing via [the new commerce experience in CSP for Azure](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) that became available November 1, 2019.</span></span>
 
-<span data-ttu-id="9f163-239">Microsoft 客戶合約是簡化的購買合約，不論客戶選擇何種購買方式，都可為客戶提供一致的購買條款。</span><span class="sxs-lookup"><span data-stu-id="9f163-239">The Microsoft Customer Agreement is a simplified purchase agreement that provides consistent purchase terms for customers, regardless of the way customers choose to buy.</span></span> <span data-ttu-id="9f163-240">自 2019 年 10 月 1 日起，雲端解決方案提供者計畫將推出新的 Microsoft 客戶合約，以取代現有的 Microsoft Cloud 合約。</span><span class="sxs-lookup"><span data-stu-id="9f163-240">Since October 1, 2019, the new Microsoft Customer Agreement is available in the CSP program and replaces the existing Microsoft Cloud Agreement.</span></span>
+<span data-ttu-id="a8d8d-240">Microsoft 客戶合約是簡化的購買合約，不論客戶選擇何種購買方式，都可為客戶提供一致的購買條款。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-240">The Microsoft Customer Agreement is a simplified purchase agreement that provides consistent purchase terms for customers, regardless of the way customers choose to buy.</span></span> <span data-ttu-id="a8d8d-241">自 2019 年 10 月 1 日起，雲端解決方案提供者計畫將推出新的 Microsoft 客戶合約，以取代現有的 Microsoft Cloud 合約。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-241">Since October 1, 2019, the new Microsoft Customer Agreement is available in the CSP program and replaces the existing Microsoft Cloud Agreement.</span></span>
 
-<span data-ttu-id="9f163-241">合作夥伴向客戶告示新 Microsoft 客戶合約的方式與先前告示 Microsoft Cloud 合約的方式大同小異。</span><span class="sxs-lookup"><span data-stu-id="9f163-241">Partners can present the new Microsoft Customer Agreement to customers in much the same way that they previously did for the Microsoft Cloud Agreement.</span></span> <span data-ttu-id="9f163-242">客戶檢閱並接受合約後，合作夥伴必須向 Microsoft 確認客戶已接受。</span><span class="sxs-lookup"><span data-stu-id="9f163-242">After a customer has reviewed and accepted the agreement, partners must confirm the customer’s acceptance with Microsoft.</span></span> <span data-ttu-id="9f163-243">我們已更新合作夥伴中心儀表板、合作夥伴中心 API 與 .NET SDK，以支援合作夥伴確認客戶確實接受 Microsoft 客戶合約。</span><span class="sxs-lookup"><span data-stu-id="9f163-243">The Partner Center Dashboard, Partner Center API, and .NET SDK have been updated to support a partner confirming customer acceptance of the Microsoft Customer Agreement.</span></span>
+<span data-ttu-id="a8d8d-242">合作夥伴向客戶告示新 Microsoft 客戶合約的方式與先前告示 Microsoft Cloud 合約的方式大同小異。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-242">Partners can present the new Microsoft Customer Agreement to customers in much the same way that they previously did for the Microsoft Cloud Agreement.</span></span> <span data-ttu-id="a8d8d-243">客戶檢閱並接受合約後，合作夥伴必須向 Microsoft 確認客戶已接受。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-243">After a customer has reviewed and accepted the agreement, partners must confirm the customer’s acceptance with Microsoft.</span></span> <span data-ttu-id="a8d8d-244">我們已更新合作夥伴中心儀表板、合作夥伴中心 API 與 .NET SDK，以支援合作夥伴確認客戶確實接受 Microsoft 客戶合約。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-244">The Partner Center Dashboard, Partner Center API, and .NET SDK have been updated to support a partner confirming customer acceptance of the Microsoft Customer Agreement.</span></span>
 
-### <a name="next-steps"></a><span data-ttu-id="9f163-244">接下來的步驟</span><span class="sxs-lookup"><span data-stu-id="9f163-244">Next steps</span></span>
+### <a name="next-steps"></a><span data-ttu-id="a8d8d-245">接下來的步驟</span><span class="sxs-lookup"><span data-stu-id="a8d8d-245">Next steps</span></span>
 
-- <span data-ttu-id="9f163-245">在 2020 年 1 月 31 日前確認新 Microsoft 客戶合約的接受。</span><span class="sxs-lookup"><span data-stu-id="9f163-245">Confirm the acceptance of the new Microsoft Customer Agreement before January 31, 2020.</span></span>
-- <span data-ttu-id="9f163-246">訓練您的專員與轉銷商了解新的合約條款，以及推廣新合約並確認客戶接受合約。</span><span class="sxs-lookup"><span data-stu-id="9f163-246">Train your agents and resellers on the new agreement terms, and in presenting the new agreement and validating customer acceptance.</span></span> <span data-ttu-id="9f163-247">間接提供者必須與間接轉銷商合作，以確認客戶確實接受。</span><span class="sxs-lookup"><span data-stu-id="9f163-247">Indirect providers need to work with indirect resellers to validate a customer’s acceptance.</span></span>
-- <span data-ttu-id="9f163-248">使用 API 的直接計費與間接提供者必須使用[更新的 API](../confirm-customer-agreement.md) 更新現有的實作，以配合新的 Microsoft 客戶合約。</span><span class="sxs-lookup"><span data-stu-id="9f163-248">Direct bill and indirect providers who are using APIs will need to update existing implementation to accommodate the new Microsoft Customer Agreement using [Updated API](../confirm-customer-agreement.md).</span></span>
-- <span data-ttu-id="9f163-249">直接計費和間接提供者也可以使用合作夥伴中心 Web UI 來確認客戶確實接受。</span><span class="sxs-lookup"><span data-stu-id="9f163-249">Direct bill and indirect providers can also use the Partner Center web UI to confirm customer acceptance.</span></span>
+- <span data-ttu-id="a8d8d-246">在 2020 年 1 月 31 日前確認新 Microsoft 客戶合約的接受。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-246">Confirm the acceptance of the new Microsoft Customer Agreement before January 31, 2020.</span></span>
+- <span data-ttu-id="a8d8d-247">訓練您的專員與轉銷商了解新的合約條款，以及推廣新合約並確認客戶接受合約。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-247">Train your agents and resellers on the new agreement terms, and in presenting the new agreement and validating customer acceptance.</span></span> <span data-ttu-id="a8d8d-248">間接提供者必須與間接轉銷商合作，以確認客戶確實接受。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-248">Indirect providers need to work with indirect resellers to validate a customer’s acceptance.</span></span>
+- <span data-ttu-id="a8d8d-249">使用 API 的直接計費與間接提供者必須使用[更新的 API](../confirm-customer-agreement.md) 更新現有的實作，以配合新的 Microsoft 客戶合約。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-249">Direct bill and indirect providers who are using APIs will need to update existing implementation to accommodate the new Microsoft Customer Agreement using [Updated API](../confirm-customer-agreement.md).</span></span>
+- <span data-ttu-id="a8d8d-250">直接計費和間接提供者也可以使用合作夥伴中心 Web UI 來確認客戶確實接受。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-250">Direct bill and indirect providers can also use the Partner Center web UI to confirm customer acceptance.</span></span>
 
-### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a><span data-ttu-id="9f163-250">合作夥伴可以檢視 [[雲端解決方案提供者資源庫] 頁面](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)上提供的內容，包括：</span><span class="sxs-lookup"><span data-stu-id="9f163-250">Additional resources Partners can view content available on the [CSP Gallery page](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/), including:</span></span>
+### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a><span data-ttu-id="a8d8d-251">合作夥伴可以檢視 [[雲端解決方案提供者資源庫] 頁面](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)上提供的內容，包括：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-251">Additional resources Partners can view content available on the [CSP Gallery page](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/), including:</span></span>
 
-- <span data-ttu-id="9f163-251">雲端解決方案提供者指南 Microsoft 客戶合約常見問題中的 Microsoft 客戶合約</span><span class="sxs-lookup"><span data-stu-id="9f163-251">A Microsoft Customer Agreement in CSP guide Microsoft Customer Agreement FAQs</span></span>
-- <span data-ttu-id="9f163-252">Microsoft 客戶合約連結</span><span class="sxs-lookup"><span data-stu-id="9f163-252">A link to the Microsoft Customer Agreement</span></span>
-- <span data-ttu-id="9f163-253">提供給使用 API 確認客戶確實接受合約之合作夥伴的 API 資訊。</span><span class="sxs-lookup"><span data-stu-id="9f163-253">API information for partners using APIs to confirm customer acceptance of the agreement.</span></span>
+- <span data-ttu-id="a8d8d-252">雲端解決方案提供者指南 Microsoft 客戶合約常見問題中的 Microsoft 客戶合約</span><span class="sxs-lookup"><span data-stu-id="a8d8d-252">A Microsoft Customer Agreement in CSP guide Microsoft Customer Agreement FAQs</span></span>
+- <span data-ttu-id="a8d8d-253">Microsoft 客戶合約連結</span><span class="sxs-lookup"><span data-stu-id="a8d8d-253">A link to the Microsoft Customer Agreement</span></span>
+- <span data-ttu-id="a8d8d-254">提供給使用 API 確認客戶確實接受合約之合作夥伴的 API 資訊。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-254">API information for partners using APIs to confirm customer acceptance of the agreement.</span></span>
 
 >[!Note] 
-><span data-ttu-id="9f163-254">日曆年度 2020 年第 1 季時，合作夥伴將可另外選擇邀請客戶前往經驗證的 Microsoft 入口網站，來檢視與簽訂 Microsoft 客戶合約。</span><span class="sxs-lookup"><span data-stu-id="9f163-254">Coming later in Q1 CY20, partners will have the additional option to invite customers to an authenticated Microsoft portal to view and sign the Microsoft Customer Agreement.</span></span> <span data-ttu-id="9f163-255">Microsoft 將有責任確認客戶確實接受 Microsoft 客戶合約。</span><span class="sxs-lookup"><span data-stu-id="9f163-255">Microsoft will own the responsibility to confirm customer acceptance of the Microsoft Customer Agreement.</span></span>
+><span data-ttu-id="a8d8d-255">日曆年度 2020 年第 1 季時，合作夥伴將可另外選擇邀請客戶前往經驗證的 Microsoft 入口網站，來檢視與簽訂 Microsoft 客戶合約。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-255">Coming later in Q1 CY20, partners will have the additional option to invite customers to an authenticated Microsoft portal to view and sign the Microsoft Customer Agreement.</span></span> <span data-ttu-id="a8d8d-256">Microsoft 將有責任確認客戶確實接受 Microsoft 客戶合約。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-256">Microsoft will own the responsibility to confirm customer acceptance of the Microsoft Customer Agreement.</span></span>
 
-### <a name="change-log"></a><span data-ttu-id="9f163-256">變更記錄</span><span class="sxs-lookup"><span data-stu-id="9f163-256">Change log</span></span>
+### <a name="change-log"></a><span data-ttu-id="a8d8d-257">變更記錄</span><span class="sxs-lookup"><span data-stu-id="a8d8d-257">Change log</span></span>
 
-- <span data-ttu-id="9f163-257">2020 年 1 月 15 日：發佈了原始公告。</span><span class="sxs-lookup"><span data-stu-id="9f163-257">January 15, 2020: Original announcement published.</span></span>
-
-_________________
-
-## <a name="price-list-and-offer-update-schedule-for-january-2020"></a><a id="2"/></a><span data-ttu-id="9f163-258">2020 年 1 月的價目表和供應項目更新排程</span><span class="sxs-lookup"><span data-stu-id="9f163-258">Price list and offer update schedule for January 2020</span></span>
-
-### <a name="categories"></a><span data-ttu-id="9f163-259">類別</span><span class="sxs-lookup"><span data-stu-id="9f163-259">Categories</span></span>
-
-- <span data-ttu-id="9f163-260">日期：2020-01-07</span><span class="sxs-lookup"><span data-stu-id="9f163-260">Date: 2020-01-07</span></span>
-- <span data-ttu-id="9f163-261">輸入：功能</span><span class="sxs-lookup"><span data-stu-id="9f163-261">Type: Capabilities</span></span>
-- <span data-ttu-id="9f163-262">狀態：敬請期待</span><span class="sxs-lookup"><span data-stu-id="9f163-262">Status: Coming soon</span></span>
-
-### <a name="impacted-audience"></a><span data-ttu-id="9f163-263">影響對象</span><span class="sxs-lookup"><span data-stu-id="9f163-263">Impacted audience</span></span>
-
-- <span data-ttu-id="9f163-264">參與 CSP 計畫的所有合作夥伴</span><span class="sxs-lookup"><span data-stu-id="9f163-264">All partners participating in the CSP program</span></span>
-
-### <a name="summary"></a><span data-ttu-id="9f163-265">摘要</span><span class="sxs-lookup"><span data-stu-id="9f163-265">Summary</span></span>
-
-<span data-ttu-id="9f163-266">根據已排定的休假日，2020 年 1 月的價目表不會比照一般供應行程，而會於 1 月 6 日太平洋標準時間 (PST) 下午 6:00 推出。</span><span class="sxs-lookup"><span data-stu-id="9f163-266">Per the holiday lockdown schedules, the January 2020 price lists will be available January 6 at 6:00 PM Pacific Standard Time (PST) instead of the typical availability schedule.</span></span>
-
-### <a name="details"></a><span data-ttu-id="9f163-267">詳細資料：</span><span class="sxs-lookup"><span data-stu-id="9f163-267">Details:</span></span>
-
-<span data-ttu-id="9f163-268">因為已排定休假日，所以張貼到[合作夥伴中心銷售頁面](https://partner.microsoft.com/pcv/sales)的 2020 年 1 月價目表更新不會比照一般供應行程在每個月最後一天的太平洋標準時間 (PST) 下午 6:00 推出，而是在 1 月 6 日太平洋標準時間 (PST) 下午 6:00 推出。</span><span class="sxs-lookup"><span data-stu-id="9f163-268">Because of holiday scheduling, the price list updates posted to the [Partner Center sales page](https://partner.microsoft.com/pcv/sales) for January 2020 will be available January 6 at 6:00 PM Pacific Standard Time (PST) instead of the typical availability, which is at 6:00 PM Pacific Standard Time (PST) on the last day of each month.</span></span> <span data-ttu-id="9f163-269">目錄更新也會於 1 月 6 日與價目表更新同步推出。</span><span class="sxs-lookup"><span data-stu-id="9f163-269">The catalog updates will also be available on January 6 to align with the price list updates.</span></span> <span data-ttu-id="9f163-270">2020 年 1 月排程適用於合作夥伴中心銷售頁面上張貼的所有價目表：</span><span class="sxs-lookup"><span data-stu-id="9f163-270">The January 2020 schedule is for all price lists posted on the Partner Center sales page:</span></span>
-
-- <span data-ttu-id="9f163-271">以授權為基礎的價目表和供應項目</span><span class="sxs-lookup"><span data-stu-id="9f163-271">License-based price lists and offers</span></span>
-- <span data-ttu-id="9f163-272">以使用量為基礎的價目表</span><span class="sxs-lookup"><span data-stu-id="9f163-272">Usage-based price lists</span></span>
-- <span data-ttu-id="9f163-273">保留價目表</span><span class="sxs-lookup"><span data-stu-id="9f163-273">Reservations price lists</span></span>
-- <span data-ttu-id="9f163-274">軟體訂閱價目表</span><span class="sxs-lookup"><span data-stu-id="9f163-274">Software subscriptions price lists</span></span>
-
-<span data-ttu-id="9f163-275">Marketplace 頁面上的 Azure 方案價目表會一直保持最新狀態，因為這些價目表會動態持續更新。</span><span class="sxs-lookup"><span data-stu-id="9f163-275">The Azure plan price lists on the Marketplace page will be up to date throughout, as those price lists are dynamic and are continually updated.</span></span>
-
-<span data-ttu-id="9f163-276">**以授權為基礎的價目表問題**</span><span class="sxs-lookup"><span data-stu-id="9f163-276">**License-based price list issues**</span></span>
-
-<span data-ttu-id="9f163-277">一月份以授權為基礎的價目表具有下列已知問題，我們預計會在二月的價目表更新中解決。</span><span class="sxs-lookup"><span data-stu-id="9f163-277">The January license-based price list has the following known issues we expect to address in next month’s price list updates for February.</span></span>
-
-<span data-ttu-id="9f163-278">這些供應項目不應列入價目表中，因此將於下個月予以移除：</span><span class="sxs-lookup"><span data-stu-id="9f163-278">These offers should not be in the price list and will be removed next month:</span></span>
-
-- <span data-ttu-id="9f163-279">供應項目：Microsoft 365 電話系統 - 虛擬使用者試用識別碼：b9a1d576-43fd-464b-8ad9-4b1eafc5db77</span><span class="sxs-lookup"><span data-stu-id="9f163-279">Offer: Microsoft 365 Phone System - Virtual User Trial ID: b9a1d576-43fd-464b-8ad9-4b1eafc5db77</span></span>
-- <span data-ttu-id="9f163-280">供應項目：Forms Pro Addl Responses for GCC 供應項目識別碼：ac14473c-8e5d-4e44-aff1-6087109be980</span><span class="sxs-lookup"><span data-stu-id="9f163-280">Offer: Forms Pro Addl Responses for GCC Offer ID: ac14473c-8e5d-4e44-aff1-6087109be980</span></span>
-- <span data-ttu-id="9f163-281">供應項目：Microsoft Forms Pro USL for GCC 供應項目識別碼：1e9dab89-7a71-4aa9-a3e5-9b8be2f296ba</span><span class="sxs-lookup"><span data-stu-id="9f163-281">Offer: Microsoft Forms Pro USL for GCC Offer ID: 1e9dab89-7a71-4aa9-a3e5-9b8be2f296ba</span></span>
-
-<span data-ttu-id="9f163-282">這些供應項目不應列入價目表中，因此將於下個月予以移除：</span><span class="sxs-lookup"><span data-stu-id="9f163-282">These offers should not be in the price list and will be removed next month:</span></span>
-
-- <span data-ttu-id="9f163-283">供應項目：PowerApps 每個應用程式方案學生版供應項目識別碼：e1f379e8-cf22-4a7d-97fd-dcf9d62fc132</span><span class="sxs-lookup"><span data-stu-id="9f163-283">Offer: PowerApps per app plan for Students Offer ID: e1f379e8-cf22-4a7d-97fd-dcf9d62fc132</span></span>
-
-<span data-ttu-id="9f163-284">1 月時不正確地從價目表移除了這些供應項目，但其仍可使用，如需其定價，請參閱 12 月的價目表。</span><span class="sxs-lookup"><span data-stu-id="9f163-284">These offers were incorrectly removed from the price list in January but are still available; consult the December price lists for their pricing.</span></span> <span data-ttu-id="9f163-285">預計將這些供應項目新增回下個月的價目表：</span><span class="sxs-lookup"><span data-stu-id="9f163-285">Plans are to add these offers back to next month's price list:</span></span>
-
-- <span data-ttu-id="9f163-286">教職員用 Office 365 A1 (適用於裝置) 供應項目識別碼：`0757d14e-7c57-456f-8dab-47d164f2ff1f`</span><span class="sxs-lookup"><span data-stu-id="9f163-286">Office 365 A1 for faculty (for Device) Offer ID: `0757d14e-7c57-456f-8dab-47d164f2ff1f`</span></span>
-- <span data-ttu-id="9f163-287">學生用 Office 365 A1 (適用於裝置) 供應項目識別碼：`bae285a9-d56b-4384-b02f-38adc61a6f12`</span><span class="sxs-lookup"><span data-stu-id="9f163-287">Office 365 A1 for students (for Device) Offer ID: `bae285a9-d56b-4384-b02f-38adc61a6f12`</span></span>
-- <span data-ttu-id="9f163-288">Microsoft 365 A1 供應項目識別碼：`778a4dce-0014-4d53-8647-314ef2b091d2`</span><span class="sxs-lookup"><span data-stu-id="9f163-288">Microsoft 365 A1 Offer ID: `778a4dce-0014-4d53-8647-314ef2b091d2`</span></span>
-- <span data-ttu-id="9f163-289">Dynamics 365 Remote Assist 試用供應項目識別碼：`545484f9-1c3e-426d-a387-0aa029146443`</span><span class="sxs-lookup"><span data-stu-id="9f163-289">Dynamics 365 Remote Assist Trial Offer ID: `545484f9-1c3e-426d-a387-0aa029146443`</span></span>
-- <span data-ttu-id="9f163-290">Dynamics 365 Remote Assist 附加試用供應項目識別碼：`7ce81df9-f10c-49a3-843d-e9de6fdc779f`</span><span class="sxs-lookup"><span data-stu-id="9f163-290">Dynamics 365 Remote Assist Attach Trial Offer ID: `7ce81df9-f10c-49a3-843d-e9de6fdc779f`</span></span>
-
-### <a name="change-log"></a><span data-ttu-id="9f163-291">變更記錄</span><span class="sxs-lookup"><span data-stu-id="9f163-291">Change log</span></span>
-
-- <span data-ttu-id="9f163-292">2019 年 12 月 20 日：原始公告發佈日期</span><span class="sxs-lookup"><span data-stu-id="9f163-292">December 20, 2019: Original announcement published</span></span>
-- <span data-ttu-id="9f163-293">2020 年 1 月 7 日：新增了以授權為基礎的價目表問題一節</span><span class="sxs-lookup"><span data-stu-id="9f163-293">January 7, 2020: Added license-based price list issues section</span></span>
+- <span data-ttu-id="a8d8d-258">2020 年 1 月 15 日：發佈了原始公告。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-258">January 15, 2020: Original announcement published.</span></span>
 
 _________________
 
-## <a name="microsoft-has-now-released-additional-dynamics-365-products-and-more-will-be-coming-on-february-1-2020"></a><a id="1"/></a><span data-ttu-id="9f163-294">Microsoft 現已發行新的 Dynamics 365 產品，2020 年 2 月 1 日還會再推出其他產品</span><span class="sxs-lookup"><span data-stu-id="9f163-294">Microsoft has now released additional Dynamics 365 products, and more will be coming on February 1, 2020</span></span>
+## <a name="price-list-and-offer-update-schedule-for-january-2020"></a><a id="2"/></a><span data-ttu-id="a8d8d-259">2020 年 1 月的價目表和供應項目更新排程</span><span class="sxs-lookup"><span data-stu-id="a8d8d-259">Price list and offer update schedule for January 2020</span></span>
 
-### <a name="categories"></a><span data-ttu-id="9f163-295">類別</span><span class="sxs-lookup"><span data-stu-id="9f163-295">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="a8d8d-260">類別</span><span class="sxs-lookup"><span data-stu-id="a8d8d-260">Categories</span></span>
 
-- <span data-ttu-id="9f163-296">日期：2020-01-02</span><span class="sxs-lookup"><span data-stu-id="9f163-296">Date: 2020-01-02</span></span>
-- <span data-ttu-id="9f163-297">輸入：供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="9f163-297">Type: Offers/markets</span></span>
-- <span data-ttu-id="9f163-298">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="9f163-298">Status: Now Available</span></span>
+- <span data-ttu-id="a8d8d-261">日期：2020-01-07</span><span class="sxs-lookup"><span data-stu-id="a8d8d-261">Date: 2020-01-07</span></span>
+- <span data-ttu-id="a8d8d-262">輸入：功能</span><span class="sxs-lookup"><span data-stu-id="a8d8d-262">Type: Capabilities</span></span>
+- <span data-ttu-id="a8d8d-263">狀態：敬請期待</span><span class="sxs-lookup"><span data-stu-id="a8d8d-263">Status: Coming soon</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="9f163-299">影響對象</span><span class="sxs-lookup"><span data-stu-id="9f163-299">Impacted audience</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="a8d8d-264">影響對象</span><span class="sxs-lookup"><span data-stu-id="a8d8d-264">Impacted audience</span></span>
 
-- <span data-ttu-id="9f163-300">透過雲端解決方案提供者 (CSP) 計畫供應 Dynamics 365 的合作夥伴 (除非另行通知，否則這些更新適用於全球各地)。</span><span class="sxs-lookup"><span data-stu-id="9f163-300">Partners offering Dynamics 365 through the Cloud Solution Provider (CSP) program (These updates relate to all locations worldwide, unless advised differently.)</span></span>
+- <span data-ttu-id="a8d8d-265">參與 CSP 計畫的所有合作夥伴</span><span class="sxs-lookup"><span data-stu-id="a8d8d-265">All partners participating in the CSP program</span></span>
 
-### <a name="summary"></a><span data-ttu-id="9f163-301">摘要</span><span class="sxs-lookup"><span data-stu-id="9f163-301">Summary</span></span>
+### <a name="summary"></a><span data-ttu-id="a8d8d-266">摘要</span><span class="sxs-lookup"><span data-stu-id="a8d8d-266">Summary</span></span>
 
-<span data-ttu-id="9f163-302">Microsoft 已於 2020 年 1 月 2 日發行新的 Dynamics 365 產品。</span><span class="sxs-lookup"><span data-stu-id="9f163-302">Microsoft has released additional Dynamics 365 products today, January 2, 2020.</span></span> <span data-ttu-id="9f163-303">2020 年 2 月 1 日還會再發行其他新產品。</span><span class="sxs-lookup"><span data-stu-id="9f163-303">New products will also be released on February 1, 2020.</span></span>
+<span data-ttu-id="a8d8d-267">根據已排定的休假日，2020 年 1 月的價目表不會比照一般供應行程，而會於 1 月 6 日太平洋標準時間 (PST) 下午 6:00 推出。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-267">Per the holiday lockdown schedules, the January 2020 price lists will be available January 6 at 6:00 PM Pacific Standard Time (PST) instead of the typical availability schedule.</span></span>
 
-### <a name="details"></a><span data-ttu-id="9f163-304">詳細資料</span><span class="sxs-lookup"><span data-stu-id="9f163-304">Details</span></span>
+### <a name="details"></a><span data-ttu-id="a8d8d-268">詳細資料：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-268">Details:</span></span>
 
-<span data-ttu-id="9f163-305">Microsoft 已於 2020 年 1 月 2 日發行 Dynamics 365 Power Virtual Agent、Biz Apps 和 Power Platform 的新產品。</span><span class="sxs-lookup"><span data-stu-id="9f163-305">Today, January 2, 2020, Microsoft released new products for Dynamics 365 Power Virtual Agent, as well as Biz Apps and Power Platform.</span></span> <span data-ttu-id="9f163-306">2020 年 2 月 1 日還會再發行 Dynamics 365 Biz Apps 和 Power Platform 的其他新產品。</span><span class="sxs-lookup"><span data-stu-id="9f163-306">On February 1, 2020, additional new products will be released for Dynamics 365 Biz Apps and Power Platform.</span></span>
+<span data-ttu-id="a8d8d-269">因為已排定休假日，所以張貼到[合作夥伴中心銷售頁面](https://partner.microsoft.com/pcv/sales)的 2020 年 1 月價目表更新不會比照一般供應行程在每個月最後一天的太平洋標準時間 (PST) 下午 6:00 推出，而是在 1 月 6 日太平洋標準時間 (PST) 下午 6:00 推出。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-269">Because of holiday scheduling, the price list updates posted to the [Partner Center sales page](https://partner.microsoft.com/pcv/sales) for January 2020 will be available January 6 at 6:00 PM Pacific Standard Time (PST) instead of the typical availability, which is at 6:00 PM Pacific Standard Time (PST) on the last day of each month.</span></span> <span data-ttu-id="a8d8d-270">目錄更新也會於 1 月 6 日與價目表更新同步推出。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-270">The catalog updates will also be available on January 6 to align with the price list updates.</span></span> <span data-ttu-id="a8d8d-271">2020 年 1 月排程適用於合作夥伴中心銷售頁面上張貼的所有價目表：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-271">The January 2020 schedule is for all price lists posted on the Partner Center sales page:</span></span>
 
-### <a name="dynamics-365-power-virtual-agent"></a><span data-ttu-id="9f163-307">Dynamics 365 Power Virtual Agent</span><span class="sxs-lookup"><span data-stu-id="9f163-307">Dynamics 365 Power Virtual Agent</span></span>
+- <span data-ttu-id="a8d8d-272">以授權為基礎的價目表和供應項目</span><span class="sxs-lookup"><span data-stu-id="a8d8d-272">License-based price lists and offers</span></span>
+- <span data-ttu-id="a8d8d-273">以使用量為基礎的價目表</span><span class="sxs-lookup"><span data-stu-id="a8d8d-273">Usage-based price lists</span></span>
+- <span data-ttu-id="a8d8d-274">保留價目表</span><span class="sxs-lookup"><span data-stu-id="a8d8d-274">Reservations price lists</span></span>
+- <span data-ttu-id="a8d8d-275">軟體訂閱價目表</span><span class="sxs-lookup"><span data-stu-id="a8d8d-275">Software subscriptions price lists</span></span>
 
-<span data-ttu-id="9f163-308">我們已於 2020 年 1 月 2 日發行下列 Power Virtual Agent 供應項目：</span><span class="sxs-lookup"><span data-stu-id="9f163-308">On January 2, 2020, the following Power Virtual Agent offers were released:</span></span>
+<span data-ttu-id="a8d8d-276">Marketplace 頁面上的 Azure 方案價目表會一直保持最新狀態，因為這些價目表會動態持續更新。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-276">The Azure plan price lists on the Marketplace page will be up to date throughout, as those price lists are dynamic and are continually updated.</span></span>
 
-- <span data-ttu-id="9f163-309">Dynamics 365 Virtual Agent for Customer Service</span><span class="sxs-lookup"><span data-stu-id="9f163-309">Dynamics 365 Virtual Agent for Customer Service</span></span>
+<span data-ttu-id="a8d8d-277">**以授權為基礎的價目表問題**</span><span class="sxs-lookup"><span data-stu-id="a8d8d-277">**License-based price list issues**</span></span>
 
-<span data-ttu-id="9f163-310">如需詳細的 SKU 資訊，請參閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offers 1-1-20" 檔案。</span><span class="sxs-lookup"><span data-stu-id="9f163-310">See the detailed SKU information in the file "Dynamics CSP Offers 1-1-20" [here](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).</span></span>
+<span data-ttu-id="a8d8d-278">一月份以授權為基礎的價目表具有下列已知問題，我們預計會在二月的價目表更新中解決。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-278">The January license-based price list has the following known issues we expect to address in next month’s price list updates for February.</span></span>
 
-<span data-ttu-id="9f163-311">Biz Apps 和 Power Platform</span><span class="sxs-lookup"><span data-stu-id="9f163-311">Biz Apps and Power Platform</span></span>
+<span data-ttu-id="a8d8d-279">這些供應項目不應列入價目表中，因此將於下個月予以移除：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-279">These offers should not be in the price list and will be removed next month:</span></span>
 
-<span data-ttu-id="9f163-312">我們已於 2020 年 1 月 2 日發行下列 Biz Apps 和 Power Platform 供應項目：</span><span class="sxs-lookup"><span data-stu-id="9f163-312">On January 2, 2020, the following Biz Apps and Power Platform offers were released:</span></span>
+- <span data-ttu-id="a8d8d-280">供應項目：Microsoft 365 電話系統 - 虛擬使用者試用識別碼：b9a1d576-43fd-464b-8ad9-4b1eafc5db77</span><span class="sxs-lookup"><span data-stu-id="a8d8d-280">Offer: Microsoft 365 Phone System - Virtual User Trial ID: b9a1d576-43fd-464b-8ad9-4b1eafc5db77</span></span>
+- <span data-ttu-id="a8d8d-281">供應項目：Forms Pro Addl Responses for GCC 供應項目識別碼：ac14473c-8e5d-4e44-aff1-6087109be980</span><span class="sxs-lookup"><span data-stu-id="a8d8d-281">Offer: Forms Pro Addl Responses for GCC Offer ID: ac14473c-8e5d-4e44-aff1-6087109be980</span></span>
+- <span data-ttu-id="a8d8d-282">供應項目：Microsoft Forms Pro USL for GCC 供應項目識別碼：1e9dab89-7a71-4aa9-a3e5-9b8be2f296ba</span><span class="sxs-lookup"><span data-stu-id="a8d8d-282">Offer: Microsoft Forms Pro USL for GCC Offer ID: 1e9dab89-7a71-4aa9-a3e5-9b8be2f296ba</span></span>
 
-- <span data-ttu-id="9f163-313">現有 PowerApps 個別應用程式方案已推出學生供應項目</span><span class="sxs-lookup"><span data-stu-id="9f163-313">Introduction of student offers for existing PowerApps per-app plan</span></span>
+<span data-ttu-id="a8d8d-283">這些供應項目不應列入價目表中，因此將於下個月予以移除：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-283">These offers should not be in the price list and will be removed next month:</span></span>
 
-<span data-ttu-id="9f163-314">如需詳細的 SKU 資訊，請參閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offers 1-1-20" 檔案。</span><span class="sxs-lookup"><span data-stu-id="9f163-314">See the detailed SKU information in the file "Dynamics CSP Offers 1-1-20" [here](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).</span></span>
+- <span data-ttu-id="a8d8d-284">供應項目：PowerApps 每個應用程式方案學生版供應項目識別碼：e1f379e8-cf22-4a7d-97fd-dcf9d62fc132</span><span class="sxs-lookup"><span data-stu-id="a8d8d-284">Offer: PowerApps per app plan for Students Offer ID: e1f379e8-cf22-4a7d-97fd-dcf9d62fc132</span></span>
 
-<span data-ttu-id="9f163-315">我們將會在 2020 年 2 月 1 日發行下列新的與更新的 Biz Apps 和 Power Platform 供應項目：</span><span class="sxs-lookup"><span data-stu-id="9f163-315">On February 1, 2020, the following new and updated offers for Biz Apps and Power Platform will be released:</span></span>
+<span data-ttu-id="a8d8d-285">1 月時不正確地從價目表移除了這些供應項目，但其仍可使用，如需其定價，請參閱 12 月的價目表。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-285">These offers were incorrectly removed from the price list in January but are still available; consult the December price lists for their pricing.</span></span> <span data-ttu-id="a8d8d-286">預計將這些供應項目新增回下個月的價目表：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-286">Plans are to add these offers back to next month's price list:</span></span>
 
-<span data-ttu-id="9f163-316">Human Resources 的新供應項目</span><span class="sxs-lookup"><span data-stu-id="9f163-316">Human Resources new offers</span></span>
+- <span data-ttu-id="a8d8d-287">教職員用 Office 365 A1 (適用於裝置) 供應項目識別碼：`0757d14e-7c57-456f-8dab-47d164f2ff1f`</span><span class="sxs-lookup"><span data-stu-id="a8d8d-287">Office 365 A1 for faculty (for Device) Offer ID: `0757d14e-7c57-456f-8dab-47d164f2ff1f`</span></span>
+- <span data-ttu-id="a8d8d-288">學生用 Office 365 A1 (適用於裝置) 供應項目識別碼：`bae285a9-d56b-4384-b02f-38adc61a6f12`</span><span class="sxs-lookup"><span data-stu-id="a8d8d-288">Office 365 A1 for students (for Device) Offer ID: `bae285a9-d56b-4384-b02f-38adc61a6f12`</span></span>
+- <span data-ttu-id="a8d8d-289">Microsoft 365 A1 供應項目識別碼：`778a4dce-0014-4d53-8647-314ef2b091d2`</span><span class="sxs-lookup"><span data-stu-id="a8d8d-289">Microsoft 365 A1 Offer ID: `778a4dce-0014-4d53-8647-314ef2b091d2`</span></span>
+- <span data-ttu-id="a8d8d-290">Dynamics 365 Remote Assist 試用供應項目識別碼：`545484f9-1c3e-426d-a387-0aa029146443`</span><span class="sxs-lookup"><span data-stu-id="a8d8d-290">Dynamics 365 Remote Assist Trial Offer ID: `545484f9-1c3e-426d-a387-0aa029146443`</span></span>
+- <span data-ttu-id="a8d8d-291">Dynamics 365 Remote Assist 附加試用供應項目識別碼：`7ce81df9-f10c-49a3-843d-e9de6fdc779f`</span><span class="sxs-lookup"><span data-stu-id="a8d8d-291">Dynamics 365 Remote Assist Attach Trial Offer ID: `7ce81df9-f10c-49a3-843d-e9de6fdc779f`</span></span>
 
-- <span data-ttu-id="9f163-317">Dynamics 365 HR 使用者可以購買 Dynamics 365 Unified Ops Additional DB/File Capacity USL 供應項目</span><span class="sxs-lookup"><span data-stu-id="9f163-317">Dynamics 365 HR users can purchase Dynamics 365 Unified Ops Additional DB/File Capacity USL offers</span></span>
-- <span data-ttu-id="9f163-318">Dynamics 365 HR Self-Serve 供應項目</span><span class="sxs-lookup"><span data-stu-id="9f163-318">Dynamics 365 HR Self-Serve offers</span></span>
-- <span data-ttu-id="9f163-319">Dynamics 365 Human Resources (使用者、租用戶)</span><span class="sxs-lookup"><span data-stu-id="9f163-319">Dynamics 365 Human Resources (user, tenant)</span></span>
+### <a name="change-log"></a><span data-ttu-id="a8d8d-292">變更記錄</span><span class="sxs-lookup"><span data-stu-id="a8d8d-292">Change log</span></span>
 
-<span data-ttu-id="9f163-320">供應鏈管理的 loT 智慧 (新供應項目)</span><span class="sxs-lookup"><span data-stu-id="9f163-320">loT Intelligence for Supply Chain Management new offers</span></span>
+- <span data-ttu-id="a8d8d-293">2019 年 12 月 20 日：原始公告發佈日期</span><span class="sxs-lookup"><span data-stu-id="a8d8d-293">December 20, 2019: Original announcement published</span></span>
+- <span data-ttu-id="a8d8d-294">2020 年 1 月 7 日：新增了以授權為基礎的價目表問題一節</span><span class="sxs-lookup"><span data-stu-id="a8d8d-294">January 7, 2020: Added license-based price list issues section</span></span>
 
-- <span data-ttu-id="9f163-321">IoT 智慧案例 (租用戶層級) - 包含最多六個案例與十部機器的權利 (必須要先有供應鏈/Unified Ops Management 使用者基本或附加 SKU)</span><span class="sxs-lookup"><span data-stu-id="9f163-321">IoT Intelligence Scenario (tenant level)—includes entitlement up to six scenarios and ten machines (prerequisite is Supply Chain/Unified Ops Management user base or attach SKU)</span></span>
-- <span data-ttu-id="9f163-322">IoT Intelligence Additional Machine (租用戶層級) - IoT 智慧案例的附加元件 (此供應項目的先決條件)，可提供另外 10 部機器的授權</span><span class="sxs-lookup"><span data-stu-id="9f163-322">IoT Intelligence Additional Machine (tenant level)—add-on to the IoT Intelligence Scenario (the prerequisite of this offer) which provides licensing for 10 additional machines</span></span>
+_________________
 
-<span data-ttu-id="9f163-323">eCommerce 名稱變更</span><span class="sxs-lookup"><span data-stu-id="9f163-323">eCommerce name change</span></span>
+## <a name="microsoft-has-now-released-additional-dynamics-365-products-and-more-will-be-coming-on-february-1-2020"></a><a id="1"/></a><span data-ttu-id="a8d8d-295">Microsoft 現已發行新的 Dynamics 365 產品，2020 年 2 月 1 日還會再推出其他產品</span><span class="sxs-lookup"><span data-stu-id="a8d8d-295">Microsoft has now released additional Dynamics 365 products, and more will be coming on February 1, 2020</span></span>
 
-- <span data-ttu-id="9f163-324">Dynamics 365 Retail 供應項目將會變更為 Dynamics 365 Commerce。</span><span class="sxs-lookup"><span data-stu-id="9f163-324">Dynamics 365 Retail offers will be changed to Dynamics 365 Commerce.</span></span>
+### <a name="categories"></a><span data-ttu-id="a8d8d-296">類別</span><span class="sxs-lookup"><span data-stu-id="a8d8d-296">Categories</span></span>
 
-<span data-ttu-id="9f163-325">Customer Insights 授權更新</span><span class="sxs-lookup"><span data-stu-id="9f163-325">Customer Insights license update</span></span>
+- <span data-ttu-id="a8d8d-297">日期：2020-01-02</span><span class="sxs-lookup"><span data-stu-id="a8d8d-297">Date: 2020-01-02</span></span>
+- <span data-ttu-id="a8d8d-298">輸入：供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="a8d8d-298">Type: Offers/markets</span></span>
+- <span data-ttu-id="a8d8d-299">狀態：現已推出</span><span class="sxs-lookup"><span data-stu-id="a8d8d-299">Status: Now Available</span></span>
 
-<span data-ttu-id="9f163-326">下列 SKU 的授權類型將會從 AddOn 變更為 NON：</span><span class="sxs-lookup"><span data-stu-id="9f163-326">The following SKUs will have the licensing type changed from AddOn to NON:</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="a8d8d-300">影響對象</span><span class="sxs-lookup"><span data-stu-id="a8d8d-300">Impacted audience</span></span>
 
-- <span data-ttu-id="9f163-327">Dyn365ECstmrInsights ShrdSvr ALNG SubsVL MVL</span><span class="sxs-lookup"><span data-stu-id="9f163-327">Dyn365ECstmrInsights ShrdSvr ALNG SubsVL MVL</span></span>
-- <span data-ttu-id="9f163-328">Dyn365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL</span><span class="sxs-lookup"><span data-stu-id="9f163-328">Dyn365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL</span></span>
+- <span data-ttu-id="a8d8d-301">透過雲端解決方案提供者 (CSP) 計畫供應 Dynamics 365 的合作夥伴 (除非另行通知，否則這些更新適用於全球各地)。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-301">Partners offering Dynamics 365 through the Cloud Solution Provider (CSP) program (These updates relate to all locations worldwide, unless advised differently.)</span></span>
 
-<span data-ttu-id="9f163-329">Dynamics 365 Human Resources 將不再提供下列供應項目：</span><span class="sxs-lookup"><span data-stu-id="9f163-329">The following offers will no longer be available for Dynamics 365 Human Resources:</span></span>
+### <a name="summary"></a><span data-ttu-id="a8d8d-302">摘要</span><span class="sxs-lookup"><span data-stu-id="a8d8d-302">Summary</span></span>
 
-- <span data-ttu-id="9f163-330">Dynamics 365 Talent、來自 SA 的 Dynamics 365 for Talent、Attract、Onboard 和 Comprehensive Hiring 供應項目</span><span class="sxs-lookup"><span data-stu-id="9f163-330">Dynamics 365 Talent, Dynamics 365 for Talent from SA, Attract, Onboard, and Comprehensive Hiring offers</span></span>
+<span data-ttu-id="a8d8d-303">Microsoft 已於 2020 年 1 月 2 日發行新的 Dynamics 365 產品。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-303">Microsoft has released additional Dynamics 365 products today, January 2, 2020.</span></span> <span data-ttu-id="a8d8d-304">2020 年 2 月 1 日還會再發行其他新產品。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-304">New products will also be released on February 1, 2020.</span></span>
 
-<span data-ttu-id="9f163-331">待宣布的 SKU 資訊</span><span class="sxs-lookup"><span data-stu-id="9f163-331">Pending SKU information</span></span>
+### <a name="details"></a><span data-ttu-id="a8d8d-305">詳細資料</span><span class="sxs-lookup"><span data-stu-id="a8d8d-305">Details</span></span>
 
-<span data-ttu-id="9f163-332">Microsoft 將會在 2020 年 2 月 1 日變更某些產品系列和供應項目的名稱，以使現有 Dynamics 365 及 Power Platform 供應項目的命名和其他管道及區域中使用的命名一致。</span><span class="sxs-lookup"><span data-stu-id="9f163-332">On February 1, 2020, Microsoft will change the names of some product families and offers to align the naming for existing Dynamics 365 and Power Platform offers to the name used in other channels and regions.</span></span>
+<span data-ttu-id="a8d8d-306">Microsoft 已於 2020 年 1 月 2 日發行 Dynamics 365 Power Virtual Agent、Biz Apps 和 Power Platform 的新產品。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-306">Today, January 2, 2020, Microsoft released new products for Dynamics 365 Power Virtual Agent, as well as Biz Apps and Power Platform.</span></span> <span data-ttu-id="a8d8d-307">2020 年 2 月 1 日還會再發行 Dynamics 365 Biz Apps 和 Power Platform 的其他新產品。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-307">On February 1, 2020, additional new products will be released for Dynamics 365 Biz Apps and Power Platform.</span></span>
 
-<span data-ttu-id="9f163-333">如需具體變更，請參閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offer Name Changes – Feb 2020" 檔案。</span><span class="sxs-lookup"><span data-stu-id="9f163-333">See the specific changes in the file "Dynamics CSP Offer Name Changes – Feb 2020" [here](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).</span></span>
+### <a name="dynamics-365-power-virtual-agent"></a><span data-ttu-id="a8d8d-308">Dynamics 365 Power Virtual Agent</span><span class="sxs-lookup"><span data-stu-id="a8d8d-308">Dynamics 365 Power Virtual Agent</span></span>
 
-### <a name="additional-resources"></a><span data-ttu-id="9f163-334">其他資源</span><span class="sxs-lookup"><span data-stu-id="9f163-334">Additional resources</span></span>
+<span data-ttu-id="a8d8d-309">我們已於 2020 年 1 月 2 日發行下列 Power Virtual Agent 供應項目：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-309">On January 2, 2020, the following Power Virtual Agent offers were released:</span></span>
 
-- [<span data-ttu-id="9f163-335">Dynamics 365 首頁</span><span class="sxs-lookup"><span data-stu-id="9f163-335">Dynamics 365 home page</span></span>](https://dynamics.microsoft.com/)
-- [<span data-ttu-id="9f163-336">混合實境應用程式指南首頁</span><span class="sxs-lookup"><span data-stu-id="9f163-336">Mixed Reality Apps Guide home page</span></span>](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [<span data-ttu-id="9f163-337">Biz Apps Fraud 首頁</span><span class="sxs-lookup"><span data-stu-id="9f163-337">Biz Apps Fraud home page</span></span>](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
-- [<span data-ttu-id="9f163-338">Power Platform 產品首頁</span><span class="sxs-lookup"><span data-stu-id="9f163-338">Power Platform Products home page</span></span>](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [<span data-ttu-id="9f163-339">FY20 PowerApps 與 Flow 授權更新</span><span class="sxs-lookup"><span data-stu-id="9f163-339">FY20 Power Apps and Flow Licensing Updates</span></span>](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
-- [<span data-ttu-id="9f163-340">Microsoft Dynamics 365 授權</span><span class="sxs-lookup"><span data-stu-id="9f163-340">Microsoft Dynamics 365 Licensing</span></span>](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
+- <span data-ttu-id="a8d8d-310">Dynamics 365 Virtual Agent for Customer Service</span><span class="sxs-lookup"><span data-stu-id="a8d8d-310">Dynamics 365 Virtual Agent for Customer Service</span></span>
 
-### <a name="next-steps"></a><span data-ttu-id="9f163-341">接下來的步驟</span><span class="sxs-lookup"><span data-stu-id="9f163-341">Next steps</span></span>
+<span data-ttu-id="a8d8d-311">如需詳細的 SKU 資訊，請參閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offers 1-1-20" 檔案。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-311">See the detailed SKU information in the file "Dynamics CSP Offers 1-1-20" [here](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).</span></span>
 
-- <span data-ttu-id="9f163-342">請與貴組織內適當的連絡人分享這項資訊。</span><span class="sxs-lookup"><span data-stu-id="9f163-342">Share this information with the appropriate contacts in your organization.</span></span>
-- <span data-ttu-id="9f163-343">若要深入了解授權更新和價值主張，請參閱＜其他資源＞一節和 PartnerSource 中的整備內容。</span><span class="sxs-lookup"><span data-stu-id="9f163-343">If you want to dig deeper into the licensing updates and the value proposition, familiarize yourself with our readiness content in the Additional resources section and on PartnerSource.</span></span>
+<span data-ttu-id="a8d8d-312">Biz Apps 和 Power Platform</span><span class="sxs-lookup"><span data-stu-id="a8d8d-312">Biz Apps and Power Platform</span></span>
 
-### <a name="questions"></a><span data-ttu-id="9f163-344">有任何問題嗎？</span><span class="sxs-lookup"><span data-stu-id="9f163-344">Questions?</span></span>
+<span data-ttu-id="a8d8d-313">我們已於 2020 年 1 月 2 日發行下列 Biz Apps 和 Power Platform 供應項目：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-313">On January 2, 2020, the following Biz Apps and Power Platform offers were released:</span></span>
 
-- <span data-ttu-id="9f163-345">如果您有與使用 Microsoft 作業密切相關的問題，請[連絡支援服務](https://partner.microsoft.com/pcv/servicerequests/create)。</span><span class="sxs-lookup"><span data-stu-id="9f163-345">If you have any questions strictly relating to your operations with Microsoft, [contact Support](https://partner.microsoft.com/pcv/servicerequests/create).</span></span>
+- <span data-ttu-id="a8d8d-314">現有 PowerApps 個別應用程式方案已推出學生供應項目</span><span class="sxs-lookup"><span data-stu-id="a8d8d-314">Introduction of student offers for existing PowerApps per-app plan</span></span>
 
-### <a name="change-log"></a><span data-ttu-id="9f163-346">變更記錄</span><span class="sxs-lookup"><span data-stu-id="9f163-346">Change log</span></span>
+<span data-ttu-id="a8d8d-315">如需詳細的 SKU 資訊，請參閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offers 1-1-20" 檔案。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-315">See the detailed SKU information in the file "Dynamics CSP Offers 1-1-20" [here](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).</span></span>
 
-- <span data-ttu-id="9f163-347">2020 年 1 月 2 日：新通知。</span><span class="sxs-lookup"><span data-stu-id="9f163-347">January 2, 2020: New communication.</span></span>
+<span data-ttu-id="a8d8d-316">我們將會在 2020 年 2 月 1 日發行下列新的與更新的 Biz Apps 和 Power Platform 供應項目：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-316">On February 1, 2020, the following new and updated offers for Biz Apps and Power Platform will be released:</span></span>
+
+<span data-ttu-id="a8d8d-317">Human Resources 的新供應項目</span><span class="sxs-lookup"><span data-stu-id="a8d8d-317">Human Resources new offers</span></span>
+
+- <span data-ttu-id="a8d8d-318">Dynamics 365 HR 使用者可以購買 Dynamics 365 Unified Ops Additional DB/File Capacity USL 供應項目</span><span class="sxs-lookup"><span data-stu-id="a8d8d-318">Dynamics 365 HR users can purchase Dynamics 365 Unified Ops Additional DB/File Capacity USL offers</span></span>
+- <span data-ttu-id="a8d8d-319">Dynamics 365 HR Self-Serve 供應項目</span><span class="sxs-lookup"><span data-stu-id="a8d8d-319">Dynamics 365 HR Self-Serve offers</span></span>
+- <span data-ttu-id="a8d8d-320">Dynamics 365 Human Resources (使用者、租用戶)</span><span class="sxs-lookup"><span data-stu-id="a8d8d-320">Dynamics 365 Human Resources (user, tenant)</span></span>
+
+<span data-ttu-id="a8d8d-321">供應鏈管理的 loT 智慧 (新供應項目)</span><span class="sxs-lookup"><span data-stu-id="a8d8d-321">loT Intelligence for Supply Chain Management new offers</span></span>
+
+- <span data-ttu-id="a8d8d-322">IoT 智慧案例 (租用戶層級) - 包含最多六個案例與十部機器的權利 (必須要先有供應鏈/Unified Ops Management 使用者基本或附加 SKU)</span><span class="sxs-lookup"><span data-stu-id="a8d8d-322">IoT Intelligence Scenario (tenant level)—includes entitlement up to six scenarios and ten machines (prerequisite is Supply Chain/Unified Ops Management user base or attach SKU)</span></span>
+- <span data-ttu-id="a8d8d-323">IoT Intelligence Additional Machine (租用戶層級) - IoT 智慧案例的附加元件 (此供應項目的先決條件)，可提供另外 10 部機器的授權</span><span class="sxs-lookup"><span data-stu-id="a8d8d-323">IoT Intelligence Additional Machine (tenant level)—add-on to the IoT Intelligence Scenario (the prerequisite of this offer) which provides licensing for 10 additional machines</span></span>
+
+<span data-ttu-id="a8d8d-324">eCommerce 名稱變更</span><span class="sxs-lookup"><span data-stu-id="a8d8d-324">eCommerce name change</span></span>
+
+- <span data-ttu-id="a8d8d-325">Dynamics 365 Retail 供應項目將會變更為 Dynamics 365 Commerce。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-325">Dynamics 365 Retail offers will be changed to Dynamics 365 Commerce.</span></span>
+
+<span data-ttu-id="a8d8d-326">Customer Insights 授權更新</span><span class="sxs-lookup"><span data-stu-id="a8d8d-326">Customer Insights license update</span></span>
+
+<span data-ttu-id="a8d8d-327">下列 SKU 的授權類型將會從 AddOn 變更為 NON：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-327">The following SKUs will have the licensing type changed from AddOn to NON:</span></span>
+
+- <span data-ttu-id="a8d8d-328">Dyn365ECstmrInsights ShrdSvr ALNG SubsVL MVL</span><span class="sxs-lookup"><span data-stu-id="a8d8d-328">Dyn365ECstmrInsights ShrdSvr ALNG SubsVL MVL</span></span>
+- <span data-ttu-id="a8d8d-329">Dyn365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL</span><span class="sxs-lookup"><span data-stu-id="a8d8d-329">Dyn365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL</span></span>
+
+<span data-ttu-id="a8d8d-330">Dynamics 365 Human Resources 將不再提供下列供應項目：</span><span class="sxs-lookup"><span data-stu-id="a8d8d-330">The following offers will no longer be available for Dynamics 365 Human Resources:</span></span>
+
+- <span data-ttu-id="a8d8d-331">Dynamics 365 Talent、來自 SA 的 Dynamics 365 for Talent、Attract、Onboard 和 Comprehensive Hiring 供應項目</span><span class="sxs-lookup"><span data-stu-id="a8d8d-331">Dynamics 365 Talent, Dynamics 365 for Talent from SA, Attract, Onboard, and Comprehensive Hiring offers</span></span>
+
+<span data-ttu-id="a8d8d-332">待宣布的 SKU 資訊</span><span class="sxs-lookup"><span data-stu-id="a8d8d-332">Pending SKU information</span></span>
+
+<span data-ttu-id="a8d8d-333">Microsoft 將會在 2020 年 2 月 1 日變更某些產品系列和供應項目的名稱，以使現有 Dynamics 365 及 Power Platform 供應項目的命名和其他管道及區域中使用的命名一致。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-333">On February 1, 2020, Microsoft will change the names of some product families and offers to align the naming for existing Dynamics 365 and Power Platform offers to the name used in other channels and regions.</span></span>
+
+<span data-ttu-id="a8d8d-334">如需具體變更，請參閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)的 "Dynamics CSP Offer Name Changes – Feb 2020" 檔案。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-334">See the specific changes in the file "Dynamics CSP Offer Name Changes – Feb 2020" [here](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/).</span></span>
+
+### <a name="additional-resources"></a><span data-ttu-id="a8d8d-335">其他資源</span><span class="sxs-lookup"><span data-stu-id="a8d8d-335">Additional resources</span></span>
+
+- [<span data-ttu-id="a8d8d-336">Dynamics 365 首頁</span><span class="sxs-lookup"><span data-stu-id="a8d8d-336">Dynamics 365 home page</span></span>](https://dynamics.microsoft.com/)
+- [<span data-ttu-id="a8d8d-337">混合實境應用程式指南首頁</span><span class="sxs-lookup"><span data-stu-id="a8d8d-337">Mixed Reality Apps Guide home page</span></span>](https://dynamics.microsoft.com/mixed-reality/guides/)
+- [<span data-ttu-id="a8d8d-338">Biz Apps Fraud 首頁</span><span class="sxs-lookup"><span data-stu-id="a8d8d-338">Biz Apps Fraud home page</span></span>](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
+- [<span data-ttu-id="a8d8d-339">Power Platform 產品首頁</span><span class="sxs-lookup"><span data-stu-id="a8d8d-339">Power Platform Products home page</span></span>](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
+- [<span data-ttu-id="a8d8d-340">FY20 PowerApps 與 Flow 授權更新</span><span class="sxs-lookup"><span data-stu-id="a8d8d-340">FY20 Power Apps and Flow Licensing Updates</span></span>](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [<span data-ttu-id="a8d8d-341">Microsoft Dynamics 365 授權</span><span class="sxs-lookup"><span data-stu-id="a8d8d-341">Microsoft Dynamics 365 Licensing</span></span>](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
+
+### <a name="next-steps"></a><span data-ttu-id="a8d8d-342">接下來的步驟</span><span class="sxs-lookup"><span data-stu-id="a8d8d-342">Next steps</span></span>
+
+- <span data-ttu-id="a8d8d-343">請與貴組織內適當的連絡人分享這項資訊。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-343">Share this information with the appropriate contacts in your organization.</span></span>
+- <span data-ttu-id="a8d8d-344">若要深入了解授權更新和價值主張，請參閱＜其他資源＞一節和 PartnerSource 中的整備內容。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-344">If you want to dig deeper into the licensing updates and the value proposition, familiarize yourself with our readiness content in the Additional resources section and on PartnerSource.</span></span>
+
+### <a name="questions"></a><span data-ttu-id="a8d8d-345">有任何問題嗎？</span><span class="sxs-lookup"><span data-stu-id="a8d8d-345">Questions?</span></span>
+
+- <span data-ttu-id="a8d8d-346">如果您有與使用 Microsoft 作業密切相關的問題，請[連絡支援服務](https://partner.microsoft.com/pcv/servicerequests/create)。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-346">If you have any questions strictly relating to your operations with Microsoft, [contact Support](https://partner.microsoft.com/pcv/servicerequests/create).</span></span>
+
+### <a name="change-log"></a><span data-ttu-id="a8d8d-347">變更記錄</span><span class="sxs-lookup"><span data-stu-id="a8d8d-347">Change log</span></span>
+
+- <span data-ttu-id="a8d8d-348">2020 年 1 月 2 日：新通知。</span><span class="sxs-lookup"><span data-stu-id="a8d8d-348">January 2, 2020: New communication.</span></span>
 
 _________________
