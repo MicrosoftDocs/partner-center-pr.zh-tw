@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cd42d0f1444a0b8a48e5e4892791940cb4928a76
-ms.sourcegitcommit: aea56f82c482a932f71c87801c359a6646b2a921
+ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
+ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "88560216"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88799823"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>查看、管理及匯出獎勵方案詳細資料
 
@@ -198,6 +198,14 @@ ms.locfileid: "88560216"
 
 |**資料行名稱**   |**說明**   |
 |------------------|:-------------------------------------|
+| AR 合規性 | 當合作夥伴未按時支付 Microsoft 發票時，可減少收益的調整 |
+| 共同作業變換 | 將共同作業收益轉移至另一個期間，或將共同作業收益轉換為返利的調整 |
+| Ops 調整 Microsoft 不正確的計算機 | 修正 miscalculations 的調整 |
+| Ops 調整 Microsoft 不正確的註冊 | 註冊相關 miscalculations 的調整 |
+| 原則例外狀況 | 覆寫程式規則的調整  |
+| Ops 調整 | 更正 Microsoft 系統計算錯誤的調整 |
+| 上一個期間的收益 | 在目前收益期間以外的收入調整 |
+|  (訂用帳戶) MCI/CSP 的夥伴對應 | 更正訂用帳戶對齊的調整 |
 |customerId   |客戶識別碼   |
 |customerName   |交易客戶名稱   |
 |earningAmount   |以原始交易貨幣來贏得金額   |
@@ -267,7 +275,7 @@ ms.locfileid: "88560216"
 >[!NOTE]
 >交易摘要報表將不會包含比60天新的訂用帳戶的客戶和訂用帳戶資訊，或者，如果耗用量收入小於1美分。
 
-|資料行名稱 |描述 |
+|欄名 |描述 |
 |------ |:-----------|
 |  earningId | 每項收益的唯一識別碼  |
 |  participantId | 根據該計畫獲取收益的合作夥伴主要身分識別  |

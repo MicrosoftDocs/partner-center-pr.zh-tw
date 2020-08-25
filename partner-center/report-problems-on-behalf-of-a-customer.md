@@ -9,21 +9,25 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01a4fb132d2ec396bfe45e22cccdabc7f2d15a2e
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
+ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811318"
+ms.lasthandoff: 08/24/2020
+ms.locfileid: "88781830"
 ---
-# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客戶回報服務問題，包括何時和如何執行這項操作
+# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客戶回報服務問題-包括何時及如何進行
 
 **適用於**
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
-如果您的客戶遇到無法解決的服務問題，而且符合[向 Microsoft 呈報問題](escalate-problems-to-microsoft.md)中所述的準則，您可以為他們提出支援票證。 這個程序對於向上呈報帳單問題或爭議，以及詐騙的疑慮也很有用。 
+**適當的角色**
+
+- 間接提供者
+
+如果您的客戶遇到無法解決的服務問題，且符合將 [問題呈報給 Microsoft](escalate-problems-to-microsoft.md)所述的準則，您的間接提供者可以為其提出支援票證。 這個程序對於向上呈報帳單問題或爭議，以及詐騙的疑慮也很有用。
 
 ## <a name="submit-a-service-request-for-a-customer"></a>為客戶提交服務要求
 
@@ -34,14 +38,14 @@ ms.locfileid: "87811318"
 3. 從 [新增要求]**** 下拉式功能表中，選取 **Azure** 或 **Office 365、Dynamics 365、Enterprise Mobility Suite**。 系統會將您重新導向至 Microsoft Azure 入口網站或 Office 365 系統管理中心。
 
 >[!NOTE]
->在 CSP 中交易 Dynamics 365 的支援作業合作夥伴，必須維護合作夥伴 (ASfP) 方案或更高版本的支援合約。 需要此支援合約，才能代表 CSP 客戶提交 Dynamics 365 事件。 [深入瞭解](https://partner.microsoft.com/support/partnersupport)支援協定選項。
+>需要交易 Dynamics 365 in CSP 的支援作業合作夥伴，才能維持 (ASfP) 方案或更高版本的支援合約。 需要有此支援合約，才能代表 CSP 客戶提交 Dynamics 365 事件。 [深入瞭解](https://partner.microsoft.com/support/partnersupport) 支援合約選項。
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
 > [!IMPORTANT]
 > 當您需要在 Azure 中為您的客戶建立服務要求時，請注意下列事項：
 >
->- 為了讓您可以替 Azure 中的客戶建立服務要求，您的間接提供者必須授與您對客戶 Azure 帳戶的存取權。 這與代表 Office 365 的客戶進行管理有所不同。
+>- 為了讓您成為間接轉銷商，在 Azure 中為您的客戶建立服務要求，您的間接提供者必須授與您客戶的 Azure 帳戶存取權。 這與代表 Office 365 的客戶進行管理有所不同。
 >
 >- 雖然合作夥伴中心的技術支援系統管理員無法在 Azure 服務入口網站中建立服務要求，但他們可以在 Azure 服務入口網站中建立支援群組，並將記錄支援要求的許可權授與該群組。
 
@@ -55,14 +59,14 @@ ms.locfileid: "87811318"
 
 3. 稍後，選取 [管理支援要求]****，以在 Microsoft Azure 入口網站中檢閱您客戶的服務要求。
 
-當您沒有該客戶的系統管理員許可權時，您可能需要為客戶建立支援要求。 在下列兩個案例中的其中一種情況下就可能發生這種情形：
+當您沒有該客戶的系統管理員許可權時，可能需要為客戶建立支援要求。 在下列兩個案例中的其中一種情況下就可能發生這種情形：
 
 - 當您第一次建立關聯性時，不會要求系統管理員許可權。
-- 您只管理客戶的 Azure 訂用帳戶，因此您不具有系統管理許可權。
+- 您只會管理客戶的 Azure 訂用帳戶，因此您沒有系統管理許可權。
  
 在上述任一情況下，您都可以使用下列程序來建立支援要求。 
 
-1. 從合作夥伴中心的 [帳戶] 頁面複製客戶的功能變數名稱。
+1. 從合作夥伴中心中的 [帳戶] 頁面複製客戶的功能變數名稱。
 
 2. 移至 https://portal.azure.com/[customerdomainname]。 
 
@@ -73,24 +77,24 @@ ms.locfileid: "87811318"
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite
 
-1. 在 [**建立服務要求**] 區段中，選擇適當的支援類別。 您可能需要選取 [**更多 ...** ] 以查看其他文章。
+1. 在 [ **建立服務要求** ] 區段中，選擇適當的支援類別。 您可能需要選取 [ **更多] ...** 才能查看其他文章。
 
 2. 完成服務要求表單，然候選取 [提交]****。
 
    > [!TIP]
    > 請務必包含您的連絡資訊，而非客戶連絡資訊。
 
-3. 稍後，前往 Office 365 系統管理中心並選取 [**查看所有支援票證**]，以檢查您客戶的服務要求。
+3. 稍後，前往 Office 365 系統管理中心，然後選取 [ **查看所有支援票證**]，以查看客戶的服務要求。
 
 ### <a name="support-for-commercial-marketplace-products"></a>商業市集產品的支援
 
-Microsoft 不會供應商業 marketplace 產品的產品支援。 您必須洽詢獨立軟體廠商 (ISV) 發佈產品以取得支援。
+Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要與已發佈產品的獨立軟體廠商 (ISV) 聯繫以取得支援。
 
 若要尋找 ISV 的連絡人資訊：
 
 1.  在 [Marketplace]**** 頁面上，選取您需要協助的產品。
 
-2.  在產品的頁面上，您會找到支援連絡人資訊。 這可能是下列一個或多個選項：
+2.  在產品的頁面上，您會找到支援連絡人資訊。 這可能是下列其中一個或多個選項：
 
     - ISV 網站上支援進入點的連結
     - 支援電子郵件
@@ -100,9 +104,9 @@ Microsoft 不會供應商業 marketplace 產品的產品支援。 您必須洽�
 
 **支援權益包含哪些內容？**
 
-服務要求應透過合作夥伴中心來進行歸檔。 這些版本適用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企業行動套件。 身為參與雲端解決方案提供者計畫的合作夥伴，您可以期待您的重大問題獲得優先回應。
+服務要求應該透過合作夥伴中心進行歸檔。 適用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企業行動套件。 身為參與雲端解決方案提供者計畫的合作夥伴，您可以期待您的重大問題獲得優先回應。
 
-CSP 支援權益中不包含您自己的合作夥伴租使用者支援。 不過，Office 365、Microsoft Dynamics CRM Online 和企業行動套件不會向合作夥伴或客戶收取個別的支援訂用帳戶費用。 Azure 會收取費用，但如果您有權簽署雲端支援或其他 Microsoft 合作夥伴網路 (MPN) 權益，您可以使用這些功能來支付費用。
+對於您自己的合作夥伴租使用者的支援，不包含在 CSP 支援權益中。 不過，Office 365、Microsoft Dynamics CRM Online 和企業行動套件不會針對合作夥伴或客戶收取個別的支援訂用帳戶費用。 Azure 會收取費用，但如果您有權簽署雲端支援或其他 Microsoft 合作夥伴網路 (MPN) 權益，您可能會使用這些費用來支付費用。
 
 這項權益適用於參與雲端解決方案提供者計畫的所有合作夥伴 (無論是付費或在試用期內)。 此套件中也包含了免費的帳單和訂閱管理支援。
 
@@ -110,32 +114,32 @@ CSP 支援權益中不包含您自己的合作夥伴租使用者支援。 不過
 
 我們的初始回應時間取決於已提交之事件的嚴重性。 您在提交服務要求時將會指出該問題對業務造成影響的程度，這將會決定該問題的嚴重性。
 
-**技術中斷修復事件**的初始回應時間：
+**技術修復事件**的初始回應時間：
 
 - 嚴重影響 (嚴重性 A)：2 小時 (顯著的服務中斷或品質降低。 生產服務關閉)。
-- 中等影響 (嚴重性 B) ：四小時 (仲裁遺失或服務效能降低。 生產服務部分受到影響。 ) 
--  (嚴重性 C) 的最小影響：8小時 (最少遺失或降低服務效能。 服務仍在使用中，或非生產服務受到影響。 ) 
+- 中等影響力 (嚴重性 B) ：四小時 (仲裁遺失或服務降級。 生產服務部分受影響。 ) 
+-  (嚴重性 C) 的影響下限：八小時 (減少遺失或降低服務效能。 服務仍然可用或非生產服務受到影響。 ) 
 
 初始回應時間僅提供英文支援。 當地語言支援僅於營業時間提供。
-對於落在支援權利界限內但未視為協助修正事件的事件，初始回應時間最多可能是一個工作天。
+對於落在支援權利之界限內但未被視為修復事件的事件，初始回應時間可能會是一個工作天。
 
 **我能透過電話提交服務要求嗎？**
 
-否，此計畫未提供電話支援。
+否，不會提供此計畫的電話支援。
 
 **如果我略過合作夥伴中心登入 Azure 入口網站，會發生什麼事？**
 
-如果您直接登入 Microsoft Azure 入口網站，就會在您自己的內容中看到中心，而不是客戶的內容。 這就是為什麼只有在為自己的訂用帳戶建立服務要求時，才應該直接登入 Microsoft Azure 入口網站。
+如果您直接登入 Microsoft Azure 入口網站，就會在您自己的內容中（而不是客戶的內容）中查看中心。 這就是為什麼您應該只在為自己的訂用帳戶建立服務要求時，才直接登入 Microsoft Azure 入口網站。
 
-您的 CSP 方案支援權利不會提供您自己的合作夥伴訂用帳戶支援。 因此，當您建立的服務要求考慮自己的合作夥伴訂用帳戶時，您必須提供有效的支援方案權利。 範例包括 MPN 合約識別碼、Premier 或 Azure 支援計畫。 如需詳細資訊，請參閱[Azure 支援常見問題](https://go.microsoft.com/fwlink/?LinkId=717532)。
+您的 CSP 方案支援權利無法在您自己的合作夥伴訂用帳戶上提供支援。 因此，當您建立的服務要求與您自己的夥伴訂用帳戶相關時，您必須提供有效的支援方案權利。 範例包括 MPN 合約識別碼、頂級或 Azure 支援計畫。 如需詳細資訊，請參閱 [Azure 支援常見問題](https://go.microsoft.com/fwlink/?LinkId=717532)。
 
 **當我登入 Office 365 系統管理中心入口網站並略過合作夥伴中心時，會發生什麼事？**
 
-如果您直接登入 Office 365 系統管理中心，則會在您自己的內容中觀看中心，而不是客戶的內容。 這就是為什麼您在為自己的訂用帳戶建立服務要求時，只應直接登入 Office 365 系統管理中心的原因。
+如果您直接登入 Office 365 系統管理中心，您就會在自己的內容中（而不是客戶的內容）中查看中心。 這就是為什麼您在為自己的訂用帳戶建立服務要求時，只會直接登入 Office 365 系統管理中心的原因。
 
 **如何取得額外的 Dynamics 365 支援？**
 
-如果您遇到與下列相關的問題： Dynamics 365 方案訂閱、授權、帳單、財務 & 作業、Dynamics 365 產品授權或您需要進一步的技術支援：
+如果您遇到與下列相關的問題： Dynamics 365 方案訂用帳戶、授權、帳單、財務 & 營運、Dynamics 365 產品授權，或您需要進一步的技術支援：
  
 連絡 [Dynamics 支援](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
 
