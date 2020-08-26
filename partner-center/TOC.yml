@@ -9,6 +9,8 @@
       href: mpn-create-a-partner-center-account.md
     - name: 取得公司電子郵件地址
       href: buy-email-domain.md
+    - name: 針對帳戶設定進行疑難排解
+      href: troubleshoot-account-sign-n.md
     - name: 移至合作夥伴中心
       items:
         - name: 從 PAC 移動 - 概觀
@@ -35,6 +37,8 @@
           href: mpn-get-action-pack.md
         - name: 續訂您的供應項目方案
           href: renew-mpn-offers.md
+        - name: 尋找您的 MPN 權益
+          href: mpn-find-benefits.md
     - name: 專長認證
       href: learn-about-competencies.md
     - name: 進階專長
