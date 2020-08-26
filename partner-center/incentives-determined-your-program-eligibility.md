@@ -8,25 +8,25 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 06/29/2020
-ms.openlocfilehash: 20045f321bd3fea5410fff148e8d9fb58dacef50
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 0f274703d3eb52c573c3f7f5043b73be7bc0bfa7
+ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303224"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88893453"
 ---
-# <a name="program-eligibility"></a>方案資格
+# <a name="partner-incentives-overview-and-eligibility"></a>合作夥伴獎勵總覽和資格 
 
-適用於：
+**適用**于：
 
 - 合作夥伴中心
 
-每個獎勵計劃都有特定的資格需求。 這些計劃資格需求的設計，是為了確保您已具備已簽署所有適用的合約、已取得專長認證、收入預測，以及獎勵計劃成功所需的其他必要條件。
-
-適當的角色：
+**適當的角色**：
 
 - 全域系統管理員
 - 獎勵管理員
+
+ 每個獎勵計劃都有特定的資格需求。 這些計劃資格需求的設計，是為了確保您已具備已簽署所有適用的合約、已取得專長認證、收入預測，以及獎勵計劃成功所需的其他必要條件。
 
 ## <a name="determining-your-program-eligibility"></a>判斷您的計劃資格
 
@@ -38,6 +38,10 @@ ms.locfileid: "88303224"
 
 2. 在左側導覽的 [獎勵] 下，選取 [概觀]。 [計劃概觀] 頁面隨即開啟。
 
-3. 選取您要允許的計劃，然後開啟該頁面。
+3. 選取您要的程式。
 
 4. 在 [計劃詳細資料] 欄位中，選取 [計劃指南]。
+
+## <a name="next-steps"></a>後續步驟
+
+-[獎勵計畫的支出和稅務設定檔](incentives-create-and-manage-your-payout-and-tax-profiles.md)

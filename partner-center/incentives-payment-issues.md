@@ -1,31 +1,32 @@
 ---
 title: 針對付款和收益問題進行疑難排解
 ms.topic: article
-ms.date: 06/29/2020
+ms.date: 08/25/2020
 description: 瞭解如何解決問題，例如遺漏或不正確的收益、資格問題，以及如何調解獎勵收益。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9cb278d51235ef7c306691e2926925b0a2396e7e
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
+ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303154"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88893465"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>針對付款和收益問題進行疑難排解
 
-適用於：
+**適用**于：
 
 - 合作夥伴中心
 
-本文將協助您解決獎勵計畫中的任何收益或付款問題。 涵蓋的主題包括付款的時間、檢查您的收益資格，以及正確設定您的付款和稅務設定檔的重要性。
-
-適當的角色：
+**適當的角色**：
 
 - 獎勵管理員
+
+
+本文將協助您解決獎勵計畫中的任何收益或付款問題。 涵蓋的主題包括付款的時間、檢查您的收益資格，以及正確設定您的付款和稅務設定檔的重要性。
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>誰可以為我的組織建立或更新付款和稅務設定檔？
 
@@ -37,7 +38,7 @@ ms.locfileid: "88303154"
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>我要如何知道是否正確填寫了支出與稅務設定檔？
 
-您的註冊狀態會顯示在 [概觀] 頁面上。 當您完成建立設定檔時，您的狀態將會 **驗證註冊**。 驗證您的資訊之後，您的狀態就會變更為 [已 **註冊**]。 這表示您的支出和稅金設定檔和您的註冊已成功完成。
+您的註冊狀態會顯示在 [概觀] 頁面上。 當您完成建立設定檔時，您的狀態將會 **驗證註冊**。 驗證您的資訊之後，您的狀態就會變更為 [已 **註冊**]。 此狀態表示您的付款和稅務設定檔以及您的註冊已成功完成。
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>為什麼我需要更新稅務設定檔，才能將搭配新的獎勵計畫加以使用？
 
@@ -96,7 +97,32 @@ Microsoft 目前不支援刪除現有支出與稅務設定檔的選項。
 
 - **您可能不符合需求。**  請檢查您是否符合所需獎勵的[資格](#my-payment-is-missing-or-incorrect)且營收規則合格。
 
-- **可能會有不一致的情況。**  如果您同時符合合作夥伴資格和合格收益規則，而且仍然看到不正確的收益，請參閱[如何找出收益與付款的不一致之處](https://support.microsoft.com/help/4534675)，以取得所有收益和個別交易的步驟。
+- **可能會有不一致的情況。**  如果您同時符合合作夥伴資格和合格的收入規則，而且仍看到不正確的收益，下列資訊可協助您取得資料。
+ 
+您可以在合作夥伴中心**中，按一下**導覽列上的付款圖示，在合作夥伴中心中查看**交易**歷程或**付款**。 
+
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="交易資訊":::
+
+交易歷程記錄視圖中的每月收益金額可能不會與針對特定月份所收到的付款金額相符。 這是因為先前的收入週期會在未來的款項中重新計算和調整。
+
+例如，在2019年9月所處理的2019年1月收益的調整，將不會反映在9月2019的收益金額中。不過，當收到2019年9月的付款時，它會包含在九月套用的1月2019的調整。
+在此案例中，您需要下載交易詳細資料，以取得您付款中包含的所有收益的完整觀點。  此外，您可以流覽至 [付款] 視圖，以下載每項付款的交易。
+
+### <a name="transaction-history"></a>交易記錄
+
+此視圖可讓您依月份、依狀態的收益和交易詳細資料，以及每筆交易的付款狀態，來查看收益和付款趨勢。 只有您已獲指派獎勵使用者或系統管理員角色的程式和 MPN 識別碼才會顯示資料。
+
+### <a name="payments"></a>付款
+
+此視圖可讓您查看所有程式和 MPN 識別碼的付款。 只有您已獲指派獎勵使用者或系統管理員角色的程式和 MPN 識別碼才會顯示資料。 在此檢視中，您可以依款項下載匯款或檢視交易詳細資料。 
+
+向下滾動至 [付款] 區段 **清單** ，依明細來查看付款資訊，其中包含以當地貨幣表示的收益和付款金額。 按一下 [ **付款匯款** ] 以下載匯款信件。 按一下 [ **View** ] 以開啟新的索引標籤，並查看特定付款的交易層級詳細資料。 
+
+若要將交易詳細資料匯出至 Excel，請按一下 [ **開始下載** ]，然後按一下 [ **匯出資料**]。 注意：所有選取的篩選準則都會套用至匯出的資料。 當狀態變更為 [已完成] 之後，您可以按一下 [下載]，然後遵循提示來匯出詳細的交易報表。 如果狀態未在五分鐘內更新，請重新整理頁面。 
+
+### <a name="missing-or-incorrect-earnings-and-payments"></a>遺漏或不正確的收益與付款
+
+如果您找不到付款或交易詳細資料，請檢查是否已套用正確的篩選準則。 某些程式名稱已變更，可能需要多個選擇 (例如 CSP 1T 直接夥伴、CSP 直接帳單夥伴) 。
 
 如果這些動作都沒有説明，但您仍然找不到收益，或仍認為收益不正確，請聯絡 [支援](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)人員。
 
@@ -110,8 +136,6 @@ Microsoft 目前不支援刪除現有支出與稅務設定檔的選項。
 
 3. **請確認您已符合需求。**  請檢查您是否符合所需獎勵的[資格](#my-payment-is-missing-or-incorrect)且營收規則合格。
 
-4. **判斷是否有不一致之處。**  如果您同時符合合作夥伴資格和合格收益規則，而且仍然看到不正確的收益，請參閱[如何找出收益與付款的不一致之處](https://support.microsoft.com/help/4534675)，以取得所有收益和個別交易的步驟。
-
 如果這些動作沒有幫助，而且您的收益仍不一致，請連絡[支援](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)。
 
 ## <a name="where-can-i-find-my-rates"></a>在哪裡可以找到我的費率？
@@ -120,4 +144,8 @@ Microsoft 目前不支援刪除現有支出與稅務設定檔的選項。
 
 2. 在您登入之後，請向下捲動以存取您感興趣計畫的文件，然後按一下個別計畫的文件連結。
 
-3. 請參閱檔中的「 **程式結構和費率**」一節。
+3. 在檔中，請參閱「 **程式結構和費率**」一節。
+
+## <a name="next-steps"></a>後續步驟
+
+- [管理合作宣告](incentives-managing-co-op-claims.md)
