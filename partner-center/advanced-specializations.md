@@ -4,54 +4,55 @@ ms.topic: article
 ms.date: 07/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 強化合作夥伴目錄中的商務設定檔。 瞭解如何獲得先進的特製化，以及您的金級/銀級專長認證。
+description: 強化夥伴目錄中的商務設定檔。 瞭解如何以金級/銀級專長認證來獲得先進的特製化。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80a44e50134f9bee335627f66cc27beee8a93926
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
+ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527014"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "88942560"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>獲得先進的特製化，展現專業知識並向客戶脫穎而出 
+# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>獲得先進的特製化，以展示專長並與客戶脫穎而出 
 
-藉由贏得先進的特製化，來與客戶區別。 Advanced 特製化是一種驗證功能，可讓您在特定的解決方案區域中提供高精確度的服務。 客戶會在合作夥伴目錄中，看到您的商務設定檔顯示您的 advanced 特製化。 [深入了解](https://partner.microsoft.com/membership/advanced-specialization)。
+藉由獲得先進的特製化來與客戶區隔。 「先進特製化」是驗證您在特定解決方案領域提供高精確度服務的能力。 客戶會看到您的 advanced 特製化顯示在合作夥伴目錄中的商務設定檔上。 [深入了解](https://partner.microsoft.com/membership/advanced-specialization)。
 
-## <a name="use-partner-center-to-move-through-the-application-process"></a>使用合作夥伴中心在應用程式流程中移動
+## <a name="use-partner-center-to-move-through-the-application-process"></a>使用合作夥伴中心在應用程式進程間移動
 
-若要獲得先進的特製化，您的公司必須已取得一致的金級專長認證，並符合其他需求。 應用程式進程有兩個步驟。 首先，您的公司符合必要條件需求。 第二，一旦符合必要條件需求，就會啟用 [**排程審核**] 按鈕。 接著，您必須傳遞 audit。 
+若要獲得先進的特製化，您的公司必須獲得一致的金級專長認證，並符合其他需求。 應用程式進程有兩個步驟。 首先，您的公司符合必要條件需求。 其次，一旦符合必要條件需求之後，就會啟用 [ **排程審核** ] 按鈕。 然後您必須通過審核。 
 
-## <a name="advanced-specialization-requirements-that-include-an-audit-an-example"></a>包括 audit 的先進特製化需求：範例
+## <a name="advanced-specialization-requirements-that-include-an-audit-an-example"></a>包含 audit 的 Advanced 特殊化需求：範例
 
-如果您對名為**Web 應用程式現代化的**先進特製化感興趣 Microsoft Azure，請從合作夥伴中心的功能表中選取它。 您會進入 [必要條件] 頁面。
+如果您有興趣瞭解將 **Web 應用程式現代化為 Microsoft Azure**的 advanced 特製化，請從 [合作夥伴中心] 功能表中選取它。 您會進入 [必要條件] 頁面。
 
 :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="先決條件":::
 
 
-在您符合所有必要條件之前，您的狀態仍**不會是 [已啟動]。** 當您符合必要條件時，就會啟用 [**排程審核**] 按鈕。 您需要針對下列 Azure advanced 特製化，使用協力廠商審核程式完成 audit：
+在您符合所有必要條件之前，您的狀態仍 **不會啟動。** 當您符合必要條件之後，就會啟用 [ **排程審核** ] 按鈕。 您必須使用協力廠商的審核程式來完成審核，以進行下列 Azure advanced 特殊化：
  
 - Windows Server 和 SQL Server 遷移至 Microsoft Azure
 - Linux 和開放原始碼資料庫移轉至 Microsoft Azure
 - 資料倉儲遷移至 Microsoft Azure
 - Microsoft Azure 上的 Kubernetes
-- Microsoft Azure 的 Web 應用程式現代化
+- 將 Web 應用程式現代化為 Microsoft Azure
+- Windows 虛擬桌面
 
 
-當您完成所有需求時，您的**狀態會是 [作用中]**。 [作用中] 狀態會自動啟用您的**商務設定檔**上的標籤，搜尋[尋找解決方案提供者](https://www.microsoft.com/solution-providers/home)的所有客戶都可以看到此標記。
+當您完成所有需求時，您的 **狀態會是 [作用中]**。 [作用中狀態] 會自動在您的 **商務設定檔** 上啟用標記，而所有客戶都可以看到搜尋 [解決方案提供者](https://www.microsoft.com/solution-providers/home)。
 
 ## <a name="prerequisites-that-include-customer-references-an-example"></a>包含客戶參考的必要條件：範例
 
-需要客戶參考的先進特製化範例，就是**Microsoft 團隊的會議和會議室**。 除了黃金專長認證、認證和效能需求之外，您還必須提供三個客戶參考，以示範您部署和管理的能力。
+需要客戶參考的先進特製化範例是 **Microsoft 團隊的會議和會議室**。 除了金級專長認證、認證和效能需求之外，您還必須提供三個客戶參考，以示範您部署和管理的能力。
 
 :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="先決條件":::
 
-在您符合所有必要條件之前，您的狀態仍**不會是 [已啟動]。** 當您完成所有需求時，您的**狀態會是 [作用中]**。 [作用中] 狀態會自動啟用您的**商務設定檔**上的標籤，搜尋[尋找解決方案提供者](https://www.microsoft.com/solution-providers/home)的所有客戶都可以看到此標記。
+在您符合所有必要條件之前，您的狀態仍 **不會啟動。** 當您完成所有需求時，您的 **狀態會是 [作用中]**。 [作用中狀態] 會自動在您的 **商務設定檔** 上啟用標記，而所有客戶都可以看到搜尋 [解決方案提供者](https://www.microsoft.com/solution-providers/home)。
 
 ## <a name="next-steps"></a>後續步驟
 
-- 瞭解取得 Microsoft 專長認證需求[microsoft 專長和銀級成員資格的需求](learn-about-competencies.md)
+- 深入瞭解 microsoft 專長認證需求 [microsoft 專長認證需求-金級和銀級成員資格](learn-about-competencies.md)
 
-- 深入瞭解[advanced 特殊化](https://partner.microsoft.com/membership/advanced-specialization)。
+- 深入瞭解 [advanced](https://partner.microsoft.com/membership/advanced-specialization)特製化。
