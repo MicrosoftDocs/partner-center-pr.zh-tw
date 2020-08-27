@@ -9,20 +9,20 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 93e911f69f5f311739b64ac4c99e41f804d1693a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 20ea64ffa15ae5f2370e9194bd3f9907c498a4e9
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998389"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846918"
 ---
 # <a name="renew-your-mpn-offers-for-microsoft-action-pack-and-competencies-during-the-renewal-window"></a>在續訂時間範圍內續訂 MPN 供應項目以取得 Microsoft 行動套件與專長認證
 
-**適用於**
+### <a name="applies-to"></a>適用於
 
 - 合作夥伴中心
 
-Microsoft 行動寶盒及專長認證是需要年度續約的 Microsoft 合作夥伴網路成員所適用的供應項目。 您的訂閱續約時間範圍會從您購買日期的週年日加 1 天開始算起。 例如，如果您於 2018 年 9 月 1 購買 Microsoft 動作套件，則續約時間範圍會在 2019 年 9 月 2 日開始。 您可以在合作夥伴中心續訂 Microsoft 行動寶盒及專長認證。 在 [成員資格供應項目] 底下，您可以找到已購買的供應項目，並可在 [續約開始日期] 資料行下找到您供應項目的週年日期。 Microsoft 合作夥伴網路本身的成員資格不需要年度續約。 
+Microsoft 行動寶盒以及銀級及金級專長認證是需要年度續約的 Microsoft 合作夥伴網路成員所適用的供應項目。 您的訂閱續約時間範圍會從您購買日期的週年日加 1 天開始算起。 例如，如果您於 2018 年 9 月 1 購買 Microsoft 動作套件，則續約時間範圍會在 2019 年 9 月 2 日開始。 您可以在合作夥伴中心續訂 Microsoft 行動寶盒及專長認證。 在 [成員資格供應項目] 底下，您可以找到已購買的供應項目，並可在 [續約開始日期] 資料行下找到您供應項目的週年日期。 Microsoft 合作夥伴網路本身的成員資格不需要年度續約。 
 
 若要深入了解，請選取下列適當的連結： 
 
@@ -48,14 +48,15 @@ Microsoft 行動寶盒及專長認證是需要年度續約的 Microsoft 合作�
 
 - **如果您已錯過續約時間範圍**，可以在 [成員資格供應項目] 頁面上支付費用，以重新啟用您的專長認證並重新取得資源和權益的存取權。此延長方案的期限到 2020 年 12 月 31 日止。
 
-### <a name="how-to-view-this-information"></a>如何檢視這項資訊
+### <a name="how-to-view-competency-renewal-information"></a>如何檢視專長認證續約資訊
 
 1. 從儀表板上的 [合作夥伴中心] 功能表中，選取 [專長認證]。  
 
 2. 在可用專長認證清單中，您的專長認證應標示為 [完成]。  
 
-3. 選取專長認證名稱。 您會看到一則通知，表示您直到下一次續約日期為止，可豁免符合需求。   
+3. 選取您的其中一個專長認證。 您會看到一則通知，表示您直到下一次續約日期為止，可豁免符合需求。
 
 4. 若要利用此供應項目，請前往 [成員資格供應項目]. 您可能需要支付專長認證費用才能完成此程序，視您的專長認證購買或續約狀態而定。 
 
 若要利用此擴充功能，您必須將您的成員資格從 Partner Membership Center (PMC) 移至合作夥伴中心，以更新您的專長認證並支付費用。 若您尚未移動成員資格，請立即[深入了解](prepare-pmc-pc-migration.md) 並 [進行轉換](https://partners.microsoft.com/partnerprogram/Welcome.aspx) 。  
+

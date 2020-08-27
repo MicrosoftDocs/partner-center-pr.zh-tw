@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: cfd681a56bfaebcc1fd6c77de3e5a0c6deb4a46f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
+ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527734"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "88846928"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>建立使用者帳戶以及指派角色和權限
 
@@ -45,14 +45,28 @@ ms.locfileid: "87527734"
 
 使用者必須使用其使用者名稱和暫時密碼登入合作夥伴中心。 當使用者第一次登入合作夥伴中心時，系統會提示他們變更密碼。 
 
+## <a name="find-the-role-youve-been-assigned"></a>尋找您已獲指派的角色
 
-### <a name="find-your-global-admin"></a>尋找您的全域系統管理員
+如果您的全域系統管理員尚未告訴您，則您可以執行下列動作，在合作夥伴中心找出您擁有的角色：
+
+1. 登入合作夥伴中心 [儀表板]https://partner.microsoft.com/dashboard/home) 。
+
+1. 選取 [帳戶設定] 圖示，然後選取 [我的設定檔]。
+ 
+1. 選取 [角色與權限] 索引標籤。您會看到您的角色與權限。
+ 
+
+>[!Note]
+>如果您在登入時看不到程式，通常表示您沒有正確的權限，無法在該程式中工作。 因此，例如，如果您在登入時沒有看到 [獎勵] 頁面，就不會有任何獎勵權限。 您的全域系統管理員可以給與您所需的權限。
+
+
+## <a name="find-your-global-admin"></a>尋找您的全域系統管理員
 
 有時候使用者可能需要變更其角色，或者新的使用者可能想要特定的角色指派。  
-若要尋找可進行角色變更或將角色指派給新使用者的全域系統管理員，請從合作夥伴中心右上角的 [設定] 圖示中選取 [使用者管理]，然後篩選全域系統管理員。 
+若要尋找可以進行角色變更或將角色指派給新使用者的全域系統管理員，請從合作夥伴中心右上角的 [帳戶設定] 圖示中選取 [ 使用者管理] 並篩選全域管理員，或者可以移至 [ 我的設定檔]、選取 [角色與權限]，然後查看可協助您提升權限的不同系統管理員清單。 
 
 
-### <a name="new-global-admin"></a>新的全域系統管理員
+## <a name="new-global-admin"></a>新的全域系統管理員
 
 如果您的全域系統管理員離開組織，而需要其他人擔任此角色，則可以將票證提交給 Azure 或 Office 365 小組。 如需執行這項操作的相關資訊，請選取下列其中一個選項。
 
