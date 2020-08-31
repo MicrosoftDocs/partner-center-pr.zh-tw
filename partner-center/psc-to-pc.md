@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fd58f9e84ce8e1e3dd8d1da39f24614db1da99b5
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 4bf873bbd5e12372d73d2ed1b4c3307c71fda359
+ms.sourcegitcommit: a2bfdc2ca5fe11afa5e2fb71e1b0fd61180f2d70
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89041017"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "89056185"
 ---
 # <a name="referrals-guide-for-managing-your-deals-in-partner-center-instead-of-partner-sales-connect-psc"></a>在合作夥伴中心中管理交易的參考指南，而不是合作夥伴銷售 Connect (PSC) 
 
@@ -156,7 +156,7 @@ ms.locfileid: "89041017"
 
 ### <a name="q-what-should-i-do-if-i-dont-have-access-to-partner-center"></a>Q. 如果我沒有合作夥伴中心存取權，該怎麼辦？
 
-您可以聯絡您在 [沒有存取權] 頁面上列出的系統管理員，以取得指派的角色。 在 [參考] 區段下，您將需要「[推薦管理] ( # B1」 https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 角色才能讀取和寫入權限。 如果您只管理商務設定檔，則您需要合作夥伴中心內的「商務設定檔系統管理員」角色。
+您可以聯絡您在 [沒有存取權] 頁面上列出的系統管理員，以取得指派的角色。 在 [參考] 區段下，您將需要「[參考系統管理員](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)」角色才能讀取和寫入權限。 如果您只管理商務設定檔，則您需要合作夥伴中心內的「商務設定檔系統管理員」角色。
 
 ### <a name="q-who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Q. 誰可以授與我合作夥伴中心中 [參考] 區段的存取權？
 
