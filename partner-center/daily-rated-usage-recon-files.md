@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7377af06898afe72df7730f2a809ca85a0e9bdc9
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
+ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274977"
+ms.locfileid: "89281310"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>瞭解如何在合作夥伴中心中讀取每日分級的使用量對帳檔案
 
@@ -73,9 +73,9 @@ ms.locfileid: "89274977"
 | UnitPrice | 每一授權的價格（依購買時的價格清單發佈）。 請確定此價格符合您的計費系統中儲存的資訊（在對帳期間）。 |
 | 數量 | 授權數目。 請確定此價格符合您的計費系統中儲存的資訊（在對帳期間）。 |
 | Unittype.pixel 表示 | 計量計費單位的單位類型。  |
-| BillingPreTaxTotal | 稅金前的帳單總金額。 |
+| BillingPreTaxTotal | 稅金前的帳單總金額。<br/> _**BillingPreTaxTotal** = FLOOR ( # A1 [ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ] ) ，2) _ |
 | BillingCurrency | 客戶地理區域中的貨幣。 |
-| PricingPreTaxTotal | 在稅金新增之前的定價。 <br/> _**PricingPreTaxTotal** = FLOOR ( # A1 [ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ] ) ，2) _ |
+| PricingPreTaxTotal | 在稅金新增之前的定價。 |
 | PricingCurrency | 價格清單中的貨幣。 |
 | ServiceInfo1 | 在指定的一天布建和使用的服務匯流排連接數目。 |
 | ServiceInfo2 | 舊版欄位，可捕獲選擇性的服務特定中繼資料。 |
