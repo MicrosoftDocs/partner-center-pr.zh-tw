@@ -1,19 +1,19 @@
 ---
 title: 針對付款和收益問題進行疑難排解
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 08/31/2020
 description: 瞭解如何解決問題，例如遺漏或不正確的收益、資格問題，以及如何調解獎勵收益。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ba1b6eb3ae77903a898815de60a4df05c48f3bd6
-ms.sourcegitcommit: 455f2e38c2076373254e04577b194289c43e66fd
+ms.openlocfilehash: 5696c4e3e74fd9fe4c17b0da37f6b6bf3ba98165
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88893465"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220786"
 ---
 # <a name="troubleshooting-payments-and-earnings-issues"></a>針對付款和收益問題進行疑難排解
 
@@ -24,7 +24,6 @@ ms.locfileid: "88893465"
 **適當的角色**：
 
 - 獎勵管理員
-
 
 本文將協助您解決獎勵計畫中的任何收益或付款問題。 涵蓋的主題包括付款的時間、檢查您的收益資格，以及正確設定您的付款和稅務設定檔的重要性。
 
@@ -57,18 +56,20 @@ Microsoft 目前不支援刪除現有支出與稅務設定檔的選項。
 
   **若要檢查您的資格**
 
-  1. 登入合作夥伴中心這裡： [合作夥伴獎勵](https://partner.microsoft.com/membership/partner-incentives)。
-  
+  1. 登入 [合作夥伴獎勵](https://partner.microsoft.com/membership/partner-incentives)。
+
   2. 向下滾動至您程式的檔。
   
-  3. 選取您要的檔連結，然後查看 [ **夥伴資格** 和 **合格收益規則**] 區段。
+  3. 選取您要的檔連結，然後檢查區段 
+
+**合作夥伴資格** 和 **合格的收入規則**。
 
 - **您的付款設定檔可能不完整。** 您的獎勵收益開始日期就是您完成所有資格需求 (包括上線時隨附支出和稅務詳細資料) 那個月份的第一天。 完成支出和稅務之前的月份不提供獎勵。 例如，如果您在 2020 年 4 月的當月完成所有需求，您的收益開始日期將是 2020 年 4 月 1 日。
 - **您可能有未完成的動作**。  可能還有動作等待您處理，因而未能處理您的獎勵。
 
   **若要查看未完成的動作**
 
-  1. 登入合作夥伴中心這裡： [合作夥伴獎勵](https://partner.microsoft.com/membership/partner-incentives)。
+  1. 登入 [合作夥伴獎勵](https://partner.microsoft.com/membership/partner-incentives)。
   2. 開啟 [ **交易記錄** ] 頁面。 請檢查此頁面中的欄位，以瞭解要完成的任何未完成動作，例如 **待處理的稅設定檔**、暫止的 **付款設定檔**，或 **待付款發票提交**。
 
 如果這些動作都沒有説明，但您的付款仍遺失或不正確，請聯絡 [支援](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)人員。
@@ -140,9 +141,9 @@ Microsoft 目前不支援刪除現有支出與稅務設定檔的選項。
 
 ## <a name="where-can-i-find-my-rates"></a>在哪裡可以找到我的費率？
 
-1. 前往[合作夥伴獎勵](https://partner.microsoft.com/membership/partner-incentives)，然後登入。
+1. 登入 [合作夥伴獎勵](https://partner.microsoft.com/membership/partner-incentives)。
 
-2. 在您登入之後，請向下捲動以存取您感興趣計畫的文件，然後按一下個別計畫的文件連結。
+2. 向下滾動以存取您感興趣之程式的檔，然後按一下個別程式的檔連結。
 
 3. 在檔中，請參閱「 **程式結構和費率**」一節。
 

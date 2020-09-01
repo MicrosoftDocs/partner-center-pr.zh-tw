@@ -1,19 +1,19 @@
 ---
 title: 獎勵支出和稅務設定檔常見問題集
 ms.topic: article
-ms.date: 07/21/2020
+ms.date: 08/31/2020
 description: 有關獎勵支出和稅務設定檔的常見問題。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 29c77cd06964bf00e7506738c92f5764a678e605
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: b6e66605c0afcf460fffd5d31c14b5e150ff495a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303144"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220526"
 ---
 # <a name="incentives-payout-and-tax-profile-faqs"></a>獎勵支出和稅務設定檔常見問題集
 
@@ -39,7 +39,7 @@ ms.locfileid: "88303144"
 
 ## <a name="how-do-i-provide-update-my-payout-and-or-tax-details"></a>我要如何提供/更新支出和/或稅務詳細資料？
 
-如需有關如何在合作夥伴中心中更新付款與稅務詳細資料的詳細資訊，請參閱[如何在合作夥伴中心建立及管理銀行和稅務設定檔](https://support.microsoft.com/help/4524534/how-to-create-and-manage-bank-and-tax-profiles-in-partner-center) \(機器翻譯\)。
+如需有關如何更新合作夥伴中心中付款和稅務詳細資料的詳細資訊，請參閱 [合作夥伴中心中的建立和管理付款和稅務設定檔](https://docs.microsoft.com/partner-center/incentives-create-and-manage-your-payout-and-tax-profiles.md)。
 
 ## <a name="why-dont-i-see-my-enrollments-when-i-go-to-assign-my-payout-and-tax-profile"></a>為什麼我指派支出與稅務設定檔時看不到我的註冊？
 

@@ -1,5 +1,5 @@
 ---
-title: 客戶關聯問題
+title: 獎勵客戶關聯問題
 description: 瞭解如何解決在 (CPOR) 客戶關聯時，與索取的記錄夥伴合作時所產生的問題。
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -7,27 +7,27 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: ef818b15d4ddd891c29669071d3f8dc51d007bca
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303254"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220616"
 ---
-# <a name="customer-association-issues"></a>客戶關聯問題
+# <a name="incentives-customer-association-issues"></a>獎勵客戶關聯問題
 
-適用於：
+**適用於：**
 
 - 合作夥伴中心
 
-下列內容將協助您解決當您使用客戶關聯時可能出現的問題。
-
-適當的角色：
+**適當的角色：**
 
 - 帳單系統管理員
 - 全域系統管理員
 - 獎勵管理員
+
+下列內容將協助您解決當您使用客戶關聯時可能出現的問題。
 
 ## <a name="domain-tenant-mismatch"></a>網域租使用者不符
 
@@ -62,9 +62,9 @@ CPOR 宣告平臺允許與 Business Applications 和 Microsoft 365 解決方案�
 | 解決方案領域 | 活動 | 適用于 |
 | ------ | ----------- | ----------- |
 | 商務應用程式      | 問答   | 如果您對購買合格產品有影響，且想要申請售前獎勵，請選取此項。 只有當客戶透過大量授權合約或 Web 直接購買這些產品時，才適用此選項。 |
-|    |  使用量  | 如果您要推動其採用和使用合格的工作負載，而且想要申請使用獎勵，請選取此項。 只有當客戶透過大量授權合約或 Web 直接購買這些產品時，才適用此選項。 |
+|    |  使用方式  | 如果您要推動其採用和使用合格的工作負載，而且想要申請使用獎勵，請選取此項。 只有當客戶透過大量授權合約或 Web 直接購買這些產品時，才適用此選項。 |
 |    | 收益關聯   | 如果您對其合格產品的選擇是否受到影響，請加以選取。 此選項僅適用于收入關聯，不適用於獎勵款項。 只有當客戶透過大量授權合約或 Web 直接購買這些產品時，才適用此選項。   |
-| Microsoft 365   | 使用量   | 如果您要推動其採用和使用合格的工作負載，而且想要申請使用獎勵，請選取此項。 |
+| Microsoft 365   | 使用方式   | 如果您要推動其採用和使用合格的工作負載，而且想要申請使用獎勵，請選取此項。 |
 
 ## <a name="which-mpn-do-i-choose"></a>我選擇哪個 MPN？
 
@@ -72,7 +72,7 @@ CPOR 宣告平臺允許與 Business Applications 和 Microsoft 365 解決方案�
 
 如果您不知道要使用哪一個 MPN，請洽詢您的全域管理員。
 
-如果您想要使用的 MPN 尚未註冊，您可以在 [ [獎勵總覽]](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)索引標籤中進行管理。
+如果您想要使用的 MPN 尚未註冊，您可以在 [獎勵總覽](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) 索引標籤中管理該選項， (登入所需的) 。
 
 ## <a name="choosing-a-product-vs-entering-a-subscription"></a>選擇產品與輸入訂用帳戶
 
@@ -91,4 +91,8 @@ CPOR 宣告平臺允許與 Business Applications 和 Microsoft 365 解決方案�
 4. 您的 CPOR 關聯宣告仍會在五個工作天內進行審核，但其狀態可能會在較長一段時間內保持 _審核_ 狀態。 當 Microsoft 與目前擁有產品/工作負載的夥伴合作時，就會發生這種情況。 如果是這種情況，您將會在宣告的 [批註] 區段中收到通知。 
 
 >[!IMPORTANT]
->如果我們需要其他資訊來驗證您的 CPOR 關聯 PoE，我們會透過 [CPOR 關聯宣告批註] 區段與您聯繫。
+>如果我們需要其他資訊來驗證您的 CPOR association 證明 (PoE) ，我們會透過 [CPOR 關聯宣告批註] 區段與您聯繫。
+
+## <a name="next-steps"></a>後續步驟
+
+- [開始使用獎勵](incentives-get-started-intro.md)

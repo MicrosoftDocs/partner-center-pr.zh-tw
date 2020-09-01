@@ -3,20 +3,20 @@ title: 分析訂閱與授權
 ms.date: 07/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解如何使用 [訂用帳戶和授權分析] 頁面中的計量，來識別您的成功和需要注意的區域。
+Description: 瞭解如何使用 [訂用帳戶] 和 [授權分析] 頁面中的計量，找出需要更多注意的成功和區域。
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: b6daf2c2c7cadd52cd90ce3a25c9a7a681522d24
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436117"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220686"
 ---
-# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>分析訂用帳戶和授權，以協助您推動商務決策和新的目標
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>分析訂用帳戶和授權，以協助您推動業務決策和新目標
 
 **適用於**
 
@@ -32,11 +32,9 @@ ms.locfileid: "86436117"
 
 資料推動業務決策。 使用 **\[訂閱和授權分析\]** 頁面上的計量，找出您的成功之處、您客戶的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。
 
-> [!NOTE]
-> 訂閱授權分析僅適用於雲端解決方案提供者計畫中的合作夥伴。
+**CSP TTM 年收入 (美元) **：此計量代表針對 [合作夥伴位置帳戶] 和 [合作夥伴通用帳戶] ([與此 CSP 帳戶相關聯的合作夥伴通用帳戶) TTM (中的匯總 CSP 計費收益 (USD) 。 如果您有其他具有不同 PGA 的 CSP 帳戶，您必須登入每個帳戶，才能查看對應的匯總 TTM 收入。  按一下 [下載詳細資料] 連結，以取得每個 MPN 識別碼 (美元) 的 TTM 收益明細。
 
-
-這份報告可以根據以下產品進行調整：
+報表的其餘部分可以根據下列產品進行資料透視：
 
  - **Dynamics 365**：Dynamics 365 資料  
  - **EMS**：企業管理服務資料  
@@ -55,7 +53,7 @@ ms.locfileid: "86436117"
  - **使用中訂閱**：狀態為**使用中**的訂閱  
  - **暫停的訂閱**：暫停的訂閱計數，這沒有日期篩選  
 
-**產品明細**  
+**產品細目**  
  - **訂閱計數**：依售出訂閱排序的前 5 大產品  
  - **授權計數**：依售出授權排序的前 5 大產品
 

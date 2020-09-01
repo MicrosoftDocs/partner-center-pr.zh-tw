@@ -1,25 +1,31 @@
 ---
 title: 獎勵常見問題
 ms.topic: how-to
-ms.date: 08/14/2020
+ms.date: 08/31/2020
 description: Microsoft 獎勵的常見問題
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: d5807dabe5ad41f976bbe099aaaa8d459b77f154
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2fb8ec1bd957f185853db3f220ac1eb17a697927
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88426994"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220586"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>關於獎勵的常見問題
 
-適用於：
+**適用於：**
 
 - 合作夥伴中心
+
+**適當的角色：**
+
+- 獎勵管理員
+
+- 獎勵使用者
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>是否必須是全域管理員才能註冊獎勵？
 
@@ -42,3 +48,7 @@ ms.locfileid: "88426994"
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>如果我在註冊程式期間收到錯誤訊息或需要協助，應聯絡誰？
 
 如果您在 [儀表板] 的獎勵區段內遇到任何問題，則會有線上支援服務–請參閱支援選項 (？ 圖示) 在右上方。
+
+## <a name="next-steps"></a>後續步驟
+
+- [開始使用獎勵](incentives-get-started-intro.md)

@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: acb8d38ab4a3b85dd031790dc75c16ec064195f3
-ms.sourcegitcommit: 389dda2e4100d56c846245ff8ca85c4755b15c25
+ms.openlocfilehash: fbd91659a8118cd2efa8c361adaf4c0668245e70
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88799823"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220256"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>查看、管理及匯出獎勵方案詳細資料
 
@@ -89,7 +89,7 @@ ms.locfileid: "88799823"
 ## <a name="payments-page"></a>[付款] 頁面
 此頁面上的總計代表您使用的所有 MPN 識別碼。 您可透過參與者識別碼、計劃、付款識別碼和收益類型進行篩選。 金額的單位是美金。 付款值也會以付款貨幣顯示。
 
-|**領域**   |**說明**    |
+|**領域**   |**描述**    |
 |------------------|:-------------------------------------|
 |今年總付款        |您的所有 MPN 識別碼的總金額（以美元為單位）。                                      |
 |下一個預估付款      |您 (的下一次付款，即使有其他人即將) ，也會以美元為單位。                                     |
@@ -116,7 +116,7 @@ ms.locfileid: "88799823"
 
 #### <a name="estimated-payment-month-example"></a>預估的付款月份範例
 
-| Month | 金額 |
+| 月 | 金額 |
 | ------ | :-----------: |
 |  Sep-2020 |  $7273.99   |
 |  十月-2020 | $8692.30  |
@@ -144,7 +144,7 @@ ms.locfileid: "88799823"
 |即將付款      |付款訂單會在付款處理之前產生等待內部審核。       |否       |
 |稅務發票正在暫止      |您的稅務發票未完成或無效。          |您需要更新稅務發票才能接收付款         |
 |檢閱期間遭到拒絕        |評論期間的付款已遭到拒絕。          |請連絡 Microsoft 支援服務以取得詳細資料         |
-|失敗        |付款因 Microsoft 系統錯誤而失敗。         |如需詳細資訊，請洽詢 Microsoft 支援服務         |
+|Failed        |付款因 Microsoft 系統錯誤而失敗。         |如需詳細資訊，請洽詢 Microsoft 支援服務         |
 |正在進行     |付款正在進行中。         |否         |
 |付款不正確        |付款 recouping 正在進行中。          |否        |
 |已傳送        |付款已傳送至您的銀行。          |否       |
@@ -157,11 +157,14 @@ ms.locfileid: "88799823"
 ## <a name="export-data-page"></a>[匯出資料] 頁面
 遵循此頁面上的指示，匯出您要的資料。
 
-**注意：**
+以下是當您嘗試匯出資料時的一些考慮：
 
 - 假設有大量的資料，所提交要求的處理 SLA 為24小時。
+
 - 您只會看到您所關聯之 MPN 識別碼和程式的資料。 如果您想要存取其他資料，請參閱您的獎勵系統管理員。
+
 - [匯出資料] 頁面不會自行重新整理。 您可能需要手動重新整理頁面，才能看到最新的資料。
+
 - 篩選條件可能會導致**無可用資料**錯誤。 此錯誤可能表示您已將預設的時間週期保留在三個月，然後從該期間以外的收益中選取付款識別碼。 請展開時間間隔，然後再試一次。
 
 ## <a name="payment-download-export"></a>付款下載匯出

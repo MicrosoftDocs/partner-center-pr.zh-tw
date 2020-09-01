@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: c3bb6bc8c1d59caae278863974524a5946fecf6c
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303194"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220536"
 ---
 # <a name="manage-co-op-claims"></a>管理合作宣告
 
-適用於：
+**適用於：**
 
 - 合作夥伴中心
 
-下列內容提供管理共同作業宣告的資訊，包括時間軸、規則，以及如何對已拒絕的共同作業宣告提出爭議。
-
-適當的角色：
+**適當的角色：**
 
 - 獎勵管理員
+
+下列內容提供管理共同作業宣告的資訊，包括時間軸、規則，以及如何對已拒絕的共同作業宣告提出爭議。
 
 ## <a name="co-op-claims-approval-and-payment-deadlines"></a>合作宣告核准和付款期限
 
@@ -72,3 +72,7 @@ ms.locfileid: "88303194"
 4. 選取頁面底部的 [爭議]。
 
 合作索賠驗證小組會在五個工作天內審查索賠。 在這段期間，狀態將會顯示為 [有爭議]。 我們可能會連絡您以要求提供其他資訊。 審查完成時，驗證小組會將狀態更新為 [已核准]、[已拒絕]，或 [需要合作夥伴動作]。
+
+## <a name="next-steps"></a>後續步驟
+
+- [開始使用獎勵](incentives-get-started-intro.md)

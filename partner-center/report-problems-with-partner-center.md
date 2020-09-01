@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b22ac3137be610d3f8e6bce9569b1f4cd7ef191b
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040754"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220246"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何報告合作夥伴中心的問題，並提交任何記錄檔或診斷資訊
 
@@ -29,7 +29,7 @@ ms.locfileid: "89040754"
 
 所有登入的合作夥伴中心使用者都可以建立合作夥伴支援要求。 使用者只能在登入合作夥伴中心之後，查看他們所提交的支援要求。
 
-**報告合作夥伴中心的問題**
+## <a name="report-a-problem-with-the-partner-center"></a>報告合作夥伴中心的問題
 
 1. 從您的 **合作夥伴中心** 儀表板，選取 [ **支援** ]，然後選取 [ **合作夥伴支援要求**]。
 
@@ -41,7 +41,7 @@ ms.locfileid: "89040754"
 
 5. 完成 **問題詳細資料** ，然後 **提交**。 合作夥伴支援代表會再與你連絡。
 
-**傳送診斷結果**
+## <a name="send-diagnostics"></a>傳送診斷結果
 
 如果您是在合作夥伴中心頁面時發生錯誤，系統可能會提示您收集記錄資訊。 從頁面頂端下拉式清單中選取 [ **收集更多資訊** ] 以開啟用戶端診斷工具。 此工具會收集合作夥伴支援小組判斷錯誤成因所需的資訊。 
 
@@ -54,7 +54,7 @@ ms.locfileid: "89040754"
 
 您可以預覽診斷資訊並儲存到檔案中，然後在提出支援要求時附上檔案。 若要傳送資訊給我們︰
 
-3. 請先檢查檔案中的資訊再傳送檔案，因為檔案可能內含您想要移除的個人識別資訊。 
+3. 請先檢查檔案中的資訊再傳送檔案，因為檔案可能內含您想要移除的個人識別資訊。
 
     >[!NOTE]
     >在某些瀏覽器中，**\[預覽\]** 頁面底部的 **\[頁面檢視\]** 區段可能會一片空白。 這是正常現象。

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7dda38680bd698ce04149ed8c1a9acf1cff0ba2f
-ms.sourcegitcommit: 7a749e7130f903b2d94cfa44e14bde0adf7ee199
+ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/24/2020
-ms.locfileid: "88781830"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220176"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客戶回報服務問題-包括何時及如何進行
 
@@ -102,7 +102,9 @@ Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要�
 
 ## <a name="faq"></a>常見問題集
 
-**支援權益包含哪些內容？**
+請參閱下列有關您可能代表客戶提交之服務要求的常見問題。 
+
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>支援權益包含哪些內容？
 
 服務要求應該透過合作夥伴中心進行歸檔。 適用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企業行動套件。 身為參與雲端解決方案提供者計畫的合作夥伴，您可以期待您的重大問題獲得優先回應。
 
@@ -110,7 +112,7 @@ Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要�
 
 這項權益適用於參與雲端解決方案提供者計畫的所有合作夥伴 (無論是付費或在試用期內)。 此套件中也包含了免費的帳單和訂閱管理支援。
 
-**我能多快取得初始回應？**
+### <a name="how-quickly-will-i-get-an-initial-response"></a>我能多快取得初始回應？
 
 我們的初始回應時間取決於已提交之事件的嚴重性。 您在提交服務要求時將會指出該問題對業務造成影響的程度，這將會決定該問題的嚴重性。
 
@@ -123,21 +125,21 @@ Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要�
 初始回應時間僅提供英文支援。 當地語言支援僅於營業時間提供。
 對於落在支援權利之界限內但未被視為修復事件的事件，初始回應時間可能會是一個工作天。
 
-**我能透過電話提交服務要求嗎？**
+### <a name="can-i-submit-a-service-request-by-phone"></a>我能透過電話提交服務要求嗎？
 
 否，不會提供此計畫的電話支援。
 
-**如果我略過合作夥伴中心登入 Azure 入口網站，會發生什麼事？**
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>如果我略過合作夥伴中心登入 Azure 入口網站，會發生什麼事？
 
 如果您直接登入 Microsoft Azure 入口網站，就會在您自己的內容中（而不是客戶的內容）中查看中心。 這就是為什麼您應該只在為自己的訂用帳戶建立服務要求時，才直接登入 Microsoft Azure 入口網站。
 
 您的 CSP 方案支援權利無法在您自己的合作夥伴訂用帳戶上提供支援。 因此，當您建立的服務要求與您自己的夥伴訂用帳戶相關時，您必須提供有效的支援方案權利。 範例包括 MPN 合約識別碼、頂級或 Azure 支援計畫。 如需詳細資訊，請參閱 [Azure 支援常見問題](https://go.microsoft.com/fwlink/?LinkId=717532)。
 
-**當我登入 Office 365 系統管理中心入口網站並略過合作夥伴中心時，會發生什麼事？**
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>當我登入 Office 365 系統管理中心入口網站並略過合作夥伴中心時，會發生什麼事？
 
 如果您直接登入 Office 365 系統管理中心，您就會在自己的內容中（而不是客戶的內容）中查看中心。 這就是為什麼您在為自己的訂用帳戶建立服務要求時，只會直接登入 Office 365 系統管理中心的原因。
 
-**如何取得額外的 Dynamics 365 支援？**
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>如何取得額外的 Dynamics 365 支援？
 
 如果您遇到與下列相關的問題： Dynamics 365 方案訂用帳戶、授權、帳單、財務 & 營運、Dynamics 365 產品授權，或您需要進一步的技術支援：
  

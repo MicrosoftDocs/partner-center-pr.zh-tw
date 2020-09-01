@@ -1,33 +1,33 @@
 ---
 title: 在合作夥伴中心建立及管理支出與稅務設定檔
 ms.topic: how-to
-ms.date: 08/13/2020
+ms.date: 08/31/2020
 description: 您必須先建立付款和稅務設定檔，才可以支付獎勵工作的費用。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 6bf2f70bac6cbabcc0e4267585a23e1b74916c06
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: e85401983e60f4d8143f8a056539edd8ecaa4dcb
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303274"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220796"
 ---
 # <a name="payout-and-tax-profiles-in-partner-center"></a>合作夥伴中心的支出和稅金設定檔
 
-適用於：
+**適用於：**
 
 - 合作夥伴中心
 
-您必須先將有效的支出和稅務設定檔與計畫和 MPN 的位置產生關聯，才能收到特定 MPN 位置的獎勵計畫款項。 Microsoft 將使用此支出與稅務設定檔來發出款項。 視獎勵計畫的規則而定，您可能可以使用電子銀行轉帳或貸記通知單來付款。 
-
-適當的角色：
+**適當的角色：**
 
 - 獎勵管理員
 - 帳單系統管理員
 - 全域系統管理員
+
+您必須先將有效的支出和稅務設定檔與計畫和 MPN 的位置產生關聯，才能收到特定 MPN 位置的獎勵計畫款項。 Microsoft 將使用此支出與稅務設定檔來發出款項。 視獎勵計畫的規則而定，您可能可以使用電子銀行轉帳或貸記通知單來付款。 
 
 ## <a name="roles-currencies-and-other-microsoft-programs"></a>角色、貨幣及其他 Microsoft 程式
 
@@ -37,7 +37,7 @@ ms.locfileid: "88303274"
 
 您必須是獎勵系統管理員，才能輸入報酬金的銀行和稅務資訊。 如果您是 MPN/帳戶系統管理員，您可以將自己和/或同事指派為獎勵系統管理員。
 
-如果您需要要求獎勵系統管理員許可權，請洽詢您的 MPN 系統管理員或全域管理員。您可以在 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)中找出您公司中的哪些人員有這些角色。 從右上方的 **設定** 圖示中，選取 [ **使用者管理** ]，然後篩選全域管理員。
+如果您需要要求獎勵系統管理員許可權，請洽詢您的 MPN 系統管理員或全域管理員。您可以登入 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)，找出貴公司中的誰擁有這些角色。 從右上方的 **設定** 圖示中，選取 [ **使用者管理** ]，然後篩選全域管理員。
 
 獎勵使用者可以查看獎勵收益和付款詳細資料和報表，但無法編輯銀行和稅務詳細資料。
 
@@ -58,11 +58,11 @@ ms.locfileid: "88303274"
 下列各節將逐步引導您在合作夥伴中心中建立和管理付款和稅務設定檔的流程。
 
 >[!IMPORTANT]
->您必須是獎勵系統管理員，才能在合作夥伴中心中建立或管理付款設定檔。 獎勵角色必須指派給每個獎勵計畫下的每個 MPN 位置。 如需有關如何在合作夥伴中心中新增「獎勵管理員」的詳細資訊，請參閱 [如何在合作夥伴中心中新增獎勵使用者或管理員](https://support.microsoft.com/help/3011450/how-to-add-incentive-users-or-admins-in-partner-center)。
+>您必須是獎勵系統管理員，才能在合作夥伴中心中建立或管理付款設定檔。 獎勵角色必須指派給每個獎勵計畫下的每個 MPN 位置。 如需有關如何在合作夥伴中心中新增「獎勵管理員」的詳細資訊，請參閱 [建立使用者帳戶](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions)。
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>存取合作夥伴中心中的付款和稅務區段
 
-1. 使用您的 Azure Active Directory (Azure AD) 帳戶 (公司帳戶) ，或已指派適當的電子郵件地址，登入合作夥伴中心。 
+1. 使用您的 Azure Active Directory (Azure AD) 帳戶 (公司帳戶) ，或已指派適當的電子郵件地址，登入 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/) 。
 
    - 您可以在一個 Azure AD 帳戶內註冊多個網域。 請洽詢您的全域系統管理員，以判斷哪些網域相關聯。
    - 如果您只能使用網域登入 @onmicrosoft.com ，請洽詢您的帳戶管理員，將其他網域新增至 Azure AD 帳戶。
@@ -74,7 +74,7 @@ ms.locfileid: "88303274"
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>將付款和稅務設定檔指派給個別的程式
 
-1. 在合作夥伴中心中，選取齒輪圖示以開啟 [ **設定** ] 功能表。 
+1. 登入 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)，然後選取齒輪圖示以開啟 [ **設定** ] 功能表。 
 
 2. 選取 [ **夥伴設定**]，展開 [支付 **和稅務] 區段**，然後選取 [支付 **和稅務設定檔指派**]。 
    
@@ -109,11 +109,11 @@ ms.locfileid: "88303274"
     **銀行帳戶位置：** 公司銀行所在的國家/地區。
     **付款方法：** 合作夥伴中心的慣用付款條件是「電子銀行傳輸」。
 
-2. 選取 [下一步] 。
+2. 選取 [下一步]  。
 
 3. 在 [ **銀行帳戶** ] 頁面上，輸入您的資訊。 此頁面上顯示的欄位會因國家/地區而異。 
 
-4. 選取 [下一步] 。
+4. 選取 [下一步]  。
 
 5. 在 [ **受益人** ] 頁面上，輸入適當的資訊。 如果您的公司需要討論您的帳戶，則這些受益人就是貴公司的人員。
 
@@ -140,7 +140,7 @@ ms.locfileid: "88303274"
    - 如果您的公司僅納入美國，或此設定檔適用于個人，請選取左邊的選項。
    - 如果您的公司是在美國以外的地區，請選取右側的選項，然後從清單中選取您的國家/地區。
 
-3. 選取 [下一步] 。 
+3. 選取 [下一步]  。 
 
 4. 在 [ **稅務狀態** ] 頁面上，輸入必要的資訊，然後選取 **[下一步]**。 此頁面上的欄位會因國家/地區而異。 您的詳細資料。 
 

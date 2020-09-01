@@ -3,18 +3,18 @@ title: 分析間接經銷商績效
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 流量分析來瞭解間接轉銷商的表現，包括成功和可能需要注意的區域。
+Description: 流量分析來瞭解您的間接轉銷商如何進行、成功和可能需要更多關注的區域。
 author: shganesh
 ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cc14a98d6460fc330564317c1bf089e53438a1d0
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 2b43b09f8717169c40f6d0a96db5371c2eeebd11
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998362"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220696"
 ---
 # <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>流量分析來分析間接轉銷商的效能
 
@@ -57,7 +57,7 @@ ms.locfileid: "87998362"
  - **Microsoft 365**：售出的 Microsoft 365 訂閱數量  
  - **Office 365**：依售出訂閱排序的 Office 365 產品  
 
-**新增訂閱**  
+**新訂閱**  
  - 依日期新增的新訂閱數量  
 
 **訂閱流失**  
@@ -69,7 +69,19 @@ ms.locfileid: "87998362"
  - **位置**：間接經銷商營運的市場  
  - **訂閱**：經銷商售出的訂閱數  
  - **授權**：經銷商在所有訂閱中已售出的授權總數  
+
+**MPA 簽署狀態**
+
+本節提供 CSP 間接轉銷商的 MPA 簽署狀態狀態。
+
+ - **轉售商名稱**： CSP 間接轉銷商的名稱
+ - **MPN id**：間接轉銷商的 MPN 識別碼
+ - **區域**：間接轉銷商操作的區域
+ - **MPN 調查狀態**：間接轉銷商的調查狀態
+ - **MPA 簽署狀態**：間接轉銷商的 mpa 簽署狀態
+
+按一下圖表中的 [下載] 圖示，以其他維度下載 MPA 簽署的狀態資料
   
 ## <a name="next-steps"></a>後續步驟
 
-- [分析訂用帳戶和授權，以協助推動商業決策](analyze-subscriptions-licenses.md)
+- [分析訂用帳戶和授權，以協助推動業務決策](analyze-subscriptions-licenses.md)

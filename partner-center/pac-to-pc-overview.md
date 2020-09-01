@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 674cb8d9e97874093224e4f2ef818921ce74ec15
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 31bf26495f2429402b600324353017895ca2af8a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114520"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220736"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作夥伴系統管理中心即將移轉到合作夥伴中心
 
@@ -29,25 +29,25 @@ ms.locfileid: "87114520"
 - 銷售代理人
 
 > [!NOTE]  
-> 自本文最初張貼之後，所有日期都已更新。
+> 自從本文最初張貼以來，所有日期都已更新。
 
-Office 365 合作夥伴系統管理中心（PAC）即將移至 Microsoft 合作夥伴中心。
+Office 365 合作夥伴系統管理中心 (PAC) 即將移至 Microsoft 合作夥伴中心。
 
-我們會將 Microsoft 合作夥伴中心發展成單一位置，讓您管理與 Microsoft 及客戶的合作關係。 在合作夥伴中心，您可以管理成員資格、客戶參考、獎勵，以及雲端解決方案提供者（CSP）方案的所有其他層面。 我們將從 2018 年 4 月中開始淘汰 PAC。
+我們會將 Microsoft 的合作夥伴中心發展到單一位置，讓您能夠管理與 Microsoft 和客戶的合作關係。 在合作夥伴中心您可以管理成員資格、客戶參考、獎勵，以及雲端解決方案提供者 (CSP) 計畫的所有其他層面。 我們將從 2018 年 4 月中開始淘汰 PAC。
 
 ## <a name="the-office-365-partner-admin-center-pac-will-be-retired"></a>Office 365 合作夥伴系統管理中心 (PAC) 即將淘汰
 
-在2018年4月，PAC 即將淘汰，且 CSP 合作夥伴將會開始自動重新導向至 Microsoft 合作夥伴中心。 重新導向會分階段進行，而當您重新導向至合作夥伴中心之後，您將無法在 PAC 中工作。 
+在2018年4月，PAC 即將淘汰，且 CSP 合作夥伴將開始自動重新導向至 Microsoft 合作夥伴中心。 重新導向將會分階段進行，一旦您重新導向至合作夥伴中心，您就無法在 PAC 中工作。 
 
-**雲端解決方案提供者合作夥伴**如果您是 CSP 合作夥伴，我們會在2018年4月開始自動將您重新導向至合作夥伴中心。 
+- 雲端解決方案提供者合作夥伴：如果您是 CSP 合作夥伴，我們會自動將您重新導向至從2018年4月開始的合作夥伴中心。
 
-**顧問合作夥伴** (如果您不透過雲端解決方案提供者交易，並使用 PAC 提供試用/配額給客戶) 一旦我們決定您自動重新導向至合作夥伴中心的時間表，就會在此處公布。 
+- 如果您不是透過 CSP 來交易，而是使用 PAC 為您的客戶提供試用/報價，則建議程式合作夥伴 () ：只要我們決定自動重新導向至合作夥伴中心的時間軸，我們就會在此宣佈。
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>立即開始使用 Microsoft 合作夥伴中心！
 
-立即開始使用[Microsoft 合作夥伴中心](https://partnercenter.microsoft.com/)，準備好從 PAC 進行移動。  您將針對用於 PAC 的合作夥伴中心使用相同的認證。
+立即開始使用 [Microsoft 合作夥伴中心](https://partnercenter.microsoft.com/) ，以準備好從 PAC 進行移動。  您將針對用於 PAC 的合作夥伴中心使用相同的認證。
 
 > [!IMPORTANT]  
-> PAC 中提供的部分功能和功能將無法在合作夥伴中心使用。
+> PAC 中提供的某些功能與功能將無法在合作夥伴中心中使用。
 
  請閱讀[並排比較](moving-from-pac-to-pc.md)以了解並熟悉這些變更。 

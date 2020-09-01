@@ -7,25 +7,25 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 06/29/2020
-ms.openlocfilehash: b84d66c9eb623d043e1110cbd9223d6745f571b3
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 08/31/2020
+ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303294"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220776"
 ---
 # <a name="prepare-your-proof-of-execution"></a>準備您的執行證明
 
-適用於：
+**適用於：**
 
 - 合作夥伴中心
 
-在開始支付獎勵工作的款項之前，您必須提交 (PoE) 的詳細執行證明。 本文將引導您完成建立有效執行證明的程式。
-
-適當的角色：
+**適當的角色：**
 
 - 獎勵管理員
+
+在開始支付獎勵工作的款項之前，您必須提交 (PoE) 的詳細執行證明。 本文將引導您完成建立有效執行證明的程式。
 
 ## <a name="how-to-submit-a-poe"></a>如何提交 PoE
 
@@ -37,7 +37,7 @@ ms.locfileid: "88303294"
 
 4. 在 [ **活動** ] 區段中，尋找您想要的活動。
 
-5. 在 [ **執行證明** ] 資料行中，選取 [ **新增 POE**]。
+5. 在 [ **執行證明** ] 資料行中，選取 [ **新增 PoE**]。
 
 6. 在 [ **新的執行證明] 頁面**上，輸入必要的欄位。
 
@@ -45,7 +45,7 @@ ms.locfileid: "88303294"
    - **日期**  執行的日期。 此日期必須介於活動開始日期和行銷活動結束日期之間。
    - **金額**  共 op 宣告的數量。
 
-7. 選取 [儲存]。
+7. 選取 \[儲存\]。
 
 8. 在 [ **新的執行證明聲明** ] 頁面上，輸入必要的欄位。
 
@@ -62,7 +62,7 @@ ms.locfileid: "88303294"
 
 11. 您也可以視需要上傳 **證明檔** 。 在 [ **證明** 檔] 欄位中，選取 [ **拖曳或流覽要上傳**的檔案]。 如果您選取 [證明檔]，就必須新增說明提示。 完成新增備註之後，請選取 [儲存]。
 
-12. 提交您的 POE 之前，請先輸入最後一個批註，然後選取 [ **提交**宣告]。
+12. 提交您的 PoE 之前，請先輸入最後一個批註，然後選取 [ **提交**宣告]。
 
 ## <a name="view-the-status-of-a-poe"></a>查看 PoE 的狀態
 
@@ -80,3 +80,7 @@ ms.locfileid: "88303294"
    - 編輯中
    - 已核准
    - 已拒絕
+
+## <a name="next-steps"></a>後續步驟：
+
+- [開始使用獎勵](incentives-get-started-intro.md)

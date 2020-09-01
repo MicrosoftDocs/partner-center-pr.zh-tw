@@ -1,22 +1,22 @@
 ---
-title: 合作夥伴中心深入解析 Azure 使用量報告
+title: 合作夥伴中心 Insights Azure 使用量報表
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解您的表現如何，以及您對客戶銷售或管理的 Azure 訂用帳戶使用方式的改善。
+description: 查看您的工作效能，以及您可以針對客戶銷售或管理的 Azure 訂用帳戶的使用方式進行改善。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72676a714cf944bc9210de8e8f6edfa0d3037da9
-ms.sourcegitcommit: 735593129d1a009854a4ed0b03b11035211dbb25
+ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88239066"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220726"
 ---
-# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可從合作夥伴中心深入解析儀表板取得的 Azure 使用量報告
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>可從合作夥伴中心 Insights 儀表板取得的 Azure 使用量報表
 
 **適當的角色**
 - 全域系統管理員
@@ -24,59 +24,59 @@ ms.locfileid: "88239066"
 - 報表檢視器
 - 執行報表檢視器
 
-Azure 使用量報表會顯示與您客戶的 Azure 訂用帳戶相關的計量。 這包括依計量類別的 Azure 耗用量收益和使用量。 您可以從 Azure 使用量報告中查看下列區段。
+Azure 使用量報表會呈現與您客戶的 Azure 訂用帳戶相關的計量。 這包括 Azure 使用量收益和依計量類別的使用量。 您可以從 Azure 使用量報表中查看下列區段。
 
-- 總結
+- [摘要]
 - 依地理位置的 Azure 使用量
-- Azure 使用率
+- Azure 使用量
 
  > [!NOTE]
- > 您可以從 Insights 儀表板取得這份報表。 若要查看這份報告，您必須在合作夥伴中心指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，也只能供具備主管報表檢視器許可權的使用者使用。
+ > 您可以從見解儀表板取得此報表。 若要查看此報表，您必須在合作夥伴中心中指派特定角色，例如全域管理員、帳戶管理員、報表檢視器或執行報表檢視器。 如需詳細資訊，請參閱貴公司的全域管理員。這份報表中的特定資料類型，可能也只適用于具有主管報表檢視器許可權的使用者。
 
-**總結**
+## <a name="summary"></a>[摘要]
 
-[摘要] 區段會顯示關鍵效能指標的快照集視圖， (Kpi) 與您為客戶銷售或管理的 Azure 訂用帳戶相關。  
+[摘要] 區段會顯示與您為客戶銷售或管理的 Azure 訂用帳戶相關的關鍵效能指標 (Kpi) 的快照集查看。  
 
-- Azure 訂用帳戶：您在選取的日期範圍內，azure 訂用帳戶的成長或拒絕百分比的目前 Azure 客戶訂用帳戶計數。
+- Azure 訂用帳戶：在選取的日期範圍內，azure 訂用帳戶成長或拒絕的 Azure 客戶訂用帳戶目前計數百分比。
 
-微圖表會針對您選取的日期範圍，呈現 Azure 訂用帳戶計數的月數趨勢
-- 作用中的 Azure 訂用帳戶：您過去30天內使用中的 Azure 訂用帳戶目前所銷售或管理的計數。
+微型圖顯示您所選日期範圍的 Azure 訂用帳戶計數的月數趨勢
+- 作用中的 Azure 訂用帳戶：過去30天內使用中的 Azure 訂用帳戶目前已售出或受您管理的計數。
 在選取的日期範圍內，這些訂用帳戶的成長或拒絕百分比。
 
-微圖表會在您選取的日期範圍內，呈現 Azure 作用中訂用帳戶計數的月數趨勢。
+微圖表會在您選取的日期範圍內，顯示 Azure active 訂用帳戶計數的月間趨勢。
 
-- Azure 已耗用 (ACR) 的收益： Azure 已使用的收入總計 (US $) 以您在選取的日期範圍內的屬性為限。
-在選取的日期範圍期間，屬性化 ACR US $ 的成長或拒絕百分比。 
+- Azure 取用的 (ACR) ： Azure 取用的收入總計 (US $) 在選取的日期範圍內與您的內容有關。
+在選取的日期範圍內，屬性化 ACR US $ 的成長或拒絕百分比。 
 
-微圖表會顯示在所選時間週期內，針對您提供之 ACR US $ 屬性化的每月趨勢
+微型圖顯示在所選期間內，ACR US $ 屬性化的每月趨勢
 
 
 > [!NOTE]
- > 只有獲派「執行報表檢視器」角色的使用者，才看得到 Azure 已取用的 (ACR) 的收益。
+ > 只有獲派「執行報表檢視器」角色的使用者，才可以看到「Azure 取用的收入」 (ACR) 。
 
 :::image type="content" source="images/pci/pci-azure-usage-summary-1.png" alt-text="Azure 使用量摘要":::
 
-**依地理位置的 Azure 使用量**
+## <a name="azure-usage-by-geography"></a>依地理位置的 Azure 使用量
 
-[ **依地理位置的 azure 使用量** ] 視圖會顯示 azure 耗用量收益的地理分佈 (ACR US $) 或所有或選取之 Azure 服務等級/計量類別的使用時數。 地圖上較亮的色彩代表較低的值，而較暗的色彩則代表較高的值。 您可以在方格中搜尋並選取要縮放的國家/地區 
+**Azure 使用量（依地理位置**）視圖會顯示 azure 使用量收益的地理分佈 (ACR US $) ，或所有或選取的 azure 服務等級/計量類別的使用時數。 地圖上較淺的色彩代表較低的值，而較深的色彩則代表較高的值。 您可以搜尋並選取方格中的國家/地區，以縮放至 
 
-[ **國家/地區** ] 資料表的數目會顯示產生 Azure 使用量事件的國家/地區總計。
+**國家/地區**的表格數目會顯示產生 Azure 使用量事件的國家/地區總計。
 
-您可以搜尋並選取方格中的國家/地區，以縮放至地圖中的位置。 選取地圖上的 [ **首頁** ] 選項，以還原成原始的視圖。
+您可以搜尋並選取方格中的國家/地區，以縮放至地圖中的位置。 選取地圖上的 [ **首頁** ] 選項，以還原為原始視圖。
 
 :::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="依地理位置的 Azure 使用量":::
 
-**Azure 使用率**
+## <a name="azure-utilization"></a>Azure 使用量
 
-此視圖會依選取的 Azure 服務等級/計量類別，顯示每月的 Azure 耗用量收益或使用時數趨勢。 
+此視圖會依選取的 Azure 服務等級/計量類別，顯示每月的 Azure 耗用量收入或使用時間趨勢。 
 
-橫條圖會顯示每月的收益/使用時數趨勢。 折線圖會針對所選 Azure 服務等級/計量類別，顯示與上個月相比的成長趨勢。
+橫條圖會顯示每月的收入/使用時數趨勢。 折線圖會顯示所選 Azure 服務等級/計量類別的成長趨勢，相較于上個月。
 
 :::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure 使用量使用率":::
 
 ## <a name="next-steps"></a>後續步驟
 
-- 如需更多報告，請參閱 [合作夥伴中心深入](partner-center-insights.md)解析。
+- 如需詳細報表，請參閱 [合作夥伴中心 Insights](partner-center-insights.md)。
 
 >[!NOTE] 
-> 您可以從 [深入解析] 儀表板的 [下載報告] 區段，下載與此報表有關的原始資料。 [深入了解](pci-download-reports.md) 
+> 您可以從 [見解] 儀表板的 [下載報告] 區段中，下載開啟此報表的原始資料。 [深入了解](pci-download-reports.md) 
