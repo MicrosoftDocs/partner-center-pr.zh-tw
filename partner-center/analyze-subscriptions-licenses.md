@@ -1,20 +1,20 @@
 ---
 title: 分析訂閱與授權
-ms.date: 07/08/2020
+description: 瞭解如何使用 [訂用帳戶] 和 [授權分析] 頁面中的計量，找出需要更多注意的成功和區域。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解如何使用 [訂用帳戶] 和 [授權分析] 頁面中的計量，找出需要更多注意的成功和區域。
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 001d047e37bde14ac99de680ef4f59e136282120
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 07/08/2020
+ms.openlocfilehash: 8d16ef9150e83fbdd3c189aaa878ad466f3fe1f4
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220686"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367302"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>分析訂用帳戶和授權，以協助您推動業務決策和新目標
 

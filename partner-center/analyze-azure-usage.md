@@ -1,22 +1,22 @@
 ---
 title: 分析 Azure 使用量以協助拓展您的業務
-ms.date: 05/01/2020
+description: 瞭解如何使用合作夥伴中心來取得客戶 Azure 訂用帳戶使用方式的相關資料。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解如何使用合作夥伴中心來取得客戶 Azure 訂用帳戶使用方式的相關資料。
 author: amitravat
 ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 160191b4c881ab4b143c6a5bc3241e3fe26c701f
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 05/01/2020
+ms.openlocfilehash: 40d74e22463c522333e1bdb4116369f5f6c3937a
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87526944"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367442"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>取得您的客戶和 Azure 訂用帳戶的運作狀況資料
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>取得客戶和 Azure 訂用帳戶執行情況的相關資料
 
 **適用於**
 
@@ -32,10 +32,10 @@ ms.locfileid: "87526944"
 
 資料推動業務決策。 使用 **\[Azure 使用狀況\]** 頁面上的計量，找出您的成功之處、您客戶的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。
 
-若要取得**Azure 使用量**，請登入合作夥伴中心[儀表板](https:/partner.microsoft.com/dashboard)。 從 [合作夥伴中心] 功能表選取 [**分析**]，然後選取 [ **Azure 使用方式**]。
+若要取得 **Azure 使用量**，請登入合作夥伴中心 [儀表板](https:/partner.microsoft.com/dashboard)。 從合作夥伴中心] 功能表中選取 [ **分析** ]，然後選取 [ **Azure 使用量**]。
 
 > [!NOTE]
-> Azure 使用量分析僅適用于雲端解決方案提供者方案中的合作夥伴。
+> Azure 使用量分析僅適用于雲端解決方案提供者計畫中的合作夥伴。
 
 我們正在追蹤下列計量︰
 
@@ -51,11 +51,11 @@ ms.locfileid: "87526944"
 
 ## <a name="azure-subscriptions-at-risk"></a>有風險的 Azure 訂用帳戶
 
-本節指出 Azure 訂用帳戶的預測流失風險。 合作夥伴可以使用這項資訊來與客戶互動，並將流失降到最低
+本節指出 Azure 訂用帳戶的預測流失風險。 合作夥伴可以使用這項資訊來與客戶互動並將流失降至最低
 
 ## <a name="subscriptions-without-usage"></a>不具使用量的訂閱
 
-- 指定時段內沒有 Azure 使用量的特定訂用帳戶清單  
+- 特定訂用帳戶的清單，在指定的時段內沒有 Azure 使用量  
 
 ## <a name="azure-subscription-churn"></a>Azure 訂閱流失
 

@@ -1,20 +1,20 @@
 ---
 title: 銷售到特色產業
+description: 瞭解 Microsoft 對於特定客戶群組的特殊、更低的定價，包括教育客戶、非盈利客戶和政府使用者。
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 瞭解 Microsoft 對於特定客戶群組的特殊價格降低定價，包括教育客戶、非獲利客戶和政府使用者。
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 863084a34a35c887b18a58231ac86b45e3acd03f
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545529"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367172"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>銷售給特定產業，例如教育、非營利團體和政府使用者
 
@@ -34,27 +34,27 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 |**優惠價格**   |**經銷商要求資格**   |**客戶要求資格**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|教育訓練   |無   | 必須是[合格的教育使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
-|政府機關   |若要銷售 Azure，請使用[MICROSOFT 美國政府雲端驗證表單](https://azuregov.microsoft.com/csp)進行註冊。 若要銷售授權型訂閱給政府機構，沒有要求資格。|   無|
-|非營利  |無<br/> 必須有非營利 Azure Active Directory 租用戶。<br/> 深入了解[非營利特殊供應項目](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)。   |透過[Microsoft 非贏利計畫](https://nonprofit.microsoft.com/#/register)註冊以符合資格。   |
+|教育訓練   |無   | 必須是 [合格的教育使用者](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。   |
+|政府機關   |若要銷售 Azure，請使用 [MICROSOFT 美國政府雲端驗證表單](https://azuregov.microsoft.com/csp)進行註冊。 若要銷售授權型訂閱給政府機構，沒有要求資格。|   無|
+|非營利  |無<br/> 必須有非營利 Azure Active Directory 租用戶。<br/> 深入了解[非營利特殊供應項目](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf)。   |透過 [Microsoft 非贏利方案](https://nonprofit.microsoft.com/#/register) 註冊以符合資格。   |
 
 ## <a name="check-your-reseller-qualifications"></a>檢查您的經銷商資格
 
-下列步驟僅適用于間接提供者和直接帳單合作夥伴。 間接轉銷商必須與間接提供者連接，才能為合格教育使用者提供學術價格的供應專案。
+下列步驟僅適用于間接提供者和直接帳單合作夥伴。 間接轉銷商必須與間接提供者聯繫，才能將學術價格的供應專案提供給合格的教育使用者。
 
-1. 在您的合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)中，選取視窗右上角的齒輪圖示以開啟 [**帳戶設定**]。
+1. 在合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)中，選取視窗右上角的齒輪圖示以開啟 [ **帳戶設定**]。
 
 2. 在您的 **\[合作夥伴設定檔\]** 中，於 **\[計畫資訊\]** 區段，尋找 **\[經銷商資格\]**。
 
-3. 如果您沒有看到「**轉售商資格**」，表示您尚未獲得購買任何特殊優惠的授權。
+3. 如果您沒有看到 **轉售商的資格**，您還沒獲得購買任何特殊優惠的授權。
 
 ## <a name="check-the-customer-qualifications"></a>檢查客戶資格
 
-1. 從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]。 從清單中選擇客戶。
+1. 從 [ **合作夥伴中心** ] 功能表選取 [ **客戶**]。 從清單中選擇客戶。
 
-2. 從客戶功能表中，選取 **\[帳戶\]**。 在 [**公司資訊**] 區段中，尋找**特殊資格**。
+2. 從客戶功能表中，選取 **\[帳戶\]**。 在 [ **公司資訊** ] 區段中，尋找 **特殊的資格**。
 
-3. 如果**特殊資格**設定為 [**無**]，但客戶事實上符合資格，您可以**更新**其詳細資料以包含這些專案。
+3. 如果 **特殊的資格** 設定為 [ **無**]，但客戶確實符合資格，您可以 **更新** 其詳細資料，以將其納入。
 
 ## <a name="where-to-find-special-offers"></a>哪裡可以找到特別優惠
 
@@ -64,21 +64,21 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 只有當合作夥伴符合特定準則時，才能夠銷售特殊供應項目給客戶。 
 
-- 只有在客戶授權為教育機構時，才能購買教育優惠。 教育客戶只能接收教育和商業供應專案，但不能 (GCC) 的非收益或政府機關雲端。
-- 合作夥伴只能購買 GCC 客戶的 GCC 訂閱。 一旦客戶擁有 GCC 訂用帳戶，合作夥伴就無法購買商業、教育或非盈利訂閱。 
-- 合作夥伴只能購買非盈利客戶的商業或非收益訂閱。 合作夥伴無法為非盈利客戶購買 GCC 或教育版訂閱。
+- 只有當客戶已獲授權為教育機構時，才能購買教育版優惠。 教育客戶只能接收教育與商業供應專案，而不是 (GCC) 的非收益或政府社區雲端。
+- 合作夥伴只能購買 GCC 客戶的 GCC 訂用帳戶。 一旦客戶擁有 GCC 訂用帳戶，合作夥伴就無法購買商業、教育或非收益訂用帳戶。 
+- 合作夥伴只能購買非盈利客戶的商業或非收益訂用帳戶。 合作夥伴無法針對非盈利客戶購買 GCC 和教育版訂用帳戶。
 
-向客戶銷售特殊優惠的購買規則：
+銷售特殊供應專案給客戶的購買規則：
 
 |**客戶類型**   |**可以銷售**   |**無法銷售**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| 商業 |商業 | 非利潤、教育或政府社區雲端 |
-| 非收益 |商業、非利潤 | 教育或政府社區雲端 |
-| 教育訓練 |商業、教育 | 非收益或政府機構雲端 |
-| 政府社區雲端 |政府社區雲端 | 非利潤、教育或商用 |
+| 商業 |商業 | 非利潤、教育或政府社群雲端 |
+| 非收益 |商業、非收益 | 教育或政府社群雲端 |
+| 教育訓練 |商業、教育 | 非收益或政府社群雲端 |
+| 政府社群雲端 |政府社群雲端 | 非利潤、教育或商業 |
 
 ## <a name="next-steps"></a>後續步驟
 
-- [銷售 Minecraft：教育版教育客戶的訂閱](minecraft-subscriptions.md)
+- [銷售教育客戶 Minecraft: Education Edition 訂閱](minecraft-subscriptions.md)
 
 - [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
