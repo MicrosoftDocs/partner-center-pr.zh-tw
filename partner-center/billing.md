@@ -1,20 +1,20 @@
 ---
 title: 參考 - 合作夥伴中心計費文章
+description: 了解合作夥伴中心的計費和稅務主題。 資訊涵蓋計費資源、發票、CSP 計費和稅務。
 ms.topic: article
-ms.date: 04/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-Description: 了解合作夥伴中心的計費和稅務主題。 資訊涵蓋計費資源、發票、CSP 計費和稅務。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c78e90ab5d412f58384c039bcd4965170662ec0a
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.date: 04/05/2020
+ms.openlocfilehash: 0198da249d158603d848e8652eb14444cac7f4a5
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527404"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274997"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概觀：合作夥伴中心的主要計費和稅務文章
 
@@ -40,7 +40,7 @@ ms.locfileid: "87527404"
 | [常見帳單案例](common-billing-scenarios.md) | 如何了解常見的合作夥伴中心帳單案例 (針對每月和每年計費，以及一次性和週期性購買的帳單)。 |
 | [稅務責任和豁免](tax-and-tax-exemptions.md) | 說明您在合作夥伴中心業務上的稅務責任及稅務豁免。 |
 | [Azure 費用預算](set-an-azure-spending-budget-for-your-customers.md) | 如何為客戶設定 Azure 費用的預算。 |
-| [未付款、詐騙或濫用](non-payment--fraud--or-misuse.md) | 如何在合作夥伴中心內管理客戶未付款、詐騙或濫用的情形。 |
+| [未付款、詐騙或濫用](non-payment-fraud-misuse.md) | 如何在合作夥伴中心內管理客戶未付款、詐騙或濫用的情形。 |
 | [針對服務中斷要求 SLA 信用額度](request-credit.md) | 當服務中斷時，如何為您的客戶向 Microsoft 要求 SLA 信用額度。 |
 
 如果您要尋找合作夥伴中心 API 的計費資訊和資源，請參閱[開發人員計費文件](https://docs.microsoft.com/partner-center/develop/manage-billing)。

@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14f5a8e4f3ed25162ffc3c9f3dfa7ef0171f690b
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436727"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220196"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>合作夥伴安全性需求狀態 - 取得解答並查看目前狀態的報告
 
@@ -129,7 +129,7 @@ ms.locfileid: "86436727"
 
 識別哪些使用者已登入合作夥伴中心但未進行 MFA 驗證，並根據您目前的 MFA 實作進行驗證，可能很有幫助。 您可以使用 [Azure AD 登入報告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)知道使用者是否已完成 MFA 驗證。 Azure AD 登入報告目前僅適用於已訂閱 Azure AD Premium 的合作夥伴，或包含 Azure AD Premium (例如 EMS) 的任何 O365 SKU。
 
-**詳細資訊**
+## <a name="next-steps"></a>後續步驟
 
 - [合作夥伴中心安全性指引群組社群](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)
 - [合作夥伴中心安全性需求](partner-security-requirements.md)

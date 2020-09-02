@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3a958450349056dc24e7e46b2ecbb84c857938a0
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390605"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220506"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>合作夥伴獲得的信用點數 - 概述其在 CSP 的新商務體驗中的運作方式
 
@@ -73,11 +73,8 @@ ms.locfileid: "86390605"
 >[!Note]
 >客戶可以選擇是否要移除授與合作夥伴的任何存取權。 合作夥伴不應為了向 Microsoft 獲取合作夥伴所獲得信用點數此一目的，強制客戶為其指派適當的存取權，若是無法遵守這項要求，將使得合作夥伴沒有資格獲得合作夥伴所獲得信用點數。
 
-**詳細資訊**
+## <a name="next-steps"></a>後續步驟
 
 - [合作夥伴所獲得信用點數如何計算及付費](partner-earned-credit-explanation.md)
-
 - [管理 Azure 方案下的訂用帳戶和資源](azure-plan-manage.md)
-
 - [CSP 中新 Azure 商務體驗的價目表](azure-plan-price-list.md)
-
