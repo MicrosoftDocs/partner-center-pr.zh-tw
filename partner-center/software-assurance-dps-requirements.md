@@ -1,7 +1,7 @@
 ---
 title: 規劃服務參與的資格
 ms.topic: article
-ms.date: 08/20/2020
+ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 瞭解公司可能想要提供給企業客戶的每個軟體保證規劃服務參與的資格需求。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc1209794a4b12173ff25191a6f37bd0892ed54
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
+ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "88711820"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89286493"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>查看規劃服務參與的資格需求
 
@@ -31,9 +31,6 @@ ms.locfileid: "88711820"
 ## <a name="learn-more-about-each-engagement"></a>深入瞭解每個 engagement
 
 每個規劃服務參與都有自己專屬的資格需求，以及其本身允許的最長持續時間。
-
-> [!NOTE]
-> 您必須符合不同類型的專長認證需求，才能提供特定的規劃服務參與。 首先，您必須符合在規劃服務供應專案中註冊的最小專長認證需求。 然後，您的公司也必須符合提供特定類型參與的相關專長認證需求。
 
 若要深入瞭解這些 engagement 特定的專長認證需求，請參閱下表。
 
