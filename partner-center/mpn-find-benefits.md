@@ -1,7 +1,7 @@
 ---
 title: 尋找您的權益
 ms.topic: how-to
-ms.date: 08/27/2020
+ms.date: 09/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 瞭解如何在合作夥伴中心儀表板中找到您的 MPN 權益。
@@ -9,19 +9,14 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a953eb47623bce8c0133266e26715f54557444fc
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 938197707c7a27e1485e9d22030cc4a94094197d
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220758"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427115"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>找出您的 Microsoft 合作夥伴網路權益 
-
-本文說明 Microsoft 合作夥伴網路 (MPN 的成員) 如何在合作夥伴中心儀表板中尋找其 MPN 權益。 此資訊包括如何尋找與技術權益相關聯之公司的特定產品支援識別碼，例如合約識別碼和存取識別碼。
-
->[!NOTE]
-> 如果您的 Microsoft 合作夥伴網路成員資格仍 Partner Membership Center (PMC) ，您可能需要與其他資源（例如合作夥伴 Frontline）聯繫，以協助您查看或啟用特定權益。 如需詳細資訊，請參閱 [啟用合作夥伴中心之外的技術優勢](partner-membership-center-tech-benefits-activate.md)。
 
 ### <a name="applies-to"></a>適用於
 
@@ -32,7 +27,14 @@ ms.locfileid: "89220758"
 - MPN 合作夥伴系統管理員
 - 全域系統管理員
 
-Microsoft 合作夥伴網路 (MPN) 成員，您的公司可以存取許多可能有助於拓展業務的權益。 若要瞭解這些優點：
+本文說明 Microsoft 合作夥伴網路 (MPN 的成員) 如何在合作夥伴中心儀表板中尋找其 MPN 權益。 此資訊包括如何尋找與技術權益相關聯之公司的特定產品支援識別碼，例如合約識別碼和存取識別碼。
+
+>[!NOTE]
+> 如果您的 Microsoft 合作夥伴網路成員資格仍 Partner Membership Center (PMC) ，您可能需要與其他資源（例如合作夥伴 Frontline）聯繫，以協助您查看或啟用特定權益。 如需詳細資訊，請參閱 [啟用合作夥伴中心之外的技術優勢](partner-membership-center-tech-benefits-activate.md)。
+
+## <a name="find-your-mpn-benefits-in-partner-center"></a>在合作夥伴中心中找出您的 MPN 權益
+
+作為 Microsoft 合作夥伴網路成員，您的公司可以存取許多可能有助於拓展業務的權益。 若要瞭解這些優點：
 
 1. 登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard/home)，選取 [ **MPN**]，然後選取 [ **權益**]。
 
@@ -60,7 +62,7 @@ Microsoft 合作夥伴網路 (MPN) 成員，您的公司可以存取許多可能
 如需技術的優點，您將會在合作夥伴中心中看到 Microsoft 產品支援識別碼，例如 **存取識別碼** 和 **合約識別碼** 。
 
 >[!NOTE]
-> 如果您的 Microsoft 合作夥伴網路成員資格仍在 Partner Membership Center (PMC) ，而且尚未遷移至合作夥伴中心，您將需要聯繫合作夥伴 Frontline 來啟用技術權益，或接收您的支援存取識別碼和合約識別碼。
+> 如果您的 Microsoft 合作夥伴網路成員資格仍在 Partner Membership Center (PMC) ，而且尚未遷移至合作夥伴中心，您將需要 [聯繫合作夥伴 Frontline](partner-membership-center-tech-benefits-activate.md) 來啟用技術權益，或接收您的支援存取識別碼和合約識別碼。
 
  請遵循下列步驟，在合作夥伴中心中查看這項資訊：
 
