@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c1d850663224469f24d5d4442e33cc17c1bb6704
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 58acef4599333929446a283ecde1cca9f3ef9ce8
+ms.sourcegitcommit: 983457c8e8fcfbfe48b80b1c86fe894c1e106eb3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220236"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89443584"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>針對帳戶設定或 MPN 續約問題進行疑難排解
 
@@ -31,13 +31,15 @@ ms.locfileid: "89220236"
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>如果您要從 Partner Membership Center 進行遷移，而且無法編輯任何公司資訊欄位，會發生什麼事
 
-這種情況發生在您的公司已經有合作夥伴中心 (表示 CSP 帳戶) 中的情況下，您將會看到一個唯讀畫面，它會顯示有關公司存在於合作夥伴中心中的所有資訊。
+如果您的公司已經有合作夥伴中心的 (說 CSP 帳戶) –您將會看到一個唯讀畫面，它會顯示您的公司存在於合作夥伴中心中的所有相關資訊。
 
 您無法變更此畫面上的詳細資料。 這是設計的，而不是錯誤。
 
 選取 [ **接受** ] 並 **繼續** 進行。
 
-## <a name="you-are-trying-to-enroll-or-to-migrate-from-partner-membership-center-and-you-receive-an-error-message-saying-that-the-it-department-has-turned-off-sign-up-for-partner-center"></a>您正在嘗試註冊或從 Partner Membership Center 進行遷移，而您收到錯誤訊息，指出 IT 部門已關閉 **註冊以進行合作夥伴中心**。
+
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>如果 IT 部門已關閉合作夥伴中心的 **註冊**。
+
 
 您會看到此訊息，是因為已停用病毒使用者，或在 Azure AD 租使用者上停用了病毒註冊。 您 Azure AD 帳戶的全域管理員可以執行下列 PowerShell 命令來啟用所需的功能：
 
@@ -51,11 +53,13 @@ ms.locfileid: "89220236"
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>在 [告訴我們您公司的相關資訊] 畫面上，您會收到「發生錯誤」錯誤
 
-如果您不小心在公司電話號碼中使用特殊字元、空格或國家/地區代碼，則通常會發生這種情況。 [電話號碼] 欄位中輸入的值最多隻能包含10個字元。
+如果您不小心在公司電話號碼中使用特殊字元、空格或國家/地區代碼，則通常會出現此錯誤訊息。 [電話號碼] 欄位中輸入的值最多隻能包含10個字元。
 
-## <a name="you-are-trying-to-complete-the-purchase-via-credit-card-but-you-are-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>您正在嘗試透過信用卡完成購買，但收到錯誤訊息，指出「您的訂單已被拒。 請驗證您的資訊」
 
-您應一律插入與信用卡對應的位址，而不是與您的法律實體對應。 此外，請確定郵遞區號正確，並對應至您所使用的位址。
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>您的信用卡購買收到錯誤訊息，指出「您的訂單已遭到拒絕。 請驗證您的資訊」
+
+
+請一律使用與信用卡相對應的位址，而不是您的法律實體。 此外，請確定郵遞區號正確，並對應至您所使用的位址。
 
 ## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>您想要從離線付款切換至線上付款條件 
 
@@ -68,3 +72,8 @@ ms.locfileid: "89220236"
 2. 選取 [**取消訂單**]
 
 3. 確認視窗會出現，您必須確認才能取消最初訂單。
+
+## <a name="next-steps"></a>後續步驟
+
+- [管理您的合作夥伴中心帳戶](partner-center-account-setup.md)
+- [如何讀取帳單和偵察檔案](read-your-bill.md)

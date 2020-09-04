@@ -9,18 +9,57 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 6382e5e594dbe68c63cbbad1313948fedcf0fd89
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
+ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303054"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89274986"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月公告
 
 本頁詳述 Microsoft 合作夥伴中心 2020 年 8 月的公告。
 
 2020 公告：[1 月](2020-january.md) | [2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | 8 月
+
+________________
+
+## <a name="partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="8"></a>教育客戶驗證程序的合作夥伴中心 API 更新和使用者介面增強功能
+
+### <a name="categories"></a>類別
+
+- 日期：2020-08-31
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 計畫銷售學術供應項目的合作夥伴 
+
+### <a name="summary"></a>摘要
+
+Microsoft 的營運以信任為原則，針對在雲端解決方案提供者計畫中從事學術供應項目交易時所需的客戶驗證，提供符合規範且安全的方法，是我們一貫努力的目標。 為履行此承諾，我們將在本會計年度第二季 (FY21 Q2) 導入合作夥伴中心 API 和使用者介面增強功能，讓客戶審查程序更加清楚明瞭，且能夠輸入更精確的資料，以提升客戶審查的成功率。 
+
+#### <a name="partner-center-enhancements"></a>合作夥伴中心的增強功能
+
+- 新的 GET 和 POST 資格 API 可支援精確的資料輸入，並改善 Microsoft 的教育客戶驗證程序。
+- 使用者介面增強功能可支援精確的資料輸入，並改善 Microsoft 的教育客戶驗證程序。
+
+#### <a name="testing"></a>測試
+
+從 10 月開始，合作夥伴將有機會測試這些增強功能。 強烈建議您利用這個機會，進一步了解成功的客戶審查所需的 API 和資料輸入。 我們將在近期提供關於確切時間和如何參與的詳細資料。 現有的合作夥伴中心 API 將會在 FY21 Q2 結束前淘汰，屆時，所有合作夥伴都必須轉換成使用新的合作夥伴中心 API。
+
+#### <a name="library-and-museum-customers"></a>圖書館和博物館客戶
+
+除了上述增強功能以外，我們也迫不及待地宣佈，在 FY21 Q2，我們將為圖書館和博物館客戶啟用學術定價供應項目，以擴展您可以銷售 CSP 供應項目的教育客戶。
+
+Microsoft 保留對任何客戶或建議客戶審查其教育使用者資格的權利。 如需完整詳細資料，請參閱[學術合格教育使用者需求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。
+
+### <a name="next-stepsadditional-resources"></a>後續步驟/其他資源
+
+- 在作業整備資源中檢閱新的合作夥伴中心使用者介面和 API 變更：[合作夥伴中心教育客戶驗證程序增強功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- 請確定您的組織已熟悉[學術合格教育使用者需求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。
+- 請與組織中的適當小組以及轉銷商分享這項資訊，協助他們為這些變更做好準備。
+- 觀看 10 月份測試商機的更新，我們將在此提供關於確切時間和如何參與的詳細資料。
 
 ________________
 

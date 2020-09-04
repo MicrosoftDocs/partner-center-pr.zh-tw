@@ -1,7 +1,7 @@
 ---
 title: 獎勵合作宣告的核心要求
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 08/31/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解如何在獎勵計畫中產生需求、了解市場開發，以及讓合作夥伴為活動做好充分的準備。
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3246b04c74e1d5daa047a12fabcf78d4e6f11807
-ms.sourcegitcommit: ddc99fa026f3e8a3dbe10b4a6f883e7f58de00df
+ms.openlocfilehash: 070f73cbb8387510d7fe358e48c1116b16630fad
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/10/2020
-ms.locfileid: "88039461"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220666"
 ---
 # <a name="incentives-co-op-claims-core-requirements"></a>獎勵合作宣告需求
 
@@ -208,7 +208,7 @@ ms.locfileid: "88039461"
 | 計量     | NA |
 |合格費用    | NA |
 
- 如需詳細資訊，請下載[合作夥伴獎勵合作指南](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (需要登入)
+ 如需詳細資訊，請下載[合作夥伴獎勵合作指南](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) (需要登入)。
 
 ## <a name="next-steps"></a>後續步驟
 

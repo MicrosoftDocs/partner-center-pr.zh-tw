@@ -1,7 +1,7 @@
 ---
 title: 管理 Microsoft 合作夥伴網路權益
 ms.topic: article
-ms.date: 06/15/2020
+ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作夥伴網路 (MPN)，並使用合作夥伴中心來管理可協助拓展您業務的會員資格權益和優惠。
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb44a8c32476995275535e1252e2bc9ae2c618d1
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
+ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120006"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "89220746"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作夥伴中心管理您的 Microsoft 合作夥伴網路會員資格權益和優惠
 
@@ -41,9 +41,11 @@ ms.locfileid: "87120006"
 >[!IMPORTANT]
 >您不必是組織中的全域系統管理員就能購買權益，但您必須是全域系統管理員才能指派權益給員工。 如有需要，您可以依照 [[權益] 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits)中的指示 (需要登入) 成為全域系統管理員。 貴公司可能已經有全域系統管理員，請務必洽詢您的團隊。
 
-權益套件包括配置授權軟體、雲端服務、Visual Studio 訂閱和支援。 權益套件也可以包括特定的進入市場資源、供應項目和方案。 您可以在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/internal-use-software)網站找到行動套件訂閱的詳細資料。  
+權益套件包括授權軟體、雲端服務、Visual Studio 訂閱和技術支援的配置。 權益套件也可包括特定的上市資源、供應項目和市場相關計畫。 您可以在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/internal-use-software)網站找到行動套件訂閱的詳細資料。  
 
 若要檢視和管理您的所有會員資格權益，請前往您的 [[權益] 頁面](https://partnercenter.microsoft.com/pcv/partnership/benefits) (需要登入)。 或者，您可以登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)，從左側功能表中選取 [權益選項]，然後選取所顯示的任何權益選項。  
+
+啟用大部分的權益或下載相關的軟體金鑰時，合作夥伴中心通常都需要將某個人指派為全域管理員或 MPN 夥伴系統管理員角色。如果您看不到任何權益或無法啟用權益，請洽詢合作夥伴中心全域管理員，以確定您擁有正確的權限。 [深入了解合作夥伴中心角色](permissions-overview.md)。
 
 ## <a name="manage-software-benefits"></a>管理軟體權益
 
@@ -88,23 +90,27 @@ ms.locfileid: "87120006"
 
 ## <a name="manage-technical-benefits"></a>管理技術權益
 
-1. 選取 [技術權益] 以查看您的 Microsoft 技術權益清單。
+本節說明如何在合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)中啟用和管理技術支援權益。 不過，如果您的 Microsoft 合作夥伴網路成員資格仍在合作夥伴成員資格中心 (PMC) 中，您就必須與其他資源 (例如 Partner Frontline) 聯繫，以協助您啟用技術權益。 請參閱[在合作夥伴中心以外啟用技術權益](partner-membership-center-tech-benefits-activate.md)。
 
-   技術權益可能包含 Microsoft 產品支援事件、合作夥伴諮詢時數，以及技術售前和部署服務。
+若要在合作夥伴中心查看您的技術權益，請執行下列動作：
 
-2. 尋找您要開始使用的支援權益，然後選取資料列最右邊的向下箭頭，即可展開支援權益的詳細資料。
+1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-3. 若要啟用支援權益，請將使用者指派給此項權益。
+2. 選取 [權益]，然後從左側導覽功能表選取 [技術權益]。 [技術權益] 頁面隨即出現，其中列出您的任何金級、銀級或 Microsoft 行動套件專長認證適用的技術支援權益。
 
-   a. 從清單中選取使用者。 若想要指派的使用者不在清單中，您可以在 [帳戶設定] 中[新增使用者](create-user-accounts-and-set-permissions.md)。
+   若未看到這些選項或 [技術權益] 頁面，表示您可能未在合作夥伴中心指派正確的[使用者角色](permissions-overview.md)。 請洽詢您的合作夥伴中心全域管理員以取得存取權。
 
-   b. 提供使用者的電子郵件地址，但此地址不同於和貴公司合作夥伴中心帳戶相關聯的電子郵件地址。
+3. 展開權益清單。 若要開始使用特定的支援權益，您必須在第一次使用時執行下列動作：
 
-   做為保護措施，我們將會透過電子郵件將存取 Microsoft 產品支援的指示傳送到此電子郵件地址，除了使用者的合作夥伴中心帳戶電子郵件。 可能需要數天來啟用這個權益及透過電子郵件傳送指示給受指派的使用者。
+   - **啟用技術權益。** 在展開權益的詳細資料後，選取 [啟用]。 處理啟用要求需要幾天的時間，請耐心等候。
 
-   c. 完成輸入其他電子郵件地址後，選取 [指派使用者]。
+   - **檢視及共用產品支援存取識別碼和合約識別碼。** 在您的啟用要求處理完成後，您將在下一次展開該技術權益時，看到 [存取識別碼] 和 [合約識別碼] 的詳細資料。 當您第一次提交特定產品或服務類型的支援要求時，您或公司的使用者可能需要共用這項資訊。
 
-4. 在雲端和混合式解決方案的售前、設計、部署及應用程式開發階段，您可以使用您的技術售前協助或諮詢時數權益來請求技術協助。 若要請求協助，請填寫[要求表單](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)，然後選取 [提交要求]。
+4. 啟用之後，您即可使用不同技術支援類型的技術權益。 若要提交這類服務的技術支援要求，請閱讀 [技術權益] 頁面上的詳細指示：
+
+   - 代表您的客戶要求雲端產品的支援
+   - 要求內部部署產品的支援
+   - 要求技術售前和部署服務或[諮詢時數](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
 
 ## <a name="manage-go-to-market-offers"></a>管理進入市場供應項目
 
