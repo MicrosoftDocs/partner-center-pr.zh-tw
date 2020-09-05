@@ -9,16 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0aa6efabbff39d63847451c667d48f723ad33b24
-ms.sourcegitcommit: 2d78a1a110a78c0997775f3613f1b08e333c546c
+ms.openlocfilehash: 4daaaa9cdaa0392b90a67d7fc0a8957d3393d6e3
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "88942560"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490616"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>獲得先進的特製化，以展示專長並與客戶脫穎而出 
 
-藉由獲得先進的特製化來與客戶區隔。 「先進特製化」是驗證您在特定解決方案領域提供高精確度服務的能力。 客戶會看到您的 advanced 特製化顯示在合作夥伴目錄中的商務設定檔上。 [深入了解](https://partner.microsoft.com/membership/advanced-specialization)。
+藉由獲得先進的特製化來與客戶區隔。 「先進特製化」是驗證您在特定解決方案領域提供高精確度服務的能力。 客戶會看到您的 advanced 特製化顯示在合作夥伴目錄中的商務設定檔上。 [進一步瞭解](https://partner.microsoft.com/membership/advanced-specialization)。
 
 ## <a name="use-partner-center-to-move-through-the-application-process"></a>使用合作夥伴中心在應用程式進程間移動
 
@@ -28,7 +28,7 @@ ms.locfileid: "88942560"
 
 如果您有興趣瞭解將 **Web 應用程式現代化為 Microsoft Azure**的 advanced 特製化，請從 [合作夥伴中心] 功能表中選取它。 您會進入 [必要條件] 頁面。
 
-:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="先決條件":::
+:::image type="content" source="images/advancedspecializations/as-1.png" alt-text="顯示需要獲得主動式金級雲端平臺專長認證之需求的範例必要條件頁面。":::
 
 
 在您符合所有必要條件之前，您的狀態仍 **不會啟動。** 當您符合必要條件之後，就會啟用 [ **排程審核** ] 按鈕。 您必須使用協力廠商的審核程式來完成審核，以進行下列 Azure advanced 特殊化：
@@ -47,7 +47,7 @@ ms.locfileid: "88942560"
 
 需要客戶參考的先進特製化範例是 **Microsoft 團隊的會議和會議室**。 除了金級專長認證、認證和效能需求之外，您還必須提供三個客戶參考，以示範您部署和管理的能力。
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="先決條件":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="需要客戶參考的範例 advanced 特殊化必要條件頁面。":::
 
 在您符合所有必要條件之前，您的狀態仍 **不會啟動。** 當您完成所有需求時，您的 **狀態會是 [作用中]**。 [作用中狀態] 會自動在您的 **商務設定檔** 上啟用標記，而所有客戶都可以看到搜尋 [解決方案提供者](https://www.microsoft.com/solution-providers/home)。
 
