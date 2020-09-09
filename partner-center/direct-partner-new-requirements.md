@@ -1,20 +1,20 @@
 ---
 title: CSP 直接計費合作夥伴的需求
+description: 了解如何符合最新的支援和服務需求，以成為 Microsoft 雲端解決方案提供者 (CSP) 計畫中的直接計費合作夥伴。
 ms.topic: article
-ms.date: 04/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解如何符合最新的支援和服務需求，以成為 Microsoft 雲端解決方案提供者 (CSP) 計畫中的直接計費合作夥伴。
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: aa5ac9b7e8951d27f5e55f303a3506f78179600f
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.date: 04/27/2020
+ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120019"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89366852"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>註冊為 CSP 直接計費合作夥伴的需求
 

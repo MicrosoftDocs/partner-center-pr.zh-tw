@@ -1,20 +1,20 @@
 ---
 title: 證明客戶接受 Microsoft 客戶合約
+description: 了解代表客戶證明接受 Microsoft 客戶合約的適當時機。
 ms.topic: article
-ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-Description: 了解代表客戶證明接受 Microsoft 客戶合約的適當時機。
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e687df87b933bfad2e1cd3f631c730c54986cd42
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.date: 06/16/2020
+ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435967"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "89367332"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>代表客戶證明接受 Microsoft 客戶合約
 
