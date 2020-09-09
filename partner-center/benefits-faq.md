@@ -1,7 +1,7 @@
 ---
 title: 權益常見問題集
 ms.topic: article
-ms.date: 06/17/2020
+ms.date: 09/08/2020
 description: 針對 Azure、雲端、Visual Studio 和技術及支援權益的權益到期、更新及啟用授權問題的解答
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: ea89b3dae9d57957431e6e23c5fd102de3898d8f
-ms.sourcegitcommit: b5dd3427cec176a55f00394f4f33b2b570d4abd5
+ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/08/2020
-ms.locfileid: "89551639"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564728"
 ---
 # <a name="benefits-faq"></a>權益常見問題集
 
@@ -95,7 +95,8 @@ ms.locfileid: "89551639"
 
 指派訂用帳戶之後，使用者必須登入 Visual Studio 才能管理該訂用帳戶。
 
-注意：在原始指派的90天之前，無法移除在合作夥伴中心上指派給 Visual Studio 訂用帳戶的使用者
+>[!Note]
+> 在合作夥伴中心上指派給 Visual Studio 訂用帳戶的使用者，必須等到原始指派後的90天后才能移除。
 
 ## <a name="technical-benefits-and-support"></a>技術權益和支援
 
