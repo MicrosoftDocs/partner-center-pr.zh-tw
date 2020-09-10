@@ -9,18 +9,103 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/01/2020
-ms.openlocfilehash: a2d89b8ff40cbfd3b64b109b23c5dc05901c99a2
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: a036cb1cd0b987e12cfe16aca2c7cf98a80cee55
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89287791"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564738"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
 本頁詳述 Microsoft 合作夥伴中心 2020 年 9 月的公告。
 
 2020 公告：[2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | 9 月
+
+________________
+
+## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="5"></a>新的 SKU 將 Project Cortex 等技術的威力帶給客戶
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-08
+- 供應項目/市場
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴
+
+### <a name="summary"></a>摘要
+
+可協助客戶充分利用 [Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) 和 [Project Turing](https://msturing.org/) 威力的新 SKU 將於 2020 年 10 月 1 日起開放交易。
+
+### <a name="details"></a>詳細資料
+
+我們很高興地宣佈包括 [Project Cortex](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) (智慧型內容服務) 和 Microsoft Search (包括適用於 Microsoft Search 的 Microsoft Graph 連接器) 在內的新 SKU 將於 2020 年 10 月 1 日正式推出，可讓使用者更有效率地尋找及管理資訊。  
+
+#### <a name="intelligent-content-services"></a>智慧型內容服務
+  
+智慧型內容服務使用進階 AI 來自動擷取、標記和管理內容。 其建置於 SharePoint 之上，以便能夠處理大量內容、擷取中繼資料以進行程序自動化，以及實現更細微的安全性和合規性。 智慧型內容服務會藉由將更正確且更精確的內容推送至您的知識網路，來改善知識的鑑藏和探索體驗。 新的智慧型內容服務 SKU 可於 **10 月 1 日的價目表** (以及 9 月 1 日的價目表預覽) 中取得。 
+ 
+**注意：** 智慧型內容服務是此產品的預留位置名稱，2020 年 10 月 1 日之後可能會更名。
+ 
+**適用於 Microsoft Search 的 Microsoft Graph 連接器** Microsoft Graph 連接器可讓客戶為外部存放庫中的項目編制索引，以納入 Microsoft Search 結果。 
+
+自 2020 年 10 月 1 日起： 
+
+- Microsoft 365 E5 和 Office 365 E5 將能夠使用適用於 Microsoft Search 的 Microsoft Graph 連接器 (A5 中未包含)，為多達 500 個項目編制索引。  
+- 任何具有套件或獨立授權 (包含 SharePoint 或 OneDrive 方案) 的使用者，都可以從適用於 Microsoft Search 的 Microsoft Graph 連接器查看搜尋結果。 
+- 將有新的**額外 Graph 連接器容量 SKU** 可供您另外編制多達 100 萬個項目的索引。  
+
+#### <a name="offer-details"></a>供應項目詳細資料
+
+   |**供應項目名稱**|**優惠識別碼**|**材質識別碼**|
+   |-------------------|:------|:------|
+   |智慧型內容服務|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
+   |智慧型內容服務 (非盈利組織員工定價)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
+   |適用於教職員的智慧型內容服務|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
+   |額外的 Graph 連接器容量|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
+   |適用於教職員的額外 Graph 連接器容量|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
+
+### <a name="next-steps"></a>後續步驟
+
+- 檢閱本主題的資源，並與您組織中適當的利害關係人分享這些資源。
+- 如果您對這些供應項目有任何疑問，請洽詢相關的 Yammer 社群。
+
+________________
+
+## <a name="enhanced-incentives-support-experience-and-ticket-creation-process"></a><a name="4"></a>提升的獎勵支援體驗和票證建立程式
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-02
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+所有合作夥伴
+
+### <a name="summary"></a>摘要
+
+合作夥伴獎勵支援體驗已透過改良的自助式內容探索能力和簡化的線上票證提交程序獲得強化。
+
+### <a name="details"></a>詳細資料
+
+已增對合作夥伴獎勵新增增強功能，透過更優異的自助式內容探索能力和簡化的票證提交程序來改善您的整體支援體驗，以減少支援過程中必須來回收集資料的情形。
+
+#### <a name="new-capabilities"></a>新功能
+
+- 新的搜尋式自助體驗可在[合作夥伴中心](https://aka.ms/IncentivesSupport)內以及 [Microsoft 合作夥伴網路](https://partner.microsoft.com/support/?stage=1) (若使用非合作夥伴中心帳戶) 上存取。 新的體驗包含新的疑難排解步驟、常見問題集和相關自助文章的連結，以及在 Microsoft 合作夥伴網路支援頁面上。
+- 直接在合作夥伴中心起始新的支援要求。 在檢視可用的主題特定說明之後，如果您仍然需要協助，就只能直接從合作夥伴中心建立票證。
+- 每個自助主題都有新的問題界定問題。 完成這些問題可讓服務專員事先獲得許多重要的詳細資料，藉此大量降低支援票證一開始就必須來回收集資料的情形。
+
+
+### <a name="next-steps"></a>後續步驟
+
+- 與您組織中的其他人共用這項資訊。 
+- 透過[合作夥伴中心](https://aka.ms/IncentivesSupport)或在 [Microsoft 合作夥伴網路](https://partner.microsoft.com/support/?stage=1)上使用新的支援體驗，以滿足您所有的獎勵支援需求。 
+
+**注意：** 不接受透過直接電子郵件來提交支援要求，因此此功能已遭到淘汰。
 
 ________________
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 5309b7cca20aff3fb37c0dd7607ba7439f2851c4
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
+ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427095"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89564758"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,7 +22,8 @@ ms.locfileid: "89427095"
 
 | **類別** | **2020 年 9 月公告** | **公告** |
 |---------|:---------|:---------|
-|供應項目/市場|[提升的獎勵支援體驗和票證建立程式](2020-september.md#4)|9 月 2 日|
+|供應項目/市場|[新的 SKU 將 Project Cortex 等技術的威力帶給客戶](2020-september.md#5)|9 月 8 日|
+|功能|[提升的獎勵支援體驗和票證建立程式](2020-september.md#4)|9 月 2 日|
 |供應項目/市場|[即將推出新的 Microsoft Dynamics 365 供應項目](2020-september.md#3)|9 月 1 日|
 |供應項目/市場|[自 2020 年 10 月 1 日起將在新市場開始提供 Microsoft 365 通話方案](2020-september.md#2)|9 月 1 日|
 |供應項目/市場|[現已推出適用於教育用伺服器的 Microsoft Defender 進階威脅防護 (ATP)](2020-september.md#1)|9 月 1 日|

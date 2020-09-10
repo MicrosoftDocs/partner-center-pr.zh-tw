@@ -1,7 +1,7 @@
 ---
 title: 管理 Microsoft 合作夥伴網路權益
 ms.topic: article
-ms.date: 08/27/2020
+ms.date: 09/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作夥伴網路 (MPN)，並使用合作夥伴中心來管理可協助拓展您業務的會員資格權益和優惠。
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff62fbcd082dc69204831cc57bc7af36b83762fa
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
+ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220746"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "89427085"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作夥伴中心管理您的 Microsoft 合作夥伴網路會員資格權益和優惠
 
@@ -106,12 +106,23 @@ ms.locfileid: "89220746"
 
    - **檢視及共用產品支援存取識別碼和合約識別碼。** 在您的啟用要求處理完成後，您將在下一次展開該技術權益時，看到 [存取識別碼] 和 [合約識別碼] 的詳細資料。 當您第一次提交特定產品或服務類型的支援要求時，您或公司的使用者可能需要共用這項資訊。
 
-4. 啟用之後，您即可使用不同技術支援類型的技術權益。 若要提交這類服務的技術支援要求，請閱讀 [技術權益] 頁面上的詳細指示：
+4. 啟用之後，您即可使用不同技術支援類型的技術權益。 若要提交下列服務的技術支援要求，請閱讀 [技術權益] 頁面上的詳細指示。 另請參閱下列詳細資料。
 
-   - 代表您的客戶要求雲端產品的支援
-   - 要求內部部署產品的支援
-   - 要求技術售前和部署服務或[諮詢時數](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)
+   合作夥伴中心的 [技術權益] 頁面會說明這些技術支援類型：
 
+   **技術支援 (協助修正)。** 當功能故障時，或沒有如預期般運作時 (例如，當您收到錯誤訊息時)，請使用這種技術支援。 以下是一些指導方針：
+
+   - 僅適用於金級/銀級專長認證合作夥伴 (不適用於行動套件訂閱者)，請針對**雲端產品**使用**簽章產品支援**。
+
+   - 若為行動套件和金級/銀級專長認證合作夥伴，請針對**最近的內部部署產品** (僅限目前版本和舊版) 使用 **Microsoft 產品支援**事件。
+
+     >[!NOTE]
+     > 內部部署、Azure (非 CSP) 和 Dynamics 產品的技術支援要求需要存取識別碼和合約識別碼。 日後若要尋找您的存取識別碼和合約識別碼，您也可以閱讀[尋找您的權益](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)。
+  
+   **技術預售和部署服務。**  使用這種類型的支援來獲得關於技術銷售或部署的諮詢或建議。 您可以直接從[合作夥伴中心](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)要求這些服務。
+
+   - 針對行動套件和金級/銀級專長認證合作夥伴，請針對雲端和混合式解決方案使用**技術預售和部署服務**。
+  
 ## <a name="manage-go-to-market-offers"></a>管理進入市場供應項目
 
 **執行此工作的適當角色：**

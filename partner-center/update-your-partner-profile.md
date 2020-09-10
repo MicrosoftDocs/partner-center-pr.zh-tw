@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.localizationpriority: high
 ms.date: 07/10/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ba59ee7b502d06aa5f95ca45fa86aa10fcab059
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
+ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304975"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "89490636"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>在合作夥伴中心確認您的合作夥伴設定檔資訊
 
@@ -55,6 +55,17 @@ ms.locfileid: "89304975"
 2. 接著，移至 [合作夥伴設定檔]，然後選取 [更新法定公司設定檔]。
 
 3. 選取您想要用來作為法定公司的位置和公司，然後選取 [儲存]。
+
+## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>更新與您的 CSP 帳戶相關聯的 MPN 識別碼
+
+若要更新與您的 CSP 帳戶相關聯的 MPN 識別碼：
+
+1. 登入合作夥伴中心儀表板。
+1. 從 [帳戶設定] 中選取 [合作夥伴設定檔]。
+1. 在 [相關聯的 MPNID] 旁，選取 [更新]。
+1. 選取 [繼續]  。
+1. 新增您的 MPN 識別碼。
+
 
 ## <a name="update-your-billing-address"></a>更新帳單地址
 
