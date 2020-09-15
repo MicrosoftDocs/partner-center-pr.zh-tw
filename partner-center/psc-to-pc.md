@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 936a1ec026ce502037d419874a169d3afdca5472
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
+ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490656"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90082516"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作夥伴中心 (電腦) 共同銷售的指南，適用于從合作夥伴銷售 Connect (PSC 進行遷移的合作夥伴) 
 
@@ -43,6 +43,9 @@ ms.locfileid: "89490656"
 - 使用合作夥伴中心 [帳戶管理員](https://docs.microsoft.com/partner-center/permissions-overview)的協助來設定您的帳戶。
 - 閱讀這份檔，瞭解如何在合作夥伴中心中共同銷售。
 - 在合作夥伴中心中為所有您的 PSC 使用者 (系統管理員、交易管理員和賣方) 角色設定使用者帳戶，並為其指派 [參考系統管理員角色](https://docs.microsoft.com/partner-center/permissions-overview)。
+
+>[!Important]
+> 請確定在合作夥伴中心的 MPN 位置清單中有提供 PSC 橫幅中顯示的 MPN 識別碼。 您可以前往中的 [帳戶設定] 和 [ [位置](https://docs.microsoft.com/partner-center/manage-locations) ] 來確認合作夥伴中心，以尋找與合作夥伴中心帳戶相關聯的所有 MPNs 清單。
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>如果您是 PSC 交易經理或賣方
 
