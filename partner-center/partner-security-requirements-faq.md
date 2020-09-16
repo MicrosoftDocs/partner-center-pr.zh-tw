@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 055f7f43e9b5d866c18680de000d6cee01e2e165
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87444902"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614155"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
 
@@ -214,7 +214,7 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>我正在使用 PowerShell 之類的自動化工具。 我要如何實作安全應用程式模型？
 
-如果您的自動化是要以非互動方式執行，且仰賴使用使用者認證進行驗證，則您必須實作安全應用程式模型。 請參閱[安全應用程式模型 | 合作夥伴中心 PowerShell](https://docs.microsoft.com/powershell/partnercenter/secure-app-model?view=partnercenterps-1.5) \(英文\) 以取得如何實作此架構的指引。  
+如果您的自動化是要以非互動方式執行，且仰賴使用使用者認證進行驗證，則您必須實作安全應用程式模型。 請參閱[安全應用程式模型 | 合作夥伴中心 PowerShell](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) \(英文\) 以取得如何實作此架構的指引。  
 
 >[!Note] 
 >並非所有自動化工具都會提供使用存取權杖進行驗證的能力。 如果您需要協助以了解應該進行哪些變更，請在[合作夥伴中心安全性指引](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) \(英文\) 群組上張貼訊息。 
@@ -292,7 +292,7 @@ CPV 必須在與其註冊為 CPV 時所關聯的租用戶中建立 Azure Active 
 
 為了驗證存取資源的帳戶是否受到多重要素驗證的挑戰，我們會檢查[驗證方法參考](https://tools.ietf.org/html/rfc8176)宣告，以查看是否已列出 MFA。 有些第三方解決方案不會發出此宣告，或不包含 MFA 值。 如果遺漏宣告，或未列出 MFA 值，則無法判斷驗證的帳戶是否已挑戰多重要素驗證。 您必須與第三方解決方案的廠商合作，以判斷需要採取哪些動作，解決方案才會發出驗證方法參考宣告。
 
-如果您不確定您的第三方解決方案是否發出預期宣告，請參閱[測試合作夥伴安全性需求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements?view=partnercenterps-2.0)。
+如果您不確定您的第三方解決方案是否發出預期宣告，請參閱[測試合作夥伴安全性需求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)。
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA 阻止我使用 AOBO 來支援我的客戶，我該怎麼做？
 
