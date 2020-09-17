@@ -292,8 +292,8 @@
           href: organization-tax-info.md
         - name: 收取預扣稅額
           href: withholding-tax-credit-form.md
-        - name: Office 365 合作夥伴諮詢：雲端解決方案提供者計畫中的 Microsoft 365 商務版 Voice
-          href: o365-partner-advisory.md
+        - name: 地區稅務 - 語音服務
+          href: tax-and-fees-voice-services.md
     - name: 向 Microsoft 要求 SLA 信用額度
       href: request-credit.md
     - name: 為客戶設定 Azure 消費預算
