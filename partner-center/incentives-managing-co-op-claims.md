@@ -7,15 +7,15 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: c21875f53c4263fd21c0e12e9ec3347bc0e07278
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 129c89a443b3de828ea8c22b4de82597aa8af831
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220536"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714422"
 ---
-# <a name="manage-co-op-claims"></a>管理合作宣告
+# <a name="manage-incentives-co-op-claims"></a>管理獎勵共同作業宣告
 
 **適用於：**
 
@@ -73,6 +73,6 @@ ms.locfileid: "89220536"
 
 合作索賠驗證小組會在五個工作天內審查索賠。 在這段期間，狀態將會顯示為 [有爭議]。 我們可能會連絡您以要求提供其他資訊。 審查完成時，驗證小組會將狀態更新為 [已核准]、[已拒絕]，或 [需要合作夥伴動作]。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [開始使用獎勵](incentives-get-started-intro.md)

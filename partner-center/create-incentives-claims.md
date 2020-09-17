@@ -1,7 +1,7 @@
 ---
-title: 建立及管理獎勵理賠 |合作夥伴中心
+title: 管理獎勵共同作業宣告
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 瞭解如何起始合作夥伴中心的獎勵共同作業宣告。 您可以在歷程記錄中查看在建置宣告過程中加入的所有活動。
@@ -9,16 +9,17 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: fbeb506e02f8375ef12c4d1db43c4315aa7b665c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 406aba55b53919d3f189a67ef49b5c41991fef7d
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220656"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714132"
 ---
-# <a name="create-and-manage-an-incentives-claim"></a>建立和管理獎勵宣告
+# <a name="create-and-manage-an-incentives-co-op-claim"></a>建立及管理獎勵共同作業理賠
 
 **適用於**
+
 - 合作夥伴中心
 
 **適當的角色**
@@ -49,6 +50,6 @@ ms.locfileid: "89220656"
 
 如需詳細資訊，請參閱[合作夥伴獎勵合作指南](https://assets.microsoft.com/coop-guidebook.pdf)
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [獎勵合作宣告的核心需求](core-requirements.md)

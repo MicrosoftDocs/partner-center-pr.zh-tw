@@ -1,5 +1,5 @@
 ---
-title: 管理獎勵客戶關聯
+title: 獎勵客戶關聯
 description: 瞭解 (CPOR) 客戶關聯來管理索取的記錄合作夥伴的重要程式和時程表。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ ms.topic: how-to
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 6fe9ce95a1e4bfc017888dcdeb95e02deb3f64fe
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220576"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714432"
 ---
 # <a name="manage-incentives-customer-associations"></a>管理獎勵客戶關聯
 
@@ -123,6 +123,6 @@ ms.locfileid: "89220576"
 
 在 CPOR 關聯宣告的右上方，有一個 [歷程 **記錄** ] 按鈕，可讓您查看從夥伴和審核者觀點對此宣告所採取的所有變更、批註和動作。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [開始使用獎勵](incentives-get-started-intro.md)

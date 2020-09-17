@@ -1,95 +1,320 @@
 ---
 title: 合作夥伴貢獻指標
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 合作夥伴貢獻指標（PCI）會顯示您如何使用 Dynamics 365 Customer Engagement 或 Dynamics 365 財務和營運。
-ms.assetid: 2F4B9A27-37FF-41E4-8A26-5EAE88DD8A49
-keywords: PCI, performance, customer success, measurements, Dynamics 365, 績效, 客戶成功, 測量
-author: LauraBrenner
-ms.author: labrenne
+description: 瞭解 (PCI) 的七個主要合作夥伴貢獻指標，顯示您如何使用 Dynamics 365 Customer Engagement 或 Dynamics 365 財務和營運。
+author: shganesh-dev
+ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f45288e48ff9da7a6aa284f6675536f982bf6441
-ms.sourcegitcommit: 3a1c0934ff337fc164bee690e7b9d69d113fdb99
+ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "84328279"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714282"
 ---
-# <a name="partner-contribution-indicators-pci---shows-partner-impact-on-key-measures-of-customer-success"></a>合作夥伴貢獻指標（PCI）-顯示合作夥伴對客戶成功的關鍵衡量措施的影響
+# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>合作夥伴貢獻指標 (PCI) 顯示合作夥伴對客戶成功的七個關鍵量值有何影響
 
-合作夥伴貢獻指標（PCI）可全面測量合作夥伴在駕駛成功客戶成果方面的影響，因此當合作夥伴並達到和維護雲端 Business Applications 專長認證時，市場上會有更大的差異。 合作夥伴可獲得客戶成功的重要量值，例如成功的部署和增加的使用量，並贏得繼續投資和相應放大其技術功能的機會。
+本文說明 (PCI) 的七個主要合作夥伴貢獻指標，用來評估合作夥伴取得或維護雲端 Business Applications (CBA) MPN 專長認證的進度。
+
+本文包含下列各項的相關資訊：
+
+- [每個 PCI 指標的評分方式](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)
+
+- [每個 PCI 指標的閾值](partner-contribution-indicators.md#thresholds-for-each-pci-metric)
+
+- [每個 PCI 指標的詳細定義](partner-contribution-indicators.md#detailed-definitions-of-pci-metrics)
+
+- [如何存取和讀取](partner-contribution-indicators.md#how-to-access-and-read-the-charts) 合作夥伴中心中的 PCI 圖表
+
+## <a name="overview-of-partner-contribution-indicators"></a>夥伴投稿指標的總覽
+
+合作夥伴貢獻指標可提供合作夥伴對推動成功客戶成果的影響，進而在合作夥伴並達到並維護雲端 Business Applications (CBA) MPN 專長認證時，獲得更大的差異。
+
+使用 PCI，合作夥伴可獲得客戶成功的重要量值（例如成功的部署和增加的使用量）的點數，並獲得繼續投資和擴展其技術功能的獎勵。
+
+## <a name="pci-scoring-based-on-seven-key-indicators"></a>以七個關鍵指標為基礎的 PCI 評分
+
+PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的能力，以及其銷售績效。 PCI 會測量您公司在七個關鍵指標的前一年效能：
+
+*效能指標：*
+
+1. **淨新收入**： Microsoft Dynamics 365 產品所有銷售通路的淨新收益。  (如需此計量的詳細資訊，請參閱 [淨新收益的定義](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)) 
+
+2. **淨客戶新增**：跨所有銷售通路取得 Dynamics 365 的淨客戶。  (如需此計量的詳細資訊，請參閱 [net customer 新增的定義](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)。 ) 
+
+*功能指標：*
+
+3. **功能顧問**：持有目前作用中功能顧問的個人人數會將 Dynamics 365 的認證相關聯。  (如需此計量的詳細資訊，請參閱 [功能顧問的定義](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)) 。
+
+4. **功能顧問成長**：功能顧問的數目成長。  PCI 中功能顧問成長標準的基準快照現在將于2020年10月1日生效。  (如需此計量的詳細資料，請參閱 [功能顧問成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。 ) 
+
+5. **開發人員**：擁有目前作用中開發人員相關聯之 Dynamics 365 認證的個人數目。  (如需此計量的詳細資訊，請參閱 [開發人員的定義](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)。 ) 
+
+*客戶成功指示器：*
+
+6. **新的大型部署**：在過去12個月內，跨越高使用量閾值的生產租使用者數目。  (如需此計量的詳細資料，請參閱 [新大型部署的定義](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)。 ) 
+
+7. **每月活躍使用者成長**：過去12個月內，所有客戶的每月作用中使用者成長。  (如需此計量的詳細資料，請參閱 [每月作用中使用者成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)。 ) 
+
+### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI 分數如何影響專長認證資格
+系統會為每個達成的指標授與點，以產生單一數位的 PCI 分數。 100可能的最大點數。 
+
+您的 PCI 分數會決定專長認證資格，如下所示：
+
+|如果您的 PCI 分數為  | 您  |
+|:----------------------|:-----------------|
+|1-59 點  | **不** 符合銀級或金級專長認證的資格 |
+|60-79 點  | 符合銀級專長認證的需求  |
+|80-100 點  | 符合金級專長認證的需求
+
+下圖提供快速、視覺上的參考。
+:::image type="content" source="images/pcinew1.png" alt-text="顯示 PCI 分數以達成銀級或金級專長認證。" border="false":::
+
+### <a name="maximum-scores-you-can-achieve-for-each-indicator"></a>每個指標可達成的最大分數
+
+每個指標都會加上加總的分數。 以下是每個指標的最大分數：
+
+|針對此指標 | 最大分數為  |
+|:------------|:--------------:|
+|效能-淨新收益  | 10點  |
+|效能-Net 客戶新增  | 10點  |
+|功能與功能顧問  | 15點  |
+|功能-功能顧問成長  | 15點  |
+|功能-開發人員  | 5點 |
+|客戶成功-新的大型部署  | 20點  |
+|客戶成功-每月主動使用者成長  | 25個點 |
+
+下圖提供快速、視覺上的參考。
+:::image type="content" source="images/pci/perfnew.png" alt-text="顯示圖表，其中每七個夥伴貢獻指標 (PCI) 的最大分數可能。" border="false":::
+
+## <a name="thresholds-for-each-pci-metric"></a>每個 PCI 度量的閾值
+
+每個 PCI 計量都有 Microsoft 設定的閾值，決定您公司可以獲得的最高分。 這些閾值對於取得雲端 Business Applications 專長認證的客戶參與和財務和營運途徑不同。 針對在開發的市場中操作的合作夥伴，以及專為開發市場而運作的合作夥伴，其閾值也會有所不同。 **開發**或**開發**國家/地區的市場分類是以[Microsoft 合作夥伴網路定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)為基礎。
+
+系統會記錄每個計量的點，以針對客戶參與和財務和營運產生不同的 PCI 分數。 此分數將會每月更新。
+
+如果合作夥伴達到或超過以下所示的閾值，就能獲得給定計量的最高分。 部分點數可針對所有計量獲得，但功能顧問的成長除外。
+例如，使用 $150000 的淨新收入來開發的市場夥伴將獲得最大10點的一半 ($ 150000/$ 300000) 。
+
+請參閱下表以取得詳細資料：
+- [[表 1]。客戶參與閾值](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
+- [[表 2]財務和營運閾值](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
+- [[表 3]。功能顧問成長](partner-contribution-indicators.md#table-3-functional-consultant-growth)
+
+### <a name="table-1-customer-engagement-thresholds"></a>表 1 Customer Engagement 閾值
 
 
-## <a name="scoring"></a>計分
+| PCI 度量 | 效能指標：淨新收入 | 效能指標：新客戶新增 | 功能指標：功能顧問 | 功能指標：功能顧問成長 | 功能指標：開發人員 | 客戶成功指標：新的大型部署 | 客戶成功指標：每月主動使用者成長 |
+|---|---|---|---|---|---|---|---|
+| **最大點數** | 10點 | 10點 | 15點 | 15點 | 5點 | 20點 | 25個點 |
+| **開發** | $300000 | 10點 | 10點 | *\* 請參閱附注* | 5點 | 5點 | 25% |
+| **發展** | $150000 | 5點 | 5點 |*\* 請參閱附注* | 2點 | 1點 | 25% |
 
-PCI 提供合作夥伴技術功能的精密觀點，他們能夠推動客戶的成功，以及銷售績效。 PCI 會測量您公司在七個關鍵指標上的前一年效能：
+*\* 注意：成長目標會根據基準顧問的數目而有所不同。請參閱 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 以瞭解成長目標。*
 
-1. **淨新收益**： Microsoft Dynamics 365 產品所有銷售通路的淨新收益。
-2. **Net 客戶加入**：在所有銷售通路中取得 Dynamics 365 的 net 客戶。
-3. **功能顧問**：擁有目前作用中功能顧問的個人人數，會使 Dynamics 365 的認證產生關聯。 
-4. **功能顧問成長**：功能顧問關聯的數目成長。  PCI 中功能顧問成長計量的基準快照現在會在2020年10月1日生效。  
-5. **開發人員**：擁有目前作用中開發人員的個人人數，會使 Dynamics 365 的認證產生關聯。
-6. **新的大型部署**：在過去12個月內，跨越高使用量閾值的生產租使用者數目。
-7. **每月作用中使用者成長**：過去12個月內，所有客戶的每月作用中使用者的成長。
+### <a name="table-2-finance-and-operations-thresholds"></a>表2財務和營運閾值
 
-系統會針對每個達成的指標授與點，產生單編號的 PCI 分數。 100可能的最大點數。 PCI 分數會決定專長認證資格：
 
-![PCI 分數](images/pcinew1.png)
+| PCI 度量 | 效能指標：淨新收入 | 效能指標：新客戶新增 | 功能指標：功能顧問 | 功能指標：功能顧問成長 | 功能指標：開發人員 | 客戶成功指標：新的大型部署 | 客戶成功指標：每月主動使用者成長 |
+|---|---|---|---|---|---|---|---|
+| **最大點數** | 10點 | 10點 | 15點 | 15點 | 5點 | 20點 | 25個點 |
+| **開發** | $300000 | 3點 | 15點 | *\* 請參閱附注* | 5點 | 3點 | 25% |
+| **發展** | $150000 | 1點 | 5點 |*\* 請參閱附注* | 2點 | 1點 | 25% |
 
-每個指標都會產生一個分數，並加到總計中。 以下是每個指標的最大分數：
+*\* 注意：成長目標會根據基準顧問的數目而有所不同。請參閱 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 以瞭解成長目標。*
 
-![PCI 效能](images/pci/perfnew.png)
+### <a name="table-3-functional-consultant-growth"></a>表3功能顧問成長
 
-### <a name="thresholds"></a>臨界值
+>[!NOTE]
+> 下表顯示已 **開發** 和 **開發** 的資料行，其中包含符合資格可獲得點數的功能顧問基準。 基準快照日期將于2020年10月1日取得。
 
-每個 PCI 計量都有 Microsoft 設定的閾值，決定您公司可以獲得的最高分。 客戶參與和財務 & 作業路徑的這些閾值會因取得雲端 Business Applications 專長認證而有所不同。 在開發市場中操作的合作夥伴，以及專門在開發市場上運作的夥伴，其閾值也會有所不同。  開發或開發國家/地區的市場分類是以[Microsoft 合作夥伴網路定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)為基礎。
 
-會記錄每個計量的分數，以產生客戶參與和財務的不同 PCI 分數，& 將每月更新的作業。
-
-如果合作夥伴達到或超過以下所示的閾值，就能獲得給定計量的最高分。 除了功能顧問成長以外，所有計量都可以獲得部分點數。 例如，$150000 以淨新收益開發的市場合作夥伴，將會獲得最大 10 pt 的一半（$ 150000/$ 300000）。 
-
-![客戶參與](images/pci/custengagethresh.png)
-
-![Finance](images/pci/table_2.png)
-
-![不僅](images/Table3.PNG) 
-
+| 開發 | 發展 | 獲得全部15點所需的成長 *
+|:---:|:---:|:---:|
+| 15-29 | 5-14 | 35% |
+| 30-49 | 15-24 | 25% |
+| 50 及以上 | 25和更新版本 | 15% |
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>PCI 計量的詳細定義
 
-![新的淨收入](images/pci/netnewrevenue.png)
+下列各節會說明每個 PCI 計量的詳細資料，以及其點的計算方式。
 
-![net 加入](images/pci/netadds.png)
+使用下列清單快速移至特定的定義：
 
+- [淨新收益的定義](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)
+- [Net customer 新增的定義](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)
+- [功能顧問的定義](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)
+- [功能顧問成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)
+- [開發人員的定義](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)
+- [新大型部署的定義](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)
+- [每月活躍使用者成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
 
-![功能顧問](images/pci/funcconsult.png)
+### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>PCI 度量 #1 的定義-新收入
 
+淨新收入是效能指標，以及本文稍 [早所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七個主要合作夥伴貢獻指標的其中一個。 以下是有關如何定義淨新收入的詳細資訊，以及其點數的計算方式：
 
-![功能諮詢人員成長](images/pci/4_Functional_consultant_growth.png)
+- 淨新收入會定義為所有銷售通路的淨新計費收益，以符合資格的 Dynamics 365 產品。
+- 淨新收入會加總12個月期，且最多可以有10個月的收益。
+- 淨新收入的點會計算為帳單減去點數，並匯總超過12個月。
+- 淨新收入會根據下列合格產品來計算：
 
-![開發人員](images/pci/developers.png) 
+   - Customer Engagement-符合資格的產品包括：銷售、客戶服務、現場服務、專案服務自動化、行銷、Microsoft 關聯性銷售、方案1、人才和企業小組成員。
+   - 財務和營運符合資格的產品包括：整合作業、財務、供應鏈管理、零售、商務、方案2、混合現實、配音員和企業團隊成員。
 
-![新的大型部署](images/pci/largedeploy.png) 
+- 銷售通路包括 Enterprise 合約 (EA) 、雲端解決方案提供者 (CSP) 和 Web Direct。
+- 針對 Enterprise 合約僅限收入：此收益包含合約第一年的收入。 不包含第二和第三年的週期性收入。
 
-![作用中使用者](images/pci/activeusers.png)
+### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>PCI 度量 #2 的定義-Net 客戶新增
+
+淨客戶新增是效能指標，以及本文稍 [早所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七個主要合作夥伴貢獻指標的其中一個。 以下是如何定義 net customer 加入的詳細資訊，以及如何計算此類別的點數：
+
+- 淨客戶新增會加總12個月期，且最多可以有10個月的收益。
+
+- 淨客戶會新增到所有銷售通路。 
+
+- 淨客戶新增的點會每月計算，因為客戶新增的減號客戶會遺失，並在12個月內匯總。 
+
+- **客戶新增**會在下列情況下定義：當客戶在上個月沒有任何其訂用帳戶的付費基座，但目前的月份至少有一個付費基座時。
+
+- **客戶流失**會在下列情況下定義：當客戶的所有訂用帳戶在上個月至少有一個付費基座，**而且**目前月份沒有任何付費基座時。
+
+- 銷售通路包括 Enterprise 合約 (EA) 、雲端解決方案提供者 (CSP) 和 Web Direct。
+
+- 針對與 Microsoft 直接合作的多個合作夥伴/相同客戶或客戶：有不同的計算**方式，可**在多個合作夥伴透過不同的訂用帳戶與相同的客戶相關聯的情況下，或客戶可能已直接與 microsoft 合作的情況下，為**客戶新增**不同的計算。 這些計算如下所示。
+
+  **針對多個夥伴、相同的客戶、不同的訂用帳戶：**
+
+  - 所有與客戶相關聯的合作夥伴將會在新增客戶的月份中，取得新客戶新增的點數。
+  
+  - 後續合作夥伴若透過舊的或新的訂用帳戶與相同的客戶建立關聯，將無法為該客戶增加新客戶的信用額度。
+  
+  - 客戶與客戶相關聯的所有合作夥伴，在客戶遺失的月份中，將會失去新客戶新增的信用額度。
+  
+  - 後續透過舊的或新的訂用帳戶與相同客戶建立關聯的任何合作夥伴，將會為該客戶增加新客戶的信用額度。
+  
+  **當客戶已直接與 Microsoft 合作時：**
+
+   - 如果客戶已直接與 Microsoft 合作，並符合新的客戶新增準則，則在後續透過舊的或新的訂用帳戶與相同的客戶相關聯的合作夥伴，將不會獲得新客戶為該客戶增加點數。
+
+### <a name="definitions-for-pci-metric-3---functional-consultants"></a>PCI 度量 #3 的定義-功能顧問
+
+功能顧問是一項功能指標，以及本文稍 [早所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七個主要合作夥伴貢獻指標之一。 以下是有關如何定義功能顧問指標的詳細資訊，以及如何計算此類別的點數：
+
+- 功能顧問指標點是以目前月份的快照集為基礎，最大可能的收益為15點。
+
+- 功能顧問的定義是，持有目前作用中功能顧問的個體數目會與認證相關聯，例如 Customer Engagement 功能顧問認證或財務和營運功能顧問認證。
+
+- 客戶參與功能顧問認證需要個別的人員通過： MB-200 **和** 下列其中一項： mb-210、mb-220、MB-230、mb-240 或 MB6-898。
+
+- 財務和作業功能顧問認證需要個人通過： MB-300 **和** 下列其中一項： mb-310、MB-320、MB-330、MB6-897 或 MB6-898。
+
+### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>PCI 度量 #4 的定義-功能顧問成長
+
+功能顧問成長是一項功能指標，以及本文稍 [早所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七個主要合作夥伴貢獻指標之一。 以下是有關如何定義功能顧問成長指標的詳細資訊，以及如何計算此類別的點數：
+
+- 功能顧問的成長定義為自基準快照以來，已認證的功能顧問的成長數。 基準快照日期將于2020年10月1日起生效。
+
+- 相較于2020年10月1日的基準，功能顧問成長指標點是以當月快照集為基礎。 合作夥伴可以使用此指標達到0或15點。
+
+- 接著會在下一個雲端 Business Applications 專長認證續約日期重設基準快照。
+
+- 若要符合點數的資格，您必須至少有 **15** 個功能顧問與開發的市場夥伴相關聯，以及 **5** 個，以在建立基準快照時開發市場合作夥伴。
+
+- **不會授與任何部分點。** 基準快照集之上的成長必須符合或超過表3中指出的閾值 [。功能顧問成長](partner-contribution-indicators.md#table-3-functional-consultant-growth)。
+
+### <a name="definitions-for-pci-metric-5---developers"></a>PCI 度量 #5 的定義-開發人員
+
+開發人員是一個功能指標，以及本文稍 [早所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七個主要合作夥伴貢獻指標的其中一個。 以下是有關如何定義開發人員指標的詳細資訊，以及如何計算此類別的點：
+
+- 開發人員會定義為持有目前作用中開發人員相關認證的個人數目。
+
+- 開發人員指標的點是根據目前的月快照集，最多可以使用5個點。
+
+- 客戶 Engagement 開發人員會在通過 MB-200 **和** 下列其中一項時取得點數： mb-400 或 >\mb2\instance1-716。
+
+- 當財務和營運人員通過 MB-300 **和** 下列其中一項時，就會取得點數： mb-500 或 MB6-894。
+
+### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI 度量 #6 的定義-新的大型部署
+
+新的大型部署是客戶成功指標，以及本文稍 [早所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七個主要合作夥伴貢獻指標之一。 以下詳細說明如何定義新的大型部署指標，以及如何計算此類別的點：
+
+- 新的大型部署會加總12個月期間，最多可有20個點。
+
+- 針對客戶參與與財務與營運的新大型部署定義方式不同：
+
+  - 針對客戶參與，新的大型部署會定義為租使用者下的生產實例數目，這些實例低於 **250** 個每月作用中使用者 (用於開發市場夥伴) 和 **150** 個每月作用中使用者 (開發市場夥伴) 。
+
+   - 針對財務和作業，新的大型部署會定義為租使用者下的生產實例數量，該租使用者中的每月使用中的使用者數超過 **100** 個每月作用中的使用者 () 和 **50** 個每月作用中使用者 (開發市場夥伴) 。
+
+- 如果租使用者是下列情況，則租使用者會被視為超過每月作用中使用者閾值： 
+
+  - 低於指定的臨界值12個月前， *以及*
+  - 在後續的11個月內，超過該臨界值一次以上。
+
+- 每月作用中使用者會計算在租使用者層級，並只在租使用者下的付費訂用帳戶中加總。
+- 每月作用中使用者是在每個月結束時計算。
+- 合作夥伴會與訂用帳戶層級的租使用者相關聯。 訂用帳戶會對應至 Customer Engagement 產品或財務和營運產品。
+- 與租使用者下任何付費訂用帳戶相關聯的所有合作夥伴，都將獲得該租使用者下所有客戶參與或財務和營運生產實例的點數。
+
+### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>PCI 度量的定義 #7-每月作用中使用者成長
+
+每月作用中使用者成長是客戶成功指標，以及本文稍 [早所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七個主要合作夥伴貢獻指標之一。 以下是定義每月作用中使用者成長的詳細資訊，以及如何計算此類別的點數：
+
+- 每月作用中使用者的成長定義為過去12個月內整個客戶群的每月活躍使用者成長。 
+
+- 每月作用中使用者會計算在租使用者層級，並只在租使用者下的付費訂用帳戶中加總。
+
+- 每月作用中使用者成長指標會比較當月與12個月前的基準。 提供25個最大點數。
+
+- 每月作用中使用者是在每個月結束時計算。
+
+- 若要讓客戶參與獲得點數的資格，開發的市場夥伴必須至少有 **250** 個月作用中使用者的基準，而開發市場夥伴必須在整個客戶的12個月前，擁有每月 **150** 位有效使用者的基準。 
+
+- 為了讓財務和營運符合點數，開發的市場夥伴必須至少有 **100** 個月的作用中使用者，且開發市場合作夥伴必須在整個客戶的12個月前獲得 **50** 個月的有效使用者基準。 
+
+- 合作夥伴會與訂用帳戶層級的租使用者相關聯。 訂用帳戶會對應至客戶參與或財務和營運產品。
+
+- 與租使用者下任何付費訂用帳戶相關聯的所有合作夥伴，將會取得所有客戶參與或財務以及每月作用中使用者在該租使用者下的所有付費訂用帳戶上的點數。
 
 ## <a name="customer-to-partner-association"></a>客戶對合作夥伴關聯性
 
-只有當您是雲端解決方案提供者（CSP）、特定客戶的每月作用中使用者成長時，才會在計量定義的範圍內獲得淨新收益、淨客戶增加、新的大型部署和每月作用中的使用者成長，但只有當您是屬於客戶租使用者的付費訂用帳戶時，才會在計量定義的範圍中，為該
+您可以在計量定義的範圍內，針對特定客戶的淨新收入、淨客戶新增、新的大型部署及每月作用中使用者成長，獲得最新的點數，而不是在計量定義的範圍內，只有當您是雲端解決方案提供者的 (CSP) 、申請記錄的夥伴 (CPOR) ，或屬於客戶租使用者之付費訂用帳戶的數位夥伴
 
-如果合作夥伴已透過 Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) （OSA）獎勵或 Dynamics 365 [online services 使用量](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq)（OSU）獎勵，與訂用帳戶層級的客戶建立關聯，就會成為 CPOR。
+如果夥伴在訂用帳戶層級透過 Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) 獎勵或 Dynamics 365 [線上服務使用](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU) 獎勵，則會變成 CPOR。
 
 如果合作夥伴已在產品內與客戶在訂用帳戶層級建立關聯性，就會成為 DPOR。
 
-當 CPOR 和 DPOR 都存在於指定的訂用帳戶時，CPOR 會收到與該訂用帳戶相關聯的 PCI 計量的點數。 如果關聯是透過 OSA，則 CPOR 會收到淨新收益的點數，而 Net 客戶會新增。 如果關聯是透過 OSU，CPOR 會收到新的大型部署和每月作用中使用者成長的點數。 
+當指定訂用帳戶的 CPOR 和 DPOR 都存在時，CPOR 將會收到與該訂用帳戶相關聯之 PCI 計量的點數。 如果關聯是透過 OSA，CPOR 就會收到淨新收入的點數，以及淨客戶的增加。 如果關聯是透過 OSU，CPOR 就會收到新的大型部署和每月有效使用者成長的點數。
 
-## <a name="how-to-read-the-charts"></a>如何讀圖表
+## <a name="how-to-access-and-read-the-charts"></a>如何存取和讀取圖表
 
-![如何讀圖表](images/pci/howto.png)
+本節說明如何從合作夥伴中心儀表板存取夥伴貢獻指標，以及如何讀取相關聯的圖表。
 
-## <a name="additional-resources"></a>其他資源
+### <a name="access-partner-contribution-indicators"></a>存取合作夥伴投稿指標
 
-流覽[合作夥伴貢獻指標資源集合](https://aka.ms/pcilearn)，您可以在其中找到詳細的訓練影片、簡報、常見問題和事實表。
+若要查看您的夥伴投稿指標圖表和進度，請遵循下列步驟：
+
+1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
+
+2. 從導覽功能表中選取 [ **CSP** ]，然後選取 [ **夥伴投稿**指標]。 
+
+   您應該會看到 [夥伴投稿指標] 儀表板與關聯的圖表。
+
+   > [!NOTE]
+   > 如果您看不到這些選項，請嘗試從功能表選取 [ **MPN** ]，然後選取 [ **夥伴投稿**指標]。 如果您仍然找不到這些選項，合作夥伴中心中可能沒有指派適當的使用者角色。 請洽詢您的合作夥伴中心全域管理員或 MPN 合作夥伴系統管理員以取得協助。
+
+### <a name="read-the-charts"></a>讀取圖表
+
+下圖顯示如何在合作夥伴中心的 [夥伴投稿指標] 頁面上讀取某些區域和圖表。
+
+如需有關使用此區域的詳細資訊，請參閱本文結尾處的資源和影片收集。
+
+   :::image type="content" source="images/pci/howto.png" alt-text="如何讀圖表":::
+
+## <a name="next-steps"></a>下一步
+
+觀看更多 PCI [訓練影片和資訊資源](https://partner.microsoft.com/asset/collection/pci-learn#/)。

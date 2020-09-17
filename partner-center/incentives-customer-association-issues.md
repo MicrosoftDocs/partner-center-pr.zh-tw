@@ -7,15 +7,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 8b1ab61422dd6583a66c6968ac202403e64cdd4e
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: ab2c26cf097d6212375382cadd9ac5f4f80b5c2a
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220616"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714472"
 ---
-# <a name="incentives-customer-association-issues"></a>獎勵客戶關聯問題
+# <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>宣告 (CPOR) 客戶關聯的記錄合作夥伴問題
 
 **適用於：**
 
@@ -93,6 +93,6 @@ CPOR 宣告平臺允許與 Business Applications 和 Microsoft 365 解決方案�
 >[!IMPORTANT]
 >如果我們需要其他資訊來驗證您的 CPOR association 證明 (PoE) ，我們會透過 [CPOR 關聯宣告批註] 區段與您聯繫。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [開始使用獎勵](incentives-get-started-intro.md)

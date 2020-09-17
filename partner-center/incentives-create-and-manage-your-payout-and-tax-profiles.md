@@ -1,21 +1,21 @@
 ---
-title: 在合作夥伴中心建立及管理支出與稅務設定檔
+title: 合作夥伴中心的支出和稅金設定檔
 ms.topic: how-to
-ms.date: 08/31/2020
-description: 您必須先建立付款和稅務設定檔，才可以支付獎勵工作的費用。
+ms.date: 09/11/2020
+description: 建立及管理您的付款和稅務設定檔，以便支付獎勵工作的費用。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e85401983e60f4d8143f8a056539edd8ecaa4dcb
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 688e3bf3d181ae235d245f1330bbc160c9841ef6
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220796"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714492"
 ---
-# <a name="payout-and-tax-profiles-in-partner-center"></a>合作夥伴中心的支出和稅金設定檔
+# <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>在合作夥伴中心中建立及管理獎勵支出和稅務設定檔
 
 **適用於：**
 
@@ -109,11 +109,11 @@ ms.locfileid: "89220796"
     **銀行帳戶位置：** 公司銀行所在的國家/地區。
     **付款方法：** 合作夥伴中心的慣用付款條件是「電子銀行傳輸」。
 
-2. 選取 [下一步]  。
+2. 選取 [下一步] 。
 
 3. 在 [ **銀行帳戶** ] 頁面上，輸入您的資訊。 此頁面上顯示的欄位會因國家/地區而異。 
 
-4. 選取 [下一步]  。
+4. 選取 [下一步] 。
 
 5. 在 [ **受益人** ] 頁面上，輸入適當的資訊。 如果您的公司需要討論您的帳戶，則這些受益人就是貴公司的人員。
 
@@ -140,7 +140,7 @@ ms.locfileid: "89220796"
    - 如果您的公司僅納入美國，或此設定檔適用于個人，請選取左邊的選項。
    - 如果您的公司是在美國以外的地區，請選取右側的選項，然後從清單中選取您的國家/地區。
 
-3. 選取 [下一步]  。 
+3. 選取 [下一步] 。 
 
 4. 在 [ **稅務狀態** ] 頁面上，輸入必要的資訊，然後選取 **[下一步]**。 此頁面上的欄位會因國家/地區而異。 您的詳細資料。 
 
@@ -154,6 +154,6 @@ ms.locfileid: "89220796"
 
 9. 選取快顯視窗上的 [ **確認** ]。 您將會回到 [付款 **和稅務設定** ] 頁面。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [獎勵支出和稅務設定檔常見問題集](incentives-payout-tax-profile-faqs.md)

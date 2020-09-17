@@ -7,15 +7,15 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 08/31/2020
-ms.openlocfilehash: 76bf9cf147c27a562962dcff3baa0ff34cf959b2
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.date: 09/11/2020
+ms.openlocfilehash: 82c45a1edcc19dc26dfefff88f59c598ab9bc6ea
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220776"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714382"
 ---
-# <a name="prepare-your-proof-of-execution"></a>準備您的執行證明
+# <a name="create-and-submit-documents-for-your-incentives-proof-of-execution-poe"></a>建立並提交檔，以供您的獎勵證明執行 (PoE) 
 
 **適用於：**
 
@@ -45,7 +45,7 @@ ms.locfileid: "89220776"
    - **日期**  執行的日期。 此日期必須介於活動開始日期和行銷活動結束日期之間。
    - **金額**  共 op 宣告的數量。
 
-7. 選取 \[儲存\]。
+7. 選取 [儲存]。
 
 8. 在 [ **新的執行證明聲明** ] 頁面上，輸入必要的欄位。
 

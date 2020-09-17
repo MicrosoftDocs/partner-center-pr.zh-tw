@@ -1,21 +1,21 @@
 ---
-title: 符合獎勵計畫
+title: 獎勵註冊
 ms.topic: how-to
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: 註冊獎勵方案，並為使用者管理指派必要的角色。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 65d62f20daef625a9871fe121d04ed3dcdd1b472
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7f86b59708ab26a5ef02a952f34ef3558af097af
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220596"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714442"
 ---
-# <a name="enroll-in-the-incentives-program"></a>符合獎勵計畫
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>獎勵計畫中的註冊和使用者管理
 
 **適用於：**
 
@@ -53,6 +53,6 @@ ms.locfileid: "89220596"
 
 獎勵註冊會在會計年度結束時到期。 不過，只要您保持具有有效合約的合格合作夥伴，Microsoft 就會將您的獎勵註冊向前復原到下一個會計年度。 您不需要採取任何動作。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
-- [判斷您的計畫資格](incentives-determined-your-program-eligibility.md)
+- [判斷您的計劃資格](incentives-determined-your-program-eligibility.md)

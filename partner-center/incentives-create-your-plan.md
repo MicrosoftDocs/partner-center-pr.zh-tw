@@ -1,21 +1,21 @@
 ---
 title: 建立您的獎勵方案
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 description: 收集並建立必要的資訊，為您的獎勵計畫產生成功的行銷計畫。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 018caf14a7ccc4c7e5e63e25d48c57df923af5a3
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220626"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714482"
 ---
-# <a name="create-your-incentives-plan"></a>建立您的獎勵方案
+# <a name="generate-a-marketing-plan-for-your-incentives-program"></a>為您的獎勵計畫產生行銷計畫
 
 **適用於：**
 
@@ -46,7 +46,7 @@ ms.locfileid: "89220626"
 
 3. 在 [ **程式** ] 頁面上，找出適合您計畫的市場，然後選取 [ **建立方案**]。 
 
-4. 在 [ **新增方案** ] 頁面上，填寫必要的欄位。 **Currency** 是您想要讓計畫反映的值。 **檢閱者電子郵件** 應該是您的帳戶管理員的 Microsoft 電子郵件地址。 請注意，每個 MPN 識別碼、資金、計畫與期間都只能建立一個方案。 選取 \[儲存\]。
+4. 在 [ **新增方案** ] 頁面上，填寫必要的欄位。 **Currency** 是您想要讓計畫反映的值。 **檢閱者電子郵件** 應該是您的帳戶管理員的 Microsoft 電子郵件地址。 請注意，每個 MPN 識別碼、資金、計畫與期間都只能建立一個方案。 選取 [儲存]。
 
 5. 在方案的狀態頁面上，檢閱所顯示的資訊。 選取 [編輯] 以更新任何資訊。
 
@@ -94,6 +94,6 @@ Microsoft 會根據您方案的收益與限制，每月支付款項給您。 款
 
 在同一個方案中，如果您在四月份賺得 $15000，則會在 5 月 15 日收到 $10,000，因為 $10,000 是您方案的限制。 若要獲得更多款項，您必須提高下個月的方案限制。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [準備您的執行證明](incentives-prepare-your-proof-of-execution.md)

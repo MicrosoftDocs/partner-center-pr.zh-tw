@@ -1,5 +1,5 @@
 ---
-title: 總覽-獎勵方案 & POE
+title: 計畫和執行證明的總覽
 description: 瞭解獎勵所需的重要檔，包括獎勵共同作業宣告計畫，以及 (PoE) 的詳細執行證明。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,13 +7,13 @@ ms.topic: conceptual
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 08/10/2020
-ms.openlocfilehash: 90bdb6300bd0a7a74b719a064bcf41ef901b40de
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.date: 09/11/2020
+ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303134"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714392"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>使用這些資源來協助您建立獎勵計畫和執行證明
 
@@ -53,7 +53,7 @@ ms.locfileid: "88303134"
 | 瞭解如何建立獎勵共同作業宣告方案 | [建立您的方案](incentives-create-your-plan.md)  |
 瞭解如何建立執行證明 | [準備您的執行證明](incentives-prepare-your-proof-of-execution.md)  |
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - 瞭解如何 [建立您自己的方案](incentives-create-your-plan.md)
 - 深入瞭解 [獎勵共同作業理賠流程](claims-overview.md)

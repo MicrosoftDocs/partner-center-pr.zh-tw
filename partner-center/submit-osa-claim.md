@@ -1,22 +1,22 @@
 ---
-title: 透過 CPOR 模型建立客戶關聯
+title: 建立客戶關聯
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 透過 CPOR 建立客戶關聯， (宣稱記錄) 模型的夥伴。 協助管理 Microsoft 365 和 Dynamics 365 客戶的銷售、使用、& 獎勵。
+description: 使用 (CPOR) 模型的宣告夥伴建立客戶關聯。 協助管理 Microsoft 365 和 Dynamics 365 客戶的銷售、使用、& 獎勵。
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d5b14759803beb73cc970bf5fb96747048b8bdc1
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1fc528b0a00fab42d7ddfcf8dae79d1eae1e2967
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220366"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714352"
 ---
-# <a name="create-a-customer-association-via-the-cpor-model--use-for-microsoft-365-and-dynamics-365-customers"></a>透過 CPOR 模型建立客戶關聯–用於 Microsoft 365 與 Dynamics 365 客戶
+# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>客戶與 Microsoft 365 和 Dynamics 365 的記錄 (CPOR) 模型的客戶關聯
 
 **適用於**
 
@@ -104,6 +104,6 @@ ms.locfileid: "89220366"
 
 選取 [歷程記錄] 以檢視客戶關聯的歷程記錄。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [管理客戶關聯](incentives-manage-customer-associations.md)
