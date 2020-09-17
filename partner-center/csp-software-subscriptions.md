@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb70aabc59e069209673b1b0f2e0be57c973a70e
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 467f46b2e6dfc41730970abe9005e1f2d28409f3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545839"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614151"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>透過雲端解決方案提供者 (CSP) 方案銷售軟體訂閱
 
@@ -116,7 +116,7 @@ Azure Hybrid Benefit 有助於讓您的 Windows Server 授權發揮更大的效�
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>可以透過 Microsoft 365 系統管理中心為客戶提供伺服器訂閱下載和授權金鑰 
 
-您的客戶能夠從 Microsoft 365 系統管理中心取得雲端解決方案提供者伺服器訂閱授權金鑰和下載。 若要查看其雲端解決方案提供者伺服器訂閱授權金鑰和下載，客戶必須前往 [Microsoft 365 系統管理中心] > [計費] > 您的產品 > [軟體] 索引標籤。如需詳細資訊，請參閱 [[計費] 底下的 [軟體] 索引標籤](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview?view=o365-worldwide#billing--subscriptions)。  
+您的客戶能夠從 Microsoft 365 系統管理中心取得雲端解決方案提供者伺服器訂閱授權金鑰和下載。 若要查看其雲端解決方案提供者伺服器訂閱授權金鑰和下載，客戶必須前往 [Microsoft 365 系統管理中心] > [計費] > 您的產品 > [軟體] 索引標籤。如需詳細資訊，請參閱 [[計費] 底下的 [軟體] 索引標籤](https://docs.microsoft.com/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)。  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>檢視軟體金鑰存取和軟體下載的活動
 

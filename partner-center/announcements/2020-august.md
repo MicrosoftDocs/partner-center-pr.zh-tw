@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: acbe2e22f1295a881ef064e0e6ff018c9b98eb95
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: c40af7e33e190b86e29b3a392dcc7df805d729b3
+ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274986"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "89614132"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月公告
 
@@ -136,7 +136,7 @@ ________________
 
 您將能夠為個人和團隊提供服務，而不需要經過集中化的 IT 採購程序來取得所需的授權。 根據 Microsoft 365 和 Power Platform 的整合案例，您的服務可以橫跨 Project 和 Visio。 
 
-在 Microsoft Inspire 研習會「[利用 Microsoft Visio 和 Power Platform 重建和重新構思業務](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」中，深入了解具有 Visio 和 Power Platform 解決方案的合作夥伴商機。 如需其他資訊，請造訪[自助式系統管理員指南](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide)。
+在 Microsoft Inspire 研習會「[利用 Microsoft Visio 和 Power Platform 重建和重新構思業務](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」中，深入了解具有 Visio 和 Power Platform 解決方案的合作夥伴商機。 如需其他資訊，請造訪[自助式系統管理員指南](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)。
 
 #### <a name="additional-resources"></a>其他資源
 

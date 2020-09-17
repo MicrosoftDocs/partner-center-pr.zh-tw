@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: c2894e3ef7c80cbff2952f22aaf32ba4227b874e
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 67d12c69c4cd1e42eb5c9300026c61837cafbf86
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564758"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574384"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "89564758"
 
 | **類別** | **2020 年 9 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[現已推出 Microsoft Project 和 Microsoft Visio 的自助式購買功能](2020-september.md#6)|9 月 15 日|
 |供應項目/市場|[新的 SKU 將 Project Cortex 等技術的威力帶給客戶](2020-september.md#5)|9 月 8 日|
 |功能|[提升的獎勵支援體驗和票證建立程式](2020-september.md#4)|9 月 2 日|
 |供應項目/市場|[即將推出新的 Microsoft Dynamics 365 供應項目](2020-september.md#3)|9 月 1 日|

@@ -9,18 +9,50 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/01/2020
-ms.openlocfilehash: a036cb1cd0b987e12cfe16aca2c7cf98a80cee55
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 0bf31dd474087ae7f4b3c6c8924309d177de922b
+ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564738"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "90574394"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
 本頁詳述 Microsoft 合作夥伴中心 2020 年 9 月的公告。
 
 2020 公告：[2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | 9 月
+
+________________
+
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>現已推出 Microsoft Project 和 Microsoft Visio 的自助式購買功能
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-15
+- 供應項目/市場
+
+### <a name="impacted-audience"></a>影響對象
+
+銷售線上服務給商業客戶的合作夥伴
+
+### <a name="details"></a>詳細資料
+
+去年我們[分享](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) Microsoft 可讓個人和團隊直接購買選取服務。 現在，全球各地的使用者都可以透過自助式服務來購買下列 Microsoft Project 和 Microsoft Visio 產品的訂閱： 
+
+- [Visio 方案 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) 和 [Visio 方案 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [專案計劃 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) 和 [專案計劃 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+
+注意：自助式購買功能目前不適用於印度、巴西、剛果民主共和國 (DRC)，也不適用於符合政府或教育版優惠的客戶。  如需完整的國家/地區可用性和更新，請參閱[自助式購買常見問題](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide&preserve-view=true)。
+
+#### <a name="partner-benefits"></a>合作夥伴權益
+
+您將能夠為個人和團隊提供服務，而不需要經過集中化的 IT 採購程序來取得所需的授權。 根據 Microsoft 365 和 Power Platform 的整合案例，您的服務可以橫跨 Project 和 Visio。 客戶也可以在購買之前先試用 Visio 和 Project 試用版，現已推出 [Visio 方案 1 和 Visio 方案 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)，以及 [Project 方案 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)。
+
+
+### <a name="next-steps"></a>後續步驟
+
+- 請檢閱「作業整備度」資源庫中的所有整備資源：[客戶自助式購買功能](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)。 在 Microsoft Inspire 研習會「[利用 Microsoft Visio 和 Power Platform 重建和重新構思業務](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」中，深入了解具有 Visio 和 Power Platform 解決方案的合作夥伴商機。
+- 如需其他資訊，請參閱[自助式系統管理員指南](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide&preserve-view=true)。
 
 ________________
 
