@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 55bafb22a652c9e01fc9cbd1f5303b35cf127d9a
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 157769fd08a99e63d2a2aac06e704a72add20a60
+ms.sourcegitcommit: b60577f772e240fd2c38c13987d2b39c4722fbad
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714233"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "90773832"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "90714233"
 
 | **類別** | **2020 年 9 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[即將於 2020 年 9 月 30 日對 CSP O365 使用 API 和 CSP 授權使用方式報告進行變更。](2020-september.md#8)|9 月 17 日|
 |功能|[間接轉銷商 MPA 更新使用 MPA API 和新 MPA 報告的使用者所需採取的動作](2020-september.md#7)|9 月 16 日|
 |供應項目/市場|[現已推出 Microsoft Project 和 Microsoft Visio 的自助式購買功能](2020-september.md#6)|9 月 15 日|
 |供應項目/市場|[新的 SKU 將 Project Cortex 等技術的威力帶給客戶](2020-september.md#5)|9 月 8 日|
