@@ -203,54 +203,72 @@
       items:
         - name: 開始使用獎勵
           items:
-            - name: 常見問題集
+            - name: 獎勵的常見問題
               href: incentives-faq.md
-            - name: 開始使用
+            - name: 開始使用獎勵
               href: incentives-get-started-intro.md
-            - name: 符合獎勵計畫
+            - name: 適用於獎勵的 10 個基本資訊
+              href: incentives-ten-essentials.md
+            - name: 註冊獎勵
               href: incentives-enroll.md
-            - name: 判斷您的計畫資格
+            - name: 檢查計畫資格
               href: incentives-determined-your-program-eligibility.md
-            - name: 在合作夥伴中心建立及管理支出與稅務設定檔
+              displayName: incentives
+            - name: 了解發放款與稅金設定檔
               href: incentives-create-and-manage-your-payout-and-tax-profiles.md
-            - name: 獎勵支出和稅務設定檔常見問題集
+              displayName: incentives
+            - name: 發放款與稅金設定檔常見問題
               href: incentives-payout-tax-profile-faqs.md
-            - name: 確認您的收益資格
+              displayName: incentives
+            - name: 檢查收益資格
               href: incentives-confirm-your-earnings-eligibility.md
-            - name: 查看您的獎勵付款和計畫
+              displayName: incentives
+            - name: 查看付款和計畫
               href: understand-incentive-payouts.md
-            - name: 存取您的獎勵支出頁面
+              displayName: incentives
+            - name: 存取您的支出頁面
               href: incentives-unified-user-guide.md
+              displayName: incentives
         - name: 執行方案和證明
           items:
-            - name: 關於方案和 PoE
+            - name: 了解方案和 PoE
               href: incentives-plans-proofs-intro.md
+              displayName: 'incentives, proof of execution, proofs of execution'
             - name: 建立您的方案
               href: incentives-create-your-plan.md
-            - name: 準備您的執行證明
+              displayName: incentives
+            - name: 建立您的執行證明
               href: incentives-prepare-your-proof-of-execution.md
+              displayName: incentives
         - name: 獎勵合作宣告
           items:
-            - name: 關於合作宣告
+            - name: 獎勵合作宣告
               href: claims-overview.md
-            - name: 建立和管理獎勵合作宣告
+              displayName: incentives
+            - name: 管理合作宣告
               href: create-incentives-claims.md
-            - name: 獎勵合作宣告的核心要求
+              displayName: incentives
+            - name: 檢視核心要求
               href: core-requirements.md
-            - name: 合作宣告核准和付款期限
+              displayName: incentives
+            - name: 合作宣告核准和期限
               href: incentives-managing-co-op-claims.md
+              displayName: incentives
         - name: 獎勵 CPOR 關聯宣告
           items:
-            - name: 關於 CPOR 關聯
+            - name: 了解 CPOR 關聯
               href: incentives-customer-associations-intro.md
-            - name: 使用 CPOR 模型建立客戶關聯
+            - name: 建立客戶關聯
               href: submit-osa-claim.md
             - name: 管理客戶關聯
               href: incentives-manage-customer-associations.md
+              displayName: incentives
             - name: 客戶關聯問題
               href: incentives-customer-association-issues.md
+              displayName: incentives
         - name: 針對付款和收益問題進行疑難排解
           href: incentives-payment-issues.md
+          displayName: incentives
 - name: 帳單與稅金
   href: billing.md
   items:
@@ -536,6 +554,8 @@
   items:
     - name: 授權資源
       href: support-resources-licensing.md
+    - name: 尋找識別碼和網域名稱
+      href: find-ids-and-domain-names.md
 - name: 安全性需求
   items:
     - name: 概觀
