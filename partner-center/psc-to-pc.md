@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8fa06bb0aaecb5f2564c2baab9d7a2c6ac6f0f1d
-ms.sourcegitcommit: 3502f32da07a3db8b865d7f32416eeb8cfd5502c
+ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
+ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90082516"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90848261"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作夥伴中心 (電腦) 共同銷售的指南，適用于從合作夥伴銷售 Connect (PSC 進行遷移的合作夥伴) 
 
@@ -45,7 +45,9 @@ ms.locfileid: "90082516"
 - 在合作夥伴中心中為所有您的 PSC 使用者 (系統管理員、交易管理員和賣方) 角色設定使用者帳戶，並為其指派 [參考系統管理員角色](https://docs.microsoft.com/partner-center/permissions-overview)。
 
 >[!Important]
-> 請確定在合作夥伴中心的 MPN 位置清單中有提供 PSC 橫幅中顯示的 MPN 識別碼。 您可以前往中的 [帳戶設定] 和 [ [位置](https://docs.microsoft.com/partner-center/manage-locations) ] 來確認合作夥伴中心，以尋找與合作夥伴中心帳戶相關聯的所有 MPNs 清單。
+> 請確定在合作夥伴中心的 MPN 位置清單中有提供 PSC 橫幅中顯示的 MPN 識別碼。 您可以前往中的 [帳戶設定] 和 [[位置](https://docs.microsoft.com/partner-center/manage-locations)] 來確認合作夥伴中心，以尋找與合作夥伴中心帳戶相關聯的所有 MPNs 清單。
+
+ :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="此圖顯示可供合作夥伴尋找 MPN 識別碼的 PSC 橫幅。":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>如果您是 PSC 交易經理或賣方
 
@@ -102,12 +104,12 @@ ms.locfileid: "90082516"
 |邀請 Microsoft 共同銷售交易|由 Microsoft 賣方起始，沒有合作夥伴的明確要求。|如果需要 Microsoft 銷售人員協助，合作夥伴將必須提出 [明確的要求](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) 。 Microsoft 賣方有一個拒絕要求的選項。|
 |Expiry|交易到期沒有任何概念。|夥伴輸入交易如果夥伴不接受，則會在14天內到期。 如果 Microsoft 銷售人員在14天內未採取任何動作，就會發生這種情況：夥伴輸出交易可進入已過期狀態。|
 |Microsoft 賣方詳細資料|在交易建立後立即顯示。|只有當賣方明確接受合作夥伴的共同銷售邀請時，才會與合作夥伴共用 Microsoft 賣方詳細資料。|
-|[私人管線](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|無法使用。|合作夥伴可以共用其管道，而不會提供 Microsoft 銷售人員的可見度。|
+|[私人管線](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|不適用。|合作夥伴可以共用其管道，而不會提供 Microsoft 銷售人員的可見度。|
 |方案|只有一個價位清單的解決方案可以新增到交易中。|夥伴可以加入屬於下列清單的 [解決方案](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) 。 答) 自己的解決方案 b) Microsoft 第一方目錄的解決方案 (類似于) PSC 的交易交易角色與其他協力廠商合作夥伴的 c) 共同銷售解決方案 (類似于 PSC) 中的 ISV 交易角色。|
 |交易指派|只有指派的賣方才能查看交易並採取行動。|您可以將小組成員新增到交易中，以指定處理工作的人員，而不會封鎖其他的推薦系統管理員來觀看或處理這些交易。|
 |客戶組織|自由格式文字專案。|只要輸入幾個字元，就可以針對[D&B 資料庫](https://www.dnb.com/)搜尋[客戶組織](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)。 合法的名稱和位址會根據選擇自動填入。|
 |客戶連絡人|不是必要的。|私人管線共用不是必要的。 如果 Microsoft 賣方受邀參與共同銷售要求，則為必要項。|
-|公用 API|無法使用。|[公用 API](https://docs.microsoft.com/partner/develop/referrals) ，以程式設計方式管理合作夥伴中心的參考。|
+|公用 API|不適用。|[公用 API](https://docs.microsoft.com/partner/develop/referrals) ，以程式設計方式管理合作夥伴中心的參考。|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>PSC 和合作夥伴中心欄位對應
 
