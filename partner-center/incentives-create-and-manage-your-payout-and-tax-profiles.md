@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 688e3bf3d181ae235d245f1330bbc160c9841ef6
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: de143ecfae1b803e0743a28db5cda5ae9a3d5f2d
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714492"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999312"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>在合作夥伴中心中建立及管理獎勵支出和稅務設定檔
 
@@ -58,7 +58,7 @@ ms.locfileid: "90714492"
 下列各節將逐步引導您在合作夥伴中心中建立和管理付款和稅務設定檔的流程。
 
 >[!IMPORTANT]
->您必須是獎勵系統管理員，才能在合作夥伴中心中建立或管理付款設定檔。 獎勵角色必須指派給每個獎勵計畫下的每個 MPN 位置。 如需有關如何在合作夥伴中心中新增「獎勵管理員」的詳細資訊，請參閱 [建立使用者帳戶](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions)。
+>您必須是獎勵系統管理員，才能在合作夥伴中心中建立或管理付款設定檔。 獎勵角色必須指派給每個獎勵計畫下的每個 MPN 位置。 如需有關如何在合作夥伴中心中新增「獎勵管理員」的詳細資訊，請參閱 [建立使用者帳戶](create-user-accounts-and-set-permissions.md)。
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>存取合作夥伴中心中的付款和稅務區段
 
@@ -109,11 +109,11 @@ ms.locfileid: "90714492"
     **銀行帳戶位置：** 公司銀行所在的國家/地區。
     **付款方法：** 合作夥伴中心的慣用付款條件是「電子銀行傳輸」。
 
-2. 選取 [下一步] 。
+2. 選取 [下一步]  。
 
 3. 在 [ **銀行帳戶** ] 頁面上，輸入您的資訊。 此頁面上顯示的欄位會因國家/地區而異。 
 
-4. 選取 [下一步] 。
+4. 選取 [下一步]  。
 
 5. 在 [ **受益人** ] 頁面上，輸入適當的資訊。 如果您的公司需要討論您的帳戶，則這些受益人就是貴公司的人員。
 
@@ -140,7 +140,7 @@ ms.locfileid: "90714492"
    - 如果您的公司僅納入美國，或此設定檔適用于個人，請選取左邊的選項。
    - 如果您的公司是在美國以外的地區，請選取右側的選項，然後從清單中選取您的國家/地區。
 
-3. 選取 [下一步] 。 
+3. 選取 [下一步]  。 
 
 4. 在 [ **稅務狀態** ] 頁面上，輸入必要的資訊，然後選取 **[下一步]**。 此頁面上的欄位會因國家/地區而異。 您的詳細資料。 
 

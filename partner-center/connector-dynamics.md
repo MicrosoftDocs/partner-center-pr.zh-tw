@@ -8,12 +8,12 @@ description: 將合作夥伴中心中的參考與 Dynamics 365 CRM 同步處理
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 0071de30b47ee987be027b3586c1df9eef300b05
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 39fbeb4e180b24dc19f73b5381af8b8b481045f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490666"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000492"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 的共同銷售連接器–總覽
 
@@ -33,7 +33,7 @@ ms.locfileid: "89490666"
 |Microsoft 合作夥伴網路識別碼 |您需要有效的 MPN 識別碼|加入 [MPN](https://partner.microsoft.com/)|
 |共同銷售解決方案就緒|您的 IP/服務解決方案必須已準備好共同銷售。|[與 Microsoft 銷售](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |合作夥伴中心帳戶|與合作夥伴中心租使用者相關聯的 MPN 識別碼必須與您共同銷售解決方案相關聯的 MPN 識別碼相同。 先確認您可以在合作夥伴中心入口網站中看到共同銷售的參考，然後再部署連接器。|[管理您的帳戶](create-user-accounts-and-set-permissions.md)|
-|合作夥伴中心使用者角色|將安裝並使用連接器的員工必須是推薦系統管理員|[指派使用者角色和權限](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM 使用者角色是系統管理員或系統自訂員|[在 Dynamics 365 中指派角色](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
+|合作夥伴中心使用者角色|將安裝並使用連接器的員工必須是推薦系統管理員|[指派使用者角色和權限](create-user-accounts-and-set-permissions.md)| |Dynamics 365 CRM|CRM 使用者角色是系統管理員或系統自訂員|[在 Dynamics 365 中指派角色](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
 |Power Automate Flow 帳戶|適用于 CRM 系統管理員或系統自訂員的 active [Power Automate](https://flow.microsoft.com) 帳戶。 在安裝之前，該使用者至少應登入 [Power Automate](https://flow.microsoft.com) 一次。|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>為 Dynamics 365 (Power Automate 解決方案) 安裝合作夥伴中心的推薦同步處理
@@ -255,12 +255,12 @@ Webhook 現在可以接聽建立和更新事件。
 
    6. 當您選取同步處理的參考時，就會填入卡片視圖詳細資料。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [管理潛在客戶](manage-leads.md)
 
 - [管理共同銷售商機](manage-co-sell-opportunities.md)
 
-- [深入瞭解 Microsoft Power Automate platform？](https://docs.microsoft.com/power-automate/)
+- [深入瞭解 Microsoft Power Automate platform？](/power-automate/)
 
-- [合作夥伴中心 Webhook](https://docs.microsoft.com/partner-center/develop/partner-center-webhooks)
+- [合作夥伴中心 Webhook](/partner-center/develop/partner-center-webhooks)

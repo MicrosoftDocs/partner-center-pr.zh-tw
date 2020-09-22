@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解向合格美國政府客戶或承包商銷售適用于 CSP 的 Office 365 政府版 GCC 訂閱的步驟和需求。
+description: 瞭解將訂用帳戶加入至適用于美國政府客戶或承包商的 Office 365 政府 GCC GCC 的步驟和需求。
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b363f68fadf29024def3488dbe1ccbb334ea1907
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 3086ada5238fac6ec993bffa8c852517281c98a3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "85947651"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000392"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱給符合資格的客戶
 
@@ -39,7 +39,7 @@ ms.locfileid: "85947651"
 
 ## <a name="sell-office-365-government-gcc-for-csp-subscriptions"></a>銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱
 
-當您的公司獲准銷售適用于 CSP 供應專案的 Office 365 政府版 GCC 之後，您就可以開始使用合作夥伴中心向客戶銷售。 若要瞭解如何使用合作夥伴中心來銷售訂用帳戶，請參閱這些資源： 
+當您的公司已獲准銷售 Office 365 政府 GCC for CSP 供應專案之後，您就可以開始使用合作夥伴中心銷售給客戶。 若要瞭解如何使用合作夥伴中心來銷售訂用帳戶，請參閱這些資源： 
 
 -   如需銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱的逐步指南，請移至[這裡](https://go.microsoft.com/fwlink/?linkid=2007323)。  
 
@@ -50,8 +50,7 @@ ms.locfileid: "85947651"
 
 產品資源：
 
-- [Office 365 政府版服務描述](https://technet.microsoft.com/library/mt774581.aspx)
+- [Office 365 政府版服務描述](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government)
 - [Roadmap.Office.com](https://products.office.com/business/office-365-roadmap)
 - [Microsoft 信任中心](https://www.microsoft.com/TrustCenter/)
 - [Microsoft 服務信任入口網站](https://aka.ms/STP)
-

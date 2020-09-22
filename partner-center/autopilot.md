@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a59b0c25b8f5203942e73b549d5ffb9d65d90c36
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527654"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999432"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>在新裝置上使用 Windows Autopilot 設定檔來自訂客戶的現成體驗
 
@@ -37,10 +37,10 @@ ms.locfileid: "87527654"
 
 如果您還不熟悉 Autopilot，請參閱下列文章中的資訊：
 
-- [Windows Autopilot 總覽](https://docs.microsoft.com/windows/deployment/windows-10-auto-pilot)
+- [Windows Autopilot 總覽](/windows/deployment/windows-10-auto-pilot)
 - [Autopilot 部署參考指南](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>總覽
+## <a name="overview"></a>概觀
 
 利用合作夥伴中心中的 Windows Autopilot 功能，您可以建立自訂設定檔以套用至客戶裝置。 下列設定檔設定已在發行本文時提供：
 
@@ -162,7 +162,7 @@ ms.locfileid: "87527654"
 4. 輸入裝置清單的名稱，然後選取 **[流覽]** ，以 .csv 檔案格式將客戶的清單 (上傳) 至合作夥伴中心。
 
     >[!NOTE]
-    >您應該已在購買裝置時收到此 .csv 檔案。 如果您未收到 .csv 檔案，您可以依照 [將裝置新增至 Windows Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)中的步驟自行建立。  
+    >您應該已在購買裝置時收到此 .csv 檔案。 如果您未收到 .csv 檔案，您可以依照 [將裝置新增至 Windows Autopilot](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)中的步驟自行建立。  
 
 5. 上傳 .csv 檔案，然後選取 [ **儲存**]。
 

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6cd4b78d95de282ccaef032b7975069f49a1267d
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220176"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999782"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客戶回報服務問題-包括何時及如何進行
 
@@ -143,11 +143,11 @@ Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要�
 
 如果您遇到與下列相關的問題： Dynamics 365 方案訂用帳戶、授權、帳單、財務 & 營運、Dynamics 365 產品授權，或您需要進一步的技術支援：
  
-連絡 [Dynamics 支援](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-technical-support)
+連絡 [Dynamics 支援](/dynamics365/customer-engagement/admin/contact-technical-support)
 
 閱讀 [Microsoft Dynamics 支援](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [為客戶提供支援](customer-support.md)
 - [檢查服務健康狀況](check-service-health.md)

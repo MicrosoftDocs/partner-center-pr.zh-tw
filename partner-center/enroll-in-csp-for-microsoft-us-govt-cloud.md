@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 06/30/2020
-ms.openlocfilehash: 12ddd290f22fc672ca2fb0c911567ca7419d88b0
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026276"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999912"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
@@ -76,7 +76,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 1. 登入 Microsoft Azure 系統管理員入口網站 [https://portal.azure.us/](https://portal.azure.us/) 。
 
-2. 將系統管理代理人角色指派給組織中的適當使用者。 若要這樣做，您需要將這些使用者新增到內建的 **AdminAgent** 群組。 如需做法詳細資訊，請參閱[在 Azure Active Directory 中管理群組的成員](https://docs.microsoft.com/azure/active-directory/active-directory-groups-members-azure-portal)。
+2. 將系統管理代理人角色指派給組織中的適當使用者。 若要這樣做，您需要將這些使用者新增到內建的 **AdminAgent** 群組。 如需做法詳細資訊，請參閱[在 Azure Active Directory 中管理群組的成員](/azure/active-directory/active-directory-groups-members-azure-portal)。
 
 ## <a name="connect-with-us"></a>與我們連絡
 
@@ -84,7 +84,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 - 在 [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) 上加入我們。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
 

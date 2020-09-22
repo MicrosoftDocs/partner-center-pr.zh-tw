@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: fba1427978e61b739c8ffb14374a44331ef51d27
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366872"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000252"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>管理、取消、交換或退款 Microsoft Azure 保留給客戶
 
@@ -33,7 +33,7 @@ ms.locfileid: "89366872"
 - 使用者管理系統管理員
 
 > [!NOTE]
-> 本文僅適用于雲端解決方案提供者 (CSP) 計畫中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
+> 本文僅適用于雲端解決方案提供者 (CSP) 計畫中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](/azure/cost-management-billing/reservations)。
 
 若要在購買後管理客戶的 Azure 保留，您將在合作夥伴中心中選取您想要管理的客戶和保留，然後對 Azure 入口網站中的保留進行變更。
 
@@ -47,7 +47,7 @@ ms.locfileid: "89366872"
     |:-----------------------------|:-----------------|
     | **概觀**   | 查看客戶保留的詳細資料，包括到期日、範圍和使用量資料。 **注意** 選擇 **\[退款\]** 可建立按比例計算的退款支援要求。 選取 **\[交換\]** 可建立交換未使用的保留區期限的支援要求。  
     | **存取控制 (IAM)**   | 管理客戶保留資訊的存取權。|
-    | **設定**   | 變更保留的範圍及/或與保留相關聯的 Azure 訂用帳戶。    |
+    | **Configuration**   | 變更保留的範圍及/或與保留相關聯的 Azure 訂用帳戶。    |
     | **屬性**   | 查看保留的屬性，並將保留識別碼和保留訂單識別碼複製到剪貼簿。 **注意** 當您代表客戶要求支援時，支援人員可能會請您提供保留區識別碼和保留區訂單識別碼。    |
     | **新增支援要求**    | 向 Microsoft 支援服務要求協助。   |
  
@@ -66,10 +66,10 @@ ms.locfileid: "89366872"
 
 |**取消日期**<br>  (天)    |**使用量**    |**點數**  |**提早終止**<br> 費用    |**退款上限** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5或更少                         | 否          | 100%       | 否                              | $50000 美元   |
-|5或更少                         | 是         | 依比例  | 否                              | $50000 美元   |
-|超過5個                        | 否          | 依比例  | 12%                             | $50000 美元   |
-|超過5個                        | 是         | 依比例  | 12%                             | $50000 美元   |
+|5或更少                         | No          | 100%       | No                              | $50000 美元   |
+|5或更少                         | Yes         | 依比例  | No                              | $50000 美元   |
+|超過5個                        | No          | 依比例  | 12%                             | $50000 美元   |
+|超過5個                        | Yes         | 依比例  | 12%                             | $50000 美元   |
 
 ### <a name="how-exchanges-work"></a>交換的運作方式 
 
@@ -107,6 +107,5 @@ ms.locfileid: "89366872"
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的執行個體](azure-reservations.md) |
 |在合作夥伴中心中為您的客戶購買 Azure 保留   | [購買 Azure Reservations](azure-reservations-buying.md) |
 |判斷正確的 VM 大小，並確認客戶 VM 使用率   | [調整 VM 大小以提供最大 Azure Reservations 使用率](azure-usage.md)   |
-|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](/partner-center/develop/purchase-azure-reservations)   |
 |提供客戶從您購買的訂用帳戶購買自己的 Azure 保留的許可權。 | [提供客戶購買自己的 Azure 保留的許可權](give-customers-permission.md)   |
-

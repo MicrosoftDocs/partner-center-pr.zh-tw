@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: 05260ce988c5a3168a8b0dbd587d453f295c9396
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: bdce3cd4b2095a0c2d87521a879a15bcbbd7d0fd
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026266"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000552"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government 適用的合作夥伴中心常見問題集
 
@@ -35,11 +35,11 @@ ms.locfileid: "90026266"
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>客戶定價是否與 CSP Commercial 的客戶定價相同？
 
-不會。 定價將反映提供 Microsoft Cloud for US Government 適用之獨特價值的額外成本。
+不可以。 定價將反映提供 Microsoft Cloud for US Government 適用之獨特價值的額外成本。
 
 ### <a name="is-the-partner-discounting-model-the-same"></a>合作夥伴折扣模式是否相同？
 
-是。 適用于 Microsoft Cloud for US Government 的 CSP 方案的合作夥伴折扣模型，與 CSP 商用的合作夥伴折扣模型相同。
+可以。 適用于 Microsoft Cloud for US Government 的 CSP 方案的合作夥伴折扣模型，與 CSP 商用的合作夥伴折扣模型相同。
 
 ### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>CSP Commercial 是現有的合作夥伴計畫。 這項計畫與 Microsoft 政府雲端的雲端解決方案提供者計畫有何不同？
 
@@ -53,7 +53,7 @@ Microsoft 政府雲端的雲端解決方案提供者計畫與 CSP Commercial 不
 
 - 締約：Microsoft 雲端轉銷商合約 (MCRA) 已經過更新，可反映獨特的政府條款。
 
-- 合作夥伴中心功能：為了符合法規及合規性需求，美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫不會啟用合作夥伴中心的某些功能。 合作夥伴可以改用 Azure Active Directory (Azure AD) 或 [Graph API](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)，來執行與使用者及群組管理相關的工作。 適用于 Microsoft Cloud for US Government 的 CSP 提供授權型服務時，可支援多通路和多合作夥伴案例的關聯性要求功能。
+- 合作夥伴中心功能：為了符合法規及合規性需求，美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫不會啟用合作夥伴中心的某些功能。 合作夥伴可以改用 Azure Active Directory (Azure AD) 或 [Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)，來執行與使用者及群組管理相關的工作。 適用于 Microsoft Cloud for US Government 的 CSP 提供授權型服務時，可支援多通路和多合作夥伴案例的關聯性要求功能。
 
 ### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>我還不是雲端解決方案提供者合作夥伴。 哪裡可以找到有關如何成為雲端解決方案提供者合作夥伴的詳細資訊？
 
@@ -97,15 +97,15 @@ Microsoft Cloud 代理商合約 (MCDA) 授與代理商透過雲端解決方案�
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>我現在已是合作夥伴。 我該怎麼做才能銷售美國政府適用的 Microsoft Cloud？
 
-合作夥伴必須上線到美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫，才能符合法規及合規性需求  (Microsoft Cloud for US Government 上線與 CSP Commercial 上線是分開進行的)。上線之後，您就可以建立客戶，並交易 Microsoft Cloud for US Government 所提供的方案。 如果您要運用 API，請參閱[針對 Microsoft 國家/地區雲端的合作夥伴中心進行開發](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS) (英文)。
+合作夥伴必須上線到美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫，才能符合法規及合規性需求  (Microsoft Cloud for US Government 上線與 CSP Commercial 上線是分開進行的)。上線之後，您就可以建立客戶，並交易 Microsoft Cloud for US Government 所提供的方案。 如果您要運用 API，請參閱[針對 Microsoft 國家/地區雲端的合作夥伴中心進行開發](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) (英文)。
 
 ### <a name="is-there-any-difference-in-partner-incentives"></a>合作夥伴獎勵是否有任何差異？
 
-不會。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的合作夥伴獎勵，與 CSP Commercial 的合作夥伴獎勵相同。 若要深入了解合作夥伴獎勵，請登入 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/partner-incentives)。
+不可以。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的合作夥伴獎勵，與 CSP Commercial 的合作夥伴獎勵相同。 若要深入了解合作夥伴獎勵，請登入 [Microsoft 合作夥伴網路入口網站](https://partner.microsoft.com/membership/partner-incentives)。
 
 ### <a name="are-there-any-changes-to-billing"></a>計費方式是否有任何變更？
 
-不會。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的計費條件及需求，與 CSP Commercial 的計費條件及需求相同。 若要深入了解計費，請檢閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/cloud-solution-provider/resources)上的資源。
+不可以。 Microsoft Cloud for US Government 適用的雲端解決方案提供者計畫的計費條件及需求，與 CSP Commercial 的計費條件及需求相同。 若要深入了解計費，請檢閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/cloud-solution-provider/resources)上的資源。
 
 ### <a name="for-data-hosted-in-commercial-data-centers-is-it-possible-to-change-to-microsoft-cloud-for-us-government"></a>針對商業資料中心內裝載的資料，是否可以變更為 Microsoft Cloud for US Government？
 
@@ -123,11 +123,11 @@ Azure Government 雲端提供根據安全性、隱私權與控制、合規性及
 
 ### <a name="what-do-i-need-to-do-to-develop-with-the-csp-program-for-microsoft-cloud-for-us-government"></a>我該怎麼做才能使用美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫進行開發？
 
-如需使用美國政府適用的 Microsoft Cloud 合作夥伴中心進行開發的詳細資訊，請參閱[使用 Microsoft 政府雲端合作夥伴中心進行開發](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)。
+如需使用美國政府適用的 Microsoft Cloud 合作夥伴中心進行開發的詳細資訊，請參閱[使用 Microsoft 政府雲端合作夥伴中心進行開發](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)。
 
 ### <a name="are-there-any-differences-in-apis"></a>API 是否有任何差異？
 
-美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫的 API 和整合需求與 CSP Commercial 的 API 和整合需求完全相同。 如需 Microsoft Cloud for US Government 之端點的詳細資訊，請參閱[合作夥伴中心 REST URL](https://msdn.microsoft.com/library/partnercenter/mt490977.aspx)。
+美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫的 API 和整合需求與 CSP Commercial 的 API 和整合需求完全相同。 如需 Microsoft Cloud for US Government 之端點的詳細資訊，請參閱[合作夥伴中心 REST URL](/partner-center/develop/partner-center-rest-urls)。
 
 >[!NOTE]
 >CREST API 不適用於 Microsoft Cloud for US Government 雲端解決方案提供者計畫。 這些 API 即將在雲端解決方案提供者計畫中過時，因此無法供美國政府適用的 Microsoft Cloud 使用。 為了符合法規及合規性需求，美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫不會提供下列 API。
@@ -162,13 +162,13 @@ Azure Government 雲端提供根據安全性、隱私權與控制、合規性及
 
 - [了解 CSP](https://partner.microsoft.com/cloud-solution-provider)
 
-- [了解如何使用美國政府適用的 Microsoft Cloud 合作夥伴中心進行開發](https://msdn.microsoft.com/library/partnercenter/mt789013.aspx#partner_center_msftcloudUS)
+- [了解如何使用美國政府適用的 Microsoft Cloud 合作夥伴中心進行開發](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>如果我還有問題，該前往何處？
 
 請連絡您的客戶經理以取得其他資訊。 此外，也可以加入 [Azure Government 雲端解決方案提供者](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)專屬的 Yammer 群組。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [註冊適用于 Microsoft Cloud for US Government 的雲端解決方案提供者方案](enroll-in-csp-for-microsoft-us-govt-cloud.md)。
 - [深入瞭解 Microsoft Cloud for US Government 的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)

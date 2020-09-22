@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: ba24376bad1d04fcbc9f02d442f0cba7e6354bd3
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367092"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000182"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率
 
@@ -25,7 +25,7 @@ ms.locfileid: "89367092"
 - 雲端解決方案提供者方案中的合作夥伴
  
 > [!NOTE]
-> 本文僅適用于雲端解決方案提供者 (CSP) 計畫中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
+> 本文僅適用于雲端解決方案提供者 (CSP) 計畫中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](/azure/cost-management-billing/reservations)。
 
 ## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>判斷客戶的 Azure 保留的 VM 大小
 
@@ -48,7 +48,7 @@ ms.locfileid: "89367092"
 
 1. 使用 API 回應中 additionalInfo 的 ServiceType 屬性值，找出要購買的 VM 大小。
 
-2. 如需詳細資訊，請參閱在[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/)[取得客戶的 Azure 使用量記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
+2. 如需詳細資訊，請參閱在[合作夥伴中心 API](/partner-center/develop/)[取得客戶的 Azure 使用量記錄](/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
 
 ### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>使用 Microsoft Azure 入口網站，取得 VM 大小調整資訊
 
@@ -123,10 +123,10 @@ ms.locfileid: "89367092"
 - consumptionMeter 是已套用保留區折扣之 VM 的 MeterId。
 - 由於已套用保留區折扣，所以 ReservationMeter 會顯示 $0 費用。
 
-如需詳細資訊，請參閱在[合作夥伴中心 API](https://docs.microsoft.com/partner-center/develop/)[取得客戶的 Azure 使用量記錄](https://docs.microsoft.com/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
+如需詳細資訊，請參閱在[合作夥伴中心 API](/partner-center/develop/)[取得客戶的 Azure 使用量記錄](/partner-center/develop/get-a-customer-s-utilization-record-for-azure)。
 
 >[!IMPORTANT]
->軟體成本 (例如 Microsoft Windows Server) 目前不包含在 VM 保留區的價格中，並會在訂單記錄和發票中顯示為不同的一行項目。 不過，如果客戶擁有 Azure Hybrid Use Benefit，將不會套用軟體成本。 如需詳細資訊，請參閱 [Windows 軟體的成本不包括在保留執行個體內](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs)。  
+>軟體成本 (例如 Microsoft Windows Server) 目前不包含在 VM 保留區的價格中，並會在訂單記錄和發票中顯示為不同的一行項目。 不過，如果客戶擁有 Azure Hybrid Use Benefit，將不會套用軟體成本。 如需詳細資訊，請參閱 [Windows 軟體的成本不包括在保留執行個體內](/azure/billing/billing-reserved-instance-windows-software-costs)。  
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
 
@@ -135,7 +135,7 @@ ms.locfileid: "89367092"
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的 VM 執行個體](azure-reservations.md)
 |在合作夥伴中心中為您的客戶購買 Azure 保留   | [購買 Azure Reservations](azure-reservations-buying.md)
 |在合作夥伴中心中管理 Azure 保留 | [在合作夥伴中心中管理 Azure 保留](azure-reservations-manage.md)
-|在 Azure 入口網站中購買 Azure Reservations | Azure 說明中的[預付具有 Azure 保留的 VM 執行個體的虛擬機器](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
-|在 Azure 入口網站中管理 Azure Reservations   | Azure 說明中的[管理保留的 VM 執行個體](https://docs.microsoft.com/azure/billing/billing-manage-reserved-vm-instance)  |
-|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|在 Azure 入口網站中購買 Azure Reservations | Azure 說明中的[預付具有 Azure 保留的 VM 執行個體的虛擬機器](/azure/virtual-machines/windows/prepay-reserved-vm-instances) |
+|在 Azure 入口網站中管理 Azure Reservations   | Azure 說明中的[管理保留的 VM 執行個體](/azure/billing/billing-manage-reserved-vm-instance)  |
+|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](/partner-center/develop/purchase-azure-reservations)   |
 |提供客戶從您購買的訂用帳戶購買自己的 Azure 保留的許可權。 | [提供客戶購買自己的 Azure 保留的許可權](give-customers-permission.md)   |

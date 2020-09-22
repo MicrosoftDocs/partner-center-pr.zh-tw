@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: ba5fe60234c002ad2696de348a1b3b9b1284c149
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89280535"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999292"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>在合作夥伴中心內管理未付款、詐騙或誤用
 
@@ -79,7 +79,7 @@ ms.locfileid: "89280535"
 - 在註冊期間使用多重要素驗證 (例如 SMS 驗證) ，以將建立和購買機器人帳戶的風險降至最低。
 - 使用服務 (管理和追蹤身分識別，例如數位身分識別服務) 。
 - 透過嚴格的信用卡詐騙偵測系統來評估客戶的財務優勢。
-- 建立明確的集合原則。 詳細說明您的集合流程，以及當訂用帳戶的存取權會受到非付款的影響。  (您可以停用存取或 [暫止客戶的](suspend-a-subscription.md) 非付款訂用帳戶。 ) 
+- 建立明確的集合原則。 詳細說明您的集合流程，以及當訂用帳戶的存取權會受到非付款的影響。  (您可以停用存取或 [暫止客戶的](create-a-new-subscription.md#suspend-a-subscription) 非付款訂用帳戶。 ) 
 
 ### <a name="managing-customer-accounts"></a>管理客戶帳戶
 

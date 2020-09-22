@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 044aae1dd1482f41799acd06c791447a773b4226
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220087"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000622"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理
 
@@ -46,13 +46,13 @@ ms.locfileid: "89220087"
 > [!NOTE]  
 > 選取下列連結將會帶您前往不同的網站。
 
--  [將新使用者新增至 Azure Active Directory](https://docs.microsoft.com/azure/active-directory/active-directory-users-create-azure-portal)
+-  [將新使用者新增至 Azure Active Directory](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [在 Azure Active Directory 中將使用者指派給系統管理員角色](https://docs.microsoft.com/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [在 Azure Active Directory 中將使用者指派給系統管理員角色](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [在 Azure Active Directory 中重設使用者的密碼](https://docs.microsoft.com/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [在 Azure Active Directory 中重設使用者的密碼](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 -  [Microsoft Azure (德國)](https://azure.microsoft.com/global-infrastructure/germany/)
 -  [Microsoft Cloud 德國合作夥伴中心](partner-center-for-microsoft-cloud-germany.md)

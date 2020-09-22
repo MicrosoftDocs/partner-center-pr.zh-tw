@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 19a358fe023a8c8fd9d30ecb9dd1c37114dca84a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 655bd48df616b26b842d5f99960d6b6ad2e75f1f
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367012"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000262"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作夥伴中心中代表客戶購買 Microsoft Azure 保留
 
@@ -33,7 +33,7 @@ ms.locfileid: "89367012"
 - 使用者管理系統管理員
  
 > [!NOTE]
-> 本文僅適用于雲端解決方案提供者 (CSP) 計畫中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](https://docs.microsoft.com/azure/cost-management-billing/reservations)。
+> 本文僅適用于雲端解決方案提供者 (CSP) 計畫中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](/azure/cost-management-billing/reservations)。
 
 ## <a name="before-you-begin"></a>開始之前
 
@@ -136,7 +136,7 @@ ms.locfileid: "89367012"
     - 選取保留區的範圍。 保留範圍可以涵蓋一個訂用帳戶或多個訂用帳戶 (共用範圍) 。 如果您將保留範圍設為單一訂用帳戶，保留折扣只會套用到此訂用帳戶。 如果您選取 [共用]，保留折扣會套用至客戶計費內容中的任何訂用帳戶。 
 
       >[!NOTE] 
-      >如果您選擇將保留範圍限制為單一 Azure 訂用帳戶，您可能需要增加訂用帳戶的 vCPU 配額。 若要增加訂用帳戶的 vCPU 配額，您必須在 Azure 入口網站中建立支援要求。 請依照 [本主題中](https://docs.microsoft.com/azure/azure-supportability/resource-manager-core-quotas-request) 的指示來建立要求。 
+      >如果您選擇將保留範圍限制為單一 Azure 訂用帳戶，您可能需要增加訂用帳戶的 vCPU 配額。 若要增加訂用帳戶的 vCPU 配額，您必須在 Azure 入口網站中建立支援要求。 請依照 [本主題中](/azure/azure-supportability/resource-manager-core-quotas-request) 的指示來建立要求。 
 
       >[!NOTE]   
       >如果您的客戶在 Azure 方案下， **範圍**  將會設定為 [ **共用**]。 
@@ -156,5 +156,5 @@ ms.locfileid: "89367012"
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的執行個體](azure-reservations.md) |
 |在合作夥伴中心中管理 Azure 保留 | [在合作夥伴中心中管理 Azure 保留](azure-reservations-manage.md)
 |判斷正確的 VM 大小，並確認客戶 VM 使用率   |[調整 VM 大小以提供最大 Azure Reservations 使用率](azure-usage.md)   |
-|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](https://docs.microsoft.com/partner-center/develop/purchase-azure-reservations)   |
+|使用合作夥伴中心 API 購買 Azure Reservations | 合作夥伴中心開發人員文件中的[購買 Azure 保留的 VM 執行個體](/partner-center/develop/purchase-azure-reservations)   |
 |為客戶提供購買自己的 Azure 保留的許可權  | [提供客戶購買自己的 Azure 保留的許可權](give-customers-permission.md)  |

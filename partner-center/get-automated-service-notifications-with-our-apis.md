@@ -1,22 +1,22 @@
 ---
-title: 使用 Api 來進行自動化服務通知
+title: 使用自動化服務通知的 Api
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 合作夥伴可以使用 Office 365 和 Microsoft Azure 合作夥伴的 Api 來進行即時服務健全狀況、訊息中心通訊，以及預定的維護事件。
+description: 合作夥伴可以使用適用于 Office 365 的 Api 和 Microsoft Azure 合作夥伴來取得即時服務健康狀態、訊息中心通訊和規劃的維護事件。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8611c2de0310880fee1e665077026de003f30dcf
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114140"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000452"
 ---
-# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>使用適用于 Azure Insights 的自動化服務通知 & Office 365 服務通訊的 Api
+# <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>將 Api 用於 Azure Insights & Office 365 服務通訊的自動化服務通知
 
 **適用於**
 
@@ -33,13 +33,11 @@ Office 365 與 Microsoft Azure 分別提供合作夥伴可用來擷取即時服�
 
 這些 API 僅供您的開發人員使用：
 
-[Office 365 服務通訊 API](https://go.microsoft.com/fwlink/p/?LinkId=616899)
+[Office 365 服務通訊 API](/office/office-365-management-api/office-365-service-communications-api-reference)
 
-Azure Insights REST API：[程式碼](https://go.microsoft.com/fwlink/p/?LinkId=617299)與 [API 參考](https://go.microsoft.com/fwlink/p/?LinkId=617300)
+
+Azure Insights REST [API 參考](/rest/api/monitor/)
 
  
 
  
-
-
-

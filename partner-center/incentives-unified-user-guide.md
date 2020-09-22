@@ -1,5 +1,5 @@
 ---
-title: 存取支出頁面
+title: 存取您的支出頁面
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 32a7afcd939d47ed71627511645e1f3560717288
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 4f5c2188c88f66c3cc406af32bde9043ae7bb4c2
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714362"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999882"
 ---
 # <a name="access-payouts-pages-for-windows-apps-and-games-mpn-incentives-and-commercial-marketplace-payments"></a>存取支出頁面，適用于 Windows 應用程式和遊戲、MPN 獎勵和商業 Marketplace 付款
 
@@ -29,10 +29,10 @@ ms.locfileid: "90714362"
 
 適用于您的付款說明資訊取決於您所使用的合作夥伴方案。 若要查看您適合的頁面，請選取下方對應的連結：
 
-- 針對 Windows 應用程式和遊戲付款，請參閱 Windows 開發人員檔中的付款 [摘要](https://docs.microsoft.com/windows/uwp/publish/payout-summary) 。
+- 針對 Windows 應用程式和遊戲付款，請參閱 Windows 開發人員檔中的付款 [摘要](/windows/uwp/publish/payout-summary) 。
 
 - 如 Microsoft 合作夥伴網路 (MPN) 獎勵支出，請參閱 MPN 獎勵檔中的「 [查看您的獎勵款項」資訊](understand-incentive-payouts.md) 。
 
 ## <a name="next-steps"></a>後續步驟
 
-- 如需有關獨立軟體廠商 (Isv) 的商業 Marketplace 付款資訊，請參閱 [商用 marketplace 付款摘要](https://docs.microsoft.com/azure/marketplace/partner-center-portal/payout-summary)。
+- 如需有關獨立軟體廠商 (Isv) 的商業 Marketplace 付款資訊，請參閱 [商用 marketplace 付款摘要](/azure/marketplace/partner-center-portal/payout-summary)。

@@ -8,14 +8,14 @@ description: 如果您是 Microsoft 合作夥伴，您可能會有關于使用�
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b557e3cc5bc7dbb7964809ee5032c2ad2b5c8a9
-ms.sourcegitcommit: 4feae1ea7fd3077934e3c931a5de801c96a4f995
+ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "89040997"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999752"
 ---
-# <a name="guide-to-licensing-resources-for-microsoft-partners"></a>適用于 Microsoft 合作夥伴的授權資源指南 
+# <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft 合作夥伴的資源授權指南 
 
 **適用於**
 
@@ -48,7 +48,7 @@ ms.locfileid: "89040997"
 |深入瞭解大量授權 (VL) 和特定解決方案的授權  | [Microsoft 授權-產品和解決方案](https://www.microsoft.com/licensing/default) |
 |深入瞭解大量授權訓練和資源，可協助您提供 VL 定價、報價、合約、產品啟用和其他工具  | [Microsoft 合作夥伴網路訓練和資源](https://partner.microsoft.com/licensing/training-and-resources) |
 |探索 **取得授權就緒** 授權訓練課程模組  | [取得授權就緒](https://www.getlicensingready.com/)  |
-|閱讀有關可協助您設計及提供 Microsoft 授權解決方案給大型組織的授權測驗， * (測驗將于2021年1月31日（下午 11:59 PM 中部）淘汰) *  | [測驗70-705](https://docs.microsoft.com/learn/certifications/exams/70-705) |
+|閱讀有關可協助您設計及提供 Microsoft 授權解決方案給大型組織的授權測驗， * (測驗將于2021年1月31日（下午 11:59 PM 中部）淘汰) *  | [測驗70-705](/learn/certifications/exams/70-705) |
 
 ## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>特定程式和產品特定的授權條款和協定
 
@@ -84,7 +84,7 @@ ms.locfileid: "89040997"
 |*若要查看此儀表板，您必須在 csp 方案中註冊*合作夥伴中心儀表板的 [查看 csp 方案定價和優惠] ()   |[Csp 定價和提供總覽](pricing-and-offers.md) 或 [csp 檔與資源](csp-documents-and-learning-resources.md) |
 |探索行銷資料以協助處理客戶  | [MPN 合作夥伴就緒教材](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
 |取得 Microsoft 技術售前和部署服務的協助，以進行客戶交易或線上案例  | [技術售前和部署服務總覽](https://partner.microsoft.com/training/technical-presales-deployment-services) 或 [支援總覽](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|瞭解如何啟用 Open 授權中的 Microsoft Azure   | [開啟程式的線上服務啟用常見問題](https://docs.microsoft.com/licensing/online-service-activation-faq)  |
+|瞭解如何啟用 Open 授權中的 Microsoft Azure   | [開啟程式的線上服務啟用常見問題](/licensing/online-service-activation-faq)  |
 |如何及何時計算及要求 Microsoft 的 SLA 信用額度，以因中斷而影響的客戶  | [要求服務中斷的 SLA 信用額度](request-credit.md)   |
 |取得 Microsoft 合作夥伴群體的協助  | [Microsoft 合作夥伴社區論壇](https://www.microsoftpartnercommunity.com)  |
 
@@ -94,7 +94,7 @@ ms.locfileid: "89040997"
 
 前往 [Microsoft 合作夥伴支援](https://partner.microsoft.com/support/?stage=1) 以查看您的支援選項，或開始支援票證。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [查看更多支援資源](https://partner.microsoft.com/support/?stage=1)
 - [尋找合作夥伴](find-a-partner.md)

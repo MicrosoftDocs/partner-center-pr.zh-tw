@@ -9,12 +9,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3dd511f455c24d7fa3193d6a99efd786eb3c34da
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848261"
+ms.locfileid: "90999342"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作夥伴中心 (電腦) 共同銷售的指南，適用于從合作夥伴銷售 Connect (PSC 進行遷移的合作夥伴) 
 
@@ -40,12 +40,12 @@ ms.locfileid: "90848261"
 ### <a name="if-you-are-psc-admin"></a>如果您是 PSC 系統管理員
 
 - 您需要有工作電子郵件才能登入 [合作夥伴中心](https://partner.microsoft.com/)。
-- 使用合作夥伴中心 [帳戶管理員](https://docs.microsoft.com/partner-center/permissions-overview)的協助來設定您的帳戶。
+- 使用合作夥伴中心 [帳戶管理員](permissions-overview.md)的協助來設定您的帳戶。
 - 閱讀這份檔，瞭解如何在合作夥伴中心中共同銷售。
-- 在合作夥伴中心中為所有您的 PSC 使用者 (系統管理員、交易管理員和賣方) 角色設定使用者帳戶，並為其指派 [參考系統管理員角色](https://docs.microsoft.com/partner-center/permissions-overview)。
+- 在合作夥伴中心中為所有您的 PSC 使用者 (系統管理員、交易管理員和賣方) 角色設定使用者帳戶，並為其指派 [參考系統管理員角色](permissions-overview.md)。
 
 >[!Important]
-> 請確定在合作夥伴中心的 MPN 位置清單中有提供 PSC 橫幅中顯示的 MPN 識別碼。 您可以前往中的 [帳戶設定] 和 [[位置](https://docs.microsoft.com/partner-center/manage-locations)] 來確認合作夥伴中心，以尋找與合作夥伴中心帳戶相關聯的所有 MPNs 清單。
+> 請確定在合作夥伴中心的 MPN 位置清單中有提供 PSC 橫幅中顯示的 MPN 識別碼。 您可以前往中的 [帳戶設定] 和 [[位置](manage-locations.md)] 來確認合作夥伴中心，以尋找與合作夥伴中心帳戶相關聯的所有 MPNs 清單。
 
  :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="此圖顯示可供合作夥伴尋找 MPN 識別碼的 PSC 橫幅。":::
 
@@ -61,10 +61,10 @@ ms.locfileid: "90848261"
 
 如果您沒有看到 [參考] 索引標籤：
 
-- 貴公司的 [全域管理員](https://docs.microsoft.com/partner-center/permissions-overview) 可以授與您存取 [參考] 索引標籤的許可權。若要尋找您的全域管理員，請從合作夥伴中心右上方的齒輪圖示移至 [夥伴設定]。 在左側導覽列的第二個層級中選取 [使用者管理] 頁面。 在頁面右上方的 [所有使用者] 下拉式清單中按一下，並變更為 [全域管理員]。 該頁面接著會顯示所有全域管理員及其各自的電子郵件識別碼。 請聯絡他們來取得您工作帳戶的「推薦系統管理員」存取權。
+- 貴公司的 [全域管理員](permissions-overview.md) 可以授與您存取 [參考] 索引標籤的許可權。若要尋找您的全域管理員，請從合作夥伴中心右上方的齒輪圖示移至 [夥伴設定]。 在左側導覽列的第二個層級中選取 [使用者管理] 頁面。 在頁面右上方的 [所有使用者] 下拉式清單中按一下，並變更為 [全域管理員]。 該頁面接著會顯示所有全域管理員及其各自的電子郵件識別碼。 請聯絡他們來取得您工作帳戶的「推薦系統管理員」存取權。
 
 >[!Important]
-> 如果您的角色只管理 PSC 中的使用者，您可以在合作夥伴中心中取得 [帳戶管理員](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 角色。 如果您的角色也包含管理共同銷售機會，您應該取得 [推薦系統管理員](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 角色。 此外，請在 PSC 系統管理員中提名一個變更管理領導人，以與合作夥伴中心帳戶管理員合作，而不是由所有 PSC 系統管理員來個別向電腦上的帳戶管理員進行處理。
+> 如果您的角色只管理 PSC 中的使用者，您可以在合作夥伴中心中取得 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company) 角色。 如果您的角色也包含管理共同銷售機會，您應該取得 [推薦系統管理員](permissions-overview.md#manage-referrals) 角色。 此外，請在 PSC 系統管理員中提名一個變更管理領導人，以與合作夥伴中心帳戶管理員合作，而不是由所有 PSC 系統管理員來個別向電腦上的帳戶管理員進行處理。
 
  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="顯示 [夥伴設定] 使用者管理頁面中帳戶管理員的影像。":::
 
@@ -76,9 +76,9 @@ ms.locfileid: "90848261"
 在合作夥伴中心中設定您的帳戶之後，
 
 - 邀請在 PSC 中具有「交易管理員」角色或「賣方」角色的所有使用者，在下一個步驟中合作夥伴中心。
-- 協助您使用推薦存取權的 [帳戶管理員](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 可以邀請所有使用者。
-- 邀請使用者時，請要求帳戶管理員將 [參考系統管理員](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 角色指派給他們。
-- 您的某些 PSC 使用者可能使用非工作帳戶或不同于您在合作夥伴中心中所使用之網域的帳戶。 所有這類使用者都必須使用附加至您 Azure AD 租使用者的工作帳戶登入合作夥伴中心。 您的 [全域管理員](https://docs.microsoft.com/partner-center/permissions-overview#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 可以提供協助。 若要尋找您的全域管理員，請從合作夥伴中心右上方的齒輪圖示移至 [夥伴設定]。 在左側導覽列的第二個層級中，按一下 [使用者管理] 頁面。 在頁面右上方的 [所有使用者] 下拉式清單中按一下，並變更為 [全域管理員]。
+- 協助您使用推薦存取權的 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company) 可以邀請所有使用者。
+- 邀請使用者時，請要求帳戶管理員將 [參考系統管理員](permissions-overview.md#manage-referrals) 角色指派給他們。
+- 您的某些 PSC 使用者可能使用非工作帳戶或不同于您在合作夥伴中心中所使用之網域的帳戶。 所有這類使用者都必須使用附加至您 Azure AD 租使用者的工作帳戶登入合作夥伴中心。 您的 [全域管理員](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) 可以提供協助。 若要尋找您的全域管理員，請從合作夥伴中心右上方的齒輪圖示移至 [夥伴設定]。 在左側導覽列的第二個層級中，按一下 [使用者管理] 頁面。 在頁面右上方的 [所有使用者] 下拉式清單中按一下，並變更為 [全域管理員]。
 - 全域管理員可以在您的 Azure AD 租使用者中建立新的使用者帳戶，或將來賓使用者存取權指派給其他網域帳戶使用者。
 - 一旦為所有 PSC 交易管理員和使用者設定帳戶之後，他們必須登入合作夥伴中心，移至左側導覽中的 [參考] 索引標籤，然後檢查以確定他們可以看到 [參考] 頁面。
 
@@ -100,16 +100,16 @@ ms.locfileid: "90848261"
 
 |**案例**|**合作夥伴銷售連接**|**合作夥伴中心**|
 |-----|:-----|:-----|
-|使用者角色|PSC 具有系統管理員、交易經理和賣方角色。|電腦只有 [參考系統管理員](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) 角色，可提供所有交易的讀取和寫入權限。|
-|邀請 Microsoft 共同銷售交易|由 Microsoft 賣方起始，沒有合作夥伴的明確要求。|如果需要 Microsoft 銷售人員協助，合作夥伴將必須提出 [明確的要求](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) 。 Microsoft 賣方有一個拒絕要求的選項。|
+|使用者角色|PSC 具有系統管理員、交易經理和賣方角色。|電腦只有 [參考系統管理員](permissions-overview.md#manage-referrals) 角色，可提供所有交易的讀取和寫入權限。|
+|邀請 Microsoft 共同銷售交易|由 Microsoft 賣方起始，沒有合作夥伴的明確要求。|如果需要 Microsoft 銷售人員協助，合作夥伴將必須提出 [明確的要求](manage-co-sell-opportunities.md#add-solutions) 。 Microsoft 賣方有一個拒絕要求的選項。|
 |Expiry|交易到期沒有任何概念。|夥伴輸入交易如果夥伴不接受，則會在14天內到期。 如果 Microsoft 銷售人員在14天內未採取任何動作，就會發生這種情況：夥伴輸出交易可進入已過期狀態。|
 |Microsoft 賣方詳細資料|在交易建立後立即顯示。|只有當賣方明確接受合作夥伴的共同銷售邀請時，才會與合作夥伴共用 Microsoft 賣方詳細資料。|
-|[私人管線](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities)|不適用。|合作夥伴可以共用其管道，而不會提供 Microsoft 銷售人員的可見度。|
-|方案|只有一個價位清單的解決方案可以新增到交易中。|夥伴可以加入屬於下列清單的 [解決方案](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-solutions) 。 答) 自己的解決方案 b) Microsoft 第一方目錄的解決方案 (類似于) PSC 的交易交易角色與其他協力廠商合作夥伴的 c) 共同銷售解決方案 (類似于 PSC) 中的 ISV 交易角色。|
+|[私人管線](manage-co-sell-opportunities.md#types-of-co-sell-opportunities)|不適用。|合作夥伴可以共用其管道，而不會提供 Microsoft 銷售人員的可見度。|
+|方案|只有一個價位清單的解決方案可以新增到交易中。|夥伴可以加入屬於下列清單的 [解決方案](manage-co-sell-opportunities.md#add-solutions) 。 答) 自己的解決方案 b) Microsoft 第一方目錄的解決方案 (類似于) PSC 的交易交易角色與其他協力廠商合作夥伴的 c) 共同銷售解決方案 (類似于 PSC) 中的 ISV 交易角色。|
 |交易指派|只有指派的賣方才能查看交易並採取行動。|您可以將小組成員新增到交易中，以指定處理工作的人員，而不會封鎖其他的推薦系統管理員來觀看或處理這些交易。|
-|客戶組織|自由格式文字專案。|只要輸入幾個字元，就可以針對[D&B 資料庫](https://www.dnb.com/)搜尋[客戶組織](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)。 合法的名稱和位址會根據選擇自動填入。|
+|客戶組織|自由格式文字專案。|只要輸入幾個字元，就可以針對[D&B 資料庫](https://www.dnb.com/)搜尋[客戶組織](manage-co-sell-opportunities.md#select-your-customer)。 合法的名稱和位址會根據選擇自動填入。|
 |客戶連絡人|不是必要的。|私人管線共用不是必要的。 如果 Microsoft 賣方受邀參與共同銷售要求，則為必要項。|
-|公用 API|不適用。|[公用 API](https://docs.microsoft.com/partner/develop/referrals) ，以程式設計方式管理合作夥伴中心的參考。|
+|公用 API|不適用。|[公用 API](/partner/develop/referrals) ，以程式設計方式管理合作夥伴中心的參考。|
 
 ## <a name="psc-and-partner-center-field-mapping"></a>PSC 和合作夥伴中心欄位對應
 
@@ -166,13 +166,13 @@ ms.locfileid: "90848261"
 
 **季.如果我沒有合作夥伴中心存取權，該怎麼辦？**
 
-您可以聯絡您在 [沒有存取權] 頁面上列出的系統管理員，以取得指派的角色。 在 [參考] 區段下，您將需要「[參考系統管理員](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)」角色才能讀取和寫入權限。 如果您只管理商務設定檔，則您需要合作夥伴中心內的「商務設定檔系統管理員」角色。
+您可以聯絡您在 [沒有存取權] 頁面上列出的系統管理員，以取得指派的角色。 在 [參考] 區段下，您將需要「[參考系統管理員](permissions-overview.md#manage-referrals)」角色才能讀取和寫入權限。 如果您只管理商務設定檔，則您需要合作夥伴中心內的「商務設定檔系統管理員」角色。
 
 :::image type="content" source="images/pscmigration/noaccess.png" alt-text="顯示合作夥伴中心中無存取體驗的影像。":::
 
 **同比.誰可以授與我合作夥伴中心中 [參考] 區段的存取權？**
 
-您的 [帳戶管理員](https://docs.microsoft.com/partner-center/permissions-overview#manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant) 可以授與您存取 [參考] 索引標籤。若要尋找您的帳戶管理員，請從合作夥伴中心右上方的齒輪圖示移至 [夥伴設定]。 在左側導覽列的第二個層級中，按一下 [使用者管理] 頁面。 按一下頁面右上方的 [所有使用者] 下拉式清單，並變更為 [帳戶管理員]。 頁面接著會顯示所有的帳戶管理員及其各自的電子郵件識別碼。 請聯絡他們來取得您工作帳戶的「推薦系統管理員」存取權。
+您的 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company) 可以授與您存取 [參考] 索引標籤。若要尋找您的帳戶管理員，請從合作夥伴中心右上方的齒輪圖示移至 [夥伴設定]。 在左側導覽列的第二個層級中，按一下 [使用者管理] 頁面。 按一下頁面右上方的 [所有使用者] 下拉式清單，並變更為 [帳戶管理員]。 頁面接著會顯示所有的帳戶管理員及其各自的電子郵件識別碼。 請聯絡他們來取得您工作帳戶的「推薦系統管理員」存取權。
 
 **三.我們的帳戶的 [+ 新增交易] 按鈕會呈現灰色。我該怎麼做才能開始建立交易？**
 
@@ -192,7 +192,7 @@ ms.locfileid: "90848261"
 
 **Q7.如何在將交易變成獲勝之後進行註冊？**
 
-如果交易符合下列準則，我們將會顯示一個快顯視窗，以開始進行 [交易註冊](https://docs.microsoft.com/partner-center/register-deals)。
+如果交易符合下列準則，我們將會顯示一個快顯視窗，以開始進行 [交易註冊](./register-deals.md)。
 
 - 有一項獎勵符合資格的解決方案附加至交易。
 - Microsoft 賣方已獲邀參與交易，或已邀請您進行交易。
@@ -204,11 +204,11 @@ ms.locfileid: "90848261"
 
 **Q9.是否要新增客戶組織的必要專案？**
 
-是的，合作夥伴中心中必須加入 [客戶組織](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer) 。 首先，請先搜尋客戶的位置。 根據您擁有的詳細資料;您可以指定特定的組建名稱，或只提供城市詳細資料。 組織搜尋將會提取所有符合您輸入名稱的法律實體，如此您就不需要輸入任何位址詳細資料。 系統會根據選取的組織自動填入所有詳細資料。
+是的，合作夥伴中心中必須加入 [客戶組織](./manage-co-sell-opportunities.md#select-your-customer) 。 首先，請先搜尋客戶的位置。 根據您擁有的詳細資料;您可以指定特定的組建名稱，或只提供城市詳細資料。 組織搜尋將會提取所有符合您輸入名稱的法律實體，如此您就不需要輸入任何位址詳細資料。 系統會根據選取的組織自動填入所有詳細資料。
 
 **Q10.客戶連絡人詳細資料是否為必要？**
 
-取決於您所建立的 [交易類型](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#types-of-co-sell-opportunities) 。 如果您只是共用您的管線，而不需要 Microsoft 銷售組織提供任何協助，您可以選擇不提供客戶連絡人詳細資料。 如果您正在共同銷售，而您積極尋求 Microsoft 賣方的協助，則必須提供客戶連絡人詳細資料。 在合作夥伴中心內建立共同銷售要求之前，您應該先明確同意客戶。
+取決於您所建立的 [交易類型](./manage-co-sell-opportunities.md#types-of-co-sell-opportunities) 。 如果您只是共用您的管線，而不需要 Microsoft 銷售組織提供任何協助，您可以選擇不提供客戶連絡人詳細資料。 如果您正在共同銷售，而您積極尋求 Microsoft 賣方的協助，則必須提供客戶連絡人詳細資料。 在合作夥伴中心內建立共同銷售要求之前，您應該先明確同意客戶。
 
 **Q11.我可以將多少解決方案新增到交易中？**
 
@@ -228,7 +228,7 @@ PSC 的商機識別碼與 PC 中的交易識別碼相同。 當您開啟任何�
 
 - OCP 見解-如果 Pdm 小組只是要查看與其相關的交易 & 進度，他們可以使用 OCP 見解入口網站來取得您的組織觀點。 這是內部工具，僅適用于 Pdm 小組。 請注意，您的公司使用者無法使用 OCP 見解。
 - 合作夥伴中心中的來賓使用者-您可以 @microsoft.com 在合作夥伴中心內將您的 PDM 帳戶新增為來賓使用者，並指派參考系統管理員角色給他們，讓他們可以根據參考來查看和採取行動。
-- 在您的租使用者中建立 [新的使用者](https://docs.microsoft.com/partner-center/create-user-accounts-and-set-permissions#add-a-new-user) -您可以在自己的租使用者中建立新的使用者，並與 PDM 共用這些詳細資料，讓他們可以在您的帳戶中使用與其他推薦使用者類似的參考來進行流覽和操作。
+- 在您的租使用者中建立 [新的使用者](./create-user-accounts-and-set-permissions.md#add-a-new-user) -您可以在自己的租使用者中建立新的使用者，並與 PDM 共用這些詳細資料，讓他們可以在您的帳戶中使用與其他推薦使用者類似的參考來進行流覽和操作。
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>協助您在合作夥伴中心中建立及管理交易的資源
 
@@ -236,15 +236,15 @@ PSC 的商機識別碼與 PC 中的交易識別碼相同。 當您開啟任何�
 
 |**進行此動作**   |**請閱讀本文**   |
 |-----------------------|:-----------------------|
-|瞭解共同銷售商機頁面中的索引標籤和導覽|[導覽共同銷售區段](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#navigating-the-co-sell-section)|
-|從 D&B 清單中選取客戶組織 |[選取您的客戶](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#select-your-customer)|
-|修改 [交易詳細資料] 區段中的欄位|[交易詳細資料](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#deal-details)|
-|將您的公司員工新增至交易小組|[新增您的員工](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#add-your-employees)|
-|回應共同銷售交易|[管理共同銷售交易](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities#responding-to-a-co-sell-opportunity)
-|註冊您在合作夥伴中心中贏得的交易 |[註冊新交易](https://docs.microsoft.com/partner-center/register-deals)
-|取得參考見解，並瞭解您的參考如何進行 |[推薦深入解析](https://docs.microsoft.com/partner-center/referral-insights)
-|建立和管理商務設定檔|[管理商務設定檔](https://docs.microsoft.com/partner-center/create-a-marketing-profile)
-|管理商務設定檔的潛在客戶 |[管理潛在客戶](https://docs.microsoft.com/partner-center/manage-leads)|
+|瞭解共同銷售商機頁面中的索引標籤和導覽|[導覽共同銷售區段](./manage-co-sell-opportunities.md#navigating-the-co-sell-section)|
+|從 D&B 清單中選取客戶組織 |[選取您的客戶](./manage-co-sell-opportunities.md#select-your-customer)|
+|修改 [交易詳細資料] 區段中的欄位|[交易詳細資料](./manage-co-sell-opportunities.md#deal-details)|
+|將小組成員新增至交易小組|[新增您的員工](./manage-co-sell-opportunities.md#add-team-members)|
+|回應共同銷售交易|[管理共同銷售交易](./manage-co-sell-opportunities.md#responding-to-a-co-sell-opportunity)
+|註冊您在合作夥伴中心中贏得的交易 |[註冊新交易](./register-deals.md)
+|取得參考見解，並瞭解您的參考如何進行 |[推薦深入解析](./referral-insights.md)
+|建立和管理商務設定檔|[管理商務設定檔](./create-a-marketing-profile.md)
+|管理商務設定檔的潛在客戶 |[管理潛在客戶](./manage-leads.md)|
 
 ## <a name="additional-resources"></a>其他資源
 
