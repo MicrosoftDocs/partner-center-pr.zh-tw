@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 073bef80fe1335ac45ba7ed6a70236a7ce82eecd
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220216"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000022"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>使用合作夥伴中心或合作夥伴中心 API 的合作夥伴的合作夥伴安全性需求
 
@@ -54,9 +54,9 @@ ms.locfileid: "88220216"
 
 若要符合合作夥伴的安全性需求，您必須針對合作夥伴租用戶中的每位使用者帳戶強制執行多重要素驗證。 您可以使用下列其中一種方法執行這個動作：
 
-- 實作 [Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)。
+- 實作 [Azure AD 安全性預設值](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)。
 
-- 為每個使用者帳戶購買 Azure Active Directory Premium。 如需詳細資訊，請參閱[規劃雲端式 Azure Multi-Factor Authentication 部署](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-getstarted)。
+- 為每個使用者帳戶購買 Azure Active Directory Premium。 如需詳細資訊，請參閱[規劃雲端式 Azure Multi-Factor Authentication 部署](/azure/active-directory/authentication/howto-mfa-getstarted)。
 
 - 使用協力廠商解決方案，對合作夥伴租用戶中的每個使用者帳戶強制執行多重要素驗證。 若要確保解決方案會提供預期的解決方案，請參閱[如何強制執行安全性需求](#how-the-requirements-will-be-enforced)。
 
@@ -75,18 +75,18 @@ ms.locfileid: "88220216"
 
 - 使用安全性預設值時，將會一次啟用所有原則。
 
-- 使用[條件式存取](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作夥伴將[無法使用安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)。
+- 使用[條件式存取](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作夥伴將[無法使用安全性預設值](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)。
 
 - 目前我們不會對合作夥伴強制封鎖舊版驗證。 不過，由於與身分盜用相關的大部分事件都來自使用舊版驗證的登入嘗試，因此我們鼓勵合作夥伴捨棄這些較舊的通訊協定。
 
 - Azure AD Connect 同步帳戶已從安全性預設值中排除。
 
-- 如需詳細資訊，請閱讀[針對貴組織啟用 Multi-Factor Authentication](https://docs.microsoft.com/azure/active-directory/authentication/concept-mfa-get-started) 和 [Azure Active Directory 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)。
+- 如需詳細資訊，請閱讀[針對貴組織啟用 Multi-Factor Authentication](/azure/active-directory/authentication/concept-mfa-get-started) 和 [Azure Active Directory 安全性預設值](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)。
 
 > [!NOTE]
 > Azure AD 安全性預設值是從簡化的基準保護原則演化而來的。 如果您已啟用基準保護原則，則強烈建議您啟用安全性預設值。
 
-若要從基準原則轉換成安全性預設值，請閱讀[何謂安全性預設值？](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)。
+若要從基準原則轉換成安全性預設值，請閱讀[何謂安全性預設值？](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)。
 
 ### <a name="consideration"></a>考量
 
@@ -96,17 +96,17 @@ ms.locfileid: "88220216"
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>您是否具有不支援使用新式驗證的應用程式或裝置？
 
-強制執行多重要素驗證的舊版驗證時，將會封鎖使用 IMAP、POP3、SMTP 等通訊協定，因為它們不支援多重要素驗證。 若要解決此限制，稱為[應用程式密碼](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)的功能可用來確保應用程式或裝置仍會進行驗證。 您應該複查[這裡](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)所記載、使用應用程式密碼的考量事項，以判斷是否可以在您的環境中使用它們。
+強制執行多重要素驗證的舊版驗證時，將會封鎖使用 IMAP、POP3、SMTP 等通訊協定，因為它們不支援多重要素驗證。 若要解決此限制，稱為[應用程式密碼](/azure/active-directory/authentication/howto-mfa-mfasettings#app-passwords)的功能可用來確保應用程式或裝置仍會進行驗證。 您應該複查[這裡](/azure/active-directory/authentication/howto-mfa-mfasettings#considerations-about-app-passwords)所記載、使用應用程式密碼的考量事項，以判斷是否可以在您的環境中使用它們。
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>您是否有使用者使用與合作夥伴租用戶使用者相關聯的授權所提供的 Office 365？
 
-在實作任何解決方案之前，建議您先判斷合作夥伴租用戶中的使用者所使用的 Microsoft Office 版本為何。 在採取任何動作之前，先複查[規劃 Office 365 部署的多重要素驗證](https://docs.microsoft.com/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)。 您的使用者可能會遇到 Outlook 之類應用程式的連線問題。 強制執行多重要素驗證之前，請務必確定正在使用 Outlook 2013 SP1 或更新版本，且您的組織已啟用新式驗證。 如需詳細資訊，請參閱[在 Exchange Online 中啟用新式驗證](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
+在實作任何解決方案之前，建議您先判斷合作夥伴租用戶中的使用者所使用的 Microsoft Office 版本為何。 在採取任何動作之前，先複查[規劃 Office 365 部署的多重要素驗證](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)。 您的使用者可能會遇到 Outlook 之類應用程式的連線問題。 強制執行多重要素驗證之前，請務必確定正在使用 Outlook 2013 SP1 或更新版本，且您的組織已啟用新式驗證。 如需詳細資訊，請參閱[在 Exchange Online 中啟用新式驗證](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
 
-若要為執行 Windows 且已安裝 Microsoft Office 2013 的任何裝置啟用新式驗證，您將需要建立兩個登錄機碼。 請參閱[為 Windows 裝置上的 Office 2013 啟用新式驗證](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication)。
+若要為執行 Windows 且已安裝 Microsoft Office 2013 的任何裝置啟用新式驗證，您將需要建立兩個登錄機碼。 請參閱[為 Windows 裝置上的 Office 2013 啟用新式驗證](/office365/admin/security-and-compliance/enable-modern-authentication)。
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>是否有原則防止任何使用者在工作時使用其行動裝置？
 
-請務必找出會防止員工在工作時使用行動裝置的任何公司原則，因為該原則會影響您所實作的多重要素驗證解決方案。 部分解決方案，例如透過 [Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)所實作的解決方案，只會允許使用驗證器應用程式進行驗證。 如果您的組織有防止使用行動裝置的原則，則應該考量下列其中一個選項：
+請務必找出會防止員工在工作時使用行動裝置的任何公司原則，因為該原則會影響您所實作的多重要素驗證解決方案。 部分解決方案，例如透過 [Azure AD 安全性預設值](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)所實作的解決方案，只會允許使用驗證器應用程式進行驗證。 如果您的組織有防止使用行動裝置的原則，則應該考量下列其中一個選項：
 
 - 部署可在安全系統上執行的以時間為基礎的一次性基礎密碼 (TOTP) 應用程式
 
@@ -124,11 +124,11 @@ ms.locfileid: "88220216"
 
 - 使用 Az、AzureRM、Azure AD、MS Online 等模組的 PowerShell 指令碼
 
-以上清單並不完整。 因此，在利用使用者認證來進行驗證的環境中，請務必執行任何應用程式或服務的完整評估。 若要與多重要素驗證的需求抗衡，您應該盡可能在[安全應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model)中實作指導方針。
+以上清單並不完整。 因此，在利用使用者認證來進行驗證的環境中，請務必執行任何應用程式或服務的完整評估。 若要與多重要素驗證的需求抗衡，您應該盡可能在[安全應用程式模型架構](/partner-center/develop/enable-secure-app-model)中實作指導方針。
 
 ## <a name="accessing-your-environment"></a>存取您的環境
 
-若要進一步了解未經過多重要素驗證查問而進行驗證的內容或對象，建議您檢閱登入活動。 您可以透過 Azure Active Directory Premium 來運用登入報告。 如需詳細資訊，請參閱 Azure Active Directory 入口網站中的[登入活動報告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)。 如果您沒有 Azure Active Directory Premium，或是想要透過 PowerShell 取得 Azure Active Directory Premium 的方法，則必須從[合作夥伴中心 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 模組中，運用 [PartnerUserSignActivity](https://docs.microsoft.com/powershell/module/partnercenter/get-partnerusersigninactivity) Cmdlet。
+若要進一步了解未經過多重要素驗證查問而進行驗證的內容或對象，建議您檢閱登入活動。 您可以透過 Azure Active Directory Premium 來運用登入報告。 如需詳細資訊，請參閱 Azure Active Directory 入口網站中的[登入活動報告](/azure/active-directory/reports-monitoring/concept-sign-ins)。 如果您沒有 Azure Active Directory Premium，或是想要透過 PowerShell 取得 Azure Active Directory Premium 的方法，則必須從[合作夥伴中心 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 模組中，運用 [PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) Cmdlet。
 
 ## <a name="how-the-requirements-will-be-enforced"></a>強制執行需求的方法
 
@@ -138,7 +138,7 @@ ms.locfileid: "88220216"
 
 如果您是使用 Azure Multi-Factor Authentication 或 Azure AD 安全性預設值，則不需要採取任何其他動作。
 
-使用協力廠商的多重要素驗證解決方案時，可能不會發出 MFA 宣告。 如果遺漏此宣告，則 Azure Active Directory 將無法判斷驗證要求是否經過多重要素驗證的查問。 如需如何驗證解決方案發出預期宣告的詳細資訊，請閱讀[測試合作夥伴安全性需求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)。 
+使用協力廠商的多重要素驗證解決方案時，可能不會發出 MFA 宣告。 如果遺漏此宣告，則 Azure Active Directory 將無法判斷驗證要求是否經過多重要素驗證的查問。 如需如何驗證解決方案發出預期宣告的詳細資訊，請閱讀[測試合作夥伴安全性需求](/powershell/partnercenter/test-partner-security-requirements)。 
 
 > [!IMPORTANT]
 > 如果協力廠商解決方案未發出預期的宣告，則您必須與開發解決方案的廠商合作，以判斷應該採取哪些動作。
@@ -150,4 +150,4 @@ ms.locfileid: "88220216"
 - [合作夥伴中心安全性指導群組社群](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance)：合作夥伴中心安全性指導群組社群是線上社群，您可以在其中瞭解近期活動，並詢問您可能會遇到的任何問題。
 - [合作夥伴中心 .NET 範例](https://github.com/microsoft/partner-center-dotnet-samples)：此 GitHub 存放庫包含使用 .NET 開發的範例，將示範如何實作安全應用程式模型架構。
 - [合作夥伴中心 Java 範例](https://github.com/microsoft/partner-center-java-samples)：此 GitHub 存放庫包含使用 Java 開發的範例，將示範如何實作安全應用程式模型架構。
-- [合作夥伴中心 PowerShell - Multi-Factor Authentication](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth)：此多重要素驗證文章提供如何使用 PowerShell 來實作安全應用程式模型架構的詳細資料。
+- [合作夥伴中心 PowerShell - Multi-Factor Authentication](/powershell/partnercenter/multi-factor-auth)：此多重要素驗證文章提供如何使用 PowerShell 來實作安全應用程式模型架構的詳細資料。

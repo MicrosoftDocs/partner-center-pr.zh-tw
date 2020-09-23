@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07a7d04ca92bb7c40559b127707b09e82f2e4ff
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 8425461747c2cf4978d13ee3c2961ac426231bd5
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86435267"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000442"
 ---
 <!--
 FWLink1: https://go.microsoft.com/fwlink/?linkid=838397: Top of page
@@ -142,11 +142,12 @@ Microsoft 透過行銷、銷售和服務，每年吸引數百萬客戶。 大部
 
 ## <a name="improve-the-visibility-of-your-profile"></a>改善設定檔的可見性 
 
-- **[快速回應要求](responding-to-referrals.md)** 。 當您收到客戶推薦時，更快回應可能會導致未來客戶搜尋網頁上更好的結果。
+- **[快速回應要求](manage-leads.md)** 。 當您收到客戶推薦時，更快回應可能會導致未來客戶搜尋網頁上更好的結果。
+
 - **選擇您的標籤**。  最好有少數幾個標籤最能代表貴公司的優惠、解決方案、價值主張，以及您可以持續地證明成功的獨特立足點。  這在未來的搜尋結果會得到回報。
 - 透過 Microsoft 獲得**專長認證標籤**，以展示您對我們產品的熟練程度。
 - 從賞識您工作的客戶**獲得背書標籤**。
 
 ## <a name="next-steps"></a>接下來的步驟
 
-[回應推薦](responding-to-referrals.md)
+[回應推薦](manage-leads.md)

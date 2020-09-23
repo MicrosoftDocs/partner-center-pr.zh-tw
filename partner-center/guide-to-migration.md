@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26de95f4cafb75535280cab56ac1e21071ffef5a
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114897"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000562"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>從 PMC 移轉至合作夥伴中心的指南
 
@@ -108,6 +108,6 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 - [建立公司的商務設定檔](create-a-marketing-profile.md)
 
-- [透過推薦與客戶保持聯繫](responding-to-referrals.md)
+- [透過推薦與客戶保持聯繫](manage-leads.md)
 
 - [將多家公司從 PMC 移轉至合作夥伴中心的指南](move-multiple-companies.md)

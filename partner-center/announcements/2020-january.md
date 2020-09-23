@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 0ed5d5a0037d9fe11e77c56eca784e9aad93c5a4
-ms.sourcegitcommit: 78ab5bd30601d8c1b40ff8ec95abe9cc1e5ed411
+ms.openlocfilehash: 1b53b675b97a98b8a154998abf0d98d686844281
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88220220"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999582"
 ---
 # <a name="january-2020-announcements"></a>2020 年 1 月公告
 
@@ -97,8 +97,8 @@ d2e1a29f-e6b7-424b-82a4-191b58678da1 (GCC High)
 ### <a name="additional-resources"></a>其他資源
 
 - [Microsoft 365 政府版產品頁面](https://www.microsoft.com/microsoft-365/government/)
-- [Docs 上 GCC-High 中的 Teams 頁面](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
-- [在 Microsoft Teams 中設定會議室](https://docs.microsoft.com/microsoftteams/room-systems/)
+- [Docs 上 GCC-High 中的 Teams 頁面](/MicrosoftTeams/plan-for-government-gcc-high)
+- [在 Microsoft Teams 中設定會議室](/microsoftteams/room-systems/)
 
 ### <a name="next-steps"></a>接下來的步驟
 
@@ -377,8 +377,8 @@ Microsoft 將會在 2020 年 2 月 1 日變更某些產品系列和供應項目�
 
 - [Dynamics 365 首頁](https://dynamics.microsoft.com/)
 - [混合實境應用程式指南首頁](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Biz Apps Fraud 首頁](https://docs.microsoft.com/dynamics365/fraud-protection/overview)
-- [Power Platform 產品首頁](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
+- [Biz Apps Fraud 首頁](/dynamics365/fraud-protection/overview)
+- [Power Platform 產品首頁](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
 - [FY20 PowerApps 與 Flow 授權更新](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
 - [Microsoft Dynamics 365 授權](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 

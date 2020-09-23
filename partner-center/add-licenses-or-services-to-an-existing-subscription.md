@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89b4a1d552067f7bda553bc96e19a89bdc9f23cd
-ms.sourcegitcommit: e243bc0ef337f5d92c5b208ce6bb9dc5f179b185
+ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "87468777"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999672"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>將授權或更多服務新增至客戶的訂閱
 
@@ -31,7 +31,7 @@ ms.locfileid: "87468777"
 - 銷售代理人
 - 技術服務代理人
 
-如果您的客戶需要的授權數比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您或許可透過升級訂閱來達成。 如需詳細資訊，請參閱[切換為不同的 Microsoft 365 Apps 商務版方案](https://go.microsoft.com/fwlink/p/?LinkId=723577)。
+如果您的客戶需要的授權數比目前訂閱所提供的還要多，或是需要具備其他服務的不同版本，您或許可透過升級訂閱來達成。 如需詳細資訊，請參閱[切換為不同的 Microsoft 365 Apps 商務版方案](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)。
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP 計畫中支援的升級 <a id="upgradesubscription"></a>
 
@@ -70,11 +70,12 @@ ms.locfileid: "87468777"
 
 3. 選取新的訂閱詳情，然後選擇 \[送出\]。
 
-4. 針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 針對此情況，合作夥伴中心將會提供受影響的帳戶和服務清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](https://go.microsoft.com/fwlink/p/?LinkId=723576)。
+4. 針對某些服務，可能需要執行額外步驟才能移轉部分使用者帳戶。 針對此情況，合作夥伴中心將會提供受影響的帳戶和服務清單。 如需協助，請參閱知識庫文章：[在 Office 365 中切換方案時的重新指派授權問題](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)。
+
 
 ## <a name="next-steps"></a>接下來的步驟
 
-- [切換至不同的 Microsoft 365 商務版方案](https://go.microsoft.com/fwlink/p/?LinkId=723577)
+- [切換至不同的 Microsoft 365 商務版方案](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 - [要求委派的系統管理員權限](request-a-relationship-with-a-customer.md)
 

@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12b5b94194c6ca65b31af08dbf0dafef5c6ef21c
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220386"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999982"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>準備從 Partner Membership Center (PMC) 移至合作夥伴中心
 
@@ -36,7 +36,7 @@ Azure 工作帳戶是您公司在 Azure 公用雲端的專用且隔離的虛擬�
 
 您的公司帳戶會裝載 Azure AD 使用者及其相關資訊 (電子郵件、密碼、設定檔資料、權限等等)。 公司帳戶也包含群組、應用程式，以及其他有關公司與其安全性的資訊。 
 
-您的公司電子郵件是 Azure Active Directory 租用戶的一部分。 若要在合作夥伴中心擁有帳戶，您必須要有 AAD 租用戶。 如需 Azure Active Directory 的詳細資訊，請參閱[在 Azure AD 中建立目錄](https://docs.microsoft.com/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
+您的公司電子郵件是 Azure Active Directory 租用戶的一部分。 若要在合作夥伴中心擁有帳戶，您必須要有 AAD 租用戶。 如需 Azure Active Directory 的詳細資訊，請參閱[在 Azure AD 中建立目錄](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)。
 
 在合作夥伴中心，您將使用您的公司電子郵件登入帳戶，而不是使用個人電子郵件。
 
@@ -49,7 +49,7 @@ Azure 工作帳戶是您公司在 Azure 公用雲端的專用且隔離的虛擬�
 
 ### <a name="if-you-dont-want-to-use-your-existing-office-365-azure-ad-tenant-for-partner-center-you-can-create-a-new-tenant-prior-to-migrating-from-pmc"></a>如果您不想將現有的 Office 365 Azure AD 租用戶用於合作夥伴中心，您可以在從 PMC 移轉之前，先建立新的租用戶。
 
-您不想使用現有的 Azure AD 租用戶來設定合作夥伴中心帳戶，可能有許多原因。 開始移轉至合作夥伴中心之前，請先移至 [Azure 入口網站](https://ms.portal.azure.com/#home)建立新的 Azure AD 租用戶。 請依照[在 Azure Active Directory 中建立新的租用戶](https://docs.microsoft.com/azure/active-directory/develop/quickstart-create-new-tenant)中的指引操作。 使用新的 AAD 租用戶來設定您的合作夥伴中心帳戶。 您必須是全域管理員，才能建立租用戶。 
+您不想使用現有的 Azure AD 租用戶來設定合作夥伴中心帳戶，可能有許多原因。 開始移轉至合作夥伴中心之前，請先移至 [Azure 入口網站](https://ms.portal.azure.com/#home)建立新的 Azure AD 租用戶。 請依照[在 Azure Active Directory 中建立新的租用戶](/azure/active-directory/develop/quickstart-create-new-tenant)中的指引操作。 使用新的 AAD 租用戶來設定您的合作夥伴中心帳戶。 您必須是全域管理員，才能建立租用戶。 
 
 ### <a name="user-roles-including-guest-user-roles-in-partner-center"></a>合作夥伴中心的使用者角色 (包括來賓使用者角色)
 
@@ -132,7 +132,7 @@ Microsoft 會自動移轉目前的專長認證、權益、位置資訊、獎勵�
 
 ### <a name="will-partner-of-record-associations-move-to-partner-center"></a>記錄可查夥伴關聯是否會移至合作夥伴中心？
 
-是，記錄可查夥伴不會變更。 請深入了解[將您的合作夥伴識別碼連結至客戶](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)。
+是，記錄可查夥伴不會變更。 請深入了解[將您的合作夥伴識別碼連結至客戶](/azure/billing/billing-partner-admin-link-started)。
 
 ### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>移至合作夥伴中心是否會影響到獎勵？
 
@@ -164,6 +164,6 @@ Microsoft 會自動移轉目前的專長認證、權益、位置資訊、獎勵�
 
 如果您因為參與 Web Direct 計畫而收到錯誤訊息，您應執行下列動作：
 
-1. 登入 portal.Azure.com，並建立新的 Azure AD 租用戶。 如需詳細資訊，請參閱[建立新的 Azure AD 租用戶](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)。
+1. 登入 portal.Azure.com，並建立新的 Azure AD 租用戶。 如需詳細資訊，請參閱[建立新的 Azure AD 租用戶](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)。
 
 2. 建立新的 Azure AD 租用戶之後，請使用此租用戶從 Partner Membership Center 移轉至合作夥伴中心，或註冊為合作夥伴中心的全新客戶。

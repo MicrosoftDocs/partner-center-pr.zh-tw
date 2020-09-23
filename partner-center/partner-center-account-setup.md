@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 88af3967c8ab1d3eaccb4ea48551725c4f8b65e9
-ms.sourcegitcommit: e9790112451244bc8ee8026efc793b5d87439277
+ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "88215578"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999262"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>管理您的合作夥伴中心帳戶 - 公司設定檔、銀行資訊、角色、權限等等
 
@@ -97,7 +97,7 @@ ms.locfileid: "88215578"
 
 若要了解如何在特定合作夥伴中心計畫中註冊，請參閱下列部分清單：
 
-- [商業市集計畫](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [商業市集計畫](/azure/marketplace/partner-center-portal/create-account)
 - [MPN 計畫](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
 - [雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
 - [Office 市集](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)

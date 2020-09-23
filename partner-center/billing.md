@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 0198da249d158603d848e8652eb14444cac7f4a5
-ms.sourcegitcommit: eef446698ed4e21afee7fe091fe9c2664767755c
+ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89274997"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000152"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概觀：合作夥伴中心的主要計費和稅務文章
 
@@ -43,4 +43,4 @@ ms.locfileid: "89274997"
 | [未付款、詐騙或濫用](non-payment-fraud-misuse.md) | 如何在合作夥伴中心內管理客戶未付款、詐騙或濫用的情形。 |
 | [針對服務中斷要求 SLA 信用額度](request-credit.md) | 當服務中斷時，如何為您的客戶向 Microsoft 要求 SLA 信用額度。 |
 
-如果您要尋找合作夥伴中心 API 的計費資訊和資源，請參閱[開發人員計費文件](https://docs.microsoft.com/partner-center/develop/manage-billing)。
+如果您要尋找合作夥伴中心 API 的計費資訊和資源，請參閱[開發人員計費文件](/partner-center/develop/manage-billing)。

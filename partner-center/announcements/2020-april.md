@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 6ccdba6004e1449b0cf83e65c71714f33e9dadfb
-ms.sourcegitcommit: c71df4cc61dfd0d6ef4a93f9c92fb822201c7773
+ms.openlocfilehash: 886c655b26bf4be65b2c9ad42e3ee2ac78f0d067
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "87433897"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999632"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -283,7 +283,7 @@ Azure 資訊安全標準目前沒有任何變更。 Azure 資訊安全中心標�
 ### <a name="additional-resources"></a>其他資源
 
 - 如需詳細資訊，請瀏覽 [Microsoft Defender 進階威脅防護](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp)頁面。
-- 如需有關 Azure 資訊安全中心的詳細資訊，請參閱 [Azure 資訊安全中心文件](https://docs.microsoft.com/azure/security-center/)。
+- 如需有關 Azure 資訊安全中心的詳細資訊，請參閱 [Azure 資訊安全中心文件](/azure/security-center/)。
 
 ### <a name="questions"></a>有任何問題嗎？
 
@@ -761,7 +761,7 @@ _________________
 ### <a name="actions-for-indirect-providers"></a>間接提供者需執行的動作
 1. 通知組織中的主要利害關係人檢閱 Microsoft 合作夥伴合約。
 2. 使用全域系統管理員認證，在[合作夥伴中心的雲端解決方案提供者 [概觀] 頁面](https://partner.microsoft.com/pcv/dashboard/overview)上接受 Microsoft 合作夥伴合約。
-3. 使用 [API 來驗證間接轉銷商的簽署狀態](https://docs.microsoft.com/partner-center/develop/verify-indirect-reseller-mpa-status)。
+3. 使用 [API 來驗證間接轉銷商的簽署狀態](/partner-center/develop/verify-indirect-reseller-mpa-status)。
 4. 協助間接轉銷商在下方完成其動作。
 
 如需詳細資訊和資源，請參閱[這裡](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)的 [CSP 資源庫] 頁面。

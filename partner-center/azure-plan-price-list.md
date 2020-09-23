@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980f6429d146757edbab4c97cebfd3616cb48760
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527554"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000322"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>適用於 Azure 的 CSP 中新商務體驗的價目表
 
@@ -104,7 +104,7 @@ Azure 方案的價目表可以合作夥伴中心的從[定價與供應項目頁�
 
 ## <a name="pricing-api-for-azure-plan"></a>Azure 方案的定價 API
 
-您可以使用[定價 API](https://docs.microsoft.com/partner/develop/pricing)，透過程式設計來擷取 Azure 方案的取用和保留定價。 您也可以擷取外幣匯率。
+您可以使用[定價 API](/partner/develop/pricing)，透過程式設計來擷取 Azure 方案的取用和保留定價。 您也可以擷取外幣匯率。
 
 定價 API 所在的端點與其他合作夥伴中心的 API 不同。 定價資訊包含 Azure 方案資源的計量定價 (以美元為單位) 以及適用於 Azure 方案訂用帳戶的保留定價。
 
@@ -113,4 +113,4 @@ Azure 方案的價目表可以合作夥伴中心的從[定價與供應項目頁�
 >[!NOTE]
 > 定價 API 是用於 Azure 方案定價的專屬 API。 針對 Azure 資源或部署至非 Azure 方案訂用帳戶的保留，則仍請使用合作夥伴中心 [定價與供應項目] 頁面中所公佈的現有 RateCard API 和價目表。 Azure 方案定價 API 不支援軟體、市集或授權型定價，例如 Microsoft 365 或 Dynamics 365。
 
-如需 Azure 方案定價和外幣匯率 API 的詳細資訊，請參閱完整的[定價 API 文件](https://docs.microsoft.com/partner/develop/pricing)。
+如需 Azure 方案定價和外幣匯率 API 的詳細資訊，請參閱完整的[定價 API 文件](/partner/develop/pricing)。

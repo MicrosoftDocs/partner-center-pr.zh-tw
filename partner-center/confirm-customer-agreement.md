@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: c599358b2cfe5603a09fb37e48e897a2f92111bc
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 7d25625eebaf863ed819112439bbf2d6e0f505e1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367282"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000542"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>確認客戶接受 CSP 合作夥伴方案中的 Microsoft 客戶合約
 
@@ -96,13 +96,13 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 您可以使用合作夥伴中心 API/SDK 來確認客戶接受 Microsoft 客戶合約。 如需 API/SDK 的詳細資訊，請參閱：
 
-- [取得 Microsoft 客戶合約的合約中繼資料](https://docs.microsoft.com/partner-center/develop/get-customer-agreement-metadata)
+- [取得 Microsoft 客戶合約的合約中繼資料](/partner-center/develop/get-customer-agreement-metadata)
 
-- [確認客戶接受 Microsoft 客戶合約](https://docs.microsoft.com/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [確認客戶接受 Microsoft 客戶合約](/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [取得客戶接受 Microsoft 客戶合約的確認](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)
+- [取得客戶接受 Microsoft 客戶合約的確認](/partner-center/develop/get-confirmation-of-customer-agreement)
 
-- [取得 Microsoft 客戶合約範本的下載連結](https://docs.microsoft.com/partner-center/develop/download-customer-agreement-template)
+- [取得 Microsoft 客戶合約範本的下載連結](/partner-center/develop/download-customer-agreement-template)
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>選項 2：Microsoft 365 系統管理中心的客戶接受
 
@@ -115,7 +115,7 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 - 邀請現有的客戶檢閱及接受合約。
 
 >[!NOTE]
-> 您可以使用[合作夥伴中心 API/SDK](https://docs.microsoft.com/partner-center/develop/get-direct-sign-status-of-customer-agreement)，取得客戶直接接受 Microsoft 客戶合約的狀態。  
+> 您可以使用[合作夥伴中心 API/SDK](/partner-center/develop/get-direct-sign-status-of-customer-agreement)，取得客戶直接接受 Microsoft 客戶合約的狀態。  
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>建立全新的客戶，並邀請客戶檢閱及接受合約
 

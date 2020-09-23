@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d89c74ac9adb689e1b349a38de7ac49eb6c8076
-ms.sourcegitcommit: cba3c73520b8f72d0ba9ca3725f355cab79342c1
+ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "86175951"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000602"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 方案下的訂用帳戶和資源
 
@@ -27,11 +27,11 @@ ms.locfileid: "86175951"
 
 - **系統管理員代表 (AOBO)** - 使用 [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) 時，在合作夥伴租用戶中具有系統管理代理人角色的任何使用者，都將擁有您透過 CSP 計畫所建立 Azure 訂用帳戶的 RBAC 擁有者存取權。
 
-- **Azure Lighthouse**：AOBO 不允許彈性建立與不同客戶一起使用的不同群組，或為群組或使用者啟用不同的角色。 使用 Azure Lighthouse，您可以將不同的群組指派給不同的客戶或角色。 因為使用者會透過 Azure 委派的資源管理來擁有適當的存取層級，所以您可以減少擁有系統管理代理人角色的使用者人數 (因而擁有完整的 AOBO 存取權)。 藉由限制對客戶資源的不必要存取來協助改善安全性。 它也可讓您更有彈性地大規模管理多個客戶。 如需詳細資訊，請參閱 [Azure Lighthouse 與雲端解決方案提供者計畫](https://docs.microsoft.com/azure/lighthouse/concepts/cloud-solution-provider)。
+- **Azure Lighthouse**：AOBO 不允許彈性建立與不同客戶一起使用的不同群組，或為群組或使用者啟用不同的角色。 使用 Azure Lighthouse，您可以將不同的群組指派給不同的客戶或角色。 因為使用者會透過 Azure 委派的資源管理來擁有適當的存取層級，所以您可以減少擁有系統管理代理人角色的使用者人數 (因而擁有完整的 AOBO 存取權)。 藉由限制對客戶資源的不必要存取來協助改善安全性。 它也可讓您更有彈性地大規模管理多個客戶。 如需詳細資訊，請參閱 [Azure Lighthouse 與雲端解決方案提供者計畫](/azure/lighthouse/concepts/cloud-solution-provider)。
 
--  **目錄或來賓使用者或[服務主體](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)** ：您可以藉由在客戶目錄中新增使用者，或新增來賓使用者並指派特定 RBAC 角色，委派對 CSP 訂用帳戶的細微存取權。
+-  **目錄或來賓使用者或[服務主體](/azure/active-directory/develop/app-objects-and-service-principals)** ：您可以藉由在客戶目錄中新增使用者，或新增來賓使用者並指派特定 RBAC 角色，委派對 CSP 訂用帳戶的細微存取權。
 
-Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安全性做法。 請參閱 [Azure Active Directory Privileged Identity Management 資源](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-configure)。
+Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安全性做法。 請參閱 [Azure Active Directory Privileged Identity Management 資源](/azure/active-directory/privileged-identity-management/pim-configure)。
 
 ## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>將您的合作夥伴識別碼 (MPN 識別碼) 連結至您的認證，以管理客戶的 Azure 資源
 
@@ -40,9 +40,9 @@ Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安�
 |**類別**   |**案例**   |**MPN 識別碼關聯**|
 |-----------------|:------------------------|:------------------|
 |AOBO   |CSP 直接合作夥伴或間接提供者會為客戶建立訂用帳戶，讓 CSP 直接合作夥伴或間接提供者成為使用 AOBO 作為訂用帳戶的預設擁有者；CSP 直接合作夥伴或間接提供者會使用 AOBO 為間接經銷商授與訂用帳戶的存取權。|自動 (不需要合作夥伴工作)|
-|Azure Lighthouse|合作夥伴會[在 Marketplace 中建立新的受控服務供應項目](https://docs.microsoft.com/azure/lighthouse/concepts/managed-services-offers)。 CSP 訂用帳戶已接受此供應項目，合作夥伴可以取得 CSP 訂用帳戶的存取權。|自動 (不需要合作夥伴工作)|
-|Azure Lighthouse|合作夥伴在 Azure 訂用帳戶中部署 [ARM 範本 ](https://docs.microsoft.com/azure/lighthouse/how-to/onboard-customer)|合作夥伴必須將 MPN 識別碼與合作夥伴租用戶中的使用者或服務主體產生關聯。 如需詳細資訊 - [連結合作夥伴識別碼](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)。|
-|目錄或來賓使用者|夥伴會在客戶目錄中建立新的使用者或服務主體，並為使用者提供 CSP 訂用帳戶的存取權。 合作夥伴會在客戶目錄中建立新的使用者或服務主體。 合作夥伴會將使用者新增至群組，並且為群組提供 CSP 訂用帳戶的存取權。|合作夥伴必須將 MPN 識別碼與客戶租用戶中的使用者或服務主體產生關聯。 如需詳細資訊 - [連結合作夥伴識別碼](https://docs.microsoft.com/azure/billing/billing-partner-admin-link-started)。|
+|Azure Lighthouse|合作夥伴會[在 Marketplace 中建立新的受控服務供應項目](/azure/lighthouse/concepts/managed-services-offers)。 CSP 訂用帳戶已接受此供應項目，合作夥伴可以取得 CSP 訂用帳戶的存取權。|自動 (不需要合作夥伴工作)|
+|Azure Lighthouse|合作夥伴在 Azure 訂用帳戶中部署 [ARM 範本 ](/azure/lighthouse/how-to/onboard-customer)|合作夥伴必須將 MPN 識別碼與合作夥伴租用戶中的使用者或服務主體產生關聯。 如需詳細資訊 - [連結合作夥伴識別碼](/azure/billing/billing-partner-admin-link-started)。|
+|目錄或來賓使用者|夥伴會在客戶目錄中建立新的使用者或服務主體，並為使用者提供 CSP 訂用帳戶的存取權。 合作夥伴會在客戶目錄中建立新的使用者或服務主體。 合作夥伴會將使用者新增至群組，並且為群組提供 CSP 訂用帳戶的存取權。|合作夥伴必須將 MPN 識別碼與客戶租用戶中的使用者或服務主體產生關聯。 如需詳細資訊 - [連結合作夥伴識別碼](/azure/billing/billing-partner-admin-link-started)。|
 
 ## <a name="confirm-that-you-have-admin-access"></a>確認您具有系統管理員存取權
 
@@ -50,7 +50,7 @@ Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安�
 
 - 檢閱每日使用量檔案 - 可以透過檢閱每日使用量檔案中的單價和有效單位價格來判斷，並確認是否已套用折扣。 如果您收到折扣，您是系統管理員。
 
-- 建立 Azure 監視器警示 - 您可以建立 Azure 監視器活動記錄[警示](https://docs.microsoft.com/azure/azure-monitor/platform/alerts-activity-log)，以便在您的 RBAC 存取權從 CSP 訂用帳戶中移除時收到通知。
+- 建立 Azure 監視器警示 - 您可以建立 Azure 監視器活動記錄[警示](/azure/azure-monitor/platform/alerts-activity-log)，以便在您的 RBAC 存取權從 CSP 訂用帳戶中移除時收到通知。
 
 ### <a name="create-an-azure-monitor-alert"></a>建立 Azure 監視器警示
 
@@ -68,7 +68,7 @@ Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安�
 
 - 與您的客戶交談，查看是否可以恢復系統管理員存取權。
 
-- 使用透過[角色型存取控制 (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview) 提供的存取權。
+- 使用透過[角色型存取控制 (RBAC)](/azure/role-based-access-control/overview) 提供的存取權。
 
 - 使用透過 [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) 提供的存取權。
 

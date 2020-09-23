@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 79fd61827f64a060da2b1ecd8f7eeceedb2fcdc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220196"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999832"
 ---
 # <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>合作夥伴安全性需求狀態 - 取得解答並查看目前狀態的報告
 
@@ -37,7 +37,7 @@ ms.locfileid: "89220196"
 我們想要確保每個使用者都有每個單一驗證的 MFA 挑戰。 您可以透過下列其中一種方式來完成這項經驗：
 
 - 實作 Azure AD Premium 以確保對每個使用者強制執行 MFA
-- 實作 [Azure AD 安全性預設值](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+- 實作 [Azure AD 安全性預設值](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
 - 實作第三方解決方案，以確保對每個使用者強制執行 MFA
 
 ## <a name="partner-security-requirements-status"></a>合作夥伴安全性需求狀態
@@ -53,10 +53,10 @@ ms.locfileid: "89220196"
 
 ### <a name="mfa-configuration-on-a-csp-tenant"></a>CSP 租用戶上的 MFA 設定
 
-此計量與 CSP 租用戶上的 MFA 設定有關，該計量每日擷取並提供報告。 其使用任何一個 [MFA 選項](https://aka.ms/partner-mfa-get-started)來測量強制執行 MFA 的已啟用使用者帳戶的百分比。 例如：
+此計量與 CSP 租用戶上的 MFA 設定有關，該計量每日擷取並提供報告。 其使用任何一個 [MFA 選項](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)來測量強制執行 MFA 的已啟用使用者帳戶的百分比。 例如：
 
 - Contoso 是租用戶中擁有 110 個使用者帳戶的 CSP 合作夥伴，其中 10 個使用者帳戶已停用。 
-- 在其餘 100 個使用者帳戶中，有 90 個帳戶使用提供的 [MFA 選項](https://aka.ms/partner-mfa-get-started)強制執行 MFA。 因此，計量會顯示 90%。 
+- 在其餘 100 個使用者帳戶中，有 90 個帳戶使用提供的 [MFA 選項](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)強制執行 MFA。 因此，計量會顯示 90%。 
 
 ### <a name="partner-center-activities-with-mfa"></a>使用 MFA 的合作夥伴中心活動
 
@@ -127,7 +127,7 @@ ms.locfileid: "89220196"
 
 ### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>識別哪些使用者已登入合作夥伴中心但未進行 MFA
 
-識別哪些使用者已登入合作夥伴中心但未進行 MFA 驗證，並根據您目前的 MFA 實作進行驗證，可能很有幫助。 您可以使用 [Azure AD 登入報告](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-sign-ins)知道使用者是否已完成 MFA 驗證。 Azure AD 登入報告目前僅適用於已訂閱 Azure AD Premium 的合作夥伴，或包含 Azure AD Premium (例如 EMS) 的任何 O365 SKU。
+識別哪些使用者已登入合作夥伴中心但未進行 MFA 驗證，並根據您目前的 MFA 實作進行驗證，可能很有幫助。 您可以使用 [Azure AD 登入報告](/azure/active-directory/reports-monitoring/concept-sign-ins)知道使用者是否已完成 MFA 驗證。 Azure AD 登入報告目前僅適用於已訂閱 Azure AD Premium 的合作夥伴，或包含 Azure AD Premium (例如 EMS) 的任何 O365 SKU。
 
 ## <a name="next-steps"></a>後續步驟
 

@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c841c54a115b846fe92d03ca66b530807508b9d
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "86390395"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999272"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure 雲端解決方案提供者 (CSP) 計畫中可用的 Azure 服務
 
@@ -42,9 +42,9 @@ ms.locfileid: "86390395"
 
 下列服務需要在 CSP 中進行特殊設定：
 
-- [StorSimple](https://docs.microsoft.com/azure/storsimple/storsimple-partner-csp-overview)
+- [StorSimple](/azure/storsimple/storsimple-partner-csp-overview)
 
-- [Azure Active Directory Domain Services](https://docs.microsoft.com/azure/active-directory-domain-services/active-directory-ds-csp)
+- [Azure Active Directory Domain Services](/azure/active-directory-domain-services/active-directory-ds-csp)
 
 - [Key Vault](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
@@ -60,7 +60,7 @@ ms.locfileid: "86390395"
 
 - [Xamarin University 訓練](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-為了協助您開始使用，我們在 CSP 中製作了一些關於[如何設定、購買和管理 Azure DevOps](https://docs.microsoft.com/vsts/billing/csp/set-up-csp-customer) 的影片和文件。
+為了協助您開始使用，我們在 CSP 中製作了一些關於[如何設定、購買和管理 Azure DevOps](/vsts/billing/csp/set-up-csp-customer) 的影片和文件。
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP 中的 Azure Marketplace 項目
 
@@ -70,7 +70,7 @@ ms.locfileid: "86390395"
 
 - 自備授權 (BYOL) 項目：這些項目都可供使用。 具有 BYOL 功能的 Azure Marketplace 項目完整清單可在 [Azure Marketplace BYOL 頁面](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)上取得。
 
-- 隨用隨付第三方 Azure Marketplace 項目：如果提供者已發佈至 CSP 管道，則這些項目可供使用。 如需詳細資訊，請參閱[銷售 Azure Marketplace 產品的訂閱](https://aka.ms/marketplaceincsp)。
+- 隨用隨付第三方 Azure Marketplace 項目：如果提供者已發佈至 CSP 管道，則這些項目可供使用。 如需詳細資訊，請參閱[銷售 Azure Marketplace 產品的訂閱](csp-commercial-marketplace-overview.md)。
 
 - Citrix XenApp Essentials：合作夥伴可以在 CSP 中為客戶購買 XenApp Essentials。 如需詳細資訊，請參閱下列 Citrix 部落格 - [現在可透過 Microsoft 雲端解決方案提供者管道散發 XenApp Essentials](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)。
 
@@ -189,6 +189,6 @@ ms.locfileid: "86390395"
 
 ## <a name="next-steps"></a>接下來的步驟
 
-- [了解](https://docs.microsoft.com/azure/cloud-solution-provider/overview/partner-center-overview)合作夥伴中心的 Azure 可用功能。
+- [了解](/azure/cloud-solution-provider/overview/partner-center-overview)合作夥伴中心的 Azure 可用功能。
 
-- 在 Azure CSP 中[建立](https://docs.microsoft.com/azure/cloud-solution-provider/customer-management/create-new-customer)您的第一個客戶，並部署 Azure 服務。
+- 在 Azure CSP 中[建立](/azure/cloud-solution-provider/customer-management/create-new-customer)您的第一個客戶，並部署 Azure 服務。

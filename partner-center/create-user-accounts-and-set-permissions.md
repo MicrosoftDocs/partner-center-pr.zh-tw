@@ -9,12 +9,12 @@ ms.author: parthp
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 02/26/2020
-ms.openlocfilehash: f71df7df213b2c6410fab37ce323825511a18b6d
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: 637e88205d9944f7220e227b5101220d94ed42db
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846928"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91000432"
 ---
 # <a name="create-user-accounts-and-assign-roles-and-permissions"></a>建立使用者帳戶以及指派角色和權限
 
@@ -24,7 +24,7 @@ ms.locfileid: "88846928"
 - 全域系統管理員
 - 使用者管理系統管理員
 
-為需要存取合作夥伴中心的員工建立使用者帳戶。 這些工作必須由使用者管理系統管理員、帳戶系統管理員或全域系統管理員來完成。執行這些工作的使用者也必須獲派 Azure Active Directory (AAD) 的「使用者管理員」或「全域管理員」角色。 如需 AAD 角色的詳細資訊，請參閱 [Azure Active Directory 中的管理員角色權限](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles)。
+為需要存取合作夥伴中心的員工建立使用者帳戶。 這些工作必須由使用者管理系統管理員、帳戶系統管理員或全域系統管理員來完成。執行這些工作的使用者也必須獲派 Azure Active Directory (AAD) 的「使用者管理員」或「全域管理員」角色。 如需 AAD 角色的詳細資訊，請參閱 [Azure Active Directory 中的管理員角色權限](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)。
 
 
 ## <a name="add-a-new-user"></a>新增使用者

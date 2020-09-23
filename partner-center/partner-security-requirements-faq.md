@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e11896b734eaa715eb061d5fff04af436f6d0448
-ms.sourcegitcommit: e06327ece344125fa579aae8da6042c2f32b4a8e
+ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89614155"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999802"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
 
@@ -73,19 +73,19 @@ Microsoft 合作夥伴合約會要求您對使用者帳戶強制執行多重要�
 
     - 間接提供者必須與間接轉銷商合作以上線至合作夥伴中心 (如果他們尚未這麼做)，並鼓勵其轉銷商符合需求。
     - 合作夥伴租用戶中的所有使用者可以透過 Azure AD 安全性預設值免費使用 Azure MFA，但必須搭配驗證器應用程式的唯一驗證方法，此方法支援時間型單次密碼 (TOTP)。
-    - 如果需要其他方法 (例如通話或文字簡訊)，[Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU 能提供額外的驗證方法。
+    - 如果需要其他方法 (例如通話或文字簡訊)，[Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) SKU 能提供額外的驗證方法。
     - 合作夥伴也可以在存取 Microsoft 商業雲端服務時，針對每個帳戶運用第三方 MFA 解決方案。
 
 2. **採用安全應用程式模型架構**
 
-    已使用任何 API (例如 Azure Resource Manager、Microsoft Graph、合作夥伴中心 API 等) 開發自訂整合，或是使用 PowerShell 等工具實作自訂自動化的所有合作夥伴，都必須採用[安全應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\) 來與 Microsoft 雲端服務整合。 如果未這麼做，則可能會因部署 MFA 而導致中斷。 下列資源能提供採用此模型之方法的相關概觀和指引。
+    已使用任何 API (例如 Azure Resource Manager、Microsoft Graph、合作夥伴中心 API 等) 開發自訂整合，或是使用 PowerShell 等工具實作自訂自動化的所有合作夥伴，都必須採用[安全應用程式模型架構](/partner-center/develop/enable-secure-app-model) \(英文\) 來與 Microsoft 雲端服務整合。 如果未這麼做，則可能會因部署 MFA 而導致中斷。 下列資源能提供採用此模型之方法的相關概觀和指引。
 
-    - [安全應用程式模型概觀](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\)
+    - [安全應用程式模型概觀](/partner-center/develop/enable-secure-app-model) \(英文\)
     - [合作夥伴中心：安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-    - [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 .NET 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/) \(英文\)
-    - [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 Java 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/) \(英文\)
-    - [合作夥伴中心驗證文件](https://docs.microsoft.com/partner-center/develop/partner-center-authentication) \(英文\)
-    - [合作夥伴中心 PowerShell Multi-Factor Authentication (MFA) 文件](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) \(英文\)
+    - [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 .NET 範例程式碼](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/) \(英文\)
+    - [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 Java 範例程式碼](/samples/microsoft/partner-center-java-samples/secure-app-model/) \(英文\)
+    - [合作夥伴中心驗證文件](/partner-center/develop/partner-center-authentication) \(英文\)
+    - [合作夥伴中心 PowerShell Multi-Factor Authentication (MFA) 文件](/powershell/partnercenter/multi-factor-auth) \(英文\)
 
     如果您使用的是控制台，則請向廠商洽詢有關採用安全應用程式模型架構的事宜。
 
@@ -103,14 +103,14 @@ MFA 是一種安全性機制，可以透過一個以上的必要安全性和驗�
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>啟用 MFA 的成本為何？
 
-Microsoft 透過實作 Azure AD 安全性預設值免費提供 MFA。 透過此 MFA 版本提供的唯一驗證選項是驗證器應用程式。 如果需要撥打電話或 SMS 訊息，便必須購買 [Azure Active Directory Premium](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-get-started-premium) 授權。 或者，您可以運用第三方解決方案來為合作夥伴租用戶中的每個使用者提供 MFA；在此情況下，您必須負責確保 MFA 解決方案已強制執行，且您已符合規範。
+Microsoft 透過實作 Azure AD 安全性預設值免費提供 MFA。 透過此 MFA 版本提供的唯一驗證選項是驗證器應用程式。 如果需要撥打電話或 SMS 訊息，便必須購買 [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) 授權。 或者，您可以運用第三方解決方案來為合作夥伴租用戶中的每個使用者提供 MFA；在此情況下，您必須負責確保 MFA 解決方案已強制執行，且您已符合規範。
 
 ### <a name="what-actions-do-i-need-to-take-if-i-already-have-an-mfa-solution"></a>如果我已經有 MFA 解決方案，需要採取哪些動作？
 
 透過這些安全性需求，合作夥伴租用戶中的使用者在存取 Microsoft 商業雲端服務時，必須使用 MFA 進行驗證。 您可以使用第三方解決方案來滿足這些需求。 Microsoft 已不再針對獨立身分識別提供者提供驗證測試，以確認與 Azure Active Directory 之間的相容性。 若要測試您產品的互通性，請參閱這些[指導方針](https://www.microsoft.com/download/details.aspx?id=56843)。
 
 > [!IMPORTANT]
-> 如果您使用第三方解決方案，請務必確認解決方案是否發出包含 MFA 值的驗證方法參考 (AMR) 宣告。 請參閱[測試合作夥伴安全性需求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)，以取得驗證第三方解決方案如何發出預期宣告的詳細資訊。
+> 如果您使用第三方解決方案，請務必確認解決方案是否發出包含 MFA 值的驗證方法參考 (AMR) 宣告。 請參閱[測試合作夥伴安全性需求](/powershell/partnercenter/test-partner-security-requirements)，以取得驗證第三方解決方案如何發出預期宣告的詳細資訊。
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>我使用多個合作夥伴租用戶來進行交易。 我是否需要對它們全部實作 MFA？
 
@@ -138,7 +138,7 @@ Microsoft 透過實作 Azure AD 安全性預設值免費提供 MFA。 透過此 
 
 Microsoft 已不再針對獨立身分識別提供者提供驗證測試，以確認與 Azure Active Directory 之間的相容性。 如果您想要測試您產品的互通性，請參閱這些[指導方針](https://www.microsoft.com/download/details.aspx?id=56843) \(英文\)。
 
-如需詳細資訊，請參閱 [Azure AD 同盟相容性清單](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-compatibility) \(部分機器翻譯\)。
+如需詳細資訊，請參閱 [Azure AD 同盟相容性清單](/azure/active-directory/hybrid/how-to-connect-fed-compatibility) \(部分機器翻譯\)。
 
 ### <a name="how-can-i-test-mfa-in-our-integration-sandbox"></a>我要如何在我們的整合沙箱中測試 MFA？
 
@@ -184,7 +184,7 @@ Microsoft 已不再針對獨立身分識別提供者提供驗證測試，以確�
 
 ### <a name="who-should-adopt-the-secure-application-model-to-meet-the-requirements"></a>誰應該採用安全應用程式模型來符合需求？
 
-Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可擴充架構，來驗證雲端解決方案提供者 (CSP) 合作夥伴和控制台廠商 (CPV)。 如需詳細資訊，請參閱[安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 已使用任何 API (例如 Azure Resource Manager、Microsoft Graph、合作夥伴中心 API 等) 開發自訂整合，或是使用 PowerShell 等工具實作自訂自動化的所有合作夥伴，都必須採用[安全應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\) 來與 Microsoft 雲端服務整合。
+Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可擴充架構，來驗證雲端解決方案提供者 (CSP) 合作夥伴和控制台廠商 (CPV)。 如需詳細資訊，請參閱[安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 已使用任何 API (例如 Azure Resource Manager、Microsoft Graph、合作夥伴中心 API 等) 開發自訂整合，或是使用 PowerShell 等工具實作自訂自動化的所有合作夥伴，都必須採用[安全應用程式模型架構](/partner-center/develop/enable-secure-app-model) \(英文\) 來與 Microsoft 雲端服務整合。
 
 ### <a name="what-is-the-secure-application-model"></a>什麼是安全應用程式模型？
 
@@ -192,14 +192,14 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 ### <a name="how-do-i-implement-the-secure-application-model"></a>我要如何實作安全應用程式模型？
 
-已使用任何 API (例如 Azure Resource Manager、Microsoft Graph、合作夥伴中心 API 等) 開發自訂整合，或是使用 PowerShell 等工具實作自訂自動化的所有合作夥伴，都必須採用[安全應用程式模型架構](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\) 來與 Microsoft 雲端服務整合。 如果未這麼做，則可能會因部署 MFA 而導致中斷。 下列資源能提供採用此模型之方法的相關概觀和指引。
+已使用任何 API (例如 Azure Resource Manager、Microsoft Graph、合作夥伴中心 API 等) 開發自訂整合，或是使用 PowerShell 等工具實作自訂自動化的所有合作夥伴，都必須採用[安全應用程式模型架構](/partner-center/develop/enable-secure-app-model) \(英文\) 來與 Microsoft 雲端服務整合。 如果未這麼做，則可能會因部署 MFA 而導致中斷。 下列資源能提供採用此模型之方法的相關概觀和指引。
 
-- [安全應用程式模型概觀](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\)
+- [安全應用程式模型概觀](/partner-center/develop/enable-secure-app-model) \(英文\)
 - [合作夥伴中心：安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 .NET 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/) \(英文\)
-- [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 Java 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/) \(英文\)
-- [合作夥伴中心驗證文件](https://docs.microsoft.com/partner-center/develop/partner-center-authentication) \(英文\)
-- [合作夥伴中心 PowerShell Multi-Factor Authentication (MFA) 文件](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) \(英文\)
+- [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 .NET 範例程式碼](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/) \(英文\)
+- [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 Java 範例程式碼](/samples/microsoft/partner-center-java-samples/secure-app-model/) \(英文\)
+- [合作夥伴中心驗證文件](/partner-center/develop/partner-center-authentication) \(英文\)
+- [合作夥伴中心 PowerShell Multi-Factor Authentication (MFA) 文件](/powershell/partnercenter/multi-factor-auth) \(英文\)
 
 如果您使用的是控制台，則必須洽詢廠商有關採用安全應用程式模型架構的事宜。
 
@@ -214,7 +214,7 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 ### <a name="i-am-using-automation-tools-such-as-powershell-how-do-i-implement-the-secure-application-model"></a>我正在使用 PowerShell 之類的自動化工具。 我要如何實作安全應用程式模型？
 
-如果您的自動化是要以非互動方式執行，且仰賴使用使用者認證進行驗證，則您必須實作安全應用程式模型。 請參閱[安全應用程式模型 | 合作夥伴中心 PowerShell](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) \(英文\) 以取得如何實作此架構的指引。  
+如果您的自動化是要以非互動方式執行，且仰賴使用使用者認證進行驗證，則您必須實作安全應用程式模型。 請參閱[安全應用程式模型 | 合作夥伴中心 PowerShell](/powershell/partnercenter/multi-factor-auth) \(英文\) 以取得如何實作此架構的指引。  
 
 >[!Note] 
 >並非所有自動化工具都會提供使用存取權杖進行驗證的能力。 如果您需要協助以了解應該進行哪些變更，請在[合作夥伴中心安全性指引](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) \(英文\) 群組上張貼訊息。 
@@ -292,7 +292,7 @@ CPV 必須在與其註冊為 CPV 時所關聯的租用戶中建立 Azure Active 
 
 為了驗證存取資源的帳戶是否受到多重要素驗證的挑戰，我們會檢查[驗證方法參考](https://tools.ietf.org/html/rfc8176)宣告，以查看是否已列出 MFA。 有些第三方解決方案不會發出此宣告，或不包含 MFA 值。 如果遺漏宣告，或未列出 MFA 值，則無法判斷驗證的帳戶是否已挑戰多重要素驗證。 您必須與第三方解決方案的廠商合作，以判斷需要採取哪些動作，解決方案才會發出驗證方法參考宣告。
 
-如果您不確定您的第三方解決方案是否發出預期宣告，請參閱[測試合作夥伴安全性需求](https://docs.microsoft.com/powershell/partnercenter/test-partner-security-requirements)。
+如果您不確定您的第三方解決方案是否發出預期宣告，請參閱[測試合作夥伴安全性需求](/powershell/partnercenter/test-partner-security-requirements)。
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA 阻止我使用 AOBO 來支援我的客戶，我該怎麼做？
 
@@ -302,7 +302,7 @@ CPV 必須在與其註冊為 CPV 時所關聯的租用戶中建立 Azure Active 
 
 ### <a name="how-can-i-transition-from-baseline-policies-to-security-defaults-or-other-mfa-solutions"></a>如何從基準原則轉換到安全性預設值或其他 MFA 解決方案？
 
-Azure Active Directory (Azure AD) [「基準」原則將會遭到移除，並取代](https://docs.microsoft.com/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)為「安全性預設值」，這是一組更完整的保護原則，適合您和您的客戶使用。 [安全性預設值](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)可協助您的組織防範身分識別竊取的相關安全性攻擊。
+Azure Active Directory (Azure AD) [「基準」原則將會遭到移除，並取代](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)為「安全性預設值」，這是一組更完整的保護原則，適合您和您的客戶使用。 [安全性預設值](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)可協助您的組織防範身分識別竊取的相關安全性攻擊。
 
 如果您尚未從基準原則轉換為安全性預設值原則或[其他 MFA 實作選項](partner-security-requirements.md#actions-that-you-need-to-take)，則因為基準原則將會淘汰，您的多重要素驗證 (MFA) 實作會遭到移除。 系統會要求合作夥伴租用戶中執行受 MFA 保護作業的使用者完成 MFA 驗證。 請於[這裡](partner-security-requirements-mandating-mfa.md)檢閱更詳細的指導方針。
 若要持續符合規範並將中斷的情況降至最低，請採取下列其中一個動作：
@@ -324,12 +324,12 @@ Azure Active Directory (Azure AD) [「基準」原則將會遭到移除，並取
 
 ### <a name="resources-for-adopting-secure-application-model"></a>採用安全應用程式模型的資源
 
-- [安全應用程式模型概觀](https://docs.microsoft.com/partner-center/develop/enable-secure-app-model) \(英文\)
+- [安全應用程式模型概觀](/partner-center/develop/enable-secure-app-model) \(英文\)
 - [合作夥伴中心：安全應用程式模型指南](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-- [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 .NET 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-dotnet-samples/secure-app-model/) \(英文\)
-- [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 Java 範例程式碼](https://docs.microsoft.com/samples/microsoft/partner-center-java-samples/secure-app-model/) \(英文\)
-- [合作夥伴中心驗證文件](https://docs.microsoft.com/partner-center/develop/partner-center-authentication) \(英文\)
-- [合作夥伴中心 PowerShell Multi-Factor Authentication (MFA) 文件](https://docs.microsoft.com/powershell/partnercenter/multi-factor-auth) \(英文\)
+- [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 .NET 範例程式碼](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/) \(英文\)
+- [雲端解決方案提供者計畫中的合作夥伴：用於啟用安全應用程式模型的 Java 範例程式碼](/samples/microsoft/partner-center-java-samples/secure-app-model/) \(英文\)
+- [合作夥伴中心驗證文件](/partner-center/develop/partner-center-authentication) \(英文\)
+- [合作夥伴中心 PowerShell Multi-Factor Authentication (MFA) 文件](/powershell/partnercenter/multi-factor-auth) \(英文\)
 
 ## <a name="support"></a>支援
 
