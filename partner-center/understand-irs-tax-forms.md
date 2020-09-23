@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 10/31/2018
-ms.openlocfilehash: b894bd8c4c609cfffb1cdb88e29bb4dc9b937df5
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 4d750f677d54023731cbef587c4ccdea30aafb43
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026432"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007470"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>了解 Microsoft 寄發的 IRS 稅單
 
@@ -27,7 +27,7 @@ ms.locfileid: "90026432"
 |1042-S | 與您收到的款項相關 (受美國扣繳稅款限制) | 列印的表單將會在 **3 月 15**日或以前的日期時間，而且會在 **合作夥伴中心開發人員設定** 的合作夥伴中心 (中提供 pdf 副本，> 付款和稅務 **設定檔**)   |
 
 > [!NOTE]
-> 我們在 IRS 稅務表單上使用的位址來自于您的 [稅務設定檔](marketplace-payout-account-setup.md)中的位址。 如果您的位址已變更，請務必更新您的 **稅務設定檔**中的位址。
+> 我們在 IRS 稅務表單上使用的位址來自于您的 [稅務設定檔](/azure/marketplace/marketplace-payout-account-setup)中的位址。 如果您的位址已變更，請務必更新您的 **稅務設定檔**中的位址。
 
 您可以從下列位址將稅務表單傳送給您：
 
@@ -70,7 +70,7 @@ ms.locfileid: "90026432"
   </tr>
   <tr>
     <td valign="top">上述項目皆不適用。</td>
-    <td valign="top">None</td>
+    <td valign="top">無</td>
   </tr>
   <tr>
     <td valign="top">&nbsp;</td>
@@ -86,7 +86,7 @@ ms.locfileid: "90026432"
   </tr>
   <tr> 
      <td valign="top">我在適用的納税年度從應用程式內的廣告收到<b>少於 $600 美元的款項</b></td>
-     <td valign="top">None</td>
+     <td valign="top">無</td>
   </tr>
 </table>
 

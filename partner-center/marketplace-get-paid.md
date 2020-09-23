@@ -6,19 +6,19 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: dddab384cfb790d7907f65c1b1af160cc2082417
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026465"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007392"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>在商業市集中獲得報酬
 
 以下是有關接收供應項目、附加元件和廣告收益之付款的一些重要資訊。
 
 > [!IMPORTANT]
-> 在您可以接收商業市集供應項目銷售量的收入金額之前，您需要[設定您的支出帳戶，並填妥必要的稅務表單](marketplace-payout-account-setup.md)。
+> 在您可以接收商業市集供應項目銷售量的收入金額之前，您需要[設定您的支出帳戶，並填妥必要的稅務表單](/azure/marketplace/marketplace-payout-account-setup)。
 
 ## <a name="store-fee"></a>Store 費用
 

@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: e47277efa11fa7e08a40be867287f92e42a99811
-ms.sourcegitcommit: d3ff69f285a872fd0a214cc14ac3a6cf9cd124b3
+ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
+ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90026452"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "91007402"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>設定支出帳戶和稅賦形式
 
@@ -28,7 +28,7 @@ ms.locfileid: "90026452"
 - [設定支付帳戶](#payout-account)
 
 > [!NOTE]
-> 如需支付供應項目報酬的方式及時間的詳細資訊，請參閱[獲得報酬](marketplace-payout-account-setup.md)。
+> 如需支付供應項目報酬的方式及時間的詳細資訊，請參閱[獲得報酬](/azure/marketplace/marketplace-payout-account-setup)。
 
 ## <a name="tax-forms"></a>稅務表單
 
@@ -131,7 +131,7 @@ ms.locfileid: "90026452"
 3. 您的付款設定檔會連同其狀態一起列出。 尋找您要編輯的設定檔，然後按一下最右側的 [編輯]
 
 > [!IMPORTANT]
-> 變更您的付款帳戶會延遲您的付款最多一次付款週期。 會發生此延遲是因為我們必須確認帳戶變更，就像我們在您第一次設定付款帳戶時所做的一樣。 您仍然會在帳戶確認之後收到全額款項。當期付款週期未付的款項會新增至下一期。 如需詳細資訊，請參閱[獲得報酬](marketplace-payout-account-setup.md)。
+> 變更您的付款帳戶會延遲您的付款最多一次付款週期。 會發生此延遲是因為我們必須確認帳戶變更，就像我們在您第一次設定付款帳戶時所做的一樣。 您仍然會在帳戶確認之後收到全額款項。當期付款週期未付的款項會新增至下一期。 如需詳細資訊，請參閱[獲得報酬](/azure/marketplace/marketplace-payout-account-setup)。
 
 ### <a name="paypal-info"></a>PayPal 資訊
 
