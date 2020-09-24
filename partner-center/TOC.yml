@@ -191,6 +191,8 @@
           href: connector-dynamics.md
         - name: Salesforce CRM 的共同銷售連接器 – 概觀
           href: connector-salesforce.md
+        - name: 對共同銷售推薦連接器進行疑難排解
+          href: connectors-troubleshoot.md
         - name: 從 Partner Sales Connect (PSC) 移轉的合作夥伴共同銷售
           href: psc-to-pc.md
         - name: 註冊您的交易
@@ -301,6 +303,10 @@
           href: license-based-billing.md
         - name: 授權型 SaaS 訂用帳戶的案例
           href: common-billing-scenarios-saas.md
+        - name: Marketplace 供應項目的計費
+          href: csp-commercial-marketplace-billing.md
+        - name: 付費 - Marketplace
+          href: marketplace-get-paid.md
     - name: 檢視數位簽章 - 印度合作夥伴中心
       href: digital-signature.md
     - name: 稅金與免稅
@@ -308,12 +314,20 @@
       items:
         - name: 公司 VAT 資訊
           href: organization-tax-info.md
+        - name: 合作夥伴中心註冊的加值稅 (VAT) 資訊
+          href: vat-info.md
         - name: 收取預扣稅額
           href: withholding-tax-credit-form.md
         - name: 地區稅務 - 語音服務
           href: tax-and-fees-voice-services.md
-    - name: 向 Microsoft 要求 SLA 信用額度
-      href: request-credit.md
+        - name: 商業市集發行者的稅務詳細資料
+          href: tax-details-marketplace.md
+        - name: 了解 Microsoft 寄發的 IRS 稅單
+          href: understand-irs-tax-forms.md
+        - name: 設定支出帳戶和稅賦形式
+          href: set-up-your-payout-account.md
+        - name: 向 Microsoft 要求 SLA 信用額度
+          href: request-credit.md
     - name: 為客戶設定 Azure 消費預算
       href: set-an-azure-spending-budget-for-your-customers.md
     - name: 管理未付款、詐騙或濫用
@@ -360,8 +374,6 @@
           href: isv-opt-in.md
         - name: 管理 Marketplace 供應項目
           href: csp-commercial-marketplace-manage.md
-        - name: Marketplace 供應項目的計費
-          href: csp-commercial-marketplace-billing.md
         - name: Marketplace 供應項目的支援
           href: csp-commercial-marketplace-support.md
         - name: Marketplace 購買合約
@@ -429,7 +441,7 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: 將授權型服務客戶移轉到雲端服務提供者計畫
           href: transition-seat-based-services.md
-        - name: '銷售 Minecraft: Education Edition'
+        - name: 銷售 Minecraft Education Edition  訂用帳戶
           href: minecraft-subscriptions.md
         - name: 銷售到特色產業
           href: Get-special-pricing-for-offers.md
