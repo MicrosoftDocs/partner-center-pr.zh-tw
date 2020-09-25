@@ -1,20 +1,20 @@
 ---
 title: 將角色和權限指派給使用者
 ms.topic: article
-ms.date: 05/19/2020
+ms.date: 09/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解哪些角色最適合在合作夥伴中心管理商業交易、推薦、獎勵或 MPN 會員資格的貴公司使用者。
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8608c194057ea811890c9c575f8964b63564f0
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.custom: SEOMAY.20, contperfq1
+ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
+ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490596"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "90832111"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>為需要在合作夥伴中心工作的公司使用者指派使用者角色和權限
 
@@ -28,10 +28,10 @@ ms.locfileid: "89490596"
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>設定您的員工以在合作夥伴中心工作
 
-您可以依據您給予使用者的角色和權限，來決定他們對合作夥伴中心所擁有的存取類型。 角色與您的企業所牽涉的計畫相關。 例如，如果您的企業是雲端解決方案提供者 (CSP) 企業，您不僅要使用標準的 Azure AD 租用戶管理角色 (例如全域管理員)，還需要 CSP 計畫專屬的角色。 每個計畫都有其特有的角色。
+您可以依據您給予使用者的角色和權限，來決定他們對合作夥伴中心所擁有的存取類型。 角色與您的企業所牽涉的計畫相關。 例如，如果您的企業是雲端解決方案提供者 (CSP) 企業，您不僅要使用標準的 Azure Active Directory 租用戶管理角色 (例如全域管理員)，還需要 CSP 計畫專屬的角色。 每個計畫都有其特有的角色。
 
 >[!Note]
-> Azure Active Directory (AAD) 租用戶角色包含全域管理員、使用者管理員和 CSP 角色。 非 AAD 角色是指不管理租用戶的角色，包括 MPN 管理員、商務設定檔管理員、推薦管理員、獎勵管理員和獎勵使用者。 
+> Azure Active Directory 租用戶角色包含全域管理員、使用者管理員和 CSP 角色。 非 Azure Active Directory 角色是指不管理租用戶的角色，包括 MPN 管理員、商務設定檔管理員、推薦管理員、獎勵管理員和獎勵使用者。 
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>在合作夥伴中心管理商業交易 (Azure AD 和 CSP 角色)
 
@@ -83,7 +83,8 @@ ms.locfileid: "89490596"
 ||*    建立合作夥伴中心的支援票證
 ||*    檢視您所建立的合作夥伴支援票證| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-aad-role"></a>控制台廠商 (CPV)。 (CSP 角色和非 AAD 角色)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>控制台廠商 (CPV)。 (CSP 角色和非 Azure AD 角色)
+
 CPV 開發可供雲端解決方案提供者 (CSP) 合作夥伴使用的應用程式，讓他們能夠整合其系統與合作夥伴中心 API。 
 
 |**角色**   |**可以執行的作業**|**深入了解**|
@@ -91,7 +92,7 @@ CPV 開發可供雲端解決方案提供者 (CSP) 合作夥伴使用的應用程
 |全域系統管理員| 檢視及管理您的 CPV 設定檔|[註冊為控制台廠商，以協助整合 CSP 合作夥伴系統與合作夥伴中心 API](enroll-as-cpv.md)
 ||檢視及管理您需要存取 CPV 功能的任何使用者|
 
-### <a name="guest-user-must-be-added-to-the-aad-tenant"></a>來賓使用者 (必須新增至 AAD 租用戶)
+### <a name="guest-user-must-be-added-to-the-azure-active-directory-tenant"></a>來賓使用者 (必須新增至 Azure Active Directory 租用戶)
 
 |**來賓使用者**   | **角色**|
 |---------------------------|:--------------------|
@@ -102,7 +103,9 @@ CPV 開發可供雲端解決方案提供者 (CSP) 合作夥伴使用的應用程
 ||推薦管理員|
 
 
-## <a name="manage-mpn-membership-and-your-company-non-aad-roles-these-roles-manage-the-company-business-rather-than-the-tenant"></a>管理 MPN 成員資格和您的公司 (非 AAD 角色：這些角色會管理公司業務，而不是租用戶)
+## <a name="manage-mpn-membership-and-your-company"></a>管理 MPN 成員資格和您的公司 
+
+這些角色不是 Azure Active Directory 角色。 這些角色會管理公司業務，而不是租用戶。
 
 |**角色** | **可以執行的作業**|**深入了解**|
 |----------------------------|:----------------------------|-----|
@@ -121,7 +124,7 @@ CPV 開發可供雲端解決方案提供者 (CSP) 合作夥伴使用的應用程
 ||*    檢視您所建立的合作夥伴支援票證
 |帳戶管理員| 新增位置|[管理位置](manage-locations.md)
 || 管理與您身為系統管理員的帳戶相關的設定檔 
-||*    將租用戶中使用者的角色指派至非 AAD 角色 
+||*    將租用戶中使用者的角色指派至非 Azure Active Directory 角色 
 ||*    在計畫中註冊位置
 ||*    建立合作夥伴中心的支援票證
 ||*    檢視您所建立的合作夥伴支援票證
@@ -167,14 +170,3 @@ CPV 開發可供雲端解決方案提供者 (CSP) 合作夥伴使用的應用程
 
 - [建立使用者帳戶以及指派角色和權限](create-user-accounts-and-set-permissions.md)
 - [在註冊新的合作夥伴中心方案時確認帳戶資訊](verification-responses.md)
-
-
-
-
-
-
-
-
-
-
-                                    

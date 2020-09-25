@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31c82b52bf59c117f4605978f9903a4a2ef2adc8
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: f320896ac48a0de740a0d7bb02664648505a6bbe
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564689"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999862"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作夥伴所獲得信用點數如何計算及付費
 
@@ -44,7 +44,7 @@ ms.locfileid: "89564689"
 
 - PEC 會向下獲得至 Azure 資源層級。 如果合作夥伴在訂用帳戶或資源群組層級上具有有效存取權，每個資源具有較高實體的角色，則合作夥伴可以獲得 PEC。  
 
-- [Azure 成本管理](https://go.microsoft.com/fwlink/?linkid=2106482)也提供 PEC 詳細資料
+- [Azure 成本管理](/azure/cost-management-billing/costs/get-started-partners)也提供 PEC 詳細資料
 
 ## <a name="azure-cost-management"></a>Azure 成本管理
 
@@ -78,4 +78,3 @@ ms.locfileid: "89564689"
 - [管理 Azure 方案下的訂用帳戶和資源](azure-plan-manage.md)
 
 - [撤銷或恢復 Azure CSP 訂用帳戶的系統管理員權限](revoke-reinstate-csp.md)
-

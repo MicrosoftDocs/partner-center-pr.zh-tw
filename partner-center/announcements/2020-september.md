@@ -8,19 +8,141 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/01/2020
-ms.openlocfilehash: 0bf31dd474087ae7f4b3c6c8924309d177de922b
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.date: 09/16/2020
+ms.openlocfilehash: a2703a89bd1fa1b29948b2e8c1edfed22dba8ac1
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "90574394"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "90999462"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
 本頁詳述 Microsoft 合作夥伴中心 2020 年 9 月的公告。
 
 2020 公告：[2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | 9 月
+
+________________
+
+## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>宣告正式推出 Azure SQL Edge
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-22
+- 供應項目/市場
+
+### <a name="impacted-audience"></a>影響對象
+
+Microsoft 田野和合作夥伴 
+
+### <a name="summary"></a>總結 
+
+Azure SQL Edge 可將最安全的 Microsoft SQL 資料引擎帶入物聯網 (IoT) 閘道和 Edge 裝置，現已推出。
+
+### <a name="details"></a>詳細資料
+
+我們在今天宣佈推出 Azure SQL Edge，這是針對 IoT 工作負載最佳化的即時資料引擎。 以驅動 SQL Server 和 Azure SQL 的相同引擎所建置，此容器化解決方案提供相同的領先業界安全性、熟悉的開發人員體驗，以及許多小組已經知曉並且信任的工具。
+Azure SQL Edge 可供雲端解決方案提供者 (CSP) 在 **9 月 24 日星期四**購買。
+
+[Azure SQL Edge](https://aka.ms/sqledge) 是一個小型的容器，可讓您進行資料串流、儲存和分析，以取得即時深入解析。 在連線、中斷連線或混合式環境中的邊緣伺服器、閘道和裝置上部署。
+
+Azure SQL Edge 已簡化適合 IoT 部署正確大小的定價，最低從每年每部裝置 $60 (3 年履約承諾)，或是每個裝置訂閱每月 $10。
+
+### <a name="next-stepsadditional-resources"></a>後續步驟/其他資源：
+
+- 檢視 [Ignite 2020 的公告部落格](https://aka.ms/sqledge-ga)
+- 從 [SQL Edge 網站](https://aka.ms/sqledge)現在馬上開始使用，或檢視白皮書、案例研究等等更多項目
+
+________________
+
+## <a name="upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-on-september-30-2020"></a><a name="8"></a>即將於 2020 年 9 月 30 日對 CSP O365 使用 API 和 CSP 授權使用方式報告進行變更
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-17
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+透過合作夥伴中心上的雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴。 
+
+### <a name="summary"></a>總結 
+
+將會對 CSP O365 使用量 API 進行更新，以協助合作夥伴測量其 O365 使用量。
+
+### <a name="details"></a>詳細資料
+
+從 2020 年 9 月 30 日起生效，CSP O365 使用量計量會經歷更新。 我們將會引進新的計量，例如 PAU (付費可用單位) 和 MAU (每月作用中使用者)，其可協助您測量 O365 使用量。 
+
+透過這項變更，將會更新下列 CSP 授權使用量 API：  
+
+1. [授權使用量資訊 API](/partner-center/develop/get-licenses-usage-information).
+
+2. [客戶授權使用量資訊 API](/partner-center/develop/get-customer-licenses-usage-information).
+
+3.  [合作夥伴授權使用量資訊 API](/partner-center/develop/get-partner-licenses-usage-information).
+
+我們也將引進新的 API，會針對您管理的每個客戶，提供每個工作負載的 MAU (每月作用中使用者)。
+
+如需這些更新的詳細資訊，請參閱[這裡](https://partner.microsoft.com/resources/detail/guide-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-pdf)。
+
+此外，我們將會更新 [CSP 授權使用量分析報告](https://partner.microsoft.com/dashboard/analytics/usageanalytics)中的「客戶使用量」明細區段。 從 2020 年 9 月 30 日開始，將會增強報告，以反映 Exchange、SharePoint 和 Skype/Teams 的每月作用中使用量。
+
+### <a name="next-stepsadditional-resources"></a>後續步驟/其他資源：
+
+與您組織中的其他人共用這項資訊。 如需詳細資訊，請參閱[作業資源庫](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/)。
+________________
+
+## <a name="indirect-reseller-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>間接轉銷商 MPA 更新。 使用 MPA API 和新 MPA 報告的使用者所需採取的動作
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-16
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+間接提供者
+
+### <a name="details"></a>詳細資料
+
+#### <a name="mpa-implementation-update"></a>MPA 實作更新
+
+在接下來的幾個月內，將會發生間接轉銷商的 Microsoft 合作夥伴合約 (MPA) 實作第二個階段。 如果間接轉銷商不接受 MPA，他們繼續建立新客戶的能力，或為雲端解決方案提供者計畫中的現有客戶下新訂單 (包括續約) 的能力將會中斷。
+
+動作：
+
+- 使用以下參考的更新 API 和合作夥伴中心報告，來了解間接轉銷商的 MPA 接受狀態。
+- 請與未接受 MPA 的間接轉銷商接洽，並根據他們在雲端解決方案提供者計畫註冊體驗中的哪個階段，提供[逐步指引](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)。
+- 請參閱您的間接轉銷商從 9 月開始每月收到的[通知](https://partner.microsoft.com/resources/collection/reseller-emails-mpa-implementation#/)。
+
+#### <a name="updated-api"></a>已更新 API
+
+針對現有的 API 所做的變更，可讓間接提供者確認其間接轉銷商的 MPA 接受狀態，計畫在 11 月推出。 合作夥伴可以遵循下列動作，申請在 11 月前存取已更新的 API。 使用此 API 的合作夥伴應該與他們的 IT 小組合作，以測試並實作更新。 
+
+- **如果您是現有的 MPA API 使用者，但是未進行 API 更新，您會在 2020 年 11 月 1 日遇到 API 失敗。** 
+- 在更新的 API 中，如果間接轉銷商未接受 MPA，系統會向間接提供者顯示錯誤碼和錯誤訊息。 請參閱 [API 文件](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center)，以檢視每個錯誤碼的「深入了解」連結，該連結將提供可與您的間接轉銷商共用的補救指南。 
+
+動作：
+- 若要在 2020 年 11 月 1 日前存取已更新的 API，請藉由提供任何租用戶識別碼 (測試或實際執行) 來完成[此表單](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR__XoYTV7iZJhSXvcfTPzq1UOTVRM1M4WlRGVzdDS1RRWElTUjVNRFBaWS4u)。 將於 48 小時內提供存取權。
+- 與您的 IT 小組合作，以實作已更新的 API，並追蹤間接轉銷商的 MPA 接受狀態。 如需 API 更新的詳細資訊，請參閱 [API 文件](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center)。
+- 參加即將舉辦的一系列網路研討會，以取得 API 和合作夥伴中心報告更新的逐步解說。 加入以下研討會： 
+
+- [太平洋時間 9 月 15 日上午 8:30](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjM5NjUwYzEtYzU5Yy00YWI5LWJkNTctY2FlZTM3YjdiMDEy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [太平洋時間 9 月 16 日下午 7:30](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhlN2Y3OTQtMTI3NC00NGYzLTk5MGEtM2YxZmFiOGUyZWYy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [太平洋時間 9 月 22 日上午8:30](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODcyODcxYTAtM2M2Mi00NGFkLWIyMDUtNWYwZDc4YjkyOTkz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [太平洋時間 9 月 23 日下午 7:30](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJmOWJkNTgtNWZlMy00OGE3LTg1NTQtOTQ0YjE4OTlkMmJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [太平洋時間 9 月 29 日上午8:30](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdiMGNhMmMtYjkwZi00MTE0LWE3MDYtOWFlNDhiNjkwNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [太平洋時間 9 月 30 日下午 7:30](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRiNTFhNWMtNDU5My00NGY4LTlhZDctZTA2MDE5MjE2ZTQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+
+#### <a name="mpa-reporting-in-partner-center"></a>合作夥伴中心的 MPA 報告
+
+1. 存取 MPA 報告，以檢視在合作夥伴中心具有帳戶的間接轉銷商詳細資訊及其 MPA 接受狀態。 若要檢視報告，請登入合作夥伴中心，並且瀏覽至左側功能表中的 [分析] / [轉銷商分析]。
+
+2. 藉由按一下右側的下載圖示來下載報告。
+3. 開啟空白的 Excel 檔案，並且將下載的 ".tsv" 檔案拖曳至 Excel 檔案。
+
+注意：如果您的間接轉銷商至少有一個租用戶已接受相同區域內的 MPA，則不需要採取進一步的動作。 
 
 ________________
 
@@ -42,7 +164,7 @@ ________________
 - [Visio 方案 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) 和 [Visio 方案 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
 - [專案計劃 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) 和 [專案計劃 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
-注意：自助式購買功能目前不適用於印度、巴西、剛果民主共和國 (DRC)，也不適用於符合政府或教育版優惠的客戶。  如需完整的國家/地區可用性和更新，請參閱[自助式購買常見問題](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide&preserve-view=true)。
+注意：自助式購買功能目前不適用於印度、巴西、剛果民主共和國 (DRC)，也不適用於符合政府或教育版優惠的客戶。  如需完整的國家/地區可用性和更新，請參閱[自助式購買常見問題](/microsoft-365/commerce/subscriptions/self-service-purchase-faq?preserve-view=true&view=o365-worldwide)。
 
 #### <a name="partner-benefits"></a>合作夥伴權益
 
@@ -52,7 +174,7 @@ ________________
 ### <a name="next-steps"></a>後續步驟
 
 - 請檢閱「作業整備度」資源庫中的所有整備資源：[客戶自助式購買功能](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/)。 在 Microsoft Inspire 研習會「[利用 Microsoft Visio 和 Power Platform 重建和重新構思業務](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)」中，深入了解具有 Visio 和 Power Platform 解決方案的合作夥伴商機。
-- 如需其他資訊，請參閱[自助式系統管理員指南](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?view=o365-worldwide&preserve-view=true)。
+- 如需其他資訊，請參閱[自助式系統管理員指南](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?preserve-view=true&view=o365-worldwide)。
 
 ________________
 
@@ -267,6 +389,6 @@ ________________
 ### <a name="next-steps"></a>後續步驟
 
 - 請與貴組織內適當的連絡人分享這項資訊。
-- 如需產品的詳細資訊，請參閱 [Microsoft Defender ATP 文件](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)。
+- 如需產品的詳細資訊，請參閱 [Microsoft Defender ATP 文件](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection)。
 
 ________________

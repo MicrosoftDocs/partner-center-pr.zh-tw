@@ -1,7 +1,7 @@
 ---
-title: 獎勵合作宣告的核心要求
+title: 獎勵核心需求
 ms.topic: article
-ms.date: 08/31/2020
+ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 了解如何在獎勵計畫中產生需求、了解市場開發，以及讓合作夥伴為活動做好充分的準備。
@@ -9,14 +9,14 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 070f73cbb8387510d7fe358e48c1116b16630fad
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 645b07fe7ccdc550cba252507962a5a82ae708af
+ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220666"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "90714312"
 ---
-# <a name="incentives-co-op-claims-core-requirements"></a>獎勵合作宣告需求
+# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>獎勵計畫中活動的核心需求
 
 **適用於**
 
