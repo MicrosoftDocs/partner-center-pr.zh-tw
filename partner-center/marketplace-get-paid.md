@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 06/09/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e75d10db14292ea0d2aa9ee391e0f1582252e732
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 22ca8ef0d1b5dad91036f0e2eb2be66f2da2640b
+ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007392"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91248896"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>在商業市集中獲得報酬
 
@@ -30,11 +30,11 @@ Store 費用會套用至商業市集所收集的所有供應項目銷售量，�
 
 ## <a name="payout-reporting"></a>付款報告
 
-您可以存取有關付款資訊的詳細資料，並在[合作夥伴中心](https://partner.microsoft.com/dashboard)的 [支出摘要] 中下載報告。 如需此處顯示的資訊，以及如何將您所獲得之收益分類的詳細資訊，請參閱[支出摘要概觀](/azure/marketplace/payout-summary-overview)。
+您可以存取有關付款資訊的詳細資料，並在[合作夥伴中心](https://partner.microsoft.com/dashboard)的 [支出摘要] 中下載報告。 如需此處顯示的資訊，以及我們如何將您所獲得的金錢分類的詳細資訊，請參閱付款 [聲明](payout-statement.md)。
 
 ## <a name="payout-time-frame"></a>支出時間範圍
 
-付款是以每月為基礎進行 (前提是已符合適用的付款閾值，而您尚未依照下面所述保留您的支出)。 對於任何在指定月份到期的付款，我們一般會在當月的 15 號以前匯出。 請注意，付款通常需要 3 到 10 個額外的工作天，才能到達您的支出帳戶。 如需詳細資訊，請參閱[付款閾值、方法和時間範圍](/azure/marketplace/payment-thresholds-methods-timeframes)。
+付款是以每月為基礎進行 (前提是已符合適用的付款閾值，而您尚未依照下面所述保留您的支出)。 對於任何在指定月份到期的付款，我們一般會在當月的 15 號以前匯出。 請注意，付款通常需要 3 到 10 個額外的工作天，才能到達您的支出帳戶。 如需詳細資訊，請參閱[付款閾值、方法和時間範圍](payment-thresholds-methods-timeframes.md)。
 
 ## <a name="payout-hold-status"></a>支出保留狀態
 
