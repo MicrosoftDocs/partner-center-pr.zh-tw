@@ -418,6 +418,8 @@
           href: azure-plan-manage.md
         - name: 恢復 Azure CSP 訂用帳戶的系統管理員權限
           href: revoke-reinstate-csp.md
+        - name: 轉移 Azure 訂閱
+          href: switch-azure-subscriptions-to-a-different-partner.md
     - name: 軟體訂用帳戶
       href: csp-software-subscriptions.md
     - name: 透過雲端解決方案提供者計畫銷售內部部署軟體
@@ -463,8 +465,6 @@
           href: migrate-office365-e4-subscriptions-to-newer-versions.md
         - name: 將商務用 Skype Online 方案 1 遷移至較新的 Office 365 版本
           href: skype-retiring.md
-        - name: 轉移 Azure 訂閱
-          href: switch-azure-subscriptions-to-a-different-partner.md
         - name: 將 Kaizala 專業版訂用帳戶遷移至 Microsoft 365
           href: migrate-kaizala-pro-partner.md
     - name: Office 365 銷售顧問
