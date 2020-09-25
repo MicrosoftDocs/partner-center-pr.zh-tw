@@ -303,6 +303,8 @@
           href: license-based-billing.md
         - name: 授權型 SaaS 訂用帳戶的案例
           href: common-billing-scenarios-saas.md
+    - name: Marketplace 帳單和支出案例
+      items:
         - name: Marketplace 供應項目的計費
           href: csp-commercial-marketplace-billing.md
         - name: 付費 - Marketplace
