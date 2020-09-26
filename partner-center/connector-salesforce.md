@@ -8,12 +8,12 @@ description: 將合作夥伴中心中的參考與 Salesforce CRM 同步處理
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 595cbba8a173eb81b4e3520d1b1b0533c4dee296
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
+ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000592"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "91372818"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM 的共同銷售連接器 – 概觀
 
@@ -36,6 +36,39 @@ ms.locfileid: "91000592"
 |合作夥伴中心使用者角色|將安裝並使用連接器的員工必須是推薦系統管理員|[指派使用者角色和權限](create-user-accounts-and-set-permissions.md)|
 |Salesforce CRM|CRM 使用者角色是系統管理員或系統自訂員|[在 Salesforce CRM 中指派角色](/SalesforceCRM/customerengagement/on-premises/customize/privileges-required-customization)|
 |Power Automate Flow 帳戶|適用于 CRM 系統管理員或系統自訂員的 active [Power Automate](https://flow.microsoft.com) 帳戶。 在安裝之前，該使用者至少應登入 [Power Automate](https://flow.microsoft.com) 一次。|
+
+## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>安裝適用于 Microsoft 自訂欄位的 Salesforce 套件 
+
+若要同步處理合作夥伴中心和 Salesforce CRM 之間的參考，Power Automate 解決方案必須清楚地識別 Microsoft 特定的參考欄位。 此分界可讓合作夥伴賣方團隊能夠決定他們想要與 Microsoft 分享哪些參考，以進行共同銷售。
+
+1. 在 Salesforce 中，啟用 [ **附注** ]，並將它新增至商機相關清單。 
+[參考](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
+
+2. 遵循下列步驟來啟動 **商機小組** ： 
+    - 在安裝程式中，使用 [ **快速尋找** ] 方塊找出商機團隊設定。
+    - 視需要定義設定。
+[參考](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
+
+3. 在 Salesforce 中，請使用以下的套件安裝程式來安裝自訂欄位和物件。
+  
+請前往 [這裡](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) 將套件安裝到任何公司：
+
+
+注意：如果您要安裝至沙箱，您必須將 URL 的初始部分取代為 http://test.salesforce.com
+
+4. 在 Salesforce 中，將 Microsoft 解決方案新增至 **商機** 相關清單。 新增之後，請按一下 [ **扳手** ] 圖示，然後更新屬性
+
+## <a name="best-practice-test-before-you-go-live"></a>最佳做法：上線之前先進行測試
+
+在生產環境中安裝、設定和自訂 Power Automate 解決方案之前，請務必在預備 CRM 實例上測試解決方案。
+
+- 在預備環境/CRM 實例上安裝 Microsoft Power Automate 的解決方案。
+
+- 製作解決方案的複本，並在預備環境中執行設定和 Power Automate 流程自訂。
+
+- 測試預備/CRM 實例上的方案。
+
+- 成功時，請將匯入為生產實例的受控解決方案。
 
 ## <a name="install-partner-center-referrals-synchronization-for-salesforce-crm"></a>安裝 Salesforce CRM 合作夥伴中心推薦同步處理
 
@@ -65,49 +98,56 @@ ms.locfileid: "91000592"
 
 10. 選取 **Salesforce 的合作夥伴中心推薦同步**處理。 以下是可用的流程和實體 Power Automate：
 
-    :::image type="content" source="images/salesforce/salesforce-flows.png" alt-text="Salesforce 流程":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce 流程":::
 
-## <a name="best-practice-test-before-you-go-live"></a>最佳做法：上線之前先進行測試
 
-在生產環境中安裝、設定和自訂 Power Automate 解決方案之前，請務必在預備 CRM 實例上測試解決方案。
-
-- 在預備環境/CRM 實例上安裝 Microsoft Power Automate 的解決方案。
-
-- 製作解決方案的複本，並在預備環境中執行設定和 Power Automate 流程自訂。
-
-- 測試預備/CRM 實例上的方案。
-
-- 成功時，請將受控解決方案匯入至生產環境實例。
 
 ## <a name="configure-the-solution"></a>設定解決方案
 
 1. 在您的 CRM 實例中安裝解決方案之後，請流覽回到 [Power Automate](https://flow.microsoft.com/)。
 
 2. 從右上角的 [ **環境** ] 下拉式清單中，選取您安裝 Power Automate 解決方案的 CRM 實例。
-
 3. 您將需要建立與三個使用者帳戶建立關聯的連接：
+    - 具有推薦系統管理員認證的合作夥伴中心使用者
+    - 合作夥伴中心事件
+    - CRM 管理員與解決方案中的 Power Automate 流程。
+4. 從左側導覽列選取 [ **連接** ]，然後從清單中選取 [合作夥伴中心的參考] 解決方案。
 
-   - 具有推薦系統管理員認證的合作夥伴中心使用者
-   - 合作夥伴中心事件
-   - CRM 管理員與解決方案中的 Power Automate 流程。
+5. 按一下 [ **建立連接**] 來建立連接。
 
-   1. 從左側導覽列選取 [ **連接** ]，然後從清單中選取 [合作夥伴中心的參考] 解決方案。
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="建立連線":::
 
-   2. 按一下 [ **建立連接**] 來建立連接。
+- 在右上角的搜尋列中搜尋合作夥伴中心參考 (預覽) 。
 
-       :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="建立連線":::
+- 使用「參考系統管理員」的認證角色建立合作夥伴中心使用者的連接。
 
-   3. 在右上角的搜尋列中搜尋 **合作夥伴中心參考 (預覽) ** 。
+-  接下來，使用推薦的系統管理員認證來為您的合作夥伴中心使用者建立合作夥伴中心事件連接。
 
-   4. 使用「參考系統管理員」的認證角色建立合作夥伴中心使用者的連接。
+- 為 CRM 系統管理員使用者建立 Common Data Service (目前環境) 的連接。
 
-   5. 接下來，使用推薦的系統管理員認證來為您的合作夥伴中心使用者建立合作夥伴中心事件連接。
+-  新增所有連線之後，您應該會在您的環境中看到下列連接：
 
-   6. 為 CRM 系統管理員使用者建立 Common Data Service (目前環境) 的連接。
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="觀察連接":::
 
-4. 若要將 Power Automate 流程與連接產生關聯，請編輯每個 Power Automate 流程，以連接到 Common Data Service 和合作夥伴中心的參考。 儲存變更。
+### <a name="edit-the-connections"></a>編輯連接
 
-5. **開啟** Power Automate 流程。
+1. 返回 [方案] 頁面，然後選取 [ **預設方案**]。  按一下 [**全部**]，以選取 [ ** (預覽) 的連接參考**。
+ 
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="開始連接器編輯":::
+
+2. 選取三個點圖示，逐一編輯每一個連接。 新增相關的連接。
+
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="編輯連接器":::
+
+3. 依下列順序開啟流程：
+
+- 合作夥伴中心 Webhook 註冊 (Insider Preview) 
+- 建立共同銷售參考-Salesforce 至合作夥伴中心 (Insider Preview) 
+- 合作夥伴中心 Microsoft 共同銷售參考更新至 Salesforce (Insider preview) 
+- 合作夥伴中心至 Salesforce (Insider preview) 
+- Salesforce 至合作夥伴中心 (Insider Preview) 
+- 合作夥伴中心 (Insider Preview) 的 Salesforce 機會
+- 合作夥伴中心 (Insider Preview) 的 Salesforce Microsoft 解決方案
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>使用 Webhook Api 來註冊資源變更事件
 
@@ -196,27 +236,6 @@ Webhook 現在可以接聽建立和更新事件。
    3. 若要根據 [建立事件] 的欄位對應指南) 自訂 CRM 欄位對應 (，請選取 [ **建立 Microsoft 參考**]。
 
 您可以根據欄位對應指南編輯本節中的對應。
-
-## <a name="create-separate-section-in-salesforce-crm-opportunity-layout"></a>在 Salesforce CRM 商機配置中建立個別的區段
-
-若要同步處理合作夥伴中心和 Salesforce CRM 之間的參考，Power Automate 解決方案必須清楚地區分 Microsoft 特定的參考欄位。 這可讓您的賣方團隊能夠決定他們想要與 Microsoft 分享哪些參考，以進行共同銷售。
-
-有一組自訂欄位可作為 Salesforce CRM **商機** 實體合作夥伴中心推薦同步處理的一部分。 CRM 系統管理員使用者必須建立具有 **商機** 自訂欄位的個別 CRM 區段。
-Salesforce CRM 系統管理員使用者將需要建立個別的 CRM 區段。
-
-下列自訂欄位應該是 CRM 區段的一部分：
-
-- **與合作夥伴中心同步**：是否要與 Microsoft 合作夥伴中心同步處理商機
-
-- **參考識別碼**： Microsoft 合作夥伴中心推薦的唯讀識別碼欄位
-
-- **參考連結**： Microsoft 合作夥伴中心中參考的唯讀連結
-
-- **Microsoft 如何提供協助？** 參考 Microsoft 所需的協助
-
-- **產品**：與此商機相關聯的產品清單
-
-- **Audit**：與 Microsoft 合作夥伴中心推薦同步的唯讀審核記錄
 
 ### <a name="set-up-fields-and-relationships"></a>設定欄位和關聯性
 
@@ -320,9 +339,7 @@ Salesforce CRM 系統管理員使用者將需要建立個別的 CRM 區段。
 
     6. 當您選取同步處理的參考時，就會填入卡片視圖詳細資料。
 
-## <a name="next-steps"></a>下一步
-
-- [深入瞭解 Microsoft Power Automate platform？](/-automate/)
+## <a name="next-steps"></a>後續步驟
 
 - [管理潛在客戶](manage-leads.md)
 
