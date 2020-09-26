@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2d3910192b08db481d73a221d9a243f8467570f9
-ms.sourcegitcommit: 9e2786bb4348c2a7e051415d670dd055d50dac34
+ms.openlocfilehash: 5b43a837bfa90685d13ff96656c9129113f058d9
+ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "91110663"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "91206290"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "91110663"
 
 | **類別** | **2020 年 9 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[.NET Standard v1.16.2 上的 SDK 版本](2020-september.md#11)|9 月 22 日|
 |功能|[Partner Center 合作夥伴中心深入解析 – 單一報告資源可協助您了解與 Microsoft 的業務。](2020-september.md#10)|9 月 23 日|
 |供應項目/市場|[宣告正式推出 Azure SQL Edge](2020-september.md#9)|9 月 22 日|
 |功能|[即將於 2020 年 9 月 30 日對 CSP O365 使用 API 和 CSP 授權使用方式報告進行變更。](2020-september.md#8)|9 月 17 日|
