@@ -301,6 +301,8 @@
           href: invoice-file.md
         - name: 授權型帳單
           href: license-based-billing.md
+        - name: 電信業者帳單
+          href: mobile-operator-billing.md
         - name: 授權型 SaaS 訂用帳戶的案例
           href: common-billing-scenarios-saas.md
     - name: Marketplace 帳單和支出案例
@@ -309,6 +311,14 @@
           href: csp-commercial-marketplace-billing.md
         - name: 付費 - Marketplace
           href: marketplace-get-paid.md
+        - name: 支出原則詳細資料
+          href: payout-policy-details.md
+        - name: 付款閾值、方法和時間範圍
+          href: payment-thresholds-methods-timeframes.md
+        - name: 支出明細表
+          href: payout-statement.md
+        - name: Marketplace 支出常見問題
+          href: payout-faq.md
     - name: 檢視數位簽章 - 印度合作夥伴中心
       href: digital-signature.md
     - name: 稅金與免稅
