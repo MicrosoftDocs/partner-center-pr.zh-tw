@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/29/2020
-ms.openlocfilehash: 607dd781640ca75dea89ae0f38877bc72a62bfcc
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.openlocfilehash: 83f5f3cea881780531d0b2f24e0422df76891382
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "91206320"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422314"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>了解如何將客戶的 Azure 訂用帳戶轉移給另一個合作夥伴
 
@@ -37,23 +37,27 @@ ms.locfileid: "91206320"
 1. 如果要將 Azure 訂閱轉移至新的合作夥伴，客戶必須開始該程序，並以書面方式連絡其目前記錄的合作夥伴。
 
    >[!Note]
-   >目前的合作夥伴必須負責建立起始移轉程序的服務票證。 Microsoft 無法代表客戶或新合作夥伴介入。 客戶應做好與目前合作夥伴密切合作的計劃，使轉移程序進行順暢。
+   > 目前的合作夥伴必須負責建立起始移轉程序的服務票證。 Microsoft 無法代表客戶或新合作夥伴介入。 客戶應做好與目前合作夥伴密切合作的計劃，使轉移程序進行順暢。
 
 2. 訂用帳戶的夥伴必須執行下列工作：
 
    從合作夥伴中心建立 Azure 服務票證以要求訂用帳戶移轉：
 
-   - 從 [合作夥伴中心] 功能表中，選取 [ **客戶**]，從清單中選取您的客戶，然後選取 [ **服務管理**]。 在 **\[支援票證\]** 區段底下，選取 **\[新增票證\]** 下拉式清單並選擇 **\[Microsoft Azure\]**。
+   1. 從 [合作夥伴中心] 功能表中，選取 [ **客戶**]，從清單中選取您的客戶，然後選取 [ **服務管理**]。 
 
-   - 在 [ [Azure 入口網站](https://portal.azure.com)中，選取 [ **新增支援要求**]。
+   2. 在 **\[支援票證\]** 區段底下，選取 **\[新增票證\]** 下拉式清單並選擇 **\[Microsoft Azure\]**。
+   
+   3. 在 [ [Azure 入口網站](https://portal.azure.com)中，選取 [ **新增支援要求**]。
+   
+   4. 在步驟1中，選擇 [訂用帳戶 **管理** ] 作為 [問題類型]，指定您要傳送的訂用帳戶識別碼，然後選擇 [ **雲端解決方案提供者** ] 作為支援方案。
+   
+   5. 在步驟2中選取 [ **C-最不影響** ]，然後選擇 [ **其他一般問題** ] 做為問題類型。
+   
+   6. 下載 [CSP 訂用帳戶移轉表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)。
 
-     在步驟1中，選擇 [訂用帳戶 **管理** ] 作為 [問題類型]，指定您要傳送的訂用帳戶識別碼，然後選擇 [ **雲端解決方案提供者** ] 作為支援方案。
+3. 訂閱的合作夥伴：請填寫[雲端解決方案提供者訂閱移轉表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)，簽署該表單，然後將它寄給客戶。 
 
-     在步驟2中選取 [ **C-最不影響** ]，然後選擇 [ **其他一般問題** ] 做為問題類型。
-
-     下載 [CSP 訂用帳戶移轉表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)。
-
-3. 訂閱的合作夥伴：請填寫[雲端解決方案提供者訂閱移轉表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)，簽署該表單，然後將它寄給客戶。 如果要填寫表單，您將會需要下列資訊：
+   如果要填寫表單，您將會需要下列資訊：
 
    - 目前合作夥伴的連絡資訊和 Microsoft ID。 在 [合作夥伴中心] 功能表中，選取 [ **帳戶設定** &gt; **組織設定檔**]，並使用此處所列的 **Microsoft ID**、 **組織名稱**和 **位址** 。
 
@@ -106,6 +110,10 @@ ms.locfileid: "91206320"
 ## <a name="next-steps"></a>後續步驟
 
 - 下載 [CSP 訂用帳戶移轉表單](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)。
+
+- 深入瞭解 [多合作夥伴支援](multipartner.md)。
+
 - [多合作夥伴支援](multipartner.md)。
 - [多通道支援](multichannel.md)。
 - [轉移 Azure 訂閱](https://docs.microsoft.com/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)
+

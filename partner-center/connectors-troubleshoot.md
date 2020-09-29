@@ -1,5 +1,5 @@
 ---
-title: 針對共同銷售的推薦連接器進行疑難排解
+title: 對共同銷售推薦連接器進行疑難排解
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
@@ -8,14 +8,14 @@ description: 有關如何針對共同銷售連接器進行疑難排解的常見�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: ad09d7c805ce5a1138d7546fd041ae1eda77b00c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91002955"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422334"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a>針對共同銷售的推薦連接器進行疑難排解
+# <a name="troubleshoot-co-sell-referrals-connectors"></a>對共同銷售推薦連接器進行疑難排解
 
 **適用於：**
 
@@ -104,27 +104,28 @@ Salesforce 連接器解決方案的類型為「Dynamics Flow」，可支援與�
 
 5. 如果共同銷售推薦連接器解決方案的流程未啟用 (開啟) ，您該怎麼做？
 
-    A. 在 Power Automate 中，您將需要依下列順序編輯流程，並將其更新為使用個別的連接：
+A. 在 Power Automate 中，您將需要依下列順序編輯流程，並將其更新為使用個別的連接：
 
-    - 合作夥伴中心 Webhook 註冊 (Insider Preview) 
-    - 建立共同銷售參考-Salesforce 至合作夥伴中心 (Insider Preview) 
-    - 合作夥伴中心 Microsoft 共同銷售參考更新至 Salesforce (Insider preview) 
-    - 合作夥伴中心至 Salesforce (Insider preview) 
-    - Salesforce 至合作夥伴中心 (Insider Preview) 
-    - 合作夥伴中心 (Insider Preview) 的 Salesforce 機會
-    - 合作夥伴中心 (Insider Preview) 的 Salesforce Microsoft 解決方案
+- 合作夥伴中心 Webhook 註冊 (Insider Preview) 
+- 建立共同銷售參考-Salesforce 至合作夥伴中心 (Insider Preview) 
+- 合作夥伴中心 Microsoft 共同銷售參考更新至 Salesforce (Insider preview) 
+- 合作夥伴中心至 Salesforce (Insider preview) 
+- Salesforce 至合作夥伴中心 (Insider Preview) 
+- 合作夥伴中心 (Insider Preview) 的 Salesforce 機會
+- 合作夥伴中心 (Insider Preview) 的 Salesforce Microsoft 解決方案
 
-    B. 針對每個流程，選取 [ **僅執行使用者** ] 選項。 選取 [ **使用連接** ，而不是 **由僅限執行的使用者提供**]。  
+ B. 針對每個流程，選取 [ **僅執行使用者** ] 選項。 選取 [ **使用連接** ，而不是 **由僅限執行的使用者提供**]。  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="啟用流程":::
 
+
 C. 在下列提及的流程中啟用下列各項：
 
-- 合作夥伴中心 Microsoft 共同銷售參考更新至 Salesforce (Insider preview) 
+ - 合作夥伴中心 Microsoft 共同銷售參考更新至 Salesforce (Insider preview) 
 
 - Salesforce 至合作夥伴中心 (Insider Preview) 
 
-
+    
 D. 啟用所有剩餘的流程。
 
 E. 在 [flow] 合作夥伴中心 Webhook 註冊中，選取 [ **執行**]。 從合作夥伴中心中的第一個動作提供 **HTTP url** **至 Salesforce** flow。 選取 [ **要註冊的事件** ] 底下的四個選項，然後選取 **[是]** 進行覆寫。
@@ -203,7 +204,7 @@ E. 在 [flow] 合作夥伴中心 Webhook 註冊中，選取 [ **執行**]。 從
 
 - 確定在合作夥伴中心中，交易不會意外地關閉為「成功」或「遺失」。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [管理潛在客戶](manage-leads.md)
  

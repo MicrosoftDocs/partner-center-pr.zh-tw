@@ -8,12 +8,12 @@ description: 將合作夥伴中心中的參考與 Salesforce CRM 同步處理
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 1b658f04b1348eb48f694fac069518a7a7fc6a70
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 4b96be195788ccc8b82aafd0bddb90dd34a672f9
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372818"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422444"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM 的共同銷售連接器 – 概觀
 
@@ -237,45 +237,6 @@ Webhook 現在可以接聽建立和更新事件。
 
 您可以根據欄位對應指南編輯本節中的對應。
 
-### <a name="set-up-fields-and-relationships"></a>設定欄位和關聯性
-
-1. 登入您的 Salesforce 帳戶並移至 **商機**。
-
-2. 按一下 [ **設定** ] 和 [ **編輯物件** ] 選項，以新增必要的欄位。
-
-3. 從左側導覽中選取 **欄位 & 關聯** 性
-
-   :::image type="content" source="images/salesforce/fields1.png" alt-text="欄位":::
-
-4. 在 [ **欄位] & 關聯** 性資料表中新增下欄欄位：
-
-   |**欄位標籤**   |**欄位名稱**|**Data type**|**索引**|
-   |---------------------|:-------------------|:--------------|:----------------|
-   |稽核| Audit__c|長文字區域 (100000) # B2 可見的第4行) ||
-   |Microsoft 如何提供協助？|How_can_Microsoft_help_c|挑選清單|
-   |產品|Products_c|文字 (255) ||
-   |轉介 | Referral_Identfier_c|文字 (100) # B2 外部識別碼) |是|
-   |參考連結| Referral_Link_c_|URL (255) ||
-   |與合作夥伴中心同步|sync_with_partner_center_c|核取方塊 (預設未核取的) ||
-
-   * 挑選清單值：
-
-   - 工作負載特定價值主張
-   - 客戶技術架構
-   - 概念證明或示範
-   - 報價或授權
-   - 銷售後客戶成功
-   - 一般或其他
-
-5. 這些欄位會在 [**欄位] & 關聯**性下建立
-
-   :::image type="content" source="images/salesforce/fields2.png" alt-text="已建立欄位":::
-
-6. 在 [商機配置] 中，建立包含上述欄位的個別區段。
-
-   - 本章節應可供商機配置中的銷售人員使用
-
-   :::image type="content" source="images/salesforce/pc-fields-layout.png" alt-text="合作夥伴中心欄位版面配置":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>端對端雙向共同銷售推薦同步處理
 
