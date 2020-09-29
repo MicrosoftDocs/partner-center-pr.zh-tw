@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 9c92966788a8d00cc86776b996b3484a9bff8d59
-ms.sourcegitcommit: 505c38436780a31692f5f5694830fcfe01502977
+ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
+ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91372788"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "91422324"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "91372788"
 
 | **類別** | **2020 年 9 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[Azure 方案合作夥伴之間新訂用帳戶轉換工具的可用性](2020-september.md#15)|9 月 28 日|
+|功能|[測試更新：教育版客戶驗證程序的合作夥伴中心 API 更新和使用者介面增強功能](2020-september.md#14)|9 月 28 日|
+|功能|[更新 - CSP O365 使用 API 和 CSP 授權使用方式報告](2020-september.md#13)|9 月 29 日|
 |功能|[俄羅斯聯邦法律加值稅即將變更](2020-september.md#12)|9 月 25 日|
 |功能|[.NET Standard v1.16.2 上的 SDK 版本](2020-september.md#11)|9 月 22 日|
 |功能|[Partner Center 合作夥伴中心深入解析 – 單一報告資源可協助您了解與 Microsoft 的業務。](2020-september.md#10)|9 月 23 日|
