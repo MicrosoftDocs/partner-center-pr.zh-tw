@@ -6,26 +6,17 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/24/2020
-ms.openlocfilehash: 17fedcf4ef3d474eab679a03eecb221c90342a04
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/28/2020
+ms.openlocfilehash: 24436238cb28f4ef1b02afc4e2f4224d1440805c
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91335667"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591108"
 ---
 # <a name="payout-policy-details"></a>支出原則詳細資料
 
-本文討論 Microsoft 的付款流程、付款排程和 recoupment 原則，以及可在何處找到付款的狀態。
-
-## <a name="where-to-find-upcoming-payouts"></a>哪裡可以找到即將推出的支出
-
-在合作夥伴中心中，選取畫面右上**角的付款圖示：**
-
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="說明合作夥伴中心入口網站右上方的支出圖示。":::
-
-> [!TIP]
-> 並非所有帳戶角色都能存取付款資訊。 如需詳細資訊，請參閱 [角色和許可權](payout-statement.md#roles-and-permissions)。
+本文討論 Microsoft 的付款流程、付款排程、要在何處尋找付款狀態，以及 recoupment 原則。
 
 ## <a name="payment-schedules"></a>付款排程
 
@@ -33,14 +24,14 @@ ms.locfileid: "91335667"
 
 ### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>2020 5 月1日之後的 Enterprise 合約交易
 
-我們已對我們的商業 marketplace 發行者付款模型進行下列更新：
+#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>更新為我們的商業 marketplace 發行者付款模型
 
-自2020起，我們將會更新我們的支出原則，其與 Microsoft AppSource 購買的產品相關，或由 Microsoft Enterprise 合約的客戶 Azure Marketplace。 當客戶使用其現有的 Microsoft Enterprise 合約進行交易，從 Azure Marketplace 或 AppSource 購買產品時，2020月1日之後，我們就會在下一期的客戶發票30天內開始發行支出。 客戶使用信用卡的交易不會變更，而且在付款前會繼續有30天的保留期間。 下表顯示有關付款排程的詳細資料。
+從2020開始，我們將更新支出原則，其與 Microsoft Enterprise 合約客戶在 Azure Marketplace 或 AppSource 中購買的產品有關。 當客戶使用其現有的 Microsoft Enterprise 合約在5月 1 2020 日之後的交易向 Azure Marketplace 或 AppSource 購買產品時，我們會在下一期的客戶發票30天內開始發行支出。 客戶使用信用卡的交易不會變更，而且在付款前會繼續有30天的保留期間。 下表顯示有關付款排程的詳細資料。
 
 > [!NOTE]
 > 如果客戶無法支付費用，但我們已向您發出款項，請參閱以下 [客戶的非付款流程](#process-for-customer-non-payment) 。
 
-| 事件  | 日期 (UTC)  | 合作夥伴可見度：合作夥伴中心支出報表  |  合作夥伴可見度：合作夥伴中心分析\* |
+| Event - 事件  | 日期 (UTC)  | 合作夥伴可見度：合作夥伴中心支出報表  |  合作夥伴可見度：合作夥伴中心分析\* |
 | --- | --- | --- | --- |
 | 交易或使用月份 | 8/1/2020 –8/31/2020 | N/A | **使用方式報表**：顯示 (每四小時重新整理一次的新耗用量) <br>**訂單報表**： N/A |
 | 詞彙結束 (month)  | 2020/8/31 | N/A | **使用方式報告**：顯示的月份結束耗用量<br>**訂單報表**： N/A |
@@ -51,13 +42,13 @@ ms.locfileid: "91335667"
 | 已收集客戶發票 | 12/1/2020 | 標示為在交易歷程記錄中和在付款儀表板的付款區段中**傳送** | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單  |
 |  |  |  |  |
 
-\* 您可以在合作夥伴中心的 [分析] 區段中存取使用量和訂單報表。</br>\** 付款日期是太平洋標準時間 (PST) 。
+\* 您可以在合作夥伴中心的 [分析] 區段中存取使用量和訂單報表。 \**. 付款日期是太平洋標準時間 (PST) 。
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>使用信用卡或發票付款的客戶
 
 所有使用信用卡或每月發票的購買都有30天的保留期，以確保已清除資金，而且沒有任何退款或疑似詐騙。
 
-| 事件  | 日期 (UTC)  | 合作夥伴可見度：合作夥伴中心支出報表  |  合作夥伴可見度：合作夥伴中心分析\*  |
+| Event - 事件  | 日期 (UTC)  | 合作夥伴可見度：合作夥伴中心支出報表  |  合作夥伴可見度：合作夥伴中心分析\*  |
 | --- | --- | --- | --- |
 | 交易或使用月份 | 8/1/2019 - 8/31/2019 | N/A | **使用方式報表**：顯示 (每四小時重新整理一次的新耗用量) <br>**訂單報表**： N/A |
 | 詞彙結束 (month)  | 8/31/2019 | N/A | **使用方式報告**：顯示的月份結束耗用量<br>**訂單報表**： N/A |
@@ -74,7 +65,7 @@ ms.locfileid: "91335667"
 
 在 Microsoft 收集到客戶的款項並處理 marketplace 費用之後，在此日期之前發生的所有購買專案都會依下列排程進行處理和支付。
 
-| 事件  | 日期 (UTC)   | 合作夥伴可見度：合作夥伴中心支出報表  |  合作夥伴可見度：合作夥伴中心分析\*  |
+| Event - 事件  | 日期 (UTC)   | 合作夥伴可見度：合作夥伴中心支出報表  |  合作夥伴可見度：合作夥伴中心分析\*  |
 | --- | --- | --- | --- |
 | 交易或使用月份 | 8/1/2019 –8/31/2019 | N/A | **使用方式報表**：顯示 (每四小時重新整理一次的新耗用量) <br>**訂單報表**： N/A |
 | 詞彙結束 (month)  | 8/31/2019 | N/A | **使用方式報告**：顯示的月份結束耗用量<br>**訂單報表**： N/A |
@@ -95,12 +86,12 @@ ms.locfileid: "91335667"
 
 Microsoft 會使用下列其中一種方法 recoup 任何已支付給您的支出： (1) Microsoft 可以從未來的支出減去未付款的金額;例如，如果支出中的 $1000 被視為 uncollectable 並寫出，您的未來支出將會在 $1000 復原之前被取消，或 (2) Microsoft 可能會要求退款或發票發行者提供任何未回收金額。
 
-下表顯示範例排程：
+以下是範例排程：
 
-| 事件 | 大約日期 | 合作夥伴可見度 |
+| Event - 事件 | 大約日期 | 合作夥伴可見度 |
 | --- | --- | --- |
 | 付款日期範例 | 10/15/2020 | 在付款儀表板中標示為在交易歷程記錄和付款區段中**傳送** |
-| 如果客戶未支付 Microsoft 費用 | 12/2/2020 –12/5/2020 | 沒有變更，與上述相同 |
+| <font color="red">如果客戶未支付 Microsoft 費用</font> | 12/2/2020 –12/5/2020 | 沒有變更，與上述相同 |
 | 客戶第一次收到付款電子郵件 | 12/6/2020 | 無 |
 | 客戶會收到不斷增加緊急的一般電子郵件 | 12/7/2020 –1/31/2021 | 無 |
 | 發行者可能會通知寫出 | 1/7/2021 | 傳送給發行者的電子郵件通知，其客戶尚未傳送款項。 包含交易識別碼和金額。 |
@@ -122,7 +113,8 @@ Microsoft 會使用下列其中一種方法 recoup 任何已支付給您的支�
 | PayPal             | 1 個工作天                             |
 | ACH/SEPA           | 2-3 個工作天                          |
 | 電匯      | 7-10 個工作天                         |
+|
 
-## <a name="next-step"></a>後續步驟
+## <a name="next-steps"></a>後續步驟
 
 - [稅賦詳細資訊](tax-details-marketplace.md)
