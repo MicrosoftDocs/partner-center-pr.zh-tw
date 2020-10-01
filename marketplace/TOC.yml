@@ -1,0 +1,5 @@
+- name: Microsoft 市集客戶文件
+  href: index.yml
+  items:
+    - name: 建立 Azure 私人市集
+      href: create-manage-private-azure-marketplace.md
