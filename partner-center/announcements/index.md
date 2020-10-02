@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 1d88ac82c905f5ecc1a7126988ecb4fdac599c3c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422324"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591088"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "91422324"
 
 | **類別** | **2020 年 9 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[合作夥伴中心軟體授權金鑰和下載履行通知](2020-september.md#17)|9 月 30 日|
+|功能|[雲端解決方案提供者 (CSP) 計畫演進和 Open License 程式變更：更好的合作夥伴和客戶體驗旅程](2020-september.md#16)|9 月 30 日|
 |功能|[Azure 方案合作夥伴之間新訂用帳戶轉換工具的可用性](2020-september.md#15)|9 月 28 日|
 |功能|[測試更新：教育版客戶驗證程序的合作夥伴中心 API 更新和使用者介面增強功能](2020-september.md#14)|9 月 28 日|
 |功能|[更新 - CSP O365 使用 API 和 CSP 授權使用方式報告](2020-september.md#13)|9 月 29 日|
