@@ -71,9 +71,7 @@
             - name: 資格要求
               href: software-assurance-dps-requirements.md
     - name: 發票和稅金
-      items:
-        - name: MPN 中的發票和稅金
-          href: mpn-view-print-maps-invoice.md
+      href: mpn-view-print-maps-invoice.md
     - name: 測試新功能
       href: test-drive-new-features.md
 - name: 雲端解決方案提供者 (CSP)
@@ -305,20 +303,8 @@
           href: mobile-operator-billing.md
         - name: 授權型 SaaS 訂用帳戶的案例
           href: common-billing-scenarios-saas.md
-    - name: Marketplace 帳單和支出案例
-      items:
-        - name: Marketplace 供應項目的計費
-          href: csp-commercial-marketplace-billing.md
-        - name: 付費 - Marketplace
-          href: marketplace-get-paid.md
-        - name: 支出原則詳細資料
-          href: payout-policy-details.md
-        - name: 付款閾值、方法和時間範圍
-          href: payment-thresholds-methods-timeframes.md
-        - name: 支出明細表
-          href: payout-statement.md
-        - name: Marketplace 支出常見問題
-          href: payout-faq.md
+    - name: Marketplace 供應項目的計費
+      href: csp-commercial-marketplace-billing.md
     - name: 檢視數位簽章 - 印度合作夥伴中心
       href: digital-signature.md
     - name: 稅金與免稅
@@ -342,10 +328,24 @@
           href: request-credit.md
     - name: 為客戶設定 Azure 消費預算
       href: set-an-azure-spending-budget-for-your-customers.md
+- name: 取得付款
+  items:
     - name: 管理未付款、詐騙或濫用
       href: non-payment-fraud-misuse.md
     - name: 管理未分配的付款
       href: unallocated-payment.md
+    - name: 商業 Marketplace 支出
+      items:
+        - name: 付費 - Marketplace
+          href: marketplace-get-paid.md
+        - name: 支出原則詳細資料
+          href: payout-policy-details.md
+        - name: 付款閾值、方法和時間範圍
+          href: payment-thresholds-methods-timeframes.md
+        - name: 支出明細表
+          href: payout-statement.md
+        - name: 支付常見問題
+          href: payout-faq.md
 - name: 與客戶保持聯繫
   href: customer-accounts.md
   items:
