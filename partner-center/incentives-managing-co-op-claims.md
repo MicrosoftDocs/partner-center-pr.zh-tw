@@ -7,13 +7,13 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 09/11/2020
-ms.openlocfilehash: 129c89a443b3de828ea8c22b4de82597aa8af831
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.date: 10/02/2020
+ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714422"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663869"
 ---
 # <a name="manage-incentives-co-op-claims"></a>管理獎勵共同作業宣告
 
@@ -65,14 +65,16 @@ ms.locfileid: "90714422"
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
 
-2. 在 [獎勵] 底下，選取 [合作索賠]。
+2. 在 [ **獎勵**] 下，選取 [ **計畫管理**]。
 
-3. 選取您想要提出爭議的合作索賠。 [共同作業索取] 頁面隨即開啟。
+3. 選取 [ **共同作業管理**]。
 
-4. 選取頁面底部的 [爭議]。
+4. 選取您想要提出爭議的合作索賠。 [共同作業索取] 頁面隨即開啟。
+
+5. 選取頁面底部的 [爭議]。
 
 合作索賠驗證小組會在五個工作天內審查索賠。 在這段期間，狀態將會顯示為 [有爭議]。 我們可能會連絡您以要求提供其他資訊。 審查完成時，驗證小組會將狀態更新為 [已核准]、[已拒絕]，或 [需要合作夥伴動作]。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [開始使用獎勵](incentives-get-started-intro.md)

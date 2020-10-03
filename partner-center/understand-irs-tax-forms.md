@@ -5,13 +5,13 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 09/24/2020
-ms.openlocfilehash: 9178cd8f3f516ca6ffacd481fb2721787dc581e2
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.date: 09/30/2020
+ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "91248906"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663909"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>了解 Microsoft 寄發的 IRS 稅單
 
@@ -63,14 +63,15 @@ ms.locfileid: "91248906"
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>適用於位於美國以外的開發人員
 
+
 | | |
 |---|---|
 | **我收到來自 Microsoft 的表單 1042-S。這是什麼？** | 因為美國稅務機關將 Microsoft 所支付給您的收益視為應申報且受扣繳稅款限制，所以我們將 1042-S 表單提供給您。  此項申報需求使用表單 1042-S。 | 
 | **我該如何處理這些表單？** | 一般而言，您無須進行任何特定動作。 若您想向當地稅務機關申請任何形式的扣抵稅額，表單 1042-S 可能就會派上用場。  請洽詢您自己的稅務顧問，以取得關於本主題的詳細資訊。 | 
-| **為何我完成 W8 表單時，款項有扣繳稅款？** | 下列任一情況即會產生扣繳稅款：<ol><li>您未正確完成 W8 的稅務協定一節，或是</li><li>您所居住的國家/地區與美國並無稅務協定。</li></ol><br/>您可以隨時造訪合作夥伴中心提交更新的 W8 表單。<br/><br/> **注意：** 並非所有收入都受限於稅金。 | 
+| **為何我完成 W8 表單時，款項有扣繳稅款？** | 下列任一情況即會產生扣繳稅款：<br/><br/>1. 您未正確完成 W8 的稅務條約區段，或 <br/>2. 您居住的國家/地區並無美國的稅務條約。<br/><br/>您可以隨時造訪合作夥伴中心提交更新的 W8 表單。<br/><br/> **注意：** 並非所有收入都受限於稅金。 | 
 | **我已使用有效的條約資訊提交更新後的 W8 表單。Microsoft 是否可退還已扣繳的稅額？** | 稅款一旦經扣繳，便無法退還。 請洽詢您的稅務 advisers，討論您是否可以索取這些稅金的當地點數，或您是否可以從 IRS 尋求退款。 | 
 | **表單 1042-S 申報了哪些銷售？** | 僅可申報與**美國買家進行且分類為受扣繳稅款限制**的銷售。  所有其他銷售皆視為不可申報。 | 
-| **為什麼我在一個信封中取得相同表單 1042-S 的三份副本？** | IRS 規定要求需提供三份該表單的複本：<ul><li>一份供收件者留作記錄</li><li>一份用來申請美國聯邦退稅 (如果適用)</li><li>一份用來申請美國州退稅 (如果適用)</li></ul> |
+| **為什麼我在一個信封中取得相同表單 1042-S 的三份副本？** | IRS 規定要求需提供三份該表單的複本：<br/><br/>-一個用於收件者的記錄<br/>-一個適用于美國聯邦稅務退貨的 (（如果適用）) <br/>-一個用於美國州的州稅退貨 (如果適用)  |
 
 > [!NOTE]
 > 如果您有其他與 **IRS 稅務表單**相關的問題或疑慮，請前往合作夥伴中心儀表板中的 [說明 [及支援](https://partner.microsoft.com/dashboard/support/) ]。 Microsoft 無法回答與您特定稅務狀況相關的問題；請向您的稅務專業人員洽詢建議。
