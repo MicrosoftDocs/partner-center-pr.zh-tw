@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/16/2020
-ms.openlocfilehash: a2703a89bd1fa1b29948b2e8c1edfed22dba8ac1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 09/30/2020
+ms.openlocfilehash: 304514ed4210e2567e080b78b1c1ce135177d874
+ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999462"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "91591118"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -23,6 +23,301 @@ ms.locfileid: "90999462"
 2020 公告：[2 月](2020-february.md) | [3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | 9 月
 
 ________________
+## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>合作夥伴中心軟體授權金鑰和下載履行通知
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-30
+- 功能
+ 
+### <a name="impacted-audience"></a>影響對象
+
+所以進行軟體供應項目交易的雲端解決方案合作夥伴 (CSP) 合作夥伴
+
+### <a name="details"></a>詳細資料
+
+現今合作夥伴可以使用合作夥伴中心或 Microsoft 365 系統管理中心，針對 CSP 軟體訂單進行軟體下載和授權金鑰履行。 從 **2021 年 1 月 19 日** 起，將會淘汰合作夥伴中心軟體和授權金鑰履行功能，而且合作夥伴將會基於此目的而使用 **Microsoft 365 系統管理中心**。 合作夥伴中心內的 [客戶軟體] 頁面將包含 Microsoft 365 系統管理中心的「深層連結」，您可在其中取得客戶授權和軟體下載。 這有助於確保客戶擁有最安全且有效率的體驗。
+
+軟體授權金鑰和下載連結是重要且廣受歡迎的智慧財產資產。 如果外洩，很快就會耗盡其啟用限制，並造成負面的客戶和合作夥伴體驗。 因此，合作夥伴務必使用最安全的技術和最佳做法，協助防護這些重要的資產並保護其客戶。
+
+**Microsoft 365 系統管理中心**
+
+Microsoft 365 系統管理中心增強了所購買軟體的安全傳遞，並可讓客戶管理其訂用帳戶並在方便的情況下自助服務，進而改善客戶體驗。 這會減少與直接複製和傳送授權金鑰相關聯的風險，如同使用合作夥伴中心的情況。 所有存取及傳遞軟體金鑰和下載的合作夥伴活動都會在合作夥伴中心活動記錄中進行追蹤，作為額外的安全性措施。 透過這項活動記錄功能，合作夥伴可以追蹤內部使用者存取，以建立訂單、取得金鑰和下載，並擁有更多控制權並減少潛在的詐騙風險。
+
+### <a name="next-steps"></a>後續步驟
+
+- 請檢閱[概觀](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般工作](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide)和[授權金鑰履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)，深入了解 Microsoft 365 系統管理中心軟體。
+
+- 請與組織中的相關團隊分享此更新。
+
+### <a name="questions"></a>有問題嗎？
+
+如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
+
+________________
+## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>雲端解決方案提供者 (CSP) 計畫演進和 Open License 計畫變更：更好的合作夥伴和客戶體驗旅程
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-30
+- 功能
+ 
+### <a name="impacted-audience"></a>影響對象
+
+雲端解決方案提供者和 Open 計畫中的所有合作夥伴
+
+### <a name="details"></a>詳細資料
+
+Microsoft CSP 計畫以指數方式成長，並有超過 90,000 家參與公司。 這是我們的主要合作夥伴銷售動作，適用於小型和中型企業，以及適用於新商務體驗中的小型企業客戶。 據此動力，我們現在宣佈在 CSP 計畫中為合作夥伴擴展機會。 詳細資料位於我們的[合作夥伴部落格文章](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)。
+
+### <a name="next-steps"></a>後續步驟
+
+- 請參閱[合作夥伴部落格文章](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)，並與您組織中的相關人員分享資訊。
+
+- 請參閱「作業整備度」資源集合 [CSP 計畫演進和 Open License 計畫變更](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)中的整備資料。 您會發現概觀簡報、授權指引、詳細的合作夥伴常見問題集，以及更多有用的資源。 使用此[整備地圖](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf)，快速找出適合您角色的資訊。
+
+### <a name="questions"></a>有問題嗎？
+
+如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
+
+
+________________
+## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Azure 方案合作夥伴之間新訂用帳戶轉換工具的可用性 
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-28
+- 功能
+
+### <a name="target-audience"></a>目標對象
+
+- CSP 直接帳單合作夥伴和間接提供者將可存取轉換工具。  
+- 經銷商可與其間接提供者合作。 在[這裡](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/)的資源內可取得提供者的詳細資訊。 
+
+### <a name="summary"></a>摘要
+
+從 2020 年 9 月 30 日開始，有一項新的轉換工具可在參與 CSP 計畫的合作夥伴之間自動移轉客戶的 Azure 訂用帳戶，以獲得適用於 Azure 的新商務體驗 (Azure 方案)。
+
+隨著 Azure 的新商務經驗擴大，轉換工具可增強管理 Azure 訂用帳戶的彈性，並利用下列優勢來支援客戶不斷演進的商務需求：  
+- 透過簡單易用的工具來節省時間，以將 Azure 轉換自動化  
+- 在帳單擁有權轉換期間不會中斷 Azure 服務 
+
+### <a name="key-capabilities-and-considerations"></a>主要功能和考慮
+
+- 轉換是由客戶決策驅動，只有在兩個合作夥伴都採取明確的動作時才會發生。  
+-   轉換是立即的，不會有客戶停機以及對 Azure 服務造成影響。 
+-   合作夥伴中心的這項工具體驗將可供直接帳單合作夥伴和間接提供者使用。 轉銷商必須與間接提供者合作來代表他們運用此工具。 
+
+### <a name="next-steps"></a>後續步驟： 
+
+-   請檢閱[此合作夥伴資源庫頁面](https://partner.microsoft.com/resources/collection/transition-tool-azure-subscriptions-new-commerce-experience-csp#/)上的資源。 
+-   訓練您的團隊並開始準備新的轉換工具。 
+-   如果您是間接提供者，請引導轉銷商進行轉換程序。 
+-   如有任何其他問題，請連絡支援人員。 
+
+________________
+## <a name="testing-update-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="14"></a>測試更新：教育版客戶驗證程序的合作夥伴中心 API 更新和使用者介面增強功能 
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-28
+- 功能
+ 
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 計畫銷售學術供應項目的合作夥伴
+
+## <a name="details"></a>詳細資料
+
+Microsoft 的營運以信任為原則。 我們承諾針對在 CSP 計畫中從事學術供應項目交易時所需的客戶驗證，提供符合規範且安全的方法，是我們一貫努力的目標。 作為這項承諾的一部分，我們將在會計年度 2021 的第二季 (FY21 Q2) 引進合作夥伴中心 API 和使用者介面增強功能，讓客戶驗證程序更加清楚明瞭且具有可見度。 這些增強功能也能讓您輸入更精確的資料，進而提升客戶驗證成功的機會。  
+
+### <a name="partner-center-enhancements"></a>合作夥伴中心的增強功能 
+
+- 新的 GET 和 POST 資格 API 會支援精確的資料輸入，並改善 Microsoft 的教育客戶驗證程序。 
+
+- 使用者介面增強功能也會支援精確的資料輸入，並改善 Microsoft 的教育客戶驗證程序。 
+
+### <a name="testing"></a>測試 
+
+從 2020 年 10 月開始，合作夥伴將有機會測試這些增強功能。 強烈建議您利用這個機會，進一步了解成功的客戶驗證所需的 API 和資料輸入。 我們將在近期提供關於確切時間和如何參與的詳細資料。 現有的合作夥伴中心 API 將在 FY21 Q2 結束前淘汰。 在這段時間，您必須轉換為使用新的合作夥伴中心 API。
+
+### <a name="testing-update"></a>測試更新 
+
+合作夥伴測試日期是從 2020 年 10 月 2 日到 2020 年 12 月 2 日。 想要參與的合作夥伴應檢閱[合作夥伴中心教育客戶測試指南](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf)，以了解整備方式、註冊方式，以及測試階段中預期的情況。
+
+### <a name="library-and-museum-customers"></a>圖書館和博物館客戶 
+
+除了上述增強功能以外，我們也迫不及待地宣佈，在 FY21 Q2，我們將為圖書館和博物館客戶啟用學術定價供應項目，以擴展您可以銷售 CSP 供應項目的教育客戶。 
+
+>[!Note]
+> Microsoft 保留對任何客戶或建議客戶審查其教育使用者資格的權利。 如需完整詳細資料，請參閱[學術合格教育使用者需求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。 
+
+## <a name="next-steps"></a>後續步驟
+
+- 請檢閱「作業整備度」資源中的合作夥伴中心教育客戶驗證程序增強功能，以了解新的[合作夥伴中心使用者介面、API 變更和測試指南](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)。 
+
+- 註冊參與測試 (如需詳細資訊，請參閱[測試指南](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/))。 
+
+- 請確定您的組織已熟悉[學術合格教育使用者需求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。 
+
+- 請與組織中的適當小組以及轉銷商分享這項資訊，協助他們為這些變更做好準備。 
+
+## <a name="questions"></a>有問題嗎？
+
+如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
+
+## <a name="update---csp-o365-usage-apis-and-csp-license-usage-reports"></a><a name="13"></a>更新 - CSP O365 使用 API 和 CSP 授權使用方式報告 
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-29
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+透過合作夥伴中心上的雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴。 
+
+### <a name="summary"></a>總結 
+
+將會對 CSP O365 使用量 API 中公開的計量定義進行更新，以協助合作夥伴測量其 O365 使用量。 
+
+### <a name="details"></a>詳細資料
+
+這是在 2020 年 9 月 17 日發表的[合作夥伴中心公告](https://docs.microsoft.com/partner-center/announcements/2020-september#8)更新。 我們正在進行更新，以確保 API 更新可與舊版相容，進而確保您不需要進行任何整合變更。 
+
+如稍早公告，從 2020 年 9 月 30 日起生效，CSP O365 使用量計量會經歷更新。 
+
+隨著這項變更，將會更新透過下列 CSP 授權使用量 API 提供的計量定義： 
+
+1. [授權使用量資訊 API](https://docs.microsoft.com/partner-center/develop/get-licenses-usage-information).
+
+2. [客戶授權使用量資訊 API](https://docs.microsoft.com/partner-center/develop/get-customer-licenses-usage-information).
+
+3.  [合作夥伴授權使用量資訊 API](https://docs.microsoft.com/partner-center/develop/get-partner-licenses-usage-information).
+
+更新的定義如下所列。 因為 API 結構描述沒有任何變更，所以不需要進行任何新的整合。 
+
+| **計量** | **更新的定義** |
+|---------|:---------|
+|licensesActive |過去 28 天內使用的授權數目 |
+|licensesQualified |產品 SKU 可用的試用版和非試用版授權數目 |
+|UsagePercent |以合格授權的百分比表示的有效授權 |
+|ProratedLicenseUsagePercent|以針對合作夥伴彙總的合格授權百分比表示的有效授權。  |
+
+### <a name="next-steps"></a>後續步驟：
+
+與您組織中的其他人共用這項資訊。
+________________
+
+## <a name="upcoming-russian-federal-law-vat-changes"></a><a name="12"></a>俄羅斯聯邦法律加值稅即將變更
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-25
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+俄文大量授權 (VL)、Microsoft 商務解決方案 (MB) 和雲端解決方案提供者 (CSP) 通道合作夥伴
+
+### <a name="summary"></a>摘要 
+
+俄羅斯聯邦法律 #265-FZ 所引進的加值稅變更將於 2021 年 1 月 1 日生效。
+
+### <a name="details"></a>詳細資料
+
+日期為 2020 年 7 月 31 日的俄羅斯聯邦法律 #265-FZ 修改了俄文稅賦代碼的第 149 條款第 2 節的第 26 小節。 依據變更，俄羅斯自 2021 年 1 月 1 日起，針對**不包含**於**俄文**軟體和電子資料庫的軟體和資料庫授與獨家 IP 權利，以及針對這類軟體和資料庫授與使用權利 (包括更新和升級)，以及透過網際網路授與其遠端存取權，**將不再是免加值稅**。 
+
+**請注意，在上述變更之後，MIOL 會將採用適用法規所定義費率的加值稅新增至俄羅斯的所有非有形 Microsoft 產品。**
+
+如需此變更的任何相關查詢，請提交支援要求，如下所示：
+
+- 大量授權：如有任何疑問，請使用[通話記錄工具 (CLT)](https://clt.partners.extranet.microsoft.com/CLT) 或透過 Explore.ms 連絡您的當地營運中心。 請仔細遵循標準 CLT 程序，以便我們儘快解決您的查詢。
+- MB/Dynamics：合作夥伴應透過 [PartnerSource Business Center 的 OCL 工具](https://businesscenter.mbs.microsoft.com/)來記錄要求。 
+- CSP：合作夥伴應[記錄支援要求](https://partnercenter.microsoft.com/partner/support)
+
+### <a name="next-steps"></a>後續步驟：
+
+以您認為適當的方式，在整個組織中共用此資訊。 Microsoft 無法為您提供稅賦事務的建議。 您應洽詢自己的稅務顧問，了解此變更對您企業的影響。 
+________________
+
+## <a name="partner-center-insights--your-single-reporting-resource-for-understanding-your-business-with-microsoft"></a><a name="10"></a>合作夥伴中心深入解析 – 單一報告資源可協助您了解與 Microsoft 的業務。
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-23
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+Microsoft 合作夥伴網路中的所有合作夥伴組織。 
+
+### <a name="summary"></a>摘要 
+
+合作夥伴中心深入解析即將取代淘汰的 **MyInsights** 報告工具。 合作夥伴中心深入解析會提供更豐富的視覺效果、更具洞察力的報告功能，以及涵蓋客戶、訂用帳戶、授權使用量、轉售商績效、訓練、專長認證和權益的 KPI。 使用這些 Intelligent Insights 來清楚了解您與 Microsoft 的業務往來，並放心根據資料制定決策。 若要開始使用，請從合作夥伴中心的左側導覽功能表中，選取 [深入解析]。
+
+在 2020 年 9 月 30 日之後，不再提供 **MyInsights**。 
+
+### <a name="what-is-insights"></a>什麼是深入解析？
+
+合作夥伴中心的 [深入解析] 儀表板可以橫跨雲端產品 (例如 Office 365、Azure、Dynamics 365) 以及授權模型 (例如雲端解決方案提供者 (CSP) 和 Enterprise 合約 (EA))，為您提供合作夥伴組織的關鍵效能指標 (KPI) 統一而全面的觀點。 系統會持續增加新功能，且所有報告都支援[未經處理資料匯出](https://docs.microsoft.com/partner-center/pci-download-reports)，讓您根據您的商務需求進行特殊資料分析。 [高階報告檢視器和報告檢視器](https://docs.microsoft.com/partner-center/pci-roles)這兩個合作夥伴中心報告角色，可讓您更妥善管理組織內深入解析的存取和使用方式。
+
+最近新增的報告：
+
+- [轉銷商績效報告和資料匯出](https://docs.microsoft.com/partner-center/pci-resellers-performance)：針對其各種間接轉銷商的績效，提供 CSP 間接提供者概觀。
+
+- [客戶機會報告和資料匯出](https://docs.microsoft.com/partner-center/pci-customer-opportunities)：提供客戶購買 Microsoft 產品的傾向概觀。
+
+如需深入解析中可用的完整報告清單，請參閱[這裡](https://docs.microsoft.com/partner-center/partner-center-insights)。
+
+### <a name="next-steps"></a>後續步驟：
+
+- 請經常查看[合作夥伴中心深入解析頁面](https://docs.microsoft.com/partner-center/partner-center-insights)，以了解如何報告更新和增強功能。
+
+- 我們建議您使用 [深入解析] 索引標籤中所提供的內嵌意見反應工具，探索這些新功能並分享您的意見。
+
+________________
+
+## <a name="sdk-release-on-net-standard-v1162"></a><a name="11"></a>.NET Standard (v1.16.2) 上的 SDK 版本
+
+### <a name="categories"></a>類別
+
+- 日期：2020-09-22
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+使用合作夥伴中心 .NET SDK 且參與 CSP 計畫的 Direct Bill 合作夥伴和 Indirect Provider。
+
+### <a name="summary"></a>摘要
+
+自 2020 年 9 月 22 日起，合作夥伴可以開始下載 .NET Standard SDK Microsoft 合作夥伴中心 .NET SDK v1.16.2，以及更新的公用**合作夥伴中心 SDK GitHub 範例**。
+
+### <a name="details"></a>詳細資料
+
+詳細資料 [Microsoft 合作夥伴中心 .NET SDK](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2) v 1.16.2 的現已正式發行。 同時也提供已更新的 [GitHub 範例](https://github.com/Microsoft/Partner-Center-DotNet-Samples)。 下列變更包含在此版本中：
+
+- 為稽核記錄更新支援的作業類型。 新增的資源會列在於[稽核資源](/partner-center/develop/auditing-resources)
+  - CreateSelfServePolicy
+  - UpdateSelfServePolicy
+  - DeleteSelfServePolicy
+  - RemovePartnerRelationship
+  - DeleteTipCustomer
+  - CreateRelatedReferral
+  - UpdateRelatedReferral
+
+- 服務要求建立功能現在已被取代
+- 現在已淘汰支援主題
+
+### <a name="next-steps"></a>後續步驟
+
+- 下載最新版本的 [.NET SDK v1.16.2](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2)
+- 版本：.NET SDK v1.16.2
+- 範例程式碼：[範例程式碼](https://github.com/microsoft/Partner-Center-DotNet-Samples)
+- GA：9/22/2020
+
+________________
+
 
 ## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>宣告正式推出 Azure SQL Edge
 
@@ -93,7 +388,7 @@ ________________
 與您組織中的其他人共用這項資訊。 如需詳細資訊，請參閱[作業資源庫](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/)。
 ________________
 
-## <a name="indirect-reseller-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>間接轉銷商 MPA 更新。 使用 MPA API 和新 MPA 報告的使用者所需採取的動作
+## <a name="indirect-reseller-microsoft-partner-agreement-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>間接轉銷商 Microsoft 合作夥伴合約 (MPA) 更新。 使用 MPA API 和新 MPA 報告的使用者所需採取的動作
 
 ### <a name="categories"></a>類別
 

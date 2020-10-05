@@ -9,22 +9,26 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5695a5478f1fdb9d16c395bb3ea87240fc2cf6f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
+ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999802"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "91406361"
 ---
 # <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
+
+**適用於**
+
+- 合作夥伴中心
 
 **適當的使用者**
 
 - 所有已啟用的使用者，包括來賓使用者
 
-此文章包含[合作夥伴安全性需求](partner-security-requirements.md)的常見問題集。
-
 ## <a name="partner-security-requirements"></a>合作夥伴安全性需求
+
+此文章包含[合作夥伴安全性需求](partner-security-requirements.md)的常見問題集。
 
 ### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>合作夥伴有何安全性需求，及其為何應實作這些需求？
 
@@ -32,7 +36,7 @@ ms.locfileid: "90999802"
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>有哪些關鍵時程表和里程碑？
 
-與這些安全性需求相關聯的條款會隨附至 2019 年的 Microsoft 合作夥伴合約。 您必須盡快實作這些安全性需求，才能符合參與 CSP 計畫的規範。
+與這些安全性需求相關聯的條款 (包括時間軸和里程碑) 會隨附至 2019 年的 [Microsoft 合作夥伴合約](microsoft-partner-agreement.md)。 您必須盡快實作這些安全性需求，才能符合參與 CSP 計畫的規範。
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>如果未實作這些合作夥伴安全性需求，會發生什麼情況？
 
@@ -50,9 +54,9 @@ Microsoft 合作夥伴合約會要求您對使用者帳戶強制執行多重要�
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>如何知道我是否符合合作夥伴的安全性需求？
 
-您必須完成下列步驟
+您需要完成下列步驟：
 
-- 您必須符合[合作夥伴安全性需求](partner-security-requirements.md)中所述的所有需求
+- 您必須符合[合作夥伴安全性需求](partner-security-requirements.md)中所述的所有需求。
 - 您必須確保合作夥伴租用戶中的所有使用者帳戶都已強制執行多重要素驗證。
 
 為了協助識別您可採取動作的主要區域，我們會提供可透過合作夥伴中心取得的[安全性需求狀態](https://partner.microsoft.com/commerce/security/compliance)報告。
@@ -99,7 +103,7 @@ MFA 是一種安全性機制，可以透過一個以上的必要安全性和驗�
 
 - 您知道的資訊 (通常是密碼)
 - 您擁有的事物 (不易複製的受信任裝置，例如電話)
-- 代表您身分的事物 (生物識別技術)
+- 您身上的某些特徵 (生物識別技術)
 
 ### <a name="what-is-the-cost-of-enabling-mfa"></a>啟用 MFA 的成本為何？
 
@@ -114,7 +118,7 @@ Microsoft 透過實作 Azure AD 安全性預設值免費提供 MFA。 透過此 
 
 ### <a name="i-use-multiple-partner-tenants-to-transact-do-i-need-to-implement-mfa-on-them-all"></a>我使用多個合作夥伴租用戶來進行交易。 我是否需要對它們全部實作 MFA？
 
-是。您必須針對與雲端解決方案提供者計畫或顧問計畫相關聯的每個 Azure Active Directory 租用戶強制執行 MFA。 若要購買 Azure Active Directory Premium 授權，則必須為每個 Azure Active Directory 租用戶中的使用者購買授權。
+是。您必須針對與雲端解決方案提供者計畫或顧問計畫相關聯的每個 Azure Active Directory 租用戶強制執行 MFA。 若要購買 Azure Active Directory Premium 授權，您必須為每個 Azure Active Directory 租用戶中的使用者購買 Azure Active Directory 授權。 
 
 ### <a name="does-each-user-account-in-my-partner-tenant-need-to-have-mfa-enforced"></a>我合作夥伴租用戶中的每個使用者帳戶是否都必須強制執行 MFA？
 
@@ -225,7 +229,7 @@ Microsoft 正在引進一個能運用 Multi-Factor Authentication 的安全可�
 
 ### <a name="why-should-the-application-administrator-not-provide-global-admin-user-credentials-when-performing-the-consent-process"></a>應用程式系統管理員在執行同意程序時，為何不應該提供全域系統管理使用者認證？
 
-使用最低權限的身分識別是最佳做法，因為那可降低風險。 不建議使用具有全域系統管理權限之帳戶的原因，是因為那會提供比起所需範圍還要多的權限。
+最佳做法是使用最低權限的身分識別。  這會降低風險。 不建議使用具有全域系統管理權限之帳戶的原因，是因為那會提供比起所需範圍還要多的權限。
 
 ### <a name="i-am-a-csp-partner-how-do-i-know-if-my-control-panel-vendor-cpv-is-working-on-implementing-the-solution-or-not"></a>我是雲端解決方案提供者合作夥伴。 我要如何知道自己的控制台廠商 (CPV) 是否正在實作該解決方案？
 
@@ -296,7 +300,7 @@ CPV 必須在與其註冊為 CPV 時所關聯的租用戶中建立 Azure Active 
 
 ### <a name="mfa-is-blocking-me-from-supporting-my-customer-using-aobo-what-should-i-do"></a>MFA 阻止我使用 AOBO 來支援我的客戶，我該怎麼做？
 
-合作夥伴安全性需求的技術強制會檢查已驗證的帳戶是否已挑戰多重要素驗證。 如果帳戶尚未進行，則系統會將您重新導向至登入頁面，然後再次提示您進行驗證。 如需更詳細的體驗與指導方針，請參閱這份[對您的合作夥伴租用戶強制使用多重要素驗證 (MFA)](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) 文件。 如果您的網域未加入同盟，則在成功驗證之後，系統會提示您設定多重要素驗證。 完成後，您就可以使用 AOBO 來管理您的客戶。 如果您的網域已加入同盟，則您必須確保帳戶會受到多重要素驗證的挑戰。
+如果已驗證的帳戶已接受多重要素驗證的挑戰，則會檢查合作夥伴安全性需求的技術強制。 如果帳戶尚未進行，則系統會將您重新導向至登入頁面，然後再次提示您進行驗證。 請參閱這份[對您的合作夥伴租用戶強制使用多重要素驗證 (MFA)](partner-security-requirements-mandating-mfa.md#partner-delegated-administration) 文件中的額外體驗和指引。 如果您的網域未加入同盟，則在成功驗證之後，系統會提示您設定多重要素驗證。 完成後，您就可以使用 AOBO 來管理您的客戶。 如果您的網域已加入同盟，則您必須確保帳戶會受到多重要素驗證的挑戰。
 
 ## <a name="security-defaults-transition"></a>安全性預設值轉換
 
@@ -341,9 +345,11 @@ Azure Active Directory (Azure AD) [「基準」原則將會遭到移除，並取
 
 您可透過 MPN 權益使用適用於 Azure Active Directory 的技術產品支援選項。 能存取有效 ASfP 或 PSfP 訂用帳戶的合作夥伴可以與其相關聯的帳戶經理 (SAM/TAM) 合作，以了解最適合他們的選項。
 
-### <a name="how-do-i-contact-support-when-ive-lost-access-to-partner-center"></a>當我失去合作夥伴中心的存取權時，如何聯絡支援人員？
+### <a name="how-do-i-contact-support-if-ive-lost-access-to-partner-center"></a>如果失去合作夥伴中心的存取權時，如何連絡支援人員？
 
-前往 [Microsoft 合作夥伴支援](https://partner.microsoft.com/support)，然後選擇 [顯示所有支援選項]。 您會看到聯繫 Microsoft 合作夥伴支援的可用選項，包括與支援服務人員通話的電話號碼，以及與支援人員交談的選項。
+如果您因為 MFA 問題而失去存取權，請連絡您租用戶的全域管理員。 您的內部 IT 部門將能夠告知您的全域管理員是誰。 
+
+如果您忘記密碼，請閱讀[無法登入](unable-to-sign-in.md)以取得協助。
 
 ### <a name="where-can-i-find-more-information-about-common-technical-issues"></a>我可以在哪裡找到常見技術性問題的詳細資訊？
 

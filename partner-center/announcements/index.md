@@ -9,19 +9,23 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: bbd614642544bfa9c389e596f06c805b8649f4ab
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 8af2a7127dd146a931ce127435413297559952b4
+ms.sourcegitcommit: 70eb4508cb0c799506e463c47cee5d98ef2f1fe7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591088"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "91625141"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
 了解重要的合作夥伴中心更新。 此項訊息更新頻繁，因此請務必定期回來查看！
 
-| **類別** | **2020 年 9 月公告** | **公告** |
+| **類別** | **2020 年 10 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[Windows 7 Year 2 擴充安全性更新 (ESU) 現已在雲端解決方案提供者 (CSP) 合作夥伴中推出](2020-october.md#3)|10 月 1 日|
+|供應項目/市場|[Office 365 通話方案現已在新市場中推出](2020-october.md#2)|10 月 1 日|
+|功能|[會計年度 2021 (FY21) 雲端解決方案提供者 (CSP) 獎勵計畫公告](2020-october.md#1)|10 月 1 日|
+| **類別** | **2020 年 9 月公告** | **日期** |
 |功能|[合作夥伴中心軟體授權金鑰和下載履行通知](2020-september.md#17)|9 月 30 日|
 |功能|[雲端解決方案提供者 (CSP) 計畫演進和 Open License 程式變更：更好的合作夥伴和客戶體驗旅程](2020-september.md#16)|9 月 30 日|
 |功能|[Azure 方案合作夥伴之間新訂用帳戶轉換工具的可用性](2020-september.md#15)|9 月 28 日|
