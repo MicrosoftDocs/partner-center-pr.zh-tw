@@ -9,13 +9,13 @@ author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.date: 06/30/2020
-ms.openlocfilehash: 26884be7c4bfa7a7f0b3d9f8ae60016f8e843db0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 10/05/2020
+ms.openlocfilehash: 8fb6d3ec54b2cbcbc23a09cf122da0129afb7fbb
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999912"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763358"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>註冊美國政府適用的 Microsoft Cloud 雲端解決方案提供者計畫
 
@@ -65,7 +65,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 1. 使用申請核准電子郵件中所提供的連結，登入美國政府適用的 Microsoft Cloud 合作夥伴中心。
 
-2. 在 **\[合約\]** 頁面上閱讀條款，同意後選取 **\[接受並繼續\]**，以數位方式簽署[美國政府適用的 Microsoft Cloud 經銷商合約](https://go.microsoft.com/fwlink/p/?linkid=843364)。 建立帳戶可能需要數小時的時間。 登出美國政府適用的 Microsoft Cloud 雲端合作夥伴中心，稍後再登入。
+2. 在 [ **協定** ] 頁面上，閱讀條款，如果您同意，請選取 [ **接受並繼續** ] 以數位方式簽署 Microsoft Cloud for US Government 的轉銷商合約。 建立帳戶可能需要數小時的時間。 您可以登出 Microsoft Cloud for US Government 的合作夥伴中心，稍後再重新登入。
 
 ### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>步驟 4 - 在 Microsoft Azure 管理入口網站中，為美國政府適用的 Microsoft Cloud 指派使用者為系統管理代理人角色
 
@@ -84,7 +84,7 @@ Microsoft 合作夥伴現在可以透過美國政府適用的 Microsoft Cloud �
 
 - 在 [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) 上加入我們。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [Microsoft Cloud for US Government 適用的合作夥伴中心](partner-center-for-microsoft-us-govt-cloud.md)
 
