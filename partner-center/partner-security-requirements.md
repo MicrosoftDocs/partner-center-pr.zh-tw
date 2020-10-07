@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴安全性需求
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 介紹啟用多重要素驗證 (MFA) 的合作夥伴需求，並採用安全應用程式模型架構。
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 507c1e579c649ed743af58e2ca167ae016f6e9b6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000022"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763342"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>使用合作夥伴中心或合作夥伴中心 API 的合作夥伴的合作夥伴安全性需求
 
@@ -100,7 +100,7 @@ ms.locfileid: "91000022"
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>您是否有使用者使用與合作夥伴租用戶使用者相關聯的授權所提供的 Office 365？
 
-在實作任何解決方案之前，建議您先判斷合作夥伴租用戶中的使用者所使用的 Microsoft Office 版本為何。 在採取任何動作之前，先複查[規劃 Office 365 部署的多重要素驗證](/office365/admin/security-and-compliance/multi-factor-authentication-plan#enable-mfa)。 您的使用者可能會遇到 Outlook 之類應用程式的連線問題。 強制執行多重要素驗證之前，請務必確定正在使用 Outlook 2013 SP1 或更新版本，且您的組織已啟用新式驗證。 如需詳細資訊，請參閱[在 Exchange Online 中啟用新式驗證](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
+在實作任何解決方案之前，建議您先判斷合作夥伴租用戶中的使用者所使用的 Microsoft Office 版本為何。 您的使用者可能會遇到 Outlook 之類應用程式的連線問題。 強制執行多重要素驗證之前，請務必確定正在使用 Outlook 2013 SP1 或更新版本，且您的組織已啟用新式驗證。 如需詳細資訊，請參閱[在 Exchange Online 中啟用新式驗證](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
 
 若要為執行 Windows 且已安裝 Microsoft Office 2013 的任何裝置啟用新式驗證，您將需要建立兩個登錄機碼。 請參閱[為 Windows 裝置上的 Office 2013 啟用新式驗證](/office365/admin/security-and-compliance/enable-modern-authentication)。
 
