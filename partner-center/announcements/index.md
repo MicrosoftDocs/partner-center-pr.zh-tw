@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 2055658d57d077c22e46c36241e4aa46db36af5a
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 93b312341457038b1399dc77a343a6b323dd75bd
+ms.sourcegitcommit: f3a21becbb4148bc871e30ef2a12309863705017
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663809"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91772244"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,10 @@ ms.locfileid: "91663809"
 
 | **類別** | **2020 年 10 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[Microsoft Teams 聊天室進階 SKU 啟動](2020-october.md#7)|10 月 5 日|
+|供應項目/市場|[Microsoft 通話方案現已在新市場中推出](2020-october.md#6)|10 月 2 日|
+|供應項目/市場|[Microsoft Teams 進階通訊的促銷即將推出](2020-october.md#5)|10 月 2 日|
+|供應項目/市場|[Dynamics 365 的新供應項目和產品即將推出](2020-october.md#4)|10 月 2 日|
 |供應項目/市場|[Windows 7 Year 2 擴充安全性更新 (ESU) 現已在雲端解決方案提供者 (CSP) 合作夥伴中推出](2020-october.md#3)|10 月 1 日|
 |供應項目/市場|[新的 SKU 將 Project Cortex 等技術的威力帶給客戶](2020-october.md#2)|10 月 1 日|
 |功能|[會計年度 2021 (FY21) 雲端解決方案提供者 (CSP) 獎勵計畫公告](2020-october.md#1)|10 月 1 日|
