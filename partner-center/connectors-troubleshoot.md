@@ -8,12 +8,12 @@ description: 有關如何針對共同銷售連接器進行疑難排解的常見�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: d34a13a6789f3bd712d2cec3a594b8e407f7449d
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 312ff9155ab4c2d84fb38bb6ccd093505e628832
+ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422334"
+ms.lasthandoff: 10/08/2020
+ms.locfileid: "91844652"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>對共同銷售推薦連接器進行疑難排解
 
@@ -46,7 +46,7 @@ ms.locfileid: "91422334"
 
 •確定您的貨幣適用于您的位置，並且正確地放在您的 CRM 環境中。 •您的銷售小組應以 crm 使用者的形式列在您的 CRM 環境中。
 
-5.  Power Automate 環境建立需要哪些必要條件？
+5. Power Automate 環境建立需要哪些必要條件？
 
 若要使用 Power Automate 環境，您需要：
 
@@ -55,7 +55,7 @@ ms.locfileid: "91422334"
 
 6.  您需要 Dynamics 365 訂用帳戶才能使用 Salesforce 連接器解決方案嗎？
 
-Salesforce 連接器解決方案的類型為「Dynamics Flow」，可支援與其他 CRM 系統進行同步處理。 解決方案不需要您擁有 Dynamics 365 實例或訂用帳戶。 安裝 Salesforce 解決方案時，可能會出現您公司中現有 CD 環境的下拉式清單。 您必須選取該環境。 此外，如果您收到錯誤，表示找不到連線到已登入使用者的 Dynamics 365 組織，則您必須為連接器建立新的環境。
+Salesforce 連接器解決方案的類型為「Dynamics Flow」，可支援與其他 CRM 系統進行同步處理。 解決方案不需要您擁有 Dynamics 365 實例或訂用帳戶。 安裝 Salesforce 解決方案時，可能會出現您公司中現有 CD 環境的下拉式清單。 您必須選取該環境。 此外，如果您收到錯誤「找不到連線至登入使用者的 Dynamics 365 組織」，則您將需要為連接器建立新的環境。
 
 ## <a name="questions-and-answers-about-configuration"></a>關於設定的問題和解答
 
@@ -69,18 +69,18 @@ Salesforce 連接器解決方案的類型為「Dynamics Flow」，可支援與�
 - 關閉和開啟子流程 
 - 刪除解決方案，然後重新安裝解決方案。 
 
-2.  如果您在 Power Automate 平臺中新增合作夥伴中心連接器時遇到下列錯誤，該怎麼辦？
+2.  如果您在 Power Automate 平臺中新增合作夥伴中心連接器時遇到「登入」錯誤，該怎麼辦？
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="要求登入的錯誤訊息":::
 
 遵循下列疑難排解步驟：
 
-- 使用合作夥伴中心登入 (flow.microsoft.com) 登入流程環境。
+- 使用合作夥伴中心認證登入流程環境， (flow.microsoft.com) 。
 
 
 3. 如果您在 Power Automate 平臺中啟用 CRM 流程的合作夥伴中心時收到下列錯誤，該怎麼辦？
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="需要更新的錯誤訊息":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="要求登入的錯誤訊息":::
 
 遵循下列疑難排解步驟：
 
@@ -90,21 +90,21 @@ Salesforce 連接器解決方案的類型為「Dynamics Flow」，可支援與�
 
 4. 當您嘗試編輯流程時，當您無法將連接新增至流程時，該怎麼辦？
 
-當流程正在執行時，您會在流程中加入流程的連接，而且您會分別新增至每個流程。  如果在編輯流程時，新增連接的對話方塊未自動開啟，則您可以編輯流程的每個步驟和子步驟，以新增連接。
+當流程正在執行時，您會新增流程的連接，而且您會個別新增至每個流程。  如果在編輯流程時，加入連接的對話方塊未自動開啟，則您可以個別編輯流程的每個步驟和子步驟。
 
 - 選取每個流程，並個別加以編輯。
 - 展開流程中的所有步驟 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="需要連接的步驟":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="要求登入的錯誤訊息":::
 
 - 選取您會在其中看到警告圖示的步驟，要求關聯連接，以及新增連接。 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="逐步編輯流程":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="要求登入的錯誤訊息":::
 
 
-5. 如果共同銷售推薦連接器解決方案的流程未啟用 (開啟) ，您該怎麼做？
+5. 如果共同銷售推薦連接器解決方案的流程未開啟，您該怎麼做？
 
-A. 在 Power Automate 中，您將需要依下列順序編輯流程，並將其更新為使用個別的連接：
+A. 在 Power Automate 中，您必須以下列順序編輯流程，並將其更新為使用正確的連接：
 
 - 合作夥伴中心 Webhook 註冊 (Insider Preview) 
 - 建立共同銷售參考-Salesforce 至合作夥伴中心 (Insider Preview) 
@@ -116,7 +116,7 @@ A. 在 Power Automate 中，您將需要依下列順序編輯流程，並將其�
 
  B. 針對每個流程，選取 [ **僅執行使用者** ] 選項。 選取 [ **使用連接** ，而不是 **由僅限執行的使用者提供**]。  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="啟用流程":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="要求登入的錯誤訊息":::
 
 
 C. 在下列提及的流程中啟用下列各項：
@@ -140,7 +140,7 @@ E. 在 [flow] 合作夥伴中心 Webhook 註冊中，選取 [ **執行**]。 從
  
 若要判斷參照同步處理的狀態，請選取 [ **Audit**]。 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="如何同步處理參考":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="要求登入的錯誤訊息":::
 
 請確定符合下列條件：
 
@@ -150,17 +150,17 @@ E. 在 [flow] 合作夥伴中心 Webhook 註冊中，選取 [ **執行**]。 從
 
 - 當您為商機選取 Microsoft 的協助時，需要客戶連絡人資訊。
 
-3. 在哪些條件下，參考不會雙向同步處理
+3. 如何確保參考會雙向同步處理？
 
-確認下列事項：
+請執行下列步驟：
 
 - 合作夥伴銷售人員必須確保他們已啟用與 CRM 區段中合作夥伴中心選項的 **同步** 。
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="確定您已啟用同步處理":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="要求登入的錯誤訊息":::
 
 - 銷售人員必須在符合潛在客戶時提供收入和結束日期。
 
-- 如果在建立或更新共同銷售商機中提供 CRM 識別碼，而且在 CRM 中找不到具有該識別碼的潛在客戶/商機，則會忽略該商機的 update 或 create。
+- 如果在共同銷售商機的 [ **建立** ] 或 [ **更新** ] 階段中提供 CRM 識別碼，但在 crm 中找不到具有該識別碼的潛在客戶機會，則會忽略 [更新] 或 [建立]。
 
 - 確定已在 Salesforce 環境上設定參考貨幣欄位。 
 
