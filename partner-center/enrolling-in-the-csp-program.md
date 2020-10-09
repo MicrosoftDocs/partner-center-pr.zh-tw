@@ -1,7 +1,7 @@
 ---
 title: 註冊雲端解決方案提供者計畫
 ms.topic: how-to
-ms.date: 05/18/2020
+ms.date: 10/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何註冊最適合您業務的雲端解決方案提供者 (CSP) 計畫銷售模型 – 例如間接轉銷商或直接計費合作夥伴。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 86fde264fe54b2ac6e72b1f630183c7dbdc7991b
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
+ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545819"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "91763340"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>註冊雲端解決方案提供者計畫，並打造可獲利的雲端解決方案業務
 
@@ -30,7 +30,7 @@ ms.locfileid: "87545819"
 
 雲端式解決方案與服務的快速成長需求，為所有大小的 Microsoft 合作夥伴提供許多機會來建立可獲利的雲端解決方案業務。 準備好要進入市場，但不願管理多個廠商，或是端對端客戶關係管理基礎結構可能尚不到位的合作夥伴，可以間接經銷商的身分來參加 Microsoft 的雲端解決方案提供者 (CSP) 計畫成為間接經銷商。
 
-若要註冊雲端解決方案提供者計畫，首先您需有 MPN 識別碼。 尚未擁有嗎？ 請[在此](https://epe.mspartner.microsoft.com/EPE/portal/en-US?partnerid=)加入。
+若要註冊雲端解決方案提供者計畫，首先您需有 MPN 識別碼。 尚未擁有嗎？ 請[在此](https://partner.microsoft.com/)加入。
 
 若要完成雲端解決方案提供者申請，您需有 MPN 識別碼、完整的公司地址、銀行資訊，以及作為合作夥伴中心系統管理員員工的公司電子郵件。
 
@@ -96,4 +96,5 @@ ms.locfileid: "87545819"
 ## <a name="csp-regional-markets-and-currencies"></a>CSP 地區市場及貨幣
 
 貴公司的地點決定您的市場。 您的市場包含您可以銷售 CSP 供應項目的地區和/或國家/地區。 如需市場位置和貨幣的詳細資訊，請參閱[雲端解決方案提供者計畫地區市場和貨幣](regional-authorization-overview.md)。
+請務必閱讀[新增 MPN 識別碼位置](manage-locations.md)。
 

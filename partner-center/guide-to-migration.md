@@ -1,7 +1,7 @@
 ---
 title: 從 PMC 遷移到合作夥伴中心
 ms.topic: article
-ms.date: 05/20/2020
+ms.date: 10/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何將您的公司從 Partner Membership Center (PMC) 遷移至合作夥伴中心。
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0ab9adf5fc79ab8125c9caebd7d01ace1719a722
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c863f8b0942b38bab80cd97e72a85935bde2ba7c
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000562"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663829"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>從 PMC 移轉至合作夥伴中心的指南
 
@@ -53,7 +53,7 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 >[!NOTE]
 >如果您是位於中國的合作夥伴，並同時在 Microsoft 合作夥伴網路和雲端解決方案提供者 (CSP) 方案中註冊，您的每個帳戶將會有個別租用戶。 您搭配雲端解決方案提供者方案的帳戶是在國家雲端進行管理，而您的 Microsoft 合作夥伴網路帳戶則是在全球雲端進行管理。 無法連結這兩個帳戶。
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="向我們描述您的公司":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="開始使用":::
 
 一旦驗證或更新了資訊後，請選取 [接受並繼續]。
 此頁面上的條款與貴公司已在 PMC 簽署的合約**完全相同**。  
@@ -71,7 +71,7 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 當建立新的 Azure AD 租用戶時，您可以邀請員工登入合作夥伴中心。
 
-:::image type="content" source="images/migration/invite.png" alt-text="邀請員工":::
+:::image type="content" source="images/migration/invite.png" alt-text="開始使用":::
 
 如果您已使用現有的 AAD 租用戶登入，您的員工將會與您一起移動。 在此情況下，請為您的員工指派可決定他們在合作夥伴中心做什麼的角色。 
 
@@ -84,11 +84,11 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 雖然您可以使用已購買的供應項目，但在您完成指派全域管理員的步驟之前，將無法購買任何新的供應項目。
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="掌握控制權":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="開始使用":::
 
 當您選取開始時，您會看到下列畫面：
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="驗證網域擁有權":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="開始使用":::
 
 您的網域註冊將已填入資料。 只有網域擁有者可以更新 DNS 檔案，因此藉由將文字檔案複製並新增至您的 DNS 記錄，我們可以驗證您是否為擁有者。 將需要幾分鐘的時間才會進行更新。 您將需要登出合作夥伴中心，然後重新登入。 您的角色已變更為全域系統管理員。
 
@@ -96,9 +96,21 @@ Partner Membership Center (PMC) 即將解除任務。 您的公司已受邀將�
 
 導覽您的儀表板。 您可以在這裡管理您的會員資格、新增參考用的商務設定檔、註冊雲端解決方案提供者方案，以及透過選取 [儀表板] 隨時查看與您商務相關的通知和供應項目。 您也可以管理獎勵、在市集購買、註冊上市服務等。  
 
-:::image type="content" source="images/migration/fre.png" alt-text="進行導覽":::
+:::image type="content" source="images/migration/fre.png" alt-text="開始使用":::
 
-## <a name="next-steps"></a>接下來的步驟
+## <a name="sign-the-microsoft-partner-agreement"></a>簽署 Microsoft 合作夥伴合約
+
+如果您是間接經銷商，當您設定合作夥伴中心帳戶時，您仍然需要在雲端解決方案提供者計畫中正式註冊。 若要檢查您的成員資格狀態，請移至您的[合作夥伴設定檔](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)並確認帳戶類型。 然後以[間接經銷商](enrolling-in-the-csp-program.md)的身分註冊 CSP。
+
+ 當您註冊為間接經銷商之後，請接受[間接提供者 CSP 關聯性要求](indirect-reseller-tasks-in-partner-center.md)。
+
+接下來，使用全域系統管理員認證，在合作夥伴中心[儀表板](https://partner.microsoft.com/pvc/dashboard)概觀上接受 Microsoft 合作夥伴合約。 確認您已在 [合作夥伴設定檔] 的 [計畫資訊] 區段中簽署 Microsoft 合作夥伴合約。 此外，您也會在 CSP 的 [概觀] 頁面上看到確認橫幅通知。 
+
+## <a name="next-steps"></a>後續步驟
+
+- [尋找您的全域系統管理員](become-global-admin.md)
+
+- [Microsoft 合作夥伴合約](microsoft-partner-agreement.md)
 
 - [建立使用者帳戶](create-user-accounts-and-set-permissions.md)
 

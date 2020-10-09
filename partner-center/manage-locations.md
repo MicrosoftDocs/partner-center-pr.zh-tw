@@ -1,42 +1,60 @@
 ---
 title: 管理合作夥伴帳戶中的位置
 ms.topic: article
-ms.date: 06/16/2020
+ms.date: 10/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: 在合作夥伴中心，了解如何新增位置，以及如何在獎勵計畫、雲端解決方案提供者業務、訂閱和其他交易中使用 MPN 識別碼。
+ms.subservice: partnercenter-mpn
+description: 了解如何新增位置，以及如何在獎勵計畫、雲端解決方案提供者業務、訂閱和其他交易中使用 MPN 識別碼。
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f13676c8a4343feb5a099053b32b7444bbdfba45
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: c9bc3ffc09b657ab6e3e7e2dcda576898c96803d
+ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436867"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "91663891"
 ---
-# <a name="manage-your-partner-account-locations-in-partner-center-and-add-a-new-location"></a>在合作夥伴中心管理您的合作夥伴帳戶位置並新增位置
+# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理您的 MPN 帳戶位置並新增位置
+
+**適用於**
+
+- 合作夥伴中心
 
 **適當的角色**
-- 全域系統管理員
-- 使用者系統管理員
-- 帳單系統管理員
-- 系統管理代理人
-- 銷售代理人
 
-位置 MPN 識別碼可識別公司的每個特定位置。 您可以使用位置 MPN 識別碼來註冊獎勵計畫、交易雲端解決方案提供者 (CSP) 業務、新增訂閱以及其他商業交易。 公司 MPN 識別碼可用於非交易式活動，例如支援要求。
+- 全域系統管理員
+- 帳戶管理員
+
+位置 MPN 識別碼可識別公司的每個特定位置。 您可以使用位置 MPN 識別碼來註冊獎勵計畫、交易雲端解決方案提供者 (CSP) 業務以及其他商業交易。 全域 MPN 識別碼可用於非交易式活動，例如支援要求。
 
 ## <a name="the-following-is-a-typical-scenario"></a>以下為典型的案例：
 
-合作夥伴公司可能有雲端解決方案提供者業務和發行業務。 其雲端解決方案提供者業務可位於數個地區設定，而其發行業務可能位於其他地區設定。其已註冊的法定公司有一個 MPN 識別碼，用來管理所有的非交易式業務，例如新增使用者或記錄支援要求。
+Contoso 在英國有其合作夥伴通用帳戶 (PGA) 位置。 這是其已註冊的合法公司，而且此公司有一個用於管理所有非交易業務的 MPN 識別碼。 Contoso 在英國、法國和美國的其他位置也有相當於分公司或部門的合作夥伴位置帳戶 (PLA)。 在 MPN 帳戶結構中，這些 PLA 會以唯一的位置 MPN 識別碼來表示。 PLA 可用於交易業務，例如 CSP 或獎勵計畫。 支出會繫結至特定位置。 
 
+>[!NOTE]
+>CSP 租用戶與 MPN 位置識別碼之間有 1 對 1 的關聯性。
 
-每個位置都有一個 MPN 識別碼，用於交易式業務，例如雲端解決方案提供者或獎勵計畫。 支出會繫結至特定位置。
+:::image type="content" source="images/accountsettings/accountstructure.png" alt-text="MPN 位置的結構":::
 
-使用者可能會有跨位置的角色。 例如，獎勵管理員可能會將該角色用於歐洲的所有位置。
+## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>為 CSP 業務新增位置的必要條件
 
-## <a name="to-add-a-location"></a>新增位置
+若要新增 CSP 業務位置，有幾個必要條件：
+
+1. 您必須在想要執行業務的國家/地區中擁有位置 MPN 識別碼。
+
+1. 您在尚未註冊 CSP 的業務區域中需要新的 Azure AD 租用戶。 當您註冊 CSP 時，請建立此項目。
+ 
+3. 使用新的 AAD 租用戶在區域中註冊 CSP 計畫。
+提供合法公司的詳細資料，包括合法公司名稱、地址、主要連絡人詳細資料。 此帳戶會進行驗證，因此請務必新增有效的資訊。
+
+>[!NOTE] 
+ >請記得使用**新的** Azure AD 租用戶的**新**認證來登入。 請不要使用現有認證，因為合作夥伴中心會將您識別為已擁有帳戶。
+
+4. 接受 Microsoft 合作夥伴合約並啟用帳戶。
+
+## <a name="add-a-location"></a>新增位置
 
 1. 從 [設定] 圖示選取 [合作夥伴設定]。
 
@@ -49,16 +67,20 @@ ms.locfileid: "86436867"
 > [!NOTE]
 > 在合作夥伴中心新增位置後，即無法將其移除。
 
-## <a name="change-legal-headquarters-location"></a>變更法定總部位置
+## <a name="change-global-partner-account-location"></a>變更全球合作夥伴帳戶位置
 
 1. 在 [位置] 頁面上檢查位置清單，以確定您要作為法律實體的位置已列出。 如果沒有，請新增它。
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="合作夥伴中心帳戶位置頁面的螢幕擷取畫面，其中包含所有目前位置的清單。":::
+   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="MPN 位置的結構":::
 
 2. 選取 [合作夥伴設定檔]，然後選取 [更新法定公司設定檔]。
 
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="螢幕擷取畫面，顯示合作夥伴中心帳戶合作夥伴設定檔資訊與可選取的更新選項。":::
+   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="MPN 位置的結構":::
 
 3. 選取區域和法律實體，然後加以**提交**。
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="更新合作夥伴合法商務設定檔的螢幕擷取畫面，會顯示更新國家/地區或區域和法律實體的下拉式清單。":::
+   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="MPN 位置的結構":::
+
+## <a name="next-steps"></a>後續步驟
+
+- 了解[驗證程序](verification-responses.md)。
