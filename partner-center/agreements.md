@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: bd1b9b3fabc9e06cc368e75ba8479e3a38a843d5
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
+ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114828"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "91899226"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>依地區和語言的 Microsoft 客戶合約
 
@@ -127,11 +127,11 @@ ms.locfileid: "87114828"
     
     在德國，《刑法》(第 203 項) 和專業行為守則要求某些客戶關係必須保密，例如，患者與醫生的關係，以及律師與其客戶的關係。 這些職業團體必須保護專業機密資訊。 針對要從雲端解決方案提供者購買雲端型服務的這些和其他專業人員，該雲端服務提供者必須與客戶共同立訂保護專業機密資訊的書面合約。
 
-    如果您是在德國經營業務，除了 Microsoft Cloud 合約之外，您可能還需要為客戶提供此專業機密資訊條款。
+    如果您是在德國經營業務，除了 Microsoft 客戶合約之外，您可能還需要為客戶提供此專業機密資訊條款。
 
-  - [適用於德國的 Microsoft Cloud 合約專業機密資訊條款 (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409) \(英文\)
+  - [適用於德國的 Microsoft Cloud 合約專業機密資訊條款 (EN)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GKou) \(英文\)
 
-  - [適用於德國的 Microsoft Cloud 合約專業機密資訊條款 (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407) \(英文\)
+  - [適用於德國的 Microsoft Cloud 合約專業機密資訊條款 (DE)](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GI29) \(英文\)
 
 - 直布羅陀：[英文](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)
 - 希臘：[英文](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_ENG_Sep20172_CR.pdf)、[希臘文](https://download.microsoft.com/download/2/C/8/2C8CAC17-FCE7-4F51-9556-4D77C7022DF5/MCA2017Agr_EMEA_EU-EFTA_GRE_Sep20172_CR.pdf)
