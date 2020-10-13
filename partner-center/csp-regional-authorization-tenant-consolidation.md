@@ -10,142 +10,142 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000372"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006773"
 ---
-# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a><span data-ttu-id="97bda-104">雲端解決方案提供者地區授權租用戶彙總簡介</span><span class="sxs-lookup"><span data-stu-id="97bda-104">Instructions for CSP regional authorization tenant consolidation</span></span>
+# <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a><span data-ttu-id="cc123-104">雲端解決方案提供者地區授權租用戶彙總簡介</span><span class="sxs-lookup"><span data-stu-id="cc123-104">Instructions for CSP regional authorization tenant consolidation</span></span>
 
-<span data-ttu-id="97bda-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="97bda-105">**Applies to**</span></span>
+<span data-ttu-id="cc123-105">**適用於**</span><span class="sxs-lookup"><span data-stu-id="cc123-105">**Applies to**</span></span>
 
--  <span data-ttu-id="97bda-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="97bda-106">Partner Center</span></span>
--  <span data-ttu-id="97bda-107">Microsoft Cloud for US Government 適用的合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="97bda-107">Partner Center for Microsoft Cloud for US Government</span></span>
+-  <span data-ttu-id="cc123-106">合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="cc123-106">Partner Center</span></span>
+-  <span data-ttu-id="cc123-107">Microsoft Cloud for US Government 適用的合作夥伴中心</span><span class="sxs-lookup"><span data-stu-id="cc123-107">Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="97bda-108">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="97bda-108">**Appropriate roles**</span></span>
+<span data-ttu-id="cc123-108">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="cc123-108">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="97bda-109">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="97bda-109">Global admin</span></span>
-- <span data-ttu-id="97bda-110">系統管理代理人</span><span class="sxs-lookup"><span data-stu-id="97bda-110">Admin agent</span></span>
+- <span data-ttu-id="cc123-109">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="cc123-109">Global admin</span></span>
+- <span data-ttu-id="cc123-110">系統管理代理人</span><span class="sxs-lookup"><span data-stu-id="cc123-110">Admin agent</span></span>
 
-<span data-ttu-id="97bda-111">\[某些資訊與預先發行的產品有關，在正式發行之前可能會經過大幅修改。</span><span class="sxs-lookup"><span data-stu-id="97bda-111">\[Some information relates to pre-released product which may be substantially modified before it's commercially released.</span></span> <span data-ttu-id="97bda-112">針對此處提供的資訊，Microsoft 不做任何明示或默許的擔保。\]</span><span class="sxs-lookup"><span data-stu-id="97bda-112">Microsoft makes no warranties, express or implied, with respect to the information provided here.\]</span></span>
+<span data-ttu-id="cc123-111">\[某些資訊與預先發行的產品有關，在正式發行之前可能會經過大幅修改。</span><span class="sxs-lookup"><span data-stu-id="cc123-111">\[Some information relates to pre-released product which may be substantially modified before it's commercially released.</span></span> <span data-ttu-id="cc123-112">針對此處提供的資訊，Microsoft 不做任何明示或默許的擔保。\]</span><span class="sxs-lookup"><span data-stu-id="cc123-112">Microsoft makes no warranties, express or implied, with respect to the information provided here.\]</span></span>
 
-<span data-ttu-id="97bda-113">您可以合併商務的租使用者。</span><span class="sxs-lookup"><span data-stu-id="97bda-113">You can consolidate tenants for your business.</span></span> <span data-ttu-id="97bda-114">請依照下列指示合併不同國家/地區的租用戶。</span><span class="sxs-lookup"><span data-stu-id="97bda-114">Use these instructions to consolidate tenants for different country/regions.</span></span>
+<span data-ttu-id="cc123-113">您可以合併商務的租使用者。</span><span class="sxs-lookup"><span data-stu-id="cc123-113">You can consolidate tenants for your business.</span></span> <span data-ttu-id="cc123-114">請依照下列指示合併不同國家/地區的租用戶。</span><span class="sxs-lookup"><span data-stu-id="cc123-114">Use these instructions to consolidate tenants for different country/regions.</span></span>
 
 >[!NOTE]  
-><span data-ttu-id="97bda-115">您必須針對您要轉換的帳戶中的每個客戶，瞭解所有已布建的訂用帳戶和授權計數。</span><span class="sxs-lookup"><span data-stu-id="97bda-115">You must be aware of all of the provisioned subscriptions and license counts for each of your customers in the account you are transitioning from.</span></span> <span data-ttu-id="97bda-116">您將會在遷移過程中，以新的中央 CSP 帳戶下的相同授權計數重新布建這些相同的訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="97bda-116">You will be re-provisioning those same exact subscriptions with the same license counts under the new central CSP account as part of the migration process.</span></span> <span data-ttu-id="97bda-117">請使用匯出清單功能來協助建立要移到集中式租用戶之客戶的清單。</span><span class="sxs-lookup"><span data-stu-id="97bda-117">Use the export list feature to help create a list of customers to move over to the centralized tenant.</span></span>  <span data-ttu-id="97bda-118">完成合併之後，您就無法還原為先前的租使用者狀態。</span><span class="sxs-lookup"><span data-stu-id="97bda-118">Once consolidation is complete, you can't revert to the previous tenant state.</span></span> <span data-ttu-id="97bda-119">也可能需要客戶動作。</span><span class="sxs-lookup"><span data-stu-id="97bda-119">Customer action may also be required.</span></span>
+><span data-ttu-id="cc123-115">您必須針對您要轉換的帳戶中的每個客戶，瞭解所有已布建的訂用帳戶和授權計數。</span><span class="sxs-lookup"><span data-stu-id="cc123-115">You must be aware of all of the provisioned subscriptions and license counts for each of your customers in the account you are transitioning from.</span></span> <span data-ttu-id="cc123-116">您將會在遷移過程中，以新的中央 CSP 帳戶下的相同授權計數重新布建這些相同的訂用帳戶。</span><span class="sxs-lookup"><span data-stu-id="cc123-116">You will be re-provisioning those same exact subscriptions with the same license counts under the new central CSP account as part of the migration process.</span></span> <span data-ttu-id="cc123-117">請使用匯出清單功能來協助建立要移到集中式租用戶之客戶的清單。</span><span class="sxs-lookup"><span data-stu-id="cc123-117">Use the export list feature to help create a list of customers to move over to the centralized tenant.</span></span>  <span data-ttu-id="cc123-118">完成合併之後，您就無法還原為先前的租使用者狀態。</span><span class="sxs-lookup"><span data-stu-id="cc123-118">Once consolidation is complete, you can't revert to the previous tenant state.</span></span> <span data-ttu-id="cc123-119">也可能需要客戶動作。</span><span class="sxs-lookup"><span data-stu-id="cc123-119">Customer action may also be required.</span></span>
 
-## <a name="prepare-for-migration"></a><span data-ttu-id="97bda-120">為移轉做準備</span><span class="sxs-lookup"><span data-stu-id="97bda-120">Prepare for migration</span></span>
+## <a name="prepare-for-migration"></a><span data-ttu-id="cc123-120">為移轉做準備</span><span class="sxs-lookup"><span data-stu-id="cc123-120">Prepare for migration</span></span>
 
-- <span data-ttu-id="97bda-121">使用**轉換**帳戶 (登入**合作夥伴中心**您將轉換至新的帳戶) ，並檢查所有客戶和為這些客戶布建的所有服務。</span><span class="sxs-lookup"><span data-stu-id="97bda-121">Sign in to **Partner Center**  using the **Transitioning** account (the one you will transition to the new account), and review of all customers and all of the services provisioned for those customers.</span></span>
+- <span data-ttu-id="cc123-121">使用**轉換**帳戶 (登入**合作夥伴中心**您將轉換至新的帳戶) ，並檢查所有客戶和為這些客戶布建的所有服務。</span><span class="sxs-lookup"><span data-stu-id="cc123-121">Sign in to **Partner Center**  using the **Transitioning** account (the one you will transition to the new account), and review of all customers and all of the services provisioned for those customers.</span></span>
 
-- <span data-ttu-id="97bda-122">登出此帳戶。</span><span class="sxs-lookup"><span data-stu-id="97bda-122">Sign out of this account.</span></span>
+- <span data-ttu-id="cc123-122">登出此帳戶。</span><span class="sxs-lookup"><span data-stu-id="cc123-122">Sign out of this account.</span></span>
 
-## <a name="migrate-customer-accounts"></a><span data-ttu-id="97bda-123">移轉客戶帳戶</span><span class="sxs-lookup"><span data-stu-id="97bda-123">Migrate customer accounts</span></span>
+## <a name="migrate-customer-accounts"></a><span data-ttu-id="cc123-123">移轉客戶帳戶</span><span class="sxs-lookup"><span data-stu-id="cc123-123">Migrate customer accounts</span></span>
 
-1. <span data-ttu-id="97bda-124">使用**轉換** (新的) 帳戶 (您要將客戶轉換為) 的帳戶，登入**合作夥伴中心**。</span><span class="sxs-lookup"><span data-stu-id="97bda-124">Sign in to **Partner Center**  with the **Transitioning** (new) account (the one you are transitioning customers into).</span></span>
+1. <span data-ttu-id="cc123-124">使用**轉換** (新的) 帳戶 (您要將客戶轉換為) 的帳戶，登入**合作夥伴中心**。</span><span class="sxs-lookup"><span data-stu-id="cc123-124">Sign in to **Partner Center**  with the **Transitioning** (new) account (the one you are transitioning customers into).</span></span>
 
-2. <span data-ttu-id="97bda-125">選取 [客戶]。</span><span class="sxs-lookup"><span data-stu-id="97bda-125">Select **Customers**.</span></span>
+2. <span data-ttu-id="cc123-125">選取 [客戶]。</span><span class="sxs-lookup"><span data-stu-id="cc123-125">Select **Customers**.</span></span>
 
-3. <span data-ttu-id="97bda-126">按一下 [ **要求轉銷商關聯**性]。</span><span class="sxs-lookup"><span data-stu-id="97bda-126">Click **Request a reseller relationship**.</span></span> <span data-ttu-id="97bda-127">您會看到傳送給客戶的預設電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="97bda-127">You are presented with a default email message to send to your customers.</span></span> <span data-ttu-id="97bda-128">此訊息包含一個 URL，其中包含您新的合作夥伴中心帳戶唯一的組織識別碼。</span><span class="sxs-lookup"><span data-stu-id="97bda-128">This message contains a URL with the org ID unique to your new Partner Center account.</span></span>
+3. <span data-ttu-id="cc123-126">按一下 [ **要求轉銷商關聯**性]。</span><span class="sxs-lookup"><span data-stu-id="cc123-126">Click **Request a reseller relationship**.</span></span> <span data-ttu-id="cc123-127">您會看到傳送給客戶的預設電子郵件訊息。</span><span class="sxs-lookup"><span data-stu-id="cc123-127">You are presented with a default email message to send to your customers.</span></span> <span data-ttu-id="cc123-128">此訊息包含一個 URL，其中包含您新的合作夥伴中心帳戶唯一的組織識別碼。</span><span class="sxs-lookup"><span data-stu-id="cc123-128">This message contains a URL with the org ID unique to your new Partner Center account.</span></span>
 
-4. <span data-ttu-id="97bda-129">**客戶動作：** 確保您要移轉的每個作用中客戶都會造訪此 URL。</span><span class="sxs-lookup"><span data-stu-id="97bda-129">**Customer Action:** Ensure that each of the active customers you want to migrate visits this URL.</span></span> <span data-ttu-id="97bda-130">開啟 URL 時，會提示客戶登入 Office 365 入口網站。</span><span class="sxs-lookup"><span data-stu-id="97bda-130">When opening the URL, the customer is prompted to sign in to the Office 365 portal.</span></span> <span data-ttu-id="97bda-131">客戶使用和用來存取 Azure 及 Office 365 管理入口網站時相同的組織識別碼登入。</span><span class="sxs-lookup"><span data-stu-id="97bda-131">The customer signs in using the same Org ID that they use to access the Azure and Office 365 admin portals.</span></span>
+4. <span data-ttu-id="cc123-129">**客戶動作：** 確保您要移轉的每個作用中客戶都會造訪此 URL。</span><span class="sxs-lookup"><span data-stu-id="cc123-129">**Customer Action:** Ensure that each of the active customers you want to migrate visits this URL.</span></span> <span data-ttu-id="cc123-130">開啟 URL 時，會提示客戶登入 Office 365 入口網站。</span><span class="sxs-lookup"><span data-stu-id="cc123-130">When opening the URL, the customer is prompted to sign in to the Office 365 portal.</span></span> <span data-ttu-id="cc123-131">客戶使用和用來存取 Azure 及 Office 365 管理入口網站時相同的組織識別碼登入。</span><span class="sxs-lookup"><span data-stu-id="cc123-131">The customer signs in using the same Org ID that they use to access the Azure and Office 365 admin portals.</span></span>
 
-5. <span data-ttu-id="97bda-132">登入之後，系統會提示 **客戶帳戶** 的全域管理員提交合約，以授與委派的系統管理員許可權給新的 CSP 帳戶。</span><span class="sxs-lookup"><span data-stu-id="97bda-132">After signing in, the Global Admin for the **customer account** is prompted to submit an agreement that gives delegated admin privileges to the new CSP account.</span></span> <span data-ttu-id="97bda-133">如果他們同意，客戶就能選取核取方塊並同意授權關係。</span><span class="sxs-lookup"><span data-stu-id="97bda-133">If they agree, the customer selects the checkbox and agrees to authorize the relationship.</span></span>
+5. <span data-ttu-id="cc123-132">登入之後，系統會提示 **客戶帳戶** 的全域管理員提交合約，以授與委派的系統管理員許可權給新的 CSP 帳戶。</span><span class="sxs-lookup"><span data-stu-id="cc123-132">After signing in, the Global Admin for the **customer account** is prompted to submit an agreement that gives delegated admin privileges to the new CSP account.</span></span> <span data-ttu-id="cc123-133">如果他們同意，客戶就能選取核取方塊並同意授權關係。</span><span class="sxs-lookup"><span data-stu-id="cc123-133">If they agree, the customer selects the checkbox and agrees to authorize the relationship.</span></span>
 
-<span data-ttu-id="97bda-134">客戶在提交合約之後，會在合作夥伴的客戶清單中出現一次。</span><span class="sxs-lookup"><span data-stu-id="97bda-134">The customers will appear in the partner's customer list after they have submitted the agreement, one by one.</span></span>
+<span data-ttu-id="cc123-134">客戶在提交合約之後，會在合作夥伴的客戶清單中出現一次。</span><span class="sxs-lookup"><span data-stu-id="cc123-134">The customers will appear in the partner's customer list after they have submitted the agreement, one by one.</span></span>
 
-## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a><span data-ttu-id="97bda-135">移轉 Office 365 和非 Azure 用量型訂閱</span><span class="sxs-lookup"><span data-stu-id="97bda-135">Migrating Office 365 and non-Azure usage-based subscriptions</span></span>
+## <a name="migrating-office-365-and-non-azure-usage-based-subscriptions"></a><span data-ttu-id="cc123-135">移轉 Office 365 和非 Azure 用量型訂閱</span><span class="sxs-lookup"><span data-stu-id="cc123-135">Migrating Office 365 and non-Azure usage-based subscriptions</span></span>
 
-1. <span data-ttu-id="97bda-136">在您的客戶簽署合約之後，您就可以在您的集中式合作夥伴租用戶底下重新建立他們的訂閱。</span><span class="sxs-lookup"><span data-stu-id="97bda-136">Once your customer has signed the agreement, you can recreate their subscriptions under your Centralized Partner Tenant.</span></span>
+1. <span data-ttu-id="cc123-136">在您的客戶簽署合約之後，您就可以在您的集中式合作夥伴租用戶底下重新建立他們的訂閱。</span><span class="sxs-lookup"><span data-stu-id="cc123-136">Once your customer has signed the agreement, you can recreate their subscriptions under your Centralized Partner Tenant.</span></span>
 
-2. <span data-ttu-id="97bda-137">從 **合作夥伴中心** 選取 **客戶**。</span><span class="sxs-lookup"><span data-stu-id="97bda-137">From **Partner Center** select **Customers**.</span></span>
+2. <span data-ttu-id="cc123-137">從 **合作夥伴中心** 選取 **客戶**。</span><span class="sxs-lookup"><span data-stu-id="cc123-137">From **Partner Center** select **Customers**.</span></span>
 
-3. <span data-ttu-id="97bda-138">開啟您要移轉之客戶的公司名稱。</span><span class="sxs-lookup"><span data-stu-id="97bda-138">Open the company name for the customer you want to migrate.</span></span>
+3. <span data-ttu-id="cc123-138">開啟您要移轉之客戶的公司名稱。</span><span class="sxs-lookup"><span data-stu-id="cc123-138">Open the company name for the customer you want to migrate.</span></span>
 
-4. <span data-ttu-id="97bda-139">選取 [訂用帳戶]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="97bda-139">Select **Add subscription**.</span></span>
+4. <span data-ttu-id="cc123-139">選取 [訂用帳戶]\*\*\*\*。</span><span class="sxs-lookup"><span data-stu-id="cc123-139">Select **Add subscription**.</span></span>
 
-5. <span data-ttu-id="97bda-140">從目錄新增正確的訂用帳戶和授權計數。</span><span class="sxs-lookup"><span data-stu-id="97bda-140">Add the correct subscriptions and license counts from the catalog.</span></span> <span data-ttu-id="97bda-141">使用從夥伴帳戶 **轉換** 中提供的資訊進行驗證。</span><span class="sxs-lookup"><span data-stu-id="97bda-141">Verify with the information provided in the **Transitioning From** partner accounts.</span></span>
+5. <span data-ttu-id="cc123-140">從目錄新增正確的訂用帳戶和授權計數。</span><span class="sxs-lookup"><span data-stu-id="cc123-140">Add the correct subscriptions and license counts from the catalog.</span></span> <span data-ttu-id="cc123-141">使用從夥伴帳戶 **轉換** 中提供的資訊進行驗證。</span><span class="sxs-lookup"><span data-stu-id="cc123-141">Verify with the information provided in the **Transitioning From** partner accounts.</span></span>
 
    :::image type="content" source="images/regionalcustomer2.png" alt-text="客戶清單":::
 
-6. <span data-ttu-id="97bda-143">按一下 [ **提交]。**</span><span class="sxs-lookup"><span data-stu-id="97bda-143">Click **Submit.**</span></span>
+6. <span data-ttu-id="cc123-143">按一下 [ **提交]。**</span><span class="sxs-lookup"><span data-stu-id="cc123-143">Click **Submit.**</span></span>
 
-   <span data-ttu-id="97bda-144">服務現在會從 **轉換至** 夥伴帳戶提供給客戶。</span><span class="sxs-lookup"><span data-stu-id="97bda-144">The services are now provided to the customer from the **Transitioning To** partner account.</span></span>
+   <span data-ttu-id="cc123-144">服務現在會從 **轉換至** 夥伴帳戶提供給客戶。</span><span class="sxs-lookup"><span data-stu-id="cc123-144">The services are now provided to the customer from the **Transitioning To** partner account.</span></span>
 
-7. <span data-ttu-id="97bda-145">請重複這些步驟來移轉所有其他客戶的訂閱。</span><span class="sxs-lookup"><span data-stu-id="97bda-145">Repeat these steps to migrate subscriptions for all additional customers.</span></span>
+7. <span data-ttu-id="cc123-145">請重複這些步驟來移轉所有其他客戶的訂閱。</span><span class="sxs-lookup"><span data-stu-id="cc123-145">Repeat these steps to migrate subscriptions for all additional customers.</span></span>
 
-<span data-ttu-id="97bda-146">在繼續到下一節之前，請確定存在於 **\[轉換來源\]** 合作夥伴帳戶底下的所有客戶訂閱，都已經在 **\[轉換至\]** 合作夥伴帳戶底下重新佈建。</span><span class="sxs-lookup"><span data-stu-id="97bda-146">Before proceeding to the next section, ensure all customer subscriptions existing under the **Transitioning From** partner accounts are re-provisioned under the **Transitioning To** partner account.</span></span>
+<span data-ttu-id="cc123-146">在繼續到下一節之前，請確定存在於 **\[轉換來源\]** 合作夥伴帳戶底下的所有客戶訂閱，都已經在 **\[轉換至\]** 合作夥伴帳戶底下重新佈建。</span><span class="sxs-lookup"><span data-stu-id="cc123-146">Before proceeding to the next section, ensure all customer subscriptions existing under the **Transitioning From** partner accounts are re-provisioned under the **Transitioning To** partner account.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="97bda-147">合作夥伴必須合作夥伴中心在與合作夥伴中心中轉換為合作夥伴租使用者帳戶下的轉換中，暫停從夥伴租使用者帳戶 **轉換** 的訂用帳戶，然後在中設定轉換 **至** 夥伴租使用者帳戶下的訂閱，以確保不會發生雙重計費。</span><span class="sxs-lookup"><span data-stu-id="97bda-147">Partners must suspend subscriptions on the **Transitioning From** Partner Tenant account in Partner Center the same day that those subscriptions are transitioned and set up under the **Transitioning To** Partner Tenant account in the Partner Center to ensure double billing does not occur.</span></span> <span data-ttu-id="97bda-148">因為未正確停用從訂用帳戶 **轉換** 的計費，所以會拒絕支援要求的信用額度。</span><span class="sxs-lookup"><span data-stu-id="97bda-148">Support requests will be denied for credits due to any overlap in billing that occurs from not correctly disabling the **Transitioning From** subscriptions.</span></span>
+> <span data-ttu-id="cc123-147">合作夥伴必須合作夥伴中心在與合作夥伴中心中轉換為合作夥伴租使用者帳戶下的轉換中，暫停從夥伴租使用者帳戶 **轉換** 的訂用帳戶，然後在中設定轉換 **至** 夥伴租使用者帳戶下的訂閱，以確保不會發生雙重計費。</span><span class="sxs-lookup"><span data-stu-id="cc123-147">Partners must suspend subscriptions on the **Transitioning From** Partner Tenant account in Partner Center the same day that those subscriptions are transitioned and set up under the **Transitioning To** Partner Tenant account in the Partner Center to ensure double billing does not occur.</span></span> <span data-ttu-id="cc123-148">因為未正確停用從訂用帳戶 **轉換** 的計費，所以會拒絕支援要求的信用額度。</span><span class="sxs-lookup"><span data-stu-id="cc123-148">Support requests will be denied for credits due to any overlap in billing that occurs from not correctly disabling the **Transitioning From** subscriptions.</span></span>
 
-## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a><span data-ttu-id="97bda-149">停用 \[轉換來源\] 合作夥伴帳戶底下的 Office 365 訂閱</span><span class="sxs-lookup"><span data-stu-id="97bda-149">Disabling the Office 365 subscriptions under the Transitioning From partner account</span></span>
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a><span data-ttu-id="cc123-149">停用 \[轉換來源\] 合作夥伴帳戶底下的 Office 365 訂閱</span><span class="sxs-lookup"><span data-stu-id="cc123-149">Disabling the Office 365 subscriptions under the Transitioning From partner account</span></span>
 
-<span data-ttu-id="97bda-150">在 [從夥伴帳戶 **轉換** ] 下停用 CSP 訂用帳戶，將會停止任何未來的計費。</span><span class="sxs-lookup"><span data-stu-id="97bda-150">Disabling the CSP subscription under the **Transitioning From** partner accounts stops any future billing.</span></span> <span data-ttu-id="97bda-151">您不需要手動停用 Azure 訂用帳戶，因為 Azure 訂用帳戶會在遷移過程中自動停用。</span><span class="sxs-lookup"><span data-stu-id="97bda-151">You don't have to manually disable Azure subscriptions, because Azure subscriptions are automatically disabled during the migration process.</span></span>
+<span data-ttu-id="cc123-150">在 [從夥伴帳戶 **轉換** ] 下停用 CSP 訂用帳戶，將會停止任何未來的計費。</span><span class="sxs-lookup"><span data-stu-id="cc123-150">Disabling the CSP subscription under the **Transitioning From** partner accounts stops any future billing.</span></span> <span data-ttu-id="cc123-151">您不需要手動停用 Azure 訂用帳戶，因為 Azure 訂用帳戶會在遷移過程中自動停用。</span><span class="sxs-lookup"><span data-stu-id="cc123-151">You don't have to manually disable Azure subscriptions, because Azure subscriptions are automatically disabled during the migration process.</span></span>
 
-1. <span data-ttu-id="97bda-152">使用從 CSP 帳戶**轉換**的方式登入**合作夥伴中心**，然後流覽至客戶清單。</span><span class="sxs-lookup"><span data-stu-id="97bda-152">Sign in to the **Partner Center** with the **Transitioning From** CSP account and navigate to the customer list.</span></span>
+1. <span data-ttu-id="cc123-152">使用從 CSP 帳戶**轉換**的方式登入**合作夥伴中心**，然後流覽至客戶清單。</span><span class="sxs-lookup"><span data-stu-id="cc123-152">Sign in to the **Partner Center** with the **Transitioning From** CSP account and navigate to the customer list.</span></span>
 
-2. <span data-ttu-id="97bda-153">開啟含有要停用之訂閱的客戶，然後選取第一項要停用的服務。</span><span class="sxs-lookup"><span data-stu-id="97bda-153">Open the customer with subscriptions to disable, and then select the first offer to disable.</span></span>
+2. <span data-ttu-id="cc123-153">開啟含有要停用之訂閱的客戶，然後選取第一項要停用的服務。</span><span class="sxs-lookup"><span data-stu-id="cc123-153">Open the customer with subscriptions to disable, and then select the first offer to disable.</span></span>
 
-3. <span data-ttu-id="97bda-154">將訂閱設定為 [已 **暫停**]，然後按一下 [ **提交**]。</span><span class="sxs-lookup"><span data-stu-id="97bda-154">Set the subscription to **suspended**, and then click **submit**.</span></span>
-
-   >[!Note]
-   ><span data-ttu-id="97bda-155">暫停訂用帳戶可確保不會發生雙重計費。</span><span class="sxs-lookup"><span data-stu-id="97bda-155">Suspending the subscription ensures double billing does not occur.</span></span>
-
-   <span data-ttu-id="97bda-156">訂用帳戶會在訂用帳戶清單中顯示為已 **暫** 止。</span><span class="sxs-lookup"><span data-stu-id="97bda-156">The subscription shows **suspended** on the subscriptions list.</span></span>
-
-4. <span data-ttu-id="97bda-157">請針對客戶底下的所有訂閱重複這些步驟。</span><span class="sxs-lookup"><span data-stu-id="97bda-157">Repeat these steps for all subscriptions under the customer.</span></span> <span data-ttu-id="97bda-158">確認全部顯示 **\[暫停\]**。</span><span class="sxs-lookup"><span data-stu-id="97bda-158">Verify all show **suspended.**</span></span>
-
-5. <span data-ttu-id="97bda-159">選取清單中的下一個客戶，並重複停用所有訂閱的程序。</span><span class="sxs-lookup"><span data-stu-id="97bda-159">Select the next customer on the list and repeat the process of disabling all subscriptions.</span></span>
-
-## <a name="migrating-azure-usage-based-subscriptions"></a><span data-ttu-id="97bda-160">移轉 Azure 用量型訂閱</span><span class="sxs-lookup"><span data-stu-id="97bda-160">Migrating Azure usage-based subscriptions</span></span>
-
-<span data-ttu-id="97bda-161">不同于 Office 365 CSP 訂用帳戶，Azure，以使用量為基礎的 CSP 訂用帳戶不需要手動遷移。</span><span class="sxs-lookup"><span data-stu-id="97bda-161">Unlike the Office 365 CSP subscriptions, Azure, usage-based CSP subscriptions do not need to be migrated manually.</span></span> <span data-ttu-id="97bda-162">Microsoft Azure 支援人員會將 Azure 訂用帳戶以及所有已部署的服務或資源，從 csp 轉銷商帳戶 **轉換** 為 **轉換為** csp 轉售商帳戶。</span><span class="sxs-lookup"><span data-stu-id="97bda-162">Microsoft Azure Support will migrate the Azure subscriptions as well as all deployed services or resources from the **Transitioning From** CSP reseller accounts to the **Transitioning To** CSP reseller account.</span></span> <span data-ttu-id="97bda-163">轉換期間對客戶的服務不會中斷。</span><span class="sxs-lookup"><span data-stu-id="97bda-163">There will be no disruption of service to the customer during this transition.</span></span>
-
-1. <span data-ttu-id="97bda-164">確定將會遷移 Azure 訂用帳戶的客戶帳戶已接受與新 **轉換至** CSP 帳戶相關聯的合約。</span><span class="sxs-lookup"><span data-stu-id="97bda-164">Ensure that the customer accounts that will have Azure subscriptions migrated have accepted the agreement to be associated with the new **Transitioning To** CSP account.</span></span>
-
-2. <span data-ttu-id="97bda-165">您會通知 Microsoft 哪些客戶帳戶已準備好遷移，並提供這些客戶的公司名稱。</span><span class="sxs-lookup"><span data-stu-id="97bda-165">You will notify Microsoft of which customer accounts are ready to migrate, and provide those customer's company names.</span></span>
-
-3. <span data-ttu-id="97bda-166">Microsoft 會遷移 Azure 使用量型訂用帳戶，並在完成遷移時通知您。</span><span class="sxs-lookup"><span data-stu-id="97bda-166">Microsoft migrates the Azure usage-based subscriptions and notifies you when the migration is complete.</span></span>
-
-4. <span data-ttu-id="97bda-167">您必須確認 [客戶訂用帳戶] 區段下的合作夥伴中心中的 Azure 訂用帳戶現在已在 [客戶訂用帳戶] 區段下，標示**為 [已\*\*\*\*暫停**]。</span><span class="sxs-lookup"><span data-stu-id="97bda-167">You need to confirm that the Azure subscription under the **Transitioning From** CSP reseller account now is marked **suspended** in Partner Center under the customer subscriptions section.</span></span>
-
-5. <span data-ttu-id="97bda-168">確認 [ **轉換至** CSP 轉售商帳戶] 下的 Azure 訂用帳戶現在會 **在 [** 客戶訂用帳戶] 區段下顯示合作夥伴中心中的 [作用中] 狀態。</span><span class="sxs-lookup"><span data-stu-id="97bda-168">Confirm that the Azure subscription under the **Transitioning To** CSP reseller account now shows a status of **active** in Partner Center under the customer subscriptions section.</span></span>
+3. <span data-ttu-id="cc123-154">將訂閱設定為 [已 **暫停**]，然後按一下 [ **提交**]。</span><span class="sxs-lookup"><span data-stu-id="cc123-154">Set the subscription to **suspended**, and then click **submit**.</span></span>
 
    >[!Note]
-   > <span data-ttu-id="97bda-169">停用客戶下的訂用帳戶不會在客戶清單中變更客戶的外觀。</span><span class="sxs-lookup"><span data-stu-id="97bda-169">Disabling the subscriptions under the customer does not change the appearance of the customer in the Customers list.</span></span> <span data-ttu-id="97bda-170">目前沒有將客戶從清單移除的選項。</span><span class="sxs-lookup"><span data-stu-id="97bda-170">There is currently no option to remove customers from the list.</span></span> <span data-ttu-id="97bda-171">合作夥伴應避免將訂用帳戶從未來的帳戶 **轉換** 回給這些客戶。</span><span class="sxs-lookup"><span data-stu-id="97bda-171">Partners should avoid adding subscriptions back to these customers from their **Transitioning From** account in the future.</span></span>
+   ><span data-ttu-id="cc123-155">暫停訂用帳戶可確保不會發生雙重計費。</span><span class="sxs-lookup"><span data-stu-id="cc123-155">Suspending the subscription ensures double billing does not occur.</span></span>
 
-6. <span data-ttu-id="97bda-172">針對所有客戶下的所有訂用帳戶重複這些步驟，以停止從帳戶 () **轉換** 的未來費用。</span><span class="sxs-lookup"><span data-stu-id="97bda-172">Repeat these steps for all subscriptions under all of your customers to stop future charges on the **Transitioning From** account(s).</span></span> <span data-ttu-id="97bda-173">合作夥伴將會收到一份最終發票，其中包含取消日期到計費期間最後一天之間未使用天數的點數。</span><span class="sxs-lookup"><span data-stu-id="97bda-173">The partner will receive one final invoice with a credit for the number of unused days between the day of cancellation and the last day of the billing period.</span></span> <span data-ttu-id="97bda-174">未來在該最終計費期間之後將不會再產生發票。</span><span class="sxs-lookup"><span data-stu-id="97bda-174">No future invoices will generate after that final billing period.</span></span>
+   <span data-ttu-id="cc123-156">訂用帳戶會在訂用帳戶清單中顯示為已 **暫** 止。</span><span class="sxs-lookup"><span data-stu-id="cc123-156">The subscription shows **suspended** on the subscriptions list.</span></span>
 
-### <a name="additional-information"></a><span data-ttu-id="97bda-175">其他資訊</span><span class="sxs-lookup"><span data-stu-id="97bda-175">Additional information</span></span>
+4. <span data-ttu-id="cc123-157">請針對客戶底下的所有訂閱重複這些步驟。</span><span class="sxs-lookup"><span data-stu-id="cc123-157">Repeat these steps for all subscriptions under the customer.</span></span> <span data-ttu-id="cc123-158">確認全部顯示 **\[暫停\]**。</span><span class="sxs-lookup"><span data-stu-id="cc123-158">Verify all show **suspended.**</span></span>
 
-- <span data-ttu-id="97bda-176">從 CSP 帳戶的 **轉換** 中停用訂用帳戶並不會影響終端客戶的服務，只要服務是在停用訂用帳戶之前，從 **轉換至** CSP 帳戶布建的。</span><span class="sxs-lookup"><span data-stu-id="97bda-176">Disabling the subscription from the **Transitioning From** CSP account does not impact end customer's service as long as the service was provisioned from the **Transitioning To** CSP account prior to disabling the subscription.</span></span>
+5. <span data-ttu-id="cc123-159">選取清單中的下一個客戶，並重複停用所有訂閱的程序。</span><span class="sxs-lookup"><span data-stu-id="cc123-159">Select the next customer on the list and repeat the process of disabling all subscriptions.</span></span>
 
-- <span data-ttu-id="97bda-177">客戶無法使用訂用帳戶，也不會在暫停或取消時產生費用。</span><span class="sxs-lookup"><span data-stu-id="97bda-177">Subscriptions cannot be used by the customer and do not generate charges when suspended or canceled.</span></span>
+## <a name="migrating-azure-usage-based-subscriptions"></a><span data-ttu-id="cc123-160">移轉 Azure 用量型訂閱</span><span class="sxs-lookup"><span data-stu-id="cc123-160">Migrating Azure usage-based subscriptions</span></span>
 
-- <span data-ttu-id="97bda-178">目前沒有任何方法可以從 **客戶** 清單中完全移除客戶。</span><span class="sxs-lookup"><span data-stu-id="97bda-178">There is currently no way to remove a customer completely from the **Customers** list.</span></span>
+<span data-ttu-id="cc123-161">不同于 Office 365 CSP 訂用帳戶，Azure，以使用量為基礎的 CSP 訂用帳戶不需要手動遷移。</span><span class="sxs-lookup"><span data-stu-id="cc123-161">Unlike the Office 365 CSP subscriptions, Azure, usage-based CSP subscriptions do not need to be migrated manually.</span></span> <span data-ttu-id="cc123-162">Microsoft Azure 支援人員會將 Azure 訂用帳戶以及所有已部署的服務或資源，從 csp 轉銷商帳戶 **轉換** 為 **轉換為** csp 轉售商帳戶。</span><span class="sxs-lookup"><span data-stu-id="cc123-162">Microsoft Azure Support will migrate the Azure subscriptions as well as all deployed services or resources from the **Transitioning From** CSP reseller accounts to the **Transitioning To** CSP reseller account.</span></span> <span data-ttu-id="cc123-163">轉換期間對客戶的服務不會中斷。</span><span class="sxs-lookup"><span data-stu-id="cc123-163">There will be no disruption of service to the customer during this transition.</span></span>
+
+1. <span data-ttu-id="cc123-164">確定將會遷移 Azure 訂用帳戶的客戶帳戶已接受與新 **轉換至** CSP 帳戶相關聯的合約。</span><span class="sxs-lookup"><span data-stu-id="cc123-164">Ensure that the customer accounts that will have Azure subscriptions migrated have accepted the agreement to be associated with the new **Transitioning To** CSP account.</span></span>
+
+2. <span data-ttu-id="cc123-165">您會通知 Microsoft 哪些客戶帳戶已準備好遷移，並提供這些客戶的公司名稱。</span><span class="sxs-lookup"><span data-stu-id="cc123-165">You will notify Microsoft of which customer accounts are ready to migrate, and provide those customer's company names.</span></span>
+
+3. <span data-ttu-id="cc123-166">Microsoft 會遷移 Azure 使用量型訂用帳戶，並在完成遷移時通知您。</span><span class="sxs-lookup"><span data-stu-id="cc123-166">Microsoft migrates the Azure usage-based subscriptions and notifies you when the migration is complete.</span></span>
+
+4. <span data-ttu-id="cc123-167">您必須確認 [客戶訂用帳戶] 區段下的合作夥伴中心中的 Azure 訂用帳戶現在已在 [客戶訂用帳戶] 區段下，標示**為 [已\*\*\*\*暫停**]。</span><span class="sxs-lookup"><span data-stu-id="cc123-167">You need to confirm that the Azure subscription under the **Transitioning From** CSP reseller account now is marked **suspended** in Partner Center under the customer subscriptions section.</span></span>
+
+5. <span data-ttu-id="cc123-168">確認 [ **轉換至** CSP 轉售商帳戶] 下的 Azure 訂用帳戶現在會 **在 [** 客戶訂用帳戶] 區段下顯示合作夥伴中心中的 [作用中] 狀態。</span><span class="sxs-lookup"><span data-stu-id="cc123-168">Confirm that the Azure subscription under the **Transitioning To** CSP reseller account now shows a status of **active** in Partner Center under the customer subscriptions section.</span></span>
+
+   >[!Note]
+   > <span data-ttu-id="cc123-169">停用客戶下的訂用帳戶不會在客戶清單中變更客戶的外觀。</span><span class="sxs-lookup"><span data-stu-id="cc123-169">Disabling the subscriptions under the customer does not change the appearance of the customer in the Customers list.</span></span> <span data-ttu-id="cc123-170">目前沒有將客戶從清單移除的選項。</span><span class="sxs-lookup"><span data-stu-id="cc123-170">There is currently no option to remove customers from the list.</span></span> <span data-ttu-id="cc123-171">合作夥伴應避免將訂用帳戶從未來的帳戶 **轉換** 回給這些客戶。</span><span class="sxs-lookup"><span data-stu-id="cc123-171">Partners should avoid adding subscriptions back to these customers from their **Transitioning From** account in the future.</span></span>
+
+6. <span data-ttu-id="cc123-172">針對所有客戶下的所有訂用帳戶重複這些步驟，以停止從帳戶 () **轉換** 的未來費用。</span><span class="sxs-lookup"><span data-stu-id="cc123-172">Repeat these steps for all subscriptions under all of your customers to stop future charges on the **Transitioning From** account(s).</span></span> <span data-ttu-id="cc123-173">合作夥伴將會收到一份最終發票，其中包含取消日期到計費期間最後一天之間未使用天數的點數。</span><span class="sxs-lookup"><span data-stu-id="cc123-173">The partner will receive one final invoice with a credit for the number of unused days between the day of cancellation and the last day of the billing period.</span></span> <span data-ttu-id="cc123-174">未來在該最終計費期間之後將不會再產生發票。</span><span class="sxs-lookup"><span data-stu-id="cc123-174">No future invoices will generate after that final billing period.</span></span>
+
+### <a name="additional-information"></a><span data-ttu-id="cc123-175">其他資訊</span><span class="sxs-lookup"><span data-stu-id="cc123-175">Additional information</span></span>
+
+- <span data-ttu-id="cc123-176">從 CSP 帳戶的 **轉換** 中停用訂用帳戶並不會影響終端客戶的服務，只要服務是在停用訂用帳戶之前，從 **轉換至** CSP 帳戶布建的。</span><span class="sxs-lookup"><span data-stu-id="cc123-176">Disabling the subscription from the **Transitioning From** CSP account does not impact end customer's service as long as the service was provisioned from the **Transitioning To** CSP account prior to disabling the subscription.</span></span>
+
+- <span data-ttu-id="cc123-177">客戶無法使用訂用帳戶，也不會在暫停或取消時產生費用。</span><span class="sxs-lookup"><span data-stu-id="cc123-177">Subscriptions cannot be used by the customer and do not generate charges when suspended or canceled.</span></span>
+
+- <span data-ttu-id="cc123-178">目前沒有任何方法可以從 **客戶** 清單中完全移除客戶。</span><span class="sxs-lookup"><span data-stu-id="cc123-178">There is currently no way to remove a customer completely from the **Customers** list.</span></span>
 - 
     >[!Note]
-    > <span data-ttu-id="97bda-179">合作夥伴必須在合作夥伴中心在轉換為帳戶的同一天內，暫停從夥伴租使用者帳戶 **轉換** 的訂用帳戶，並在 **轉換為** 帳戶下設定，以確保不會發生雙重計費。</span><span class="sxs-lookup"><span data-stu-id="97bda-179">Partners must suspend subscriptions on the **Transitioning From** partner tenant account in Partner Center the same day those subscriptions are transitioned to and set up under the **Transitioning To** account to ensure double billing does not occur.</span></span> <span data-ttu-id="97bda-180">由於未正確地將 **轉換從訂用** 帳戶設定為已暫停，因此 Microsoft 不會支援信用額度的要求。</span><span class="sxs-lookup"><span data-stu-id="97bda-180">Microsoft will not support requests for credits due to any overlap in billing that occurs from not correctly setting the **Transitioning From** subscriptions to suspended.</span></span>
+    > <span data-ttu-id="cc123-179">合作夥伴必須在合作夥伴中心在轉換為帳戶的同一天內，暫停從夥伴租使用者帳戶 **轉換** 的訂用帳戶，並在 **轉換為** 帳戶下設定，以確保不會發生雙重計費。</span><span class="sxs-lookup"><span data-stu-id="cc123-179">Partners must suspend subscriptions on the **Transitioning From** partner tenant account in Partner Center the same day those subscriptions are transitioned to and set up under the **Transitioning To** account to ensure double billing does not occur.</span></span> <span data-ttu-id="cc123-180">由於未正確地將 **轉換從訂用** 帳戶設定為已暫停，因此 Microsoft 不會支援信用額度的要求。</span><span class="sxs-lookup"><span data-stu-id="cc123-180">Microsoft will not support requests for credits due to any overlap in billing that occurs from not correctly setting the **Transitioning From** subscriptions to suspended.</span></span>
 
-### <a name="simplify-migration-using-export"></a><span data-ttu-id="97bda-181">使用匯出功能簡化移轉</span><span class="sxs-lookup"><span data-stu-id="97bda-181">Simplify migration using Export</span></span>
+### <a name="simplify-migration-using-export"></a><span data-ttu-id="cc123-181">使用匯出功能簡化移轉</span><span class="sxs-lookup"><span data-stu-id="cc123-181">Simplify migration using Export</span></span>
 
-<span data-ttu-id="97bda-182">使用 **\[匯出功能\]**，您就可以擷取您需要在新的合併結構中使用的訂閱：</span><span class="sxs-lookup"><span data-stu-id="97bda-182">Using the **Export Function**, you can capture the subscriptions you need to use in your new consolidated structure:</span></span>
+<span data-ttu-id="cc123-182">使用 **\[匯出功能\]**，您就可以擷取您需要在新的合併結構中使用的訂閱：</span><span class="sxs-lookup"><span data-stu-id="cc123-182">Using the **Export Function**, you can capture the subscriptions you need to use in your new consolidated structure:</span></span>
 
-1. <span data-ttu-id="97bda-183">按一下合作夥伴中心上的 [ **客戶** ] 以查看客戶的清單。</span><span class="sxs-lookup"><span data-stu-id="97bda-183">Click **Customers** on Partner Center to see the list of customers.</span></span> 
+1. <span data-ttu-id="cc123-183">按一下合作夥伴中心上的 [ **客戶** ] 以查看客戶的清單。</span><span class="sxs-lookup"><span data-stu-id="cc123-183">Click **Customers** on Partner Center to see the list of customers.</span></span> 
 
-2. <span data-ttu-id="97bda-184">開啟想查看之客戶的名稱。</span><span class="sxs-lookup"><span data-stu-id="97bda-184">Open the desired customer name.</span></span>
+2. <span data-ttu-id="cc123-184">開啟想查看之客戶的名稱。</span><span class="sxs-lookup"><span data-stu-id="cc123-184">Open the desired customer name.</span></span>
 
-3. <span data-ttu-id="97bda-185">在 [ **訂閱** ] 頁面上，按一下 [ **匯出訂閱** ]，將訂閱的詳細資料匯出至 Excel 檔案。</span><span class="sxs-lookup"><span data-stu-id="97bda-185">On the **Subscriptions** page, click **Export Subscriptions** to export details of subscriptions to an Excel file.</span></span>
+3. <span data-ttu-id="cc123-185">在 [ **訂閱** ] 頁面上，按一下 [ **匯出訂閱** ]，將訂閱的詳細資料匯出至 Excel 檔案。</span><span class="sxs-lookup"><span data-stu-id="cc123-185">On the **Subscriptions** page, click **Export Subscriptions** to export details of subscriptions to an Excel file.</span></span>
 
-4. <span data-ttu-id="97bda-186">請使用此清單在您新的合併租用戶中重新建立訂閱。</span><span class="sxs-lookup"><span data-stu-id="97bda-186">Use this list to recreate the subscriptions in your new consolidated tenant.</span></span>
+4. <span data-ttu-id="cc123-186">請使用此清單在您新的合併租用戶中重新建立訂閱。</span><span class="sxs-lookup"><span data-stu-id="cc123-186">Use this list to recreate the subscriptions in your new consolidated tenant.</span></span>
 
-### <a name="api-registration"></a><span data-ttu-id="97bda-187">API 註冊</span><span class="sxs-lookup"><span data-stu-id="97bda-187">API registration</span></span>
+### <a name="api-registration"></a><span data-ttu-id="cc123-187">API 註冊</span><span class="sxs-lookup"><span data-stu-id="cc123-187">API registration</span></span>
 
-<span data-ttu-id="97bda-188">如需 API 註冊的詳細資訊，請參閱 [合作夥伴中心中的設定 api 存取](/partner-center/develop/set-up-api-access-in-partner-center)。</span><span class="sxs-lookup"><span data-stu-id="97bda-188">For more information about API registration, see [Set up API access in Partner Center](/partner-center/develop/set-up-api-access-in-partner-center).</span></span>
+<span data-ttu-id="cc123-188">如需 API 註冊的詳細資訊，請參閱 [合作夥伴中心中的設定 api 存取](/partner-center/develop/set-up-api-access-in-partner-center)。</span><span class="sxs-lookup"><span data-stu-id="cc123-188">For more information about API registration, see [Set up API access in Partner Center](/partner-center/develop/set-up-api-access-in-partner-center).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="97bda-189">下一步</span><span class="sxs-lookup"><span data-stu-id="97bda-189">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="cc123-189">後續步驟</span><span class="sxs-lookup"><span data-stu-id="cc123-189">Next steps</span></span>
 
-- [<span data-ttu-id="97bda-190">合作夥伴中心內轉銷商合作夥伴的客戶帳戶設定和管理</span><span class="sxs-lookup"><span data-stu-id="97bda-190">Customer account setup and management for reseller partners in Partner Center</span></span>](customer-accounts.md)
+- [<span data-ttu-id="cc123-190">雲端解決方案提供者計畫的區域市場與貨幣，以供您銷售 CSP 供應專案</span><span class="sxs-lookup"><span data-stu-id="cc123-190">Cloud Solution Provider program regional markets and currencies where you can sell CSP offers</span></span>](regional-authorization-overview.md)
