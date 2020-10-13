@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 232eae10927d8ac38b4cce0842fbb8e4278f8d03
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0ae107c005eaf6b8ff8a6d99a91075ebc560cf81
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000372"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006773"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>雲端解決方案提供者地區授權租用戶彙總簡介
 
@@ -146,6 +146,6 @@ ms.locfileid: "91000372"
 
 如需 API 註冊的詳細資訊，請參閱 [合作夥伴中心中的設定 api 存取](/partner-center/develop/set-up-api-access-in-partner-center)。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
-- [合作夥伴中心內轉銷商合作夥伴的客戶帳戶設定和管理](customer-accounts.md)
+- [雲端解決方案提供者計畫的區域市場與貨幣，以供您銷售 CSP 供應專案](regional-authorization-overview.md)

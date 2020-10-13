@@ -1,22 +1,22 @@
 ---
-title: 如何向教育客戶銷售優惠
-description: 瞭解如何在合作夥伴中心建立教育客戶，並向他們銷售優惠。
+title: 如何銷售優惠給教育客戶
+description: 瞭解如何建立教育客戶，並在合作夥伴中心中銷售優惠。
 ms.topic: how-to
-ms.date: 06/03/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6d7ad9ed7acecf8d542577c87d4387240ded7b7
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811268"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006836"
 ---
-# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何銷售供應專案給教育客戶 & 如何在合作夥伴中心建立教育客戶
+# <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何銷售供應專案給教育客戶 & 如何在合作夥伴中心中建立教育客戶
 
 **適用於**
 
@@ -30,69 +30,69 @@ ms.locfileid: "87811268"
 
 ## <a name="create-an-education-customer"></a>建立教育客戶
 
-本文說明如何在合作夥伴中心建立教育客戶，並向他們銷售教育產品。 它也會說明如何查看調查狀態，並在必要時重新提交調查要求。
+本文說明如何在合作夥伴中心中建立教育客戶，並對其銷售教育版產品。 它也會說明如何查看驗證狀態，並視需要重新提交驗證要求。
 
 > [!IMPORTANT]
-> Microsoft 會 vets 每個新建立的教育客戶租使用者，以確保其符合教育優惠。  請務必以正確且完整的方式輸入必要的資訊，以避免調查程式發生延遲。
+> Microsoft 會驗證每個新建立的教育客戶租使用者，以確保其符合教育優惠。  請務必正確且完整地輸入必要資訊，以避免在驗證程式中發生延遲。
 
 1. 登入合作夥伴中心。
 
-2. 選取 [**客戶**]，然後選取 [**新增客戶**]。 從 [**特殊資格**] 下拉式清單中選取 [**教育**]。  視需要填寫其餘的帳戶資訊。  協助調查流程的索引鍵欄位包括：
+2. 選取 [ **客戶** ]，然後選取 [ **新增客戶**]。 從**特殊資格**的下拉式清單中選取**教育**版。  視需要填寫其餘的帳戶資訊。  協助驗證流程的索引鍵欄位包括：
 
-   - **公司名稱**：輸入法律實體名稱-調查的必要專案
-   - **國家/地區和位址行**：輸入完整的實體郵件標籤-調查的必要專案
-   - **電子郵件地址**：輸入實體所擁有的電子郵件–不是免費或 on.microsoft.com 的電子郵件–調查的必要專案
-   - **客戶連絡人資訊**：這些詳細資料將作為調查流程的一部分使用
-   - **主功能變數名稱稱**：用來建立客戶的帳戶和電子郵件地址。  選擇類似于公司名稱的名稱，不含空格或特殊字元。  稍後無法變更此名稱。
+   - **公司名稱**：輸入合法的機構名稱-驗證所需
+   - **國家/地區和位址線**：輸入完整的實體郵寄地址–驗證所需
+   - **電子郵件地址**：輸入實體擁有的電子郵件（不是免費或 on.microsoft.com 的電子郵件）-驗證所需
+   - **客戶連絡人資訊**：這些詳細資料將作為驗證流程的一部分使用
+   - **主功能變數名稱稱**：用來建立客戶的帳戶和電子郵件地址。  選擇與公司名稱類似的名稱，不含空格或特殊字元。  此名稱稍後無法變更。
 
-3. 當您完成時，請選取 [**審查**]。
+3. 當您完成時，請選取 [ **審核**]。
 
    :::image type="content" source="images/eduaccountinfo.png" alt-text="教育客戶帳戶":::
 
-### <a name="confirm-your-education-customers-vetting-status"></a>確認您的教育客戶的調查狀態
+### <a name="confirm-your-education-customers-verification-status"></a>確認教育客戶的驗證狀態
 
-在客戶的 [帳戶] 頁面上，查看**特殊資格狀態**。
+在 [客戶的帳戶] 頁面上，查看 **特殊的資格狀態**。
 狀態範例：
 
-- 如果客戶通過調查：教育
+- 如果客戶通過驗證：教育版
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="教育調查成功":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="教育客戶帳戶":::
 
-- 如果客戶未通過調查：不是教育客戶
+- 如果客戶未通過驗證：非教育客戶
 
-   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="教育調查失敗":::
+   :::image type="content" source="images/edudidnotpassvetting.png" alt-text="教育客戶帳戶":::
 
 - 如果客戶未標記為教育客戶：無
 
-   :::image type="content" source="images/edunottagged.png" alt-text="教育未加上標籤":::
+   :::image type="content" source="images/edunottagged.png" alt-text="教育客戶帳戶":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-vetting"></a>更正客戶帳戶資訊，並重新提交調查  
+## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>修正客戶帳戶資訊，然後重新提交以進行驗證
 
-如果您的客戶失敗了初始調查，您現在可以更正資訊並重新提交。
+如果您的客戶無法進行初始驗證，您現在可以更正資訊並重新提交。
 
-### <a name="correct-the-customer-account-information"></a>更正客戶帳戶資訊
+### <a name="correct-the-customer-account-information"></a>修正客戶帳戶資訊
 
-您必須具備全域管理員許可權，才能更新客戶的資訊。 您會更新 Office 365 入口網站上的資訊，因為此資料無法從合作夥伴中心入口網站更新。
+您必須具有全域管理員許可權，才能更新客戶的資訊。 您會更新 Office 365 入口網站上的資訊，因為此資料無法從合作夥伴中心入口網站更新。
 
-1. 在 [帳戶] 頁面上，您會看到資訊，指出客戶資格已被視為「不是教育客戶」。
+1. 在 [ **帳戶** ] 頁面上，您會看到資訊，指出客戶的資格已被視為「非教育客戶」。
 
-2. 重新整理您的瀏覽器以重設頁面。 [**更新**] 按鈕和 [**特殊資格] 狀態**會設定為 [**無**]。
+2. 重新整理您的瀏覽器，以重設頁面。 將會有 [ **更新** ] 按鈕，且特殊的 [ **資格] 狀態** 設定為 [ **無**]。
 
-3. 選取 [更新]。 在 [**服務管理**] 頁面上，選取 [ **Office 365**]。
+3. 選取 [更新]。 在 [ **服務管理** ] 頁面上，選取 [ **Office 365**]。
 
-4. 您會在瀏覽器的新索引標籤上，將您重新導向至 Office 365 系統管理中心。 系統可能會要求您使用您的認證登入。
+4. 系統會在瀏覽器的新索引標籤上，將您重新導向至 Office 365 系統管理中心。 您可能會被要求使用您的認證登入。
 
-5. 選取 [設定]。
+5. 選取 [設定]  。
 
-6. 選取畫面頂端的 [**組織設定檔**] 索引標籤，然後選取 [**組織資訊**]。 您現在可以更新客戶詳細資料。
+6. 選取畫面頂端的 [ **組織設定檔** ] 索引標籤，然後選取 [ **組織資訊**]。 您現在可以更新客戶詳細資料。
 
-7. 選取提要欄位底部的 [**儲存變更**]。  
+7. 選取側邊欄底部的 [ **儲存變更** ]。  
 
-### <a name="resubmit-for-revetting"></a>重新提交 revetting
+### <a name="resubmit-for-verification"></a>重新提交以進行驗證
 
-1. 流覽至 [合作夥伴中心] 索引標籤和 [客戶**帳戶**] 頁面。 重新整理瀏覽器。 並確認 [公司] 頁面已更新為新的資訊。 選取 [**更新**] 按鈕以要求教育 revetting。
+1. 流覽至 [合作夥伴中心] 索引標籤和 [客戶 **帳戶** ] 頁面。 重新整理瀏覽器。 並確認公司頁面已更新為新的資訊。 選取 [ **更新** ] 按鈕以要求教育重新驗證。
 
-2. 如果更新的客戶詳細資料符合教育版供應專案的資格，您將會看到**特殊資格**已更新為**教育**版。 如果您仍然看**不到教育客戶**，請聯絡支援以進行手動驗證。
+2. 如果更新的客戶詳細資料符合教育供應專案的資格，您將會看到 **特殊的資格** 已更新 **教育**版。 如果您仍然看 **不到教育客戶**，請洽詢支援人員以進行手動驗證。
 
 ## <a name="next-steps"></a>後續步驟
 
@@ -100,4 +100,4 @@ ms.locfileid: "87811268"
 
 - [加入新的客戶](add-a-new-customer.md)
 
-- [銷售 Minecraft：教育版教育客戶的訂閱](minecraft-subscriptions.md)
+- [銷售教育客戶 Minecraft: Education Edition 訂閱](minecraft-subscriptions.md)
