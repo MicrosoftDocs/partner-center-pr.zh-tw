@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: e1b70f26dc146507ac3764ae223ca27915162f0c
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
+ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
+ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422552"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "91980259"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>將客戶的 Azure 方案訂用帳戶轉移至不同的合作夥伴
 
@@ -37,7 +37,7 @@ ms.locfileid: "91422552"
 - 目前合作夥伴下的 Azure 服務 CSP 定價不會轉換  
 - 客戶的支援責任將移至未來的合作夥伴
 - 計費和發票開立將在傳輸時移至未來合作夥伴
-- Azure 角色型存取控制 (RBAC) 不受傳輸影響
+- Azure Role-Based 存取控制 (RBAC) 不受傳輸影響
 - 系統管理員代表 (AOBO) 預設不會授與未來合作夥伴
 - 只要產品通過 Marketplace 資格檢查，就會傳輸協力廠商 marketplace 產品。
     - 沒有特殊的折扣或區域限制
@@ -77,11 +77,11 @@ ms.locfileid: "91422552"
 
 6.  選取 [傳送**轉移要求**  >  **傳送]**。
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="完成轉移要求表單":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="傳輸區段":::
 
 7.  檢查傳輸要求確認
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="審核暫止的傳輸":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="傳輸區段":::
 
     >[!Note]
     >未來的夥伴只要在傳輸要求狀態為「擱置中」時，在右上角選取 [ **取消要求** ]，即可取消轉移要求。 當傳輸要求狀態為「進行中」或「完成」時，將無法取消。
@@ -90,7 +90,7 @@ ms.locfileid: "91422552"
 
 客戶目前的夥伴管理員代理程式會收到一封電子郵件，指出其客戶要求轉移其訂用帳戶：
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="檢閱":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="傳輸區段":::
 
 請檢查並接受合作夥伴中心的轉移要求表單，以完成訂用帳戶轉移。
 
@@ -103,7 +103,7 @@ ms.locfileid: "91422552"
 3.  選取 [ **轉移要求** ] 區段。
 4.  在 [**收到的要求**] 底下選取所選的**傳輸要求識別碼**，以展開 [傳送資訊]
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="來源審核傳送要求":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="傳輸區段":::
 
 5.  查看轉移要求。 選取要傳送的要求 Azure 訂用帳戶。
 
@@ -114,7 +114,7 @@ ms.locfileid: "91422552"
 
 6.  然後選取 [ **接受並傳送** ] 以完成傳送程式。
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="選取要在您的 Azure 方案下傳送的訂用帳戶":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="傳輸區段":::
 
 7.  查看傳輸接受確認。
 
@@ -132,9 +132,9 @@ ms.locfileid: "91422552"
 
 - 因此，請務必讓您的客戶移除其先前合作夥伴的 Azure RBAC 存取權，並加入新夥伴的存取權。 如需提供新存取權的客戶詳細資訊，請參閱 [什麼是 AZURE RBAC)  (azure 角色型存取控制？](/azure/role-based-access-control/overview) 如需移除先前合作夥伴 RBAC 存取權的客戶詳細資訊，請參閱 [移除角色指派](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)。
 
-- 此外，您不會自動 [代表 (AOBO ](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) 取得訂用帳戶的) 存取權。 需要 AOBO，才能代表合作夥伴管理其客戶的 Azure 訂用帳戶。 如需有關 Azure 許可權的詳細資訊，請參閱 [取得管理客戶服務或訂用帳戶的許可權。](/partner-center/customers-revoke-admin-privileges)
+- 此外，您不會自動 [代表 (AOBO ](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) 取得訂用帳戶的) 存取權。 需要 AOBO，才能代表合作夥伴管理其客戶的 Azure 訂用帳戶。 如需有關 Azure 許可權的詳細資訊，請參閱 [取得管理客戶服務或訂用帳戶的許可權。](./customers-revoke-admin-privileges.md)
 
 ## <a name="next-steps"></a>後續步驟：
 
 - [ (Azure RBAC) ](/azure/role-based-access-control/overview)
-- [取得管理客戶服務或訂用帳戶的許可權。](/partner-center/customers-revoke-admin-privileges)
+- [取得管理客戶服務或訂用帳戶的許可權。](./customers-revoke-admin-privileges.md)
