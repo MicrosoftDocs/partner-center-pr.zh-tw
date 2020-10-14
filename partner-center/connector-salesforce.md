@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 09/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 將合作夥伴中心中的參考與 Salesforce CRM 同步處理
+description: 將合作夥伴中心中的您的參考與 Salesforce CRM 同步處理。 然後，銷售人員可以從您的 CRM 系統內與 Microsoft 共同銷售。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4bc404ca8c0647b1bcece767da75fa07ddc6b51f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663859"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031461"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM 的共同銷售連接器 – 概觀
 

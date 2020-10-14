@@ -1,6 +1,6 @@
 ---
 title: 註冊為控制台廠商
-description: 瞭解如何在合作夥伴中心中註冊為主控台廠商 (CPV) 。
+description: 瞭解如何在合作夥伴中心中註冊為主控台廠商 (CPV) ，讓您可以更妥善地整合 CSP 合作夥伴系統與合作夥伴中心 Api。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,14 +9,14 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/20/2020
-ms.openlocfilehash: 79d46b306795c1261fb8e9af45e7c102b9e79601
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 1bfcb4de27233283b6188903b3e1f6bbdf67698c
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366732"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031891"
 ---
-# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>註冊為主控台廠商，以協助將 CSP 合作夥伴系統與合作夥伴中心 Api 整合
+# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>註冊為控制台廠商，以協助整合 CSP 合作夥伴系統與合作夥伴中心 API
 
 **適用於**
 

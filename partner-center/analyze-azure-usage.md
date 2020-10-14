@@ -1,6 +1,6 @@
 ---
 title: 分析 Azure 使用量以協助拓展您的業務
-description: 瞭解如何使用合作夥伴中心來取得客戶 Azure 訂用帳戶使用方式的相關資料。
+description: 瞭解如何使用合作夥伴中心來取得客戶 Azure 訂用帳戶使用方式的相關資料。 資料包含銷售、有風險且正在使用中的訂閱。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 40d74e22463c522333e1bdb4116369f5f6c3937a
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367442"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031881"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>取得客戶和 Azure 訂用帳戶執行情況的相關資料
 

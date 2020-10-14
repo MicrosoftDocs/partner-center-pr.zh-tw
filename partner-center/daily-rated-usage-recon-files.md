@@ -2,17 +2,17 @@
 title: 每日分級的使用量對帳檔案
 ms.topic: article
 ms.date: 06/12/2020
-description: 瞭解如何在合作夥伴中心中讀取每日分級的使用量對帳檔案。
+description: 瞭解如何在合作夥伴中心中讀取每日分級的使用量對帳檔案。 包含偵察檔案中特定欄位的描述。
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff2c66e7efd05631de7d7643a780cbe5f726103
-ms.sourcegitcommit: 3670c6e7f22e4f56545886052b68b9d5b6b3092c
+ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89281310"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031961"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>瞭解如何在合作夥伴中心中讀取每日分級的使用量對帳檔案
 
@@ -60,11 +60,11 @@ ms.locfileid: "89281310"
 | UsageDate | 服務使用量的日期。 |
 | MeterType | 計量類型。 |
 | MeterCategory | 使用量的最上層服務。 |
-| 計量識別碼 | 所要使用之計量的識別碼。 |
+| MeterId | 所要使用之計量的識別碼。 |
 | MeterSubCategory | 可能會影響費率的 Azure 服務類型。 |
 | MeterName | 所耗用計量的測量單位。 |
 | MeterRegion | 此資料行會識別 MeterRegion 適用和擴展之服務區域內的資料中心位置。 |
-| 單位 | 資源 **名稱**的單位。 |
+| Unit | 資源 **名稱**的單位。 |
 | ResourceLocation | 正在執行計量的資料中心。 |
 | ConsumedService | 您所使用的 Azure 平台服務。 |
 | ResourceGroup | 表示保存 Azure 解決方案相關資源的容器。 |
@@ -79,7 +79,7 @@ ms.locfileid: "89281310"
 | PricingCurrency | 價格清單中的貨幣。 |
 | ServiceInfo1 | 在指定的一天布建和使用的服務匯流排連接數目。 |
 | ServiceInfo2 | 舊版欄位，可捕獲選擇性的服務特定中繼資料。 |
-| 標籤 | 代表使用者所設定之 Azure 資源的邏輯組織。 |
+| Tags | 代表使用者所設定之 Azure 資源的邏輯組織。 |
 | AdditionalInfo | 任何未涵蓋於其他資料行中的其他資訊。 |
 | EffectiveUnitPrice | 依單位計費的實際值，包括任何折扣、獲得的點數等等。 |
 | PCToBCExchangeRate | 定價貨幣適用于計費貨幣的匯率。 |

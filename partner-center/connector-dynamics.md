@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 將合作夥伴中心中的參考與 Dynamics 365 CRM 同步處理
+description: 將合作夥伴中心中的推薦與 Dynamics 365 CRM 的共同銷售連接器同步處理。 然後，銷售人員可以從您的 CRM 系統內與 Microsoft 共同銷售。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 39fbeb4e180b24dc19f73b5381af8b8b481045f3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 8ea803e675ce7c2d21d680491bbdaedf792e631f
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000492"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031331"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 的共同銷售連接器–總覽
 
@@ -60,7 +60,7 @@ ms.locfileid: "91000492"
 
 10. 選取 **合作夥伴中心 Dynamics 365 的推薦同步**處理。 以下是可用的流程和實體 Power Automate：
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="可用的 CRM":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="開啟 AppSource":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>最佳做法：上線之前先進行測試
 
@@ -89,7 +89,7 @@ ms.locfileid: "91000492"
 
       2. 按一下 [ **建立連接**] 來建立連接。
 
-         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="建立連線":::
+         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="開啟 AppSource":::
 
       3. 在右上角的搜尋列中搜尋 **合作夥伴中心參考 (預覽) ** 。
 
@@ -111,11 +111,11 @@ ms.locfileid: "91000492"
 
 2. 新增 (的連接。 ) 合作夥伴中心具有推薦的系統管理員認證的使用者 (b. ) 合作夥伴中心事件，如下所強調
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="觸發程序":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="開啟 AppSource":::
 
 3. 當您進行這些更新時，您會看到
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="開啟 AppSource":::
 
 4. 儲存您的變更，然後選取 [ **開啟**]。
 
@@ -127,7 +127,7 @@ ms.locfileid: "91000492"
 
 7. 選取 **複製** 圖示來複製提供的 HTTP POST URL。
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="複製 URL":::
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="開啟 AppSource":::
 
 8. 現在，選取 [合作夥伴中心 Webhook 註冊 (Insider Preview) ] Power Automate 流程，然後選取 [ **執行**]。
 
@@ -223,7 +223,7 @@ Webhook 現在可以接聽建立和更新事件。
 
    2. 當您在 Dynamics 365 環境中建立「新商機」時，請確定下列區段存在
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="顯示 Dynamics 365 中 Microsoft 合作夥伴中心資訊的 [範例商機] 區段。":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="開啟 AppSource":::
 
    3. 若要與 Microsoft 合作夥伴中心同步處理這個機會，請確定您已在卡片視圖中設定下欄欄位：
 
@@ -231,7 +231,7 @@ Webhook 現在可以接聽建立和更新事件。
 
       - **Microsoft 如何協助？**：請從下列專案進行選取：
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 中的 [範例商機] 區段，會顯示名為「Microsoft 如何協助」之欄位旁的 Microsoft 合作夥伴中心說明選項？":::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="開啟 AppSource":::
 
       - **產品**：產品的解決方案識別碼
 
@@ -255,7 +255,7 @@ Webhook 現在可以接聽建立和更新事件。
 
    6. 當您選取同步處理的參考時，就會填入卡片視圖詳細資料。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [管理潛在客戶](manage-leads.md)
 

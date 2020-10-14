@@ -6,12 +6,12 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 487ad0b2ba42959748944721ebfcfc42fd4e506f
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663909"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032031"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>了解 Microsoft 寄發的 IRS 稅單
 
@@ -75,3 +75,7 @@ ms.locfileid: "91663909"
 
 > [!NOTE]
 > 如果您有其他與 **IRS 稅務表單**相關的問題或疑慮，請前往合作夥伴中心儀表板中的 [說明 [及支援](https://partner.microsoft.com/dashboard/support/) ]。 Microsoft 無法回答與您特定稅務狀況相關的問題；請向您的稅務專業人員洽詢建議。
+
+## <a name="next-steps"></a>後續步驟
+
+- [在商業市集中獲得報酬](marketplace-get-paid.md)

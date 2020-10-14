@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ace0147eb87786e38cb43e5e362790c227ed08b
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006836"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92032081"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何銷售供應專案給教育客戶 & 如何在合作夥伴中心中建立教育客戶
 
@@ -51,7 +51,7 @@ ms.locfileid: "92006836"
 
 ### <a name="confirm-your-education-customers-verification-status"></a>確認教育客戶的驗證狀態
 
-在 [客戶的帳戶] 頁面上，查看 **特殊的資格狀態**。
+在 [客戶的 **帳戶** ] 頁面上，查看 **特殊的資格狀態**。
 狀態範例：
 
 - 如果客戶通過驗證：教育版
@@ -90,7 +90,7 @@ ms.locfileid: "92006836"
 
 ### <a name="resubmit-for-verification"></a>重新提交以進行驗證
 
-1. 流覽至 [合作夥伴中心] 索引標籤和 [客戶 **帳戶** ] 頁面。 重新整理瀏覽器。 並確認公司頁面已更新為新的資訊。 選取 [ **更新** ] 按鈕以要求教育重新驗證。
+1. 流覽至 [合作夥伴中心] 索引標籤和 [客戶 **帳戶** ] 頁面。 重新整理瀏覽器，並確認公司頁面已更新為新的資訊。 選取 [ **更新** ] 按鈕以要求教育重新驗證。
 
 2. 如果更新的客戶詳細資料符合教育供應專案的資格，您將會看到 **特殊的資格** 已更新 **教育**版。 如果您仍然看 **不到教育客戶**，請洽詢支援人員以進行手動驗證。
 
