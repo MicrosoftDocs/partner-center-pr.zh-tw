@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 129db0715b52a55098ce4479fb3784506810543b
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
+ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844672"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92081367"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "91844672"
 
 | **類別** | **2020 年 10 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[2020 年 11 月更新：線上服務和軟體頻道授權指南](2020-october.md#11)|10 月 14 日|
+|供應項目/市場|[為非收益組織介紹 Microsoft 365 商務版 Voice](2020-october.md#10)|10 月 12 日|
+|供應項目/市場|[Microsoft 365 音訊會議的促銷現已推出，而 Microsoft 365 商務版語音即將推出](2020-october.md#9)|10 月 9 日|
 |功能|[Azure Marketplace 中簡化的 Azure 應用程式體驗](2020-october.md#8)|10 月 7 日|
 |供應項目/市場|[Microsoft Teams 聊天室進階 SKU 啟動](2020-october.md#7)|10 月 5 日|
 |供應項目/市場|[Microsoft 通話方案現已在新市場中推出](2020-october.md#6)|10 月 2 日|

@@ -160,6 +160,8 @@
           href: create-user-accounts-and-set-permissions.md
         - name: 將角色指派給使用者
           href: permissions-overview.md
+        - name: 尋找您的角色
+          href: find-your-role.md
         - name: 成為控制台廠商
           href: enroll-as-cpv.md
         - name: 重設使用者密碼
@@ -356,8 +358,9 @@
         - name: 支付常見問題
           href: payout-faq.md
 - name: 與客戶保持聯繫
-  href: customer-accounts.md
   items:
+    - name: 與您的客戶連線
+      href: connect-with-your-customers.md
     - name: 加入新的客戶
       href: add-a-new-customer.md
     - name: 要求與客戶建立經銷商關係
