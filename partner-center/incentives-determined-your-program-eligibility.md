@@ -1,6 +1,6 @@
 ---
 title: 獎勵計畫資格
-description: 請確定您的獎勵方案符合資格，以便您可以支付費用。
+description: 請確定您的獎勵方案符合資格，以便您可以支付費用。 此套裝程式含檢查您的計劃指南中的資格。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: bd80a61ed330f897340bbcf0164ee326598a4be1
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 89d523d637a5a7641e9a9a8be255a1525ca66752
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714452"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175227"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>判斷您的獎勵計畫資格
 
@@ -42,6 +42,6 @@ ms.locfileid: "90714452"
 
 4. 在 [計劃詳細資料] 欄位中，選取 [計劃指南]。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [獎勵計畫的支出和稅務設定檔](incentives-create-and-manage-your-payout-and-tax-profiles.md)

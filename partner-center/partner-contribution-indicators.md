@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解 (PCI) 的七個主要合作夥伴貢獻指標，顯示您如何使用 Dynamics 365 Customer Engagement 或 Dynamics 365 財務和營運。
+description: 深入瞭解七個合作夥伴貢獻指標 (PCI) ，其中顯示您如何使用 Dynamics 365 Customer Engagement 或 Dynamics 365 財務和營運。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e1c0c4e0f332e771415e9360e4eeaf756f00a8e
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714282"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175026"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>合作夥伴貢獻指標 (PCI) 顯示合作夥伴對客戶成功的七個關鍵量值有何影響
 
@@ -89,7 +89,7 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 |客戶成功-每月主動使用者成長  | 25個點 |
 
 下圖提供快速、視覺上的參考。
-:::image type="content" source="images/pci/perfnew.png" alt-text="顯示圖表，其中每七個夥伴貢獻指標 (PCI) 的最大分數可能。" border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="顯示 PCI 分數以達成銀級或金級專長認證。" border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>每個 PCI 度量的閾值
 
@@ -111,7 +111,7 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 | PCI 度量 | 效能指標：淨新收入 | 效能指標：新客戶新增 | 功能指標：功能顧問 | 功能指標：功能顧問成長 | 功能指標：開發人員 | 客戶成功指標：新的大型部署 | 客戶成功指標：每月主動使用者成長 |
 |---|---|---|---|---|---|---|---|
 | **最大點數** | 10點 | 10點 | 15點 | 15點 | 5點 | 20點 | 25個點 |
-| **開發** | $300000 | 10點 | 10點 | *\* 請參閱附注* | 5點 | 5點 | 25% |
+| **開發** | $300,000 | 10點 | 10點 | *\* 請參閱附注* | 5點 | 5點 | 25% |
 | **發展** | $150000 | 5點 | 5點 |*\* 請參閱附注* | 2點 | 1點 | 25% |
 
 *\* 注意：成長目標會根據基準顧問的數目而有所不同。請參閱 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 以瞭解成長目標。*
@@ -122,7 +122,7 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 | PCI 度量 | 效能指標：淨新收入 | 效能指標：新客戶新增 | 功能指標：功能顧問 | 功能指標：功能顧問成長 | 功能指標：開發人員 | 客戶成功指標：新的大型部署 | 客戶成功指標：每月主動使用者成長 |
 |---|---|---|---|---|---|---|---|
 | **最大點數** | 10點 | 10點 | 15點 | 15點 | 5點 | 20點 | 25個點 |
-| **開發** | $300000 | 3點 | 15點 | *\* 請參閱附注* | 5點 | 3點 | 25% |
+| **開發** | $300,000 | 3點 | 15點 | *\* 請參閱附注* | 5點 | 3點 | 25% |
 | **發展** | $150000 | 1點 | 5點 |*\* 請參閱附注* | 2點 | 1點 | 25% |
 
 *\* 注意：成長目標會根據基準顧問的數目而有所不同。請參閱 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 以瞭解成長目標。*
@@ -313,8 +313,8 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 
 如需有關使用此區域的詳細資訊，請參閱本文結尾處的資源和影片收集。
 
-   :::image type="content" source="images/pci/howto.png" alt-text="如何讀圖表":::
+   :::image type="content" source="images/pci/howto.png" alt-text="顯示 PCI 分數以達成銀級或金級專長認證。":::
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 觀看更多 PCI [訓練影片和資訊資源](https://partner.microsoft.com/asset/collection/pci-learn#/)。

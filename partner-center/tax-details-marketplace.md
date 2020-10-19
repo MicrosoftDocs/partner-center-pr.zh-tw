@@ -1,17 +1,17 @@
 ---
 title: Microsoft 商業市集的稅務詳細資料
-description: 若要了解您在價格選取方面應有的稅務考量、支出影響和稅務責任，請參閱下表中的散發國家/地區。
+description: 請參閱這些表格，以瞭解您的國家/地區/地區分佈的價格選擇、付款影響，以及您的國家/地區的稅金考慮。
 ms.topic: conceptual
 ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 3e350074b08a435ea913f9462702602d1a7c04e8
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007480"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174998"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>商業市集發行者的稅務詳細資料
 

@@ -1,6 +1,6 @@
 ---
 title: 合作夥伴中心 Insights-CloudAscent 傾向報告
-description: 瞭解合作夥伴中心儀表板中的 CloudAscent 傾向報告。
+description: 瞭解合作夥伴中心中的 CloudAscent 傾向報告。 包含客戶傾向購買 Microsoft 產品的相關資訊。
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 09/18/2020
-ms.openlocfilehash: 510f85b053ec17fa0a2a66217a19c006e7ca2bc9
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: fd017884c29df3874a06e8c4213c6fe5f05a8995
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "90811332"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175282"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent 可從合作夥伴中心儀表板取得的傾向報表
 
@@ -40,14 +40,14 @@ ms.locfileid: "90811332"
 
    我們定義了最常見的雙重非受控方法：
 
-   - **最常見的非受控使用者**-包含具有300或更多員工的帳戶。 以使用者為基礎的帳戶是首次購買或擴充以使用者為基礎的訂閱產品（例如 M365、D365 或 Surface）的絕佳目標。
+   - **最常見的非受控使用者**-包含具有300或更多員工的帳戶。 User-Based 帳戶是首次購買或擴充以使用者為基礎的訂閱產品（例如 M365、D365 或 Surface）的絕佳目標。
    - 以**最上層非受控計算為基礎**–包括 Azure 可能大於 $ 10k 的帳戶。 以計算為基礎的帳戶包括現有的 Azure。 有多年來的帳戶，以及尚未購買 Azure 的帳戶，但 Azure 可能大於 $ 10k 的帳戶。
 
 2. **中型企業** 包含擁有25至300員工的現有客戶和潛在客戶帳戶。
 
 3. **Small Business** 包含擁有25位以上員工的所有剩餘企業。
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="依 SMC 類型的客戶。":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="客戶商機摘要儀表板的螢幕擷取畫面。":::
 
 **最常見的非受控** 和 **中型企業** e1edp01 子代表高生命時間價值 (LTV) 客戶給 microsoft 和 microsoft 合作夥伴。 因此，它們是在此區段中推動成長的潛在客戶領域。 在這兩個 e1edp01 子中，我們最好是使用 M365 取得通訊端，再銷售 D365/Azure 企業營運 (LOB) 應用程式，並實現 Microsoft 的高 LTV。
 
@@ -55,7 +55,7 @@ ms.locfileid: "90811332"
 
 下列螢幕擷取畫面顯示三個 SMB E1edp01 子與市場的優化路由。 CloudAscent 會優先處理所有最上層非受控與中型企業帳戶的分析、評分和模型化。
 
-:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="SMB e1edp01 子的螢幕擷取畫面。":::
+:::image type="content" source="images/pci/cust-oppor-3.png" alt-text="客戶商機摘要儀表板的螢幕擷取畫面。":::
 
 ## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
@@ -67,7 +67,7 @@ SMB 使用機器學習技術，在最上層非受控和中業務區段內推動�
 
 - **優化**： Machine Learning 系統會每季取用交易資料和訂用帳戶資料，以優化模型。  Machine Learning 會使用 win/遺失資料來調整演算法，並藉由比較叢集建議與在 MSX 中處理的商機，來驗證模型是否如預期般運作。
 
-:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="SMB 機器學習的螢幕擷取畫面。":::
+:::image type="content" source="images/pci/cust-oppor-4.png" alt-text="客戶商機摘要儀表板的螢幕擷取畫面。":::
 
 ## <a name="cloudascent-propensity"></a>CloudAscent 傾向
 
@@ -91,7 +91,7 @@ SMB 使用機器學習技術，在最上層非受控和中業務區段內推動�
 
    - 意圖評分會每月更新。
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="CloudAscent SMB 預測模型。":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="客戶商機摘要儀表板的螢幕擷取畫面。":::
 
 3. 叢集
 
@@ -121,7 +121,7 @@ SMB 使用機器學習技術，在最上層非受控和中業務區段內推動�
 
       4. 最後，這些區段會組成叢集。  例如，A1、A2、A3、A4 形成「立即行動」叢集。
 
-         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="CloudAscent 模型。":::
+         :::image type="content" source="images/pci/cust-oppor-6.png" alt-text="客戶商機摘要儀表板的螢幕擷取畫面。":::
 
    針對這些客戶，建議您將目標設為「立即行動」並評估客戶。
 
@@ -129,7 +129,7 @@ SMB 使用機器學習技術，在最上層非受控和中業務區段內推動�
 
 下圖提供 CloudAscent 內每個傾向模型的觀點：
 
-:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="CloudAscent 傾向模型。":::
+:::image type="content" source="images/pci/cust-oppor-7.png" alt-text="客戶商機摘要儀表板的螢幕擷取畫面。":::
 
 空白模型是由現有 Microsoft 客戶的預測所組成，其中沒有產品及/或是新的潛在客戶。
 

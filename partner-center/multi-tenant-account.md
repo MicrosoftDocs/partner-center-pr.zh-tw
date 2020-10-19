@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 07/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 透過您的合作夥伴中心帳戶管理多個租使用者
+description: 瞭解如何在您的合作夥伴中心帳戶中新增、合併或管理多個 Azure AD 租使用者。 深入瞭解您可能會想要進行的一些原因。
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ecdfcbd4801bee34be298030016d7366b12d7db3
-ms.sourcegitcommit: 9bbad472a86086eec684f3b7f4568fdf152f625e
+ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "88846952"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175167"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>在您的合作夥伴中心帳戶中新增和管理多個租使用者
 
@@ -50,7 +50,7 @@ ms.locfileid: "88846952"
 
 1. 以全域管理員身分登入您想要關聯的租使用者，並確認該關聯。 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="確認租使用者的關聯"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="建立租使用者的關聯"::: 
 
 5. 確認之後，您會看到所有的 **設定** 通知。  選取 [ **返回租使用者管理** ]，您會看到列出新加入的租使用者。 
  

@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解何時將客戶服務問題呈報給 Microsoft，以及如何提出支援票證。
+description: 瞭解何時將客戶服務問題呈報給 Microsoft，以及如何針對不同類型的 Microsoft 服務提出支援票證。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73773101eda7dc9ad40b8a579ea3ba441739e931
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999782"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175079"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客戶回報服務問題-包括何時及如何進行
 
@@ -147,7 +147,7 @@ Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要�
 
 閱讀 [Microsoft Dynamics 支援](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [為客戶提供支援](customer-support.md)
 - [檢查服務健康狀況](check-service-health.md)

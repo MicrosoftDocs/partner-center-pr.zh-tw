@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 探索合作夥伴中心整合報告儀表板。
+description: 瞭解如何從合作夥伴中心的整合報告儀表板，以及從合作夥伴中心 Insights 報表下載和匯出資料。
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e59ace7ab52b7c08fb824e62f72b60dd1ce4df25
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100758"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175271"
 ---
 # <a name="download-reports"></a>下載報表
 

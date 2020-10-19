@@ -2,22 +2,22 @@
 title: 獎勵支出和稅務設定檔常見問題集
 ms.topic: article
 ms.date: 09/11/2020
-description: 有關獎勵支出和稅務設定檔的常見問題。
+description: 有關獎勵支出和稅務設定檔的常見問題。 問題包括無法查看您的付款和稅務設定檔的原因，以及該怎麼做。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c76541295c8eb068dbde84a4f6dd6f058af37c42
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999302"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175346"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>有關獎勵支出和稅務設定檔的常見問題
 
-適用於：
+適用於︰
 
 - 合作夥伴中心
 
@@ -69,6 +69,6 @@ ms.locfileid: "90999302"
 
 請洽詢您的帳戶管理員，將其他網域新增到 AAD 帳戶。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [合作夥伴中心的支出和稅金設定檔](incentives-create-and-manage-your-payout-and-tax-profiles.md)

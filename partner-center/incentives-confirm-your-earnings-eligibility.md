@@ -2,18 +2,18 @@
 title: 確認收益資格
 ms.topic: how-to
 ms.date: 09/11/2020
-description: 確定您符合建立收益的資格，並享有獎勵方案的款項。
+description: 確定您有資格在獎勵計畫中建立收益並獲得支付。 在合作夥伴中心中檢查您的收益資格和收益規則。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 70941e11abae1846132acc28169daa4c9153b36a
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 82d1db0175a8038d0297eddd8f86dfba26bb8401
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714502"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175115"
 ---
 # <a name="confirm-your-incentives-earnings-eligibility"></a>確認您的獎勵收益資格
 
@@ -34,6 +34,6 @@ ms.locfileid: "90714502"
 2. 向下滾動以存取您感興趣之程式的檔，然後按一下個別程式的檔連結。
 3. 在檔中，請參閱 **合作夥伴資格** 和 **合格收入規則**的各節。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [開始使用獎勵](incentives-get-started-intro.md)

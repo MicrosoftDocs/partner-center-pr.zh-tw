@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 如何報告合作夥伴中心的問題並收集要提供給支援小組的診斷資訊。
+description: 瞭解如何報告合作夥伴中心的問題，以及如何收集合作夥伴支援小組的診斷資訊。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3cb6491a3c0245cece4d65d3be6b1ec2f4a836cd
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220246"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175235"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何報告合作夥伴中心的問題，並提交任何記錄檔或診斷資訊
 

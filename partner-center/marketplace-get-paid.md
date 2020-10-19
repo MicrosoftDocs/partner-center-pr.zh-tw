@@ -1,17 +1,17 @@
 ---
 title: 在商業市集中獲得報酬
-description: 瞭解如何在商業市場 Azure Marketplace 中接收您的收益款項。
+description: 瞭解如何在商業市場 Azure Marketplace 中收到收益的款項。 包含付款原則、付款保留狀態和付款聲明。
 ms.service: marketplace
 ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: bcd1b6d2ea82a6302ccdad7619f9c1bdabb4aead
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591071"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175208"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>在商業市集中獲得報酬
 
@@ -42,7 +42,7 @@ ms.locfileid: "91591071"
 >[!Note]
 > 您的付款保留狀態會個別套用至每個方案 (Microsoft Store、廣告、Azure Marketplace 等) 。 如果您想要保留所有程式的付款，請個別保存每個方案的款項。
 
-## <a name="payout-statements"></a>支付明細表
+## <a name="payout-statements"></a>支出明細表
 
 付款帳單會顯示您在交易歷程記錄中，從您的供應專案和附加元件銷售的收益。 您也可以查看付款詳細資料，並下載 tsv 或 csv 格式的報表。 若要深入瞭解如何存取付款聲明和交易歷程記錄和付款報告的詳細資料，請參閱付款 [聲明](payout-statement.md) 。 此外，您可以使用 [Partner 支出 API](https://apidocs.microsoft.com/services/partnerpayouts) ，有系統地提取付款報告。
 

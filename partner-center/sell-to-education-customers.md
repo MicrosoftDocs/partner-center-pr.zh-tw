@@ -1,6 +1,6 @@
 ---
 title: 如何銷售優惠給教育客戶
-description: 瞭解如何建立教育客戶，並在合作夥伴中心中銷售優惠。
+description: 瞭解如何建立教育客戶，並在合作夥伴中心中銷售優惠。 包含確認教育客戶的驗證狀態。
 ms.topic: how-to
 ms.date: 10/06/2020
 ms.service: partner-dashboard
@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59346026db6f8eb34f798146da88343e739dc510
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5f17493a55ebd7d1ff9de0570e867cdf38e2e3fb
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92032081"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92175077"
 ---
 # <a name="how-to-sell-offers-to-education-customers--how-to-create-an-education-customer-in-partner-center"></a>如何銷售供應專案給教育客戶 & 如何在合作夥伴中心中建立教育客戶
 

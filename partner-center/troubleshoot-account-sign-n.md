@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 針對在合作夥伴中心中註冊的問題進行疑難排解
+description: 針對嘗試註冊合作夥伴中心時發生的問題進行疑難排解。 使用付款條件、忘記密碼等解決問題的答案。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 403899b73dda09dded582c94cabe4219ef56c568
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000612"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174843"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>針對帳戶設定或 MPN 續約問題進行疑難排解
 
@@ -31,7 +31,7 @@ ms.locfileid: "91000612"
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>如果您要從 Partner Membership Center 進行遷移，而且無法編輯任何公司資訊欄位，會發生什麼事
 
-如果您的公司已經有合作夥伴中心的 (說 CSP 帳戶) –您將會看到一個唯讀畫面，它會顯示您的公司存在於合作夥伴中心中的所有相關資訊。
+如果您的公司已經有合作夥伴中心的 (說 CSP 帳戶) –您將會看到唯讀畫面。 此畫面會顯示合作夥伴中心中現有公司的所有相關資訊。
 
 您無法變更此畫面上的詳細資料。 這是設計的，而不是錯誤。
 
@@ -40,8 +40,7 @@ ms.locfileid: "91000612"
 
 ### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>如果 IT 部門已關閉合作夥伴中心的 **註冊**。
 
-
-您會看到此訊息，是因為已停用病毒使用者，或在 Azure AD 租使用者上停用了病毒註冊。 您 Azure AD 帳戶的全域管理員可以執行下列 PowerShell 命令來啟用所需的功能：
+您會看到此訊息是因為病毒使用者已停用，或在 Azure AD 的租使用者上停用病毒註冊。 您 Azure AD 帳戶的全域管理員可以執行下列 PowerShell 命令來啟用所需的功能：
 
 **Set-msolcompanysettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
@@ -49,9 +48,9 @@ ms.locfileid: "91000612"
 
 ## <a name="you-forgot-your-password"></a>忘記密碼
 
-如果您忘了密碼，請選取登入頁面上的 [ **無法存取您的帳戶？** ] 連結來重設您的密碼，或要求您的全域管理員為您指派新的認證。
+如果您忘了密碼，請在登入頁面上選取 [ **無法存取您的帳戶？** ] 連結。 此選項可讓您重設密碼，或要求您的全域管理員為您指派新的認證。
 
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>在 [告訴我們您公司的相關資訊] 畫面上，您會收到「發生錯誤」錯誤
+## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>在 [告訴我們您的公司] scree 上，您會收到「發生錯誤」錯誤
 
 如果您不小心在公司電話號碼中使用特殊字元、空格或國家/地區代碼，則通常會出現此錯誤訊息。 [電話號碼] 欄位中輸入的值最多隻能包含10個字元。
 

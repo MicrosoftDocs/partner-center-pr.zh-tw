@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 使用 (CPOR) 模型的宣告夥伴建立客戶關聯。 協助管理 Microsoft 365 和 Dynamics 365 客戶的銷售、使用、& 獎勵。
+description: 使用 (CPOR) 模型的宣告夥伴建立客戶關聯。 協助管理 Microsoft 365 & Dynamics 365 客戶的銷售、使用量、獎勵。
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1fc528b0a00fab42d7ddfcf8dae79d1eae1e2967
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
+ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90714352"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92174993"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>客戶與 Microsoft 365 和 Dynamics 365 的記錄 (CPOR) 模型的客戶關聯
 
@@ -26,10 +26,10 @@ ms.locfileid: "90714352"
 
 - 獎勵管理員
 
-從2019年10月1日開始，Microsoft 會開始使用 (CPOR) 模型的宣稱合作夥伴來管理您與 Microsoft 365 和 Dynamics 365 客戶的關聯與 Dynamics 客戶有關線上服務諮詢 (OSA) 銷售、線上服務使用 (OSU) -Microsoft 365 和 OSU 商務應用程式獎勵。
+從2019年10月1日開始，Microsoft 開始使用 (CPOR) 模型的宣稱合作夥伴來管理您與 Microsoft 365 和 Dynamics 365 客戶的關聯和 Dynamics 客戶相關的線上服務諮詢 (OSA) 銷售、線上服務使用 (OSU) Microsoft 365 和 OSU-Business 應用程式獎勵。
 
 >[!Important]
-> 客戶關聯 (CPOR) 宣告僅適用于線上服務諮詢 (OSA) 銷售、線上服務使用 (OSU) -Microsoft 365 和 OSU 商務應用程式獎勵計畫。 如果您要為另一個程式（例如雲端解決方案提供者、受管理的轉銷商、託管或表面）提交共同作業索賠，請參閱此處所述的共同作業宣告程式。 <br><br>當您提交宣告時，Microsoft 會進行驗證。 我們可能會在此時要求您提供更多資訊。 我們也會通知客戶您的關聯要求。 客戶有五個工作天可退出宣告。如果未退出宣告，與此特定租使用者和工作負載的關聯將會是官方的。 至此，您將可存取客戶的使用量資料。 
+> 客戶關聯 (CPOR) 宣告僅適用于線上服務諮詢 (OSA) 銷售、線上服務使用 (OSU) -Microsoft 365 和 OSU-Business 應用程式獎勵方案。 如果您要為另一個程式（例如雲端解決方案提供者、受管理的轉銷商、託管或表面）提交共同作業索賠，請參閱此處所述的共同作業宣告程式。 <br><br>當您提交宣告時，Microsoft 會進行驗證。 我們可能會在此時要求您提供更多資訊。 我們也會通知客戶您的關聯要求。 客戶有五個工作天可退出宣告。如果未退出宣告，與此特定租使用者和工作負載的關聯將會是官方的。 至此，您將可存取客戶的使用量資料。 
 
 您將需要下列資訊才能完成宣告：
 
@@ -63,7 +63,7 @@ ms.locfileid: "90714352"
 
 - 如果您現有與 Dynamics 365 或 Power BI 客戶的關聯，這些關聯將會維持有效，直到其訂閱到期為止。
 
-- 客戶可以有多個夥伴，但 OSU Microsoft 365) 的每個工作負載 (或針對 OSA 銷售和 OSU Business Applications 的訂用帳戶 (只能與一個合作夥伴相關聯。
+- 客戶可以有多個夥伴，但每個工作負載 (用於 OSA-Sell 和 OSU-Business 應用程式的 OSU-Microsoft 365) 或訂用帳戶 () 只能與一個夥伴相關聯。
 
 ## <a name="create-a-customer-association"></a>建立客戶關聯
 
@@ -104,6 +104,6 @@ ms.locfileid: "90714352"
 
 選取 [歷程記錄] 以檢視客戶關聯的歷程記錄。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [管理客戶關聯](incentives-manage-customer-associations.md)
