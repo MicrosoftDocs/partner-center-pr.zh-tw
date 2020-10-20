@@ -1,5 +1,5 @@
 ---
-title: 瞭解帳單發票中的欄位
+title: 瞭解合作夥伴中心計費發票
 ms.topic: article
 ms.date: 05/18/2020
 description: 瞭解合作夥伴中心帳單的發票檔案中的欄位。資訊包括所有發票欄位的欄位和定義，以及一次的費用欄位。
@@ -7,14 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 634dc8c9f1d21b62aa0a7e75eb0d31742cd17729
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175328"
+ms.locfileid: "92198004"
 ---
-# <a name="partner-center-billing-invoices---learn-how-to-read-the-billing-and-one-time-charge-fields"></a>合作夥伴中心計費發票-瞭解如何讀取帳單和一次性費用欄位
+# <a name="understand-partner-center-billing-invoice-fields"></a>瞭解合作夥伴中心計費發票欄位
 
 **適當的角色**
 

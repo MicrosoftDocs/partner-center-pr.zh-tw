@@ -1,22 +1,22 @@
 ---
-title: 管理客戶帳戶中的使用者
+title: 管理客戶帳戶的使用者和使用者授權
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何為客戶建立使用者帳戶、新增或移除使用者授權、重設使用者密碼、刪除使用者帳戶，或將其還原。
+description: 瞭解如何在合作夥伴中心中管理客戶的使用者，例如建立使用者帳戶、新增或移除使用者授權、重設使用者密碼，以及刪除或還原使用者帳戶。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a3febadda51094d443d83d17b640b1744a130335
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: fc208283e0ed8c0f164a44cc9bd70260b8671c6e
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527674"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198014"
 ---
-# <a name="user-management-tasks-for-customer-accounts-in-partner-center"></a>合作夥伴中心內客戶帳戶的使用者管理工作
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>管理客戶帳戶的使用者和使用者授權
 
 **適用於**
 
@@ -30,9 +30,9 @@ ms.locfileid: "87527674"
 - 銷售代理人
 - 技術服務代理人
 
-您可以在客戶的帳戶中建立及刪除新的使用者。 您也可以還原在刪除後的30天內，您先前刪除的一個或多個使用者帳戶。 使用者先前的訂閱指派同樣會還原 (假設他們之前的配置可用)
+您可以建立和刪除客戶帳戶中的新使用者。 您也可以還原一或多個先前在刪除的30天內刪除的使用者帳戶。 使用者先前的訂閱指派同樣會還原 (假設他們之前的配置可用)
 
-當您為客戶購買新的訂用帳戶時，客戶應該會提供一份清單，列出所有需要帳戶的使用者、其使用者權限，以及每個使用者所需的服務。  
+當您為客戶購買新的訂用帳戶時，客戶應該會提供一份清單，列出所有需要帳戶的使用者、其使用者權限，以及每位使用者所需的服務。  
 
 您可以使用 [與 Excel 相容的 .csv 試算表檔案](adding-multiple-users-to-a-customer-account.md)來匯入名稱，一次[指派訂閱給多個使用者](bulk-license-provisioning-for-multiple-users.md)。
 
@@ -58,7 +58,7 @@ ms.locfileid: "87527674"
 
 ## <a name="add-or-remove-user-licenses-for-a-customer"></a>新增或移除客戶的使用者授權
 
-下列步驟適用于新增或移除 Microsoft 產品的使用者授權。 若要在商業 marketplace 中新增或移除以授權為基礎的 SaaS 訂用帳戶的使用者授權，請參閱[新增或移除 SaaS 訂閱的授權](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)。
+下列步驟適用于新增或移除 Microsoft 產品的使用者授權。 若要在商業 marketplace 中新增或移除授權型 SaaS 訂用帳戶的使用者授權，請參閱 [新增或移除 SaaS 訂用](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription)帳戶的授權。
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
@@ -66,12 +66,12 @@ ms.locfileid: "87527674"
 
 3. 在客戶功能表中，選取 [使用者與授權]****。
 
-4. 從清單中選擇一或多位使用者。 例如，如果客戶剛購買新的授權，而您想要將它們指派給尚未擁有的人員，您可以使用 [**篩選使用者依據**] 選項來尋找正確的群組。
+4. 從清單中選擇一或多位使用者。 例如，如果客戶剛購買新的授權，而您想要將它們指派給尚未擁有的使用者，您可以使用 [ **篩選使用者依據 ...** ] 選項來尋找正確的群組。
 
-5. 選取 [**管理授權**]。 進行變更，然後 [**儲存**]。
+5. 選取 [ **管理授權**]。 進行您的變更，然後 **儲存**。
 
 > [!NOTE]
-> 針對[Azure Marketplace 產品](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)，授權指派和啟用是透過發行產品的獨立軟體廠商（ISV）來管理。
+> 針對 [Azure Marketplace 產品](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)，授權指派和啟用是透過發佈產品的獨立軟體廠商 (ISV) 來管理。
 
 <a href="" id="resetpassword"></a>
 
@@ -83,7 +83,7 @@ ms.locfileid: "87527674"
 
 3.  在客戶功能表中，選取 [使用者與授權]****。 從清單中選擇使用者。
 
-4.  在畫面底部，選取 [**重設密碼**]。 
+4.  在畫面底部選取 [ **重設密碼**]。 
 
 5.  將新的暫時密碼傳送給使用者。
 
@@ -91,7 +91,7 @@ ms.locfileid: "87527674"
 
 ## <a name="delete-user-accounts-for-a-customer"></a>為客戶刪除使用者帳戶
 
-1.  從 [**合作夥伴中心**] 功能表中，選取 [**客戶**]。 從清單中選擇客戶。
+1.  從 [ **合作夥伴中心** ] 功能表選取 [ **客戶**]。 從清單中選擇客戶。
 
 2.  在客戶功能表中，選取 [使用者與授權]****。 從清單中選擇使用者。
 
@@ -103,15 +103,15 @@ ms.locfileid: "87527674"
 
 ## <a name="restore-deleted-user-accounts"></a>還原刪除的使用者帳戶
 
-1.  從 [**合作夥伴中心**] 功能表選取 [**客戶**]，然後從清單中選擇客戶。
+1.  從 [ **合作夥伴中心** ] 功能表選取 [ **客戶**]，然後從清單中選擇客戶。
 
-2.  選取 [**使用者和授權**]。
+2.  選取 **使用者和授權**。
 
 3.  選取 **\[刪除的使用者 ( )\]** 索引標籤，其中應該會顯示 **(1)**，如果有多個可還原的已刪除使用者，則顯示更大的數字。
 
-4.  選取一或多個 [已刪除的使用者] 核取方塊，然後選取 [**還原**]。
+4.  選取一或多個 [已刪除的使用者] 核取方塊，然後選取 [ **還原**]。
 
-    所有選取的使用者帳戶都會重新出現在 [**使用者和授權**] 頁面中。
+    所有選取的使用者帳戶都會重新出現在 [ **使用者和授權** ] 頁面中。
 
 ## <a name="related-topics"></a>相關主題
 
