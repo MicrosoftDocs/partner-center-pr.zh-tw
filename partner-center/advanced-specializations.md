@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 強化夥伴目錄中的商務設定檔。 瞭解如何以金級/銀級專長認證來獲得先進的特製化。
+description: 強化您在 Microsoft 合作夥伴目錄中的商務設定檔。 瞭解如何獲得先進的特製化，以及您的金級和銀級專長認證。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d1dd109f7a6966c288e34171fbbcd42573d8fca
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100748"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198074"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-expertise-and-stand-out-to-customers"></a>獲得先進的特製化，以展示專長並與客戶脫穎而出 
+# <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>獲得先進的特製化以展示專長
 
 許多合作夥伴在關鍵領域獲得了金級專長 [認證](learn-about-competencies.md) ，然後繼續獲得先進的特製化。
 

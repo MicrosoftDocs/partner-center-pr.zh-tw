@@ -1,7 +1,7 @@
 ---
 title: 查看您的獎勵和計畫詳細資料
 ms.topic: article
-ms.date: 08/17/2020
+ms.date: 10/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 使用這些頁面來查看、管理及匯出付款和收益詳細資料，以及方案狀態和完整的交易歷程記錄。
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 0abc7235c091620650d3288ef228a3d009c016e0
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406341"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198084"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>查看、管理及匯出獎勵方案詳細資料
 
@@ -116,7 +116,7 @@ ms.locfileid: "91406341"
 
 #### <a name="estimated-payment-month-example"></a>預估的付款月份範例
 
-| Month | 金額 |
+| Month | Amount |
 | ------ | :-----------: |
 |  Sep-2020 |  $7273.99   |
 |  十月-2020 | $8692.30  |
@@ -198,17 +198,23 @@ ms.locfileid: "91406341"
 >- **lastPaymentCurrency**  收到最新款項的貨幣，在目前登入的夥伴所屬的所有 MPNs 中都有存取權。 如果未收到任何付款，則最後的付款貨幣將會是美元。
 >- **earningAmountInLastPaymentCurrency**  最後一個付款貨幣的收益金額。
 
+下表列出調整的原因代碼及其描述。
+
+|**原因代碼**   |**說明**   |
+|------------------|:-------------------------------------|
+| AR 合規性 | 當合作夥伴未按時支付 Microsoft 發票時，可減少收益的調整。 |
+| 共同作業變換 | 將共同作業收益轉移至另一個期間的調整，或將共同作業的收益轉換成返利。 |
+| Ops 調整 | 修正 Microsoft 系統計算錯誤的調整。 |
+| Ops 調整 Microsoft 不正確的計算機 | 修正 miscalculations 的調整。 |
+| Ops 調整 Microsoft 不正確的註冊 | 針對註冊相關 miscalculations 進行調整。 |
+|  (訂用帳戶) MCI/CSP 的夥伴對應 | 更正訂用帳戶對齊的調整。 |
+| 原則例外狀況 | 覆寫程式規則的調整。  |
+| 上一個期間的收益 | 針對目前收益期間以外的收益進行調整。 |
+
+下表列出 [交易記錄] 下載匯出頁面上顯示的欄位，以及其描述。
 
 |**資料行名稱**   |**說明**   |
 |------------------|:-------------------------------------|
-| AR 合規性 | 當合作夥伴未按時支付 Microsoft 發票時，可減少收益的調整 |
-| 共同作業變換 | 將共同作業收益轉移至另一個期間，或將共同作業收益轉換為返利的調整 |
-| Ops 調整 Microsoft 不正確的計算機 | 修正 miscalculations 的調整 |
-| Ops 調整 Microsoft 不正確的註冊 | 註冊相關 miscalculations 的調整 |
-| 原則例外狀況 | 覆寫程式規則的調整  |
-| Ops 調整 | 更正 Microsoft 系統計算錯誤的調整 |
-| 上一個期間的收益 | 在目前收益期間以外的收入調整 |
-|  (訂用帳戶) MCI/CSP 的夥伴對應 | 更正訂用帳戶對齊的調整 |
 |customerId   |客戶識別碼   |
 |customerName   |交易客戶名稱   |
 |earningAmount   |以原始交易貨幣來贏得金額   |
