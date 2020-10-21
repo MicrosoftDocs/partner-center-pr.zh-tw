@@ -1,10 +1,11 @@
-- name: 關於 Microsoft 合作夥伴中心
+- name: Microsoft 合作夥伴中心文件
   href: index.yml
 - name: 公告
   href: announcements/TOC.md
 - name: 合作夥伴網路會員資格
-  href: mpn-overview.md
   items:
+    - name: 成為 Microsoft 合作夥伴
+      href: mpn-overview.md
     - name: 建立合作夥伴中心帳戶
       href: mpn-create-a-partner-center-account.md
     - name: 取得公司電子郵件地址
@@ -99,9 +100,9 @@
       href: regional-authorization-overview.md
     - name: 雲端解決方案提供者地區授權租用戶彙總簡介
       href: csp-regional-authorization-tenant-consolidation.md
-    - name: 概觀 - 確認客戶接受 Microsoft 客戶合約的新方法
+    - name: 更新方法以確認接受 Microsoft 客戶合約
       href: confirm-consent.md
-    - name: 如何確認客戶接受 Microsoft 客戶合約
+    - name: 確認接受 Microsoft 客戶合約
       href: confirm-customer-agreement.md
     - name: 證明代表客戶接受客戶合約的時機
       href: attest-acceptance-customer-agreement.md
@@ -120,9 +121,9 @@
           href: csp-gcc-overview.md
         - name: Office 365 政府版 GCC 的合作夥伴和客戶資格條件
           href: csp-gcc-validate.md
-        - name: Microsoft Cloud 德國合作夥伴中心內的使用者及授權管理
+        - name: Microsoft Cloud 德國的使用者及授權管理
           href: user-management-in-partner-center-for-microsoft-cloud-germany.md
-        - name: 美國政府適用的 Microsoft Cloud 合作夥伴中心內的使用者及授權管理
+        - name: Microsoft Cloud for US Government 的使用者及授權管理
           href: user-management-in-partner-center-for-microsoft-us-govt-cloud.md
 - name: 管理合作夥伴中心帳戶
   items:
@@ -182,7 +183,7 @@
           href: customize-the-catalog.md
 - name: 轉介
   items:
-    - name: 協助拓展您的業務
+    - name: 拓展您的業務
       href: grow-your-business.md
     - name: 推薦概觀
       href: referrals.md
@@ -251,6 +252,9 @@
         - name: 建立您的執行證明
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
+        - name: 以 PoE 形式提交稅務發票
+          href: incentives-tax-invoice-poe.md
+          displayName: incentives
     - name: 獎勵合作宣告
       items:
         - name: 獎勵合作宣告
@@ -306,7 +310,7 @@
           href: common-billing-scenarios-annual.md
         - name: 一次性和所選週期性費用的案例
           href: common-billing-scenarios-onetime-recurring.md
-        - name: 帳單發票 - 讀取帳單和一次性費用欄位
+        - name: 了解帳單發票
           href: invoice-file.md
         - name: 授權型帳單
           href: license-based-billing.md
@@ -327,7 +331,7 @@
           href: vat-info.md
         - name: 收取預扣稅額
           href: withholding-tax-credit-form.md
-        - name: 地區稅務 - 語音服務
+        - name: 語音服務的地區稅務
           href: tax-and-fees-voice-services.md
         - name: 商業市集發行者的稅務詳細資料
           href: tax-details-marketplace.md
@@ -367,7 +371,7 @@
       href: request-a-relationship-with-a-customer.md
     - name: 移除與客戶的經銷商關係
       href: remove-a-relationship.md
-    - name: 客戶委派或撤銷對合作夥伴的管理權限
+    - name: 取得客戶委派的管理權限
       href: customers-revoke-admin-privileges.md
     - name: 查看您的客戶清單
       href: see-your-customer-list.md
@@ -418,7 +422,7 @@
     - name: Azure 方案
       href: azure-plan-lp.md
       items:
-        - name: Azure 方案 - 開始使用
+        - name: Azure 方案概觀
           href: azure-plan-get-started.md
         - name: 購買 Azure 方案
           href: purchase-azure-plan.md
@@ -426,7 +430,7 @@
           href: compare-azure-offers.md
         - name: 將您的客戶轉換為 Azure 方案
           href: azure-plan-transition.md
-        - name: 合作夥伴所獲得信用點數 - 概觀
+        - name: 合作夥伴獲得的信用點數
           href: partner-earned-credit.md
         - name: 合作夥伴所獲得信用點數如何計算及付費
           href: partner-earned-credit-explanation.md
@@ -459,13 +463,13 @@
           href: sell-marketplace-products.md
         - name: 在合作夥伴中心指派 Azure 訂閱
           href: assign-azure-subscriptions.md
-        - name: 將授權指派給使用者
+        - name: 管理使用者和授權
           href: assign-licenses-to-users.md
         - name: 將授權或服務新增到現有的訂閱
           href: add-licenses-or-services-to-an-existing-subscription.md
         - name: 指派或撤銷多個使用者的授權
           href: bulk-license-provisioning-for-multiple-users.md
-        - name: 將授權型服務客戶移轉到雲端服務提供者計畫
+        - name: 將授權型服務客戶移轉到 CSP 計畫
           href: transition-seat-based-services.md
         - name: 銷售 Minecraft Education Edition  訂用帳戶
           href: minecraft-subscriptions.md
