@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/02/2020
-ms.openlocfilehash: 4cd39cfe3d927fbcaea3afc69c9e1844fc7917d7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999262"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197994"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>管理您的合作夥伴中心帳戶 - 公司設定檔、銀行資訊、角色、權限等等
 
@@ -53,7 +53,7 @@ ms.locfileid: "90999262"
 >[!NOTE]
 >若要存取**合作夥伴設定**或**開發人員設定**，您必須登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)，然後選取畫面右上角的 [設定] 選項 (齒輪圖示)。 然後，您可以從下拉式功能表中選取 [合作夥伴設定] 或 [開發人員設定]。
 
-:::image type="content" source="images/accountsettings/account1.png" alt-text="帳戶設定":::
+:::image type="content" source="images/accountsettings/account1.png" alt-text="已註冊計劃功能表":::
 
 合作夥伴可根據其公司是否已在相關計畫中註冊，而看到用來管理**合作夥伴設定**和 (或) **開發人員**設定的選項。 貴公司只有在已於至少一個與該設定相關聯的計畫中完成註冊時，才可以使用設定選項。
 
@@ -85,11 +85,11 @@ ms.locfileid: "90999262"
 
 **合作夥伴設定選項**：
 
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="合作夥伴選項":::
+:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="已註冊計劃功能表":::
 
 **開發人員設定選項**：
 
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="開發人員選項":::
+:::image type="content" source="images/accountsettings/devoptions.png" alt-text="已註冊計劃功能表":::
 
 ## <a name="enrolling-in-programs"></a>在計畫中註冊
 
@@ -108,7 +108,7 @@ ms.locfileid: "90999262"
 
 您可以加入到多個帳戶。 如果您加入到多個帳戶，則會在左側導覽功能表中看到 [帳戶選擇器]。 如果您選取 [帳戶選擇器]，則您加入其中成為一員的所有帳戶都會顯示在清單中。 您可以選取其中任何一項，並切換至該帳戶，然後您就會在其中看到所有計畫以及該帳戶的相關資訊。 如果您沒有看到帳戶選擇器，則表示您只是單一帳戶的成員。
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="帳戶選擇器":::
+:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="已註冊計劃功能表":::
 
 ## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>可協助您管理合作夥伴中心帳戶的其他資源
 

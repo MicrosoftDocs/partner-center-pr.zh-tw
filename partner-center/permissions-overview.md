@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 391602651976500576f13824bfebc6e06fec40a2
-ms.sourcegitcommit: 9359f92fb7d3965374eb095ebf68fd6a94ec4943
+ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
+ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/21/2020
-ms.locfileid: "90832111"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "92006805"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>為需要在合作夥伴中心工作的公司使用者指派使用者角色和權限
 
@@ -52,7 +52,7 @@ ms.locfileid: "90832111"
 ||*    建立合作夥伴中心的支援票證
 ||*    檢視您所建立的合作夥伴支援票證
 |預設使用者|  檢視我的設定檔   |[重設密碼](reset-my-pasword.md)
-|系統管理代理人 | *    客戶管理|[合作夥伴中心內轉銷商合作夥伴的客戶帳戶設定和管理](customer-accounts.md)
+|系統管理代理人 | *    客戶管理|[與您的客戶連線](connect-with-your-customers.md)
 ||*    將裝置清單新增至合作夥伴中心
 ||*    建立設定檔並將其套用至裝置
 ||*    訂用帳戶管理
