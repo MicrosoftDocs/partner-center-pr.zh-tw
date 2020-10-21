@@ -10,13 +10,13 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 20a8d701755e0211ced01aa714570e993bfe177d
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "90012770"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333800"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>應用程式開發專長認證的一次性測驗需求豁免
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>無須參加應用程式開發專長認證一次
 
 **適當的角色**
 
