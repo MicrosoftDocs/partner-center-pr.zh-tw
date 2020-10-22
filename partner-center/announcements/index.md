@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: eae97e29d6d29b1cd2614755a87ccafaf0b2063b
-ms.sourcegitcommit: 03204eb214b4b43c308db12c69631f5fd3605510
+ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
+ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92081367"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "92352864"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "92081367"
 
 | **類別** | **2020 年 10 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[Microsoft 365 商務語音供應項目更新](2020-october.md#12)|10 月 16 日|
 |功能|[2020 年 11 月更新：線上服務和軟體頻道授權指南](2020-october.md#11)|10 月 14 日|
 |供應項目/市場|[為非收益組織介紹 Microsoft 365 商務版 Voice](2020-october.md#10)|10 月 12 日|
 |供應項目/市場|[Microsoft 365 音訊會議的促銷現已推出，而 Microsoft 365 商務版語音即將推出](2020-october.md#9)|10 月 9 日|
