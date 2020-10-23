@@ -1,6 +1,6 @@
 ---
 title: 2020 年 10 月公告
-description: Microsoft 合作夥伴中心 2020 年 10 月公告
+description: Microsoft 合作夥伴中心的 2020 年 10 月公告，例如新功能、促銷、供應項目、市場，或現有供應項目的變更。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,19 +8,134 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/05/2020
-ms.openlocfilehash: 55aba7d13e781cb4edf65f086e2240c798a5d5fe
-ms.sourcegitcommit: df7643f3b7978e164e419e447a4dc3c163cb3bd2
+ms.date: 10/14/2020
+ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
+ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/08/2020
-ms.locfileid: "91844662"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "92098477"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月公告
 
 本頁詳述 Microsoft 合作夥伴中心 2020 年 10 月的公告。
 
 2020 公告：[3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
+
+
+________________
+
+## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>2020 年 11 月更新：線上服務和軟體頻道授權指南
+
+### <a name="categories"></a>類別
+
+- 日期：2020-10-14
+- 功能
+ 
+### <a name="summary"></a>摘要 
+MPA 授權指南的更新。
+
+### <a name="impacted-audience"></a>影響對象
+
+參與雲端解決方案提供者 (CSP) 計畫的直接帳單、間接提供者和多層式合作夥伴。
+
+### <a name="details"></a>詳細資料
+依據您 Microsoft 合作夥伴合約中的線上服務和軟體頻道授權子區段 ([變更通知] 及 [指南變更] 底下)，Microsoft 特此通知您「線上服務和軟體頻道授權指南」即將更新；您可以在[這裡](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf)取得更新指南的預覽版本。 這項更新將會在此通知的 30 天後生效，您不需要採取進一步的動作。
+
+### <a name="next-steps"></a>後續步驟
+不需要任何動作。 此內容僅用於通知。
+
+________________
+
+## <a name="introducing-microsoft-365-business-voice-for-non-profit-organizations"></a><a name="10"></a>適用於非營利組織的 Microsoft 365 商務語音介紹
+
+### <a name="categories"></a>類別
+
+- 日期：2020-10-12
+- 供應項目/市場
+ 
+### <a name="summary"></a>摘要 
+
+2020 年 11 月 1 日，Microsoft 將針對適用於非營利組織的 Microsoft 365 商務語音引進新的 SKU。
+
+### <a name="impacted-audience"></a>影響對象
+
+直接提供者、間接提供者和間接經銷商
+
+### <a name="details"></a>詳細資料
+
+Microsoft 將在 2020 年 11 月 1 日為商務語音引進新的 SKU。 我們將在加拿大、英國及美國提供完整套件。 商務語音 (不含通話方案) 將會在所有其他市場中提供。 
+
+Microsoft 365 商務語音是一種雲端式電話系統，適用於納入 Office 365 的中小型企業。 將商務語音新增至客戶的 Office 365 訂用帳戶，即可透過單一應用程式 Microsoft Teams 中的通話、聊天和會議功能，來提供多合一的溝通與共同作業解決方案。
+
+如需定價詳細資料，請參閱價目表。  
+
+美國客戶請注意，Microsoft 365 商務語音 (非營利事業員工定價) 價目表預覽版的供應項目識別碼資訊並不正確。 當促銷供應項目識別碼可供使用時，合作夥伴中心將會在 10 月中發出更新通知。 但定價是正確的。
+
+您可以將 Microsoft 365 商務語音新增至下列最多有 300 位使用者的訂用帳戶： 
+- Office 365：商務基本版、商務進階版、A1、E1、A3 和 E3  
+- Microsoft 365：商務版、A3 和 E3
+
+### <a name="next-steps"></a>後續步驟
+
+- 請熟悉預覽價目表，並與貴組織內的所有適當連絡人分享這項資訊。
+- 回顧雲端解決方案提供者 (CSP) 計畫更新資源庫中的所有準備資料：[適用於中小型企業的 Microsoft 365 商務語音簡介](https://partner.microsoft.com/resources/collection/m365-voice-smb#/)。
+
+________________
+
+## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-audio-conferencing-now-available-and-microsoft-365-business-voice-coming-on-november-1-2020"></a><a name="9"></a>現已推出 Microsoft 365 音訊會議的雲端解決方案提供者 (CSP) 促銷，而 Microsoft 365 商務語音將於 2020 年 11 月 1 日推出
+
+### <a name="categories"></a>類別
+
+- 日期：2020-10-09
+- 供應項目/市場
+
+### <a name="impacted-audience"></a>影響對象
+
+透過 CSP 計畫進行交易的所有合作夥伴
+
+### <a name="details"></a>詳細資料
+
+Microsoft 正在為合作夥伴推出兩項全新的 CSP 升級，以促使更多人採用 Teams 作為會議解決方案。 這兩項升級可減少音訊會議新增至 Microsoft 365 授權時產生的摩擦，藉此將 Microsoft 365 和 Teams 作為會議及通話解決方案的完整價值提供給客戶。
+從 2020 年 10 月 1 日到 2021 年 3 月 31 日止，客戶可以以附加元件 SKU 的形式，將 Microsoft 365 音訊會議新增至 Microsoft 365 訂用帳戶，以獲得免費使用 12 個月的優惠。
+
+#### <a name="offer-details"></a>供應項目詳細資料
+
+   |**供應項目名稱**|**優惠識別碼**|**材質識別碼**|
+   |-------------------|:------|:------|
+   |Microsoft 365 音訊會議採用促銷|106da677-5af6-492a-ac7f-52b3b29a9762|TJ7-00023|
+
+從 2020 年 11 月 1 日到 2021 年 4 月 30 日止，新用戶和續約用戶訂閱包含通話方案的 Microsoft 365 商務語音及不含通話方案的 Microsoft 365 商務語音，均須享有折扣定價。 包含通話方案的 Microsoft 365 商務語音享有 12 個月 25% 的折扣，而不含通話方案的 Microsoft 365 商務語音則享有 12個月 33% 的折扣。
+
+   |**供應項目名稱**|**優惠識別碼**|**材質識別碼**|
+   |-------------------|:------|:------|
+   |Microsoft 365 商務語音採用促銷|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
+   |Microsoft 365 商務語音採用促銷|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
+   |Microsoft 365 商務語音採用促銷|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|PZW-00020|
+   |Microsoft 365 商務語音 (不含通話方案) 採用促銷|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Microsoft 365 商務語音 (不含通話方案) 採用促銷|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
+   |Microsoft 365 商務語音 (不含通話方案) 採用促銷|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
+   |適用於美國的 Microsoft 365 商務語音 (不含通話方案) 採用促銷|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   
+這些促銷所影響的客戶如下：
+- 全新客戶租用戶
+- 現有客戶租用戶，但其在 CSP、Web Direct 或任何其他 Microsoft 商業頻道的任何商務語音或音訊會議授權上，沒有作用中或最近 (過去 30 天內) 取消的訂用帳戶
+
+#### <a name="additional-resources"></a>其他資源
+
+- 請瀏覽 [Microsoft 365 商務語音合作夥伴頁面](https://www.microsoft.com/microsoft-365/partners/businessvoice)，以深入了解商務語音。 
+- 如需深入了解[音訊會議功能](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)，請參閱 Microsoft 365 中的音訊會議。
+- 若要深入了解這些促銷，請參閱相關的[合作夥伴常見問題集](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)。
+
+### <a name="next-steps"></a>後續步驟
+
+- 請熟悉這些會議及通話促銷機會，並與您組織中的所有適當連絡人分享這項資訊。
+- 將這些供應項目併入 Microsoft 365 的銷售促銷。
+- 向客戶說明將商務語音或音訊會議新增至 Teams 的價值。
+
+### <a name="questions"></a>有問題嗎？
+
+如有關於這些供應項目的問題，請連絡 Microsoft 客戶小組或支援部門的代表。
 
 ________________
 
@@ -142,10 +257,10 @@ Microsoft 很高興地宣佈，下列新市場現已開始提供 Microsoft 通�
 
 ### <a name="details"></a>詳細資料
 
-Microsoft 很高興地宣佈，從 2020 年 10 月 1 日起，下列新市場現已開始提供 Microsoft 通話方案：奧地利、丹麥、義大利、葡萄牙、瑞典和瑞士。 新的地區可用性已透過 Enterprise 合約 (EA) 或 Enterprise 合約訂用帳戶 (EAS)、教育解決方案註冊 (EES)、Web Direct 和 CSP，在商業、全球公共部門、非營利和政府社群雲端中啟動。 
- 
-所有 Microsoft 通話方案功能都適用於 Microsoft 的國內和國際通話方案，包括每位使用者每個月 120、240 和 1,200 分鐘 (p/u/m) 的國內方案，以及包含國內 1,200 分鐘 (p/u/m) 和國際 600 分鐘 (p/u/m) 的國際方案。 
- 
+Microsoft 很高興地宣佈，從 2020 年 10 月 1 日起，下列新市場現已開始提供 Microsoft 通話方案：奧地利、丹麥、義大利、葡萄牙、瑞典和瑞士。 新的地區可用性已透過 Enterprise 合約 (EA) 或 Enterprise 合約訂用帳戶 (EAS)、教育解決方案註冊 (EES)、Web Direct 和 CSP，在商業、全球公共部門、非營利和政府社群雲端中啟動。
+
+所有 Microsoft 通話方案功能都適用於 Microsoft 的國內和國際通話方案，包括每位使用者每個月 120、240 和 1,200 分鐘 (p/u/m) 的國內方案，以及包含國內 1,200 分鐘 (p/u/m) 和國際 600 分鐘 (p/u/m) 的國際方案。
+
 Microsoft 通話方案先前已於下列市場中提供：比利時、加拿大、法國、德國、愛爾蘭、荷蘭、波多黎各 (其通路可用性僅限於 EA 和 EES)、西班牙、英國和美國 (澳大利亞和日本適用第三方通話方案)。
 
 #### <a name="offer-details"></a>供應項目詳細資料
@@ -290,8 +405,8 @@ ________________
 
 #### <a name="additional-resources"></a>其他資源
 
-- [Windows 7 支援常見問題集頁面](https://docs.microsoft.com/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
-- [Windows 7 支援和 Microsoft 365 應用程式](https://docs.microsoft.com/deployoffice/endofsupport/windows-7-support)
+- [Windows 7 支援常見問題集頁面](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 支援和 Microsoft 365 應用程式](/deployoffice/endofsupport/windows-7-support)
 - [資源庫](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
 
 ### <a name="next-steps"></a>後續步驟

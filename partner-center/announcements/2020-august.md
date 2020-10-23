@@ -1,6 +1,6 @@
 ---
 title: 2020 年 8 月公告
-description: Microsoft 合作夥伴中心 2020 年 8 月公告
+description: Microsoft 合作夥伴中心的 2020 年 8 月公告，例如新功能、促銷、供應項目、市場，或現有供應項目的變更。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: 774ec29ce6c20f0890d883ab73ab766906b88a92
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999622"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031801"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月公告
 

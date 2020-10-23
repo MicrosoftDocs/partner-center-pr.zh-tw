@@ -1,6 +1,6 @@
 ---
 title: 2020 年 9 月公告
-description: Microsoft 合作夥伴中心 2020 年 9 月公告
+description: Microsoft 合作夥伴中心的 2020 年 9 月公告，例如新功能、促銷、供應項目、市場，或現有供應項目的變更。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 304514ed4210e2567e080b78b1c1ce135177d874
-ms.sourcegitcommit: 0005e8917ac997f6952b2f57bda326c711b524b5
+ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
+ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "91591118"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "92031551"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -46,7 +46,7 @@ Microsoft 365 系統管理中心增強了所購買軟體的安全傳遞，並可
 
 ### <a name="next-steps"></a>後續步驟
 
-- 請檢閱[概觀](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般工作](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide)和[授權金鑰履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)，深入了解 Microsoft 365 系統管理中心軟體。
+- 請檢閱[概觀](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般工作](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide)和[授權金鑰履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)，深入了解 Microsoft 365 系統管理中心軟體。
 
 - 請與組織中的相關團隊分享此更新。
 
@@ -183,17 +183,17 @@ Microsoft 的營運以信任為原則。 我們承諾針對在 CSP 計畫中從�
 
 ### <a name="details"></a>詳細資料
 
-這是在 2020 年 9 月 17 日發表的[合作夥伴中心公告](https://docs.microsoft.com/partner-center/announcements/2020-september#8)更新。 我們正在進行更新，以確保 API 更新可與舊版相容，進而確保您不需要進行任何整合變更。 
+這是在 2020 年 9 月 17 日發表的[合作夥伴中心公告](#8)更新。 我們正在進行更新，以確保 API 更新可與舊版相容，進而確保您不需要進行任何整合變更。 
 
 如稍早公告，從 2020 年 9 月 30 日起生效，CSP O365 使用量計量會經歷更新。 
 
 隨著這項變更，將會更新透過下列 CSP 授權使用量 API 提供的計量定義： 
 
-1. [授權使用量資訊 API](https://docs.microsoft.com/partner-center/develop/get-licenses-usage-information).
+1. [授權使用量資訊 API](/partner-center/develop/get-licenses-usage-information).
 
-2. [客戶授權使用量資訊 API](https://docs.microsoft.com/partner-center/develop/get-customer-licenses-usage-information).
+2. [客戶授權使用量資訊 API](/partner-center/develop/get-customer-licenses-usage-information).
 
-3.  [合作夥伴授權使用量資訊 API](https://docs.microsoft.com/partner-center/develop/get-partner-licenses-usage-information).
+3.  [合作夥伴授權使用量資訊 API](/partner-center/develop/get-partner-licenses-usage-information).
 
 更新的定義如下所列。 因為 API 結構描述沒有任何變更，所以不需要進行任何新的整合。 
 
@@ -260,19 +260,19 @@ Microsoft 合作夥伴網路中的所有合作夥伴組織。
 
 ### <a name="what-is-insights"></a>什麼是深入解析？
 
-合作夥伴中心的 [深入解析] 儀表板可以橫跨雲端產品 (例如 Office 365、Azure、Dynamics 365) 以及授權模型 (例如雲端解決方案提供者 (CSP) 和 Enterprise 合約 (EA))，為您提供合作夥伴組織的關鍵效能指標 (KPI) 統一而全面的觀點。 系統會持續增加新功能，且所有報告都支援[未經處理資料匯出](https://docs.microsoft.com/partner-center/pci-download-reports)，讓您根據您的商務需求進行特殊資料分析。 [高階報告檢視器和報告檢視器](https://docs.microsoft.com/partner-center/pci-roles)這兩個合作夥伴中心報告角色，可讓您更妥善管理組織內深入解析的存取和使用方式。
+合作夥伴中心的 [深入解析] 儀表板可以橫跨雲端產品 (例如 Office 365、Azure、Dynamics 365) 以及授權模型 (例如雲端解決方案提供者 (CSP) 和 Enterprise 合約 (EA))，為您提供合作夥伴組織的關鍵效能指標 (KPI) 統一而全面的觀點。 系統會持續增加新功能，且所有報告都支援[未經處理資料匯出](../pci-download-reports.md)，讓您根據您的商務需求進行特殊資料分析。 [高階報告檢視器和報告檢視器](../pci-roles.md)這兩個合作夥伴中心報告角色，可讓您更妥善管理組織內深入解析的存取和使用方式。
 
 最近新增的報告：
 
-- [轉銷商績效報告和資料匯出](https://docs.microsoft.com/partner-center/pci-resellers-performance)：針對其各種間接轉銷商的績效，提供 CSP 間接提供者概觀。
+- [轉銷商績效報告和資料匯出](../pci-resellers-performance.md)：針對其各種間接轉銷商的績效，提供 CSP 間接提供者概觀。
 
-- [客戶機會報告和資料匯出](https://docs.microsoft.com/partner-center/pci-customer-opportunities)：提供客戶購買 Microsoft 產品的傾向概觀。
+- [客戶機會報告和資料匯出](../pci-customer-opportunities.md)：提供客戶購買 Microsoft 產品的傾向概觀。
 
-如需深入解析中可用的完整報告清單，請參閱[這裡](https://docs.microsoft.com/partner-center/partner-center-insights)。
+如需深入解析中可用的完整報告清單，請參閱[這裡](../partner-center-insights.md)。
 
 ### <a name="next-steps"></a>後續步驟：
 
-- 請經常查看[合作夥伴中心深入解析頁面](https://docs.microsoft.com/partner-center/partner-center-insights)，以了解如何報告更新和增強功能。
+- 請經常查看[合作夥伴中心深入解析頁面](../partner-center-insights.md)，以了解如何報告更新和增強功能。
 
 - 我們建議您使用 [深入解析] 索引標籤中所提供的內嵌意見反應工具，探索這些新功能並分享您的意見。
 

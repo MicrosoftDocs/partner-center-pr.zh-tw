@@ -1,6 +1,6 @@
 ---
 title: 確認客戶接受 Microsoft 客戶合約
-description: 了解如何確認客戶接受 Microsoft 客戶合約。 雲端解決方案提供者需要此合約來為客戶訂購 Microsoft 產品和服務。
+description: 了解如何確認客戶接受 Microsoft 客戶合約。 雲端解決方案提供者 (CSP) 計畫參與者需要此合約來為客戶訂購 Microsoft 產品和服務。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 7d25625eebaf863ed819112439bbf2d6e0f505e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 45a34473ff63875af8bd07962ea836661bc948ee
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000542"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198054"
 ---
 # <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>確認客戶接受 CSP 合作夥伴方案中的 Microsoft 客戶合約
 
@@ -27,10 +27,6 @@ ms.locfileid: "91000542"
 
 - 系統管理代理人
 - 銷售代理人
-
-**適當的合作夥伴類型**
-
-- 間接轉銷商、直接帳單、間接提供者
 
 Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計畫，以取代 Microsoft Cloud 合約。 若為間接轉銷商，請參閱其他[指引](indirect-reseller-tasks-in-partner-center.md)。 為了協助合作夥伴遷移至新的合約，在 2020 年 1 月 31 日前，此兩個合約會並存在 CSP 計畫中。 從 2020 年 2 月 1 日開始，Microsoft 客戶合約會取代 Microsoft Cloud 合約。
 
@@ -80,7 +76,7 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 5. 選取 [儲存] 並繼續作業。
 
-   :::image type="content" source="images/mcua2-update2.png" alt-text="現有客戶":::
+   :::image type="content" source="images/mcua2-update2.png" alt-text="新客戶":::
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>取得客戶接受的確認
 
@@ -132,7 +128,7 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 >[!NOTE] 
 >新客戶在接受 Microsoft 客戶合約之前，無法進行新的購買。  
 
-   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="建立新客戶":::
+   :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="新客戶":::
 
 5. 當您到達新客戶工作流程中的 [確認] 畫面時，請儲存客戶認證。 您稍後必須將這些認證提供給您的客戶。
 
@@ -160,7 +156,7 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 4. 使用此電子郵件範本來邀請客戶接受**轉銷商關係**要求和 **Microsoft 客戶合約**。 (注意：在電子郵件邀請中，請確定合作夥伴也包含自動提供的 URL，以及最近建立的客戶認證)。
 
-   :::image type="content" source="images/mca/createrelationship.png" alt-text="建立關係":::
+   :::image type="content" source="images/mca/createrelationship.png" alt-text="新客戶":::
 
 5. 客戶透過電子郵件接收邀請，然後按一下參數化 URL。 
 
@@ -170,7 +166,7 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 8. 在相同的 URL 中，客戶可以看到他們正在合作的不同合作夥伴合併清單。 他們可以選取合作夥伴來查看詳細資料。
 
-   :::image type="content" source="images/mca/accept.jpg" alt-text="接受合約":::
+   :::image type="content" source="images/mca/accept.jpg" alt-text="新客戶":::
 
 
 ## <a name="invite-an-existing-customer-to-review-and-accept-the-agreement"></a>邀請現有的客戶檢閱及接受合約
@@ -187,7 +183,7 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 5. 在相同的 URL 中，客戶可以看到他們正在合作的不同合作夥伴合併清單。 他們可以選取合作夥伴來查看詳細資料。
 
-   :::image type="content" source="images/mca/customeraccept.png" alt-text="客戶":::
+   :::image type="content" source="images/mca/customeraccept.png" alt-text="新客戶":::
 
 >[!NOTE]
 >在某些情況下，客戶可能無法直接接受 Microsoft 客戶合約。 若要深入了解這些情況，請參閱[您需要代表客戶進行證明的兩個案例](attest-acceptance-customer-agreement.md)。
@@ -196,7 +192,7 @@ Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計�
 
 | 日期 | 里程碑 | 詳細資料 |
 |------------|------------|--------------------------------|
-|2019 年 8 月 1 日|沙箱中提供 UX 預覽|合作夥伴可以在 CSP 沙箱環境中使用合作夥伴中心儀表板，確認客戶接受 Microsoft 客戶合約。 具有 CSP 沙箱環境存取權的合作夥伴可預覽使用者體驗變更。 沒有沙箱存取權的合作夥伴可以深入了解本主題中的變更。|
+|2019 年 8 月 1 日| 沙箱中提供 UX 預覽| 合作夥伴可以在 CSP 沙箱環境中使用合作夥伴中心儀表板，確認客戶接受 Microsoft 客戶合約。 具有 CSP 沙箱環境存取權的合作夥伴可預覽使用者體驗變更。 沒有沙箱存取權的合作夥伴可以深入了解本主題中的變更。|
 |2019 年 9 月 3 日|沙箱中提供 API 預覽。|合作夥伴可以在 CSP 沙箱環境中使用合作夥伴中心 API 來確認客戶接受 Microsoft 客戶合約。 API 合作夥伴可以使用此機會預覽 API 變更，並開始處理 API 整合以支援新的合約。|
 |2019 年 9 月 20 日|沙箱中提供 .NET SDK 預覽。|合作夥伴可以在 CSP 沙箱環境中使用合作夥伴中心 .NET SDK 來確認客戶接受 Microsoft 客戶合約。 API 合作夥伴可以使用此機會預覽 .NET SDK 變更，並開始處理 API 整合以支援新的合約。|
 |2019 年 10 月 1 日|可在生產環境中使用的 Microsoft 客戶合約|Microsoft 會將 Microsoft 客戶合約引進 CSP 計畫，以取代 Microsoft Cloud 合約。 合作夥伴可以在生產環境中使用合作夥伴中心儀表板和 API，確認客戶接受 Microsoft 客戶合約。 CSP 合作夥伴計畫中仍支援 Microsoft Cloud 合約。 不過，建議合作夥伴開始遷移至 Microsoft 客戶合約。 現有訂用帳戶的新購買和授權計數變更，將需要 Microsoft 客戶合約或 Microsoft Cloud 合約的合作夥伴確認。 某些新供應項目 (例如新的 Azure 方案) 將需要確認 Microsoft 客戶合約。|

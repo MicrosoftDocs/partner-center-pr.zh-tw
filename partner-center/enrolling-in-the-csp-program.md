@@ -1,22 +1,22 @@
 ---
 title: 註冊雲端解決方案提供者計畫
 ms.topic: how-to
-ms.date: 10/05/2020
+ms.date: 10/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解如何註冊最適合您業務的雲端解決方案提供者 (CSP) 計畫銷售模型 – 例如間接轉銷商或直接計費合作夥伴。
+description: 了解如何註冊最適合您業務的雲端解決方案提供者 (CSP) 計畫銷售模型，例如間接經銷商或直接計費合作夥伴。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f44d9dd79f5d02160aa30d99e4815bf8e7837ec5
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763340"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92198094"
 ---
-# <a name="enroll-in-the-cloud-solution-provider-program-and-build-a-profitable-cloud-solution-business"></a>註冊雲端解決方案提供者計畫，並打造可獲利的雲端解決方案業務
+# <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 
 **適用於**
 
@@ -64,7 +64,7 @@ ms.locfileid: "91763340"
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>註冊為直接計費合作夥伴
 
-身為直接計費合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 從 2018 年 8 月 31 日起，我們已更新直接計費合作夥伴的註冊需求。 這些新的要求條件可協助您運用適當的雲端解決方案提供者註冊模型加速業務成長，以及透過加值服務與支援鞏固您的客戶關係。 
+身為直接計費合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 從 2018 年 8 月 31 日起，我們已更新直接計費合作夥伴的註冊需求。 這些新的要求條件可協助您運用適當的雲端解決方案提供者註冊模型加速業務成長，以及透過加值服務與支援鞏固您的客戶關係。
 
 ### <a name="minimum-requirements"></a>最低要求條件
 
@@ -96,5 +96,8 @@ ms.locfileid: "91763340"
 ## <a name="csp-regional-markets-and-currencies"></a>CSP 地區市場及貨幣
 
 貴公司的地點決定您的市場。 您的市場包含您可以銷售 CSP 供應項目的地區和/或國家/地區。 如需市場位置和貨幣的詳細資訊，請參閱[雲端解決方案提供者計畫地區市場和貨幣](regional-authorization-overview.md)。
-請務必閱讀[新增 MPN 識別碼位置](manage-locations.md)。
+請務必參閱[為 CSP 業務新增位置的必要條件](manage-locations.md)。
 
+## <a name="next-steps"></a>後續步驟
+
+- [了解 CSP 計畫合作夥伴的 Microsoft 合作夥伴合約 (MPA)](microsoft-partner-agreement.md)

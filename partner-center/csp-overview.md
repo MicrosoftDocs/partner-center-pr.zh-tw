@@ -4,26 +4,26 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 深入了解雲端解決方案提供者計畫的優點和不同模型，以協助您的企業透過新的客戶和新的專長持續成長。
+description: 深入了解雲端解決方案提供者 (CSP) 計畫的優點和不同模型，以協助您的企業透過新的客戶和新的專長持續成長。
 author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7be23ecd37aadcccdb29606573b8bb46ae607539
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
+ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114323"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "92197904"
 ---
-# <a name="cloud-solution-provider-program-benefits-and-different-models"></a>雲端解決方案提供者方案的優點和不同模型
+# <a name="cloud-solution-provider-program"></a>雲端解決方案提供者計畫 
 
 **適用於**
 
 - 合作夥伴中心
 - 雲端解決方案提供者方案中的合作夥伴
 
-雲端解決方案提供者計畫 (CSP) 可協助您不只是經銷授權，而是更深入參與您客戶的業務。
+本文將概述雲端解決方案提供者 (CSP) 計畫，並說明不同的作業模型及其需求，以及透過此計畫銷售的其他詳細資料。  CSP 方案可協助您更進一步參與客戶的業務，不只是轉售授權，還包含了下列優點： 
 
 - 深化與客戶的互動：與客戶定期會面，代表您可以更深入了解他們的業務和需求。
 - 提高獲利：由您自己或透過間接提供者來提供增強的技術支援和帳單服務，將能開闢新的收入來源。  
@@ -36,7 +36,7 @@ ms.locfileid: "87114323"
 
  在直接帳單模型中，合作夥伴會直接向 Microsoft 購買 Microsoft 產品和訂用帳戶，並透過他們的內部銷售人員直接將其銷售給客戶。 已經運作或願意開發適當的銷售、計費和支援基礎結構的合作夥伴，可以選擇雲端解決方案提供者直接模型。 成為直接合作夥伴的需求最近已有所變更，並將於 2018 年 8 月 31 日生效。 在 2018 年 8 月 31 日之後，直接合作夥伴在下次註冊時必須符合新的需求。
 
-#### <a name="new-expanded-requirements"></a>新的擴充需求：
+#### <a name="new-expanded-requirements"></a>新的擴充需求
 
 支援
 
@@ -44,10 +44,9 @@ ms.locfileid: "87114323"
 
 服務
 
-- 證明您提供至少一個受控服務、IP 服務或客戶解決方案應用程式。 深入了解新增受控服務
+- 證明您提供至少一個受控服務、IP 服務或客戶解決方案應用程式。 
 
-- 符合最低的基礎結構功能，例如帳單與佈建。
-我們會監控年度績效，以確認符合這些需求的直接帳單合作夥伴正在展示穩定的業務成長。 目前尚未制定具體的績效目標，但 Microsoft 於未來可能會實作績效標竿。
+- 符合最低的基礎結構功能，例如帳單與佈建。 我們會監控年度績效，以確認符合這些需求的直接帳單合作夥伴正在展示穩定的業務成長。 目前尚未制定具體的績效目標，但 Microsoft 於未來可能會實作績效標竿。
 
 - 適用於您想要銷售之位置的作用中 Microsoft 合作夥伴網路 (MPN) 識別碼
 
@@ -71,12 +70,9 @@ ms.locfileid: "87114323"
 
 ## <a name="next-steps"></a>接下來的步驟
 
-- 每個 CSP 模型的需求 [雲端解決方案提供者方案](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-
-- 在 Microsoft 的國家雲端中銷售：[申請在 Microsoft 國家雲端中銷售](csp-national-clouds-overview.md)
-
-- Microsoft 客戶合約客戶範本：[依地區和語言的 Microsoft 客戶合約](agreements.md)
-
-- 合作夥伴中心的間接提供者工作 [在雲端解決方案提供者方案中與間接經銷商成為合作夥伴](indirect-provider-tasks-in-partner-center.md)
-
-- 合作夥伴中心的間接經銷商工作 [在雲端解決方案提供者方案中與間接提供者成為合作夥伴](indirect-reseller-tasks-in-partner-center.md)
+- [註冊雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
+- [檢閱每個雲端解決方案提供者模型的需求](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
+- [申請在 Microsoft 國家雲端中銷售](csp-national-clouds-overview.md)
+- [依地區和語言的 Microsoft 客戶合約](agreements.md)
+- [在「雲端解決方案提供者」方案中與間接轉銷商的合作](indirect-provider-tasks-in-partner-center.md)
+- [在雲端解決方案提供者計畫中與間接提供者成為合作夥伴](indirect-reseller-tasks-in-partner-center.md)
