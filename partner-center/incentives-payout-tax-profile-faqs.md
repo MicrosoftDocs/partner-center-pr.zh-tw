@@ -1,19 +1,19 @@
 ---
 title: 獎勵支出和稅務設定檔常見問題集
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/22/2020
 description: 有關獎勵支出和稅務設定檔的常見問題。 問題包括無法查看您的付款和稅務設定檔的原因，以及該怎麼做。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: de150c34f92fd74d7a593d90d2e23fdacc6b425d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
+ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175346"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "92454150"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>有關獎勵支出和稅務設定檔的常見問題
 
@@ -24,8 +24,34 @@ ms.locfileid: "92175346"
 適當的角色：
 
 - 獎勵管理員
-- 帳單系統管理員
+- 帳戶管理員
 - 全域系統管理員
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>我的稅務設定檔已過期。 我要如何修正此問題？
+
+如果稅務設定檔已過期或即將到期，即表示您提供給 Microsoft 的稅務表單必須更新。 使用下列程式來編輯稅務設定檔：
+
+1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
+
+2. 選取齒輪圖示以開啟 [設定] 功能表。
+
+3. 在 [帳戶設定] **下**選取 [支出與稅務]，然後選取 [發放款與稅金設定檔]。
+
+4. 選取 [ **稅務設定檔**]。
+
+5. 選取 [ **到期日] 資料** 行，然後流覽至已過期或即將到期的稅務設定檔。
+
+6. 選取 [ **編輯** ] 以開始稅務設定檔編輯流程。
+
+7. 提供必要的詳細資料，以更新稅務表單。
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft 如何確保銀行資訊確實是公司的資訊，而不是員工的個人銀行帳戶？
+
+公司必須負責確保有獎勵管理員的角色（具有編輯這項資訊的許可權）僅提供給適當的員工。
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>我可以針對 Microsoft 的所有獎勵方案使用相同的銀行和稅務詳細資料嗎？
+
+如果您的公司受邀參加多個獎勵計畫，您可以針對所有獎勵方案使用相同的付款帳戶，或針對不同的程式選擇使用不同的付款帳戶。
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>為什麼需要提供我的付款及/或稅務詳細資料？
 
