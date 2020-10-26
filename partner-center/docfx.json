@@ -40,6 +40,9 @@
       "breadcrumb_path": "/partner-center/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "ms.service": "partner-dashboard",
+      "manager": "jasonh",
+      "ms.localizationpriority": "medium",
+      "searchScope": [ "Partner Center" ],
       "_op_documentIdPathDepotMapping": {
         "./": {
           "depot_name": "MSDN.partner-center",
