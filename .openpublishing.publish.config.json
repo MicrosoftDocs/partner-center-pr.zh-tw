@@ -49,11 +49,11 @@
       "version": 0
     }
   ],
-  "sync_notification_subscribers": [
-    "ceicnotifications@microsoft.com"
-  ],
   "notification_subscribers": [
     ""
+  ],
+  "sync_notification_subscribers": [
+    "ceicnotifications@microsoft.com"
   ],
   "branches_to_filter": [
     "live",
@@ -85,19 +85,15 @@
     },
     {
       "path_to_root": "_repo.en-us",
-      "url": "https://github.com/microsoftdocs/partner-center-pr",
+      "url": "https://github.com/MicrosoftDocs/partner-center-pr",
       "branch": "live",
       "branch_mapping": {
         "live": "live",
-        "master": "master"
+        "main": "main"
       }
     }
   ],
   "branch_target_mapping": {
-    "live-sxs": [
-      "Publish",
-      "Pdf"
-    ],
     "live": [
       "Publish",
       "Pdf"
