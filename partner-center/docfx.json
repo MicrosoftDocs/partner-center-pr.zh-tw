@@ -1,6 +1,9 @@
 {
   "build": {
     "content": [
+       {
+        "files": ["breadcrumb/toc.yml"]
+      },
       {
         "files": [
           "**/*.md",
