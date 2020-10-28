@@ -4,18 +4,17 @@ ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 建立一個工作帳戶，將您的公司連結至合作夥伴中心帳戶。 這可讓您公司中的員工存取合作夥伴中心。
-author: LauraBrenner
-ms.author: labrenne
+author: vinayks
+ms.author: vinayks
 ms.custom: SEOAPR.20
-Keywords: 工作帳戶, 電子郵件, 租用戶, Azure 租用戶, 建立帳戶, 網域名稱
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: e46be80cb39233e7632a97fd511232d5ff762499
-ms.sourcegitcommit: 093039319fab2a44ab147159bc4be832f1330d57
+ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "83394222"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92333822"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>建立一個工作帳戶，將您的公司連結至合作夥伴中心帳戶
 
@@ -61,7 +60,7 @@ Microsoft 會要求您將公司的工作帳戶連結到新的合作夥伴中心�
 
 :::image type="content" source="images/onboardingAADFlow.png" lightbox="images/onboardingAADFlow.png" alt-text="您有工作帳戶嗎？還是您需要建立一個工作帳戶？":::
 
-如需關於在 Azure AD 中新增網域的詳細資訊，請參閱[在 Azure AD 中新增網域或建立網域關聯](https://docs.microsoft.com/azure/active-directory/active-directory-add-domain)
+如需關於在 Azure AD 中新增網域的詳細資訊，請參閱[在 Azure AD 中新增網域或建立網域關聯](/azure/active-directory/active-directory-add-domain)
 
 ## <a name="about-microsoft-azure"></a>關於 Microsoft Azure
 
