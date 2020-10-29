@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴安全性需求
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 介紹啟用多重要素驗證 (MFA) 的合作夥伴需求，並採用安全應用程式模型架構。
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "91763342"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680387"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>使用合作夥伴中心或合作夥伴中心 API 的合作夥伴的合作夥伴安全性需求
 
@@ -43,7 +43,7 @@ ms.locfileid: "91763342"
 
 1. **針對合作夥伴租用戶中的所有使用者帳戶啟用 Multi-Factor Authentication (MFA)** 。 合作夥伴租用戶中的所有使用者帳戶在登入 Microsoft 商業雲端服務，或是透過合作夥伴中心或 API 在雲端解決方案提供者方案中進行交易時，都必須經過多重要素驗證 (MFA) 的查問。
 
-2. **採用安全應用程式模型架構**。 採用安全應用程式模型架構。 所有與合作夥伴中心 API 整合的合作夥伴，都必須針對任何應用程式 + 使用者驗證模型應用程式採用安全應用程式模型架構。
+2. **採用安全應用程式模型架構** 。 採用安全應用程式模型架構。 所有與合作夥伴中心 API 整合的合作夥伴，都必須針對任何應用程式 + 使用者驗證模型應用程式採用安全應用程式模型架構。
 
     > [!IMPORTANT]
     > 我們強烈建議合作夥伴實作安全應用程式模型，以與 Microsoft API (例如 Azure Resource Manager、Microsoft Graph) 進行整合，或利用使用者認證來運用自動化 (例如 PowerShell)，以避免在強制執行 MFA 時發生任何中斷。
@@ -58,7 +58,7 @@ ms.locfileid: "91763342"
 
 - 為每個使用者帳戶購買 Azure Active Directory Premium。 如需詳細資訊，請參閱[規劃雲端式 Azure Multi-Factor Authentication 部署](/azure/active-directory/authentication/howto-mfa-getstarted)。
 
-- 使用協力廠商解決方案，對合作夥伴租用戶中的每個使用者帳戶強制執行多重要素驗證。 若要確保解決方案會提供預期的解決方案，請參閱[如何強制執行安全性需求](#how-the-requirements-will-be-enforced)。
+- 使用協力廠商解決方案，對合作夥伴租用戶中的每個使用者帳戶強制執行多重要素驗證。 若要確保解決方案會提供預期的解決方案，請參閱[如何強制執行安全性需求](#how-the-requirements-are-enforced)。
 
 > [!NOTE]
 > 雖然在合約上，主權雲端 (21Vianet、美國政府和德國) 不需要多重要素驗證，但強烈建議您採用這些安全性需求。
@@ -92,7 +92,7 @@ ms.locfileid: "91763342"
 
 因為這些需求適用於合作夥伴租用戶中的所有使用者帳戶，所以您必須考慮幾件事來確保順利部署，包括識別 Azure Active Directory 中無法執行多重要素驗證的使用者帳戶，以及貴組織所使用且不支援新式驗證的應用程式和裝置。
 
-執行任何動作之前，建議您找出下列情況：
+在執行任何動作之前，建議您先完成下列驗證： 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>您是否具有不支援使用新式驗證的應用程式或裝置？
 
@@ -100,7 +100,7 @@ ms.locfileid: "91763342"
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>您是否有使用者使用與合作夥伴租用戶使用者相關聯的授權所提供的 Office 365？
 
-在實作任何解決方案之前，建議您先判斷合作夥伴租用戶中的使用者所使用的 Microsoft Office 版本為何。 您的使用者可能會遇到 Outlook 之類應用程式的連線問題。 強制執行多重要素驗證之前，請務必確定正在使用 Outlook 2013 SP1 或更新版本，且您的組織已啟用新式驗證。 如需詳細資訊，請參閱[在 Exchange Online 中啟用新式驗證](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。
+在實作任何解決方案之前，建議您先判斷合作夥伴租用戶中的使用者所使用的 Microsoft Office 版本為何。 您的使用者可能會遇到 Outlook 之類應用程式的連線問題。 強制執行多重要素驗證之前，請務必確定正在使用 Outlook 2013 SP1 或更新版本，且您的組織已啟用新式驗證。 如需詳細資訊，請參閱[在 Exchange Online 中啟用新式驗證](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online)。 
 
 若要為執行 Windows 且已安裝 Microsoft Office 2013 的任何裝置啟用新式驗證，您將需要建立兩個登錄機碼。 請參閱[為 Windows 裝置上的 Office 2013 啟用新式驗證](/office365/admin/security-and-compliance/enable-modern-authentication)。
 
@@ -128,17 +128,19 @@ ms.locfileid: "91763342"
 
 ## <a name="accessing-your-environment"></a>存取您的環境
 
-若要進一步了解未經過多重要素驗證查問而進行驗證的內容或對象，建議您檢閱登入活動。 您可以透過 Azure Active Directory Premium 來運用登入報告。 如需詳細資訊，請參閱 Azure Active Directory 入口網站中的[登入活動報告](/azure/active-directory/reports-monitoring/concept-sign-ins)。 如果您沒有 Azure Active Directory Premium，或是想要透過 PowerShell 取得 Azure Active Directory Premium 的方法，則必須從[合作夥伴中心 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 模組中，運用 [PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) Cmdlet。
+若要進一步了解未經過多重要素驗證查問而進行驗證的內容或對象，建議您檢閱登入活動。 您可以透過 Azure Active Directory Premium 來運用登入報告。 如需此主題的詳細資訊，請參閱 [Azure Active Directory 入口網站中的登入活動報告](/azure/active-directory/reports-monitoring/concept-sign-ins)。 如果您沒有 Azure Active Directory Premium，或是想要找出方法來透過 PowerShell 取得此登入活動，則必須從[合作夥伴中心 PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) 模組中，運用 [PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) Cmdlet。
 
-## <a name="how-the-requirements-will-be-enforced"></a>強制執行需求的方法
+## <a name="how-the-requirements-are-enforced"></a>強制執行需求的方式
 
-合作夥伴安全性需求將會由 Azure Active Directory 強制執行，然後由合作夥伴中心強制執行，方法是藉由檢查 MFA 宣告是否存在來識別已執行多重要素驗證。 自 2019 年 11 月 18 日起，Microsoft 將會針對合作夥伴租用戶啟用額外的安全性保護措施 (先前稱為「技術強制」)。 
+合作夥伴安全性需求會由 Azure Active Directory 強制執行，然後由合作夥伴中心強制執行，方法是藉由檢查 MFA 宣告是否存在來識別已執行多重要素驗證。 自 2019 年 11 月 18 日起，Microsoft 就已針對合作夥伴租用戶啟用額外的安全性保護措施 (先前稱為「技術強制」)。
 
-啟用時，將會要求合作夥伴租用戶中的使用者在執行任何系統管理員代表 (AOBO) 作業時，完成多重要素驗證 (MFA)。 我們會繼續將安全性保護措施的範圍延伸至其他案例和使用者角色，並會事先通知合作夥伴。 如需詳細資訊，請參閱這份將會經常更新的文件。 未符合需求的合作夥伴應該儘快實作這些措施，以避免任何業務中斷。 
+啟用時，將會要求合作夥伴租用戶中的使用者在執行任何系統管理員代表 (AOBO) 作業、存取合作夥伴中心入口網站或呼叫合作夥伴中心 API 時，完成多重要素驗證 (MFA)。 如需更詳細的資訊，請參閱[對您的合作夥伴租用戶強制使用多重要素驗證 (MFA)](partner-security-requirements-mandating-mfa.md)。 
+
+未符合需求的合作夥伴應該儘快實作這些措施，以避免任何業務中斷。 
 
 如果您是使用 Azure Multi-Factor Authentication 或 Azure AD 安全性預設值，則不需要採取任何其他動作。
 
-使用協力廠商的多重要素驗證解決方案時，可能不會發出 MFA 宣告。 如果遺漏此宣告，則 Azure Active Directory 將無法判斷驗證要求是否經過多重要素驗證的查問。 如需如何驗證解決方案發出預期宣告的詳細資訊，請閱讀[測試合作夥伴安全性需求](/powershell/partnercenter/test-partner-security-requirements)。 
+如果您使用協力廠商的多重要素驗證解決方案，則系統可能不會發出 MFA 宣告。 如果遺漏此宣告，則 Azure Active Directory 將無法判斷驗證要求是否經過多重要素驗證的查問。 如需如何驗證解決方案發出預期宣告的詳細資訊，請閱讀[測試合作夥伴安全性需求](/powershell/partnercenter/test-partner-security-requirements)。 
 
 > [!IMPORTANT]
 > 如果協力廠商解決方案未發出預期的宣告，則您必須與開發解決方案的廠商合作，以判斷應該採取哪些動作。

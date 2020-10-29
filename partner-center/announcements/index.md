@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92352864"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749707"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "92352864"
 
 | **類別** | **2020 年 10 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[在雲端解決方案提供者 (CSP) 計畫中引進直接計費合作夥伴需求的效能標準](2020-october.md#13)|10 月 27 日|
 |供應項目/市場|[Microsoft 365 商務語音供應項目更新](2020-october.md#12)|10 月 16 日|
 |功能|[2020 年 11 月更新：線上服務和軟體頻道授權指南](2020-october.md#11)|10 月 14 日|
 |供應項目/市場|[為非收益組織介紹 Microsoft 365 商務版 Voice](2020-october.md#10)|10 月 12 日|

@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89366852"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795761"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>註冊為 CSP 直接計費合作夥伴的需求
 
@@ -32,9 +32,10 @@ ms.locfileid: "89366852"
 |--------------------------------|--------------------------------------------------------------|
 |**MPN 識別碼**   |您的營業地點的使用中 Microsoft 合作夥伴網路 (MPN) 識別碼。    |
 |**委任背書**   |代表您的組織接受和簽署法律合約的職權。|
+|**營收**|自 2021 年 1 月起，註冊為直接計費合作夥伴的合作夥伴，必須在過去 12 個月內，於合作夥伴通用帳戶層級的雲端解決方案提供者計畫中至少交易 30 萬美元。| 
 |**支援**   |為您客戶提供第一層級雲端產品支援的能力。 <br/>一項 Microsoft 支援方案；視您的需求而定，可以是合作夥伴進階支援 (ASfP) 或合作夥伴頂級支援 (PSfP)。 [比較支援方案](https://partner.microsoft.com/support/partnersupport)。<br/> 重要事項：您必須先通過信用查核，才能購買支援方案。 當您通過信用查核之後，我們會傳送電子郵件給您。 |
 |**受管理的服務**   |至少一個受管理的服務、IP 服務或客戶解決方案應用程式。 深入了解如何新增[受管理的服務](https://partner.microsoft.com/business-opportunities/managed-services-provider)。|
-|**應收帳款** |可管理客戶計費及佈建的完善組織基礎結構。
+|**應收帳款** |可管理客戶計費及佈建的完善組織基礎結構。|
 
 ### <a name="verify-direct-bill-eligibility"></a>驗證直接計費資格
 

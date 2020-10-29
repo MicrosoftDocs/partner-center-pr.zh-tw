@@ -8,13 +8,13 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/02/2020
-ms.openlocfilehash: 7f2f612d0f448810049daf4dc2ea08a054e2a2c0
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.date: 10/19/2020
+ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
+ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197994"
+ms.lasthandoff: 10/21/2020
+ms.locfileid: "92333930"
 ---
 # <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>管理您的合作夥伴中心帳戶 - 公司設定檔、銀行資訊、角色、權限等等
 
@@ -42,20 +42,20 @@ ms.locfileid: "92197994"
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 2. 查看左側導覽窗。 其中會顯示已註冊計畫的相關選項。
 
-以下是其中一個範例。 假設某個使用者可以存取合作夥伴中心儀表板中的三個計畫：**MPN** 計畫、**推薦**計畫及**商業市集**計畫。 當他們登入合作夥伴中心儀表板時，他們會在畫面的左側看到這三個計畫。
+以下是其中一個範例。 假設某個使用者可以存取合作夥伴中心儀表板中的三個計畫： **MPN** 計畫、 **推薦** 計畫及 **商業市集** 計畫。 當他們登入合作夥伴中心儀表板時，他們會在畫面的左側看到這三個計畫。
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="已註冊計劃功能表":::
 
 ## <a name="account-management"></a>帳戶管理
 
-合作夥伴中心目前可在兩個不同的區段中管理帳戶：**合作夥伴設定**和**開發人員**設定。
+合作夥伴中心目前可在兩個不同的區段中管理帳戶： **合作夥伴設定** 和 **開發人員** 設定。
 
 >[!NOTE]
->若要存取**合作夥伴設定**或**開發人員設定**，您必須登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)，然後選取畫面右上角的 [設定] 選項 (齒輪圖示)。 然後，您可以從下拉式功能表中選取 [合作夥伴設定] 或 [開發人員設定]。
+>若要存取 **合作夥伴設定** 或 **開發人員設定** ，您必須登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)，然後選取畫面右上角的 [設定] 選項 (齒輪圖示)。 然後，您可以從下拉式功能表中選取 [合作夥伴設定] 或 [開發人員設定]。
 
 :::image type="content" source="images/accountsettings/account1.png" alt-text="已註冊計劃功能表":::
 
-合作夥伴可根據其公司是否已在相關計畫中註冊，而看到用來管理**合作夥伴設定**和 (或) **開發人員**設定的選項。 貴公司只有在已於至少一個與該設定相關聯的計畫中完成註冊時，才可以使用設定選項。
+合作夥伴可根據其公司是否已在相關計畫中註冊，而看到用來管理 **合作夥伴設定** 和 (或) **開發人員** 設定的選項。 貴公司只有在已於至少一個與該設定相關聯的計畫中完成註冊時，才可以使用設定選項。
 
 若要管理帳戶設定，您必須針對有問題的計畫選取適當的帳戶設定選項。  
 
@@ -83,11 +83,11 @@ ms.locfileid: "92197994"
 
 [合作夥伴設定] 選項會與 [開發人員設定] 選項不同。 請參閱下列每組選項的範例螢幕擷取畫面。 如果您有其他計畫的存取權，您可能也會看到與此處所示螢幕擷取畫面範例不同的選項。
 
-**合作夥伴設定選項**：
+**合作夥伴設定選項** ：
 
 :::image type="content" source="images/accountsettings/partneroptions.png" alt-text="已註冊計劃功能表":::
 
-**開發人員設定選項**：
+**開發人員設定選項** ：
 
 :::image type="content" source="images/accountsettings/devoptions.png" alt-text="已註冊計劃功能表":::
 
@@ -126,6 +126,5 @@ ms.locfileid: "92197994"
 |在合作夥伴中心註冊為控制台廠商|[在合作夥伴中心註冊為控制台廠商](enroll-as-cpv.md)|
 |在合作夥伴中心內關聯您的 Microsoft Learn 帳戶|[在合作夥伴中心內關聯您的 Microsoft Learn 帳戶](ms-learn-associate.md)|
 |請務必行銷宣傳您的公司，讓客戶可以找到您   |[建立商務設定檔](create-a-marketing-profile.md)|
-|整理您的類別目錄，讓最重要的產品列在清單頂端   |[自訂型錄](customize-the-catalog.md)|
 |隨時取得在目前定價與方案的最新資訊   |[定價與供應項目](pricing-and-offers.md)|
-|API：確認合作夥伴的 MPN 識別碼|[https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md]
+|API：確認合作夥伴的 MPN 識別碼|[確認合作夥伴的 MPN 識別碼](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)

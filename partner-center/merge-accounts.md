@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175187"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795826"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>將您的合作夥伴帳戶與另一個夥伴帳戶合併
 
@@ -84,12 +84,32 @@ ms.locfileid: "92175187"
 
 1. 從您的合作夥伴中心儀表板中選取 **設定** 。 
 
-2. 選取 **帳戶合併**。
+2. 選取 **帳戶合併** 。
 
 3. 在您想要邀請的帳戶 **夥伴設定檔** 中新增 MPN 識別碼，以與您合併。 您必須使用其合作夥伴全域 MPN 識別碼。 您無法使用位置 MPN 識別碼。
 
-4. 當您選取 [ **合併**] 時，邀請會傳送給合作夥伴公司。 當他們接受您的要求時，您可以在合作夥伴中心中起始帳戶合併。 如果公司拒絕您合併帳戶的要求，他們就可以解釋他們拒絕要求的原因。 您可以在 **合併歷程記錄**下，取得所有帳戶合併的清單。
+4. 當您選取 [ **合併** ] 時，邀請會傳送給合作夥伴公司。 當他們接受您的要求時，您可以在合作夥伴中心中起始帳戶合併。 如果公司拒絕您合併帳戶的要求，他們就可以解釋他們拒絕要求的原因。 您可以在 **合併歷程記錄** 下，取得所有帳戶合併的清單。
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>兩個公司合併帳戶的範例
 
+1. Contoso 有 
+
+    a. [1111111 的全域 MPN 識別碼](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)和一個下層[位置 MPN 識別碼 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)。
+  
+    b. Azure AD 租使用者 = @contoso.com
+ 
+    c. 2020年10月1日到期的金級專長認證
+2. >fabricam.com 有
+ 
+    a.  3333333的全域 MPN 識別碼，以及4444444和5555555的兩個附屬位置 MPN 識別碼
+
+    b.  AAD 租使用者 = @fabricam.com
+
+    c.  12月 1 2020 日到期的兩個金級能力
+3.  Contoso 會購買 >fabricam.com 並移至 [此處](https://partner.microsoft.com/dashboard/account/merger) 以起始合併要求
+4.  >fabricam.com 會登入合作夥伴中心並移至 Contoso 在步驟 #3 中進行的相同頁面，以核准 Contoso 的要求。
+5.  Contoso 會在同一個頁面上審核合併的詳細資料，並提供確認以繼續進行帳戶合併。
+    
 ## <a name="next-steps"></a>後續步驟
 
 - [指派使用者角色和權限](permissions-overview.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 6cba6a782b97e5dc1d17737d1f831d3fc2f4bbaf
-ms.sourcegitcommit: 5aafa34f70074996056a07bc50a75cd85ca77593
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92098477"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795804"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月公告
 
@@ -22,7 +22,115 @@ ms.locfileid: "92098477"
 
 2020 公告：[3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
 
+________________________________
 
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>在雲端解決方案提供者 (CSP) 計畫中引進直接計費合作夥伴需求的效能標準
+
+### <a name="categories"></a>類別
+
+- 日期：2020-10-27
+- 功能
+ 
+### <a name="summary"></a>摘要
+
+我們在雲端解決方案提供者計畫的直接計費合作夥伴需求中引進了效能標準。
+
+### <a name="impacted-audience"></a>影響對象
+
+雲端解決方案提供者計畫中的直接計費合作夥伴。
+
+### <a name="details"></a>詳細資料
+
+讓 Microsoft 雲端解決方案提供者計畫成長並最佳化，是我們的合作夥伴和客戶新商務體驗旅程的重要部分。 因此，我們將繼續發展此計畫，使其符合客戶不斷變化的需求，並為身為合作夥伴的您提供最有效率且有利可圖的體驗。
+
+今天，我們會針對雲端解決方案提供者計畫中的直接計費合作夥伴需求，分享一些即將來臨的變化。
+
+首先， **我們在直接計費合作夥伴需求中引進了效能標準** 。 想要註冊成為雲端解決方案提供者計畫中直接計費合作夥伴的合作夥伴，必須在其[必要支援合約](https://partner.microsoft.com/support/partnersupport)續約日期之前的 12 個月內，至少達到 30 萬美元的雲端解決方案提供者計畫營收。
+
+針對目前的直接計費合作夥伴，此效能標準將於 2021 年 1 月生效，而且您必須在合作夥伴支援方案續約日期前符合需求。
+
+如果您無法或不想符合更新後的直接計費合作夥伴需求，就必須在雲端解決方案提供者計畫重新註冊為間接經銷商。 
+
+這項新的營收需求可協助雲端解決方案提供者計畫中的合作夥伴，透過正確的模型以及更清楚的效能標準建置更有利可圖的業務，並著重於以較少的基礎結構和營運額外負荷為客戶提供更高的價值。
+
+其次，時間回到 2018 年 8 月，我們那時更新了直接計費合作夥伴需求，針對要購買合格合作夥伴支援方案的合作夥伴提出了新的準則。 我們將會再次強調此必要準則的重要性，雲端解決方案提供者計畫中的所有直接計費合作夥伴都必須遵守。
+
+### <a name="direct-bill-partner-requirements"></a>直接計費合作夥伴需求
+
+請檢閱[更新後的直接計費合作夥伴需求](../direct-partner-new-requirements.md#minimum-requirements)和建議，以評估要如何使用雲端解決方案提供者計畫中的正確模型來建置及擴大更有利可圖的業務：
+
+1. **新的營收效能需求**
+
+目前在雲端解決方案提供者計畫中註冊為直接計費合作夥伴的 **現有合作夥伴** ，自 2021 年 1 月起將必須符合新的效能標準。 在下一次的合作夥伴支援方案續約日期來臨之前，您會有時間符合需求。 您可以遵循[本指南](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)，在合作夥伴中心檢閱您過去 12 個月的營收。
+
+自 **2020 年 10 月** 起，註冊雲端解決方案提供者計畫的新合作夥伴將會成為間接經銷商。 其必須在過去 12 個月內達到至少 30 萬美元的 CSP 營收。 您可以遵循[本指南](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)，在合作夥伴中心檢閱您過去 12 個月的營收。 
+
+2. **支援合約需求** 
+
+請購買下列兩個支援合約選項的其中一個，以擴大您的支援功能：  
+
+   - Microsoft 合作夥伴進階支援 (ASfP)：一對一、優先的雲端支援  
+   - Microsoft 合作夥伴頂級支援 (PSfP)：存取主動式服務、全年無休的提升權限中斷/修正支援，以及跨雲端、混合式和內部部署之技術帳戶管理的完整目錄。 
+
+比較[支援合約選項](https://partner.microsoft.com/support/partnersupport)以購買合格的方案。
+
+### <a name="direct-bill-partner-recommendations"></a>直接計費合作夥伴建議
+
+**示範主要功能**
+
+為協助確保您已做好準備且了解要支援直接計費方案所需的基礎結構，我們有一些額外的建議。 證明您提供至少一個受控服務、IP 服務或客戶解決方案應用程式。 合作夥伴應該在 Microsoft Cloud 服務的基礎上增添價值，而不是直接經銷我們的服務。 這是合作夥伴上市策略的重要部分。 [深入了解](https://partner.microsoft.com/solutions/managed-services)如何新增受控服務。 建議您符合最低的基礎結構功能，例如帳單與佈建。 
+
+CSP 計畫中不符合新需求的直接計費合作夥伴，必須在 Microsoft 合作夥伴網路內重新註冊為該計畫的間接經銷商。 [深入了解](../transition-direct-to-indirect.md)如何從直接計費合作夥伴轉換為間接經銷商。  
+
+### <a name="next-steps"></a>後續步驟
+
+- 檢閱[更新後的直接計費合作夥伴需求](../direct-partner-new-requirements.md#minimum-requirements)。
+- 檢閱 [Microsoft 合作夥伴網站上作業資源庫](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)中的常見問題集和其他資訊。
+- 如果間接經銷商選項較符合您的商務需求，請尋找[要合作的間接提供者](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)。
+________________________________
+
+## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Microsoft 365 商務語音供應項目更新
+
+### <a name="categories"></a>類別
+
+- 日期：2020-10-16
+- 供應項目/市場
+ 
+### <a name="summary"></a>摘要
+
+11 月價目表預覽中的供應項目識別碼不正確。
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴
+
+### <a name="details"></a>詳細資料
+
+我們最近分享了 11 月即將推出的新供應項目公告：[適用於非營利組織的 Microsoft 365 商務語音](#10)和 [Microsoft 365 商務語音](#9)。
+
+
+這些公告中的幾個供應項目識別碼已進行更正。 這些已更正的供應項目識別碼應該會在接下來幾周的 11 月價目表更新中發佈。
+
+#### <a name="correct-offer-ids"></a>正確的供應項目識別碼
+
+   |**供應項目名稱**|**優惠識別碼**|**材質識別碼**|
+   |-------------------|:------|:------|
+   |Microsoft 365 商務語音採用促銷 (僅限美國)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
+   |Microsoft 365 商務語音 (非營利員工定價)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
+
+#### <a name="incorrect-offer-ids"></a>不正確的供應項目識別碼
+
+請忽略下列 11 月價目表預覽供應項目識別碼資訊。 
+
+   |**供應項目名稱**|**優惠識別碼**|
+   |-------------------|:------|
+   |Microsoft 365 商務語音採用促銷 (僅限美國)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
+   |Microsoft 365 商務語音 (非營利員工定價)|ae54a18d-3472-473a-9b21-9831b8e658f3|
+
+### <a name="next-steps"></a>後續步驟
+
+- 請熟悉預覽價目表，並與貴組織內的所有適當連絡人分享這項資訊。
+- 請檢閱 CSP 計畫更新資源庫上的所有準備資料 [適用於中小型企業的 Microsoft 365 商務語音簡介](https://partner.microsoft.com/resources/collection/m365-voice-smb)。
 ________________
 
 ## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>2020 年 11 月更新：線上服務和軟體頻道授權指南
@@ -124,7 +232,7 @@ Microsoft 正在為合作夥伴推出兩項全新的 CSP 升級，以促使更�
 #### <a name="additional-resources"></a>其他資源
 
 - 請瀏覽 [Microsoft 365 商務語音合作夥伴頁面](https://www.microsoft.com/microsoft-365/partners/businessvoice)，以深入了解商務語音。 
-- 如需深入了解[音訊會議功能](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)，請參閱 Microsoft 365 中的音訊會議。
+- 如需深入了解[音訊會議功能](/microsoftteams/audio-conferencing-in-office-365)，請參閱 Microsoft 365 中的音訊會議。
 - 若要深入了解這些促銷，請參閱相關的[合作夥伴常見問題集](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)。
 
 ### <a name="next-steps"></a>後續步驟
@@ -160,12 +268,12 @@ Azure 入口網站使用者體驗 (UX) 最近已針對所有 Azure 應用程式�
 
 您會收到這封電子郵件，是因為您已在 Azure Marketplace 上發佈或註冊發佈 Azure 應用程式 (解決方案範本和受控應用程式)。
 
-我們已對 [Azure 入口網站](https://ms.portal.azure.com/)進行一些變更，以改善客戶使用和管理 Azure 應用程式的方式。 **請檢閱並更新**您的客戶文件和參考資料，以確保其反映出新的體驗。
+我們已對 [Azure 入口網站](https://ms.portal.azure.com/)進行一些變更，以改善客戶使用和管理 Azure 應用程式的方式。 **請檢閱並更新** 您的客戶文件和參考資料，以確保其反映出新的體驗。
 以下是 Azure 入口網站中的新功能：
 
 - 彈性導覽可讓您在任何區段中檢視、編輯和儲存資訊，而不需先看完上一節。
 - 不含多個內嵌層級的全新完整頁面視圖。
-- 標籤和整理 Azure 資源的新功能。 如需深入了解標籤功能，請參閱[使用標籤來整理 Azure 資源](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources)。
+- 標籤和整理 Azure 資源的新功能。 如需深入了解標籤功能，請參閱[使用標籤來整理 Azure 資源](/azure/azure-resource-manager/management/tag-resources)。
 
 如果您對這些變更有任何疑問，請洽詢我們的[支援小組](https://aka.ms/marketplacepublishersupport)。
 
@@ -382,7 +490,7 @@ Microsoft 將於 2020 年 11 月 1 日發行下列全新和更新的 Dynamics 36
 
 - 如需供應項目識別碼詳細資料，請參閱 [Dynamics CSP Offers-November 2020 Excel 文件](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls)中的 [Project Operations] 索引標籤。
 - 如需詳細資訊，請參閱 [Microsoft Dynamics 365 客戶語音首頁](https://dynamics.microsoft.com/customer-voice/overview/)。
-- 檢視 9 月的 [Dynamics 全新供應項目公告](https://docs.microsoft.com/partner-center/announcements/2020-september#3)。
+- 檢視 9 月的 [Dynamics 全新供應項目公告](2020-september.md#3)。
 
 ________________
 
@@ -448,7 +556,7 @@ SharePoint Syntex SKU 將於 10 月 1 日的價目表 (9 月 1 日的價目表�
 
 - Microsoft 365 E5 和 Office 365 E5 將能夠使用適用於 Microsoft Search 的 Microsoft Graph 連接器 (A5 中未包含)，為多達 500 個項目編制索引。  
 - 任何具有套件或獨立授權 (包含 SharePoint 或 OneDrive 方案) 的使用者，都可以從適用於 Microsoft Search 的 Microsoft Graph 連接器查看搜尋結果。 
-- 將有新的**額外 Graph 連接器容量 SKU** 可供您另外編制多達 100 萬個項目的索引。
+- 將有新的 **額外 Graph 連接器容量 SKU** 可供您另外編制多達 100 萬個項目的索引。
 
 #### <a name="offer-details"></a>供應項目詳細資料
 
@@ -496,5 +604,5 @@ FY20 CSP 獎勵計畫期間已於 2020 年 9 月 30 日結束。 FY21 CSP 獎勵
 
 ### <a name="questions"></a>有問題嗎？
 
-在合作夥伴中心的搜尋列中搜尋**獎勵**，即可取得獎勵相關問題的建議步驟和自助文章。 
+在合作夥伴中心的搜尋列中搜尋 **獎勵** ，即可取得獎勵相關問題的建議步驟和自助文章。 
 ________________

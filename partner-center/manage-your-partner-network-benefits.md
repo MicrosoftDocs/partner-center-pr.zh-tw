@@ -1,7 +1,7 @@
 ---
 title: 管理 Microsoft 合作夥伴網路權益
-ms.topic: article
-ms.date: 09/03/2020
+ms.topic: how-to
+ms.date: 10/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 加入 Microsoft 合作夥伴網路 (MPN)，並使用合作夥伴中心來管理可協助拓展您業務的會員資格權益和優惠。
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee0158bfd902e1cc0a4a664b6d051a41d1e209ce
-ms.sourcegitcommit: 48dea6c949391ce0d62e401d4e53df8eaf39453b
+ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
+ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "89427085"
+ms.lasthandoff: 10/24/2020
+ms.locfileid: "92523583"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作夥伴中心管理您的 Microsoft 合作夥伴網路會員資格權益和優惠
 
@@ -86,7 +86,8 @@ ms.locfileid: "89427085"
 
 4. 針對每個您要指派的訂閱重複此程序。 使用者可以在 Visual Studio 入口網站管理訂閱。
 
-   透過移除指派的使用者，然後指定不同的使用者，您可以隨時重新指派訂閱。
+   >[!Note]
+   >如果自原始指派時起算已經過 90 天，Visual Studio 訂用帳戶系統管理員就可以將訂用帳戶從某個訂閱者重新指派給另一個訂閱者。 如需詳細資訊，請參閱 [Microsoft 合作夥伴計畫指南](https://aka.ms/partner-benefits-use-guide)。
 
 ## <a name="manage-technical-benefits"></a>管理技術權益
 
@@ -112,16 +113,16 @@ ms.locfileid: "89427085"
 
    **技術支援 (協助修正)。** 當功能故障時，或沒有如預期般運作時 (例如，當您收到錯誤訊息時)，請使用這種技術支援。 以下是一些指導方針：
 
-   - 僅適用於金級/銀級專長認證合作夥伴 (不適用於行動套件訂閱者)，請針對**雲端產品**使用**簽章產品支援**。
+   - 僅適用於金級/銀級專長認證合作夥伴 (不適用於行動套件訂閱者)，請針對 **雲端產品** 使用 **簽章產品支援** 。
 
-   - 若為行動套件和金級/銀級專長認證合作夥伴，請針對**最近的內部部署產品** (僅限目前版本和舊版) 使用 **Microsoft 產品支援**事件。
+   - 若為行動套件和金級/銀級專長認證合作夥伴，請針對 **最近的內部部署產品** (僅限目前版本和舊版) 使用 **Microsoft 產品支援** 事件。
 
      >[!NOTE]
      > 內部部署、Azure (非 CSP) 和 Dynamics 產品的技術支援要求需要存取識別碼和合約識別碼。 日後若要尋找您的存取識別碼和合約識別碼，您也可以閱讀[尋找您的權益](mpn-find-benefits.md#find-access-id-and-contract-id-for-technical-benefits)。
   
    **技術預售和部署服務。**  使用這種類型的支援來獲得關於技術銷售或部署的諮詢或建議。 您可以直接從[合作夥伴中心](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)要求這些服務。
 
-   - 針對行動套件和金級/銀級專長認證合作夥伴，請針對雲端和混合式解決方案使用**技術預售和部署服務**。
+   - 針對行動套件和金級/銀級專長認證合作夥伴，請針對雲端和混合式解決方案使用 **技術預售和部署服務** 。
   
 ## <a name="manage-go-to-market-offers"></a>管理進入市場供應項目
 

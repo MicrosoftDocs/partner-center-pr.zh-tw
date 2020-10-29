@@ -1,7 +1,7 @@
 ---
 title: 建立客戶關聯
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 使用 (CPOR) 模型的宣告夥伴建立客戶關聯。 協助管理 Microsoft 365 & Dynamics 365 客戶的銷售、使用量、獎勵。
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174993"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917243"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>客戶與 Microsoft 365 和 Dynamics 365 的記錄 (CPOR) 模型的客戶關聯
 
@@ -33,29 +33,29 @@ ms.locfileid: "92174993"
 
 您將需要下列資訊才能完成宣告：
 
-- 進行宣告之實體的**MPN 識別碼**
+- 進行宣告之實體的 **MPN 識別碼**
 
-- 客戶的**功能變數名稱**[找到此](find-domain-name.md)
+- 客戶的 **功能變數名稱**[找到此](find-ids-and-domain-names.md)
 
-- 客戶的**目錄識別碼**或**租使用者識別碼**[尋找此](find-domain-name.md)
+- 客戶的 **目錄識別碼** 或 **租使用者識別碼**[尋找此](find-ids-and-domain-names.md)
 
-- **解決方案區域**，例如 Business Applications 或 Microsoft 365
+- **解決方案區域** ，例如 Business Applications 或 Microsoft 365
 
 - 您已執行的 **活動** ，以及您想要進行的宣告類型，例如售前、使用量或收入關聯
 
-- 您客戶的 **連絡人名稱**、標題和電子郵件地址
+- 您客戶的 **連絡人名稱** 、標題和電子郵件地址
 
 - 針對 Dynamics 365，您也需要提供客戶的 **技術連絡人** 名稱、標題和電子郵件地址
 
 - 您自己公司的 **連絡人名稱** 和電子郵件地址
 
-- 您將建立此宣告的**名稱**
+- 您將建立此宣告的 **名稱**
 
-- **產品 (s) **或工作負載 () 您所宣稱的
+- **產品 (s)** 或工作負載 () 您所宣稱的
 
-- **執行證明 (PoE) **，例如客戶所簽署的工作說明。 您也可以下載 PoE 範本以供使用。
+- **執行證明 (PoE)** ，例如客戶所簽署的工作說明。 您也可以下載 PoE 範本以供使用。
 
-- 適用于僅索取收入關聯的合作夥伴： **Dynamics 解決方案賣方名稱**、 **客戶名稱**，以及 **ISV 產品/解決方案的名稱**。 
+- 適用于僅索取收入關聯的合作夥伴： **Dynamics 解決方案賣方名稱** 、 **客戶名稱** ，以及 **ISV 產品/解決方案的名稱** 。 
 
 您也應該瞭解下列幾點：
 
@@ -69,24 +69,24 @@ ms.locfileid: "92174993"
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
 
-2. 選取 [**獎勵**] 索引標籤，選取 [總覽]，然後選取 **[****客戶關聯**]。
+2. 選取 [ **獎勵** ] 索引標籤，選取 [總覽]，然後選取 **[****客戶關聯** ]。
 
-3. 在 [客戶關聯] 頁面的頂端，選取 [ **+ 客戶關聯**]。
+3. 在 [客戶關聯] 頁面的頂端，選取 [ **+ 客戶關聯** ]。
 
-4. 選取要與客戶相關聯合作夥伴位置的 **MPN 識別碼**，然後新增客戶的網域名稱和目錄識別碼。 [尋找](find-domain-name.md)
+4. 選取要與客戶相關聯合作夥伴位置的 **MPN 識別碼** ，然後新增客戶的網域名稱和目錄識別碼。 [尋找](find-ids-and-domain-names.md)
 
 5. 選取 [繼續]。
 
-6. 選取 **解決方案區域** 和 **活動**。 
+6. 選取 **解決方案區域** 和 **活動** 。 
 
    >[!Note]
    >
-   >如果您選取 [Business Applications，請選取 [ **使用量] 和/或 [售前**] 或 [ **收入關聯**]，然後選取 [ **繼續**]。 
+   >如果您選取 [Business Applications，請選取 [ **使用量] 和/或 [售前** ] 或 [ **收入關聯** ]，然後選取 [ **繼續** ]。 
    <br><br>如果您選取 [收益關聯]，系統會提示您輸入與下列內容稍有不同的資訊。
 
-7. 在 [ **關聯客戶** ] 頁面上輸入適當的資訊，然後選取 [ **建立**宣告]。
+7. 在 [ **關聯客戶** ] 頁面上輸入適當的資訊，然後選取 [ **建立** 宣告]。
 
-8. 選取與此客戶關聯相關聯的產品 () ，然後選取 [ **繼續**]。
+8. 選取與此客戶關聯相關聯的產品 () ，然後選取 [ **繼續** ]。
 
 9. 完成客戶連絡人資訊和貴公司的連絡人資訊。 所有欄位皆為必填項目。 
 
@@ -100,10 +100,10 @@ ms.locfileid: "92174993"
    >[!NOTE]
    >當您提交客戶關聯之後，就無法加以編輯。
 
-您的客戶關聯狀態會出現在**狀態**欄位中。
+您的客戶關聯狀態會出現在 **狀態** 欄位中。
 
 選取 [歷程記錄] 以檢視客戶關聯的歷程記錄。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>接下來的步驟
 
 - [管理客戶關聯](incentives-manage-customer-associations.md)
