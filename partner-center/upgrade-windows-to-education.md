@@ -1,0 +1,103 @@
+---
+title: Windows 10 家用版客戶升級為 Windows 10 教育版
+ms.topic: article
+ms.date: 10/28/2020
+description: Windows 10 家用版客戶升級為 Windows 10 教育版
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+author: BrentSerbus
+ms.author: brserbus
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.translationtype: MT
+ms.contentlocale: zh-TW
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "93028769"
+---
+# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Windows 10 家用版客戶升級為 Windows 10 教育版
+
+**適用於**
+
+- 合作夥伴中心
+
+**適當的角色**
+
+- 系統管理代理人
+- 技術服務代理人
+
+## <a name="overview"></a>概觀
+
+自2020年11月1日起，已購買 Microsoft 365 A3 或 A5 或 Windows 10 企業版 A3 或 A5 訂用帳戶的 Csp 可協助其教育客戶從 Windows 10 家用版升級為 Windows 10 教育版，這是針對教室和遠端學習所設計。
+
+自2020年11月1日起，Windows 10 家用版將會是透過 CSP) 透過 Microsoft Cloud 合約 (授權之教育版客戶的合格作業系統。 這項資格在現在僅提供大量授權 (VL) 教育方案中，已透過 Microsoft 365 系統管理員入口網站支援啟用。 
+
+## <a name="how-the-upgrade-process-works"></a>升級程式的運作方式
+
+CSP 合作夥伴可代表客戶提交支援要求，以協助客戶進行升級。 Microsoft 支援服務將會審核要求以確保客戶符合資格;核准要求之後，支援人員會提供 Windows 10 專業教育版金鑰給合作夥伴，然後將其提供給客戶。
+
+當客戶安裝金鑰，且裝置透過 Azure Active Directory (AAD) 加入租使用者網域時，裝置會自動升級為 Windows 10 教育版 (訂用帳戶) 。   
+
+## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>讓客戶取得 Windows 10 教育版的逐步流程
+
+合作夥伴應該建立支援要求，並從支援取得金鑰。 夥伴接著會與客戶共用這些金鑰。
+
+### <a name="partners--how-to-get-the-keys"></a>合作夥伴–如何取得金鑰：
+
+1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard)。
+
+2. 從 [合作夥伴中心] 功能表中，選取 [ **Customers** ]，然後選取需要支援的客戶。
+
+3. 選取 **\[服務管理\]** ，然後選取 **\[服務要求\]** 。
+
+4. 選取 [ **新增要求** ]，然後選取 [ **Office 365 和企業行動套件** ]。
+
+5. 您會進入 Office 365 入口網站，您需要使用合作夥伴中心認證登入。
+
+6. 從左側功能表選取 [ **支援]、[新增服務** 要求]。
+
+7. 在支援要求中包含下列詳細資料：
+
+- **標題：** Windows 10 家用版 Windows 10 教育版升級產品金鑰
+- **描述：** 要求 [insert number] 鍵，以啟用 Windows 10 教育版的升級。  (請注意，要求的金鑰數目必須不大於您的 Microsoft 365 A3/A5 或 Windows 10 企業版 A3/A5 訂用帳戶授權。 ) 客戶的訂用帳戶識別碼 [插入客戶的訂用帳戶識別碼 GUID] Microsoft 365 A3/A5 或 Windows 10 企業版 A3/A5 訂用帳戶。]
+- **連絡人號碼：** 這會預先填入;檢查以確認或更新。
+- **電子郵件：** 這會預先填入，且應該是您用來作為 Microsoft 入口網站管理員的電子郵件， (全域管理員或計費管理員只) 。
+- **慣用的 contact 方法** ：選擇 [ **電話** ] 或 [ **排程回撥** ]。
+
+8. 選取 [ **Contact me** ]。 預期的等待時間會在 [ **需要協助嗎？** ] 窗格中指出。
+
+9. **Microsoft 支援服務** 將會檢查要求，以確保客戶符合資格。 要求一經核准，就會傳送電子郵件給合作夥伴，內含如何存取金鑰的指示。
+
+10. **合作夥伴** 會與客戶共用金鑰和其他指示。
+
+### <a name="customer-applies-the-upgrade"></a>客戶套用升級：
+
+若要使用 Windows 10 專業教育版產品金鑰升級 Windows 10 家用版，客戶必須執行下列動作：  
+
+1. 選取 [ **開始** ]，然後選取 [ **設定] > 更新 & 安全性 > 啟用** 。 選取 [ **變更產品金鑰** ]，然後輸入25個字元的 Windows 10 專業版產品金鑰。 選取 **[下一步]** 開始升級至 Windows 10 專業版。
+
+2. 透過 AAD) 將裝置加入租使用者網域 (時，裝置會自動升級為 Windows 10 教育版。  
+
+## <a name="frequently-asked-questions"></a>常見問題集
+
+**哪些客戶符合資格？**
+符合學術資格並具有有效 Windows 10 企業版 A3/A5 或 Microsoft 365 A3/A5 授權訂閱的 CSP 客戶，可能會將其 Windows 10 家用版裝置升級到 Windows 10 教育版。 透過 VL 向大量授權服務中心授權這些優惠的其他教育客戶 (VLSC) 。
+
+**我的 VL 客戶是否可以使用此流程？**
+否，透過註冊教育解決方案的 VL 客戶 (EES) 、適用于教育解決方案的 Open Value 訂用帳戶解決方案 (OVS-ES ES) 和學校都應前往 [VLSC](https://www.microsoft.com/Licensing/servicecenter/default.aspx) 下載產品和金鑰。 
+
+**我的客戶需要比原始要求更多的金鑰。如何取得？**
+您可以針對客戶的 Windows 10 家用版裝置，提交額外的金鑰支援要求。 跨多個要求的總數量不應大於其 Microsoft 365 A3/A5 或 Windows 10 企業版 A3/A5 訂用帳戶的有效授權總數。
+
+**我的客戶即將購買更多 Windows 10 家用版裝置。他們可以取得更多升級嗎？**
+教育客戶應透過我們的 [Shape the Future](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) 計畫考慮低成本的 Windows 10 教育版裝置，並免除 Windows 10 家用版裝置升級的需求。 如果他們購買的 Windows 10 家用版裝置更多，則合作夥伴必須透過 Microsoft 系統管理員入口網站提交新的支援要求。
+
+**需要什麼時間才能聯絡支援並收到升級金鑰？**
+Windows 10 教育版升級是根據客戶的 active Microsoft 365 A3/A5 或 Windows 10 企業版 A3/A5 授權訂閱。 如果客戶未延長或續約訂用帳戶，則也會結束升級的資格。
+
+**合作夥伴可以在哪裡深入瞭解 Windows 10 教育版？**
+請遵循下列連結來深入瞭解：
+
+- [Windows 教育功能](https://www.microsoft.com/education/products/windows/features)
+- [Windows 教育中樞](https://docs.microsoft.com/education/windows/)
