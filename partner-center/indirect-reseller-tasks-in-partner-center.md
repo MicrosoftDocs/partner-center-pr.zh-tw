@@ -1,7 +1,7 @@
 ---
 title: 與 CSP 計畫中的間接提供者合作
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解間接轉銷商如何與 Microsoft 間接提供者 (或代理商) 合作，以協助提供客戶支援和計費服務。
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006828"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795843"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在雲端解決方案提供者計畫中與間接提供者成為合作夥伴
 
+**適用於**
+
+- 合作夥伴中心
+
 **適當的角色**
 
-- 全域系統管理員
-- 使用者系統管理員
-- 系統管理代理人
+
+- 所有想要註冊加入雲端解決方案提供者計畫的 Microsoft 合作夥伴
 
 
 雲端式解決方案與服務的快速成長需求，為所有大小的 Microsoft 合作夥伴提供許多機會來建立可獲利的雲端解決方案業務。 準備好要進入市場，但不願管理多個廠商，或是端對端客戶關係管理基礎結構可能尚不到位的合作夥伴，可以間接經銷商的身分來參加 Microsoft 的雲端解決方案提供者 (CSP) 計畫成為間接經銷商。
@@ -47,7 +50,7 @@ ms.locfileid: "92006828"
 
 ### <a name="before-you-begin"></a>開始之前
 
-如果您是 CSP 新手，將需要註冊計畫成為間接轉銷商。 接著，您必須在合作夥伴中心內建立帳戶。 若要這樣做，您將需要在註冊程序期間提供下列資訊。 您可能需要先花幾分鐘時間收集這些項目，再開始進行：
+自 2020 年 10 月起，所有新加入 CSP 的 Microsoft 合作夥伴都會在 CSP 計畫中註冊為間接經銷商。 接著，您必須在合作夥伴中心內建立帳戶。 若要這樣做，您需要在註冊程序期間提供下列資訊。 您可能需要先花幾分鐘時間收集這些項目，再開始進行：
 
 - **工作帳戶的全域管理員認證**
 
@@ -65,7 +68,7 @@ ms.locfileid: "92006828"
 
 ### <a name="get-started"></a>開始使用
 
-1. 若要開始進行此程序，請移至 [**歡迎頁面**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)進行註冊。
+1. 若要開始註冊程序，請移至 [**歡迎頁面**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller)進行註冊。
 
 2. 檢閱 [歡迎] 頁面，確定您有註冊所需的資訊，然後選取 [下一步]。
 
@@ -95,9 +98,19 @@ ms.locfileid: "92006828"
 
 9. 您的合作夥伴中心帳戶準備好可以使用時，請確認您已新增至系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
 
-   1. 在您的**合作夥伴中心**中，選取 [設定] 圖示，然後選取 [使用者管理]。
+   1. 在您的 **合作夥伴中心** 中，選取 [設定] 圖示，然後選取 [使用者管理]。
 
    2. 從使用者清單中選取您的名稱。 然後選取 [系統管理代理人] (如果尚未選取的話)。 選取 [更新]。
+
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>所有間接經銷商都必須簽署 Microsoft 合作夥伴合約
+
+1.  如果您還沒有從 Partner Membership Center 移至合作夥伴中心，請立即進行。 如需如何移至合作夥伴中心的說明，請參閱[從 PMC 遷移至合作夥伴中心的指南](guide-to-migration.md)。 
+
+2.  如果您有合作夥伴中心的成員資格帳戶 (MPN 識別碼)，仍必須正式註冊參加雲端解決方案提供者計畫。 若要檢查您的成員資格狀態，請移至您的 [**合作夥伴設定檔**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)並確認帳戶類型。 然後[在 CSP 中註冊為間接經銷商](enrolling-in-the-csp-program.md)。 當您註冊為間接經銷商之後，請[接受來自間接提供者的 CSP 關聯性要求](indirect-reseller-tasks-in-partner-center.md)。
+
+3.  如果您已在合作夥伴中心內註冊為間接經銷商，請使用全域系統管理員認證在[合作夥伴中心儀表板概觀](https://partner.microsoft.com/pcv/dashboard/overview)上接受 Microsoft 合作夥伴合約。 確認您已在 [合作夥伴設定檔] 的 [計畫資訊] 區段中簽署 Microsoft 合作夥伴合約。 此外，您也會在 CSP 的 [概觀] 頁面上看到確認橫幅通知。 
+
+:::image type="content" source="images/mpagreen.png" alt-text="綠色已接受橫幅":::
 
 
 ## <a name="connect-with-an-indirect-provider"></a>與間接提供者保持聯繫
@@ -117,7 +130,7 @@ ms.locfileid: "92006828"
    > [!NOTE]  
    > 當您與間接提供者建立合作關係時，您授權他們代表您的客戶提交訂單及新增訂閱，而且您將您公司的工作帳戶的系統管理員存取權限授與他們。 在您建立與提供者的合作關係後，可以在 Office 365 入口網站中移除提供者對您工作帳戶的系統管理員存取權。
 
-4. 從您的**合作夥伴中心**功能表選取 [間接提供者]，以查看您有合作關係的提供者的清單。
+4. 從您的 **合作夥伴中心** 功能表選取 [間接提供者]，以查看您有合作關係的提供者的清單。
 
 5. 選取 [檢視客戶]，以查看您和提供者共用的客戶清單。
 
@@ -128,6 +141,8 @@ ms.locfileid: "92006828"
 
 
 ## <a name="next-steps"></a>後續步驟
+
+- [帳戶驗證程序](verification-responses.md)
 
 - [管理您的合作夥伴中心帳戶](partner-center-account-setup.md)
 
