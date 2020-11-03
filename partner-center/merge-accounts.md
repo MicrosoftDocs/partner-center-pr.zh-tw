@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795826"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189742"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>將您的合作夥伴帳戶與另一個夥伴帳戶合併
 
@@ -103,14 +103,24 @@ ms.locfileid: "92795826"
  
     a.  3333333的全域 MPN 識別碼，以及4444444和5555555的兩個附屬位置 MPN 識別碼
 
-    b.  AAD 租使用者 = @fabricam.com
+    b.  Azure AD 租使用者 = @fabricam.com
 
-    c.  12月 1 2020 日到期的兩個金級能力
-3.  Contoso 會購買 >fabricam.com 並移至 [此處](https://partner.microsoft.com/dashboard/account/merger) 以起始合併要求
+    c.  2020年12月1日到期的兩個金級專長認證
+3.  Contoso 會購買 >fabricam.com 並移至 [這裡](https://partner.microsoft.com/dashboard/account/merger) ，以起始合併要求。
 4.  >fabricam.com 會登入合作夥伴中心並移至 Contoso 在步驟 #3 中進行的相同頁面，以核准 Contoso 的要求。
 5.  Contoso 會在同一個頁面上審核合併的詳細資料，並提供確認以繼續進行帳戶合併。
+6.  合併之後，公司帳戶會顯示為：
+
+    a.  名為 Contoso 的公司，其全域 MPN 識別碼為1111111，而4個次級位置 MPN 識別碼為2222222、3333333、4444444和5555555
     
-## <a name="next-steps"></a>後續步驟
+    b.  它會有兩個 Azure AD 租使用者 (@contoso.com + @fabricam.com) 可以存取相同的合作夥伴中心帳戶
+    
+    c.  它會有兩個專長認證權益套件，也就是2020年10月1日到期，另一個則會在2020年12月1日到期。 您可以在2020年12月1日，將其更新為單一專長認證權益套件。 當他們續約時，Contoso 會保留這三項專長認證，即使它們只能維護單一權益套件也一樣。
+    
+7.  Contoso 的系統管理員將繼續為使用者管理合作夥伴中心角色 @contoso.com 。 >fabricam.com 的系統管理員將繼續為使用者管理合作夥伴中心角色 @fabricam.com 。 如果 Contoso 的系統管理員被邀為 >fabricam.com 租使用者的來賓，則只能管理 >fabricam.com 的使用者。
+8.  Contoso 可以決定忽略租使用者 @fabricam.com ，然後 @contoso.com 使用新的角色和許可權重新發出 >fabricam.com 員工新的認證。
+
+## <a name="next-steps"></a>下一步
 
 - [指派使用者角色和權限](permissions-overview.md)
 

@@ -1,7 +1,7 @@
 ---
 title: 獎勵共同作業和理賠總覽
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: 瞭解如何藉由組織適當的檔、發票、語句和執行證明，為您的獎勵提交成功的共同作業索賠。
@@ -9,12 +9,12 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90848218"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133077"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>獲得合作行銷資金
 
@@ -34,13 +34,16 @@ ms.locfileid: "90848218"
 您可以在 [共同作業資金資源](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) 頁面上深入瞭解。
 
 >[!Important]
->共同作業聲明不適用於線上服務諮詢 (OSA) 銷售、線上服務使用 (OSU) Microsoft 365 和 OSU 商務應用程式獎勵計畫。 若要提交這些程式之一的宣告，請參閱 [使用 CPOR 模型建立客戶 associearation](submit-osa-claim.md)。
+>共同作業聲明不適用於線上服務諮詢 (OSA) 銷售、線上服務使用 (OSU) Microsoft 365 和 OSU-Business 應用程式獎勵方案。 若要提交這些程式之一的宣告，請參閱 [使用 CPOR 模型建立客戶 associearation](submit-osa-claim.md)。
 
 ## <a name="how-co-op-funds-are-calculated"></a>共同作業資金的計算方式
 
 Microsoft 會使用分割百分比 (（例如60% 退款-40% 共同作業) ）來計算合格的獎勵收益。 您將會使用個別方案的現有隨用隨付步調來接收退款部分，而 Microsoft 將會累積獎勵收益的共同作業部分。
 
 您可以深入瞭解獎勵計劃指南中的隨用隨付步調和分割百分比。 使用 [此](incentives-determined-your-program-eligibility.md) 程式存取您的節目表。
+
+>[!NOTE]
+>如果您的共同作業收益低於共同作業收益期間內的閾值，則會在半年度結束時將共同作業收益轉換成返利。 如需詳細資訊或判斷閾值金額，請參閱您的獎勵計劃指南。
 
 ## <a name="when-to-claim-your-funds"></a>領取資金的時機
 
@@ -49,7 +52,7 @@ Microsoft 會使用分割百分比 (（例如60% 退款-40% 共同作業) ）來
 - H1 是會計年度的前半部，7月1日到12月31日。
 - H2 是會計年度的下半年，1月1日到6月30日。
 
-您累積收益的六個月期間會變成您的收益 **週期**。 您必須在下列六個月的 **使用期間**內的某個時間點使用這些收益。 如果您未在使用期間結束時使用您的收益，您將會要略過它們。 宣告 **期間** 為六個月期間，您可以在這段期間內索取獎勵計畫活動的款項。
+您累積收益的六個月期間會變成您的收益 **週期** 。 您必須在下列六個月的 **使用期間** 內的某個時間點使用這些收益。 如果您未在使用期間結束時使用您的收益，您將會要略過它們。 宣告 **期間** 為六個月期間，您可以在這段期間內索取獎勵計畫活動的款項。
 
 下表顯示不同的收益、使用方式和宣稱的期間。 除非另有說明，否則期間會從第一個月的第一天延伸至上個月的最後一天。
 
@@ -65,7 +68,7 @@ Microsoft 會使用分割百分比 (（例如60% 退款-40% 共同作業) ）來
 
 下列資源將協助您開始使用共同作業宣告。
 
-| 作法 | 閱讀這個 |
+| 若要執行此工作 | 閱讀這個 |
 | ------ | ----------- |
 | 提交宣告 |  [建立及管理獎勵計畫共同作業理賠](create-incentives-claims.md)  |
 | 管理提交的宣告 | [建立及管理獎勵計畫共同作業理賠](create-incentives-claims.md)    |
