@@ -710,13 +710,10 @@
       displayName: 'tenant id, object id, domain name, azure ad tenant, tenantguid, Microsoft ID, directory id'
 - name: 安全性需求
   items:
-    - name: 概觀
+    - name: 安全性概觀
       href: partner-security-requirements.md
     - name: 對合作夥伴租用戶強制使用 MFA
       href: partner-security-requirements-mandating-mfa.md
-      displayName: csp
-    - name: 使用多重要素驗證來設定您的使用者
-      href: mfa-for-users.md
       displayName: csp
     - name: 需求狀態
       href: partner-security-compliance.md

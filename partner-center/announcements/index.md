@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93027885"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133009"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "93027885"
 
 | **類別** | **2020 年 10 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[Windows Server 軟體訂用帳戶功能更新](2020-october.md#17)|10 月 29 日|
 |功能|[Windows 10 教育版升級現已提供給合格的雲端解決方案提供者 (CSP) 教育版客戶](2020-october.md#16)|10 月 28 日|
 |功能|[重新整理的雲端解決方案提供者 (CSP) 數位體驗現已推出](2020-october.md#15)|10 月 28 日|
 |功能|[在雲端解決方案提供者 (CSP) 計畫中引進直接計費合作夥伴需求的效能標準](2020-october.md#13)|10 月 27 日|
