@@ -295,9 +295,6 @@
         - name: 建立您的執行證明
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: 以 PoE 形式提交稅務發票
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: 獎勵合作宣告
       items:
         - name: 獎勵合作宣告
