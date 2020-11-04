@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 7591868f31d51750fcb30c41f73cea47c7178955
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031841"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132989"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -168,11 +168,11 @@ _________________
 
 我們最近已順利完成為所有合作夥伴租用戶啟用代理管理 (Admin-On-Behalf-Of，AOBO) 功能的安全性保護，以保護其企業與客戶免於身分盜用的相關事件。
 
-為了進一步協助保護合作夥伴與客戶，**自 2020 年 5 月 1 日起，我們將開始為雲端解決方案提供者中的合作夥伴中心交易啟用保護**。 啟用額外的安全性保護，表示合作夥伴必須使用多重要素驗證 (MFA)，來處理雲端解決方案提供者中透過合作夥伴中心使用者體驗或 API 的任何交易，以避免未經授權的存取，並保護其客戶與租用戶免於身分盜用的相關安全性事件。 如需詳細資訊，請參閱[此處](../partner-security-requirements-mandating-mfa.md)。
+為了進一步協助保護合作夥伴與客戶， **自 2020 年 5 月 1 日起，我們將開始為雲端解決方案提供者中的合作夥伴中心交易啟用保護** 。 啟用額外的安全性保護，表示合作夥伴必須使用多重要素驗證 (MFA)，來處理雲端解決方案提供者中透過合作夥伴中心使用者體驗或 API 的任何交易，以避免未經授權的存取，並保護其客戶與租用戶免於身分盜用的相關安全性事件。 如需詳細資訊，請參閱[此處](../partner-security-requirements-mandating-mfa.md)。
 
 ### <a name="next-steps"></a>接下來的步驟
 
-- **如果您尚未啟用建議的安全性需求來保護您的租用戶及使用者**，請立即進行，以確保符合規範，以及避免管理客戶或在雲端解決方案提供者中交易時的任何業務中斷。 未實作安全性需求的合作夥伴，可能會使他們在參與雲端解決方案提供者計畫時面臨風險。
+- **如果您尚未啟用建議的安全性需求來保護您的租用戶及使用者** ，請立即進行，以確保符合規範，以及避免管理客戶或在雲端解決方案提供者中交易時的任何業務中斷。 未實作安全性需求的合作夥伴，可能會使他們在參與雲端解決方案提供者計畫時面臨風險。
 - 間接提供者必須在自己的公司實作這些安全性需求，並利用此電子郵件範本，確認轉銷商也實作了這些需求。 我們也會透過電子郵件，直接連絡您的轉銷商。
 - 請前往[合作夥伴中心安全性需求狀態頁面](https://partner.microsoft.com/commerce/security/compliance)，以識別進度及需要採取的主要動作。 與您的全域管理員合作，定期檢查各個租用戶的安全性需求進度。
 - 如果您使用的是控制台廠商 (CPV) 解決方案，請洽詢您的 CPV。
@@ -192,7 +192,7 @@ _________________
 感謝您的合作，也感謝您為保障生態系統的運行得以信賴，所付出的一切努力。
 
 >[!NOTE] 
->如果您使用基準原則，但尚未轉換成安全性預設原則或[其他 MFA 實作選項](..\partner-security-requirements.md#actions-that-you-need-to-take)，請參考[此處的重要資源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)儘快進行轉換。
+>如果您使用基準原則，但尚未轉換成安全性預設原則或[其他 MFA 實作選項](..\partner-security-requirements.md#implementing-multi-factor-authentication)，請參考[此處的重要資源](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)儘快進行轉換。
 
 ### <a name="change-log"></a>變更記錄
 
@@ -546,7 +546,7 @@ Microsoft 已於 2020 年 4 月 1 日發行 Dynamics Business Central Online 以
 Microsoft 將於 2020 年 5 月 1 日，將新的 RPA 供應項目擴大推出至教育計畫。
 若要深入了解雲端解決方案提供者中的授權教育合作夥伴計畫變更，請按一下[此處](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)。 這是連至合作夥伴中心現有集合的連結)。
 
-如需新的 SKU 資訊，請檢閱[此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)相關下載區段中附加的 **Dynamics 雲端解決方案提供者供應項目更新 - 2020 年 5 月檔案**。
+如需新的 SKU 資訊，請檢閱 [此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)相關下載區段中附加的 **Dynamics 雲端解決方案提供者供應項目更新 - 2020 年 5 月檔案** 。
 
 ### <a name="ecommerce-changes"></a>eCommerce 變更
 
@@ -600,7 +600,7 @@ _________________
 
 如需詳細資料，以了解這個新體驗及未來幾週將持續發展的幾個領域，請檢閱此處[更新的常見問題集](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf)。
 
-**歡迎您提供任何意見！** 當您使用新的作業整備位置時，歡迎您留下意見反應，讓我們可以持續改善您的體驗。 若要這麼做，您可以使用每個頁面底部所提供的**此頁面有所助益嗎？是 | 否** 意見反應工具。
+**歡迎您提供任何意見！** 當您使用新的作業整備位置時，歡迎您留下意見反應，讓我們可以持續改善您的體驗。 若要這麼做，您可以使用每個頁面底部所提供的 **此頁面有所助益嗎？是 | 否** 意見反應工具。
 
 Microsoft 將會簡化通知方式，並提供所有 Microsoft 計畫的整備素材。 我們將在 Microsoft 合作夥伴網站 ([https://partner.microsoft.com](https://partner.microsoft.com)) 上推出一個作業整備資源位置，以合併來自[雲端解決方案提供者計畫更新資源庫](https://partner.microsoft.com/resources#/)及 [Microsoft 整備網站](https://www.microsoftreadiness.com/)的資產。
 
@@ -620,8 +620,8 @@ partner.microsoft.com 上的作業整備資源位置在運作時所採用的方�
 
 應該做什麼準備？
 
-- 透過檢閱在資源庫集合上已更新的整備素材，以**深入了解**全新的 Microsoft 合作夥伴作業整備資源的網站位置 - [即將推出 - 在單一位置提供資源整備資源](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)。
-- **參加四月的合作夥伴社群線上會議**，即可在會議中深入了解此項新體驗，並提出問題：[https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- 透過檢閱在資源庫集合上已更新的整備素材，以 **深入了解** 全新的 Microsoft 合作夥伴作業整備資源的網站位置 - [即將推出 - 在單一位置提供資源整備資源](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)。
+- **參加四月的合作夥伴社群線上會議** ，即可在會議中深入了解此項新體驗，並提出問題： [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="questions"></a>有任何問題嗎？
 
@@ -741,7 +741,7 @@ _________________
 ### <a name="impacted-audience"></a>影響對象
 所有雲端解決方案提供者合作夥伴。
 
-**2020 年 4 月 1 日更新**截自 2020 年 1 月 31 日止，雲端解決方案提供者 (CSP) 計畫的所有合作夥伴均應已接受其所有交易雲端解決方案提供者租用戶的合約。 我們先前曾通知，該合約下一個實施階段時間將於 2020 年 4 月開始。  為了協助您避免業務中斷，我們已決定將下一個實施階段時間延長到 2020 年 4 月之後。 有些雲端解決方案提供者合作夥伴向我們反應，他們接受 MPA 時發生問題。 因為發生這些情況，所以我們正努力確保 Microsoft 資源能夠支援在接受合約時發生問題的合作夥伴。
+**2020 年 4 月 1 日更新** 截自 2020 年 1 月 31 日止，雲端解決方案提供者 (CSP) 計畫的所有合作夥伴均應已接受其所有交易雲端解決方案提供者租用戶的合約。 我們先前曾通知，該合約下一個實施階段時間將於 2020 年 4 月開始。  為了協助您避免業務中斷，我們已決定將下一個實施階段時間延長到 2020 年 4 月之後。 有些雲端解決方案提供者合作夥伴向我們反應，他們接受 MPA 時發生問題。 因為發生這些情況，所以我們正努力確保 Microsoft 資源能夠支援在接受合約時發生問題的合作夥伴。
 
 ### <a name="summary"></a>摘要
 雲端解決方案提供者計畫中所有合作夥伴 (包括間接轉銷商) 都必須在 2020 年 1 月 31 日之前接受 Microsoft 合作夥伴合約，以確保其可繼續在雲端解決方案提供者計畫中建立新客戶或為現有客戶下新訂單。 雲端解決方案提供者計畫中所有合作夥伴現在都必須接受 Microsoft 合作夥伴合約。

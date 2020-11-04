@@ -1,7 +1,7 @@
 ---
 title: 將角色和權限指派給使用者
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解哪些角色最適合在合作夥伴中心管理商業交易、推薦、獎勵或 MPN 會員資格的貴公司使用者。
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006805"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133026"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>為需要在合作夥伴中心工作的公司使用者指派使用者角色和權限
 
@@ -97,8 +97,6 @@ CPV 開發可供雲端解決方案提供者 (CSP) 合作夥伴使用的應用程
 |**來賓使用者**   | **角色**|
 |---------------------------|:--------------------|
 ||MPN 合作夥伴系統管理員|
-||帳戶管理員|
-||獎勵管理員|
 ||商務設定檔管理員|
 ||推薦管理員|
 

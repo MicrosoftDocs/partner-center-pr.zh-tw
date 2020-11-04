@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 4023c4a6b0bae4bb77655aed568ec22b81862884
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031781"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132839"
 ---
 # <a name="february-2020-announcements"></a>2020 年 2 月公告
 
@@ -169,13 +169,13 @@ _________________
 
 ### <a name="summary"></a>摘要：
 
-這是關於[強制合作夥伴安全性需](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)求的重要更新。 自 **2020 年 2 月 29 日**起，[將會移除 Azure Active Directory (Azure AD)「基準」原則](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)，並取代為「安全性預設」，這一系列保護原則對您和您的客戶而言更加完善。 Azure AD 中的安全性預設提供預設安全性設定，可保護您的組織遠離常見攻擊。
+這是關於[強制合作夥伴安全性需](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)求的重要更新。 自 **2020 年 2 月 29 日** 起， [將會移除 Azure Active Directory (Azure AD)「基準」原則](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)，並取代為「安全性預設」，這一系列保護原則對您和您的客戶而言更加完善。 Azure AD 中的安全性預設提供預設安全性設定，可保護您的組織遠離常見攻擊。
 
-我們的系統指出，您的組織目前使用基準原則，尚未轉換成安全性預設。 **如未在 2 月 29 日前轉換成安全性預設，您將會失去合作夥伴租用戶上以基準原則啟用的多重要素驗證 (MFA)。請盡速啟用安全性預設，以免業務中斷**。
+我們的系統指出，您的組織目前使用基準原則，尚未轉換成安全性預設。 **如未在 2 月 29 日前轉換成安全性預設，您將會失去合作夥伴租用戶上以基準原則啟用的多重要素驗證 (MFA)。請盡速啟用安全性預設，以免業務中斷** 。
 
 ### <a name="key-considerations"></a>主要考量
 
-安全性預設原則是其中一個[選項](../partner-security-requirements.md#actions-that-you-need-to-take)，合作夥伴可以根據其商務需求，針對安全性需求選擇此選項來執行 MFA。 其提供基本層級的安全性，而且不需額外費用即可啟用。 請參閱[如何使用 Azure AD 和金鑰，為您的組織啟用 MFA ](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)以及以下注意事項：
+安全性預設原則是其中一個[選項](../partner-security-requirements.md#implementing-multi-factor-authentication)，合作夥伴可以根據其商務需求，針對安全性需求選擇此選項來執行 MFA。 其提供基本層級的安全性，而且不需額外費用即可啟用。 請參閱[如何使用 Azure AD 和金鑰，為您的組織啟用 MFA ](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)以及以下注意事項：
 
 - 使用[條件式存取](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)的合作夥伴將無法使用安全性預設值。
 - 安全性預設會一次實施所有原則，包括管理員原則所需的 MFA、終端使用者保護原則及服務管理所需的 MFA。
@@ -270,7 +270,7 @@ _________________
 
 [Azure in CSP 的新商務體驗](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/)可協助您透過簡化的買賣體驗，爭取更多客戶並促使利潤攀升。
 
- 在新的體驗中，我們很高興宣佈推出[新的定價 API](/partner/develop/pricing)，其可使用程式設計方式擷取 **Azure 方案的使用量和保留定價**，以及 Microsoft 所支援計費貨幣的**外匯匯率指數**。 有了新的定價 API，合作夥伴即可自動化並簡化擷取定價資訊的流程。
+ 在新的體驗中，我們很高興宣佈推出 [新的定價 API](/partner/develop/pricing)，其可使用程式設計方式擷取 **Azure 方案的使用量和保留定價** ，以及 Microsoft 所支援計費貨幣的 **外匯匯率指數** 。 有了新的定價 API，合作夥伴即可自動化並簡化擷取定價資訊的流程。
 
 ### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>新的定價 API 提供下列功能：
 
@@ -349,7 +349,7 @@ _________________
 
 雲端解決方案提供者 (CSP) 計畫中的 [Microsoft 客戶合約](https://www.microsoft.com/licensing/docs/customeragreement)已自 2019 年 10 月起推出，以取代現有的 Microsoft Cloud 合約。 不論客戶選擇何種購買方式，這項新的簡化型客戶合約都可為客戶提供一致的購買條款。
 
-**自 2020 年 2 月 1 日起，雲端解決方案提供者中的直接計費和間接提供者都必須確認客戶接受 Microsoft 公用雲端提供之任何雲端解決方案提供者供應項目的 Microsoft 客戶合約**。 若未確認客戶接受新合約，合作夥伴將無法為客戶進行新的購買，包括自該日期之後變更現有購買的基座和續約 (自動續約不受影響)。
+**自 2020 年 2 月 1 日起，雲端解決方案提供者中的直接計費和間接提供者都必須確認客戶接受 Microsoft 公用雲端提供之任何雲端解決方案提供者供應項目的 Microsoft 客戶合約** 。 若未確認客戶接受新合約，合作夥伴將無法為客戶進行新的購買，包括自該日期之後變更現有購買的基座和續約 (自動續約不受影響)。
 
 合作夥伴向客戶告示新合約的方式，與現有 Microsoft Cloud 合約的告示方式大同小異。 客戶檢閱並接受合約後，合作夥伴必須在合作夥伴中心內確認客戶已接受。 合作夥伴中心 Web 使用者介面、API 和 .NET SDK 已更新，以支援新合約。
 
@@ -435,7 +435,7 @@ Microsoft 已在 2020 年 2 月 1 日變更某些產品系列和供應項目的�
 
 請在貴組織內部並與您的客戶分享這項資訊。
 
-若要深入了解授權更新和價值主張，請參閱**＜其他資源＞**一節和 PartnerSource 中的整備內容。
+若要深入了解授權更新和價值主張，請參閱 **＜其他資源＞** 一節和 PartnerSource 中的整備內容。
 
 如需與使用 Microsoft 作業嚴格相關的說明，請[連絡支援人員](https://partner.microsoft.com/pcv/servicerequests/create)。
 
