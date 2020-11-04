@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133009"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327261"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
 了解重要的合作夥伴中心更新。 此項訊息更新頻繁，因此請務必定期回來查看！
 
-| **類別** | **2020 年 10 月公告** | **公告** |
+| **類別** | **2020 年 11 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[Windows 10 教育版升級現已提供給合格的雲端解決方案提供者 (CSP) 教育版客戶](2020-november.md#4)|11 月 2 日|
+|供應項目/市場|[重新整理的雲端解決方案提供者 (CSP) 數位體驗現已推出，2020 年 10 月雲端解決方案提供者 (CSP) 軟體訂閱價格清單更新](2020-november.md#3)|11 月 2 日|
+|供應項目/市場|[2020 年 10 月雲端解決方案提供者 (CSP) 軟體訂閱價格清單更新](2020-november.md#2)|11 月 2 日|
+|供應項目/市場|[在雲端解決方案提供者 (CSP) 計畫中引進直接計費合作夥伴需求的效能標準](2020-november.md#1)|11 月 2 日|
+| **類別** | **2020 年 10 月公告** | **日期** |
 |功能|[Windows Server 軟體訂用帳戶功能更新](2020-october.md#17)|10 月 29 日|
 |功能|[Windows 10 教育版升級現已提供給合格的雲端解決方案提供者 (CSP) 教育版客戶](2020-october.md#16)|10 月 28 日|
 |功能|[重新整理的雲端解決方案提供者 (CSP) 數位體驗現已推出](2020-october.md#15)|10 月 28 日|
