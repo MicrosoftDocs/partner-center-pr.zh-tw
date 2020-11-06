@@ -1,7 +1,7 @@
 ---
-title: 對合作夥伴租用戶強制使用 MFA
+title: 對您的合作夥伴租用戶強制使用多重要素驗證 (MFA)
 ms.topic: article
-ms.date: 10/26/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解對您的合作夥伴租用戶強制使用 MFA 為何有助於保護您對客戶資源的存取。 包含範例案例。
@@ -9,21 +9,19 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
-ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
+ms.openlocfilehash: b6985054e927dd777d61ae30bd435ab4c6c4ea8c
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92680411"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133097"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>對您的合作夥伴租用戶強制使用多重要素驗證 (MFA)
 
 **適用於**
 
 - 雲端解決方案提供者計畫中的所有合作夥伴
-  - 直接帳單
-  - 間接提供者
-  - 間接轉銷商
+- 所有控制台廠商
 - 所有顧問
 
 **受影響的角色**
@@ -34,8 +32,7 @@ ms.locfileid: "92680411"
 - 計費管理員
 - 全域管理員
 
-這項功能的目的是要協助合作夥伴保護其對客戶資源的存取，以防止認證洩漏。
-合作夥伴必須針對其合作夥伴租用戶中的所有使用者帳戶 (包括來賓使用者) 強制執行多重要素驗證 (MFA)，這項功能會強制要求這些合作夥伴角色針對下列區域完成 MFA 驗證：
+本文提供在合作夥伴中心強制採用多重要素驗證 (MFA) 的詳細範例和指引。 這項功能的目的是要協助合作夥伴保護其對客戶資源的存取，以防止認證洩漏。 合作夥伴都必須為其合作夥伴租用戶中的所有使用者帳戶強制執行 MFA，包括來賓使用者。 使用者將必須就下列區域完成 MFA 驗證：
 
 - [合作夥伴中心儀表板](#partner-center-dashboard)
 - [合作夥伴中心 API](#partner-center-api)
@@ -43,9 +40,7 @@ ms.locfileid: "92680411"
 
 更好且持續的安全性和隱私權保護是我們最優先的考量，而且我們一直在協助合作夥伴保護其客戶和租用戶。 參與「雲端解決方案提供者 (CSP)」計畫、「控制台廠商 (CPV)」和「顧問」的所有合作夥伴，都應該實作[合作夥伴安全性需求](partner-security-requirements.md)才能繼續符合規範。
 
-為了協助合作夥伴保護其業務和客戶免於遇到身分識別竊取相關事件，我們為合作夥伴租用戶啟用了額外的安全性保護措施，藉由強制使用多重要素驗證 (MFA) 驗證來防止未經授權的存取，而協助合作夥伴確保其租用戶及其客戶。 
-
-本文件可為合作夥伴提供有關如何啟用安全性保護的詳細體驗和指導方針。
+為了協助合作夥伴保護其企業和客戶免於遭受身分識別竊取和未經授權的存取，我們為合作夥伴租用戶啟用了額外的安全性保護措施，以強制執行和驗證 MFA。 
 
 ## <a name="partner-center-dashboard"></a>合作夥伴中心儀表板
 
@@ -55,12 +50,7 @@ ms.locfileid: "92680411"
 - [支援 > 客戶要求] 索引標籤底下的所有頁面，例如在 https://partner.microsoft.com/dashboard/support/csp/customers/* 底下存取的頁面
 - 帳單頁面
 
-如果您未先完成 MFA 驗證即嘗試存取其中任何頁面，您必須執行該驗證。
-
-> [!NOTE]
-> 合作夥伴中心上的其他頁面 (例如 [概觀] 頁面、[服務健康情況狀態] 檢查頁面) 將不會受 MFA 保護。
-
-下列使用者類型有權存取這些受 MFA 保護的頁面，因而會受到這項功能的影響
+下表顯示哪些使用者類型有權存取這些受 MFA 保護的頁面 (因而會受到這項功能的影響)。
 
 
 | 受 MFA 保護的頁面       | 系統管理代理人      |  銷售代理人     |   技術服務代理人     | 全域管理員      |  計費管理員     | 
@@ -69,9 +59,11 @@ ms.locfileid: "92680411"
 | [支援 > 客戶要求] 索引標籤底下的所有頁面     | x      |       |    x   |       |       |
 | 帳單頁面     |   x    |       |       |    x   |   x    |
 
-## <a name="examples-showing-how-verification-works"></a>顯示驗證運作方式的範例
+如果您未先完成 MFA 驗證即嘗試存取其中任何頁面，您必須執行該驗證。 合作夥伴中心的其他頁面 (例如 [概觀] 頁面、[服務健康情況狀態] 檢查頁面) 不需要 MFA。
 
-為了說明驗證的運作方式，請考量以下兩個範例。
+## <a name="verification-examples"></a>驗證範例
+
+若要說明驗證在合作夥伴中心儀表板中的運作方式，請考量下列範例。
 
 ### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>範例 1：合作夥伴已實作 Azure AD MFA
 
@@ -108,7 +100,7 @@ ms.locfileid: "92680411"
 6. John 嘗試存取合作夥伴中心內受 MFA 保護的其中一個頁面。 由於 John 未完成 MFA 驗證，因此合作夥伴中心將 John 重新導向至 Azure AD，以完成 MFA 驗證。 因為 John 已註冊 MFA，所以這次只會要求他完成 MFA 驗證。
 
 > [!NOTE]
->動作：公司系統管理員應立即透過合作夥伴中心所建議的任何[選項](partner-security-requirements.md#actions-that-you-need-to-take)來實作 MFA。
+>動作：公司的系統管理員有[三個選項](partner-security-requirements.md#implementing-multi-factor-authentication)可實作 MFA。
 
 ## <a name="partner-center-api"></a>合作夥伴中心 API
 
@@ -117,7 +109,7 @@ ms.locfileid: "92680411"
 使用「應用程式 + 使用者」驗證時，合作夥伴中心會要求進行 MFA 驗證。 更明確地說，合作夥伴應用程式需要將 API 要求傳送至合作夥伴中心時，必須在要求的授權標頭中包含存取權杖。 
 
 > [!NOTE]
->[安全應用程式模型](/partner-center/develop/enable-secure-app-model)是一種安全、可擴縮的架構，可在您呼叫合作夥伴中心 API 時，透過 Microsoft Azure MFA 架構來驗證 CSP 合作夥伴和 CPV，請先實作此模型再於租用戶上啟用 MFA。 
+>[安全應用程式模型架構](/partner-center/develop/enable-secure-app-model)是一種可擴縮的架構，可在呼叫合作夥伴中心 API 時，透過 Microsoft Azure MFA 架構來驗證 CSP 合作夥伴和 CPV。 您必須先實作此架構，然後在您的租用戶上啟用 MFA。 
 
 當合作夥伴中心收到 API 要求和使用「應用程式 + 使用者」驗證取得的存取權杖時，合作夥伴中心 API 會檢查 *驗證方法參考 (AMR)* 宣告中是否有 *MFA* 值存在。 您可以使用 JWT 解碼器來驗證存取權杖是否包含預期的驗證方法參考 (AMR) 值：
 
@@ -163,17 +155,17 @@ Date: Thu, 14 Feb 2019 21:54:58 GMT
 
 ## <a name="partner-delegated-administration"></a>合作夥伴委派的管理
 
-### <a name="using-service-portals"></a>使用服務入口網站
-
 合作夥伴帳戶 (包含系統管理代理人和技術服務代理人) 可使用其「合作夥伴委派的管理」權限，透過 Microsoft Online Services 入口網站、命令列介面 (CLI) 和 API (使用「應用程式 + 使用者驗證」) 來管理客戶資源。
 
-使用「合作夥伴委派的管理員」權限 (Admin-On-Behalf-Of) 存取 Microsoft Online Services 入口網站以管理客戶資源時，其中有許多入口網站會要求合作夥伴帳戶以互動方式進行驗證 (將客戶 Azure Active Directory 租用戶設定為驗證內容) - 合作夥伴帳戶必須登入客戶租用戶。
+### <a name="using-service-portals"></a>使用服務入口網站
 
-Azure Active Directory 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 驗證。 可能的使用者體驗有兩種，這取決於合作夥伴帳戶是受控識別還是同盟身分識別：
+使用「合作夥伴委派的管理員」權限 (Admin-On-Behalf-Of) 存取 Microsoft Online Services 入口網站以管理客戶資源時，其中有許多入口網站會要求合作夥伴帳戶以互動方式進行驗證 (將客戶 Azure AD 租用戶設定為驗證內容) - 合作夥伴帳戶必須登入客戶租用戶。
 
-- 如果合作夥伴帳戶是 **受控** 識別，Azure Active Directory 將會直接提示使用者完成 MFA 驗證。 如果合作夥伴帳戶尚未向 Azure Active Directory 註冊 MFA，則會要求使用者先[完成 MFA 註冊](#mfa-registration-experience)。
+Azure AD 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 驗證。 可能的使用者體驗有兩種，這取決於合作夥伴帳戶是受控識別還是同盟身分識別：
 
-- 如果合作夥伴帳戶是 **同盟** 身分識別，則此體驗將取決於合作夥伴管理員在 Azure Active Directory 中設定同盟的方式。 在 Azure Active Directory 中設定同盟時，合作夥伴管理員可向 Azure Active Directory 指出同盟身分識別提供者是否支援 MFA。 若支援，Azure Active Directory 會將使用者重新導向至同盟身分識別提供者，以完成 MFA 驗證。 若不支援，則 Azure Active Directory 會直接提示使用者完成 MFA 驗證。 如果合作夥伴帳戶尚未向 Azure Active Directory 註冊 MFA，則會要求使用者先[完成 MFA 註冊](#mfa-registration-experience)。
+- 如果合作夥伴帳戶是 **受控** 識別，Azure AD 將會直接提示使用者完成 MFA 驗證。 如果合作夥伴帳戶尚未向 Azure AD 註冊 MFA，則會要求使用者先[完成 MFA 註冊](#mfa-registration-experience)。
+
+- 如果合作夥伴帳戶是 **同盟** 身分識別，則此體驗將取決於合作夥伴管理員在 Azure AD 中設定同盟的方式。 在 Azure AD 中設定同盟時，合作夥伴管理員可向 Azure AD 指出同盟身分識別提供者是否支援 MFA。 若支援，Azure AD 會將使用者重新導向至同盟身分識別提供者，以完成 MFA 驗證。 若不支援，則 Azure AD 會直接提示使用者完成 MFA 驗證。 如果合作夥伴帳戶尚未向 Azure AD 註冊 MFA，則會要求使用者先[完成 MFA 註冊](#mfa-registration-experience)。
 
 其整體的體驗類似於客戶租用戶已為其管理員實作了 MFA 的案例。 例如，客戶租用戶會啟用 [Azure AD 安全性預設值](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，此時，所有具有系統管理權限的帳戶都必須使用 MFA 驗證登入客戶租用戶，包括系統管理代理人和技術服務代理人。 基於測試目的，合作夥伴可以在客戶租用戶中啟用 [Azure AD 安全性預設值](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)，然後嘗試使用「合作夥伴委派的管理」權限來存取客戶租用戶。
 
@@ -202,19 +194,13 @@ Azure AD 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 
 
 在按 [下一步] 之後，系統會要求使用者從驗證方法清單中進行選擇。
 
-:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA 註冊步驟 1":::
+:::image type="content" source="images/MfaRegistration2.png" alt-text="MFA 註冊步驟 2":::
 
 註冊成功後，使用者必須根據自己選擇的驗證來完成 MFA 驗證。
-
-## <a name="request-for-technical-exception"></a>技術例外狀況的要求
-
-合作夥伴若遇到 Microsoft Online Services 的技術問題，而且沒有可行的解決方案或因應措施，他們可以提出技術例外狀況的要求，以抑制 MFA 驗證。 執行此動作之前，請先檢閱下列各節：
-
-- [合作夥伴回報的常見問題清單](#list-of-common-issues-reported-by-partners)
-- [如何提交技術例外狀況的要求](#how-to-submit-a-request-for-technical-exception)
  
-### <a name="list-of-common-issues-reported-by-partners"></a>合作夥伴回報的常見問題清單
-在提出技術例外狀況的要求之前，請先檢閱其他合作夥伴回報的常見問題清單，以了解這些問題是否為技術例外狀況的合理原因。
+## <a name="list-of-common-issues"></a>常見問題清單
+
+在提出 MFA 需求的[技術例外狀況](#how-to-submit-a-request-for-technical-exception)要求之前，請先檢閱其他合作夥伴回報的常見問題清單，以了解您的要求是否有效。
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>問題 1：合作夥伴需要更多時間來為其合作夥伴代理人實作 MFA
 合作夥伴尚未開始為其需要使用「合作夥伴委派的管理」權限存取 Microsoft Online Services 入口網站以管理客戶資源的合作夥伴代理人實作 MFA，或是仍在進行中。 合作夥伴需要更多時間來完成 MFA 實作。 此問題是否為技術例外狀況的合理原因？
@@ -261,7 +247,9 @@ Azure AD 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 
 
 - 您所使用或打算使用的第三方 MFA 解決方案採購單。
 
-### <a name="how-to-submit-a-request-for-technical-exception"></a>如何提交技術例外狀況的要求
+## <a name="how-to-submit-a-request-for-technical-exception"></a>如何提交技術例外狀況的要求
+
+合作夥伴若遇到 Microsoft Online Services 的技術問題，而且沒有可行的解決方案或因應措施，他們可以提出技術例外狀況的要求，以抑制 MFA 驗證。 執行此動作之前，請先參閱上一節中的[常見問題清單](#list-of-common-issues)。
 
 若要提交技術例外狀況的要求：
 
@@ -274,3 +262,7 @@ Azure AD 在收到這類驗證要求時，會要求合作夥伴帳戶完成 MFA 
 4. 提供提交技術例外狀況的服務要求所需的詳細資料，然後按一下 [提交]。
 
 Microsoft 最多可能需要三個工作天，才能對技術例外狀況的要求提供回應。
+
+## <a name="next-steps"></a>後續步驟
+
+ - [合作夥伴安全性需求狀態](partner-security-compliance.md)

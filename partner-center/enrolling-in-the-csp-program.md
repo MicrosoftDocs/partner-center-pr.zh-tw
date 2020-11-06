@@ -1,7 +1,7 @@
 ---
 title: 註冊雲端解決方案提供者計畫
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何註冊最適合您業務的雲端解決方案提供者 (CSP) 計畫銷售模型，例如間接經銷商或直接計費合作夥伴。
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198094"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045389"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 
 **適用於**
 
-- 雲端解決方案提供者計畫  
+- 合作夥伴中心  
 
 **適當的角色**
 
@@ -64,26 +64,25 @@ ms.locfileid: "92198094"
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>註冊為直接計費合作夥伴
 
-身為直接計費合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 從 2018 年 8 月 31 日起，我們已更新直接計費合作夥伴的註冊需求。 這些新的要求條件可協助您運用適當的雲端解決方案提供者註冊模型加速業務成長，以及透過加值服務與支援鞏固您的客戶關係。
+身為直接計費合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 從 2020 年 10 月 27 日起，我們已更新直接計費合作夥伴的註冊需求。 這些需求可協助您運用適當的雲端解決方案提供者計畫模型加速業務成長，以及透過加值服務與支援鞏固您的客戶關係。  
 
 ### <a name="minimum-requirements"></a>最低要求條件
 
 |**需求**|                             |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN 識別碼**   |您的營業地點的使用中 Microsoft 合作夥伴網路 (MPN) 識別碼。    |
+|**MPN 識別碼**   |您要從事銷售的位置適用的 Microsoft 合作夥伴網路中的有效成員資格和 MPN 識別碼。    |
 |**委任背書**   |代表您的組織接受和簽署法律合約的職權。|
 |**支援**   |為您客戶提供第一層級雲端產品支援的能力。 <br>一項 Microsoft 支援方案；視您的需求而定，可以是合作夥伴進階支援 (ASfP) 或合作夥伴頂級支援 (PSfP)。 [比較支援方案](https://partner.microsoft.com/support/partnersupport)。<br> 重要事項：您必須先通過信用查核，才能購買支援方案。 當您通過信用查核之後，我們會傳送電子郵件給您。 |
+|**營收需求**|間接經銷商在過去 12 個月內的雲端解決方案提供者計畫的年度收益至少必須達到 30 萬美元。 合作夥伴可以在合作夥伴中心檢閱其過去 12 個月的營收。<br/>構成您過去 12 個月 30 萬美元營收的銷售須由 Microsoft 審查和驗證，且您可能必須提供其他資訊。 30 萬美元營收的需求會根據雲端收益來計算，且會排除 CSP 中的永久軟體。|
+|**應收帳款** |可管理客戶計費及佈建的完善組織基礎結構。|
+|**建議**|             |
 |**受管理的服務**   |至少一個受管理的服務、IP 服務或客戶解決方案應用程式。 深入了解如何新增[受管理的服務](https://partner.microsoft.com/business-opportunities/managed-services-provider)。|
-|**應收帳款** |可管理客戶計費及佈建的完善組織基礎結構。
 
 ### <a name="verify-direct-bill-eligibility"></a>驗證直接計費資格
 
-如果您尚未這麼做，請參閱上述最低需求，以確保您符合這些需求，然後完成[雲端解決方案提供者評量](https://partner.microsoft.com/cloud-solution-provider/assessment)。
-
-我們會使用您在表單中對於問題的答案，協助我們判斷您的資格，是否可以在 CSP 計畫中註冊為直接計費合作夥伴。
+確認自己符合註冊為直接計費合作夥伴的最低需求後，您就可以繼續完成[註冊表單](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global)。
 
 在驗證您的公司符合資格需求，可以註冊為直接計費合作夥伴，且您已完成註冊申請之後，我們將會檢閱並確認您在註冊程序中提供的商務資訊。 在此檢閱程序中，我們會查核貴公司的信用。 當您的公司通過信用查核時，我們會透過電子郵件通知您。
-
 >[!IMPORTANT]
 >查核貴公司信用可能需要數天或更久時間才能完成。 在這段期間，請勿購買 Microsoft 支援方案。 只有在我們通知您已通過信用查核之後，才購買 Microsoft 支援方案。
 

@@ -9,14 +9,14 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "91406361"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133043"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題集
+# <a name="common-questions-about-partner-security-requirements"></a>關於合作夥伴安全性需求的常見問題
 
 **適用於**
 
@@ -26,17 +26,16 @@ ms.locfileid: "91406361"
 
 - 所有已啟用的使用者，包括來賓使用者
 
-## <a name="partner-security-requirements"></a>合作夥伴安全性需求
 
-此文章包含[合作夥伴安全性需求](partner-security-requirements.md)的常見問題集。
+本文會回答一些關於[合作夥伴安全性需求](partner-security-requirements.md)的常見問題。
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>合作夥伴有何安全性需求，及其為何應實作這些需求？
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>合作夥伴有何安全性需求？合作夥伴為何應實作這些需求？
 
-更好且持續的安全性和隱私權保護是我們最優先的考量，而且我們一直在協助合作夥伴保護其客戶和租用戶。 我們持續看到更為複雜且更加頻繁發生的安全性攻擊，這些攻擊主要都與身分識別入侵事件有關。 由於預防性控制在整體防禦策略中扮演了對抗安全性攻擊的重要角色，因此我們已於 2019 年引進[強制的安全性需求](partner-security-requirements.md)。 參與「雲端解決方案提供者 (CSP)」計畫、「控制台廠商」和「顧問」的所有合作夥伴，都應該實作這些需求才能繼續符合規範。
+更好且持續的安全性和隱私權保護是我們最優先的考量，而且我們一直在協助合作夥伴保護其客戶和租用戶。 我們持續看到更為複雜且更加頻繁發生的安全性攻擊，這些攻擊主要都與身分識別入侵事件有關。 由於預防性控制在整體防禦策略中扮演了對抗安全性攻擊的重要角色，因此我們已於 2019 年引進[強制的安全性需求](partner-security-requirements.md)。 參與「雲端解決方案提供者 (CSP)」計畫、「控制台廠商」和「顧問」的所有合作夥伴，都必須實作這些需求才能繼續符合規範。
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>有哪些關鍵時程表和里程碑？
 
-與這些安全性需求相關聯的條款 (包括時間軸和里程碑) 會隨附至 2019 年的 [Microsoft 合作夥伴合約](microsoft-partner-agreement.md)。 您必須盡快實作這些安全性需求，才能符合參與 CSP 計畫的規範。
+與這些安全性需求相關聯的條款 (包括時間軸和里程碑) 會隨附於 [Microsoft 合作夥伴合約](microsoft-partner-agreement.md)。 您必須盡快實作這些安全性需求，才能符合參與 CSP 計畫的規範。
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>如果未實作這些合作夥伴安全性需求，會發生什麼情況？
 
@@ -46,11 +45,11 @@ Microsoft 合作夥伴合約會要求您對使用者帳戶強制執行多重要�
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>安全性需求適用於所有地理位置嗎？
 
-是，安全性需求適用於所有地理位置。 我們強烈建議所有合作夥伴透過主權雲端 (21Vianet、US Government 和 Germany) 進行交易，並立即採取這些新的安全性需求。 不過，這些合作夥伴不需要符合 8 月 1 日生效的新安全性需求。 Microsoft 未來將針對主權雲端的這些安全性需求強制執行，提供額外的詳細資料。
+是，安全性需求適用於所有地理位置。 我們強烈建議所有透過主權雲端 (美國政府和德國) 進行交易的合作夥伴立即實施並採取這些新的安全性需求。 不過，這些合作夥伴目前不需要符合這些安全性需求。 Microsoft 未來將針對主權雲端的這些安全性需求強制執行，提供額外的詳細資料。
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>是否可以要求特別排除某個帳戶？
 
-否。您無法針對強制執行 MFA 的需求排除任何使用者帳戶。 基於合作夥伴所擁有的高度權限，Microsoft 合作夥伴合約會要求針對您合作夥伴租用戶中的每個使用者帳戶強制執行多重要素驗證。
+否。您無法從強制執行多重要素驗證 (MFA) 的需求中排除任何使用者帳戶。 基於合作夥伴所擁有的高度權限，Microsoft 合作夥伴合約會要求針對您合作夥伴租用戶中的每個使用者帳戶強制執行多重要素驗證。
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>如何知道我是否符合合作夥伴的安全性需求？
 
@@ -95,9 +94,9 @@ Microsoft 合作夥伴合約會要求您對使用者帳戶強制執行多重要�
 
     控制台廠商必須以控制台廠商的身分針對合作夥伴中心進行[上線](enroll-as-cpv.md)，並立即開始實作此需求。 請參閱[合作夥伴中心：安全應用程式模型架構](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)。 控制台廠商必須接受並管理雲端解決方案提供者合作夥伴的同意 (而非認證)，並清除所有現有雲端解決方案提供者合作夥伴的認證。
 
-## <a name="multi-factor-authentication"></a>多重要素驗證
+## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
 
-### <a name="what-is-multi-factor-authentication-mfa"></a>什麼是 Multi-Factor Authentication (MFA)？
+### <a name="what-is-multi-factor-authentication-mfa"></a>什麼是多重要素驗證 (MFA)？
 
 MFA 是一種安全性機制，可以透過一個以上的必要安全性和驗證程序來驗證個人。 它是透過要求進行下列兩種或更多驗證方法來運作：
 
@@ -308,7 +307,7 @@ CPV 必須在與其註冊為 CPV 時所關聯的租用戶中建立 Azure Active 
 
 Azure Active Directory (Azure AD) [「基準」原則將會遭到移除，並取代](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults)為「安全性預設值」，這是一組更完整的保護原則，適合您和您的客戶使用。 [安全性預設值](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)可協助您的組織防範身分識別竊取的相關安全性攻擊。
 
-如果您尚未從基準原則轉換為安全性預設值原則或[其他 MFA 實作選項](partner-security-requirements.md#actions-that-you-need-to-take)，則因為基準原則將會淘汰，您的多重要素驗證 (MFA) 實作會遭到移除。 系統會要求合作夥伴租用戶中執行受 MFA 保護作業的使用者完成 MFA 驗證。 請於[這裡](partner-security-requirements-mandating-mfa.md)檢閱更詳細的指導方針。
+如果您尚未從基準原則轉換為安全性預設值原則或[其他 MFA 實作選項](partner-security-requirements.md#implementing-multi-factor-authentication)，則因為基準原則將會淘汰，您的多重要素驗證 (MFA) 實作會遭到移除。 系統會要求合作夥伴租用戶中執行受 MFA 保護作業的使用者完成 MFA 驗證。 請於[這裡](partner-security-requirements-mandating-mfa.md)檢閱更詳細的指導方針。
 若要持續符合規範並將中斷的情況降至最低，請採取下列其中一個動作：
 
 - 轉換成安全性預設值
