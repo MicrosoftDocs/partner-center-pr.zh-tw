@@ -1,18 +1,17 @@
 ---
 title: 在 Azure 入口網站中建立和管理私用 Azure Marketplace
 description: 瞭解如何在 Azure 入口網站中建立和管理私人 Azure Marketplace (preview) 。
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "91429323"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414853"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>在 Azure 入口網站中建立及管理私人 Azure Marketplace (預覽) 
 
@@ -130,42 +129,42 @@ Assign-MarketplaceAdminRole
 ## <a name="create-private-azure-marketplace"></a>建立私用 Azure Marketplace
 
 1. 登入 [Azure 入口網站](https://portal.azure.com/)。
-2. 選取 [ **所有服務** ]，然後選取 [ **Marketplace**]。
+2. 選取 [ **所有服務** ]，然後選取 [ **Marketplace** ]。
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure 入口網站主視窗。":::
 
 3. 從左側的選項中選取 [ **私人 Marketplace** ]。
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Azure 入口網站主視窗。":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="在 Azure 入口網站主視窗中選取 [私人 Marketplace]。":::
 
 4. 選取 **開始** 建立私用 Azure Marketplace (您只需要) 進行一次。
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Azure 入口網站主視窗。":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="選取 Azure 入口網站主視窗上的開始。":::
 
     如果此租使用者已有私人 Azure Marketplace，預設會選取 [ **管理 Marketplace** ]。
 
 5. 完成之後，您將會有空白且已停用的私用 Azure Marketplace。
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Azure 入口網站主視窗。":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="空白的私用 Azure Marketplace 畫面。":::
 
 ## <a name="add-items-from-gallery"></a>從資源庫新增專案
 
 專案是供應專案和方案的組合。 您可以在 [管理 Marketplace] 頁面中搜尋和新增專案。
 
-1. 選取 [ **加入專案**]。
+1. 選取 [ **加入專案** ]。
 
 2. 流覽資源 **庫** ，或使用搜尋欄位來尋找您想要的專案。
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Azure 入口網站主視窗。":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="流覽資源庫或使用 [搜尋] 欄位。":::
 
 3. 依預設，加入新的供應專案時，會將所有目前的方案新增至允許清單。 若要在加入選取的專案之前修改方案選取專案，請選取供應專案磚中的下拉式功能表，並更新所需的方案。
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Azure 入口網站主視窗。":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="更新所需的方案。":::
 
 4. 選取之後，請選取左下方的 [ **完成** ]。
 
 >[!Note]
-> 將**專案新增**至 Marketplace 的功能只適用于非 Microsoft 供應專案。 預設允許 Microsoft 優惠。
+> 將 **專案新增** 至 Marketplace 的功能只適用于非 Microsoft 供應專案。 預設允許 Microsoft 優惠。
 
 ## <a name="edit-item-plans"></a>編輯專案計劃
 
@@ -174,22 +173,22 @@ Assign-MarketplaceAdminRole
 1. 在 [ **方案** ] 資料行中，從該專案的下拉式功能表中，檢查可用的方案。
 2. 選取或清除核取方塊，以選擇要讓使用者使用的方案。
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Azure 入口網站主視窗。":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="選取或清除必要專案的核取方塊。":::
 
 > [!NOTE]
 > 每個供應專案都需要至少選取一個方案，才能進行更新。 若要移除與供應專案相關的所有方案，請刪除整個供應專案 (參閱下一節) 。
 
 ## <a name="delete-offers"></a>刪除供應項目
 
-在 [管理 Marketplace] 頁面中，選取供應專案名稱旁邊的核取方塊 (查看上面的畫面) 然後選取 [ **刪除專案**]。
+在 [管理 Marketplace] 頁面中，選取供應專案名稱旁邊的核取方塊 (查看上面的畫面) 然後選取 [ **刪除專案** ]。
 
 ## <a name="enabledisable-private-azure-marketplace"></a>啟用/停用私人 Azure Marketplace
 
 在 [管理 Marketplace] 頁面中，您會看到其中一個橫幅，其中顯示私人 Azure Marketplace 的目前狀態：
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Azure 入口網站主視窗。":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="停用狀態橫幅":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Azure 入口網站主視窗。":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="啟用狀態橫幅":::
 
 您可以視需要啟用或停用私用 Azure Marketplace。
 
@@ -205,7 +204,7 @@ Assign-MarketplaceAdminRole
 
 使用者可以篩選不允許且不允許的供應專案：
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Azure 入口網站主視窗。":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="篩選選項。":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>在私用 Azure Marketplace 中購買或部署
 
@@ -213,16 +212,16 @@ Assign-MarketplaceAdminRole
 
 - 當使用者選取允許的方案時，會啟用 [ **建立** ] 按鈕：
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Azure 入口網站主視窗。":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="提供可建立方案的供應專案橫幅。":::
 
 - 當使用者選取非允許的方案時，橫幅會指出不允許該計畫，而 [ **建立** ] 按鈕已停用。
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Azure 入口網站主視窗。":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="供應專案橫幅指出無法建立方案。":::
 
 - 如果產品方案選項未出現在 [產品詳細資料] 頁面中，但系統管理員已核准一或多個方案，則橫幅會注明允許的方案，並啟用 [ **建立** ] 按鈕：
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Azure 入口網站主視窗。":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="供應專案橫幅指出可以建立方案，並顯示可用的方案。":::
 
-## <a name="contact-support"></a>請連絡支援人員
+## <a name="contact-support"></a>請連絡支援部門
 
 如 Azure Marketplace 支援，請造訪 [Microsoft Q&A](/answers/products/)。 
