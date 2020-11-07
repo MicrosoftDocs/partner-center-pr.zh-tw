@@ -1,7 +1,7 @@
 ---
 title: 尋找租使用者識別碼、功能變數名稱、使用者物件識別碼
 ms.topic: how-to
-ms.date: 09/16/2020
+ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在 Azure 入口網站中尋找識別碼-組織的 Azure AD 租使用者識別碼、功能變數名稱或特定的使用者物件識別碼。 某些工作需要此資訊。
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4a3695079a9d5b0b3c66b7c2eda52a31888a6660
-ms.sourcegitcommit: 3158b0de261539694e37e433c763afa4067e36fb
+ms.openlocfilehash: b88d6e11c7f4d56cf58d136a91b530688b3e5413
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "90740387"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360066"
 ---
 # <a name="locate-important-ids-for-a-user"></a>找出使用者的重要識別碼
 
@@ -28,10 +28,10 @@ ms.locfileid: "90740387"
 
 ## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>尋找 Microsoft Azure AD 租使用者識別碼和主功能變數名稱稱
 
-請遵循下列步驟，找出 Azure 入口網站內 Azure AD 的租使用者識別碼或主功能變數名稱稱。
+請遵循下列步驟，找出 Azure 入口網站內 Azure AD 的租使用者識別碼或主功能變數名稱稱。  (如果您想要以程式設計方式尋找租使用者識別碼，請參閱 [使用 PowerShell 或 CLI 尋找租使用者識別碼](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell)。 ) 
 
 > [!NOTE]
-> 租使用者識別碼可能會在不同的應用程式或資源中被稱為不同的名稱。 例如，租使用者識別碼可以稱為「目錄識別碼」、「Azure Active Directory (Azure AD) 租使用者、Microsoft ID 或某些報表（甚至是 *tenantguid*）。
+> 租使用者識別碼可能會在不同的應用程式或資源中被稱為不同的名稱。 例如，租使用者識別碼可以稱為「目錄識別碼」、「Azure Active Directory (Azure AD) 租使用者、Microsoft ID 或某些報表（甚至是 *tenantguid* ）。
 
 1. 登入 [Azure 入口網站](https://portal.azure.com/)。
 
@@ -43,7 +43,7 @@ ms.locfileid: "90740387"
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="顯示具有兩個醒目提示欄位、租使用者識別碼和主功能變數名稱稱的 [總覽] 頁面。":::
 
-4. 您可以使用一些其他方式，在 Azure 入口網站中尋找租使用者識別碼。 從功能表中選取 [Azure Active Directory]。 然後，找出功能表上的 [ **管理** ] 區段，然後選取 [ **屬性**]。
+4. 您可以使用一些其他方式，在 Azure 入口網站中尋找租使用者識別碼。 從功能表中選取 [Azure Active Directory]。 然後，找出功能表上的 [ **管理** ] 區段，然後選取 [ **屬性** ]。
 
    [屬性] 頁面也會顯示使用者相關聯的租使用者識別碼。
 
@@ -57,7 +57,7 @@ ms.locfileid: "90740387"
 
 2. 從功能表中選取 [Azure Active Directory]。
 
-3. 找出功能表上的 [ **管理** ] 區段，然後選取 [ **使用者**]。
+3. 找出功能表上的 [ **管理** ] 區段，然後選取 [ **使用者** ]。
 
       :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="顯示 Azure Active Directory 功能表，並醒目提示 [使用者] 選項。":::
 
@@ -75,5 +75,6 @@ ms.locfileid: "90740387"
 
 ## <a name="next-steps"></a>後續步驟
 
+- [使用 PowerShell 或 CLI 以程式設計方式尋找您的租使用者識別碼](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
 - [深入瞭解 Azure Active Directory 中的使用者設定檔](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 - [瞭解合作夥伴可如何在合作夥伴中心中查看或匯出客戶詳細資料](see-your-customer-list.md)

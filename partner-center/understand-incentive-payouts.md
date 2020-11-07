@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244058"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360049"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>查看、管理及匯出獎勵方案詳細資料
 
@@ -89,7 +89,7 @@ ms.locfileid: "93244058"
 ## <a name="payments-page"></a>[付款] 頁面
 此頁面上的總計代表您使用的所有 MPN 識別碼。 您可透過參與者識別碼、計劃、付款識別碼和收益類型進行篩選。 金額的單位是美金。 付款值也會以付款貨幣顯示。
 
-|**領域**   |**說明**    |
+|**領域**   |**描述**    |
 |------------------|:-------------------------------------|
 |今年總付款        |您的所有 MPN 識別碼的總金額（以美元為單位）。                                      |
 |下一個預估付款      |您 (的下一次付款，即使有其他人即將) ，也會以美元為單位。                                     |
@@ -139,7 +139,7 @@ ms.locfileid: "93244058"
 
 - 在 [ **付費** ] 索引標籤和 [ **擱置** ] 索引標籤上，需要) 的 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/) (登入。  
 
-- 您的付款報告，位於您的 [付款下載匯出頁面](/partner-center/understand-incentive-payouts#payment-download-export)上。 
+- 您的付款報告，位於您的 [付款下載匯出頁面](#payment-download-export)上。 
 
 #### <a name="if-your-submission-is-rejected"></a>如果您的提交遭到拒絕
 
@@ -255,7 +255,7 @@ ms.locfileid: "93244058"
 
 下表列出調整的原因代碼及其描述。
 
-|**原因代碼**   |**說明**   |
+|**原因代碼**   |**描述**   |
 |------------------|:-------------------------------------|
 | AR 合規性 | 當合作夥伴未按時支付 Microsoft 發票時，可減少收益的調整。 |
 | 共同作業變換 | 將共同作業收益轉移至另一個期間的調整，或將共同作業的收益轉換成返利。 |
@@ -373,5 +373,5 @@ ms.locfileid: "93244058"
 |  distributorName | 散發者名稱   |
 |  paymentId | 付款的唯一識別碼。 此數位通常會顯示在您的 bank 語句中。|  
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 - [存取您的獎勵支出頁面](incentives-unified-user-guide.md)

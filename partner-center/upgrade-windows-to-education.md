@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028769"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94359998"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Windows 10 家用版客戶升級為 Windows 10 教育版
 
@@ -31,13 +31,13 @@ ms.locfileid: "93028769"
 
 自2020年11月1日起，已購買 Microsoft 365 A3 或 A5 或 Windows 10 企業版 A3 或 A5 訂用帳戶的 Csp 可協助其教育客戶從 Windows 10 家用版升級為 Windows 10 教育版，這是針對教室和遠端學習所設計。
 
-自2020年11月1日起，Windows 10 家用版將會是透過 CSP) 透過 Microsoft Cloud 合約 (授權之教育版客戶的合格作業系統。 這項資格在現在僅提供大量授權 (VL) 教育方案中，已透過 Microsoft 365 系統管理員入口網站支援啟用。 
+自 2020 年 11 月 1 日起，Windows 10 家用版將是合格的作業系統，可供教育版客戶透過 Microsoft Cloud 合約 (經由 CSP) 進行授權。 這項資格目前僅適用於大量授權 (VL) 教育計畫，須透過 Microsoft 365 管理入口網站支援來啟用。 
 
-## <a name="how-the-upgrade-process-works"></a>升級程式的運作方式
+## <a name="how-the-upgrade-process-works"></a>升級程序的運作方式
 
-CSP 合作夥伴可代表客戶提交支援要求，以協助客戶進行升級。 Microsoft 支援服務將會審核要求以確保客戶符合資格;核准要求之後，支援人員會提供 Windows 10 專業教育版金鑰給合作夥伴，然後將其提供給客戶。
+CSP 合作夥伴可以代表客戶提交支援要求，以協助他們進行升級。 Microsoft 支援服務將會審核要求以確保客戶符合資格;核准要求之後，支援人員會提供 Windows 10 專業教育版金鑰給合作夥伴，然後將其提供給客戶。
 
-當客戶安裝金鑰，且裝置透過 Azure Active Directory (AAD) 加入租使用者網域時，裝置會自動升級為 Windows 10 教育版 (訂用帳戶) 。   
+當客戶安裝金鑰，且裝置透過 Azure Active Directory (AAD) 加入租用戶網域時，裝置就會自動升級至 Windows 10 教育版 (訂用帳戶)。   
 
 ## <a name="step-by-step-process-for-customers-to-get-windows-10-education"></a>讓客戶取得 Windows 10 教育版的逐步流程
 
@@ -100,4 +100,4 @@ Windows 10 教育版升級是根據客戶的 active Microsoft 365 A3/A5 或 Wind
 請遵循下列連結來深入瞭解：
 
 - [Windows 教育功能](https://www.microsoft.com/education/products/windows/features)
-- [Windows 教育中樞](https://docs.microsoft.com/education/windows/)
+- [Windows 教育中樞](/education/windows/)
