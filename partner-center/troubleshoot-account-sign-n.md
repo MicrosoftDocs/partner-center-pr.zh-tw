@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d990a2cb4dcb69dfc76e8a4f0d40fd4912b4f8a0
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174843"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381404"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>針對帳戶設定或 MPN 續約問題進行疑難排解
 
@@ -38,7 +38,7 @@ ms.locfileid: "92174843"
 選取 [ **接受** ] 並 **繼續** 進行。
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>如果 IT 部門已關閉合作夥伴中心的 **註冊**。
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>如果 IT 部門已關閉合作夥伴中心的 **註冊** 。
 
 您會看到此訊息是因為病毒使用者已停用，或在 Azure AD 的租使用者上停用病毒註冊。 您 Azure AD 帳戶的全域管理員可以執行下列 PowerShell 命令來啟用所需的功能：
 
@@ -50,7 +50,7 @@ ms.locfileid: "92174843"
 
 如果您忘了密碼，請在登入頁面上選取 [ **無法存取您的帳戶？** ] 連結。 此選項可讓您重設密碼，或要求您的全域管理員為您指派新的認證。
 
-## <a name="on-the-tell-us-about-your-company-scree-you-receive-a-something-went-wrong-error"></a>在 [告訴我們您的公司] scree 上，您會收到「發生錯誤」錯誤
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>在 [告訴我們您公司的相關資訊] 畫面上，您會收到「發生錯誤」錯誤
 
 如果您不小心在公司電話號碼中使用特殊字元、空格或國家/地區代碼，則通常會出現此錯誤訊息。 [電話號碼] 欄位中輸入的值最多隻能包含10個字元。
 
@@ -68,7 +68,7 @@ ms.locfileid: "92174843"
 
 1. 選取儀表板中的 [ **成員資格** 供應專案] 索引標籤。
 
-2. 選取 [**取消訂單**]
+2. 選取 [ **取消訂單** ]
 
 3. 確認視窗會出現，您必須確認才能取消最初訂單。
 

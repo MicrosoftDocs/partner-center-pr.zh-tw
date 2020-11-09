@@ -1,82 +1,60 @@
 ---
-title: 付款原則詳細資料-Microsoft 商業 marketplace
+title: 支出排程和原則詳細資料-Azure marketplace
 description: 深入瞭解與商業 marketplace 付款原則相關的詳細資料，包括排程和 recoupment。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 09/28/2020
-ms.openlocfilehash: eec5f85f38280757bc1e5d5c36a4dd1ac5ce8d22
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.date: 11/06/2020
+ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174927"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381387"
 ---
-# <a name="payout-policy-details"></a>支出原則詳細資料
+# <a name="payout-schedules-and-policy-details"></a>支出排程和原則詳細資料
 
-本文討論 Microsoft 的付款流程、付款排程、要在何處尋找付款狀態，以及 recoupment 原則。
+本文討論 Microsoft 的付款流程、付款排程、要在哪裡尋找付款狀態，以及客戶未付款的流程。
 
 ## <a name="payment-schedules"></a>付款排程
 
-下列各節說明我們的支出流程。
+下列各節說明 **Enterprise 合約** 和 **信用卡/發票** 交易的支出流程。
 
-### <a name="enterprise-agreement-transactions-after-may-1-2020"></a>2020 5 月1日之後的 Enterprise 合約交易
+### <a name="enterprise-agreement-transactions"></a>Enterprise 合約交易
 
-#### <a name="update-to-our-commercial-marketplace-publisher-payout-model"></a>更新為我們的商業 marketplace 發行者付款模型
+當客戶從 Microsoft AppSource 購買產品，Azure Marketplace 或使用其現有的 Microsoft Enterprise 合約進行交易時，我們會在下一期的客戶發票30天內發出支出。 客戶使用信用卡的交易在付款前有30天的保留期。
 
-從2020開始，我們將更新支出原則，其與 Microsoft Enterprise 合約客戶在 Azure Marketplace 或 AppSource 中購買的產品有關。 當客戶使用其現有的 Microsoft Enterprise 合約在5月 1 2020 日之後的交易向 Azure Marketplace 或 AppSource 購買產品時，我們會在下一期的客戶發票30天內開始發行支出。 客戶使用信用卡的交易不會變更，而且在付款前會繼續有30天的保留期間。 下表顯示有關付款排程的詳細資料。
+付款通常會在 Microsoft 向客戶收取款項之前發生。 如果客戶無法支付 Microsoft 的費用，但我們已發出款項，請參閱以下 [客戶的非付款流程](#process-for-customer-non-payment) 。
 
-> [!NOTE]
-> 如果客戶無法支付費用，但我們已向您發出款項，請參閱以下 [客戶的非付款流程](#process-for-customer-non-payment) 。
-
-| Event - 事件  | 日期 (UTC)  | 合作夥伴可見度：合作夥伴中心支出報表  |  合作夥伴可見度：合作夥伴中心分析\* |
+| 事件 | 描述 | 報表可見度 | 計時 |
 | --- | --- | --- | --- |
-| 交易或使用月份 | 8/1/2020 –8/31/2020 | N/A | **使用方式報表**：顯示 (每四小時重新整理一次的新耗用量) <br>**訂單報表**： N/A |
-| 詞彙結束 (month)  | 2020/8/31 | N/A | **使用方式報告**：顯示的月份結束耗用量<br>**訂單報表**： N/A |
-| 產生的訂單 | 9/3/2020 –9/7/2020 | N/A | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 計算支出收益 | 9/4/2020 –9/10/2020 | 在付款儀表板上的事務歷史 **記錄中標示** 為未處理 | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 每月支出 | 10/5/2020 | 在付款儀表板上的交易記錄中標示為**即將推出** | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 付款日期\** | 10/15/2020 | 標示為在交易歷程記錄中和在付款儀表板的付款區段中**傳送** | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 已收集客戶發票 | 12/1/2020 | 標示為在交易歷程記錄中和在付款儀表板的付款區段中**傳送** | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單  |
-|  |  |  |  |
+| 交易的使用量或月份 | 客戶使用或購買服務。 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第1個月** |
+| 採購單已建立 | 判斷總使用量和交易總計 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第2個月** |
+| 已建立 ISV 付款收益 | 判斷機關費和支出收益 | 在付款語句的交易歷程記錄中標示為未處理 | **第3個月 (第一周)** |
+| 準備付款 | 每月付款已備妥收益 | 在付款聲明的交易歷程記錄中標示為即將推出 | **第3個月 (第一周)** |
+| **付款日期** | **付款會傳送給發行者** | **標示為在交易歷程記錄和付款聲明的付款區段中傳送** | **第3個月 (不晚于 15)** |
+| 客戶付款的發票 | Microsoft 會從客戶收集款項 | 沒有變更 | **第4到12個月** |
+|
 
-\* 您可以在合作夥伴中心的 [分析] 區段中存取使用量和訂單報表。 \**. 付款日期是太平洋標準時間 (PST) 。
+\* 付款日期是太平洋標準時間 (PST) 。
 
 ### <a name="customers-who-pay-using-credit-card-or-invoice"></a>使用信用卡或發票付款的客戶
 
-所有使用信用卡或每月發票的購買都有30天的保留期，以確保已清除資金，而且沒有任何退款或疑似詐騙。
+所有使用信用卡或每月發票的購買都有30天的保留期，以確保從客戶收集資金。
 
-| Event - 事件  | 日期 (UTC)  | 合作夥伴可見度：合作夥伴中心支出報表  |  合作夥伴可見度：合作夥伴中心分析\*  |
+| 事件 | 描述 | 報表可見度 | 計時 |
 | --- | --- | --- | --- |
-| 交易或使用月份 | 8/1/2019 - 8/31/2019 | N/A | **使用方式報表**：顯示 (每四小時重新整理一次的新耗用量) <br>**訂單報表**： N/A |
-| 詞彙結束 (month)  | 8/31/2019 | N/A | **使用方式報告**：顯示的月份結束耗用量<br>**訂單報表**： N/A |
-| 產生的訂單 | 9/3/2019 –9/7/2019 | N/A | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 已收集客戶發票 | 9/7/2019 –9/10/2019 | N/A | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 計算支出 | 9/8/2019 -9/12/2019 | 在付款儀表板上的事務歷史 **記錄中標示** 為未處理 | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 每月支出 | 11/5/2019\* | 在付款儀表板上的交易記錄中標示為**即將推出** | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 付款日期\** | 11/15/2019 | 標示為在交易歷程記錄和付款區段的付款區段中**傳送** | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-|  |  |  |  |
+| 交易的使用量或月份 | 客戶使用或購買服務。 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第1個月** |
+| 客戶付款的發票 | 決定總使用量、總交易值和客戶支付發票 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第2個月** |
+| 已建立 ISV 付款收益 | 判斷機關費和支出收益 | 在付款語句的交易歷程記錄中標示為未處理 | **第2個月** |
+| 30天的保留期 | 確定資金的集合、可能的退款和退款要求 | 在付款語句的交易歷程記錄中標示為未處理 | **第3個月** |
+| 準備付款 | 每月付款已備妥收益 | 在付款聲明的交易歷程記錄中標示為即將推出 | **第4個月的第一周** |
+| **付款日期** | **付款會傳送給發行者** | **標示為在交易歷程記錄和付款聲明的付款區段中傳送** | **第4個月 (不晚于 15)** |
+|
 
-\* 您可以在合作夥伴中心的 [分析] 區段中存取使用量和訂單報表。</br>\** 付款日期是太平洋標準時間 (PST) 。
-
-### <a name="enterprise-agreement-transactions-prior-to-may-1-2020"></a>2020 5 月1日前 Enterprise 合約交易
-
-在 Microsoft 收集到客戶的款項並處理 marketplace 費用之後，在此日期之前發生的所有購買專案都會依下列排程進行處理和支付。
-
-| Event - 事件  | 日期 (UTC)   | 合作夥伴可見度：合作夥伴中心支出報表  |  合作夥伴可見度：合作夥伴中心分析\*  |
-| --- | --- | --- | --- |
-| 交易或使用月份 | 8/1/2019 –8/31/2019 | N/A | **使用方式報表**：顯示 (每四小時重新整理一次的新耗用量) <br>**訂單報表**： N/A |
-| 詞彙結束 (month)  | 8/31/2019 | N/A | **使用方式報告**：顯示的月份結束耗用量<br>**訂單報表**： N/A |
-| 產生的訂單 | 9/3/2019 –9/7/2019 | N/A | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 已收集客戶發票 | 12/1/2019 | N/A | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 計算支出 | 12/5/2019 –12/7/2019 | 在付款儀表板上的事務歷史 **記錄中標示** 為未處理 | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 每月支出 | 1/5/2019 | 在付款儀表板上的交易記錄中標示為**即將推出** | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-| 付款日期\** | 1/15/2019 | 標示為在交易歷程記錄和付款區段的付款區段中**傳送** | **使用方式報表**：使用訂單 Id/OrderLineItemID 顯示的耗用量<br>**訂單報表**：顯示為使用中的客戶訂單 |
-|  |  |  |  |
-
-\* 您可以在合作夥伴中心的 [分析] 區段中存取使用量和訂單報表。</br>\** 付款日期是太平洋標準時間 (PST) 。
+\* 付款日期是太平洋標準時間 (PST) 。
 
 ## <a name="process-for-customer-non-payment"></a>客戶未付款的流程
 
@@ -88,9 +66,9 @@ Microsoft 會使用下列其中一種方法 recoup 任何已支付給您的支�
 
 以下是範例排程：
 
-| Event - 事件 | 大約日期 | 合作夥伴可見度 |
+| 事件 | 大約日期 * | 合作夥伴可見度 |
 | --- | --- | --- |
-| 付款日期範例 | 10/15/2020 | 在付款儀表板中標示為在交易歷程記錄和付款區段中**傳送** |
+| 付款日期範例 | 10/15/2020 | 在付款儀表板中標示為在交易歷程記錄和付款區段中 **傳送** |
 | <font color="red">如果客戶未支付 Microsoft 費用</font> | 12/2/2020 –12/5/2020 | 沒有變更，與上述相同 |
 | 客戶第一次收到付款電子郵件 | 12/6/2020 | 無 |
 | 客戶會收到不斷增加緊急的一般電子郵件 | 12/7/2020 –1/31/2021 | 無 |
@@ -100,6 +78,8 @@ Microsoft 會使用下列其中一種方法 recoup 任何已支付給您的支�
 | 扣除支出 | 3/1/2021 | 發行者會在合作夥伴中心付款聲明中看到負面交易 |
 | 支付支出 | 3/15/2021 | 未來的支出會顯示在合作夥伴中心的付款聲明中。 在餘額不再為負數之前，發行者將不會收到付款。  |
 |||
+
+\* 付款日期是太平洋標準時間 (PST) 。
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>要達到付款帳戶的付款天數
 
@@ -117,4 +97,4 @@ Microsoft 會使用下列其中一種方法 recoup 任何已支付給您的支�
 
 ## <a name="next-steps"></a>後續步驟
 
-- [稅賦詳細資訊](tax-details-marketplace.md)
+深入瞭解 [稅務詳細資料](tax-details-marketplace.md)。
