@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "91980259"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433339"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>將客戶的 Azure 方案訂用帳戶轉移至不同的合作夥伴
 
-## <a name="applies-to"></a>適用於
+**適當的角色**
 
 - 雲端解決方案提供者 (CSP) 計畫中的合作夥伴
 
@@ -66,22 +66,22 @@ ms.locfileid: "91980259"
 
 訂用帳戶的未來夥伴需要從合作夥伴中心完成傳送要求表單，以要求訂用帳戶轉移：
 
-1.  從 [合作夥伴中心] 功能表選取 [ **客戶**]，然後選取您想要代表的客戶完成傳送申請表單。
-2.  從 [客戶] 功能表選取 [ **訂閱**]。
+1.  從 [合作夥伴中心] 功能表選取 [ **客戶** ]，然後選取您想要代表的客戶完成傳送申請表單。
+2.  從 [客戶] 功能表選取 [ **訂閱** ]。
 3.  選取 [ **轉移要求** ] 區段。
-4.  從 [ **轉移要求] 區段**中，選取 [ **加入新要求**]。
+4.  從 [ **轉移要求] 區段** 中，選取 [ **加入新要求** ]。
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="傳輸區段":::
 
 5.  完成 **新的傳送要求** 表單。
 
-6.  選取 [傳送**轉移要求**  >  **傳送]**。
+6.  選取 [傳送 **轉移要求**  >  **傳送]** 。
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="傳輸區段":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="完成轉移要求表單":::
 
 7.  檢查傳輸要求確認
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="傳輸區段":::
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="審核暫止的傳輸":::
 
     >[!Note]
     >未來的夥伴只要在傳輸要求狀態為「擱置中」時，在右上角選取 [ **取消要求** ]，即可取消轉移要求。 當傳輸要求狀態為「進行中」或「完成」時，將無法取消。
@@ -90,7 +90,7 @@ ms.locfileid: "91980259"
 
 客戶目前的夥伴管理員代理程式會收到一封電子郵件，指出其客戶要求轉移其訂用帳戶：
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="傳輸區段":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="檢閱":::
 
 請檢查並接受合作夥伴中心的轉移要求表單，以完成訂用帳戶轉移。
 
@@ -98,12 +98,12 @@ ms.locfileid: "91980259"
 >如果目前合作夥伴在30天內未採取任何動作，則要求將會過期，而未來的夥伴將會有一個來建立新的轉移要求。
 
 1.  選取電子郵件中的 **審核轉移要求** 或
-1.  從 [合作夥伴中心] 功能表中，選取 [ **Customers**]，然後選取代表已提交轉移要求的客戶。
-2.  從 [客戶] 功能表選取 [ **訂閱**]。
+1.  從 [合作夥伴中心] 功能表中，選取 [ **Customers** ]，然後選取代表已提交轉移要求的客戶。
+2.  從 [客戶] 功能表選取 [ **訂閱** ]。
 3.  選取 [ **轉移要求** ] 區段。
-4.  在 [**收到的要求**] 底下選取所選的**傳輸要求識別碼**，以展開 [傳送資訊]
+4.  在 [ **收到的要求** ] 底下選取所選的 **傳輸要求識別碼** ，以展開 [傳送資訊]
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="傳輸區段":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="來源審核傳送要求":::
 
 5.  查看轉移要求。 選取要傳送的要求 Azure 訂用帳戶。
 
@@ -114,7 +114,7 @@ ms.locfileid: "91980259"
 
 6.  然後選取 [ **接受並傳送** ] 以完成傳送程式。
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="傳輸區段":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="選取要在您的 Azure 方案下傳送的訂用帳戶":::
 
 7.  查看傳輸接受確認。
 
