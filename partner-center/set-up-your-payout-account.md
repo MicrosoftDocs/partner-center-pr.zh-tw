@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91007402"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488123"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>設定支出帳戶和稅賦形式
 
@@ -28,13 +28,13 @@ ms.locfileid: "91007402"
 - [設定支付帳戶](#payout-account)
 
 > [!NOTE]
-> 如需支付供應項目報酬的方式及時間的詳細資訊，請參閱[獲得報酬](/azure/marketplace/marketplace-payout-account-setup)。
+> 如需如何及何時支付您的供應專案金額的詳細資訊，請參閱 [在商業市場中取得](marketplace-get-paid.md)款項。
 
 ## <a name="tax-forms"></a>稅務表單
 
 ### <a name="fill-out-your-tax-forms"></a>填妥稅務表單
 
-首先必須建立稅務設定檔，並指派給您參與的計畫。 完成下列步驟，即可建立商業市集的*稅務設定檔*：
+首先必須建立稅務設定檔，並指派給您參與的計畫。 完成下列步驟，即可建立商業市集的 *稅務設定檔* ：
 
 - 指定您所居住並具有公民身分的國家/地區。
 - 填妥適用的稅務表單。
@@ -77,11 +77,11 @@ ms.locfileid: "91007402"
 支付帳戶是我們支付您的銷售收入款所用的銀行帳戶。 可在 [設定檔] 頁面上查看您輸入的所有支付帳戶。
 
 > [!NOTE]
-> 在某些市場中，可使用 PayPal 做為支付帳戶。 若要瞭解特定市場是否支援 PayPal，請參閱[付款閾值、方法和時間範圍](/azure/marketplace/payment-thresholds-methods-timeframes)以及下方的 [PayPal 資訊](#paypal-info)瞭解詳情。
+> 在某些市場中，可使用 PayPal 做為支付帳戶。 若要瞭解特定市場是否支援 PayPal，請參閱[付款閾值、方法和時間範圍](payment-thresholds-methods-timeframes.md)以及下方的 [PayPal 資訊](#paypal-info)瞭解詳情。
 
 ### <a name="create-a-payment-profile"></a>建立付款設定檔
 
-1. 在 [合作夥伴中心](https://partner.microsoft.com/dashboard)中，選取右上角的 **設定** 齒輪圖示，然後選取 [ **帳戶設定**]。
+1. 在 [合作夥伴中心](https://partner.microsoft.com/dashboard)中，選取右上角的 **設定** 齒輪圖示，然後選取 [ **帳戶設定** ]。
 2. 在 [支付與稅務] 標題底下，選取 [支付與稅務設定檔指派]。
 
     > [!NOTE]
@@ -112,11 +112,11 @@ ms.locfileid: "91007402"
 6. 按一下 [提交] 以儲存變更。
 
    > [!NOTE]
-   > Microsoft 最多可能需要 48 小時的時間來驗證您的設定檔中的資訊。 此流程完成時，驗證狀態會顯示**完成**
+   > Microsoft 最多可能需要 48 小時的時間來驗證您的設定檔中的資訊。 此流程完成時，驗證狀態會顯示 **完成**
 
 為了確保您的付款成功，請務必：
 
-- 在合作夥伴中心內輸入的支付帳戶**帳戶持有人**名稱，必須與您的銀行帳戶完全相同。 例如，如果您的銀行帳戶名稱包含中間名，請在您的**帳戶持有人名稱**加進中間名。
+- 在合作夥伴中心內輸入的支付帳戶 **帳戶持有人** 名稱，必須與您的銀行帳戶完全相同。 例如，如果您的銀行帳戶名稱包含中間名，請在您的 **帳戶持有人名稱** 加進中間名。
 - 支出會以美元貨幣直接從 Microsoft 傳送到您的銀行帳戶。
 - 在合作夥伴中心以拉丁字元輸入的銀行資訊會轉譯成斯拉夫文字元。
 
@@ -131,20 +131,20 @@ ms.locfileid: "91007402"
 3. 您的付款設定檔會連同其狀態一起列出。 尋找您要編輯的設定檔，然後按一下最右側的 [編輯]
 
 > [!IMPORTANT]
-> 變更您的付款帳戶會延遲您的付款最多一次付款週期。 會發生此延遲是因為我們必須確認帳戶變更，就像我們在您第一次設定付款帳戶時所做的一樣。 您仍然會在帳戶確認之後收到全額款項。當期付款週期未付的款項會新增至下一期。 如需詳細資訊，請參閱[獲得報酬](/azure/marketplace/marketplace-payout-account-setup)。
+> 變更您的付款帳戶會延遲您的付款最多一次付款週期。 會發生此延遲是因為我們必須確認帳戶變更，就像我們在您第一次設定付款帳戶時所做的一樣。 您仍然會在帳戶確認之後收到全額款項。當期付款週期未付的款項會新增至下一期。 如需詳細資訊，請參閱 [在商業市集中取得款項](marketplace-get-paid.md)。
 
 ### <a name="paypal-info"></a>PayPal 資訊
 
 在選取國家和地區時，可以輸入 PayPal 資訊來建立付款帳戶。 不過，在選擇 PayPal 做為付款帳戶之前，請選擇：
 
-- 查看[付款閾值、方法和時間範圍](/azure/marketplace/payment-thresholds-methods-timeframes)，確認 PayPal 是否屬於您所在國家/地區支援的付款方式。
+- 查看[付款閾值、方法和時間範圍](payment-thresholds-methods-timeframes.md)，確認 PayPal 是否屬於您所在國家/地區支援的付款方式。
 - 請詳讀下列常見問題： 根據您的情況，PayPal 不一定是最適合您的帳戶選擇，可能會更推薦使用銀行帳戶。
 
 使用 PayPal 做為付款方式的常見問題：
 
 - **我需要如何 PayPal 設定才能接收款項？** 請確定您的 PayPal 帳戶不會封鎖 eCheck 付款。 可至 PayPal 的 [收款偏好設定] 頁面管理此設定。 如需詳細資訊，請參閱 [PayPal 帳戶設定頁面](https://go.microsoft.com/fwlink/p/?linkid=513139) (英文)。
 
-- **我的國家/地區是否受支援？** 請參閱[付款閾值、方法和時間範圍](/azure/marketplace/payment-thresholds-methods-timeframes)，確認可支援以 PayPal 付款的地點。
+- **我的國家/地區是否受支援？** 請參閱[付款閾值、方法和時間範圍](payment-thresholds-methods-timeframes.md)，確認可支援以 PayPal 付款的地點。
 
 - **我的 PayPal 帳戶是否必須在與合作夥伴中心帳戶相同的國家/地區中註冊？** 否。 您設定 PayPal 帳戶時，可以接受預設設定。 除非您已封鎖某些貨幣的付款，否則使用其他國家/地區和貨幣應不會有任何問題。 可至 PayPal 的 [收款偏好設定] 頁面管理此設定。
 
@@ -173,7 +173,7 @@ Form-R 是巴基斯坦銀行法規規定。 用於註明從國外接收款項的
 
 為了確保您的付款成功，請務必：
 
-- 在合作夥伴中心內輸入的支付帳戶**帳戶持有人**名稱，必須與您的銀行帳戶完全相同。 例如，如果您的銀行帳戶名稱包含中間名，請在您的**帳戶持有人名稱**加進中間名。
+- 在合作夥伴中心內輸入的支付帳戶 **帳戶持有人** 名稱，必須與您的銀行帳戶完全相同。 例如，如果您的銀行帳戶名稱包含中間名，請在您的 **帳戶持有人名稱** 加進中間名。
 - 付款會以盧布貨幣直接從 Microsoft 傳送到您的銀行帳戶。
 - 在合作夥伴中心以拉丁字元輸入的銀行資訊會轉譯成斯拉夫文字元。
 - 接受付款的對象必須是銀行帳戶，而不是銀行卡。
@@ -205,4 +205,4 @@ Form-R 是巴基斯坦銀行法規規定。 用於註明從國外接收款項的
 
 ## <a name="next-steps"></a>後續步驟
 
-[商業市集計費](/azure/marketplace/billing-details)
+[在商業市集中獲得報酬](marketplace-get-paid.md)
