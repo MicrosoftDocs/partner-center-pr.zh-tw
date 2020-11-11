@@ -324,6 +324,25 @@
     - name: 針對付款與收益進行疑難排解
       href: incentives-payment-issues.md
       displayName: incentives
+    - name: 在通道獎勵平台 (CHIP) 中工作
+      items:
+        - name: 正在瀏覽 CHIP
+          href: chip-intro.md
+          displayName: chip
+        - name: 將使用者新增至您的 CHIP 帳戶
+          href: chip-users.md
+        - name: 在 CHIP 中檢視收益
+          href: chip-earnings.md
+        - name: 檢查 CHIP 中的付款狀態
+          href: chip-payment-status.md
+        - name: 找出合約的桌面計數和費用等級
+          href: chip-locate-agreement.md
+        - name: 解決方案評估資格
+          href: chip-solution-assessment.md
+        - name: 解決方案評估付款狀態
+          href: chip-solution-assessment-payment.md
+        - name: 存取 CHIP 時發生問題
+          href: chip-access-trouble.md
 - name: 帳單與稅金
   href: billing.md
   displayName: trial
