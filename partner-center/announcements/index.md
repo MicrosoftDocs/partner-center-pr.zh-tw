@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/02/2020
-ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.date: 11/10/2020
+ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333907"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488119"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "94333907"
 
 | **類別** | **2020 年 11 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[可用的測試：教育版客戶驗證程序的合作夥伴中心 API 更新和使用者介面 (UI) 增強功能](2020-november.md#7)|11 月 10 日|
 |功能|[在作業整備資源庫上擴展商業授權合作夥伴內容](2020-november.md#6)|11 月 2 日|
 |供應項目/市場|[Microsoft Teams 聊天室進階 SKU 啟動](2020-november.md#5)|11 月 2 日|
 |供應項目/市場|[適用於政府社群雲端 (GCC) 的新 Microsoft Teams 進階通訊 SKU 即將推出](2020-november.md#4)|11 月 2 日|
@@ -29,6 +30,7 @@ ms.locfileid: "94333907"
 |供應項目/市場|[適用於非營利組織的 Microsoft 365 商務語音簡介](2020-november.md#2)|11 月 2 日|
 |供應項目/市場|[現已推出適用於 Microsoft 365 商務語音的雲端解決方案提供者 (CSP) 促銷](2020-november.md#1)|11 月 2 日|
 | **類別** | **2020 年 10 月公告** | **日期** |
+|供應項目/市場|[呼叫計畫擴充的修正](2020-october.md#18)|10 月 29 日|
 |功能|[Windows Server 軟體訂用帳戶功能更新](2020-october.md#17)|10 月 29 日|
 |功能|[Windows 10 教育版升級現已提供給合格的雲端解決方案提供者 (CSP) 教育版客戶](2020-october.md#16)|10 月 28 日|
 |功能|[重新整理的雲端解決方案提供者 (CSP) 數位體驗現已推出](2020-october.md#15)|10 月 28 日|

@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 10/29/2020
-ms.openlocfilehash: 7b965bff0a962e26e5e5800a6059e4a6fc7a1d6a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045367"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360015"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>註冊為 CSP 直接計費合作夥伴的需求
 
@@ -55,7 +55,7 @@ ms.locfileid: "93045367"
 
 ## <a name="next-steps"></a>接下來的步驟
 
-- [直接帳單合作夥伴的新營收需求](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+- [直接帳單合作夥伴的新營收需求](./announcements/2020-october.md#13)
  
 
 - [關於成為間接轉銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
