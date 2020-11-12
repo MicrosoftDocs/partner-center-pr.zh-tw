@@ -4,15 +4,15 @@ description: 深入瞭解與商業 marketplace 付款原則相關的詳細資料
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 8986ef1d2a16d939530ed49875a21c13b0b97868
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381387"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94531982"
 ---
 # <a name="payout-schedules-and-policy-details"></a>支出排程和原則詳細資料
 
@@ -70,10 +70,10 @@ Microsoft 會使用下列其中一種方法 recoup 任何已支付給您的支�
 | --- | --- | --- |
 | 付款日期範例 | 10/15/2020 | 在付款儀表板中標示為在交易歷程記錄和付款區段中 **傳送** |
 | <font color="red">如果客戶未支付 Microsoft 費用</font> | 12/2/2020 –12/5/2020 | 沒有變更，與上述相同 |
-| 客戶第一次收到付款電子郵件 | 12/6/2020 | 無 |
-| 客戶會收到不斷增加緊急的一般電子郵件 | 12/7/2020 –1/31/2021 | 無 |
+| 客戶第一次收到付款電子郵件 | 12/6/2020 | None |
+| 客戶會收到不斷增加緊急的一般電子郵件 | 12/7/2020 –1/31/2021 | None |
 | 發行者可能會通知寫出 | 1/7/2021 | 傳送給發行者的電子郵件通知，其客戶尚未傳送款項。 包含交易識別碼和金額。 |
-| 客戶接收終止通知 | 2/1/2021 | 無 |
+| 客戶接收終止通知 | 2/1/2021 | None |
 | 集合處理常式結束/資金已寫出 | 2/15/2021 | 傳送給發行者的電子郵件通知，已將資金寫掉。 包含交易識別碼和金額。 |
 | 扣除支出 | 3/1/2021 | 發行者會在合作夥伴中心付款聲明中看到負面交易 |
 | 支付支出 | 3/15/2021 | 未來的支出會顯示在合作夥伴中心的付款聲明中。 在餘額不再為負數之前，發行者將不會收到付款。  |

@@ -1,18 +1,18 @@
 ---
 title: 依區域的支付詳細資料 - Microsoft 商業市集
 description: 瞭解付款時間範圍，以及您可以接收付款的 Microsoft 線上商店。 這些可能會因您的國家/地區、區域及付款帳戶類型而異。
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 09/02/2020
-ms.openlocfilehash: cebd24d3709b622256469ab5e2af3e5cd6b80175
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175306"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94531999"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>付款閾值、方法和時間範圍
 

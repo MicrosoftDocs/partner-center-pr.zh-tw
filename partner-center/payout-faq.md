@@ -4,15 +4,15 @@ description: 取得在商業市場中支出的常見問題解答。 包含您的
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175291"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532016"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>商業 marketplace 支出的相關常見問題
 
@@ -32,7 +32,7 @@ ms.locfileid: "92175291"
 - 檢查依國家/地區的稅金匯款責任。 若為 Microsoft 負擔稅金的國家/地區，Microsoft 會從發行者的收益中收取和扣除稅金。 此對帳單中顯示的交易金額是在稅額之後。 請參閱[稅務詳細資料](tax-details-marketplace.md)。
 - SaaS 和 IaaS 供應專案有10% 的折扣機構費用，而不是標準20%，讓收益率為90%。 此促銷活動將持續到 2021 年 6 月 30 日。
 
-**進一步閱讀**：商業 [marketplace 發行者合約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、付款 [原則詳細資料](payout-policy-details.md)、 [付款閾值、方法和時間範圍](payment-thresholds-methods-timeframes.md)、在商業 marketplace 中 [支付款項](marketplace-get-paid.md)、 [稅務詳細資料](tax-details-marketplace.md)、付款 [聲明](payout-statement.md)、 [商業 marketplace 分析中的訂單儀表板](/azure/marketplace/partner-center-portal/orders-dashboard)
+**進一步閱讀** ：商業 [marketplace 發行者合約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、付款 [原則詳細資料](payout-policy-details.md)、 [付款閾值、方法和時間範圍](payment-thresholds-methods-timeframes.md)、在商業 marketplace 中 [支付款項](marketplace-get-paid.md)、 [稅務詳細資料](tax-details-marketplace.md)、付款 [聲明](payout-statement.md)、 [商業 marketplace 分析中的訂單儀表板](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="earnings-reconciliation"></a>收益對帳
 ### <a name="how-do-i-reconcile-payout-statements-to-order-or-usage-reports-in-analytics"></a>如何核對支付明細和分析中的訂單或使用量報表？
@@ -47,7 +47,7 @@ ms.locfileid: "92175291"
 - 對於企業客戶而言，發行者收益會出現在訂單1-2 天的訂單日期之後。
 - 若為非企業客戶，則在收到客戶付款之後的1-2 天內，發行者收益會顯示在該帳單中。
 
-**進一步閱讀**： [ ](payout-statement.md)[商業市場分析中的付款聲明、訂單儀表板](/azure/marketplace/partner-center-portal/orders-dashboard)
+**進一步閱讀** ： [](payout-statement.md)[商業市場分析中的付款聲明、訂單儀表板](/azure/marketplace/partner-center-portal/orders-dashboard)
 
 ## <a name="payout-policies"></a>支付原則
 
@@ -60,18 +60,18 @@ ms.locfileid: "92175291"
 - 當您的收益處於未處理狀態時，您可以檢查收益將會進行付款處理的當月到期日。 備妥付款之後，您的收益狀態將會變更為「已處理」。  Microsoft 會在到期當月的 15 日發出付款。
 - 若為信用卡支付的訂單，Microsoft 會保留30天的款項，直到賺取額度成熟為止。
 
- **進一步閱讀**： [商業 Marketplace 發行者合約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、付款 [原則詳細資料](payout-policy-details.md)、 [稅務詳細資料](tax-details-marketplace.md)、 [付款閾值、方法和時間範圍](payment-thresholds-methods-timeframes.md)
+ **進一步閱讀** ： [商業 Marketplace 發行者合約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、付款 [原則詳細資料](payout-policy-details.md)、 [稅務詳細資料](tax-details-marketplace.md)、 [付款閾值、方法和時間範圍](payment-thresholds-methods-timeframes.md)
 
 ## <a name="payments-and-adjustments"></a>付款與調整
 
 #### <a name="why-is-my-payment-missing"></a>為何我的付款會遺漏？
 
-- 確定您的支出狀態和稅務設定檔狀態在 [總覽][頁面](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)上顯示為 [*有效*]。
+- 確定您的支出狀態和稅務設定檔狀態在 [總覽] [頁面](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)上顯示為 [ *有效* ]。
 - 您可能未達到付款的最低閾值。 收益必須至少有 50 美元才會收到付款。
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>如何? 將我的帳戶設定為不接受付款嗎？
-您可以在付款 [設定檔](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)中保存付款;只要勾選 [ **保留**] 即可。 除非您釋出保留期，否則 Microsoft 將會保留您的款項。
+您可以在付款 [設定檔](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)中保存付款;只要勾選 [ **保留** ] 即可。 除非您釋出保留期，否則 Microsoft 將會保留您的款項。
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>為何收到的貨幣與購買貨幣不同？
 
@@ -81,7 +81,7 @@ ms.locfileid: "92175291"
 
 付款調整是為了配合補償調整 (例如系統問題) 所進行的付款更正。 在支付對帳單中，ReasonCode 會指定調整的原因。 調整並非是要直接協調個別交易。
 
-**進一步閱讀**： [商業 Marketplace 發行者合約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、付款 [原則詳細資料](payout-policy-details.md)、 [稅務詳細資料](tax-details-marketplace.md)、 [付款閾值、方法和時間範圍](payment-thresholds-methods-timeframes.md)
+**進一步閱讀** ： [商業 Marketplace 發行者合約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、付款 [原則詳細資料](payout-policy-details.md)、 [稅務詳細資料](tax-details-marketplace.md)、 [付款閾值、方法和時間範圍](payment-thresholds-methods-timeframes.md)
 
 ## <a name="taxes"></a>稅額
 
@@ -104,16 +104,16 @@ ms.locfileid: "92175291"
 #### <a name="how-do-i-find-withholding-tax-for-a-transaction"></a>如何找出交易的預繳稅額？
 預繳稅額適用於提出 W-9 表單的美國發行者。 預繳稅額會根據每月的付款來計算。
 
-**進一步閱讀**： [商業 Marketplace 發行者合約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、付款 [原則詳細資料](payout-policy-details.md)
+**進一步閱讀** ： [商業 Marketplace 發行者合約](https://go.microsoft.com/fwlink/p/?LinkID=699560)、付款 [原則詳細資料](payout-policy-details.md)
 
 ## <a name="payout-statement-access"></a>付款語句存取權
 
 #### <a name="how-do-i-access-a-payout-statement"></a>如何存取支付對帳單？
 
-1. 請檢查您的角色。 您必須擁有*財務參與者*或*帳戶擁有者*角色才能存取支付對帳單。
-2. 在右上方導覽中，選取 **付款圖示以** 查看您的付款帳單。 在 **交易歷程記錄**、 **付款**及 **下載**之間進行選擇。
+1. 請檢查您的角色。 您必須擁有 *財務參與者* 或 *帳戶擁有者* 角色才能存取支付對帳單。
+2. 在右上方導覽中，選取 **付款圖示以** 查看您的付款帳單。 在 **交易歷程記錄** 、 **付款** 及 **下載** 之間進行選擇。
 
-**進一步閱讀**：支付 [角色和許可權](payout-statement.md#roles-and-permissions)、付款 [聲明](payout-statement.md) 
+**進一步閱讀** ：支付 [角色和許可權](payout-statement.md#roles-and-permissions)、付款 [聲明](payout-statement.md) 
 
 ## <a name="payout-statement-report"></a>付款語句報表
 
@@ -125,8 +125,8 @@ ms.locfileid: "92175291"
 
 這會顯示您的收益是未處理、已處理或已傳送。
 
-- 未**處理–收益**是在到期日之前的經過時間。
-- 已**處理**–收益已成熟，並準備入每月付款。 每月15日發行付款。
+- 未 **處理–收益** 是在到期日之前的經過時間。
+- 已 **處理** –收益已成熟，並準備入每月付款。 每月15日發行付款。
 - **已傳送** –付款已根據您的付款設定檔成功發行至您的銀行。
 
 #### <a name="how-do-i-download-service-fee-tax-forms"></a>如何下載服務費用稅務表單？
@@ -141,7 +141,7 @@ ms.locfileid: "92175291"
 
 移至 [[設定檔] 頁面](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage)，即可檢視您的年終稅務表單。
 
-**進一步閱讀**：付款 [語句](payout-statement.md)、 [交易歷程記錄下載](payout-statement.md#transaction-history-download)
+**進一步閱讀** ：付款 [語句](payout-statement.md)、 [交易歷程記錄下載](payout-statement.md#transaction-history-download)
 
 ## <a name="historical-statements"></a>歷史對帳單
 
@@ -149,7 +149,7 @@ ms.locfileid: "92175291"
 
 歷史對帳單會顯示從 2019 年 10 月起的支付資料快照集。 可惜的是，此處的付款資訊不會重新整理。 若要接收最新資訊，請提交最新資料的支援票證。
 
-**進一步閱讀**：付款 [語句](payout-statement.md)、 [交易歷程記錄下載](payout-statement.md#transaction-history-download)
+**進一步閱讀** ：付款 [語句](payout-statement.md)、 [交易歷程記錄下載](payout-statement.md#transaction-history-download)
 
 ## <a name="payout-export-api"></a>付款匯出 API
 
