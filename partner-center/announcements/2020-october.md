@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132822"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433303"
 ---
 # <a name="october-2020-announcements"></a>2020 年 10 月公告
 
@@ -23,6 +23,27 @@ ms.locfileid: "93132822"
 2020 公告：[3 月](2020-march.md) | [4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | 10 月
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>通話方案擴展的修正 
+
+### <a name="categories"></a>類別
+
+- 日期：2020-10-29
+- 供應項目/市場
+
+### <a name="impacted-audience"></a>影響對象
+
+直接提供者、間接提供者和間接經銷商
+
+### <a name="details"></a>詳細資料
+
+先前，我們在 2020 年 10 月 1 日宣佈[會在新市場推出 Office 365 通話方案](2020-september.md#2)。 該宣告並不正確，國內並未如先前所述提供每個使用者每月 240 分鐘的方案。 
+
+
+如需通話方案的詳細資訊，請參閱 Microsoft Teams [產品文件](/microsoftteams/calling-plan-landing-page)。
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Windows Server 軟體訂用帳戶功能更新
 

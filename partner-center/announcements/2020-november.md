@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93327487"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488100"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -23,6 +23,147 @@ ms.locfileid: "93327487"
 2020 公告：[4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | 11 月
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>可用的測試：教育版客戶驗證程序的合作夥伴中心 API 更新和使用者介面 (UI) 增強功能
+
+### <a name="categories"></a>類別
+
+- 日期 2020-11-10
+- 功能 | 提高效率和規模
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 計畫銷售學術供應項目的合作夥伴。
+
+### <a name="summary"></a>總結
+
+教育版客戶驗證程序的合作夥伴中心 API 更新和 UI 增強功能現在可以執行測試了。
+
+### <a name="details"></a>詳細資料
+
+Microsoft 的營運以信任為原則。 我們承諾針對在 CSP 計畫中從事學術供應項目交易時所需的客戶驗證，提供符合規範且安全的方法，是我們一貫努力的目標。 作為承諾的一部分，我們將會在本會計年度的第二季 (FY21 Q2) 引進合作夥伴中心 API 和 UI 增強功能。 這些增強功能可讓您更清楚地了解客戶驗證程序，並讓您能夠輸入更精確的資料，以提升客戶驗證的成功機率。
+
+**合作夥伴中心的增強功能**
+
+- 新的 GET 和 POST 資格 API 可支援精確的資料輸入，並改善 Microsoft 的教育客戶驗證程序。
+
+- UI 增強功能可支援精確的資料輸入，並改善 Microsoft 的教育客戶驗證程序。
+
+**測試**
+
+若要深入了解想要成功進行客戶驗證所需的 API 和資料輸入，合作夥伴能夠從 2020 年 10 月開始測試這些增強功能。 我們將在近期提供關於確切時間和如何參與的詳細資料。 現有的合作夥伴中心 API 將在 FY21 Q2 結束前淘汰。 屆時，您就必須轉換使用新的合作夥伴中心 API。
+
+   - 測試已可供使用 合作夥伴測試日期為 2020 年 10 月 2 日到 2020 年 12 月 2 日。 想要參與的合作夥伴應下載合作夥伴中心教育客戶測試指南，以了解整備方式、註冊方式，以及測試階段中預期的情況。
+
+**圖書館和博物館客戶**
+
+除了這些增強功能外，我們也迫不及待地宣佈，在 FY21 Q2，我們將為圖書館和博物館客戶啟用學術定價供應項目，以擴展可作為 CSP 供應項目銷售對象的教育客戶。
+
+Microsoft 保留對任何客戶或建議客戶審查其教育使用者資格的權利。 如需完整詳細資料，請參閱[學術合格教育使用者需求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。
+
+## <a name="next-steps"></a>後續步驟
+
+請檢閱新的合作夥伴中心 UI 和 API 變更，以及[合作夥伴中心教育客戶驗證程序增強功能內容集合](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)中的測試指南
+
+• 註冊參與測試。 (如需詳細資訊，請參閱[測試指南](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf))。 
+
+• 確定您的組織已熟悉[學術合格教育使用者需求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。 
+
+• 與組織中的適當小組以及轉銷商分享這項資訊，協助他們為這些變更做好準備。
+
+
+
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>在作業整備資源庫上擴展商業授權合作夥伴內容
+
+### <a name="categories"></a>類別
+
+- 日期：2020-11-5
+- 功能
+
+### <a name="summary"></a>摘要
+
+從 2020 年 11 月 5 日開始，合作夥伴大學的商業授權合作夥伴內容也會在作業整備資源庫中提供。
+
+### <a name="impacted-audience"></a>影響對象
+
+商業合作夥伴
+
+### <a name="details"></a>詳細資料
+
+從 2020 年 11 月 5 日開始，合作夥伴大學的商業授權合作夥伴內容也會在作業整備資源庫中提供。 這會將作業整備資源庫上已存在的營運和商業授權合作夥伴啟動內容，與合作夥伴大學的持續性商業授權合作夥伴內容合併在一起。 因此，這能為合作夥伴提供更順暢的整備體驗。 下列集合已新增至作業整備資源庫：
+
+- [Microsoft Azure - 供應項目和授權](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [商業授權 - CSP 焦點呼叫](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [商業授權 - 授權更新呼叫](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>接下來的步驟
+
+請與貴組織所有相關連絡人分享這項資訊。
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Microsoft Teams 會議室進階 SKU 啟動
+
+### <a name="categories"></a>類別
+
+- 日期：2020-11-3
+- 供應項目/市場
+
+### <a name="summary"></a>摘要
+
+透過雲端解決方案提供者 (CSP) 計畫所提供、適用於 Microsoft Teams 的 Microsoft Teams 會議室進階 SKU 現已正式推出。
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴
+
+### <a name="details"></a>詳細資料
+
+適用於 Microsoft Teams 會議室的新 Microsoft Teams 會議室進階 SKU 現在已可供透過您以每月每裝置 50 美元購買 CSP 的客戶使用。 Microsoft Teams 會議室進階 SKU 是 Microsoft Teams 會議室標準 SKU (先前稱為「會議室」授權) 的替代方案。 此 SKU 包含標準供應項目中的一切權益，例如 Microsoft Teams、商務用 Skype Online 和 Intune 管理所需的授權。 此供應項目也可實現電話系統，這是公用交換電話網路 (PSTN) 整合和音訊會議 (如果有的話) 的所需項目。 
+
+透過進階供應項目，客戶可以存取新發行的 Microsoft Teams 會議室受控服務，在此服務中，會由專家代表客戶處理會議室的管理和作業。 這個雲端式 IT 管理和監視服務可讓 Microsoft Teams 會議室裝置及其週邊設備保持在安全且最新的狀態。 其也會受到主動監視和管理，從而維護已專為提供絕佳會議室體驗而最佳化的環境。
+
+#### <a name="released-at-launch"></a>推出時的釋出內容
+
+   |****|**Microsoft Teams 會議室標準版每月每裝置 15 美元**|**Microsoft Teams 會議室進階版每月每裝置 50 美元**|
+   |-------------------|:------|:------|
+   |商務用 Skype|是| |
+   |Microsoft Teams|是|是|
+   |電話系統|是|是|
+   |音訊會議|是|是|
+   |Microsoft Intune|是|是|
+   | |Microsoft Teams 會議室標準版每月每裝置 15 美元|Microsoft Teams 會議室進階版每月每裝置 50 美元|
+   |Microsoft Teams 會議室受控服務| |是|
+   |全球可用性|是|在經過挑選的市場中|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams 會議室受控服務
+
+- 主動式管理：全天候管理您的會議室系統，包括修補、設定管理等。
+•   即時監視和根本原因分析：在需要時，使用由 Microsoft 與客戶協調所驅動的協調事件管理回應來進行監視和偵測。 行動應用程式可讓您隨時隨地掌握警示。
+- 受控更新：應用程式、Windows KB 和韌體更新的管理與傳遞。
+- 安全性威脅防護：透過 Microsoft Defender 進階威脅防護的安全性威脅防護。
+- 客戶支援：透過我們專門的服務營運中心提供全天候票證支援，以提供非自動化案例的協助事件補救。 細微的角色型存取控制。
+- 見解與建議：針對會議室健全狀況、詳細目錄、使用情形、線上會議和事件趨勢的客戶和報告彙總見解。
+
+#### <a name="offer-details"></a>供應項目詳細資料
+
+   |**供應項目名稱**|**優惠識別碼**|**材質識別碼**|
+   |-------------------|:------|:------|
+   |Teams 會議室進階版|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams 會議室進階版 (USA 和 CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Teams 會議室進階版 (教職員用)|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
+
+### <a name="next-steps"></a>後續步驟
+
+- 熟悉新的供應項目和其地理可用性，請造訪[常見問題集 (FAQ)]()。
+- 熟悉新的供應項目和其地理可用性。 
+- 在 [Microsoft Teams 會議室](https://rooms.microsoft.com/)深入了解 Microsoft 會議室和相關供應項目。
+- 使用 [Teams 合作夥伴指南](https://aka.ms/teamscallingmeetingsguide)來發展 Teams 會議室實務，並建立共同銷售就緒的供應項目。
+- 若要深入了解產品解決方案和服務，請檢閱 [Microsoft Teams 會議室常見問題集](https://aka.ms/PartnerMTRFAQ)。 
+- 請與您組織中所有的適當連絡人分享這項資訊，以了解追加銷售和交叉銷售商機。
+
+________________
 
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>適用於政府社群雲端 (GCC) 的新 Microsoft Teams 進階通訊 SKU 即將推出
 
