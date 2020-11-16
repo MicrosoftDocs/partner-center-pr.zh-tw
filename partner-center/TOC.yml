@@ -614,7 +614,7 @@
           href: advisor-create-a-purchase-offer.md
 - name: 合作夥伴中心資料和分析
   items:
-    - name: 存取使用者資料和分析
+    - name: 存取訂用帳戶資料和分析
       href: data-analysis-lp.md
     - name: 適用於 Power BI 的分析應用程式
       items:
@@ -628,7 +628,7 @@
       items:
         - name: 關於深入解析
           href: partner-center-insights.md
-          displayName: mpn
+          displayName: data
         - name: 深入解析角色型存取
           href: pci-roles.md
         - name: 深入解析報表
