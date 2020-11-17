@@ -9,12 +9,12 @@ ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/06/2020
-ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 34a18e4a4bf4d5c29265fdf76fae05b4ba16a3bc
+ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381423"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94670162"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作夥伴中心 (電腦) 共同銷售的指南，適用于從合作夥伴銷售 Connect (PSC 進行遷移的合作夥伴) 
 
@@ -78,7 +78,7 @@ ms.locfileid: "94381423"
 在合作夥伴中心中設定您的帳戶之後，請使用 [共同銷售商機] 頁面中的 [使用者遷移嚮導]，自動將合作夥伴中心角色指派給公司員工。
 
 >[!Note]
-> 使用者遷移只能由公司的 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company) 執行。 如果您沒有帳戶管理員角色，請尋找可協助您使用使用者遷移嚮導來設定使用者帳戶的帳戶管理員。 使用者遷移功能將于2020年11月16日起提供。
+> 使用者遷移只能由公司的 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company) 執行。 如果您沒有帳戶管理員角色，請尋找可協助您使用使用者遷移嚮導來設定使用者帳戶的帳戶管理員。 使用者遷移功能將于2020年11月18日起提供。
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="顯示使用者遷移嚮導的影像。":::
 

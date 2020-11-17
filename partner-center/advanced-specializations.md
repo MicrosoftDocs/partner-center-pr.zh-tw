@@ -1,7 +1,7 @@
 ---
 title: 獲得進階專長
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 強化您在 Microsoft 合作夥伴目錄中的商務設定檔。 瞭解如何獲得先進的特製化，以及您的金級和銀級專長認證。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92198074"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691379"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>獲得先進的特製化以展示專長
 
@@ -32,24 +32,25 @@ Advanced 特製化也可讓您將自己與客戶區隔。 一旦您獲得先進�
 您可以在兩個主要的專業領域中獲得先進的特製化：
 
 - Azure
-- 新式工作場所和安全性
+- 現代化工作和安全性
 
 **Azure** advanced 特殊化包括：
 
-- Windows Server 和 SQL Server 遷移至 Microsoft Azure 
-- Microsoft Windows 虛擬桌面
-- Linux 和開放原始碼資料庫移轉至 Microsoft Azure
-- Microsoft Azure 上的 Kubernetes
 - 資料倉儲遷移至 Microsoft Azure
-- Microsoft Azure 上的 SAP
+- Microsoft Azure 上的 Kubernetes
+- Linux 和開放原始碼資料庫移轉至 Microsoft Azure
+- Microsoft Windows 虛擬桌面
 - 將 Web 應用程式現代化為 Microsoft Azure
+- Microsoft Azure 上的 SAP
+- Windows Server 和 SQL Server 遷移至 Microsoft Azure
  
-**新式工作場所和安全性** 先進特製化包括：
+**新式工作和安全性** 先進特製化包括：
 
-- Microsoft 團隊的會議和會議室
 - 採用與變更管理
-- 團隊合作部署
 - 呼叫 Microsoft 小組
+- Microsoft 團隊的會議和會議室
+- 團隊合作部署
+- 身分識別和存取管理
 - 威脅防護
  
 > [!NOTE]
@@ -79,33 +80,35 @@ Advanced 特製化也可讓您將自己與客戶區隔。 一旦您獲得先進�
 
 您必須使用協力廠商的審核程式來完成審核，以進行下列 Azure advanced 特殊化：
 
-- Windows Server 和 SQL Server 遷移至 Microsoft Azure
-- Linux 和開放原始碼資料庫移轉至 Microsoft Azure
 - 資料倉儲遷移至 Microsoft Azure
 - Microsoft Azure 上的 Kubernetes
-- 將 Web 應用程式現代化為 Microsoft Azure
+- Linux 和開放原始碼資料庫移轉至 Microsoft Azure
 - Microsoft Windows 虛擬桌面
+- 將 Web 應用程式現代化為 Microsoft Azure
+- Windows Server 和 SQL Server 遷移至 Microsoft Azure
 
 ### <a name="audit-example-in-partner-center"></a>合作夥伴中心中的 Audit 範例
 
-如果您有興趣瞭解將 **Web 應用程式現代化為 Microsoft Azure**的 advanced 特製化，請從 [合作夥伴中心] 功能表中選取它。 您會進入 [必要條件] 頁面。
+如果您有興趣瞭解將 **Web 應用程式現代化為 Microsoft Azure** 的 advanced 特製化，請從 [合作夥伴中心] 功能表中選取它。 您會進入 [必要條件] 頁面。
 
 :::image type="content" source="images/advancedspecializations/as-1.png" alt-text="顯示需要獲得主動式金級雲端平臺專長認證之需求的範例必要條件頁面。":::
 
 在您符合所有必要條件之前，您的狀態仍 **會保持不啟動。**
 當您符合必要條件之後，就會啟用 [ **排程審核** ] 按鈕。
 
-當您完成所有需求之後，您的狀態就會 **變更為 [作用中]**。 作用中狀態會自動啟用您 **商務設定檔**上的 advanced 特製化標記。 所有嘗試 [尋找解決方案提供者的](https://www.microsoft.com/solution-providers/home)客戶都可以看到此設定檔。
+當您完成所有需求之後，您的狀態就會 **變更為 [作用中]**。 作用中狀態會自動啟用您 **商務設定檔** 上的 advanced 特製化標記。 所有嘗試 [尋找解決方案提供者的](https://www.microsoft.com/solution-providers/home)客戶都可以看到此設定檔。
 
 ## <a name="prerequisites-that-include-customer-references---an-example"></a>包含客戶參考的必要條件-範例
 
 您需要下列先進特製化的客戶參考：
 
-- SAP on Azure
+
 - 採用與變更管理
-- 團隊合作部署
 - 呼叫 Microsoft 小組
 - 會議和會議室
+- SAP on Azure
+- 團隊合作部署
+- 身分識別和存取管理
 - 威脅防護
 
 ### <a name="customer-reference-example-in-partner-center"></a>合作夥伴中心中的客戶參考範例
@@ -114,9 +117,9 @@ Advanced 特製化也可讓您將自己與客戶區隔。 一旦您獲得先進�
 
 除了金級專長認證、認證和效能需求之外，您還必須提供三個客戶參考，以示範您部署和管理的能力。
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="顯示需要獲得主動式金級雲端平臺專長認證之需求的範例必要條件頁面。":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="需要客戶參考的範例 advanced 特殊化必要條件頁面。":::
 
-在您符合所有必要條件之前，您的狀態仍 **會保持不啟動。** 一旦您完成所有需求，您的狀態就會 **變更為 [作用中]**。 作用中狀態會自動啟用您 **商務設定檔**上的 advanced 特製化標記。 所有嘗試 [尋找解決方案提供者的](https://www.microsoft.com/solution-providers/home)客戶都可以看到此設定檔。
+在您符合所有必要條件之前，您的狀態仍 **會保持不啟動。** 一旦您完成所有需求，您的狀態就會 **變更為 [作用中]**。 作用中狀態會自動啟用您 **商務設定檔** 上的 advanced 特製化標記。 所有嘗試 [尋找解決方案提供者的](https://www.microsoft.com/solution-providers/home)客戶都可以看到此設定檔。
 
 ## <a name="next-steps"></a>後續步驟
 
