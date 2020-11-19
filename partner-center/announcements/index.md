@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488119"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691311"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "94488119"
 
 | **類別** | **2020 年 11 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[合作夥伴計費貨幣的 EU/EFTA 變更 (適用於新商務供應項目)](2020-november.md#10)|11 月 17 日|
+|功能|[合作夥伴中心 API 的 API 節流](2020-november.md#9)|11 月 17 日|
+|功能|[因 MCA 要求重複而產生的 409 錯誤](2020-november.md#8)|11 月 16 日|
 |功能|[可用的測試：教育版客戶驗證程序的合作夥伴中心 API 更新和使用者介面 (UI) 增強功能](2020-november.md#7)|11 月 10 日|
 |功能|[在作業整備資源庫上擴展商業授權合作夥伴內容](2020-november.md#6)|11 月 2 日|
 |供應項目/市場|[Microsoft Teams 聊天室進階 SKU 啟動](2020-november.md#5)|11 月 2 日|
