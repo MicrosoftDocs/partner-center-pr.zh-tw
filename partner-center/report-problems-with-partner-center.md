@@ -1,20 +1,20 @@
 ---
 title: 報告關於合作夥伴中心的問題
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 瞭解如何報告合作夥伴中心的問題，以及如何收集合作夥伴支援小組的診斷資訊。
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567067"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983331"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何報告合作夥伴中心的問題，並提交任何記錄檔或診斷資訊
 
@@ -23,23 +23,21 @@ ms.locfileid: "94567067"
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
-如果您發現問題或需要合作夥伴中心的協助，請聯絡合作夥伴中心支援人員。
-
-**使用者角色**
+**適當的角色**
 
 所有登入的合作夥伴中心使用者都可以建立合作夥伴支援要求。 使用者只能在登入合作夥伴中心之後，查看他們所提交的支援要求。
 
 ## <a name="report-a-problem-with-the-partner-center"></a>報告合作夥伴中心的問題
 
-1. 從您的 **合作夥伴中心** 儀表板，選取 [ **支援** ]，然後選取 [ **合作夥伴支援要求** ]。
+1. 從您的 **合作夥伴中心** 儀表板，選取 [ **支援** ]，然後選取 [ **合作夥伴支援要求**]。
 
-2. 選取 [ **新增要求** ]，然後搜尋最能描述問題的問題類型。 選取 [問題類型] 和 [ **檢查方案** ]。
+2. 選取 [ **新增要求** ]，然後搜尋最能描述問題的問題類型。 選取 [問題類型] 和 [ **檢查方案**]。
 
 3. 請參閱 **建議的解決方案** 頁面，以取得可協助您解決問題的步驟或相關檔。
 
-4. 如果 **建議的解決方案** 解決了您的問題，您可以選取 **[返回儀表板** ]。 如果您仍然需要協助，您可以繼續並 **提供問題詳細資料** 。
+4. 如果 **建議的解決方案** 解決了您的問題，您可以選取 **[返回儀表板**]。 如果您仍然需要協助，您可以繼續並 **提供問題詳細資料**。
 
-5. 完成 **問題詳細資料** ，然後 **提交** 。 合作夥伴支援代表會再與你連絡。
+5. 完成 **問題詳細資料** ，然後 **提交**。 合作夥伴支援代表會再與你連絡。
 
 ## <a name="schedule-a-support-appointment"></a>排程支援預約 
 
@@ -59,6 +57,12 @@ ms.locfileid: "94567067"
 
 :::image type="content" source="images/support/ticket3.png" alt-text="日期和時間":::
 
+## <a name="hours-of-operation"></a>作業時數
+
+**合作夥伴支援**
+
+:::image type="content" source="images/support/hoop.png" alt-text="作業的支援時數":::
+
 ## <a name="send-diagnostics"></a>傳送診斷結果
 
 如果您是在合作夥伴中心頁面時發生錯誤，系統可能會提示您收集記錄資訊。 從頁面頂端下拉式清單中選取 [ **收集更多資訊** ] 以開啟用戶端診斷工具。 此工具會收集合作夥伴支援小組判斷錯誤成因所需的資訊。 
@@ -75,7 +79,7 @@ ms.locfileid: "94567067"
 3. 請先檢查檔案中的資訊再傳送檔案，因為檔案可能內含您想要移除的個人識別資訊。
 
     >[!NOTE]
-    >在某些瀏覽器中， **\[預覽\]** 頁面底部的 **\[頁面檢視\]** 區段可能會一片空白。 這是正常現象。
+    >在某些瀏覽器中，**\[預覽\]** 頁面底部的 **\[頁面檢視\]** 區段可能會一片空白。 這是正常現象。
 
 4. 按照畫面上的指示儲存檔案。
 
@@ -83,6 +87,6 @@ ms.locfileid: "94567067"
 
 合作夥伴支援可能會要求您執行這個工具數次，以便取得最新資訊。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [代表客戶報表服務問題](report-problems-on-behalf-of-a-customer.md)
