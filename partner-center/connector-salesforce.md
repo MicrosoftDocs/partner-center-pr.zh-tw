@@ -8,12 +8,12 @@ description: 將合作夥伴中心中的您的參考與 Salesforce CRM 同步處
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031461"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947846"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM 的共同銷售連接器 – 概觀
 
@@ -84,21 +84,21 @@ ms.locfileid: "92031461"
 
 5. 在快顯視窗中搜尋 **Salesforce 的合作夥伴中心推薦連接器** 。  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="開啟 AppSource":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. 按一下 [ **立即取得** ] 按鈕，然後 **繼續**進行。
+6. 按一下 [ **立即取得** ] 按鈕，然後 **繼續** 進行。
 
 7. 這會開啟頁面，您可以在其中選取要安裝應用程式的 Salesforce CRM 環境。  同意條款及條件。
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="開啟 AppSource":::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="可用的 CRM":::
 
-8. 然後，系統會將您導向至 [ **管理您的解決方案** ] 頁面。  使用頁面底部的箭號按鈕，流覽至「合作夥伴中心的推薦」。 已**排程的安裝**應該會出現在合作夥伴中心的推薦解決方案旁邊。 安裝將需要10-15 分鐘的時間。
+8. 然後，系統會將您導向至 [ **管理您的解決方案** ] 頁面。  使用頁面底部的箭號按鈕，流覽至「合作夥伴中心的推薦」。 已 **排程的安裝** 應該會出現在合作夥伴中心的推薦解決方案旁邊。 安裝將需要10-15 分鐘的時間。
 
 9. 安裝完成之後，請流覽回到 [Power Automate](https://flow.microsoft.com) ，然後從左側導覽區域選取 **解決方案** 。 請注意，[方案] 清單中有提供 **Salesforce 的合作夥伴中心推薦同步** 處理。
 
-10. 選取 **Salesforce 的合作夥伴中心推薦同步**處理。 以下是可用的流程和實體 Power Automate：
+10. 選取 **Salesforce 的合作夥伴中心推薦同步** 處理。 以下是可用的流程和實體 Power Automate：
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="開啟 AppSource":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce 流程":::
 
 
 
@@ -115,7 +115,7 @@ ms.locfileid: "92031461"
 
 5. 按一下 [ **建立連接**] 來建立連接。
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="開啟 AppSource":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="建立連線":::
 
 - 在右上角的搜尋列中搜尋合作夥伴中心參考 (預覽) 。
 
@@ -123,21 +123,21 @@ ms.locfileid: "92031461"
 
 -  接下來，使用推薦的系統管理員認證來為您的合作夥伴中心使用者建立合作夥伴中心事件連接。
 
-- 為 CRM 系統管理員使用者建立 Common Data Service (目前環境) 的連接。
+- 為 CRM 系統管理員使用者建立 Salesforce 的連接。
 
 -  新增所有連線之後，您應該會在您的環境中看到下列連接：
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="開啟 AppSource":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="觀察連接":::
 
 ### <a name="edit-the-connections"></a>編輯連接
 
-1. 返回 [方案] 頁面，然後選取 [ **預設方案**]。  按一下 [**全部**]，以選取 [ ** (預覽) 的連接參考**。
+1. 返回 [方案] 頁面，然後選取 [ **預設方案**]。  按一下 [**全部**]，以選取 [ **(預覽) 的連接參考**。
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="開啟 AppSource":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="開始連接器編輯":::
 
 2. 選取三個點圖示，逐一編輯每一個連接。 新增相關的連接。
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="開啟 AppSource":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="編輯連接器":::
 
 3. 依下列順序開啟流程：
 
@@ -153,27 +153,27 @@ ms.locfileid: "92031461"
 
 合作夥伴中心 Webhook Api 可讓您註冊資源變更事件。 這些變更事件會以 HTTP 文章的形式傳送至您的 url。
 
-1. 若要註冊您的 url，請選取 **合作夥伴中心 Webhook 註冊 (Insider preview) ** Power Automate flow。
+1. 若要註冊您的 url，請選取 **合作夥伴中心 Webhook 註冊 (Insider preview)** Power Automate flow。
 
 2. 新增 (的連接。 ) 合作夥伴中心具有推薦的系統管理員認證的使用者 (b. ) 合作夥伴中心事件，如下所強調
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="開啟 AppSource":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="觸發程序":::
 
 3. 當您進行這些更新時，您會看到
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="開啟 AppSource":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Webhook":::
 
 4. 儲存您的變更，然後選取 [ **開啟**]。
 
    若要讓合作夥伴中心 webhook 接聽事件變更，請執行下列步驟：
 
-5. 選取 **合作夥伴中心至 SALESFORCE CRM (Insider preview) **。
+5. 選取 **合作夥伴中心至 SALESFORCE CRM (Insider preview)**。
 
 6. 選取 [ **編輯** ] 圖示，然後選取 [ **收到 HTTP 要求時**]。
 
 7. 選取 **複製** 圖示來複製提供的 HTTP POST URL。
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="開啟 AppSource":::
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="複製 URL":::
 
 8. 現在，選取 [合作夥伴中心 Webhook 註冊 (Insider Preview) ] Power Automate 流程，然後選取 [ **執行**]。
 
@@ -205,13 +205,13 @@ Webhook 現在可以接聽建立和更新事件。
 
    2. 選取 [ **編輯** ] 以編輯/自訂 Power Automate 流程。
 
-   3. 選取 ** (範圍) 同步處理潛在客戶或商機**。
+   3. 選取 **(範圍) 同步處理潛在客戶或商機**。
 
 2. 若要自訂建立事件的 CRM 欄位對應，請選取 **它是否為新的共用商機，然後**。 若為 [ **是]** ，請選取子步驟，然後 **在 CRM 中展開 [建立新商機**]。 您可以使用欄位對應指南來編輯本節中的對應。
 
    1. 若要自訂更新事件的 CRM 欄位對應，請按一下「 (範圍) 同步處理潛在客戶或商機」步驟。
 
-   2. **如果這是商機的更新，請選取它**。 **如果 [是]** ，請選取 [子步驟]，然後展開 [**合作夥伴中心和 CRM 中商機物件之間的差異]，然後再**展開。  
+   2. **如果這是商機的更新，請選取它**。 **如果 [是]** ，請選取 [子步驟]，然後展開 [**合作夥伴中心和 CRM 中商機物件之間的差異]，然後再** 展開。  
 
    3. 選取 **[是]** ，然後選取 [**更新現有的商機**]
 
@@ -219,7 +219,7 @@ Webhook 現在可以接聽建立和更新事件。
 
    1. 選取 [ **編輯**  ] 以編輯/自訂 Power Automate 流程。
 
-   2. 選取 ** (範圍) 同步處理商機**。
+   2. 選取 **(範圍) 同步處理商機**。
 
    3. 若要根據欄位對應來自訂 CRM 欄位對應 () 針對 update 事件，請選取 **合作夥伴中心和 CRM 中的潛在客戶物件之間是否有差異**。
 
@@ -231,7 +231,7 @@ Webhook 現在可以接聽建立和更新事件。
 
    1. 選取 [ **編輯**  ] 以編輯/自訂 Power Automate 流程。
 
-   2. 選取 ** (範圍) 同步處理參考。**
+   2. 選取 **(範圍) 同步處理參考。**
 
    3. 若要根據 [建立事件] 的欄位對應指南) 自訂 CRM 欄位對應 (，請選取 [ **建立 Microsoft 參考**]。
 
@@ -270,7 +270,7 @@ Webhook 現在可以接聽建立和更新事件。
 
    2. 當您在 Salesforce CRM 環境中建立「新商機」時，請確定下列區段存在
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="開啟 AppSource":::
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Salesforce 環境":::
 
    3. 若要與 Microsoft 合作夥伴中心同步處理這個機會，請確定您已在卡片視圖中設定下欄欄位：
 
@@ -296,7 +296,7 @@ Webhook 現在可以接聽建立和更新事件。
 
     5. 流覽至 **開啟的商機**。 在 Microsoft 合作夥伴中心中建立的參照現在已在 Salesforce CRM 中同步處理。
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="開啟 AppSource":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Salesforce 商機畫面":::
 
     6. 當您選取同步處理的參考時，就會填入卡片視圖詳細資料。
 
