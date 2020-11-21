@@ -3,15 +3,15 @@ title: Azure Marketplace 合作夥伴整合
 description: 瞭解與 Azure 環境整合 Azure Marketplace 的解決方案，並取得 Microsoft 合作夥伴提供的部署指南連結。
 ms.service: partner-services
 ms.topic: conceptual
-author: dsindona
-ms.author: dsindona
+author: JasonWHowell
+ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: 7c97936e7764361c21503eca174433029707cf69
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691647"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006900"
 ---
 # <a name="azure-marketplace-partner-integrations"></a>Azure Marketplace 合作夥伴整合
 
@@ -44,7 +44,7 @@ Datadog 為 Azure 使用者提供可檢視性和安全性工具，以瞭解應�
 
 請參閱 [Azure 監視器檔](/azure/azure-monitor/platform/partners#datadog) ，以深入瞭解此解決方案並註冊公開預覽。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [Azure Marketplace 線上商店](https://azure.microsoft.com/marketplace/)
 - [Microsoft Learn：建立 Azure 帳戶](/learn/modules/create-an-azure-account/)

@@ -2,16 +2,16 @@
 title: 在 Azure 入口網站中建立和管理私用 Azure Marketplace
 description: 瞭解如何在 Azure 入口網站中建立和管理私人 Azure Marketplace (preview) 。
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487698"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006934"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>在 Azure 入口網站中建立及管理私人 Azure Marketplace (預覽) 
 
@@ -31,14 +31,14 @@ ms.locfileid: "94487698"
 >[!IMPORTANT]
 > 私人 Azure Marketplace 管理的存取權僅適用于已指派 Marketplace 管理員角色的 IT 系統管理員。
 
-### <a name="prerequisites"></a>先決條件
+### <a name="prerequisites"></a>必要條件
 
 您必須符合這些必要條件，才能將 Marketplace 系統管理員角色指派給租使用者範圍的使用者：
 
 - 您可以存取 **全域管理員** 使用者。
 - 租使用者至少有一個訂用帳戶 (可以是任何類型) 。
-- 全域管理員使用者會被指派「 **參與者** 」角色或更高的許可權，以供在步驟2中選擇的訂閱使用。
-- 全域系統管理員使用者的存取權設定為 **[是]** (查看提高 [許可權-全域-系統管理員](/azure/role-based-access-control/elevate-access-global-admin)) 。
+- 系統會將所選訂用帳戶的「 **參與者** 」角色或更高許可權指派給全域管理員使用者。
+- 全域系統管理員使用者的存取權設定為 **[是]** (查看提高 [存取權以管理所有 Azure 訂用帳戶和管理群組](/azure/role-based-access-control/elevate-access-global-admin)) 。
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>使用 PowerShell 指派 Marketplace 管理員角色
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)
@@ -129,7 +128,7 @@ Assign-MarketplaceAdminRole
 ## <a name="create-private-azure-marketplace"></a>建立私用 Azure Marketplace
 
 1. 登入 [Azure 入口網站](https://portal.azure.com/)。
-2. 選取 [ **所有服務** ]，然後選取 [ **Marketplace** ]。
+2. 選取 [ **所有服務** ]，然後選取 [ **Marketplace**]。
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure 入口網站主視窗。":::
 
@@ -151,7 +150,7 @@ Assign-MarketplaceAdminRole
 
 專案是供應專案和方案的組合。 您可以在 [管理 Marketplace] 頁面中搜尋和新增專案。
 
-1. 選取 [ **加入專案** ]。
+1. 選取 [ **加入專案**]。
 
 2. 流覽資源 **庫** ，或使用搜尋欄位來尋找您想要的專案。
 
@@ -180,7 +179,7 @@ Assign-MarketplaceAdminRole
 
 ## <a name="delete-offers"></a>刪除供應項目
 
-在 [管理 Marketplace] 頁面中，選取供應專案名稱旁邊的核取方塊 (查看上面的畫面) 然後選取 [ **刪除專案** ]。
+在 [管理 Marketplace] 頁面中，選取供應專案名稱旁邊的核取方塊 (查看上面的畫面) 然後選取 [ **刪除專案**]。
 
 ## <a name="enabledisable-private-azure-marketplace"></a>啟用/停用私人 Azure Marketplace
 
