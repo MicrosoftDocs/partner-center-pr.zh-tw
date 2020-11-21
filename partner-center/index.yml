@@ -9,13 +9,13 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 10/16/2020
-  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
-  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.date: 11/19/2020
+  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
+  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "92198044"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "94983312"
 landingContent:
 - title: 開始使用合作夥伴中心
   linkLists:
@@ -85,22 +85,6 @@ landingContent:
       url: set-up-your-payout-account.md
     - text: 了解您的帳單
       url: read-your-bill.md
-- title: 開發人員資源
-  linkLists:
-  - linkListType: reference
-    links:
-    - text: 加入合作夥伴中心 API 及 SDK 早期採用者計畫
-      url: /partner-center/develop/early-adopter-program
-    - text: 合作夥伴中心開發人員文件
-      url: /partner-center/develop
-    - text: 合作夥伴中心 REST API 參照
-      url: /partner-center/develop/partner-center-rest-api-reference
-    - text: 合作夥伴中心 .NET API 參照
-      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
-    - text: 適用於 Java 的合作夥伴中心 SDK
-      url: /java/partnercenter/overview
-    - text: 合作夥伴中心 PowerShell
-      url: /powershell/partnercenter/overview
 - title: 在商業市集 (ISV) 中銷售
   linkLists:
   - linkListType: concept
