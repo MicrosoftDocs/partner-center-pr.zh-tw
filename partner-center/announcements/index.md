@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/10/2020
-ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.date: 11/19/2020
+ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691311"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932764"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,9 @@ ms.locfileid: "94691311"
 
 | **類別** | **2020 年 11 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[全新統一的帳戶管理體驗](2020-november.md#13)|11 月 18 日|
+|供應項目/市場|[適用於中型市場促銷的 Office 365 E1 (LATAM、APAC 及印度)](2020-november.md#12)|11 月 18 日|
+|功能|[合作夥伴中心 API 更新和使用者介面 (UI) 增強功能，可在某些特定國家/地區強化客戶檢測](2020-november.md#11)|11 月 17 日|
 |功能|[合作夥伴計費貨幣的 EU/EFTA 變更 (適用於新商務供應項目)](2020-november.md#10)|11 月 17 日|
 |功能|[合作夥伴中心 API 的 API 節流](2020-november.md#9)|11 月 17 日|
 |功能|[因 MCA 要求重複而產生的 409 錯誤](2020-november.md#8)|11 月 16 日|

@@ -1,8 +1,11 @@
 - name: Microsoft 市集客戶文件
   href: index.yml
+- name: Azure Marketplace
   items:
     - name: 建立 Azure 私人市集
       href: create-manage-private-azure-marketplace.md
+    - name: Azure Marketplace 合作夥伴整合
+      href: partner-integrations.md
 - name: 參考
   items:
     - name: Azure PowerShell
