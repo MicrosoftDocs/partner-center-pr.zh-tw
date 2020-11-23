@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "89564728"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417246"
 ---
 # <a name="benefits-faq"></a>權益常見問題集
 
@@ -73,7 +73,7 @@ ms.locfileid: "89564728"
 
 ### <a name="q-can-i-activate-the-license-on-my-customers-account"></a>Q. 我可以在客戶的帳戶上啟用授權
 
-不會。 發行產品授權是為了示範之用。 您的銷售與行銷員工可以使用此軟體來展示客戶的產品，但示範產品無法安裝在客戶硬體或基礎結構上，而且必須與合作夥伴監督一起使用。
+否。 發行產品授權是為了示範之用。 您的銷售與行銷員工可以使用此軟體來展示客戶的產品，但示範產品無法安裝在客戶硬體或基礎結構上，而且必須與合作夥伴監督一起使用。
 
 ### <a name="q-im-having-trouble-assigning-users-in-azure-bulk-credit-what-should-i-do"></a>Q. 在 Azure 大量點數中指派使用者時遇到問題。 我該怎麼做
 
@@ -96,7 +96,7 @@ ms.locfileid: "89564728"
 指派訂用帳戶之後，使用者必須登入 Visual Studio 才能管理該訂用帳戶。
 
 >[!Note]
-> 在合作夥伴中心上指派給 Visual Studio 訂用帳戶的使用者，必須等到原始指派後的90天后才能移除。
+> 在原始指派的90天后，可能會將 Visual Studio 訂閱從一個訂閱者重新指派給另一個訂閱者
 
 ## <a name="technical-benefits-and-support"></a>技術權益和支援
 
