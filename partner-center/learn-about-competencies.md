@@ -1,7 +1,7 @@
 ---
 title: Microsoft 金級、銀級專長認證需求
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何透過符合專長認證需求來贏得金和銀會員資格等級，從而贏得Microsoft 精英合作夥伴的地位並吸引新客戶。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92100718"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691328"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>獲得 Microsoft 專長認證，讓您的企業脫穎而出
 
@@ -24,9 +24,9 @@ ms.locfileid: "92100718"
 
 證明您在一或多個特殊業務領域中提供高品質解決方案方面卓有建樹的專長。 Microsoft 專長認證是設計來讓您做好滿足客戶需求的準備，以及協助您吸引正在尋找 Microsoft 認證解決方案提供者的新客戶。 加入 Microsoft 合作夥伴菁英層，從同儕中脫穎而出。
 
-- 取得**銀級**專長認證，以證明您始終如一的能力和承諾。
+- 取得 **銀級** 專長認證，以證明您始終如一的能力和承諾。
 
-- 取得**金級**專長認證，以證明您在 Microsoft 解決方案領域中的能力一流。
+- 取得 **金級** 專長認證，以證明您在 Microsoft 解決方案領域中的能力一流。
 
 取得專長認證也可能是進一步創造優勢和機會的切入點：
 
@@ -65,6 +65,10 @@ ms.locfileid: "92100718"
 
 - 了解如何將金級專長認證與一個或多個[進階專長](advanced-specializations.md)配對，以進一步展現您的專業知識。
 
-- 深入了解專長認證所包含的特定[上市權益](mpn-learn-about-go-to-market-benefits.md)。
+- 深入了解專長認證所包含的特定[上市資源](mpn-learn-about-go-to-market-benefits.md)。
 
 - 深入了解[專長認證的發票和稅金](mpn-view-print-maps-invoice.md)。
+
+- 檢視合作夥伴中心深入解析[專長認證報表](pci-competencies-report.md)，其中會顯示您的專長認證目前的狀態。
+
+- 取得與專長認證有關的[常見問題](competencies-faq.md)解答。

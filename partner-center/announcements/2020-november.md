@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488100"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691294"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -23,6 +23,128 @@ ms.locfileid: "94488100"
 2020 公告：[4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | 11 月
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>合作夥伴計費貨幣的 EU/EFTA 變更 (適用於新商業供應項目)。  
+
+### <a name="categories"></a>類別
+- 日期 2020-11-17
+- 功能
+
+### <a name="impacted-audience"></a>影響對象  
+
+EU/EFTA 地區中透過雲端解決方案提供者計畫進行交易的合作夥伴 
+
+### <a name="summary"></a>總結 
+
+在歐盟 (EU)/歐洲自由貿易聯盟 (EFTA) 地區中，雲端解決方案提供者計畫中所有新的商業供應項目都將使用合作夥伴計費位置，而不是客戶計費位置。 這表示 Microsoft 將依據合作夥伴所在位置的貨幣 (而非其客戶所在位置的貨幣) 對合作夥伴計費。 此作業會分兩個階段完成： 
+
+- **階段 1：在 CSP 中購買新商業供應項目的新客戶**
+
+從 2021 年 1 月開始，有新客戶購買了新商業供應項目的合作夥伴，將會以合作夥伴所在位置的貨幣對這些購買計費。 有現有的客戶在 CSP 中購買了新商業供應項目的合作夥伴，在此階段將繼續以客戶計費位置的貨幣計費。 
+
+ 
+
+- **階段 2：在 2021 年 1 月前在 CSP 中購買新商業供應項目的現有客戶** 
+
+在階段 1 之後的日曆年度 2021 年期間，Microsoft 將會針對有現有客戶 (在 2021 年 1 月之前購買新的商業供應項目) 的合作夥伴，將新商業供應項目的計費從客戶所在位置的貨幣轉換為合作夥伴所在位置的貨幣。 在實作這項變更之前，合作夥伴會先收到通知。  
+
+>[注意] 這項變更只會影響合作夥伴的計費貨幣，而不會影響 CSP 中新商業供應項目的定價。 
+
+這項變更涵蓋的新商業供應項目包括：雲端解決方案提供者計畫中屬於 Azure 方案、Azure 保留、伺服器訂閱、永久軟體和 Microsoft 商業市集購買的 Azure 訂閱。
+
+### <a name="partner-benefits"></a>合作夥伴權益  
+
+- 這項更新可降低 EU/EFTA 地區的多幣別發票所產生的複雜性和額外負荷，以提供新的商業體驗。  
+
+- 合作夥伴將收到採用單一貨幣的合併發票，而不會再收到個別客戶所在地貨幣的發票。 
+
+- 獎勵給付將採用與合作夥伴的發票貨幣相同的貨幣。
+
+- 合作夥伴會發現多幣別發票所導致的計費複雜性不復存在，而能夠省下現行與對帳有關的時間和資源。 
+
+- 對於尚未採用新商業供應項目的合作夥伴，這項變更與先前的合作夥伴計費模型保持一致，讓合作夥伴能更輕鬆地轉換至 CSP 的新商業體驗。 
+
+### <a name="resources"></a>資源 
+
+請在 Microsoft 合作夥伴網站上的 [作業資源庫] (https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ ) 中參閱本主題的相關資訊。  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>合作夥伴呼叫合作夥伴中心 API 的 API 節流
+
+### <a name="categories"></a>類別
+
+- 日期 2020-11-17
+- 功能
+
+### <a name="summary"></a>摘要
+
+Microsoft 即將為呼叫合作夥伴中心 API 的合作夥伴導入 API 節流，以在給定的時間範圍內提供更一致的效能。
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者計畫進行交易的合作夥伴
+
+### <a name="details"></a>詳細資料
+
+Microsoft 即將在 2021 年第 1 季實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥伴在一段時間範圍內能獲得更一致的效能。 節流會限制在特定時間範圍內對服務的要求數目，以避免過度使用資源。 超過節流閾值時，合作夥伴中心將會在一段時間內限制來自該用戶端的任何後續要求。  
+
+### <a name="partner-benefits"></a>合作夥伴權益 
+
+合作夥伴中心依設計可處理大量要求，但若有幾個合作夥伴提出了極大量的要求，節流將有助於為所有合作夥伴維持理想的效能和可靠性。 這樣可以盡可能縮短停機時間。 藉由減少大量要求，我們得以確保所有合作夥伴都享有一致的效能。 
+
+
+### <a name="apis-to-be-throttled"></a>要節流的 API
+
+|**運算**|**合作夥伴中心文件**|
+|-------------------------|----------------------------------|
+|{baseURL}/v1/customers/{customer_id}/subscriptions|[取得客戶的所有訂用帳戶](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[依照識別碼取得訂用帳戶](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/customers/{customer_id}/orders||[取得客戶的所有訂單](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[依識別碼取得供應項目](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[取得訂用帳戶的佈建狀態](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[管理訂單和管理訂用帳戶](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[取得訂用帳戶的附加元件清單](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[取得訂用帳戶的 Azure 權利清單](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[取得訂用帳戶的註冊狀態](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[取得客戶的所有轉移](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[取得產品升級狀態](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[取得試用版轉換方案的清單](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+此公告旨在讓合作夥伴及早了解即將進行的變更，進而做好準備。 我們強烈建議合作夥伴熟悉這些 API，並考慮使用活動記錄 API 以提高效率並避免節流。 如需這項功能的詳細資訊，請參閱 [API 節流指導方針](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)中的詳細資訊。 
+
+### <a name="next-steps"></a>後續步驟
+
+請參閱 [API 節流指導方針](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)，並執行必要的步驟。 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>因 MCA 要求重複而產生的 409 錯誤
+
+### <a name="categories"></a>類別
+
+- 日期 2020-11-16
+- 功能
+
+### <a name="context"></a>Context
+
+- 今年二月，我們要求合作夥伴簽署了 Microsoft 客戶合約 (MCuA)。 這是從 Microsoft Cloud 合約 (MCA) 進行的移轉。 
+- 在此變更中，我們要求合作夥伴依照[這裡](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)的說明納入合約類型參數。
+
+### <a name="what-happened-next"></a>後續情形：
+
+- 並非所有的合作夥伴都已在其實作中納入參數要求。 Microsoft 將 MCA 退回給這類合作夥伴。
+- 其後，合作夥伴會將簽署要求重新傳送給客戶，然後將 MCA 重新傳送給 Microsoft。 
+- 重複的要求會影響 Microsoft 為合作夥伴提供服務的能力。
+- 2020 年 9 月，我們透過 Yammer 在多個論壇向合作夥伴傳送了通知，要求合作夥伴修正參數。 Microsoft 無法再接受重複的要求，這類要求將會引發 409 錯誤。
+
+>[注意] 這不是合作夥伴的新合約/API 變更。
+
+- 在 10 月，我們與提出最多重複要求的合作夥伴展開密切合作，以修正問題。
+- 目前，我們會提醒合作夥伴，並且對前 10 大違規者傳送個人電子郵件，要求他們檢閱自己的要求並與我們聯繫，以便協助他們測試並解決問題。
+- 我們已在 2020 年 11 月 10 日停止接受重複要求，且未更正參數的合作夥伴將會收到 409 錯誤。
+- 從那時起，我們撤回了不接受重複要求的變更。 
+- 但自 2021 年 1 月 14 日起，我們將再恢復為不再接受重複要求。 這可讓合作夥伴有更多時間進行其調整。 我們已收到某個合作夥伴提供的通知，他們計畫在11/16 部署更新，屆時我們將與他們密切合作。
+- 我們要求合作夥伴與我們聯繫，以將其租用戶新增至具有變更的正式發行前小眾測試版，而協助他們進行測試，並確定其解決方案更新可正常運作。
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>可用的測試：教育版客戶驗證程序的合作夥伴中心 API 更新和使用者介面 (UI) 增強功能

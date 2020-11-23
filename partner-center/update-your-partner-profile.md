@@ -1,20 +1,20 @@
 ---
 title: 確認您的合作夥伴設定檔
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: 瞭解如何確認您的公司詳細資料，像是主要連絡人、地址、計畫資訊。 您也可以更新您的法定和帳單地址。
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "89490636"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94625992"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>在合作夥伴中心確認您的合作夥伴設定檔資訊
 
@@ -29,7 +29,7 @@ ms.locfileid: "89490636"
 
 1. 移至 [設定]，然後選取 [合作夥伴設定檔]。
 
-2. 複查您的**法定公司設定檔**、**主要連絡人資訊**以及您的**計畫資訊**。
+2. 複查您的 **法定公司設定檔**、**主要連絡人資訊** 以及您的 **計畫資訊**。
 
 如果您已經將其他公司合併在您的法定公司下，您也可以在此頁面上複查其資訊。
 
@@ -69,9 +69,17 @@ ms.locfileid: "89490636"
 
 ## <a name="update-your-billing-address"></a>更新帳單地址
 
-如果您是全域管理員、帳單管理員或系統管理代理人，您可以在 [帳單設定檔] 中變更出現在發票上的地址。 不過，因為發票系統的限制，您無法變更發票上的公司名稱。
+如果您是全域系統管理員、帳單系統管理員或系統管理代理人，您可以更新：
 
- 
+- 在您的 **帳單設定檔** 中顯示於發票上的地址
+- 您的 PO 編號
+
+您無法變更：
+ 
+- 公司名稱
+- 國家/地區
+- 帳單日期
+ 
 ## <a name="next-steps"></a>接下來的步驟
 
 - [管理位置](manage-locations.md)
