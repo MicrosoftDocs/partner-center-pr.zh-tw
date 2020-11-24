@@ -1,7 +1,7 @@
 ---
 title: 尋找您的權益
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 瞭解如何在合作夥伴中心儀表板中找到您的 MPN 權益。 包含有關如何尋找您的存取識別碼和合約識別碼以獲得技術權益的資訊。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175327"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812832"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>找出您的 Microsoft 合作夥伴網路權益 
 
@@ -74,7 +74,7 @@ ms.locfileid: "92175327"
 
    您應該會看到指派給此權益的特定產品支援 **合約識別碼** 和 **存取識別碼** 。  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="擴充的優點":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="範例黃金核心專長認證支援技術權益，顯示合約識別碼和存取識別碼等 Microsoft 產品支援識別碼":::
 
    > [!NOTE]
    > 追蹤這些支援識別碼。 某些系統可能會在您第一次 (或貴公司的其中一位使用者時要求他們，) 記錄與特定技術權益相關聯的支援要求。 您所有公司的使用者都可能使用相同的存取識別碼和合約識別碼。
@@ -83,7 +83,7 @@ ms.locfileid: "92175327"
 
 若要瞭解 Microsoft 行動套件、銀級及/或金級專長認證有哪些好處，請參閱下列資源：
 
-- [Microsoft 行動套件合作夥伴的授權資料表](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Microsoft 行動套件合作夥伴的授權資料表](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [專長認證合作夥伴的授權資料表](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 

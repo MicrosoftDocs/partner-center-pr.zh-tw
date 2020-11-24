@@ -1,19 +1,19 @@
 ---
 title: 專長認證-常見問題
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: 關於獲得 Microsoft 合作夥伴網路金級和銀級專長認證、權益到期、更新及啟用 Azure、雲端、Visual Studio 和技術及支援權益等相關問題的解答
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755217"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812826"
 ---
 # <a name="competencies---frequently-asked-questions"></a>專長認證-常見問題
 
@@ -54,7 +54,7 @@ ms.locfileid: "92755217"
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-1. 從合作夥伴中心] 功能表中選取 [ **深入** 解析]，然後選取 [ **組織技巧** ]。 較小的功能表隨即出現。
+1. 從合作夥伴中心] 功能表中選取 [ **深入** 解析]，然後選取 [ **組織技巧**]。 較小的功能表隨即出現。
 
 1. 從功能表選取 [ **定型** ] 或 [ **Microsoft Learn** ]。
 
@@ -79,7 +79,7 @@ ms.locfileid: "92755217"
 
 - [下載](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) 授權資料表以取得專長認證合作夥伴。
 
-- [下載](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) Microsoft 行動套件訂用帳戶夥伴的授權表格。
+- [下載](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) Microsoft 行動套件訂用帳戶夥伴的授權表格。
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>Q. 如何? 將 Microsoft 認證設定檔識別碼 (MCP 識別碼或 MCID) 連結至我的 Microsoft 合作夥伴中心帳戶嗎？
 
