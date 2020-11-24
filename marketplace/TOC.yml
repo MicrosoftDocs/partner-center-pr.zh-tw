@@ -1,11 +1,35 @@
 - name: Microsoft 市集客戶文件
   href: index.yml
+- name: Microsoft AppSource
+  items:
+    - name: 關於 Microsoft AppSource
+      href: appsource-overview.md
+    - name: 在 AppSource 上購買軟體
+      href: purchase-software-appsource.md
 - name: Azure Marketplace
   items:
-    - name: 建立 Azure 私人市集
+    - name: 關於 Azure Marketplace
+      href: azure-marketplace-overview.md
+    - name: 購買
+      href: azure-purchasing-invoicing.md
+    - name: 計費與發票開立
+      href: billing-invoicing.md
+    - name: 私人供應項目
+      href: private-offers.md
+    - name: 訂用帳戶轉移資格
+      href: transfer-eligibility.md
+    - name: 建立和管理私人 Azure Marketplace
       href: create-manage-private-azure-marketplace.md
     - name: Azure Marketplace 合作夥伴整合
       href: partner-integrations.md
+- name: 一般資源
+  items:
+    - name: 退款原則
+      href: refund-policies.md
+    - name: 法律合約
+      href: legal-contracts.md
+    - name: 取得支援
+      href: get-support.md
 - name: 參考
   items:
     - name: Azure PowerShell

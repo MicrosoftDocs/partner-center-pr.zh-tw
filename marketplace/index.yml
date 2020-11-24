@@ -6,21 +6,51 @@ metadata:
   description: 了解如何在我們的線上商店尋找及購買 Microsoft 合作夥伴提供的解決方案、應用程式和服務。
   ms.service: marketplace
   ms.topic: landing-page
-  author: dsindona
-  ms.author: dsindona
+  author: JasonWHowell
+  ms.author: jasonh
   ms.date: 11/17/2020
-  ms.openlocfilehash: ef9904ec327b26285e04aa4acc4ae11bf1def7b6
-  ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
+  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
   ms.translationtype: HT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 11/18/2020
-  ms.locfileid: "94845249"
+  ms.lasthandoff: 11/21/2020
+  ms.locfileid: "95006917"
 landingContent:
+- title: Microsoft AppSource
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: 什麼是 Microsoft AppSource？
+      url: appsource-overview.md
+  - linkListType: get-started
+    links:
+    - text: 在 Microsoft AppSource 上購買軟體
+      url: purchase-software-appsource.md
 - title: Azure Marketplace
   linkLists:
-  - linkListType: get-started
+  - linkListType: overview
+    links:
+    - text: 什麼是 Azure Marketplace？
+      url: azure-marketplace-overview.md
+  - linkListType: concept
+    links:
+    - text: 計費與發票開立
+      url: billing-invoicing.md
+    - text: 訂用帳戶轉移資格
+      url: transfer-eligibility.md
+    - text: Azure Marketplace 合作夥伴整合
+      url: partner-integrations.md
+  - linkListType: how-to-guide
     links:
     - text: 建立和管理私人 Azure Marketplace (預覽)
       url: create-manage-private-azure-marketplace.md
-    - text: Azure Marketplace 合作夥伴整合
-      url: partner-integrations.md
+- title: 常見的案例
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: 退款原則
+      url: refund-policies.md
+    - text: 法律合約
+      url: legal-contracts.md
+    - text: 取得支援
+      url: get-support.md
