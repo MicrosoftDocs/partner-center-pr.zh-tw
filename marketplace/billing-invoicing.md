@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007155"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514770"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketplace 計費和發票開立
 
@@ -57,11 +57,11 @@ Azure Marketplace 供應專案的定價和計費方式為以下17個貨幣：
 - 如果您的付款條件是信用卡，您將會在購買保留之後立即獲得發票。 此發票將與您的每月發票不同。
 - 如果您的付款條件是支票/電匯，此購買將會包含在您的每月 Marketplace 發票上。
 
-系統會針對 Microsoft 線上服務方案 (MOSP)、Microsoft 客戶合約 (MCA) 和 Microsoft 合作夥伴合約 (MPA) 計費帳戶來建立發票。 發票會根據您的計費帳戶類型產生。 Azure Marketplace 在 [計費期間](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice)結束後的幾天向您收取費用。 Azure Marketplace、保留和點 Vm 的發票會在 [該月的第九天](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)產生。 它會顯示上個月的個別費用。 例如，如果使用者在3月1日和另一個保留的3月30日購買保留，則四月的單一發票會包含這兩個保留。
+系統會針對 Microsoft 線上服務方案 (MOSP)、Microsoft 客戶合約 (MCA) 和 Microsoft 合作夥伴合約 (MPA) 計費帳戶來建立發票。 發票會根據您的計費帳戶類型產生。 Azure Marketplace 在計費期間結束後的幾天向您收取費用。 Azure Marketplace、保留和點 Vm 的發票會在 [該月的第九天](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)產生。 它會顯示上個月的個別費用。 例如，如果使用者在3月1日和另一個保留的3月30日購買保留，則四月的單一發票會包含這兩個保留。
 
 如需發票的詳細資訊，請參閱 [瞭解您的 Azure 外部服務費用](/azure/cost-management-billing/understand/understand-azure-marketplace-charges)。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [什麼是 Azure Marketplace？](azure-marketplace-overview.md)
 - [Azure Marketplace 購買](azure-purchasing-invoicing.md)

@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488123"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514753"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>設定支出帳戶和稅賦形式
 
@@ -34,7 +34,7 @@ ms.locfileid: "94488123"
 
 ### <a name="fill-out-your-tax-forms"></a>填妥稅務表單
 
-首先必須建立稅務設定檔，並指派給您參與的計畫。 完成下列步驟，即可建立商業市集的 *稅務設定檔* ：
+首先必須建立稅務設定檔，並指派給您參與的計畫。 完成下列步驟，即可建立商業市集的 *稅務設定檔*：
 
 - 指定您所居住並具有公民身分的國家/地區。
 - 填妥適用的稅務表單。
@@ -44,7 +44,7 @@ ms.locfileid: "94488123"
 > [!IMPORTANT]
 > 不同的國家和地區有不同的稅務規定。 必須支付的確切稅額，取決於您銷售供應項目的國家和地區。 請參閱 [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560)，找出 Microsoft 代表您匯付營業稅及使用稅的國家/地區。 在其他國家/地區，可能需要直接向當地的稅務機關繳交您供應項目銷售額的營業稅和使用稅。 此外，您收到的應用程式銷售收益，可能會視為收入而予以課稅。 強烈建議洽詢您所在國家或地區的相關主管機關，主管機關最能協助您判斷您商業市集活動的正確稅務資訊。
 
-1. 在 [合作夥伴中心](https://partner.microsoft.com/dashboard)，選取右上角的 [帳戶設定] 圖示，然後選取 [開發人員設定]。
+1. 在 [合作夥伴中心](https://partner.microsoft.com/dashboard)中，選取右上角的 **設定** 齒輪圖示，然後選取 [ **帳戶設定**]。
 
 2. 在左側導覽功能表中，選取 [支付與稅務]，然後選取 [支付與稅務指派]。
 
@@ -81,7 +81,7 @@ ms.locfileid: "94488123"
 
 ### <a name="create-a-payment-profile"></a>建立付款設定檔
 
-1. 在 [合作夥伴中心](https://partner.microsoft.com/dashboard)中，選取右上角的 **設定** 齒輪圖示，然後選取 [ **帳戶設定** ]。
+1. 在 [合作夥伴中心](https://partner.microsoft.com/dashboard)中，選取右上角的 **設定** 齒輪圖示，然後選取 [ **帳戶設定**]。
 2. 在 [支付與稅務] 標題底下，選取 [支付與稅務設定檔指派]。
 
     > [!NOTE]
@@ -124,7 +124,7 @@ ms.locfileid: "94488123"
 
 如果您需要進行變更，或需要更正任何不正確的資訊，可編輯現有的付款設定檔。
 
-1. 在 [合作夥伴中心](https://partner.microsoft.com/dashboard)，選取右上角的 [設定] 齒輪圖示，然後選取 [開發人員設定]。
+1. 在 [合作夥伴中心](https://partner.microsoft.com/dashboard)中，選取右上角的 **設定** 齒輪圖示，然後選取 [  **帳戶設定**]。
 
 2. 在 [支付與稅務] 標題底下，選取 [支付與稅務設定檔]。
 
