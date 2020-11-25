@@ -9,14 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cb7b4ffdb4edf75e3e121e4ddea6b9de191ddbbf
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000412"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038842"
 ---
-# <a name="discover-offers-and-pricing-in-the-partner-center-commercial-marketplace"></a>探索合作夥伴中心商用 marketplace 中的優惠和定價
+# <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>探索合作夥伴中心商用 marketplace 中的優惠和定價
 
 **適用於**
 
@@ -32,7 +32,7 @@ ms.locfileid: "91000412"
 
 如果 ISV 供應專案未如預期般出現在合作夥伴中心中，可能是因為：
 
-- ISV 決定不透過 CSP 方案銷售供應專案。 例如，某些 ISV 產品可能已在商用 marketplace 的其他區域中提供 (例如 [Microsoft AppSource](https://appsource.microsoft.com/) 和 [Azure Marketplace](https://azuremarketplace.microsoft.com/)) ，但可能不會出現在合作夥伴中心 marketplace 中的 csp。
+- ISV 決定不透過 CSP 方案銷售供應專案。 例如，某些 ISV 產品可能已在商用 marketplace 的其他區域中提供 (例如 [Microsoft AppSource](https://appsource.microsoft.com/) 和 [Azure Marketplace](https://azuremarketplace.microsoft.com/)) ，但可能不會針對合作夥伴中心 marketplace 中的 CSP 方案中的合作夥伴所顯示。
 
 - ISV 決定將供應專案僅提供給一系列精選的 CSP 合作夥伴。 如需專屬優惠的詳細資訊，請參閱本說明主題稍後的。
 
@@ -42,7 +42,7 @@ ms.locfileid: "91000412"
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>在合作夥伴中心中查看 Marketplace 供應專案
 
-若要在 CSP 方案中查看可用的商業 marketplace 供應專案： 
+若要在 CSP 方案中查看可用的商業 marketplace 供應專案：
 
 1. 登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)，然後從左側導覽功能表中選取 [ **CSP** ]。
 
@@ -78,9 +78,9 @@ CSP 方案合作夥伴也可以使用 Api 來傳回合格供應專案的清單�
 
 1. 登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)，然後從左側導覽功能表中選取 [ **CSP** ]。
 
-2. 選取 [ **銷售**]，然後選取 [ **定價和**供應專案]。
+2. 選取 [ **銷售**]，然後選取 [ **定價和** 供應專案]。
 
-3. 向下滾動至 **marketplace** 區段，選取位置並下載 **Marketplace 定價**。 這會產生一份試算表，其中包含 SaaS 的最新定價資料、ISV 發行者提供的授權型供應專案。 某些 Azure 應用程式定價可能也會出現在這裡。 這項資訊會每日更新，因此您可以在選擇的時候，檢查其是否有最新的價格。
+3. 向下滾動至 **marketplace** 區段，選取位置並下載 **Marketplace 定價**。 這會產生一份試算表，其中包含適用于 SaaS 的最新定價資料、授權型供應專案，以及 ISV 發行者所提供的計量付費供應專案。 某些 Azure 應用程式定價可能也會出現在這裡。 這項資訊會每日更新，因此您可以在選擇的時候，檢查其是否有最新的價格。
 
 4. 如果 ISV 產品包含免費的試用期間，試算表會顯示該產品的兩個數據列：
 
@@ -92,7 +92,7 @@ CSP 方案合作夥伴也可以使用 Api 來傳回合格供應專案的清單�
 
 ## <a name="learn-about-marketplace-exclusive-offers"></a>瞭解 marketplace 專屬優惠
 
-Isv 可以選擇讓其供應專案僅適用于 CSP 方案中的特定合作夥伴。 這就是所謂的專屬供應專案。 CSP 方案中的所有合作夥伴仍然可以在合作夥伴中心商用 marketplace 中查看所有 ISV 供應專案，包括標示為專屬的優惠。
+Isv 可以選擇讓其供應專案僅適用于 CSP 方案中的特定合作夥伴。 這就是所謂的專屬供應專案。 CSP 方案中的所有合作夥伴仍然可以在合作夥伴中心商用 marketplace 中查看所有 ISV 供應專案，包括標示為專屬的供應專案。
 
 如果供應專案 **未** 標示為專屬，則所有合作夥伴都可以購買該供應專案 (假設所選客戶的計費國家/地區符合 ISV 供應專案的國家/地區可用性) 。
 
@@ -105,6 +105,6 @@ Isv 可以選擇讓其供應專案僅適用于 CSP 方案中的特定合作夥�
 
 如需 marketplace 中 CSP 體驗的詳細資訊，請參閱 [商業 marketplace 總覽](csp-commercial-marketplace-overview.md)。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [購買商用 marketplace 優惠](csp-commercial-marketplace-purchase.md)

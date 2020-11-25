@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66fc51901e6c6e72698eaf4a669627b228ee63ba
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
+ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000402"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "96038824"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作夥伴中心的商業市場概觀
 
@@ -68,7 +68,7 @@ ms.locfileid: "91000402"
 
 若要瞭解如何完成以授權為基礎或以使用量為基礎的 ISV 供應專案的特定 marketplace 活動，請參閱下表。
 
-|**Isv 提供的授權型 SaaS 供應專案**  |**使用**  |
+|**Isv 提供的授權型或計量付費 SaaS 供應專案**  |**使用**  |
 |:------------------------------------|:------------------|
 |探索或搜尋可用的優惠  | 合作夥伴中心儀表板或合作夥伴中心 Api  |
 |購買供應專案  | 合作夥伴中心儀表板或合作夥伴中心 Api  |
