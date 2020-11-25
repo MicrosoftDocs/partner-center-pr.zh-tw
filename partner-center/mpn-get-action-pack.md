@@ -1,7 +1,7 @@
 ---
 title: 購買或續約 Microsoft 行動套件供應項目
 ms.topic: article
-ms.date: 05/18/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何購買 Microsoft 行動套件訂用帳戶，並開始使用行動套件的權益。 同時了解如何更新、取消、檢視您的帳單等等。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73827cdbf49535d9594fa4951d2abd56bf00a96a
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "87998381"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812858"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>購買或續約 Microsoft 行動套件優惠，或者銀級或金級專長認證
 
@@ -52,25 +52,25 @@ ms.locfileid: "87998381"
 ### <a name="check-your-renewal-eligibility"></a>檢查您的續約資格
 
 >[!IMPORTANT]
->如果您在合作夥伴中心中受邀續約訂閱，請注意，我們已經變更我們的續約時間範圍原則，您只能在訂閱到期後續約。 例如，如果您的訂閱在 6 月 22 日到期，您可以從 6 月 23 日起的 30 天內續約。       
->您可以在您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面上 (需要登入)，找到您的訂閱到期日。 當您符合在合作夥伴中心中續約的資格，請依照下列步驟進行。  
+>如果您在合作夥伴中心中受邀續約訂閱，請注意，我們已經變更我們的續約時間範圍原則，您只能在訂閱到期後續約。 例如，如果您的訂閱在 6 月 22 日到期，您可以從 6 月 23 日起的 30 天內續約。
+>您可以在您的 [**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面上 (需要登入)，找到您的訂閱到期日。 當您符合在合作夥伴中心中續約的資格，請依照下列步驟進行。  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>若要在合作夥伴中心中續約 Microsoft 行動套件訂閱
 
-1. 移至您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面。 找到 [Microsoft 行動套件訂閱] 磚。  
+1. 移至您的 [**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面。 找到 [Microsoft 行動套件訂閱] 磚。  
 
 2. 選取 [續約訂閱]，然後選取您的付款方式。 您可以使用信用卡或電子銀行轉帳來付費。
 
     >[!NOTE]
     >如果 [續約訂閱] 未顯示出來或呈現灰色，表示您尚未符合續約行動套件訂閱的資格。 我們已經變更我們的續約時間範圍原則，您只能在訂閱到期後續約。 例如，如果您的訂閱在 6 月 22 日到期，您可以從 6 月 23 日起的 30 天內續約。  
 
-3. 如果以信用卡付款，請依照下列指示加入您的信用卡資訊。 如果以電子銀行轉帳付款，請提供連絡人姓名、電話號碼以及電子郵件地址，然後選取 [提交]。 
-     
+3. 如果以信用卡付款，請依照下列指示加入您的信用卡資訊。 如果以電子銀行轉帳付款，請提供連絡人姓名、電話號碼以及電子郵件地址，然後選取 [提交]。
+
 4. 檢閱您的訂單詳細資料，然後當您準備好購買行動套件時，選取 [購買]。 我們會立即向您的信用卡收費。
 
 5. 您的訂單已確認。 選取 [關閉]。
 
-您的行動套件訂閱將會在每年的這一天自動續約。 您可以隨時從 [已購買] 優惠清單關閉自動續約。不過，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 
+您的行動套件訂閱將會在每年的這一天自動續約。
 
 ### <a name="update-your-bill-to-address"></a>更新您的帳單地址
 
@@ -80,21 +80,11 @@ ms.locfileid: "87998381"
   
  1. 在 [合作夥伴基本資料] 頁面上，更新您的地址。
 
-## <a name="turn-off-automatic-action-pack-subscription-renewal"></a>關閉自動行動套件訂閱續約
-
-1. 移至您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面。  選取 [Microsoft 行動套件訂閱] 檢視您的訂閱詳細資料。 
-
-2. 選取 [關閉自動續約] (如果您不想要您的行動套件訂閱每年自動續約)。 
-
-    >[!NOTE]
-    >如果您關閉自動訂閱續約，再次續約訂閱之前，您將無法重新開啟自動訂閱續約。 我們將會在您的訂閱到期之前提醒您續約。
-
-
 ## <a name="cancel-your-action-pack-subscription"></a>取消您的行動套件訂閱
 
 若要取消您的 Microsoft 行動套件訂閱，您可能需要連絡合作夥伴中心支援。
 
-1. 移至您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面。 選取 [Microsoft 行動套件訂閱] 檢視您的訂閱詳細資料。 
+1. 移至您的 [**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面。 選取 [Microsoft 行動套件訂閱] 檢視您的訂閱詳細資料。 
 
 3. 選取 [取消訂閱]。 依照指示來建立支援要求。 
 
@@ -110,7 +100,7 @@ ms.locfileid: "87998381"
 
 ## <a name="download-your-action-pack-invoice"></a>下載行動套件發票
 
-1. 移至您的[**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面。 選取 [Microsoft 行動套件訂閱] 檢視您的訂閱詳細資料。 
+1. 移至您的 [**會員優惠**](https://partnercenter.microsoft.com/pcv/partnership/offers)頁面。 選取 [Microsoft 行動套件訂閱] 檢視您的訂閱詳細資料。 
 
 3. 按一下 [下載發票]。
  

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: 1020adc0b2410435b31726fcc8a44342064bc4e8
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
+ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031551"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94878795"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -46,7 +46,7 @@ Microsoft 365 系統管理中心增強了所購買軟體的安全傳遞，並可
 
 ### <a name="next-steps"></a>後續步驟
 
-- 請檢閱[概觀](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般工作](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide)和[授權金鑰履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)，深入了解 Microsoft 365 系統管理中心軟體。
+- 請檢閱[概觀](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)、[一般工作](/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)和[授權金鑰履行功能](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)，深入了解 Microsoft 365 系統管理中心軟體。
 
 - 請與組織中的相關團隊分享此更新。
 
@@ -226,7 +226,7 @@ ________________
 
 ### <a name="details"></a>詳細資料
 
-日期為 2020 年 7 月 31 日的俄羅斯聯邦法律 #265-FZ 修改了俄文稅賦代碼的第 149 條款第 2 節的第 26 小節。 依據變更，俄羅斯自 2021 年 1 月 1 日起，針對**不包含**於**俄文**軟體和電子資料庫的軟體和資料庫授與獨家 IP 權利，以及針對這類軟體和資料庫授與使用權利 (包括更新和升級)，以及透過網際網路授與其遠端存取權，**將不再是免加值稅**。 
+日期為 2020 年 7 月 31 日的俄羅斯聯邦法律 #265-FZ 修改了俄文稅賦代碼的第 149 條款第 2 節的第 26 小節。 依據變更，俄羅斯自 2021 年 1 月 1 日起，針對 **不包含** 於 **俄文** 軟體和電子資料庫的軟體和資料庫授與獨家 IP 權利，以及針對這類軟體和資料庫授與使用權利 (包括更新和升級)，以及透過網際網路授與其遠端存取權，**將不再是免加值稅**。 
 
 **請注意，在上述變更之後，MIOL 會將採用適用法規所定義費率的加值稅新增至俄羅斯的所有非有形 Microsoft 產品。**
 
@@ -291,7 +291,7 @@ ________________
 
 ### <a name="summary"></a>摘要
 
-自 2020 年 9 月 22 日起，合作夥伴可以開始下載 .NET Standard SDK Microsoft 合作夥伴中心 .NET SDK v1.16.2，以及更新的公用**合作夥伴中心 SDK GitHub 範例**。
+自 2020 年 9 月 22 日起，合作夥伴可以開始下載 .NET Standard SDK Microsoft 合作夥伴中心 .NET SDK v1.16.2，以及更新的公用 **合作夥伴中心 SDK GitHub 範例**。
 
 ### <a name="details"></a>詳細資料
 
@@ -337,7 +337,7 @@ Azure SQL Edge 可將最安全的 Microsoft SQL 資料引擎帶入物聯網 (IoT
 ### <a name="details"></a>詳細資料
 
 我們在今天宣佈推出 Azure SQL Edge，這是針對 IoT 工作負載最佳化的即時資料引擎。 以驅動 SQL Server 和 Azure SQL 的相同引擎所建置，此容器化解決方案提供相同的領先業界安全性、熟悉的開發人員體驗，以及許多小組已經知曉並且信任的工具。
-Azure SQL Edge 可供雲端解決方案提供者 (CSP) 在 **9 月 24 日星期四**購買。
+Azure SQL Edge 可供雲端解決方案提供者 (CSP) 在 **9 月 24 日星期四** 購買。
 
 [Azure SQL Edge](https://aka.ms/sqledge) 是一個小型的容器，可讓您進行資料串流、儲存和分析，以取得即時深入解析。 在連線、中斷連線或混合式環境中的邊緣伺服器、閘道和裝置上部署。
 
@@ -504,7 +504,7 @@ ________________
 
 - Microsoft 365 E5 和 Office 365 E5 將能夠使用適用於 Microsoft Search 的 Microsoft Graph 連接器 (A5 中未包含)，為多達 500 個項目編制索引。  
 - 任何具有套件或獨立授權 (包含 SharePoint 或 OneDrive 方案) 的使用者，都可以從適用於 Microsoft Search 的 Microsoft Graph 連接器查看搜尋結果。 
-- 將有新的**額外 Graph 連接器容量 SKU** 可供您另外編制多達 100 萬個項目的索引。  
+- 將有新的 **額外 Graph 連接器容量 SKU** 可供您另外編制多達 100 萬個項目的索引。  
 
 #### <a name="offer-details"></a>供應項目詳細資料
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031801"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947676"
 ---
 # <a name="august-2020-announcements"></a>2020 年 8 月公告
 
@@ -89,7 +89,7 @@ ________________
 
 ### <a name="summary"></a>摘要
 
-自 2020 年 7 月 21 日起，合作夥伴可以開始下載 **.NET Standard SDK Microsoft 合作夥伴中心** .NET SDK v1.16.1，以及更新的公用**合作夥伴中心 SDK GitHub 範例**。
+自 2020 年 7 月 21 日起，合作夥伴可以開始下載 **.NET Standard SDK Microsoft 合作夥伴中心** .NET SDK v1.16.1，以及更新的公用 **合作夥伴中心 SDK GitHub 範例**。
 
 ### <a name="details"></a>詳細資料
 
@@ -167,8 +167,6 @@ ________________
 
 推出時的釋出內容
 - 即時事件的參與者人數限制為 20K (允許 50 個並行事件，時間為 16 小時)
-- 法規遵循記錄整合 (ISV) 
-- Contact Center 解決方案整合 (ISV) 
 
 稍後在 CY2020 中釋出的內容
 - 1,000 人互動式 Teams 會議 
