@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691294"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514736"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -23,6 +23,219 @@ ms.locfileid: "94691294"
 2020 公告：[4 月](2020-april.md) | [5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | 11 月
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>引進在合作夥伴中心透過計量帳單購買 SaaS 供應項目的功能 
+
+### <a name="categories"></a>類別
+
+- 日期：2020-11-24
+- 功能
+
+## <a name="summary"></a>摘要
+
+Microsoft 為雲端解決方案提供者計畫中的合作夥伴引進了功能，可以透過合作夥伴中心的計量帳單來購買 SaaS 供應項目。 
+
+### <a name="impacted-audience"></a>影響對象
+
+所有合作夥伴
+
+### <a name="details"></a>詳細資料
+
+Microsoft 為雲端解決方案提供者計畫 (包括間接提供者和直接帳單合作夥伴) 的合作夥伴引進了功能，可以透過合作夥伴中心的 [計量帳單](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) 購買 SaaS 供應項目。 目前，雲端解決方案提供者計畫中的合作夥伴可以 [透過 Azure 入口網站購買 SaaS 供應項目](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)，也可以檢視。 這項新體驗可讓合作夥伴透過合作夥伴中心的 CSP Marketplace 和 API 來購買這些供應項目，就像對其他 SaaS 供應項目類型所做的一樣。 
+
+### <a name="next-steps"></a>後續步驟
+
+請與貴公司所有相關連絡人分享這項資訊。
+
+
+
+
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>全新統一的帳戶管理體驗
+
+### <a name="categories"></a>類別
+
+- 日期：2020-11-18
+- 功能
+
+## <a name="summary"></a>摘要
+
+從 11 月 18 日起，合作夥伴中心將會開始推出新的帳戶管理體驗，將能改善合作夥伴的使用者體驗。 合作夥伴現在可以從 [設定] -> [帳戶設定] 中管理所有計畫的帳戶。
+
+### <a name="impacted-audience"></a>影響對象
+
+所有合作夥伴
+
+### <a name="details"></a>詳細資料
+
+帳戶管理的主要變更，就是將以下個別檢視：在商業計畫 (Microsoft 合作夥伴網路、雲端解決方案提供者、推薦等等) 中註冊的合作夥伴 **合作夥伴設定** 檢視，以及在開發人員計畫 (商業市集、Windows 和 Xbox 等等) 中註冊的合作夥伴 **開發人員設定** 檢視，通通整合成統一的 **帳戶設定** 檢視。
+
+### <a name="entry-point"></a>進入點
+
+登入 [合作夥伴中心儀表板]，然後選取 [設定] ****   圖示，接著按一下 [帳戶設定]。 您不再需要在合作夥伴與開發人員之間做選擇，因為所有設定檔和設定現在都已合併。
+
+### <a name="left-navigation-hierarchy"></a>左側瀏覽階層
+
+- 組織設定檔
+   - 法定 - 管理您的法定公司設定檔、合作夥伴設定檔和公司位置。
+   - 租用戶 - 您的 Azure AD 租用戶、商業和開發人員的所有相關資訊，都可以在這裡進行追蹤。
+   - 識別碼 - 貴公司的合作夥伴中心身分識別 - 您的 MPNID、publisherIds 等。
+- 使用者管理 - 管理您的使用者，並且從一個位置將商業和開發人員角色指派給他們。 您也可以從這裡管理群組和 Azure AD 應用程式。
+
+### <a name="next-steps"></a>後續步驟
+
+請與貴公司所有相關連絡人分享這項資訊。
+
+
+
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>適用於中型市場的 Office 365 E1 促銷 (拉丁美洲、亞太地區及印度)
+
+### <a name="categories"></a>類別
+- 日期 2020-11-18
+- 供應項目/市場
+
+### <a name="summary"></a>摘要
+我們即將推出新的適用於中型市場的 Office 365 E1 促銷，僅限拉丁美洲、印度和亞太地區的新興市場 (排除亞太地區中的已開發市場)。
+
+### <a name="impacted-audience"></a>影響對象
+上列參與市場中合作夥伴都是透過雲端解決方案提供者 (CSP) 計畫進行交易。
+
+### <a name="details"></a>詳細資料
+促銷包含適用於 CSP 的 Office 365 E1 30% 折扣。 將在 2020 年 12 月 1 日起啟動，為期 6 個月，直到 2020 年 5月 31 日為止。 這份促銷僅適用於不熟悉 MW 雲端，且最多有 500 個基座的客戶。 請注意，這僅限於拉丁美洲、印度和亞太地區的新興市場，以實現轉換至雲端的目的。 
+
+#### <a name="offer-details"></a>供應項目詳細資料
+
+   |**供應項目名稱**|**優惠識別碼**|
+   |-------------------|:------|
+   |適用於中型市場的 Office 365 E1 促銷|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>後續步驟
+這會在 12 月 1 日推出，請與您組織內 (在參與區域) 的所有適當連絡人分享此資訊。 開始與不在雲端但是在參與區域中的客戶互動。 
+
+### <a name="questions"></a>有問題嗎？
+如需提問、查詢或取得詳細資訊，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
+______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>合作夥伴中心 API 更新和使用者介面 (UI) 增強功能，可在某些特定國家/地區強化客戶檢測
+
+### <a name="categories"></a>類別
+
+- 日期 2020-11-17
+- 功能 | 加強的客戶檢測
+
+### <a name="impacted-audience"></a>影響對象
+
+參與雲端解決方案提供者 (CSP) 計畫的直接帳單合作夥伴或間接提供者，在下列國家/地區中有新的或現有的客戶：
+
+- 亞美尼亞 (AM)
+- 亞塞拜然 (AZ)
+- 白俄羅斯 (BY)
+- 匈牙利 (HU)
+- 哈薩克 (KZ)
+- 吉爾吉斯 (KG)
+- 摩爾多瓦 (MD)
+- 俄羅斯 (RU)
+- 塔吉克 (TJ)
+- 烏茲別克 (UZ)
+- 烏克蘭 (UA)
+
+### <a name="summary"></a>摘要
+
+隨著 Microsoft 對於符合商業實務規範的客戶和合作夥伴持續承諾，當合作夥伴下一次嘗試更新現有的客戶訂用帳戶或為新客戶建立新的訂用帳戶時，將會要求某些國家/地區的客戶，為這些客戶完成一些額外的資料欄位。 
+
+### <a name="details"></a>詳細資料
+
+Microsoft 的營運以信任為原則。 我們承諾針對在 CSP 計畫中從事客戶訂用帳戶交易時所需的客戶驗證，提供符合規範且安全的方法，是我們一貫努力的目標。 在這項工作中，我們引進了合作夥伴中心 API 和 UI 增強功能，會影響符合下列所有條件的合作夥伴： 
+
+- 合作夥伴具有與 Microsoft 的直接計費關係 (例如，直接帳單合作夥伴或間接提供者)；和
+
+- 合作夥伴會在下列國家/地區與新的或現有客戶進行業務：亞美尼亞 (AM)、亞塞拜然 (AZ)、白俄羅斯 (BY)、匈牙利 (HU)、哈薩克 (KZ)、吉爾吉斯 (KG)、摩爾多瓦 (MD)、俄羅斯 (RU)、塔吉克 (TJ)、烏茲別克 (UZ) 和烏克蘭 (UA) 
+
+針對在這些國家/地區具有客戶的合作夥伴，當合作夥伴下一次嘗試更新或建立該客戶的訂用帳戶時，合作夥伴需要提交特定客戶的 **法律識別碼** (也稱為客戶的 **組織 INN**) 和客戶的 **電話號碼**。 這些合作夥伴現在也可以選擇為客戶輸入選擇性的 **中間名**。
+
+### <a name="partner-center-enhancements"></a>合作夥伴中心的增強功能
+
+- 合作夥伴中心 UI 增強功能可改善特定國家/地區的客戶驗證
+
+- 新的 API，可支援特定國家/地區的客戶改善驗證
+
+**合作夥伴中心 UI 的變更 - 客戶帳戶頁面**
+
+[合作夥伴中心客戶帳戶] 頁面已更新，如下所示：
+
+1. **組織 INN** (也稱為法律識別碼)。 對於特定國家/地區的客戶，現在需要此欄位。 
+
+   > [!NOTE]
+   > 資料只能以英數字元輸入，不包含任何連字號、特殊字元或空格。 合作夥伴必須與這些國家/地區的客戶連絡人合作，以確認客戶的法律識別碼狀態，例如其稅務識別碼或 INN 號碼。 如需國家/地區特定的詳細資訊，請參閱下表。  
+
+2. **中間名。** 此欄位對所有客戶而言是選擇性的。 如果您知道客戶的中間名或縮寫，合作夥伴可以在此輸入。
+
+3. **電話號碼。** 此欄位先前是選擇性的，但是現在對於特定國家/地區的客戶是必要欄位。  
+
+國家/地區特定 **組織 INN** (法律識別碼) 欄位需求如下所示。
+
+| 國家/地區 | A14-區域 | ISO 國碼 (地區碼) | 欄位字元需求 | 以本國語言顯示的國家/地區特定欄位名稱 | 英文翻譯或註解 |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| 亞美尼亞 | CEE      | AM               | 8 或 10 位數         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/公共服務編號                     |
+| 亞塞拜然| CEE      | AZ               | 7 或 10 位數         | :::no-loc text="ИНН/VOEN/ПИК"::: | TIN/INN/PIC              |
+| 白俄羅斯 | CEE      | BY               | 9 位數         | :::no-loc text="УНП"::: | UNP (這表示稅務識別碼)                    |
+| 匈牙利 | CEE      | HU               | 10 或 11 位數         | :::no-loc text="TIN"::: | TIN (稅務識別碼)                     |
+| 哈薩克 | CEE      | KZ              | 12 位數         | :::no-loc text="БИН/ИИН"::: | BIN/IIN                     |
+| 吉爾吉斯 | CEE      | KG               | 14 位數         | :::no-loc text="ИНН"::: | UNN/公共服務編號                     |
+| 摩爾多瓦  | CEE        | MD               | 6、7、8 或 13 位數         | :::no-loc text="IDNO/IDNP"::: | 指派給法律實體的唯一狀態識別碼 (IDNO) 也是如此構成，作為會計代碼。 \"有關在摩爾多瓦由資訊和通信技術部所發佈針對開放資料 data.gov.md 的政府入口網站中註冊公司的國家法律登記單位。\"                    |
+| 俄羅斯 | CEE      | RU               | 9、10 或 12 位數         | :::no-loc text="ИНН"::: | INN                     |
+| 塔吉克 | CEE      | TJ               | 9、10 或 12 位數     | :::no-loc text="ИНН/ЕИН/КПП"::: | INN/EIN/KPP                     |
+| 烏茲別克 | CEE     | UZ               | 9 位數                 | :::no-loc text="INN":::         | INN                               |
+| 烏克蘭   | CEE      | UA               | 8、10 或 12 位數      | :::no-loc text="EGRPOU/EDRPOU":::        | 法律實體的識別代碼                             | 
+
+**合作夥伴 API 的變更**
+
+合作夥伴中心 API 會進行下列合約變更。 這些變更僅限於在先前所述國家/地區管理客戶帳戶的合作夥伴。
+
+> [!NOTE]
+> 如果您是使用合作夥伴中心 JSON 回應嚴格解讀的合作夥伴，則您可能會受到這些變更的影響 (如果您那裡尚未完成更新)。 JSON 不是與合作夥伴中心 API 的建議整合。
+
+| REST 資源的更新 | 相關合作夥伴中心文件 |
+|---------------------------|-----------------------|
+| 新的必要欄位：organizationRegistrationNumber | - [建立客戶](/partner-center/develop/create-a-customer#company-profile)<br/>- [建立間接轉銷商的客戶](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [客戶資源](/partner-center/develop/customer-resources#customercompanyprofile) |
+| 已更新欄位現在是必要欄位：PhoneNumber<br/>選擇性欄位：MiddleName | - [公用程式資源](/partner-center/develop/utility-resources#address) |
+| 新的 BadRequest REST 錯誤碼：600002、600049、600050、600051 | - [合作夥伴中心 REST 錯誤碼](/partner-center/develop/error-codes#error-codes) |
+
+*針對客戶提議的外部合約：*
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>合作夥伴計費貨幣的 EU/EFTA 變更 (適用於新商業供應項目)。  
 
 ### <a name="categories"></a>類別
@@ -146,8 +359,16 @@ Microsoft 即將在 2021 年第 1 季實作 API 節流，讓呼叫合作夥伴�
 - 我們要求合作夥伴與我們聯繫，以將其租用戶新增至具有變更的正式發行前小眾測試版，而協助他們進行測試，並確定其解決方案更新可正常運作。
 
 
+### <a name="next-steps-for-partners"></a>合作夥伴的後續步驟
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>可用的測試：教育版客戶驗證程序的合作夥伴中心 API 更新和使用者介面 (UI) 增強功能
+- 請檢閱這些新的合作夥伴中心 UI 和 API 變更。 當您下一次嘗試建立客戶訂用帳戶或更新其中一個國家/地區客戶的現有訂用帳戶時，請檢查客戶的帳戶資訊，以確定您已將資料新增至該客戶的兩個新的必要欄位：組織 INN (法律識別碼) 和電話號碼。 您可以透過合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)或透過合作夥伴中心 [API](/partner-center/develop/create-a-customer#company-profile) 來更新此資訊。
+
+- 請與組織中的適當小組分享這項資訊，協助他們為這些變更做好準備。
+
+
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>可用的測試：教育版客戶驗證程序的合作夥伴中心 API 和使用者介面 (UI) 增強功能
 
 ### <a name="categories"></a>類別
 

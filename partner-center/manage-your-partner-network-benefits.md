@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 321e3c7f48106d29e44941f24b9cd709662618a9
-ms.sourcegitcommit: 4a88db7e9e90b4fbb2ba82af38d7f77b016977f3
+ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "92523583"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94932834"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>在合作夥伴中心管理您的 Microsoft 合作夥伴網路會員資格權益和優惠
 
@@ -63,15 +63,34 @@ ms.locfileid: "92523583"
 
    d. 跟隨連結以下載並安裝軟體安裝套件。
 
-## <a name="manage-cloud-services-benefits"></a>管理雲端服務權益
+## <a name="azure-and-cloud-products"></a>Azure 和雲端產品
 
-1. 選取 [雲端] 以查看您的雲端式服務訂閱清單。
+[Azure 和雲端產品] 索引標籤會顯示以使用量為基礎的訂用帳戶 (Azure 點數) 和為您佈建、以授權為基礎的訂用帳戶 (例如 Office 365)、每個產品的授權數量、將權益產品佈建給您的供應項目類型、權益類型 (無論是來自核心或增量)，以及該權益的到期日。
 
-2. 尋找您要開始使用的訂閱或產品，然後選取資料列最右邊的向下箭頭，即可展開訂閱或產品的詳細資料。
+:::image type="content" source="images/benefits/azuretab.png" alt-text="Azure 和雲端產品索引標籤":::
 
-3. 若要啟用 Microsoft Azure 用量型訂閱，請將您自己指派為使用者。 移至 Microsoft Azure 入口網站以管理訂閱。
+### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>以使用量為基礎的訂用帳戶 - Microsoft Azure 點數
 
-   若要啟用授權型訂閱，請選取 [取得金鑰] 複製產品授權金鑰，然後依照任何特殊指示啟用訂閱。  
+您可以獲得兩種類型的以使用量為基礎的訂用帳戶，取決於您身為 MPN 合作夥伴所具備的使用中供應項目類型 (MAPS、銀級及/或金級) 每月點數或大量點數。
+
+您可以使用下列方式佈建：
+
+- $100/月 (或等值的當地貨幣) Azure 每月點數及/或
+- $6000、$12000 及/或 $13000/年 (或個別的等值當地貨幣) Azure 大量點數
+
+若要在合作夥伴中心啟用 Microsoft Azure 訂用帳戶，請為公司內的使用者指派存取權 (包括來賓使用者)，公司具有在您的 Azure Active Directory 中建立的使用者項目。
+針對 $ 100/月 (或等值的當地貨幣) Azure 每月點數，您可以隨時從這個訂用帳戶中新增或移除使用者。 
+
+針對 Azure 大量 (每年) 點數，合作夥伴中心無法使用移除選項，但是您可以在註冊年度期間將大量點數轉移給其他人。 Azure 大量 (每年) 點數訂用帳戶無法與其他授權、預付或點數供應項目 (亦即 Microsoft Enterprise 合約、雲端解決方案合作夥伴、Azure in Open、Azure Pass、行動套件等) 合併。
+
+## <a name="license-based-subscriptions"></a>以授權為基礎的訂用帳戶
+
+在 [Azure 和雲端產品] 索引標籤的 [以授權為基礎的訂用帳戶] 區段中，您會找到所有需要產品金鑰才能啟用的雲端產品，例如 Microsoft O365、Microsoft Dynamics、Microsoft Intune、Azure AD 基本、Power BI 等，這是根據您身為 MPN 合作夥伴的使用中供應項目類型 (MAPS、銀級或金級) 提供給您。
+
+若要啟用以授權為基礎的訂用帳戶，請按一下具有感興趣產品一行中的下拉式清單符號，並閱讀如何兌換金鑰的指示。 閱讀指示之後，請選取連結，將您重新導向至入口網站以兌換金鑰，以及為您的產品指派金鑰。
+
+>[!IMPORTANT]
+>請注意，一旦兌換金鑰，就無法再次兌換相同的金鑰，因此請確定您已清楚是否需要新增更多授權 (基座) 或延長結束日期。 如果您選擇新增更多授權而不是延長結束日期，系統會提供您少於 12 個月的使用中訂用帳戶。 請確定您已使用正確的認證登入，以便在正確的租用戶上啟用金鑰。
 
 ## <a name="manage-visual-studio-subscriptions"></a>管理 Visual Studio 訂閱
 
@@ -113,7 +132,7 @@ ms.locfileid: "92523583"
 
    **技術支援 (協助修正)。** 當功能故障時，或沒有如預期般運作時 (例如，當您收到錯誤訊息時)，請使用這種技術支援。 以下是一些指導方針：
 
-   - 僅適用於金級/銀級專長認證合作夥伴 (不適用於行動套件訂閱者)，請針對 **雲端產品** 使用 **簽章產品支援** 。
+   - 僅適用於金級/銀級專長認證合作夥伴 (不適用於行動套件訂閱者)，請針對 **雲端產品** 使用 **簽章產品支援**。
 
    - 若為行動套件和金級/銀級專長認證合作夥伴，請針對 **最近的內部部署產品** (僅限目前版本和舊版) 使用 **Microsoft 產品支援** 事件。
 
@@ -122,7 +141,7 @@ ms.locfileid: "92523583"
   
    **技術預售和部署服務。**  使用這種類型的支援來獲得關於技術銷售或部署的諮詢或建議。 您可以直接從[合作夥伴中心](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)要求這些服務。
 
-   - 針對行動套件和金級/銀級專長認證合作夥伴，請針對雲端和混合式解決方案使用 **技術預售和部署服務** 。
+   - 針對行動套件和金級/銀級專長認證合作夥伴，請針對雲端和混合式解決方案使用 **技術預售和部署服務**。
   
 ## <a name="manage-go-to-market-offers"></a>管理進入市場供應項目
 
