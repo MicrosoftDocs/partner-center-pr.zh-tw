@@ -1,17 +1,17 @@
 ---
 title: 在 Azure 入口網站中建立和管理私用 Azure Marketplace
-description: 瞭解如何在 Azure 入口網站中建立和管理私人 Azure Marketplace (preview) 。
+description: 瞭解如何在 Azure 入口網站中建立和管理私人 Azure Marketplace (preview) 。 私人 Azure Marketplace (預覽) 可讓系統管理員管理使用者可以使用的協力廠商解決方案。
 ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006934"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439259"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>在 Azure 入口網站中建立及管理私人 Azure Marketplace (預覽) 
 
@@ -31,7 +31,7 @@ ms.locfileid: "95006934"
 >[!IMPORTANT]
 > 私人 Azure Marketplace 管理的存取權僅適用于已指派 Marketplace 管理員角色的 IT 系統管理員。
 
-### <a name="prerequisites"></a>必要條件
+### <a name="prerequisites"></a>Prerequisites
 
 您必須符合這些必要條件，才能將 Marketplace 系統管理員角色指派給租使用者範圍的使用者：
 
@@ -221,6 +221,6 @@ Assign-MarketplaceAdminRole
 
     :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="供應專案橫幅指出可以建立方案，並顯示可用的方案。":::
 
-## <a name="contact-support"></a>請連絡支援人員
+## <a name="contact-support"></a>請連絡支援部門
 
 如 Azure Marketplace 支援，請造訪 [Microsoft Q&A](/answers/products/)。 
