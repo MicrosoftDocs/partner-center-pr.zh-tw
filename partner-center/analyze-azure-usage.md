@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031881"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354219"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>取得客戶和 Azure 訂用帳戶執行情況的相關資料
 
@@ -32,14 +32,14 @@ ms.locfileid: "92031881"
 
 資料推動業務決策。 使用 **\[Azure 使用狀況\]** 頁面上的計量，找出您的成功之處、您客戶的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。
 
-若要取得 **Azure 使用量**，請登入合作夥伴中心 [儀表板](https:/partner.microsoft.com/dashboard)。 從合作夥伴中心] 功能表中選取 [ **分析** ]，然後選取 [ **Azure 使用量**]。
+若要取得 **Azure 使用量**，請登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)。 從合作夥伴中心] 功能表中選取 [ **分析** ]，然後選取 [ **Azure 使用量**]。
 
 > [!NOTE]
 > Azure 使用量分析僅適用于雲端解決方案提供者計畫中的合作夥伴。
 
 我們正在追蹤下列計量︰
 
-## <a name="summary"></a>總結
+## <a name="summary"></a>摘要
 
 - **售出的 Azure 訂閱總數**：在指定的時段中售出的訂閱數  
 - **具使用量的客戶**：在指定的時段中有使用 Azure 的客戶數  
