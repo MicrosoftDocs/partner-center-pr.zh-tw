@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92006723"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474252"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>如何在合作夥伴中心新增客戶記錄
 
-**適用於**
-
-- 合作夥伴中心
-- Microsoft Cloud for US Government 適用的合作夥伴中心
-- 雲端解決方案提供者計畫合作夥伴
 
 **適當的角色**
 
@@ -31,10 +26,10 @@ ms.locfileid: "92006723"
 - 系統管理代理人
 - 銷售代理人
 
-本文說明如何在合作夥伴中心的客戶清單中新增客戶。 請先遵循下列步驟，才能銷售訂用帳戶、管理帳單或為客戶提供支援。
+本文說明如何在合作夥伴中心的客戶清單中新增客戶。 您必須執行這些步驟，才能銷售訂用帳戶、管理帳單或為客戶提供支援。
 
 >[!NOTE]
->針對現有的客戶（包括已透過 [多](multichannel.md) 通路或 [Multipartner](multipartner.md) 案例在合作夥伴中心中安裝客戶記錄的客戶），您可以 [要求與它們之間的關聯](request-a-relationship-with-a-customer.md)性，而不是遵循此處的步驟。
+>針對現有的客戶（包括已透過 [多](multichannel.md) 通路或 [Multipartner](multipartner.md) 案例在合作夥伴中心中安裝客戶記錄的客戶），您需要 [要求與它們之間的關聯](request-a-relationship-with-a-customer.md)性，而不是遵循此處的步驟。
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>在合作夥伴中心新增新的客戶
 
@@ -52,7 +47,7 @@ ms.locfileid: "92006723"
    >- 提供完整、確切的位址 (位置詳細資料、城市、州、國家/地區和郵遞區號) 
 
    >[!IMPORTANT]
-   > Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約**引進 CSP 計畫，以取代 Microsoft Cloud 合約。 閱讀 [Microsoft 客戶合約以及如何確認同意](confirm-customer-agreement.md)
+   > Microsoft 在 2019 年 10 月 1 日把 **Microsoft 客戶合約** 引進 CSP 計畫，以取代 Microsoft Cloud 合約。 閱讀 [Microsoft 客戶合約以及如何確認同意](confirm-customer-agreement.md)
   
 3. 如果您是間接提供者，請從清單中選取您想要與此客戶訂用帳戶產生關聯的間接轉銷商。
 

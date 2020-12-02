@@ -1,5 +1,5 @@
 ---
-title: 取得客戶活動記錄的深入解析
+title: 深入瞭解客戶活動記錄
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
@@ -9,20 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43ee23fe23b75946fa960f68fe41f7e490761f5c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527414"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474235"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>查看或匯出客戶活動記錄，以深入瞭解客戶交易
-
-**適用於**
-
-- 合作夥伴中心
-- Microsoft Cloud for US Government 適用的合作夥伴中心
-- 雲端解決方案提供者計畫合作夥伴
 
 **適當的角色**
 
@@ -41,11 +35,11 @@ ms.locfileid: "87527414"
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)。
 
-2. 從 [帳戶設定]**** 功能表，選取 [活動記錄]****。
+2. 從 [帳戶設定] 功能表，選取 [活動記錄]。
 
 3. 在 **\[從\]** 和 **\[到\]** 欄位中選取活動記錄期間。 活動記錄預設會匯出最近月份的記錄。
 
-   每個活動記錄都會提供所列客戶**訂閱**頁面的連結。
+   每個活動記錄檔都會提供列出之客戶訂用 **帳戶頁面的** 連結。
 
    請選取任一活動記錄的向下箭號，以檢視所記錄活動的相關詳細資料。 單一活動記錄可能會顯示大量資料，例如訂購多種產品。
 
@@ -55,8 +49,8 @@ ms.locfileid: "87527414"
    - **動作**：由客戶所採取的動作，例如「已建立轉介」；
    - **合作夥伴使用者**：與活動相關聯的合作夥伴。
 
-5. 選取 [匯出記錄]**** 以將客戶的訂閱資料複製到 .csv 檔案，然後將該檔案下載到您電腦中的預設下載資料夾。
+5. 選取 [匯出記錄] 以將客戶的訂閱資料複製到 .csv 檔案，然後將該檔案下載到您電腦中的預設下載資料夾。
 
 ## <a name="next-steps"></a>後續步驟
 
-- [分析訂用帳戶和授權，以協助推動商業決策](analyze-subscriptions-licenses.md)
+- [分析訂用帳戶和授權，以協助推動業務決策](analyze-subscriptions-licenses.md)

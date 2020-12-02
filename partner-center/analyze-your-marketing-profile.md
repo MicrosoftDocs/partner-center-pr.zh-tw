@@ -9,32 +9,24 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999642"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474031"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>分析您的商務設定檔-瞭解您吸引目標客戶和潛在推薦的程度
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**適用於**
-
-- 合作夥伴中心
-- Microsoft 合作夥伴網路合作夥伴
-- 雲端解決方案提供者計畫合作夥伴
-
 **適當的角色**
 
 - 全域系統管理員
 - MPN 合作夥伴系統管理員
-- 推薦系統管理員
 - 商務設定檔管理員
-- 系統管理代理人
-- 銷售代理人
+- 推薦管理員
 
 合作夥伴中心中的 [ **商務設定檔深入** 解析] 頁面可讓您瞭解您要如何獲得目標客戶的注意力並產生參考。
 
@@ -44,12 +36,17 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 在您張貼公司的 [商務設定檔](create-a-marketing-profile.md)之後，您將會開始看到有多少客戶找到您的設定檔的資料、按一下以深入瞭解的頻率，以及他們將 (RFIs) 資訊的要求傳送給您的頻率。 當您精簡商務設定檔以產生更多潛在客戶，以及更多相關潛在客戶時，請使用此資料。
 
-**設定檔效能摘要**圖表包含所選時間週期的下列資訊：
+**設定檔效能摘要** 圖表包含所選時間週期的下列資訊：
 
 - **搜尋結果**：客戶用來尋找您商務設定檔之搜尋詞彙的相關資訊。
 - **頁面流覽**：客戶查看您的商務設定檔的總次數。
-- 按下**連絡人**：客戶從 [[尋找方案提供者](https://www.microsoft.com/solution-providers/home)] 頁面選取您商務設定檔的總次數。
-- 已**產生的參考**：客戶選取商務設定檔之後傳送給您的參考總數。
+- 按下 **連絡人**：客戶從 [[尋找方案提供者](https://www.microsoft.com/solution-providers/home)] 頁面選取您商務設定檔的總次數。
+- 已 **產生的參考**：客戶選取商務設定檔之後傳送給您的參考總數。
 
 > [!TIP]
 > 當您開始 [回應這些參考](manage-leads.md)時，請務必檢查 [ [參考見解] 頁面](referral-insights.md) ，以查看您的參考如何執行的詳細資料。
+
+## <a name="next-steps"></a>後續步驟
+
+- [建立商務設定檔](create-a-marketing-profile.md)
+- [在合作夥伴中心取得推薦見解，並了解您的推薦情況](referral-insights.md)

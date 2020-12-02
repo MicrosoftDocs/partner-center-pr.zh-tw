@@ -9,31 +9,25 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 24316148fd237aa1fb466083c742ef4ddec36e22
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: b7158f0ba52cece8b143cbaf592f3b0c4667fe27
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367352"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474048"
 ---
-# <a name="use-analytics-to-analyze-performance-of-your-indirect-resellers"></a>流量分析來分析間接轉銷商的效能
-
-**適用於**
-
-- 合作夥伴中心
-- 雲端解決方案提供者計畫合作夥伴
+# <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>流量分析來分析間接轉銷商的效能
 
 **適當的角色**
 
 - 全域系統管理員
 - 使用者管理系統管理員
-- 系統管理代理人
-- 銷售代理人
 
-資料推動業務決策。 使用**經銷商分析**頁面上的計量，找出您的成功之處、您間接經銷商的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。
+
+資料推動業務決策。 使用 **經銷商分析** 頁面上的計量，找出您的成功之處、您間接經銷商的成功之處，以及需要注意的領域。 在規劃新的業務務目標時，請使用此資訊。
 
 > [!NOTE]
-> 間接經銷商分析僅適用於雲端解決方案提供者計畫中的合作夥伴。
+> 間接轉銷商分析僅適用于雲端解決方案提供者計畫中的間接提供者。
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>您可以查看的轉銷商分析計量類型
 
