@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: bd8153ffd368c1f67b27eaeb44d383409bd59e97
+ms.sourcegitcommit: 2e880efb02a48afc4f234ec27da34519407f87c6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947659"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96513278"
 ---
 # <a name="payout-schedules-and-policy-details"></a>支出排程和原則詳細資料
 
@@ -31,16 +31,18 @@ ms.locfileid: "94947659"
 | 事件 | 描述 | 報表可見度 | 計時 |
 | --- | --- | --- | --- |
 | 交易的使用量或月份 | 客戶使用或購買服務。 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第1個月** |
-| 採購單已建立 | 判斷總使用量和交易總計 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第2個月** |
-| 已建立 ISV 付款收益 | 判斷機關費和支出收益 | 在付款[語句](payout-statement.md)的交易歷程記錄中標示為未處理 | **第3個月 (第一周)** |
+| Microsoft 計算帳單金額 | 判斷總使用量和交易總計 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第2個月** |
+| 已張貼付款 | 判斷機關費和支出收益 | 在付款[語句](payout-statement.md)的交易歷程記錄中標示為未處理 | **第3個月 (第一周)** |
 | 準備付款 | 每月付款已備妥收益 | 在付款[聲明](payout-statement.md)的交易歷程記錄中標示為即將推出 | **第3個月 (第一周)** |
-| **付款日期** | **付款會傳送給發行者** | **標示為在交易歷程記錄和付款 [聲明](payout-statement.md)的付款區段中傳送** | **第3個月 (不晚于 15)** |
+| **已傳送支出** | **付款會傳送給發行者** | **標示為在交易歷程記錄和付款 [聲明](payout-statement.md)的付款區段中傳送** | **第3個月 (不晚于 15)** |
 | 客戶付款的發票 | Microsoft 會從客戶收集款項 | 沒有變更 | **第4到12個月** |
 |
 
 \* 付款日期是太平洋標準時間 (PST) 。
 
-### <a name="customers-who-pay-using-credit-card-or-invoice"></a>使用信用卡或發票付款的客戶
+:::image type="content" source="images/payouts/timeline-enterprise.png" alt-text="Enterprise 合約客戶的付款時程表。":::
+
+### <a name="transactions-with-credit-card-or-invoice-checkwire"></a>使用信用卡或發票的交易 (支票/電匯) 
 
 所有使用信用卡或每月發票的購買都有30天的保留期，以確保從客戶收集資金。
 
@@ -48,13 +50,15 @@ ms.locfileid: "94947659"
 | --- | --- | --- | --- |
 | 交易的使用量或月份 | 客戶使用或購買服務。 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第1個月** |
 | 客戶付款的發票 | 決定總使用量、總交易值和客戶支付發票 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第2個月** |
-| 已建立 ISV 付款收益 | 判斷機關費和支出收益 | 在付款[語句](payout-statement.md)的交易歷程記錄中標示為未處理 | **第2個月** |
+| 已張貼付款 | 判斷機關費和支出收益 | 在付款[語句](payout-statement.md)的交易歷程記錄中標示為未處理 | **第2個月** |
 | 30天的保留期 | 確定資金的集合、可能的退款和退款要求 | 在付款[語句](payout-statement.md)的交易歷程記錄中標示為未處理 | **第3個月** |
 | 準備付款 | 每月付款已備妥收益 | 在付款[聲明](payout-statement.md)的交易歷程記錄中標示為即將推出 | **第4個月 (第一周)** |
-| **付款日期** | **付款會傳送給發行者** | **標示為在交易歷程記錄和付款 [聲明](payout-statement.md)的付款區段中傳送** | **第4個月 (不晚于 15)** |
+| **已傳送支出** | **付款會傳送給發行者** | **標示為在交易歷程記錄和付款 [聲明](payout-statement.md)的付款區段中傳送** | **第4個月 (不晚于 15)** |
 |
 
 \* 付款日期是太平洋標準時間 (PST) 。
+
+:::image type="content" source="images/payouts/timeline-credit-card-invoice.png" alt-text="信用卡和發票客戶付款的時程表。":::
 
 ## <a name="process-for-customer-non-payment"></a>客戶未付款的流程
 
