@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
-ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
+ms.openlocfilehash: 440a03a228fb809d1ef55bcd39e1c0464b24fb54
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "91899226"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474116"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>依地區和語言的 Microsoft 客戶合約
-
-**適用於**
-
-- 雲端解決方案提供者計畫合作夥伴
 
 **適當的角色**
 
