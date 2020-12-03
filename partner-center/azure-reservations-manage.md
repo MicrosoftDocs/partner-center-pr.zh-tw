@@ -9,20 +9,14 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000252"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534755"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>管理、取消、交換或退款 Microsoft Azure 保留給客戶
-
-**適用於**
-
-- 合作夥伴中心
-- Microsoft Azure 入口網站 
-- 雲端解決方案提供者中的合作夥伴
 
 **適當的角色**
 
@@ -31,6 +25,8 @@ ms.locfileid: "91000252"
 - 技術服務代理人
 - 銷售代理人
 - 使用者管理系統管理員
+
+本文說明如何管理客戶的 Azure 保留，包括如何取消保留、交換保留或申請退款。
 
 > [!NOTE]
 > 本文僅適用于雲端解決方案提供者 (CSP) 計畫中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](/azure/cost-management-billing/reservations)。
@@ -47,7 +43,7 @@ ms.locfileid: "91000252"
     |:-----------------------------|:-----------------|
     | **概觀**   | 查看客戶保留的詳細資料，包括到期日、範圍和使用量資料。 **注意** 選擇 **\[退款\]** 可建立按比例計算的退款支援要求。 選取 **\[交換\]** 可建立交換未使用的保留區期限的支援要求。  
     | **存取控制 (IAM)**   | 管理客戶保留資訊的存取權。|
-    | **Configuration**   | 變更保留的範圍及/或與保留相關聯的 Azure 訂用帳戶。    |
+    | **設定**   | 變更保留的範圍及/或與保留相關聯的 Azure 訂用帳戶。    |
     | **屬性**   | 查看保留的屬性，並將保留識別碼和保留訂單識別碼複製到剪貼簿。 **注意** 當您代表客戶要求支援時，支援人員可能會請您提供保留區識別碼和保留區訂單識別碼。    |
     | **新增支援要求**    | 向 Microsoft 支援服務要求協助。   |
  
@@ -64,12 +60,12 @@ ms.locfileid: "91000252"
 請參閱下方的取消詳細資料和費用。
 
 
-|**取消日期**<br>  (天)    |**使用量**    |**點數**  |**提早終止**<br> 費用    |**退款上限** | 
+|**取消日期**<br>  (天)    |**使用方式**    |**點數**  |**提早終止**<br> 費用    |**退款上限** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5或更少                         | No          | 100%       | No                              | $50000 美元   |
-|5或更少                         | Yes         | 依比例  | No                              | $50000 美元   |
-|超過5個                        | No          | 依比例  | 12%                             | $50000 美元   |
-|超過5個                        | Yes         | 依比例  | 12%                             | $50000 美元   |
+|5或更少                         | 否          | 100%       | 否                              | $50000 美元   |
+|5或更少                         | 是         | 依比例  | 否                              | $50000 美元   |
+|超過5個                        | 否          | 依比例  | 12%                             | $50000 美元   |
+|超過5個                        | 是         | 依比例  | 12%                             | $50000 美元   |
 
 ### <a name="how-exchanges-work"></a>交換的運作方式 
 
@@ -98,7 +94,7 @@ ms.locfileid: "91000252"
    |**2 問題**               |問題類型︰ 保留區管理。 分類：交換與退款。 |
    |**3 連絡人資訊**   |選取您的喜好設定，然後輸入所需的資訊。 
 
-5. 完成後選取 [建立]****。
+5. 完成後選取 [建立]。
 
 ## <a name="azure-reservations-resources"></a>Azure Reservations 資源
 

@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000182"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534942"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>調整 Microsoft Azure VM 大小以提供最大保留區使用率
 
-**適用於**
+**適當的角色**
 
-- 合作夥伴中心
-- Azure 入口網站
-- 雲端解決方案提供者方案中的合作夥伴
+- 系統管理代理人
+- 銷售代理人
+
+本文說明如何將虛擬機器 (VM) 的大小調整為您為客戶購買 Microsoft Azure 保留時的計算需求。
  
 > [!NOTE]
 > 本文僅適用于雲端解決方案提供者 (CSP) 計畫中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](/azure/cost-management-billing/reservations)。
@@ -128,7 +129,7 @@ ms.locfileid: "91000182"
 >[!IMPORTANT]
 >軟體成本 (例如 Microsoft Windows Server) 目前不包含在 VM 保留區的價格中，並會在訂單記錄和發票中顯示為不同的一行項目。 不過，如果客戶擁有 Azure Hybrid Use Benefit，將不會套用軟體成本。 如需詳細資訊，請參閱 [Windows 軟體的成本不包括在保留執行個體內](/azure/billing/billing-reserved-instance-windows-software-costs)。  
 
-## <a name="azure-reservations-resources"></a>Azure Reservations 資源
+## <a name="next-steps"></a>後續步驟
 
 |**如需下列資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|

@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999432"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534979"
 ---
-# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>在新裝置上使用 Windows Autopilot 設定檔來自訂客戶的現成體驗
-
-**適用於**
-
-- CSP direct-帳單夥伴、間接提供者和間接轉銷商
+# <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>在新裝置上使用 Windows Autopilot 設定檔，以自訂客戶的全新體驗
 
 **適當的角色**
 
@@ -31,13 +27,13 @@ ms.locfileid: "90999432"
 
 如果您管理客戶裝置，您可能需要為客戶的使用者自訂現成體驗 (OOBE) 。 您可以先使用 Windows Autopilot 設定檔預先設定新的裝置，再將裝置傳遞給客戶，並將新的設定檔套用至客戶已購買的裝置。 
 
-請注意，Oem 已開始將出貨標籤包含在 Autopilot 裝置的外部，以顯示裝置的 **產品金鑰識別碼 (PKID) **。  這一維、可讀取的條碼可為下游合作夥伴提供註冊裝置以進行 Autopilot 的方式，而不需要將裝置 () ，而是透過替代方式來收集裝置識別碼。
+請注意，Oem 已開始將出貨標籤包含在 Autopilot 裝置的外部，以顯示裝置的 **產品金鑰識別碼 (PKID)**。  這一維、可讀取的條碼可為下游合作夥伴提供註冊裝置以進行 Autopilot 的方式，而不需要將裝置 () ，而是透過替代方式來收集裝置識別碼。
 
 本文說明如何在合作夥伴中心中建立 Autopilot 設定檔，並將其套用至裝置。
 
 如果您還不熟悉 Autopilot，請參閱下列文章中的資訊：
 
-- [Windows Autopilot 總覽](/windows/deployment/windows-10-auto-pilot)
+- [Windows Autopilot 概觀](/windows/deployment/windows-10-auto-pilot)
 - [Autopilot 部署參考指南](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>概觀
@@ -54,13 +50,13 @@ ms.locfileid: "90999432"
 
 - 略過使用者授權合約 (EULA) 。 從 Windows 10 版本1709開始，組織可以決定略過 OOBE 程式期間所呈現的 EULA 頁面。 如需有關在 Windows 安裝期間略過 EULA 頁面的重要資訊，請參閱以下 [WINDOWS AUTOPILOT eula 關閉](#windows-autopilot-eula-dismissal) 。
 
-下列設定檔和裝置管理許可權和限制適用于：
+以下是適用的設定檔和裝置管理權限和限制：
 
-- 即使客戶已移除合作夥伴的委派系統管理許可權，CSP 合作夥伴仍可以繼續管理具有轉銷商關聯性之現有客戶的 Autopilot 設定檔。
+- CSP 合作夥伴可以針對具有轉售商關係的現有客戶繼續管理 Autopilot 設定檔，即使客戶已移除合作夥伴的委派系統管理權限也一樣。
 
-- 您可以為您已新增的客戶管理現有的裝置。
+- 您可以為已新增的客戶管理現有裝置。
 
-- 您無法管理客戶已上傳至商務用 Microsoft Store 或 Microsoft Intune 入口網站的裝置。
+- 您無法管理客戶上傳至商務用 Microsoft Store 或 Microsoft Intune 入口網站的裝置。
 
 ## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>在合作夥伴中心中建立和管理 Autopilot 設定檔
 
@@ -149,11 +145,11 @@ ms.locfileid: "90999432"
 
 - 此元組僅適用于較新的裝置 (4k 雜湊，例如) ，而且不支援 (RS2 和先前裝置) 的128b 雜湊。
 
-- 元組註冊會區分大小寫，因此檔案中的資料必須與 OEM 提供者 (硬體提供者) 所提供的模型和製造商名稱 ***完全*** 相符。
+- 元組註冊會區分大小寫，因此檔案中的資料必須與 OEM 提供者所提供的模型和製造商名稱 **_完全_* 相符， (硬體提供者) 。
 
 依照下列指示，在合作夥伴中心中將裝置新增至客戶的帳戶。
 
-1. 從合作夥伴中心] 功能表選取 [ **客戶** ]，然後選取您要管理其裝置的客戶。
+1. 從合作夥伴中心] 功能表中選取 [_ *客戶**]，然後選取您要管理其裝置的客戶。
 
 2. 在客戶的詳細資料頁面上，選取 [ **裝置**]。
 
@@ -166,7 +162,7 @@ ms.locfileid: "90999432"
 
 5. 上傳 .csv 檔案，然後選取 [ **儲存**]。
 
-如果您在嘗試上傳 .csv 檔案時收到錯誤訊息，請檢查檔案的格式。 您只能使用硬體雜湊，或在該資料行順序中使用 OEM 名稱、序號和模型 () 或 Windows 產品識別碼。 您也可以使用 [ **新增裝置** ] 旁的連結所提供的範例 .csv 檔案來建立裝置清單。
+如果您在嘗試上傳 .csv 檔案時收到錯誤訊息，請檢查檔案的格式。 您只能使用硬體雜湊，或 OEM 名稱、序號和型號 (依該資料行順序)，或 Windows 產品識別碼。 您也可以使用 [ **新增裝置** ] 旁的連結所提供的範例 .csv 檔案來建立裝置清單。
 
 您的 .csv 檔案看起來應該像這樣：
 

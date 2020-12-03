@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000232"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534891"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>使用合作夥伴中心、Azure 入口網站或 Api 銷售 Microsoft Azure 保留給客戶
-
-**適用於**
-
-- 合作夥伴中心
-- Microsoft Azure 入口網站
-- 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
 
@@ -32,8 +26,10 @@ ms.locfileid: "91000232"
 - 銷售代理人
 - 使用者管理系統管理員
 
+在雲端解決方案提供者方案 (CSP) 的合作夥伴，您可以為客戶購買、銷售或管理 Azure 保留。 使用合作夥伴中心、Azure 入口網站或合作夥伴中心 API。
+
 > [!NOTE]
-> 本文僅適用于雲端解決方案提供者 (CSP) 計畫中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](/azure/cost-management-billing/reservations)。
+> 本文僅適用于 CSP 中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](/azure/cost-management-billing/reservations)。
 
 CSP 方案中的合作夥伴可以為客戶提供 Microsoft Azure 的保留。 如果客戶事先保留，即可獲得大幅節省。 Azure 保留專案以下列方式提供客戶簡單性和彈性：
 

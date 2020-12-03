@@ -1,7 +1,7 @@
 ---
 title: 為客戶購買 Microsoft Azure 保留
 description: 瞭解如何在合作夥伴中心中代表您的客戶購買或購買 Azure 保留。 也會列出無法使用 Azure 保留的市場。
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031251"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534602"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>在合作夥伴中心中代表客戶購買 Microsoft Azure 保留
-
-**適用於**
-
-- 合作夥伴中心
-- Microsoft Azure 入口網站
-- 雲端解決方案提供者中的合作夥伴
 
 **適當的角色**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92031251"
 - 技術服務代理人
 - 銷售代理人
 - 使用者管理系統管理員
+
+本文說明如何在合作夥伴中心中代表您的客戶購買或購買 Azure 保留。 它也會識別無法使用 Azure 保留的市場。
  
 > [!NOTE]
 > 本文僅適用于雲端解決方案提供者 (CSP) 計畫中的合作夥伴。 使用其他類型訂用帳戶的客戶 (例如隨用隨付、個別、Microsoft 客戶合約或 Enterprise 合約訂用帳戶) 應改為閱讀 [此 Azure 保留檔](/azure/cost-management-billing/reservations)。
@@ -58,7 +54,7 @@ ms.locfileid: "92031251"
 ## <a name="azure-reservations-unavailable-markets"></a>未提供 Azure 保留的市場
 
 > [!IMPORTANT]
-> 以下是**未提供** Azure 保留的市場：  
+> 以下是 **未提供** Azure 保留的市場：  
 >  
 > **不適用的市場 (以字母順序排序)**
 >
@@ -114,7 +110,7 @@ ms.locfileid: "92031251"
 
     a. 從 [區段] 清單中選擇客戶的市場區段。
 
-    b. 從 [產品**類型**] 清單中選擇 [**保留**]。
+    b. 從 [產品 **類型**] 清單中選擇 [**保留**]。
 
     c. 從 [保留類型] 清單中選擇客戶想要的保留類型。
 
@@ -150,7 +146,8 @@ ms.locfileid: "92031251"
 
 10. 若要在 Azure 入口網站中管理客戶的保留，請在 [ **客戶** ] 頁面上尋找 [客戶]，然後選取向下箭號展開客戶的資料列。 選取 **Microsoft Azure 管理入口網站** ，在 Azure 入口網站中開啟客戶的記錄。
 
-## <a name="azure-reservations-resources"></a>Azure Reservations 資源
+## <a name="next-steps"></a>後續步驟
+
 |**如需下列資訊**   |**請閱讀本文**    |
 |:-----------------------------|:-----------------|
 |雲端解決方案提供者中的 Azure Reservations 概觀  | [銷售 Microsoft Azure 保留的執行個體](azure-reservations.md) |
