@@ -1,20 +1,20 @@
 ---
-title: 有效的單位價格計算
+title: 有效單位價格計算
 ms.topic: how-to
 ms.date: 11/10/2020
-description: 深入瞭解有效的價格單位以及其計算方式。 包含範例計算。
+description: 深入瞭解有效的單位價格和其計算方式。 本文也包含範例計算。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498555"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556322"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>適用于 Azure 方案耗用量的有效單位價格計算
 
@@ -35,7 +35,7 @@ ms.locfileid: "94498555"
 如果您不知道您的計量是否使用分層定價，請使用下列程式來找出。 
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
-2. 選取 [ **銷售** ]、選取 [ **定價和** 供應專案]，然後選取 [ **Azure 方案定價** ]。
+2. 選取 [ **銷售**]、選取 [ **定價和** 供應專案]，然後選取 [ **Azure 方案定價**]。
 3. 依識別碼找出您的計量，然後下載您的定價資料。 
 
 ## <a name="sample-calculation"></a>範例計算

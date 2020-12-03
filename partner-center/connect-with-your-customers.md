@@ -1,6 +1,6 @@
 ---
-title: 與您的客戶聯繫
-description: 瞭解如何以間接轉銷商的形式與新的和現有的客戶連接
+title: 與您的客戶連線
+description: 如果您是 CSP 方案中的間接轉銷商，這篇文章將協助您與新的和現有的客戶連接。
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92010690"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556305"
 ---
 # <a name="connect-with-customers"></a>與客戶保持聯繫
 
@@ -60,7 +60,7 @@ ms.locfileid: "92010690"
 
 若要代表客戶管理客戶訂閱和服務，您需要與他們建立經銷商關係。 若要允許間接提供者代表您的客戶提交訂單，間接提供者也必須與他們建立經銷商關係。
 
-若要取得系統管理員權限來管理新客戶的訂閱和服務，**而且**允許間接提供者代表他們提交訂單，您可以邀請客戶同時與您及您的提供者建立經銷商關係。
+若要取得系統管理員權限來管理新客戶的訂閱和服務，**而且** 允許間接提供者代表他們提交訂單，您可以邀請客戶同時與您及您的提供者建立經銷商關係。
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>邀請客戶與您和您的間接提供者同時建立轉銷商關係
 

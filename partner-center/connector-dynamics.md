@@ -4,16 +4,16 @@ ms.topic: how-to
 ms.date: 05/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 將合作夥伴中心中的推薦與 Dynamics 365 CRM 的共同銷售連接器同步處理。 然後，銷售人員可以從您的 CRM 系統內與 Microsoft 共同銷售。
+description: 使用 Dynamics 365 CRM 的共同銷售連接器，同步處理合作夥伴中心中的推薦。 然後，銷售人員可以從您的 CRM 系統內與 Microsoft 共同銷售。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 18a54bf777cb987e8f486f85afcf277e04c1055c
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947738"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556356"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 的共同銷售連接器–總覽
 
