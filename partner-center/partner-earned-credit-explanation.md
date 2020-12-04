@@ -1,7 +1,7 @@
 ---
 title: 受控服務的合作夥伴所獲得信用點數
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 11/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入了解受控服務的 Microsoft 合作夥伴所獲得信用點數 (PEC) 如何計算及支付，以及如何確保您符合資格。
@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89fce612d5756da3f9674d4170ac8c0c3a48abfe
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 97af446c4021e9785833374131eee2f08431b5fe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175313"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474303"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作夥伴所獲得信用點數如何計算及付費
 
@@ -38,7 +38,13 @@ ms.locfileid: "92175313"
 
 - PEC 會與合作夥伴所管理 CSP 中客戶 Azure 資產的計費 (可收費) 耗用量相關聯。 PEC 僅適用於由 Microsoft (間接提供者和直接計費合作夥伴) 所計費的 CSP 合作夥伴。 
 
-- 合格的服務：合作夥伴所獲得信用點數適用於 **Azure 方案使用定價**中所列的服務，合作夥伴可以從 [Azure 方案定價](https://partner.microsoft.com/commerce/sales)頁面匯出。 合作夥伴所獲得信用點數不適用於 Azure 方案使用價目表、Azure 方案保留、Marketplace 價目表中的產品和 [Azure Spot 虛擬機器](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)的 [標記] 資料行中，識別為 [協力廠商] 的協力廠商產品。
+- 合格的服務：合作夥伴所獲得信用點數適用於 **Azure 方案使用定價** 中所列的服務，合作夥伴可以從 [Azure 方案定價](https://partner.microsoft.com/commerce/sales)頁面匯出。 
+
+- 不合格的服務：合作夥伴獲得的點數 **_不_* 適用於下列項目：
+    - Azure 方案保留
+    - 第三方產品在 Azure 方案耗用量價格的 **標記資料行** 中，識別為「第三方」*    
+    - Marketplace 價目表中的產品
+   - [Azure Spot 虛擬機器](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
 - PEC 會每日計算，並可在每日使用量檔案和每月發票對帳檔案中檢視。 合作夥伴 (間接提供者或間接經銷商) 必須具有整天 (全天候) 的存取權，以確保他們獲得 PEC。 PEC 會在受控 Azure 資產上每日進行計算。 指定計費週期 (月) 的最大 PEC 為 15%。 在整個月 (存取跨度) 和所有合格資源 (存取範圍) 內保留永續性特殊權限存取的合作夥伴，將獲得 15% 的完整 PEC。 範圍和跨度縮減會導致該月的 PEC 率降低。 每日評等使用量檔案會每日根據 Azure 資產上是否套用 PEC 來顯示。 合作夥伴還可以註冊警示，以偵測永續性特殊權限存取是否發生變更。
 

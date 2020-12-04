@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132989"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439127"
 ---
 # <a name="april-2020-announcements"></a>2020 年 4 月公告
 
@@ -30,8 +30,8 @@ _________________
 
 - 日期：2020-04-30
 - 輸入：功能
-- 狀態：即將推出
-- [深入了解](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>摘要
 
@@ -49,7 +49,7 @@ Microsoft 將於 2020 年 5 月 4 日推出 Office 365 E1 與 Microsoft 365 商�
 這些促銷將取代目前的 Office 365 E1 試用供應項目，相異之處如下所示：
 
 - 合作夥伴將利用前 6 個月享有 100% 折扣的雲端解決方案提供者促銷 (而不是唯一的 6 個月試用 SKU)，來交易年度 Office 365 E1 或 Microsoft 365 商務基本版 SKU。 [深入了解雲端解決方案提供者促銷](../promotions.md)。
-- 我們會從技術上限制「只有新客戶」能夠進行訂購，而不是像 Office 365 E1 試用，僅透過書面原則限制只有新客戶可以使用。 [請參閱 Microsoft 合作夥伴常見問題集以深入了解](https://aka.ms/CSPCOVIDPromo)。
+- 我們會從技術上限制「只有新客戶」能夠進行訂購，而不是像 Office 365 E1 試用，僅透過書面原則限制只有新客戶可以使用。 
 - 對於 SMB 客戶，Microsoft 365 商務基本版將包含在此促銷活動中。 這可確保合作夥伴能使用 Microsoft 365 商務版，讓客戶在正確的產品系列中從少於 300 個基座開始。
 目前已獲授權使用 Office 365 E1 試用的客戶 (可於 2020 年 5 月 4 日之前取得) 將保留目前使用的方案，這項變更只會影響全新客戶。
 
@@ -58,12 +58,13 @@ Microsoft 將於 2020 年 5 月 4 日推出 Office 365 E1 與 Microsoft 365 商�
 有資格享有此促銷的新客戶為：
 
 1. 全新客戶租用戶
-2. 現有客戶的租用戶中，對於 [Microsoft 合作夥伴常見問題集 (FAQ) 指南](https://aka.ms/CSPCOVIDPromo)中定義的任何產品，沒有目前已付費或最近取消 (過去 30 天內) 的訂閱。
+2. 現有客戶的租用戶中，對於 Microsoft 合作夥伴常見問題集 (FAQ) 指南中定義的任何產品，沒有目前已付費或最近取消 (過去 30 天內) 的訂閱
 
+ 
 ### <a name="additional-resources"></a>其他資源
 
 - 若要深入了解安全遠距工作，請前往[合作夥伴遠距工作資源中心](https://www.microsoft.com/microsoft-365/partners/remotework)。
-- 若要深入了解這些變更，請參閱[相關的合作夥伴常見問題集](https://aka.ms/CSPCOVIDPromo)。
+
 
 ### <a name="next-steps"></a>接下來的步驟
 
@@ -168,11 +169,11 @@ _________________
 
 我們最近已順利完成為所有合作夥伴租用戶啟用代理管理 (Admin-On-Behalf-Of，AOBO) 功能的安全性保護，以保護其企業與客戶免於身分盜用的相關事件。
 
-為了進一步協助保護合作夥伴與客戶， **自 2020 年 5 月 1 日起，我們將開始為雲端解決方案提供者中的合作夥伴中心交易啟用保護** 。 啟用額外的安全性保護，表示合作夥伴必須使用多重要素驗證 (MFA)，來處理雲端解決方案提供者中透過合作夥伴中心使用者體驗或 API 的任何交易，以避免未經授權的存取，並保護其客戶與租用戶免於身分盜用的相關安全性事件。 如需詳細資訊，請參閱[此處](../partner-security-requirements-mandating-mfa.md)。
+為了進一步協助保護合作夥伴與客戶，**自 2020 年 5 月 1 日起，我們將開始為雲端解決方案提供者中的合作夥伴中心交易啟用保護**。 啟用額外的安全性保護，表示合作夥伴必須使用多重要素驗證 (MFA)，來處理雲端解決方案提供者中透過合作夥伴中心使用者體驗或 API 的任何交易，以避免未經授權的存取，並保護其客戶與租用戶免於身分盜用的相關安全性事件。 如需詳細資訊，請參閱[此處](../partner-security-requirements-mandating-mfa.md)。
 
 ### <a name="next-steps"></a>接下來的步驟
 
-- **如果您尚未啟用建議的安全性需求來保護您的租用戶及使用者** ，請立即進行，以確保符合規範，以及避免管理客戶或在雲端解決方案提供者中交易時的任何業務中斷。 未實作安全性需求的合作夥伴，可能會使他們在參與雲端解決方案提供者計畫時面臨風險。
+- **如果您尚未啟用建議的安全性需求來保護您的租用戶及使用者**，請立即進行，以確保符合規範，以及避免管理客戶或在雲端解決方案提供者中交易時的任何業務中斷。 未實作安全性需求的合作夥伴，可能會使他們在參與雲端解決方案提供者計畫時面臨風險。
 - 間接提供者必須在自己的公司實作這些安全性需求，並利用此電子郵件範本，確認轉銷商也實作了這些需求。 我們也會透過電子郵件，直接連絡您的轉銷商。
 - 請前往[合作夥伴中心安全性需求狀態頁面](https://partner.microsoft.com/commerce/security/compliance)，以識別進度及需要採取的主要動作。 與您的全域管理員合作，定期檢查各個租用戶的安全性需求進度。
 - 如果您使用的是控制台廠商 (CPV) 解決方案，請洽詢您的 CPV。
@@ -546,7 +547,7 @@ Microsoft 已於 2020 年 4 月 1 日發行 Dynamics Business Central Online 以
 Microsoft 將於 2020 年 5 月 1 日，將新的 RPA 供應項目擴大推出至教育計畫。
 若要深入了解雲端解決方案提供者中的授權教育合作夥伴計畫變更，請按一下[此處](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)。 這是連至合作夥伴中心現有集合的連結)。
 
-如需新的 SKU 資訊，請檢閱 [此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)相關下載區段中附加的 **Dynamics 雲端解決方案提供者供應項目更新 - 2020 年 5 月檔案** 。
+如需新的 SKU 資訊，請檢閱 [此處](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)相關下載區段中附加的 **Dynamics 雲端解決方案提供者供應項目更新 - 2020 年 5 月檔案**。
 
 ### <a name="ecommerce-changes"></a>eCommerce 變更
 
@@ -621,7 +622,7 @@ partner.microsoft.com 上的作業整備資源位置在運作時所採用的方�
 應該做什麼準備？
 
 - 透過檢閱在資源庫集合上已更新的整備素材，以 **深入了解** 全新的 Microsoft 合作夥伴作業整備資源的網站位置 - [即將推出 - 在單一位置提供資源整備資源](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)。
-- **參加四月的合作夥伴社群線上會議** ，即可在會議中深入了解此項新體驗，並提出問題： [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- **參加四月的合作夥伴社群線上會議**，即可在會議中深入了解此項新體驗，並提出問題：[https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="questions"></a>有任何問題嗎？
 

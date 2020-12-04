@@ -1,7 +1,7 @@
 ---
 title: 註冊雲端解決方案提供者計畫
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何註冊最適合您業務的雲端解決方案提供者 (CSP) 計畫銷售模型，例如間接經銷商或直接計費合作夥伴。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045389"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322078"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>註冊雲端解決方案提供者計畫
 
@@ -42,7 +42,7 @@ ms.locfileid: "93045389"
 3. 我們驗證您的資訊之後，請接受 Microsoft 間接經銷商條款合約。
 
 > [!IMPORTANT]  
-> CSP 計畫中的合作夥伴目前無法將線上服務轉售給 CSP 計畫中的另一個合作夥伴。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本或原則變更的任何新聞將會透過一般通訊管道宣佈，包括[合作夥伴中心宣告](announcements/index.md)。
+> CSP 計畫中的合作夥伴目前無法將線上服務轉售給 CSP 計畫中的另一個合作夥伴。 這項限制僅適用於進行 CSP 交易的租用戶。 為了公司用途使用非雲端解決方案提供者租用戶的雲端解決方案提供者合作夥伴，可以從其他雲端解決方案提供者購買線上服務。 Microsoft 會持續檢閱所有計畫的原則和功能。 關於功能版本或原則變更的任何新聞將會透過一般通訊管道宣佈，包括[合作夥伴中心宣告](announcements/index.md)。
 
 ## <a name="enroll-as-an-indirect-reseller"></a>註冊為間接經銷商
 
@@ -60,7 +60,7 @@ ms.locfileid: "93045389"
 
 如果您沒有合作的提供者 (也稱為代理商)，您可以[搜尋官方 Microsoft 提供者清單](https://partnercenter.microsoft.com/partner/find-a-provider)來尋找提供者。
 
-如需有關在雲端解決方案提供者計畫中以間接經銷商身分參與所需具備條件的詳細資訊，請參閱 [Microsoft 合作夥伴網路網站](https://partner.microsoft.com/)上的[開始成為間接經銷商](https://partner.microsoft.com/cloud-solution-provider/whats-required)。 
+如需有關在雲端解決方案提供者計畫中以間接經銷商身分參與所需具備條件的詳細資訊，請參閱 [Microsoft 合作夥伴網路網站](https://partner.microsoft.com/)上的[開始成為間接經銷商](https://partner.microsoft.com/cloud-solution-provider/whats-required)。
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>註冊為直接計費合作夥伴
 
@@ -99,4 +99,4 @@ ms.locfileid: "93045389"
 
 ## <a name="next-steps"></a>後續步驟
 
-- [了解 CSP 計畫合作夥伴的 Microsoft 合作夥伴合約 (MPA)](microsoft-partner-agreement.md)
+[了解 CSP 計畫合作夥伴的 Microsoft 合作夥伴合約 (MPA)](microsoft-partner-agreement.md)

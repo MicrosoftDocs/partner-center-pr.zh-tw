@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514736"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439084"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -30,7 +30,7 @@ ______________
 - 日期：2020-11-24
 - 功能
 
-## <a name="summary"></a>摘要
+### <a name="summary"></a>摘要
 
 Microsoft 為雲端解決方案提供者計畫中的合作夥伴引進了功能，可以透過合作夥伴中心的計量帳單來購買 SaaS 供應項目。 
 
@@ -46,8 +46,7 @@ Microsoft 為雲端解決方案提供者計畫 (包括間接提供者和直接�
 
 請與貴公司所有相關連絡人分享這項資訊。
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>全新統一的帳戶管理體驗
 
@@ -56,7 +55,7 @@ Microsoft 為雲端解決方案提供者計畫 (包括間接提供者和直接�
 - 日期：2020-11-18
 - 功能
 
-## <a name="summary"></a>摘要
+### <a name="summary"></a>摘要
 
 從 11 月 18 日起，合作夥伴中心將會開始推出新的帳戶管理體驗，將能改善合作夥伴的使用者體驗。 合作夥伴現在可以從 [設定] -> [帳戶設定] 中管理所有計畫的帳戶。
 
@@ -84,8 +83,7 @@ Microsoft 為雲端解決方案提供者計畫 (包括間接提供者和直接�
 
 請與貴公司所有相關連絡人分享這項資訊。
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>適用於中型市場的 Office 365 E1 促銷 (拉丁美洲、亞太地區及印度)
 
@@ -113,6 +111,7 @@ Microsoft 為雲端解決方案提供者計畫 (包括間接提供者和直接�
 
 ### <a name="questions"></a>有問題嗎？
 如需提問、查詢或取得詳細資訊，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)。
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>合作夥伴中心 API 更新和使用者介面 (UI) 增強功能，可在某些特定國家/地區強化客戶檢測
@@ -254,8 +253,6 @@ EU/EFTA 地區中透過雲端解決方案提供者計畫進行交易的合作夥
 
 從 2021 年 1 月開始，有新客戶購買了新商業供應項目的合作夥伴，將會以合作夥伴所在位置的貨幣對這些購買計費。 有現有的客戶在 CSP 中購買了新商業供應項目的合作夥伴，在此階段將繼續以客戶計費位置的貨幣計費。 
 
- 
-
 - **階段 2：在 2021 年 1 月前在 CSP 中購買新商業供應項目的現有客戶** 
 
 在階段 1 之後的日曆年度 2021 年期間，Microsoft 將會針對有現有客戶 (在 2021 年 1 月之前購買新的商業供應項目) 的合作夥伴，將新商業供應項目的計費從客戶所在位置的貨幣轉換為合作夥伴所在位置的貨幣。 在實作這項變更之前，合作夥伴會先收到通知。  
@@ -279,6 +276,8 @@ EU/EFTA 地區中透過雲端解決方案提供者計畫進行交易的合作夥
 ### <a name="resources"></a>資源 
 
 請在 Microsoft 合作夥伴網站上的 [作業資源庫] (https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ ) 中參閱本主題的相關資訊。  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>合作夥伴呼叫合作夥伴中心 API 的 API 節流
 
@@ -310,7 +309,7 @@ Microsoft 即將在 2021 年第 1 季實作 API 節流，讓呼叫合作夥伴�
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[取得客戶的所有訂用帳戶](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[依照識別碼取得訂用帳戶](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[取得客戶的所有訂單](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders||[取得客戶的所有訂單](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[依識別碼取得供應項目](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[取得訂用帳戶的佈建狀態](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[管理訂單和管理訂用帳戶](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Microsoft 即將在 2021 年第 1 季實作 API 節流，讓呼叫合作夥伴�
 
 請參閱 [API 節流指導方針](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)，並執行必要的步驟。 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>因 MCA 要求重複而產生的 409 錯誤
 
@@ -365,8 +364,7 @@ Microsoft 即將在 2021 年第 1 季實作 API 節流，讓呼叫合作夥伴�
 
 - 請與組織中的適當小組分享這項資訊，協助他們為這些變更做好準備。
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>可用的測試：教育版客戶驗證程序的合作夥伴中心 API 和使用者介面 (UI) 增強功能
 
@@ -405,17 +403,17 @@ Microsoft 的營運以信任為原則。 我們承諾針對在 CSP 計畫中從�
 
 Microsoft 保留對任何客戶或建議客戶審查其教育使用者資格的權利。 如需完整詳細資料，請參閱[學術合格教育使用者需求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。
 
-## <a name="next-steps"></a>後續步驟
+### <a name="next-steps"></a>後續步驟
 
-請檢閱新的合作夥伴中心 UI 和 API 變更，以及[合作夥伴中心教育客戶驗證程序增強功能內容集合](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)中的測試指南
+- 請檢閱新的合作夥伴中心 UI 和 API 變更，以及[合作夥伴中心教育客戶驗證程序增強功能內容集合](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)中的測試指南
 
-• 註冊參與測試。 (如需詳細資訊，請參閱[測試指南](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf))。 
+- 註冊參與測試。 (如需詳細資訊，請參閱[測試指南](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf))。 
 
-• 確定您的組織已熟悉[學術合格教育使用者需求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。 
+- 確定您的組織已熟悉[學術合格教育使用者需求](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)。 
 
-• 與組織中的適當小組以及轉銷商分享這項資訊，協助他們為這些變更做好準備。
+- 與組織中的適當小組以及轉銷商分享這項資訊，協助他們為這些變更做好準備。
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>在作業整備資源庫上擴展商業授權合作夥伴內容
 
@@ -483,7 +481,7 @@ ________________
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams 會議室受控服務
 
 - 主動式管理：全天候管理您的會議室系統，包括修補、設定管理等。
-•   即時監視和根本原因分析：在需要時，使用由 Microsoft 與客戶協調所驅動的協調事件管理回應來進行監視和偵測。 行動應用程式可讓您隨時隨地掌握警示。
+- 即時監視和根本原因分析：在需要時，使用由 Microsoft 與客戶協調所驅動的協調事件管理回應來進行監視和偵測。 行動應用程式可讓您隨時隨地掌握警示。
 - 受控更新：應用程式、Windows KB 和韌體更新的管理與傳遞。
 - 安全性威脅防護：透過 Microsoft Defender 進階威脅防護的安全性威脅防護。
 - 客戶支援：透過我們專門的服務營運中心提供全天候票證支援，以提供非自動化案例的協助事件補救。 細微的角色型存取控制。
