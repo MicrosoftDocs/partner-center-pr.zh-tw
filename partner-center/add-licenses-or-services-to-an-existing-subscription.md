@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999672"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474218"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>將授權或更多服務新增至客戶的訂閱
-
-**適用於**
-
-- 合作夥伴中心
-- 雲端解決方案提供者計畫合作夥伴
 
 **適當的角色**
 
@@ -35,7 +30,7 @@ ms.locfileid: "90999672"
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP 計畫中支援的升級 <a id="upgradesubscription"></a>
 
-雲端解決方案提供者支援下列升級：
+雲端解決方案提供者計畫支援下列升級：
 
 | 產品 | 可能的升級|
 |---:|:---|

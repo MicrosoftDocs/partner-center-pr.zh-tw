@@ -20,6 +20,8 @@
       href: transfer-eligibility.md
     - name: 建立和管理私人 Azure Marketplace
       href: create-manage-private-azure-marketplace.md
+    - name: 管理私人 Azure Marketplace - PowerShell
+      href: manage-private-azure-marketplace-powershell.md
     - name: Azure Marketplace 合作夥伴整合
       href: partner-integrations.md
 - name: 一般資源
