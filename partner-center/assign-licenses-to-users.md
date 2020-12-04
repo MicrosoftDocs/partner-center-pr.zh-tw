@@ -1,22 +1,22 @@
 ---
-title: 管理客戶帳戶的使用者和使用者授權
+title: 管理客戶帳戶的使用者
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何在合作夥伴中心中管理客戶的使用者，例如建立使用者帳戶、新增或移除使用者授權、重設使用者密碼，以及刪除或還原使用者帳戶。
+description: 在合作夥伴中心中管理客戶的使用者-建立使用者帳戶、新增或移除使用者授權、重設密碼，以及刪除或還原使用者帳戶。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474065"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570734"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>管理客戶帳戶的使用者和使用者授權
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>管理客戶帳戶的使用者和使用者授權 
 
 **適當的角色**
 
@@ -76,21 +76,21 @@ ms.locfileid: "96474065"
 
 2. 從 [合作夥伴中心] 功能表上，選取 [客戶]，然後從清單中選擇客戶。
 
-3.  在客戶功能表中，選取 [使用者與授權]。 從清單中選擇使用者。
+3. 在客戶功能表中，選取 [使用者與授權]。 從清單中選擇使用者。
 
-4.  在畫面底部選取 [ **重設密碼**]。 
+4. 在畫面底部選取 [ **重設密碼**]。 
 
-5.  將新的暫時密碼傳送給使用者。
+5. 將新的暫時密碼傳送給使用者。
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>為客戶刪除使用者帳戶
 
-1.  從 [ **合作夥伴中心** ] 功能表選取 [ **客戶**]。 從清單中選擇客戶。
+1. 從 [ **合作夥伴中心** ] 功能表選取 [ **客戶**]。 從清單中選擇客戶。
 
-2.  在客戶功能表中，選取 [使用者與授權]。 從清單中選擇使用者。
+2. 在客戶功能表中，選取 [使用者與授權]。 從清單中選擇使用者。
 
-3.  在畫面底部，選取 [刪除使用者帳戶]。
+3. 在畫面底部，選取 [刪除使用者帳戶]。
 
 如果您需要還原此帳戶，您可以在 \[客戶\] 之 **\[使用者和授權\]** 清單的 **\[刪除的使用者\]** 索引標籤中找到該帳戶。 您有 30 天的期限可以還原刪除的使用者。
 
@@ -98,19 +98,18 @@ ms.locfileid: "96474065"
 
 ## <a name="restore-deleted-user-accounts"></a>還原刪除的使用者帳戶
 
-1.  從 [ **合作夥伴中心** ] 功能表選取 [ **客戶**]，然後從清單中選擇客戶。
+1. 從 [ **合作夥伴中心** ] 功能表選取 [ **客戶**]，然後從清單中選擇客戶。
 
-2.  選取 **使用者和授權**。
+2. 選取 **使用者和授權**。
 
-3.  選取 **\[刪除的使用者 ( )\]** 索引標籤，其中應該會顯示 **(1)**，如果有多個可還原的已刪除使用者，則顯示更大的數字。
+3. 選取 **\[刪除的使用者 ( )\]** 索引標籤，其中應該會顯示 **(1)**，如果有多個可還原的已刪除使用者，則顯示更大的數字。
 
-4.  選取一或多個 [已刪除的使用者] 核取方塊，然後選取 [ **還原**]。
+4. 選取一或多個 [已刪除的使用者] 核取方塊，然後選取 [ **還原**]。
 
     所有選取的使用者帳戶都會重新出現在 [ **使用者和授權** ] 頁面中。
 
-## <a name="related-topics"></a>相關主題
+## <a name="next-steps"></a>後續步驟
 
+- [指派或撤銷多個使用者的授權](bulk-license-provisioning-for-multiple-users.md)
 
-[指派或撤銷多個使用者的授權](bulk-license-provisioning-for-multiple-users.md)
-
-[為客戶帳戶建立多位使用者](adding-multiple-users-to-a-customer-account.md)
+- [為客戶帳戶建立多位使用者](adding-multiple-users-to-a-customer-account.md)

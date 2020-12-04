@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 40d83a70aa5eb5781b924bbafb8b619efacc5681
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 559e5d15d4414addab55411b28e19964ac4a08c5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367042"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570666"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>合作夥伴中心中的計費類型-包括以授權為基礎、以使用量為基礎的計費，以及一次性計費
-
-**適用於**
-
-- 合作夥伴中心
-- 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
 
@@ -33,7 +28,7 @@ ms.locfileid: "89367042"
 
 根據您代表客戶購買的產品、方案和服務而定，合作夥伴中心購買費用。 計費的類型如下所示：
 
-- 以[**授權為基礎的計費**](license-based-billing.md)，您依授權計費 (不受授權使用) 。
+- 以 [**授權為基礎的計費**](license-based-billing.md)，您依授權計費 (不受授權使用) 。
 - 以授權為基礎的 SaaS 交易帳單 (查看 [**SaaS 費用的常見計費案例**](common-billing-scenarios-saas.md)) 。
 
 根據您為客戶購買的產品類型而定，您可能會有不同的計費週期，並在相同月份的不同日期計費。

@@ -2,21 +2,21 @@
 title: 解決方案評估獎勵常見問題
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 解決方案評估常見問題的解答
+description: 瞭解 Channel 獎勵平臺 (晶片) 的解決方案評量相關常見問題的解答。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0796d8d5a79de181feb9c64c0e48ea4720817953
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447233"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570445"
 ---
-# <a name="solution-assessment-incentives-faq"></a>解決方案評估獎勵常見問題
+# <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>解決方案評量獎勵適用于 Channel 獎勵平臺 (晶片的常見問題)  
 
 尋找以下常見問題的解答。
 
@@ -37,7 +37,7 @@ ms.locfileid: "94447233"
 
 ## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>我的交易狀態已通過晶片核准。 為什麼尚未付費？
 
-除了交易狀態之外，還必須在晶片中核准 POE 狀態，才能提交可付款的商機。 請查看您在晶片中的機會，以確保 POE 已由 POE 驗證小組上傳並核准。 若要查看 POE 狀態，請登入晶片，然後選取 [ **我需要** 的 **搜尋交易**...] 功能表。 輸入 **商機識別碼** ，然後選取 [ **搜尋** ]。 在搜尋結果中，選取 [POE] 底下的 [編輯] 超連結。 在產生的頁面中，流覽至 [評論] 區段以查看 POE 狀態。 另請參閱「批註」欄位，以防 POE 小組已要求 POE 的其他資訊。
+除了交易狀態之外，還必須在晶片中核准 POE 狀態，才能提交可付款的商機。 請查看您在晶片中的機會，以確保 POE 已由 POE 驗證小組上傳並核准。 若要查看 POE 狀態，請登入晶片，然後選取 [**我需要** 的 **搜尋交易**...] 功能表。 輸入 **商機識別碼** ，然後選取 [ **搜尋**]。 在搜尋結果中，選取 [POE] 底下的 [編輯] 超連結。 在產生的頁面中，流覽至 [評論] 區段以查看 POE 狀態。 另請參閱「批註」欄位，以防 POE 小組已要求 POE 的其他資訊。
 
 ## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>為什麼我的商機沒有收到里程碑1的任何款項？
 

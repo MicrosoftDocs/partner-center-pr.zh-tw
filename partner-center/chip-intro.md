@@ -1,20 +1,20 @@
 ---
-title: '導覽 Channel 獎勵平臺 (晶片) '
+title: '使用 Channel 獎勵平臺 (晶片) '
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 瞭解如何使用晶片進行獎勵工作。
+description: 瞭解如何使用適用于獎勵工作的 Channel 獎勵平臺 (晶片) 。 請注意，此平臺將于2021結束時淘汰。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ca669cb62995b84dc246cbc5db5d1b9ada8b8ed
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418080"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570394"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>流覽 Channel 獎勵平臺 (晶片) 
 
@@ -41,4 +41,4 @@ Channel 獎勵 Platform (晶片) 可讓您存取特定 Microsoft Channel 獎勵�
 
 ## <a name="next-steps"></a>後續步驟
 
-- [將使用者新增至您的晶片帳戶](chip-users.md)
+- [將使用者新增至您的 CHIP 帳戶](chip-users.md)

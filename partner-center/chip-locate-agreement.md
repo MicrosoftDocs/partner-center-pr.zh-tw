@@ -1,20 +1,20 @@
 ---
-title: 找出合約的桌面計數和費用等級
+title: 尋找桌面人數，晶片中的費用等級
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 其中是晶片中的桌面計數和費用層級資訊。
+description: 瞭解如何使用 Channel 獎勵平臺 (晶片) 找出合約的桌面計數和費用層級資訊。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6eb763593427070fa309efe78fd39a294e9a6d99
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418085"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570547"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>找出合約的桌面計數和費用等級
 

@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417246"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570683"
 ---
 # <a name="benefits-faq"></a>權益常見問題集
 
-適用於：
+**適當的角色**
 
-- 合作夥伴中心
-- Microsoft Cloud for US Government 適用的合作夥伴中心
+- MPN 管理員
+
+本文將討論 Microsoft 合作夥伴網路 (MPN) 權益的許多常見問題。
+
 
 ## <a name="general-questions"></a>一般問題
 
@@ -87,7 +89,7 @@ ms.locfileid: "95417246"
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
 
-2. 在左側導覽中，選取 [ **MPN**]。
+2. 在 [合作夥伴中心] 功能表中，選取 [ **MPN**]。
 
 3. 選取 [ **權益**]，然後選取 [ **Visual Studio**]。
 
@@ -96,7 +98,7 @@ ms.locfileid: "95417246"
 指派訂用帳戶之後，使用者必須登入 Visual Studio 才能管理該訂用帳戶。
 
 >[!Note]
-> 在原始指派的90天后，可能會將 Visual Studio 訂閱從一個訂閱者重新指派給另一個訂閱者
+> Visual Studio 訂閱可能會在原始指派之後，從一位訂閱者重新指派到另一個90天。
 
 ## <a name="technical-benefits-and-support"></a>技術權益和支援
 
@@ -106,7 +108,7 @@ ms.locfileid: "95417246"
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
 
-2. 在左側導覽中，選取 [ **MPN**]。
+2. 在 [合作夥伴中心] 功能表中，選取 [ **MPN**]。
 
 3. 選取 [ **權益**]，然後選取 [ **技術權益**]。
 
@@ -115,3 +117,7 @@ ms.locfileid: "95417246"
 5. 登入 [Microsoft 支援服務](https://support.microsoft.com/supportforbusiness/productselection)。
 
 6. 選取您要嘗試安裝的產品，然後建立技術支援票證。
+
+## <a name="next-steps"></a>後續步驟
+
+- [獲得先進的特製化以展示您的專業知識](advanced-specializations.md)

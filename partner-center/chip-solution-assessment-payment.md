@@ -1,24 +1,24 @@
 ---
-title: 解決方案評估付款狀態和計算資訊
+title: 解決方案評估付款狀態
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 瞭解如何尋找解決方案評估付款的資訊。
+description: 使用 Channel 獎勵平臺 (晶片) 來尋找解決方案評估商機、其計算和其付款狀態的相關資訊。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50aadcb667ff931e53b08a7902bb247798975e2d
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418076"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570462"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>解決方案評估付款狀態和計算資訊
 
-您可以在晶片中檢查解決方案評定商機狀態的付款狀態。 
+您可以在晶片中檢查解決方案評定商機狀態的付款狀態。
 
 ## <a name="how-to-review-your-payment-status"></a>如何檢查您的付款狀態
 
@@ -52,4 +52,4 @@ ms.locfileid: "94418076"
 
 ## <a name="next-steps"></a>後續步驟
 
-- [存取晶片時發生問題](chip-access-trouble.md) 
+- [存取 CHIP 時發生問題](chip-access-trouble.md) 

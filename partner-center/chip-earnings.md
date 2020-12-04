@@ -1,22 +1,22 @@
 ---
-title: 在晶片中查看收益
+title: 在 CHIP 中檢視收益
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 在晶片中查看收益的指導方針
+description: 瞭解如何在 Channel 獎勵平臺 (晶片) 工具中，查看您的獎勵陳述和收益。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418088"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570496"
 ---
-# <a name="view-earnings-in-chip"></a>在晶片中查看收益
+# <a name="view-earnings-using-the-chip-tool"></a>使用晶片工具來查看收益
 
 您可以透過 Channel 獎勵平臺工具 (晶片) 來存取獎勵陳述。
 
@@ -32,7 +32,7 @@ ms.locfileid: "94418088"
 
 ### <a name="explanation-of-details-tabs"></a>詳細資料索引標籤的說明
 
-|**索引標籤**|**定義**|
+|**索引標籤**|**[定義]**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|包含所選時間週期內獎勵方案的詳細資料，包括客戶名稱、合約、杠杆詳細資料|
 |DeltaReport-pivot|從上次發行的 Enterprise 語句更新|
@@ -41,4 +41,4 @@ ms.locfileid: "94418088"
 
 ## <a name="next-steps"></a>後續步驟
 
-- [檢查晶片中的付款狀態](chip-payment-status.md)
+- [檢查 CHIP 中的付款狀態](chip-payment-status.md)

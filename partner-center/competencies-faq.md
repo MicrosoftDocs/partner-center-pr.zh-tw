@@ -2,18 +2,18 @@
 title: 專長認證-常見問題
 ms.topic: article
 ms.date: 11/23/2020
-description: 關於獲得 Microsoft 合作夥伴網路金級和銀級專長認證、權益到期、更新及啟用 Azure、雲端、Visual Studio 和技術及支援權益等相關問題的解答
+description: MPN 金級或銀級專長認證、權益到期、續約或啟用 Azure、雲端、Visual Studio、技術、支援權益的相關解答。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812826"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570479"
 ---
 # <a name="competencies---frequently-asked-questions"></a>專長認證-常見問題
 

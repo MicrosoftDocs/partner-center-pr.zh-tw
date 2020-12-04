@@ -1,20 +1,20 @@
 ---
-title: Channel 獎勵 Platform (晶片) 的解決方案評量商機狀態
+title: 晶片解決方案評定商機狀態
 ms.topic: how-to
 ms.date: 11/09/2020
-description: 瞭解如何在晶片上尋找您的解決方案評量商機狀態。
+description: 瞭解如何在 Channel 獎勵平臺 (晶片) 中找出您的解決方案評量機會狀態。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94418081"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570377"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>在晶片上尋找您的解決方案評量商機狀態
 
@@ -42,11 +42,11 @@ ms.locfileid: "94418081"
  
      - 選取 **解決方案評量獎勵。**
 
-     - 在 [ **我需要**...] 區段中，按一下 [ **搜尋交易** ]。
+     - 在 [**我需要**...] 區段中，按一下 [ **搜尋交易**]。
 
-     - 在 [ **商機** ] 方塊中輸入您的商機識別碼，然後按一下 [ **搜尋** ]。
+     - 在 [ **商機** ] 方塊中輸入您的商機識別碼，然後按一下 [ **搜尋**]。
 
-     - 一旦顯示商機，請按一下 [ **提交** ]。
+     - 一旦顯示商機，請按一下 [ **提交**]。
   
      - 在 [新增 POE] 功能表中，流覽至所需的 POE 檔，然後選取它。
 
@@ -54,7 +54,7 @@ ms.locfileid: "94418081"
 
      - 請視需要重複執行此作業，以上傳所有必要的檔。
 
-     - 所有檔上傳完成後，按一下 [ **提交** ]。
+     - 所有檔上傳完成後，按一下 [ **提交**]。
 
 如果未核取 [EM 核准] 核取方塊，請洽詢您的解決方案評量專家 (SAS) 以檢查並提供核准。
  
@@ -62,7 +62,7 @@ ms.locfileid: "94418081"
 
 ## <a name="next-steps"></a>後續步驟
 
-- [檢查晶片中的付款狀態](chip-payment-status.md)
+- [檢查 CHIP 中的付款狀態](chip-payment-status.md)
 - [支援](report-problems-with-partner-center.md)
 
 .
