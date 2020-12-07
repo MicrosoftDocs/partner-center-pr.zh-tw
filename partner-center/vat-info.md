@@ -5,15 +5,15 @@ ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663879"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755634"
 ---
-# <a name="vat-info"></a>VAT 資訊
+# <a name="value-added-tax-vat-information"></a>加值稅 (加值稅) 資訊的加值稅
 
 **適用於：**
 
@@ -26,11 +26,29 @@ ms.locfileid: "91663879"
 
 增值稅 (VAT) 編號是歐盟國家或地區使用的一種識別碼。 如需詳細資訊，請參閱歐盟的官方 [VIES 網站](http://ec.europa.eu/taxation_customs/vies/vieshome.do)。
 
+## <a name="location-specific-vat-information"></a>特定位置的 加值稅 資訊
+
+下列詳細資料對以下所列的國家或地區而言是唯一的。
+
+### <a name="european-union"></a>歐盟
+
+在歐盟會員國內，合作夥伴必須提供其有效加值稅識別碼編號，以供反向徵收和適當的計費。 加值稅編號必須有效才能予以接受。
+
+Microsoft 不支援點數和重新帳單。 銷售任何訂用帳戶之前，您必須在合作夥伴中心中註冊您的加值稅 [識別碼號碼](organization-tax-info.md) 。
+
+### <a name="south-africa"></a>南非
+
+Microsoft 現在會在南非的夥伴購買的數位內容和服務上套用標準 加值稅。 若要從發票中排除 加值稅 並自行管理，您必須將您的加值稅識別碼傳送給 [Microsoft](organization-tax-info.md)，以更新您的合作夥伴帳單設定檔。
+
+### <a name="turkey"></a>土耳其
+
+Microsoft 現在會在以土耳其的夥伴購買的數位內容和服務上套用標準 加值稅。 若要從發票中排除 加值稅 並自行管理，您必須將您的加值稅識別碼傳送給 [Microsoft](organization-tax-info.md)，以更新您的合作夥伴帳單設定檔。
+
 ## <a name="accepted-formats-for-vat-numbers"></a>VAT 編號接受的格式
 
 請注意，Microsoft 不會提供任何稅務建議，且下表僅提供作為指引。 如果本指南不足以提供加值稅號碼給 Microsoft，您應該向當地稅務機關確認任何最近的變更。
 
-|國家/地區 | VAT 資訊 |
+|國家/區域 | VAT 資訊 |
 |:------------|:----------|
 |奧地利  |-加值稅 編號格式：1個字母和8位數<br/>-國家/地區代碼： AT<br/>-範例： U12345678<br/>-注意：第一個字元一律會是 ' U '。 |
 |比利時  |-加值稅 編號格式：10位數<br/>-國家/地區代碼：是<br/>-範例：1234567890<br/>-附注：在2007年1月1日之前的9位數。 |

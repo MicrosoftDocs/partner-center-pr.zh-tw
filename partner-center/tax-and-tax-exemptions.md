@@ -1,101 +1,76 @@
 ---
-title: 區域稅額和稅金豁免
+title: 區域稅金和免稅
 ms.topic: article
-ms.date: 06/05/2020
-description: 針對 CSP 方案合作夥伴，請瞭解每個區域的稅務責任、如何提交 CSP 銷售的稅金豁免，以及如何取得稅務問題的支援。
+ms.date: 12/04/2020
+description: 針對 CSP 方案合作夥伴，瞭解每個區域的稅務責任、如何提交豁免的 CSP 銷售免稅，以及如何取得稅務問題的支援。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea6d654f6124c711ae1cc355f71e6ee956c8c65a
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "86436417"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755583"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>依照 CSP 計畫中的合作夥伴區域或國家/地區，閱讀有關稅金和免稅明細的詳細資訊
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>請參閱 CSP 方案中的合作夥伴區域或國家/地區的稅金和豁免詳細資料
 
 適用於：
 
 - 合作夥伴中心
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
-雲端解決方案提供者（CSP）計畫是一種銷售通路，著重于合作夥伴轉售的產品。 因此，Microsoft 不一定需要向交易夥伴發票收取銷售稅務費用。 這些規則會因國家/地區和（或）區域而異。 您可以查看[國家/地區特定和特定區域的免稅詳細資料](#country-and-region-tax-details)。
+雲端解決方案提供者 (CSP) 計畫是一種銷售通路，著重于產品的合作夥伴轉售。 如此一來，Microsoft 不一定需要支付合作夥伴發票的銷售稅。 這些規則會因國家/地區及/或地區而異。 您可以 [針對免稅的國家/地區，查看國家/地區特定和區域專屬詳細資料](#country-and-region-tax-details)。
 
-合作夥伴應該與他們的稅務顧問合作，根據其位置以及其客戶的所在位置來提出[稅務豁免](#file-tax-exemptions)的依據。
+請與您的稅務顧問合作，以根據您的地點和客戶的地點來提出 [免稅豁免](#file-a-tax-exemption) 。
 
-## <a name="country-and-region-tax-details"></a>國家和地區稅務詳細資料
+## <a name="country-and-region-tax-details"></a>國家與地區稅務詳細資料
 
-特定的稅務相關資訊適用于下列國家和地區：[加拿大](#canada)、歐洲聯[集](#european-union)、[南非](#south-africa)、[土耳其](#turkey)和[美國](#united-states)。 若為臺灣和韓國，請參閱[稅務收據詳細資料](#tax-receipts-and-daf)。
+適用于加拿大和美國地區的特定稅務相關資訊。 針對臺灣和韓國，請參閱 [稅務收據詳細資料](#tax-receipts-and-daf)。
 
-如果您在另一個國家或地區收取稅金，請參閱[其他地區的資訊](#other-regions)。
+如果您是在另一個國家或地區收取稅款，請參閱 [其他區域的資訊](#other-regions)。
 
-如有其他問題，請[在合作夥伴中心要求支援](#support)。
+如有其他問題，請 [合作夥伴中心中的要求支援](#support)。
 
 ### <a name="canada"></a>加拿大
 
-大部分經銷商不能於 GST/HST/QST 免稅。 請洽詢您的稅務顧問，以判斷您是否符合豁免資格，以及應提供給 Microsoft 的檔。
+大部分經銷商不能於 GST/HST/QST 免稅。 請諮詢您的稅務顧問，以判斷您是否有資格豁免，以及應提供給 Microsoft 的檔。
 
-針對 BC PST 豁免，請依照所述提出免稅。 提供您的 BC PST 編號，或完整且簽署過的 *Certificate of Exemption General*。
-
-### <a name="european-union"></a>歐盟
-
-在歐盟會員國內，合作夥伴必須提供其有效加值稅識別碼編號，以供反向徵收和適當的計費。 加值稅編號必須有效才能予以接受。
-
-Microsoft 不支援信用額度和重新計費。 銷售任何訂用帳戶之前，您必須先在合作夥伴中心[註冊您的 加值稅 ID 號碼](organization-tax-info.md)。
-
-### <a name="south-africa"></a>南非
-
-Microsoft 現在會在南非合作夥伴購買的數位內容和服務上套用標準 加值稅。 若要從您的發票排除 加值稅 並自行管理，您必須將您的[加值稅 ID 號碼](organization-tax-info.md)傳送給 Microsoft，以更新您的合作夥伴帳單設定檔。
-
-### <a name="turkey"></a>土耳其
-
-Microsoft 現在會在以土耳其方購買的數位內容和服務上套用標準 加值稅。 若要從您的發票排除 加值稅 並自行管理，您必須將您的[加值稅 ID 號碼](organization-tax-info.md)傳送給 Microsoft，以更新您的合作夥伴帳單設定檔。
+如果是 BC PST 豁免，請提出所述的免稅。 提供您的 BC PST 編號，或完整且簽署過的 *Certificate of Exemption General*。
 
 ### <a name="united-states"></a>美國
 
 在美國的所有經銷商都應該在接受《Microsoft 經銷商合約》之後的 30 天內提供減免營業稅文件。 每個州針對銷售有不同的免稅憑證。 請諮詢您的稅務顧問，以判斷與您登記地址和州籍相關的重要事項。
 
-這可能包括可在多種狀態下工作的轉售豁免憑證，例如「*簡化銷售*」和「*使用稅務合約」的豁免憑證*，或*MTC 統一銷售 & 使用免稅憑證*。
+這可能包括可在多種狀態下運作的轉售豁免憑證，例如「 *簡化銷售* 」和「 *使用免稅」憑證豁免* ，或 *MTC 統一銷售 & 使用免稅憑證*。
 
 ### <a name="other-regions"></a>其他區域
 
-如果您是在另一個國家或地區收取稅金，請[在合作夥伴中心](#support)為您的問題要求支援。
+如果您在另一個國家或地區收取稅款，請 [在合作夥伴中心中要求支援](#support) 以解決問題。
 
 ## <a name="tax-receipts-and-daf"></a>稅金收據和 DAF
 
 報核聯 (適用於台灣或韓國) 或 DAF 通常在發票產生後需要兩周的作業時間。
 
-## <a name="file-tax-exemptions"></a>回報免稅
+## <a name="file-a-tax-exemption"></a>提出免稅
 
-在您提出免稅申請之前，請先尋找您的**MICROSOFT id**和**MPN id**以包含在支援票證中：
+在提出免稅的豁免之前，請確定您瞭解下列幾點：
 
-1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
-2. 在 [**設定**] 功能表（齒輪圖示）中，選擇 [**合作夥伴設定**]。
-3. 在 [**帳戶設定**] 頁面上，選擇 [儀表板] 功能表中的 [**組織設定檔**]。
-4. 請記下您的**MICROSOFT ID**。
-5. 在同一個頁面上，選擇 [儀表板] 功能表中的 [**夥伴設定檔**]。
-6. 記下您的**MPN 識別碼**。
+- 您必須為每個 CSP 租使用者提出免稅。
 
-然後，使用您的免稅資訊來為 Microsoft 建立支援票證：
+- 您必須 (FEIN) 提交您的稅務識別碼或聯邦雇主識別碼。 此號碼通常會出現在您的稅務憑證上。
 
-1. 在 [儀表板] 功能表的 [**支援**] 底下，選擇 [**合作夥伴支援要求**]。
-2. 在 [**合作夥伴要求**] 頁面上，選擇 [**新增要求**]。 （您也可以在此頁面稍後查看開啟和關閉的支援要求）。
-3. 在 [**基本**] 步驟的 [ **CSP-帳單和付款**] 底下，選擇 [**選取問題類型**]，然後選取 [**免稅要求**]。
-4. 在 [**解決方案**] 步驟的 [**您需要其他協助嗎？**] 底下，選擇 **[是]**。
-5. 在 [**詳細資料**] 步驟中，填寫 [**問題詳細資料**] 表單。 請務必：
+- 根據您的國家/地區、地區或州，您的銷售免稅具有法律指導方針，這些指導方針適用于 (或類似部門) 的當地部門，而且必須據以管理。 雖然許多位置都有每年續訂的總稅務憑證，但有些位置可能會以兩年或更久的時間更新。 您應該檢查您的憑證或聯繫當地稅務機構，以驗證這項資訊及其他資訊。
 
-    - 填寫所有必要欄位。
-    - 在 [**詳細資料**] 欄位中包含您的**Microsoft ID**和**MPN id** 。
-    - 在 [附件] 欄位中包含任何支援的檔給您的票證。
-
-6. 選擇 [**提交**] 以在您的支援要求中傳送。 Microsoft 將會寄送電子郵件給您，以取得詳細資訊。
+當您準備好提出免稅的申請時，請使用 [Microsoft 支援服務](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) 開啟票證，並提供適當的資訊。
 
 ## <a name="support"></a>支援
 
-如有其他關於稅務豁免和退款的問題，請在合作夥伴中心要求支援。 請提供 Microsoft 兩週的時間來與您連絡和解決問題。
+如有免稅和退款的相關問題，或其他稅務相關問題，請合作夥伴中心要求支援。 請提供 Microsoft 兩週的時間來與您連絡和解決問題。
 
-如需其他稅務相關檔需求，請同時在合作夥伴中心要求服務。
+## <a name="next-steps"></a>後續步驟
+
+- [Billing](billing.md)
