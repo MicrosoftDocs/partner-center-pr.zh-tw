@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 12/04/2020
-ms.openlocfilehash: 5a1b27f108440fc9adfc2cefefd2e4c2bf79ff48
-ms.sourcegitcommit: 558533fb39b13aefc3ab2b015145a908f86f8d7d
+ms.date: 12/07/2020
+ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
+ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "96612790"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96776897"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作夥伴中心 (電腦) 共同銷售的指南，適用于從合作夥伴銷售 Connect (PSC 進行遷移的合作夥伴) 
 
@@ -66,22 +66,22 @@ ms.locfileid: "96612790"
   >[!Note]
   > 您可能必須登出合作夥伴中心並重新登入，以重新整理您的認證以存取 [參考] 頁面。
 
-如果您在 [合作夥伴中心] 功能表或 [參考] 相關頁面上看不到 [ **推薦** ] 選項，請洽詢貴公司的 [全域管理員](permissions-overview.md) ，並要求他們提供您對 [ **推薦** ] 選項和相關區域的存取權。 
+如果您在 [合作夥伴中心] 功能表或 [參考] 相關頁面上看不到 [ **推薦** ] 選項，請洽詢貴公司的 [帳戶管理員](permissions-overview.md) ，並要求他們提供您對 [ **推薦** ] 選項和相關區域的存取權。
 
-若要找出貴公司的全域管理員：
+若要尋找您公司的帳戶管理員：
 
 1. 從合作夥伴中心儀表板右上角的齒輪圖示，選取 [ **帳戶設定** ]。
 
-1. 從第二層、左側導覽功能表選取 [ **使用者管理** ]。 
+1. 從第二層、左側導覽功能表選取 [ **使用者管理** ]。
 
-1. 在 [使用者] 清單的頂端，選取 [ **篩選** ] 下拉式功能表。 將選項變更為 [ **全域管理員**]。
+1. 在 [使用者] 清單的頂端，選取 [ **篩選** ] 下拉式功能表。 將選項變更為 [ **帳戶管理員**]。
 
-   頁面會顯示所有全域管理員及其各自的電子郵件地址。 傳送電子郵件給其中一封電子郵件，要求他們為您的工作帳戶指派「參考管理員」角色。
+   頁面會顯示所有的帳戶管理員及其各自的電子郵件地址。 傳送電子郵件給其中一封電子郵件，要求他們為您的工作帳戶指派「參考管理員」角色。
 
   :::image type="content" source="images/pscmigration/account-admin.png" alt-text="顯示 [夥伴設定] 使用者管理頁面中帳戶管理員的影像。":::
 
 >[!Important]
->- 如果您的角色只牽涉到管理 PSC 中的使用者，請要求貴公司的全域管理員為您指派合作夥伴中心中的 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company) 角色。 
+>- 如果您的角色只牽涉到管理 PSC 中的使用者，請要求貴公司的帳戶管理員將合作夥伴中心中的 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company) 角色指派給您。 
 >- 如果您的角色也包含管理共同銷售機會，請要求獲派「 [推薦系統管理員](permissions-overview.md#manage-referrals) 」角色。
 > - 建議您也在 PSC 系統管理員中提名一個變更管理領導人。 這樣做會讓所有的 PSC 系統管理員都不需要個別合作夥伴中心帳戶管理員。 相反地，變更管理潛在客戶可以是與合作夥伴中心帳戶管理員合作的主要人員。
 
@@ -129,7 +129,7 @@ ms.locfileid: "96612790"
 
 完成使用者遷移之後，請使用下列指導方針來決定遷移策略：
 
-如果您的公司有 PDM （當您的合作夥伴中心帳戶已設定，而且您的使用者已移動並具有角色和許可權）時，您可以將共同銷售活動移至合作夥伴中心。 通知 PDM 進行切換，而不是等到您的遷移完成期限，讓您的所有新交易都流入合作夥伴中心。
+如果您的公司有合作夥伴開發經理 (PDM) -當您的合作夥伴中心帳戶已設定，而且您的使用者已移動並具有角色和許可權時，您可以將共同銷售活動移至合作夥伴中心。 通知 PDM 進行切換，而不是等到您的遷移完成期限，讓您的所有新交易都流入合作夥伴中心。
 
 >[!Note]
 >一旦您進行此切換之後，您就只能針對 PSC 中現有的主動式交易採取行動。 您不能建立新交易，也不會收到來自 PSC 的 Microsoft 賣方的任何交易。
@@ -137,7 +137,7 @@ ms.locfileid: "96612790"
 如果您的公司沒有 PDM，請確定所有使用者都已設定並驗證所有的使用者帳戶。 當您在合作夥伴中心中開始共同銷售時，將會透過電子郵件和 PSC 中的橫幅通知您。 請記住，您仍然需要管理 PSC 中現有的主動式交易。
 
 >[!Important]
->使用中交易不會遷移至電腦。 您必須在2020年12月31日前關閉並註冊交易。
+>使用中交易不會遷移至電腦。 您可以在2021年3月31日前結束並註冊交易。
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>適用于 PSC 管理員、PSC 交易經理和 PSC 賣方的後續步驟
 
@@ -263,7 +263,7 @@ ms.locfileid: "96612790"
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2-誰可以授與我合作夥伴中心中 [參考] 區段的存取權？
 
-您的 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company)可以授與您存取 [參考] 索引標籤。若要尋找您的全域管理員，請從合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)右上角的齒輪圖示中選取 [**帳戶設定**]。 然後，從第二層、左側導覽列選取 [ **使用者管理** ]。 在 [使用者] 清單的頂端，選取 [ **篩選** ] 下拉式功能表，然後將選項變更為 [ **全域管理員**]。頁面會顯示所有全域管理員及其各自的電子郵件地址。 要求其中一個使用者為您的工作帳戶指派參考系統管理員角色。
+您的 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company)可以授與您存取 [參考] 索引標籤。若要尋找您的帳戶管理員，請從合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)右上角的齒輪圖示中選取 [**帳戶設定**]。 然後，從第二層、左側導覽列選取 [ **使用者管理** ]。 在 [使用者] 清單的頂端，選取 [ **篩選** ] 下拉式功能表，然後將選項變更為 [ **帳戶管理**]。頁面會顯示所有的帳戶管理員及其各自的電子郵件地址。 要求其中一個使用者為您的工作帳戶指派參考系統管理員角色。
 
 ### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3-我們的帳戶的 [+ 新增交易] 按鈕呈現灰色。 我該怎麼做才能開始建立交易？
 
