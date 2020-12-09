@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000322"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534721"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>適用於 Azure 的 CSP 中新商務體驗的價目表
 
@@ -63,7 +63,7 @@ CSP 中新 Azure 商務體驗的價目表會張貼在合作夥伴中心。 價�
 
 - 價目表中的價格是直接價格。 某些合作夥伴可能符合合作夥伴所獲得信用點數的資格。 如需合作夥伴所獲得信用點數如何計算的相關資訊，請參閱[合作夥伴所獲得信用點數如何計算及付費](partner-earned-credit-explanation.md)。
 
-- **合格的服務**：合作夥伴所獲得信用點數適用於 **Azure 方案使用定價**中所列的服務，合作夥伴可以從 [Azure 方案定價](https://partner.microsoft.com/commerce/sales)頁面匯出。 請注意，有一些例外狀況，包括 (但不限於) Azure 方案使用價目表和 Azure 方案保留的 [標記] 資料行中，識別為 [協力廠商] 的協力廠商產品。
+- **合格的服務**：合作夥伴所獲得信用點數適用於 **Azure 方案使用定價** 中所列的服務，合作夥伴可以從 [Azure 方案定價](https://partner.microsoft.com/commerce/sales)頁面匯出。 請注意，有一些例外狀況，包括 (但不限於) Azure 方案使用價目表和 Azure 方案保留的 [標記] 資料行中，識別為 [協力廠商] 的協力廠商產品。
 
 ## <a name="price-list-data"></a>價目表資料
 
@@ -114,3 +114,7 @@ Azure 方案的價目表可以合作夥伴中心的從[定價與供應項目頁�
 > 定價 API 是用於 Azure 方案定價的專屬 API。 針對 Azure 資源或部署至非 Azure 方案訂用帳戶的保留，則仍請使用合作夥伴中心 [定價與供應項目] 頁面中所公佈的現有 RateCard API 和價目表。 Azure 方案定價 API 不支援軟體、市集或授權型定價，例如 Microsoft 365 或 Dynamics 365。
 
 如需 Azure 方案定價和外幣匯率 API 的詳細資訊，請參閱完整的[定價 API 文件](/partner/develop/pricing)。
+
+## <a name="next-steps"></a>接下來的步驟
+
+- [管理 Azure 方案下的訂用帳戶和資源](azure-plan-manage.md)

@@ -1,7 +1,7 @@
 ---
 title: 證明客戶接受 Microsoft 客戶合約
 description: 了解代表客戶證明接受 Microsoft 客戶合約的適當時機。
-ms.topic: article
+ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: aarzh-AaronZhang
@@ -9,28 +9,21 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: fcf1a682d0150675f8bc8660e8dd5215d4c4333c
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 921926ba44a592b8d2fb5da0a50697d62d9d95c7
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367332"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534772"
 ---
 # <a name="attest-acceptance-of-the-microsoft-customer-agreement-on-behalf-of-your-customer"></a>代表客戶證明接受 Microsoft 客戶合約
 
-**適用於**
-
-- 合作夥伴中心
-- Microsoft 365 系統管理中心
 
 **適當的角色**
 
+- 全域系統管理員
 - 系統管理代理人
-- 銷售代理人
-
-**適當的合作夥伴類型**
-
-- 間接轉銷商、直接帳單、間接提供者
+- 技術服務代理人
 
 本文說明某些案例，這些案例是您可能需要代表客戶證明客戶接受 Microsoft 客戶合約。
 

@@ -9,20 +9,26 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000572"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534908"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>開始搭配 Azure 方案使用隨用隨付費率
+
+**適當的角色**
+
+- 系統管理代理人
+- 銷售代理人
+
 
 Microsoft 在合作夥伴中心引進了新的商務體驗。  透過這種新的商務體驗，合作夥伴可在 Microsoft 客戶合約下，以隨用隨付費率為客戶取得 Azure 服務的存取權。
 
 此方案可簡化購買體驗 - 您可以在 Azure 方案中有多個 Azure 訂用帳戶。 您不再需要針對每個 Azure 訂用帳戶提交個別訂單。 在 Azure 的這項新商務體驗中，我們已協調為單一全球定價原則，讓 CSP 合作夥伴能夠以發佈的價格提供 Azure。
 
-合作夥伴需要有新技能，才能因應我們客戶的數位轉型需求。 許多客戶會尋求合作夥伴提供上述服務，而在交易以外，更要讓他們的雲端旅程更加順暢，並協助他們有效率地使用 Azure 服務。 Microsoft 合作夥伴在客戶生命週期的所有階段都扮演著重要的角色。 這些類型的合作夥伴服務本質上會持續進行，包括 Azure 資產監控、原則和治理管理、設定和組態微調、技術支援，以及各種其他服務。 這些服務要求合作夥伴要相當熟悉客戶的 Azure 環境，也要持續對其管理的基礎資源進行適當的治理與控制。 提供此全天候雲端作業管理的計費合作夥伴，將具有該工作**受控服務的合作夥伴所獲得信用點數**的資格。
+合作夥伴需要有新技能，才能因應我們客戶的數位轉型需求。 許多客戶會尋求合作夥伴提供上述服務，而在交易以外，更要讓他們的雲端旅程更加順暢，並協助他們有效率地使用 Azure 服務。 Microsoft 合作夥伴在客戶生命週期的所有階段都扮演著重要的角色。 這些類型的合作夥伴服務本質上會持續進行，包括 Azure 資產監控、原則和治理管理、設定和組態微調、技術支援，以及各種其他服務。 這些服務要求合作夥伴要相當熟悉客戶的 Azure 環境，也要持續對其管理的基礎資源進行適當的治理與控制。 提供此全天候雲端作業管理的計費合作夥伴，將具有該工作 **受控服務的合作夥伴所獲得信用點數** 的資格。
 
 ## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>請確定您的客戶已簽署 Microsoft 客戶合約
 

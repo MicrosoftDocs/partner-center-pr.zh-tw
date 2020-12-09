@@ -1,6 +1,6 @@
 ---
 title: Azure CSP 中可用的 Azure 服務
-description: 本節將討論 Azure 雲端解決方案提供者 (CSP) 計畫中可用和不可用的 Azure 服務。
+description: 本文討論 Azure 雲端解決方案提供者 (CSP) 方案中可用和「不」可用的 Azure 服務。
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 094aa585be3114c198a8581b3d23bd4b212393c9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2ca8df054a48217a21dbdd897bd260e7bc181e62
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999272"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534959"
 ---
 # <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure 雲端解決方案提供者 (CSP) 計畫中可用的 Azure 服務
 
