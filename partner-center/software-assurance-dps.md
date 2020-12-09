@@ -1,107 +1,106 @@
 ---
 title: 軟體保證規劃服務
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 瞭解如何在 Microsoft 規劃服務參與中註冊並符合資格，讓您可以提供訓練和其他服務給具有軟體保證的客戶。
+description: 瞭解如何註冊及符合 Microsoft 規劃服務參與專案的資格，讓您可以使用軟體保證為客戶提供訓練及其他服務。
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "88092027"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926639"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>合作夥伴中心的軟體保證規劃服務
 
 **適當的角色**
 
 - 全域管理員
-- MPN 合作夥伴系統管理員
+- MPN 夥伴管理員
 
-作為核准的規劃服務合作夥伴，Microsoft 會補償您為企業客戶提供預先部署的規劃活動。 參與此計畫可協助您吸引更多客戶、成為其受信任的規劃合作夥伴，並導致其他客戶參與。
+作為核准的規劃服務合作夥伴，Microsoft 會補償您為企業客戶提供預先部署規劃的參與。 參與此計畫可協助您吸引更多客戶、成為其信任的規劃合作夥伴，並導致其他客戶合作。
 
 ## <a name="get-started"></a>開始使用
 
-如果您不熟悉軟體保證規劃服務，請遵循下列所有步驟。 如果您已經在規劃服務程式 (s) 中使用，請在下面的步驟四 (4) 開始每個新的參與。
+如果您不熟悉軟體保證的規劃服務，請遵循下列所有步驟。 如果您已經在規劃服務方案 (的) 中，請在以下步驟四 (4) 開始每次新的參與。
 
-1. 確認新合作夥伴的資格 () 
+1. 確認 (新夥伴) 的資格
 2. 註冊 (新的合作夥伴) 
 3.  (新的合作夥伴建立或更新公司的商務設定檔) 
-4. 客戶會建立並指派 (現有合作夥伴的憑證) 
-5.  (現有的合作夥伴驗證並保留憑證) 
-6. 完成 engagement 並為您的客戶 (現有的合作夥伴提供交付專案) 
-7. 在合作夥伴中心 (現有的合作夥伴兌換憑證) 
-8. 向 Microsoft (現有合作夥伴申請付款) 
+4. 客戶 (現有的夥伴建立並指派憑證) 
+5. 驗證及保留 (現有夥伴) 的憑證
+6. 完成參與並提供交付專案給客戶 (現有的合作夥伴) 
+7. 在合作夥伴中心 (現有的合作夥伴中兌換憑證) 
+8. 從 Microsoft (現有的合作夥伴要求付款) 
 
 本文說明如何完成每個步驟。
 
-## <a name="verify-eligibility-new-partners"></a>確認新合作夥伴的資格 () 
+## <a name="verify-eligibility-new-partners"></a>確認 (新夥伴) 的資格
 
-在合作夥伴公司和顧問可以註冊其中一項規劃服務供應專案之前，他們必須滿足合規性訓練需求和專長認證需求：
+在合作夥伴公司和顧問註冊其中一個規劃服務供應專案之前，他們必須滿足專長認證需求，如下所示：
 
-- **合規性訓練需求。** 方案的合規性訓練需求必須滿足公司層級。
-- **專長認證需求。** 專長認證需求專屬於要傳遞的 engagement 而異。 例如，您的公司可能已在「桌上型電腦部署規劃服務 (DDPS) 」供應專案中註冊。 不過，如果您的公司也保有該特定 engagement 的合格專長認證，您就只有在 DDPS 供應專案中提供特定參與的資格。
+**專長認證需求。** 專長認證需求是要交付之參與專案的特定需求。 例如，您的公司可能會在桌上型電腦部署規劃服務 (DDPS) 供應專案中註冊。 不過，如果您的公司也持有該特定參與的合格專長認證，您就只能在 DDPS 供應專案中提供特定的參與專案。
 
 >[!NOTE]
-> 若要深入瞭解特定參與的資格需求，請[參閱規劃服務合作的資格需求](software-assurance-dps-requirements.md)。
+> 若要深入瞭解特定參與專案的資格需求，請 [參閱規劃服務參與的資格需求](software-assurance-dps-requirements.md)。
 
-若要協助確認貴公司在特定規劃服務參與中註冊的資格：
+若要協助驗證您公司的資格，以註冊特定的規劃服務參與：
 
 1. 登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/home)。
-2. 從功能表中選取 [ **MPN** ]，然後選取 [**程式**]。
-3. 選取 [**軟體保證註冊**]。
-4. 選取頁面頂端的 [**規劃服務程式註冊**] 索引標籤。 您會在任何已完成的需求或職稱旁看到綠色核取記號。
+2. 從功能表選取 [ **MPN** ]，然後選取 [ **程式**]。
+3. 選取 [ **軟體保證註冊**]。
+4. 選取頁面頂端的 [ **規劃服務方案註冊** ] 索引標籤。 您將會在任何已完成的需求或專長認證旁邊看到綠色核取記號。
 
 ## <a name="enroll-new-partners"></a>註冊 (新的合作夥伴) 
 
-當您的公司符合資格需求之後，您就可以開始簽署軟體保證規劃服務方案合約，並註冊一或多項方案供應專案。
+當您的公司符合資格需求之後，您就可以開始簽署軟體保證的規劃服務方案合約，並註冊一或多個方案供應專案。
 
-首先，請務必審查所有的[規劃服務方案原則](https://go.microsoft.com/fwlink/?linkid=2115984)。 然後，依照工作流程[步驟 2](https://go.microsoft.com/fwlink/?linkid=2115983)中的指示，在合作夥伴中心完成規劃服務註冊程式。
+首先，請務必檢查所有的 [規劃服務方案原則](https://go.microsoft.com/fwlink/?linkid=2115984)。 然後，依照工作流程 [步驟 2](https://go.microsoft.com/fwlink/?linkid=2115983) 中的指示，完成合作夥伴中心中的規劃服務註冊程式。
 
 >[!NOTE]
 > 您將需要更新您的需求，並每年重新註冊規劃服務方案。
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a> (新的合作夥伴建立或更新公司的商務設定檔) 
 
-最大化潛在客戶的風險。 依照[指示和指導](create-a-marketing-profile.md)方針，在合作夥伴中心內建立或更新公司的商務設定檔。
+充分利用潛在客戶的風險。 遵循 [指示和指引](create-a-marketing-profile.md) ，在合作夥伴中心內建立或更新公司的商務設定檔。
 
-## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>客戶會建立並指派 (現有合作夥伴的憑證) 
+## <a name="customer-creates-and-assigns-voucher-existing-partners"></a>客戶 (現有的夥伴建立並指派憑證) 
 
-您的客戶必須採取下列動作，才能開始進行規劃服務參與：
+您的客戶必須執行下列動作，才能開始規劃服務參與：
 
 1. 客戶必須先啟用其規劃服務權益。
-2. 客戶接著必須建立規劃服務憑證，並將它指派給其公司中的專案經理。
+2. 接著，客戶必須建立規劃服務的憑證，並將它指派給公司中的專案經理。
 
-如需客戶建立憑證並將其指派給您的詳細指示，請參閱工作流程的[步驟 4](https://go.microsoft.com/fwlink/?linkid=2115983) 。 如需客戶體驗的總覽，請參閱[VLSC 軟體保證指南](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf)。
+如需客戶建立憑證並將其指派給您的詳細指示，請參閱工作流程的 [步驟 4](https://go.microsoft.com/fwlink/?linkid=2115983) 。 如需客戶體驗的總覽，請參閱 [VLSC 軟體保證指南](https://download.microsoft.com/download/A/7/D/A7D04694-1B1E-4B18-918F-0EDCD43BA2E5/VLSC-Software-Assurance-Guide_en-US.pdf)。
 
-## <a name="validate-and-reserve-voucher-existing-partners"></a> (現有的合作夥伴驗證並保留憑證) 
+## <a name="validate-and-reserve-voucher-existing-partners"></a>驗證及保留 (現有夥伴) 的憑證
 
-當客戶在大量授權服務中心將憑證指派給您的公司時[ (VLSC) ](https://www.microsoft.com/Licensing/servicecenter/default.aspx)，客戶會收到包含憑證識別碼的電子郵件。 客戶必須將此電子郵件轉寄給您，您才能擁有保留該憑證所需的資訊。
+客戶在大量授權服務中心中指派憑證給您的公司之後 [ (VLSC) ](https://www.microsoft.com/Licensing/servicecenter/default.aspx)，客戶會收到包含該憑證識別碼的電子郵件。 客戶必須將此電子郵件轉寄給您，您才能擁有保留憑證所需的資訊。
 
-當您擁有憑證詳細資料時，可以保留該憑證並排程規劃參與。 如需如何在合作夥伴中心儀表板中執行此動作的詳細指引，請參閱工作流程的[步驟 5](https://go.microsoft.com/fwlink/?linkid=2115983) 。
+當您有憑證詳細資料時，可以保留該憑證，並排程規劃參與。 如需有關如何在合作夥伴中心儀表板中執行此作業的詳細指引，請參閱工作流程的 [步驟 5](https://go.microsoft.com/fwlink/?linkid=2115983) 。
 
-## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>完成 engagement 並為您的客戶 (現有的合作夥伴提供交付專案) 
+## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>完成參與並提供交付專案給客戶 (現有的合作夥伴) 
 
-若要符合交付規劃服務的資格，顧問必須已完成一或多項 engagement 合格專長認證所需的技術評量或測驗。  (若要深入瞭解所需的評量或測驗，請[參閱規劃服務參與的資格需求](software-assurance-dps-requirements.md)。 ) 
+為了符合交付規劃服務參與的資格，顧問必須已完成參與的一或多項技術評量或測驗，以進行 engagement 的合格專長認證。  (若要深入瞭解所需的評量或測驗，請 [參閱規劃服務參與的資格需求](software-assurance-dps-requirements.md)。 ) 
 
-在您的公司完成 engagement 並提供最終的完整交付專案 () 給客戶之後，您必須填寫並提交線上完成報告。
+當您的公司完成參與並提供最後一個完成的交付專案 (s) 給客戶時，您需要填寫並提交線上完成報告。
 
-如需詳細指引，請參閱工作流程的[步驟 6](https://go.microsoft.com/fwlink/?linkid=2115983) 。
+如需詳細指引，請參閱工作流程的 [步驟 6](https://go.microsoft.com/fwlink/?linkid=2115983) 。
 
 ## <a name="redeem-voucher"></a>兌換憑券
 
-您必須先兌換您的憑證，才可以為 Microsoft 提供遞送的 engagement 發票。 如需詳細指引，請參閱工作流程的[步驟 7](https://go.microsoft.com/fwlink/?linkid=2115983) 。
+您必須先兌換您的憑證，才可以為 Microsoft 提供交付參與專案的發票。 如需詳細指引，請參閱工作流程的 [步驟 7](https://go.microsoft.com/fwlink/?linkid=2115983) 。
 
-## <a name="request-payment-from-microsoft-existing-partners"></a>向 Microsoft (現有合作夥伴申請付款) 
+## <a name="request-payment-from-microsoft-existing-partners"></a>從 Microsoft (現有的合作夥伴要求付款) 
 
-兌換規劃服務券之後，您必須向 Microsoft 發票付款。 付款會透過軟體保證憑證權益 (SAVB) 線上付款工具來處理。
+兌換規劃服務的發票之後，您必須向 Microsoft 發票付款。 付款會透過軟體保證的券權益 (SAVB) 線上付款工具來處理。
 
-若要透過 SAVB 將發票提交給 Microsoft，請遵循工作流程[步驟 8](https://go.microsoft.com/fwlink/?linkid=2115983)中的指示。
+若要透過 SAVB 提交發票給 Microsoft，請依照工作流程 [步驟 8](https://go.microsoft.com/fwlink/?linkid=2115983) 中的指示進行。
 
 ## <a name="next-steps"></a>後續步驟
 

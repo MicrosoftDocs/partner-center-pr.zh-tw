@@ -4,62 +4,62 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 根據您公司的位置，查看您可以銷售 CSP 供應專案的國家、地區和貨幣。
+description: 根據公司的地點，查看您可以銷售 CSP 供應專案的國家/地區、區域和貨幣。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114099"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926656"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>雲端解決方案提供者方案地區市場和貨幣，您可以在其中銷售 CSP 優惠
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>雲端解決方案提供者計畫的區域市場與貨幣，以供您銷售 CSP 供應專案
 
-貴公司的地點決定您的市場。 您的市場包含您可以銷售雲端解決方案提供者（CSP）方案供應專案的區域和/或國家/地區。
+貴公司的地點決定您的市場。 您的市場包含區域及/或國家/地區，您可以在其中銷售雲端解決方案提供者 (CSP) 方案供應專案。
 
-例如，如果您的公司位於美國，您可以將 CSP 供應專案銷售給美國與美國外島的客戶。 如果您的公司位於巴西，您只能將 CSP 供應專案銷售給巴西的客戶。 如果您的公司位於非洲地區，您可以將 CSP 供應專案銷售給非洲地區所有18個國家/地區的客戶。
+例如，如果您的公司位於美國，則您可以將 CSP 供應專案銷售給美國和美國離島的客戶。 如果您的公司位於巴西，您只能將 CSP 供應專案銷售給巴西的客戶。 如果您的公司位於非洲地區，您可以在非洲地區的所有18個國家/地區銷售 CSP 供應專案給客戶。
 
-客戶必須先簽署 Microsoft 客戶合約，您才能代表客戶訂購雲端解決方案提供者供應項目。 您可以在[這裡](agreements.md)找到適用于您地區/國家/地區的 Microsoft 客戶合約。
+客戶必須先簽署 Microsoft 客戶合約，您才能代表客戶訂購雲端解決方案提供者供應項目。 您可以在 [這裡](agreements.md)找到適用于您區域/國家/地區的 Microsoft 客戶合約。
 
 >[!IMPORTANT]
-> 您必須提供簽署者的相關資訊，以確認客戶已接受 Microsoft 客戶合約。 如需詳細資訊，請參閱[確認客戶接受 Microsoft 客戶合約](confirm-consent.md)。
+> 您必須提供簽署人員的相關資訊，以確認客戶已接受 Microsoft 客戶合約。 如需詳細資訊，請參閱[確認客戶接受 Microsoft 客戶合約](confirm-consent.md)。
 
-若要判斷您可以銷售 CSP 供應專案的位置，請在下列其中一份清單中尋找貴公司的位置。 您必須擁有要在其中銷售之位置的 active Microsoft 合作夥伴網路（MPN）識別碼。  
+若要判斷您可以銷售 CSP 供應專案的位置，請在下列其中一個清單中尋找您公司的位置。 您必須有使用中 Microsoft 合作夥伴網路 (MPN) 識別碼，以取得您想要銷售的位置。  
 
 ## <a name="for-unsupported-countries"></a>針對不支援的國家/地區
 
 如果您的國家/地區不受支援，請使用 Office 系統管理員 URL 建立客戶 CSP 關係。 
 
-- 直接帳單合作夥伴會使用下列 url： https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 。 將**partnertenantguid**取代為您的租使用者識別碼。 
+- 直接帳單合作夥伴會使用下列 url： https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 。 將 **partnertenantguid** 取代為您的租使用者識別碼。 
 
-- 間接轉銷商的 URL 為： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 。 您會將**IRtenantguid**取代為您的租使用者識別碼。 將**IRMPNID**取代為您的 MPN 識別碼，並將**IPtenantguid**取代為您的間接提供者租使用者識別碼。
+- 間接轉銷商的 URL 為： https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid 。 您會將 **IRtenantguid** 取代為您的租使用者識別碼。 將 **IRMPNID** 取代為您的 MPN 識別碼，並使用間接提供者的租使用者識別碼來取代 **IPtenantguid** 。
 
-## <a name="africa-region-and-market"></a>非洲地區與市場
+## <a name="africa-region-and-market"></a>非洲地區和市場
 
-如果您公司的位置是在下列清單中，您可以將 CSP 供應專案銷售給清單中所有位置的客戶。
+如果您公司的位置是在下列清單中，您可以在清單中的所有位置，將 CSP 供應專案銷售給客戶。
 
 | 國家/地區           | 貨幣 |
 | ------------------------ |:--------:|
-| 安哥拉                   |          |
+| 安哥拉                   |   美元    |
 | 貝南                    |   美元    |
-| 波札那                 |          |
+| 波札那                 |   美元    |
 | 布吉納法索             |   美元    |
 | 蒲隆地                  |   美元    |
 | 喀麥隆                 |   美元    |
-| 維德角               |          |
+| 維德角               |   美元    |
 | 中非共和國 |   美元    |
 | 查德                     |   美元    |
 | 葛摩                  |   美元    |
 | 剛果                    |   美元    |
 | 剛果民主共和國              |   美元    |
-| 象牙海岸            |          |
+| 象牙海岸            |   美元    |
 | 吉布地                 |   美元    |
 | 赤道幾內亞        |   美元    |
 | 厄利垂亞                  |   美元    |
-| 衣索比亞                 |          |
+| 衣索比亞                 |   美元    |
 | 法屬玻里尼西亞         |   美元    |
 | 加彭                    |   美元    |
 | 甘比亞                   |   美元    |
@@ -80,7 +80,7 @@ ms.locfileid: "87114099"
 | 留尼旺                  |   美元    |
 | 盧安達                   |   美元    |
 | 聖多美普林西比    |   美元    |
-| 塞內加爾                  |          |
+| 塞內加爾                  |   美元    |
 | 塞席爾               |   美元    |
 | 獅子山             |   美元    |
 | 索馬利亞                  |   美元    |
@@ -88,28 +88,28 @@ ms.locfileid: "87114099"
 | 聖赫勒拿、阿森松、特里斯坦達庫尼亞群島|    美元   |
 | 坦尚尼亞                 |   美元    |
 | 多哥                     |   美元    |
-| 烏干達                   |          |
-| 尚比亞                   |          |
+| 烏干達                   |   美元    |
+| 尚比亞                   |   美元    |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>亞洲和太平洋地區與市場
+## <a name="asia-and-pacific-region-and-market"></a>亞洲和太平洋地區和市場
 
-如果您公司的位置是在下列清單中，您可以將 CSP 供應專案銷售給清單中所有位置的客戶。
+如果您公司的位置是在下列清單中，您可以在清單中的所有位置，將 CSP 供應專案銷售給客戶。
 
 | 國家/地區     | 貨幣 |
 | --------------     |:--------:|
 |  孟加拉        |   美元    |
-|  不丹            |          |
+|  不丹            |   美元    |
 |  汶萊達魯薩蘭 |   美元    |
-|  柬埔寨          |          |
+|  柬埔寨          |   美元    |
 |  香港         |   美元    |
 |  印尼         |   美元    |
-|  寮國              |          |
+|  寮國              |   美元    |
 |  澳門             |   美元    |
 |  馬來西亞          |   美元    |
-|  馬爾地夫          |          |
-|  緬甸           |          |
-|  尼泊爾             |          |
+|  馬爾地夫          |   美元    |
+|  緬甸           |   美元    |
+|  尼泊爾             |   美元    |
 |  菲律賓       |   美元    |
 |  新加坡         |   美元    |
 |  斯里蘭卡         |   美元    |
@@ -118,9 +118,9 @@ ms.locfileid: "87114099"
 |  越南           |   美元    |
 |
 
-## <a name="australia-region-and-market"></a>澳大利亞地區與市場
+## <a name="australia-region-and-market"></a>澳大利亞地區和市場
 
-如果您公司的位置是在下列清單中，您可以將 CSP 供應專案銷售給清單中所有位置的客戶。
+如果您公司的位置是在下列清單中，您可以在清單中的所有位置，將 CSP 供應專案銷售給客戶。
 
 |  國家/地區        | 貨幣 |
 |  --------------        |:--------:|
@@ -151,16 +151,16 @@ ms.locfileid: "87114099"
 
 ## <a name="brazil-region-and-market"></a>巴西地區和市場
 
-如果您公司的位置是巴西，您可以將 CSP 供應專案銷售給巴西的客戶。
+如果您公司的地點是巴西，則可以將 CSP 供應專案銷售給巴西的客戶。
 
 |  國家/地區 | 貨幣 |
 |  -------------- |:--------:|
 |  巴西         |   美元    |
 |
 
-## <a name="canada-region-and-market"></a>加拿大地區與市場
+## <a name="canada-region-and-market"></a>加拿大地區和市場
 
-如果您公司的位置是在下列清單中，您可以將 CSP 供應專案銷售給清單中所有位置的客戶。
+如果您公司的位置是在下列清單中，您可以在清單中的所有位置，將 CSP 供應專案銷售給客戶。
 
 |  國家/地區 | 貨幣 |
 |  -------------- |:--------:|
@@ -168,9 +168,9 @@ ms.locfileid: "87114099"
 |  聖匹島|  加拿大幣   |
 |
 
-## <a name="europe-region-and-market"></a>歐洲地區與市場
+## <a name="europe-region-and-market"></a>歐洲地區和市場
 
-如果您公司的位置是在下列清單中，您可以將 CSP 供應專案銷售給清單中所有位置的客戶。
+如果您公司的位置是在下列清單中，您可以在清單中的所有位置，將 CSP 供應專案銷售給客戶。
 
 |  國家/地區 | 貨幣  |
 |  -------------- |:--------:|
@@ -179,9 +179,9 @@ ms.locfileid: "87114099"
 |  奧地利        |   歐元    |
 |  比利時        |   歐元    |
 |  布威島  |   歐元    |
-|  保加利亞       |          |
+|  保加利亞       |   歐元    |
 |  克羅埃西亞        |   歐元    |
-|  賽普勒斯         |          |
+|  賽普勒斯         |   歐元    |
 |  捷克共和國 |   歐元    |
 |  丹麥        |   丹麥幣    |
 |  愛沙尼亞        |   歐元    |
@@ -191,7 +191,7 @@ ms.locfileid: "87114099"
 |  德國        |   歐元    |
 |  直布羅陀      |   英鎊    |
 |  希臘         |   歐元    |
-|  格陵蘭      |          |
+|  格陵蘭      |   歐元    |
 |  根息       |   英鎊    |
 |  匈牙利        |   歐元    |
 |  冰島        |   歐元    |
@@ -203,8 +203,8 @@ ms.locfileid: "87114099"
 |  列支敦斯登  |   歐元    |
 |  立陶宛      |   歐元    |
 |  盧森堡     |   歐元    |
-|  馬爾他          |          |
-|  摩納哥         |          |
+|  馬爾他          |   歐元    |
+|  摩納哥         |   歐元    |
 |  荷蘭    |   歐元    |
 |  挪威         |   挪威克朗    |
 |  波蘭         |   歐元    |
@@ -223,34 +223,34 @@ ms.locfileid: "87114099"
 
 ## <a name="india-region-and-market"></a>印度地區和市場
 
-如果您公司的地點是印度，您可以將 CSP 供應專案銷售給印度的客戶。
+如果您公司的地點是印度的，您可以將 CSP 供應專案銷售給印度的客戶。
 
 |  國家/地區 | 貨幣 |
 |  -------------- |:--------:|
 |  印度          |   印度幣    |
 |
 
-## <a name="japan-region-and-market"></a>日本地區與市場
+## <a name="japan-region-and-market"></a>日本地區和市場
 
-如果您公司的地點是日本，您可以將 CSP 供應專案銷售給日本的客戶。
+如果貴公司的地點是日本，您可以將 CSP 供應專案銷售給日本的客戶。
 
 |  國家/地區 | 貨幣 |
 |  -------------- |:--------:|
 |  日本          |   日圓    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>韓國，地區與市場
+## <a name="korea-republic-of-region-and-market"></a>韓國、區域和市場
 
-如果您公司的位置是韓國，您可以將 CSP 供應專案銷售給韓國的客戶。
+如果貴公司的地點是韓國，您可以將 CSP 供應專案銷售給韓國的客戶。
 
 |  國家/地區    | 貨幣 |
 |  --------------    |:--------:|
 |  大韓民國|   韓元    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>拉丁美洲和加勒比海地區與市場
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>拉丁美洲和加勒比海地區和市場
 
-如果您公司的位置是在下列清單中，您可以將 CSP 供應專案銷售給清單中所有位置的客戶。
+如果您公司的位置是在下列清單中，您可以在清單中的所有位置，將 CSP 供應專案銷售給客戶。
 
 |  國家/地區 | 貨幣 |
 |  -------------- |:--------:|
@@ -278,13 +278,13 @@ ms.locfileid: "87114099"
 |  福克蘭群島|  美元    |
 |  法屬圭亞那  |   美元    |
 |  格瑞那達        |   美元    |
-|  瓜地洛普     |          |
+|  瓜地洛普     |   美元    |
 |  瓜地馬拉      |   美元    |
 |  蓋亞那         |   美元    |
 |  海地          |   美元    |
 |  宏都拉斯       |   美元    |
 |  牙買加        |   美元    |
-|  馬丁尼克     |          |
+|  馬丁尼克     |   美元    |
 |  墨西哥         |   美元    |
 |  蒙哲臘     |   美元    |
 |  尼加拉瓜      |   美元    |
@@ -309,15 +309,15 @@ ms.locfileid: "87114099"
 |  美屬維京群島| 美元 |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>中東、中歐及東歐地區與市場
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>中東、歐洲北部和中東地區和市場
 
-如果您公司的位置是在下列清單中，您可以將 CSP 供應專案銷售給清單中所有位置的客戶。
+如果您公司的位置是在下列清單中，您可以在清單中的所有位置，將 CSP 供應專案銷售給客戶。
 
 |  國家/地區 | 貨幣 |
 |  -------------- |:--------:|
-|  阿富汗    |          |
+|  阿富汗    |   美元    |
 |  阿爾巴尼亞        |   美元    |
-|  阿爾及利亞        |          |
+|  阿爾及利亞        |   美元    |
 |  亞美尼亞        |   美元    |
 |  亞塞拜然     |   美元    |
 |  巴林        |   美元    |
@@ -328,21 +328,21 @@ ms.locfileid: "87114099"
 |  喬治亞        |   美元    |
 |  伊拉克           |   美元    |
 |  以色列         |   美元    |
-|  約旦         |          |
+|  約旦         |   美元    |
 |  哈薩克     |   美元    |
 |  科索沃         |   美元    |
 |  科威特         |   美元    |
 |  吉爾吉斯     |   美元    |
 |  黎巴嫩        |   美元    |
 |  賴索托        |   美元    |
-|  利比亞          |          |
-|  馬其頓共和國|   |
+|  利比亞          |   美元    |
+|  馬其頓，共和國|   |
 |  茅利塔尼亞     |   美元    |
-|  摩爾多瓦        |          |
-|  蒙古       |          |
-|  蒙特內哥羅     |          |
+|  摩爾多瓦        |   美元    |
+|  蒙古       |   美元    |
+|  蒙特內哥羅     |   美元    |
 |  摩洛哥        |   美元    |
-|  莫三比克     |          |
+|  莫三比克     |   美元    |
 |  阿曼           |   美元    |
 |  巴基斯坦       |   美元    |
 |  巴勒斯坦領土 |        |
@@ -351,20 +351,20 @@ ms.locfileid: "87114099"
 |  塞爾維亞         |   美元    |
 |  南非   |   美元    |
 |  史瓦濟蘭      |   美元    |
-|  塔吉克     |          |
+|  塔吉克     |   美元    |
 |  突尼西亞        |   美元    |
 |  土耳其         |   美元    |
-|  土庫曼   |          |
+|  土庫曼   |   美元    |
 |  烏克蘭        |   美元    |
 |  阿拉伯聯合大公國| 美元 |
-|  烏茲別克     |          |
+|  烏茲別克     |   美元    |
 |  葉門          |   美元    |
-|  辛巴威       |          |
+|  辛巴威       |   美元    |
 |
 
-## <a name="new-zealand-region-and-market"></a>新的紐西蘭地區和市場
+## <a name="new-zealand-region-and-market"></a>新的紐西蘭區域和市場
 
-如果您公司的位置是在下列清單中，您可以將 CSP 供應專案銷售給清單中所有位置的客戶。
+如果您公司的位置是在下列清單中，您可以在清單中的所有位置，將 CSP 供應專案銷售給客戶。
 
 |  國家/地區 | 貨幣 |
 |  -------------- |:--------:|
@@ -376,7 +376,7 @@ ms.locfileid: "87114099"
 
 ## <a name="russia-region-and-market"></a>俄羅斯地區和市場
 
-如果您公司的位置是俄羅斯，您可以將 CSP 供應專案銷售給俄羅斯的客戶。
+如果貴公司的地點是俄羅斯，您可以在俄羅斯將 CSP 供應專案銷售給客戶。
 
 |  國家/地區 | 貨幣 |
 |  -------------- |:--------:|
@@ -385,16 +385,16 @@ ms.locfileid: "87114099"
 
 ## <a name="taiwan-region-and-market"></a>臺灣地區和市場
 
-如果您的公司地點為臺灣，您可以將 CSP 供應專案銷售給臺灣的客戶。
+如果貴公司的地點是臺灣，您可以在中國將 CSP 供應專案銷售給客戶。
 
 |  國家/地區 | 貨幣 |
 |  -------------- |:--------:|
 |  台灣         |   新台幣    |
 |
 
-## <a name="united-states-region-and-market"></a>美國地區與市場
+## <a name="united-states-region-and-market"></a>美國地區和市場
 
-如果您公司的位置是在下列清單中，您可以將 CSP 供應專案銷售給清單中所有位置的客戶。
+如果您公司的位置是在下列清單中，您可以在清單中的所有位置，將 CSP 供應專案銷售給客戶。
 
 |  國家/地區       | 貨幣 |
 |  -------------        |:--------:|
