@@ -193,7 +193,7 @@ ________________
 
 今天，我們會針對雲端解決方案提供者計畫中的直接計費合作夥伴需求，分享一些即將來臨的變化。
 
-首先， **我們在直接計費合作夥伴需求中引進了效能標準** 。 想要註冊成為雲端解決方案提供者計畫中直接計費合作夥伴的合作夥伴，必須在其[必要支援合約](https://partner.microsoft.com/support/partnersupport)續約日期之前的 12 個月內，至少達到 30 萬美元的雲端解決方案提供者計畫營收。
+首先，**我們在直接計費合作夥伴需求中引進了效能標準**。 想要註冊成為雲端解決方案提供者計畫中直接計費合作夥伴的合作夥伴，必須在其[必要支援合約](https://partner.microsoft.com/support/partnersupport)續約日期之前的 12 個月內，至少達到 30 萬美元的雲端解決方案提供者計畫營收。
 
 針對目前的直接計費合作夥伴，此效能標準將於 2021 年 1 月生效，而且您必須在合作夥伴支援方案續約日期前符合需求。
 
@@ -209,7 +209,7 @@ ________________
 
 1. **新的營收效能需求**
 
-目前在雲端解決方案提供者計畫中註冊為直接計費合作夥伴的 **現有合作夥伴** ，自 2021 年 1 月起將必須符合新的效能標準。 在下一次的合作夥伴支援方案續約日期來臨之前，您會有時間符合需求。 您可以遵循[本指南](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)，在合作夥伴中心檢閱您過去 12 個月的營收。
+目前在雲端解決方案提供者計畫中註冊為直接計費合作夥伴的 **現有合作夥伴**，自 2021 年 1 月起將必須符合新的效能標準。 在下一次的合作夥伴支援方案續約日期來臨之前，您會有時間符合需求。 您可以遵循[本指南](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)，在合作夥伴中心檢閱您過去 12 個月的營收。
 
 自 **2020 年 10 月** 起，註冊雲端解決方案提供者計畫的新合作夥伴將會成為間接經銷商。 其必須在過去 12 個月內達到至少 30 萬美元的 CSP 營收。 您可以遵循[本指南](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)，在合作夥伴中心檢閱您過去 12 個月的營收。 
 
@@ -448,7 +448,7 @@ ________________
 
 ### <a name="details"></a>詳細資料
 
-適用於 Microsoft Teams 會議室的新 Microsoft Teams 會議室進階 SKU 現在已可供透過您以每月每裝置 50 美元購買 CSP 的客戶使用。 Microsoft Teams 會議室進階 SKU 是 Microsoft Teams 會議室標準 SKU (先前稱為「會議室」授權) 的替代方案。 此 SKU 包含標準供應項目中的一切權益，例如 Microsoft Teams、商務用 Skype Online 和 Intune 管理所需的授權。 此供應項目也可實現電話系統，這是公用交換電話網路 (PSTN) 整合和音訊會議 (如果有的話) 的所需項目。
+透過您購買 CSP 的客戶，現在也能使用全新且適用於 Microsoft Teams 會議室的Microsoft Teams 會議室進階 SKU 了，費率為每月每裝置 50 美元。 Microsoft Teams 會議室進階 SKU 是 Microsoft Teams 會議室標準 SKU (先前稱為「會議室」授權) 的替代方案。 此 SKU 包含標準供應項目中的一切權益，例如 Microsoft Teams、商務用 Skype Online 和 Intune 管理所需的授權。 此供應項目也可實現電話系統，這是公用交換電話網路 (PSTN) 整合和音訊會議 (如果有的話) 的所需項目。
 
 透過進階供應項目，客戶可以存取新發行的 Microsoft Teams 會議室受控服務，在此服務中，會由專家代表客戶處理會議室的管理和作業。 這個雲端式 IT 管理和監視服務可讓 Microsoft Teams 會議室裝置及其週邊設備保持在安全且最新的狀態並受到主動監視和管理，從而維護已專為提供絕佳會議室體驗而最佳化的環境。
 
@@ -752,5 +752,5 @@ FY20 CSP 獎勵計畫期間已於 2020 年 9 月 30 日結束。 FY21 CSP 獎勵
 
 ### <a name="questions"></a>有問題嗎？
 
-在合作夥伴中心的搜尋列中搜尋 **獎勵** ，即可取得獎勵相關問題的建議步驟和自助文章。 
+在合作夥伴中心的搜尋列中搜尋 **獎勵**，即可取得獎勵相關問題的建議步驟和自助文章。 
 ________________
