@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570751"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869311"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "96570751"
 
 | **類別** | **2020 年 12 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[.NET Standard (v1.16.3) 上的 SDK 版本](2020-december.md#4)|12 月 8 日|
+|供應項目/市場|[2020 年 12 月授權型價格清單版本資訊](2020-december.md#3)|12 月 8 日|
 |供應項目/市場|[美國 Microsoft 365 商務版語音與通話方案供應專案即將更新](2020-december.md#2)|12 月 3 日|
 |功能|[即時實況：教育版客戶驗證程序的合作夥伴中心 API 更新和使用者介面增強功能](2020-december.md#1)|12 月 3 日|
 | **類別** | **2020 年 11 月公告** | **公告** |
