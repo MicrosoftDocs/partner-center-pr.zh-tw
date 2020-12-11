@@ -4,17 +4,17 @@ ms.topic: conceptual
 ms.date: 11/20/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 在合作夥伴中心了解要在哪裡管理貴公司的設定檔、銀行和稅務資訊等等。
+description: 了解如何使用合作夥伴中心管理貴公司的設定檔、銀行和稅務資訊、角色、權限等等。
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439006"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556441"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>管理您的合作夥伴中心帳戶 - 公司設定檔、銀行資訊、角色、權限等等
 

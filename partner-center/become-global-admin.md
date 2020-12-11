@@ -1,7 +1,7 @@
 ---
 title: 成為貴公司的全域系統管理員
 ms.topic: how-to
-ms.date: 10/02/2020
+ms.date: 12/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 若要在合作夥伴中心內工作，您必須先確認網域的擁有權。 了解如何執行此操作，以及如何成為可新增使用者的全域管理員。
@@ -9,32 +9,22 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: abec236f4856fdbfbcaa9654623c5f00b9a47584
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.openlocfilehash: bb6b167cafec3574906377281cf4699b0a15c32e
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "91663799"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570717"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>確認網域擁有權以成為全域管理員 
 
-**適用於：**
-
-- 合作夥伴中心
 
 **適當的角色**
 
 - 全域系統管理員
 - 帳戶管理員
 
-當貴公司第一次在合作夥伴中心建立帳戶時，員工可能未獲指派開始工作所需的角色。  若要在合作夥伴中心工作，每個人都必須擁有一個指派給他們的角色，其中包括權限。  
-
-## <a name="find-the-companys-global-admin"></a>尋找公司的全域管理員
-
-1. 從合作夥伴中心右上角的 [設定] 圖示中，選取 [使用者管理]。
-
-1. 篩選搜尋方塊中的全域管理員。 貴公司的全域管理員清單隨即出現。 如果貴公司還沒有全域管理員，請遵循下列指示。
-
+若要在合作夥伴中心內工作，您必須先確認網域的擁有權，並且成為貴公司的全域管理員。 此外，您的員工也不會獲指派開始運作所需的角色。  若要在合作夥伴中心工作，每個人都必須擁有一個指派給他們的角色，其中包括權限。  
 
 ## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>確認網域擁有權以成為合作夥伴中心的全域管理員
 
@@ -60,6 +50,12 @@ ms.locfileid: "91663799"
 - 計費
 - 檢視、建立和管理合作夥伴使用者
 - 購買和管理雲端服務
+
+## <a name="find-the-companys-global-admin"></a>尋找公司的全域管理員
+
+1. 從合作夥伴中心右上角的 [設定] 圖示中，選取 [使用者管理]。
+
+1. 篩選搜尋方塊中的全域管理員。 貴公司的全域管理員清單隨即出現。 如果貴公司還沒有全域管理員，請遵循下列指示。
 
 ## <a name="next-steps"></a>接下來的步驟
 

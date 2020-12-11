@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 了解 Microsoft 合作夥伴網路 (MPN) 的權益，包括 Microsoft 行動套件、專長認證和計畫選項，可讓您的產品上市並銷售您的解決方案。
+description: 了解 Microsoft 合作夥伴網路 (MPN) 的權益，例如 Microsoft 行動套件、專長認證或計畫選項，可讓您的產品上市並銷售您的解決方案。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92197984"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556373"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>與 Microsoft 合作並探索成員資格權益
 

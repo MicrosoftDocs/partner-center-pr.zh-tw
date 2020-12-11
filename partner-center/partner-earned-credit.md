@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 深入了解合作夥伴所獲得信用點數 (PEC) 提供簡化的統一 Azure 定價、提供增值的受控服務，並協助消除對利潤的競爭。
+description: 深入了解合作夥伴所獲得信用點數 (PEC) 提供簡化的統一 Azure 定價和增值的受控服務，同時協助消除對利潤的競爭。
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 45a9e4eb4a2e2ddb3419a2c8b1342725964ec39a
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 464a277cc62f8b3349e8f7957106b902081eded8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "89220506"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556390"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>合作夥伴獲得的信用點數 - 概述其在 CSP 的新商務體驗中的運作方式
 
@@ -32,7 +32,7 @@ ms.locfileid: "89220506"
 
 我們客戶的數位轉型需求正在變更合作夥伴所提供價值的本質。 許多客戶會尋求合作夥伴，以提供超越交易的服務。 這類服務可協助他們有更好的雲端體驗，並協助他們有效率地使用 Azure 服務。 這些服務會持續進行，包括 Azure 資產監控、原則和治理管理、設定和組態微調、技術支援，以及各種其他服務。 
 
-這些服務要求合作夥伴不僅要相當熟悉客戶的 Azure 環境，也要持續對其管理的基礎資源進行適當的治理與控制。 提供此全天候雲端作業管理活動的計費合作夥伴，對於合作夥伴所治理和控制的客戶 Azure 資產，具有**受控服務的合作夥伴所獲得信用點數**的資格。
+這些服務要求合作夥伴不僅要相當熟悉客戶的 Azure 環境，也要持續對其管理的基礎資源進行適當的治理與控制。 提供此全天候雲端作業管理活動的計費合作夥伴，對於合作夥伴所治理和控制的客戶 Azure 資產，具有 **受控服務的合作夥伴所獲得信用點數** 的資格。
 
 
 ## <a name="benefits-of-the-partner-earned-credit-for-partners-and-customers"></a>合作夥伴和客戶的合作夥伴所獲得信用點數權益

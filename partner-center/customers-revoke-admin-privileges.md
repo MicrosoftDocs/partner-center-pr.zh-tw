@@ -1,7 +1,7 @@
 ---
 title: 取得客戶的系統管理員權限
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 取得代表客戶管理其服務或訂閱所需的權限。 了解如何授與、撤銷和管理權限。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "87545899"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534874"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>取得管理客戶服務或訂閱的權限
 
@@ -47,7 +47,7 @@ ms.locfileid: "87545899"
 6.  若要管理客戶的帳戶、服務、使用者、授權，請選取客戶名稱旁的向下箭頭以展開其記錄，然後選取您要管理之服務的管理入口網站。
 
 >[!IMPORTANT]  
->客戶可以在服務的管理入口網站中重新指派或移除管理員權限。 不過，除非並直到您與客戶重新協商合約，您將繼續負責提供客戶支援和遵守雲端轉銷商合約，即使客戶重新指派或移除管理員權限。 在此情況下，如果客戶需要協助，請連絡 Microsoft 支援服務，以代表客戶開啟服務要求。
+>客戶可以在服務的管理入口網站中重新指派或移除管理員權限。 不過，您必須通知客戶，移除您的系統管理員權限表示您將無法再代表他們向 Microsoft 開啟服務要求。 在您與客戶重新協商合約之前，您將無法代表客戶開啟這些類型的服務要求。
 
 您的客戶可以從 Office 365 管理入口網站中了解哪些合作夥伴擁有其租用戶的系統管理員權限。 若要這樣做：
 

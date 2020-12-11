@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92333822"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534789"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>建立一個工作帳戶，將您的公司連結至合作夥伴中心帳戶
-
-**適用於**
-
-- 合作夥伴中心
 
 **適當的角色**
 
@@ -71,3 +67,8 @@ Microsoft Azure 是一個公用雲端平台，公司可以用來在 Microsoft �
 Azure 工作帳戶是您公司在 Azure 公用雲端的專用且隔離的虛擬表示，這已在您訂閱 Microsoft 雲端服務 (例如 Azure、Microsoft Intune 或 Office 365) 時建立。
 
 您的工作帳戶會裝載 Azure AD 的使用者和他們的相關資訊 (密碼、設定檔資料、權限等等)。 公司帳戶也包含群組、應用程式，以及其他有關公司與其安全性的資訊。
+
+## <a name="next-steps"></a>後續步驟
+
+- [管理您的合作夥伴中心帳戶](partner-center-account-setup.md)
+- [追蹤驗證狀態](verification-responses.md)

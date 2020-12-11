@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "90999352"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570785"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>建立合作夥伴中心帳戶，以管理網路權益和專長認證
 
@@ -25,21 +25,25 @@ ms.locfileid: "90999352"
 
 您的公司必須是 Microsoft 合作夥伴網路的成員，才能建立在合作夥伴中心建立帳戶。 如果您還不是該網路的成員，您可以[立即加入](https://partner.microsoft.com/commercial#)。 建立合作夥伴中心帳戶之後，請觀看這段短片來[探索您的儀表板](https://vimeo.com/290338211)。
 
-## <a name="before-you-begin"></a>在您開始前
+## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>設定合作夥伴中心帳戶之前，請先取得公司電子郵件地址
+
+貴公司必須購買電子郵件網域，才能為您的員工設定公司電子郵件地址。 請與您的 IT 部門合作來購買電子郵件網域，因為這是技術程序。 使用新的電子郵件來設定您的 Azure AD 租用戶和您的合作夥伴中心帳戶。
+
+## <a name="get-started"></a>開始使用
 
 若要在合作夥伴中心建立帳戶，您必須備妥下列資訊。 您可能需要先花幾分鐘時間收集這些項目，再開始進行：
 
--   全域管理員工作電子郵件。
+- 全域管理員工作電子郵件。
 
--   如果您不確定公司的工作帳戶是什麼，請參閱[您的公司工作帳戶與合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)。如果您的公司沒有工作帳戶，您可以在建立帳戶的過程中建立工作帳戶。 
+- 如果您不確定公司的工作帳戶是什麼，請參閱[您的公司工作帳戶與合作夥伴中心](azure-active-directory-tenants-and-partner-center.md)。如果您的公司沒有工作帳戶，您可以在建立帳戶的過程中建立工作帳戶。 
 
--   公司的法定公司名稱和地址。  
+- 公司的法定公司名稱和地址。  
 
--   簽署法律合約的授權。 確保您已獲得授權，可在註冊過程中依照要求代表公司簽署法律合約。
+- 簽署法律合約的授權。 確保您已獲得授權，可在註冊過程中依照要求代表公司簽署法律合約。
 
--   您要指定擔任主要連絡人之人員的姓名及其在公司的電子郵件。 為了協助確保貴公司的安全性與隱私權，我們將會寄送電子郵件給您的主要連絡人，以確認 (1) 該連絡人已註冊合作夥伴中心帳戶，以及 (2) 此電子郵件地址屬於貴公司。 主要連絡人確認其電子郵件地址之後，我們會持續複查您所提供的資訊。
+- 您要指定擔任主要連絡人之人員的姓名及其在公司的電子郵件。 為了協助確保貴公司的安全性與隱私權，我們將會寄送電子郵件給您的主要連絡人，以確認 (1) 該連絡人已註冊合作夥伴中心帳戶，以及 (2) 此電子郵件地址屬於貴公司。 主要連絡人確認其電子郵件地址之後，我們會持續複查您所提供的資訊。
 
-我們將會在帳戶建立程序期間驗證這項資訊。 
+我們將會在帳戶建立程序期間驗證這項資訊。 如需驗證程序的詳細資訊，請參閱[帳戶驗證](verification-responses.md)
  
 ## <a name="create-a-partner-center-account"></a>建立合作夥伴中心帳戶
 

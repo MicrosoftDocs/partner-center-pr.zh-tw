@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e706c85a31967c163c2b147b0f40bfc4c99f67e2
-ms.sourcegitcommit: 5cbea13b9f5b34e8588382caab9a08537b4ca36f
+ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/17/2020
-ms.locfileid: "92155350"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869328"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解 CSP 計畫合作夥伴的 Microsoft 合作夥伴合約 (MPA)
 
@@ -30,6 +30,8 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>確認您的 MPN 識別碼有效，並已遷移至合作夥伴中心
 
+1. 如果您沒有將 MPN 帳戶從 Partner Membership Center (PMC) 遷移到合作夥伴中心，則您必須[將 MPN 帳戶遷移至合作夥伴中心](move-pmc-pc-map.md)。 完成遷移之後，您要完成其餘的步驟。 
+
 1. 使用您的 MPN 帳戶憑證登入合作夥伴中心。
  
 1. 從 [設定] 選取 [合作夥伴設定檔](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)。
@@ -38,14 +40,16 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
  
 1. 如果 MPN 計畫狀態為 [拒絕] 或 [擱置中]，則表示您的帳戶驗證失敗。 如需了解如何解決驗證問題，請參閱[驗證程序](verification-responses.md)。
 
-1. 如果您沒有看到 MPN 帳戶狀態，或您尚未將 MPN 帳戶從 Partner Membership Center (PMC) 遷移到合作夥伴中心，則您必須[將 MPN 帳戶遷移至合作夥伴中心](move-pmc-pc-map.md)。
+
 
 >[!NOTE]
 >您的 MPN 識別碼帳戶認證可能與您的 CSP 帳戶認證不同。
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>請確認您已註冊為 CSP 間接經銷商
 
-1. 使用您的 CSP 帳戶憑證登入合作夥伴中心。
+1. 如果您尚未在合作夥伴中心註冊為 [CSP 間接經銷商](enrolling-in-the-csp-program.md)，則您必須先進行這項操作。 在合作夥伴中心註冊為 CSP 間接經銷商之後，完成其餘步驟。
+
+1. 使用您的 CSP 全域管理員帳戶憑證登入合作夥伴中心。
 
 1. 從 [設定] 選取 [合作夥伴設定檔](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)。
 
@@ -53,11 +57,11 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 
 1. 如果 [間接經銷商] 的狀態是 [作用中]，則表示您是合作夥伴中心內的作用中間接經銷商。
  
-4. 如果 [間接經銷商] 的狀態是 [合格]，請移至[**儀表板概觀**](https://partner.microsoft.com/pcv/dashboard/overview)來接受 MPA，從而啟用您的帳戶。
+4. 如果 [間接經銷商] 的狀態是 [合格]，請移至 [**儀表板概觀**](https://partner.microsoft.com/pcv/dashboard/overview)來接受 MPA，從而啟用您的帳戶。
  
 1. 如果間接經銷商的狀態為 [拒絕] ，則表示您的帳戶驗證失敗。 如需了解如何解決驗證問題，請參閱[驗證程序](verification-responses.md)。
 
-1. 若您先前已使用間接轉銷商身分上線到合作夥伴中心，請使用全域系統管理員認證在合作夥伴中心儀表板概觀上接受 Microsoft 合作夥伴合約。 您可以從[合作夥伴設定檔](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)的**方案資訊**或 CSP 概觀頁面上的橫幅通知，確認 Microsoft 合作夥伴合約是否已簽署。
+1. 若您先前已使用間接經銷商身分移至合作夥伴中心，請使用全域系統管理員認證在合作夥伴中心儀表板概觀上接受 Microsoft 合作夥伴合約。 您可以從 [合作夥伴設定檔](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)的 **方案資訊** 或 CSP 概觀頁面上的橫幅通知，確認 Microsoft 合作夥伴合約是否已簽署。
 
 請記得接受與間接提供者的 CSP 關聯性要求。
 
@@ -65,23 +69,23 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 
 若要了解您是否已簽署 MPA：
 
-1. 如果您是公司的全域管理員，請登入合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/home)。
+ 以貴公司全域管理員的身分，移至您的 [CSP 概觀](https://partner.microsoft.com/pcv/dashboard/overview)並查看綠色橫幅，此處會出現接受 MPA 的通知。
 
-2. 請移至您的 **CSP 概觀**並查看綠色橫幅，此處會出現接受 MPA 的通知。
  
 :::image type="content" source="images/mpagreen.png" alt-text="顯示接受 MPA 的綠色橫幅":::
 
 >[!NOTE]
 >只有公司的全域管理員可以檢視和簽署 MPA。 如果您不是全域管理員，則必須要求全域管理員驗證 MPA。
 
-## <a name="microsoft-customer-agreement"></a>Microsoft 客戶合約
 
-針對在雲端解決方案提供者中透過 Azure 方案購買的 Azure 服務，以及 2020 年 1 月 31 日之後在雲端解決方案提供者中購買的所有其他供應項目，客戶必須接受 Microsoft 客戶合約 (MCuA)。 如需詳細資訊，請閱讀[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)。
+## <a name="downloadable-step-by-step-guides"></a>可下載的逐步指南
 
+1. [從 PMC 遷移至合作夥伴中心，並接受 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+
+2. [MPN 成員上線和 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+
+3. [確認 Microsoft 合作夥伴合約的接受狀態](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+ 
 ## <a name="next-steps"></a>後續步驟
 
-- [從 PMC 遷移至合作夥伴中心，並接受 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
-
-- [MPN 成員上線和 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
-
-- [確認 Microsoft 合作夥伴合約的接受狀態](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+- [註冊雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)

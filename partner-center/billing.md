@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000152"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570632"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概觀：合作夥伴中心的主要計費和稅務文章
-
-**適用於**
-
-- 合作夥伴中心
-- Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
 
@@ -29,6 +24,9 @@ ms.locfileid: "91000152"
 - 帳單系統管理員
 - 全域系統管理員
 - 銷售代理人
+
+本文提供合作夥伴中心計費和稅賦主題相關資訊的連結，包括計費資源、發票、CSP 計費和稅賦。
+
 
 | 主題 | 說明 |
 | ----- | ----------- |
@@ -44,3 +42,7 @@ ms.locfileid: "91000152"
 | [針對服務中斷要求 SLA 信用額度](request-credit.md) | 當服務中斷時，如何為您的客戶向 Microsoft 要求 SLA 信用額度。 |
 
 如果您要尋找合作夥伴中心 API 的計費資訊和資源，請參閱[開發人員計費文件](/partner-center/develop/manage-billing)。
+
+## <a name="next-steps"></a>後續步驟
+
+- [在商業市集中獲得報酬](marketplace-get-paid.md)

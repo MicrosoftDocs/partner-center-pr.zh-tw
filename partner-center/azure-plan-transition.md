@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000332"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534806"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>將客戶從現有 CSP Azure 供應項目轉換至 Azure 方案
 
@@ -27,9 +27,9 @@ ms.locfileid: "91000332"
 - 銷售代理人
 - 使用者管理系統管理員
 
-間接提供者和直接帳單合作夥伴可以轉換為適用於 Azure 的 Microsoft 雲端服務提供者計畫 (CSP) 中所提供的新商務體驗。 (間接經銷商必須透過其間接提供者來運作)。客戶可以透過簡化的方式購買雲端服務，無論是向合作夥伴、Microsoft 賣方或直接在網路上購買。
+本文說明 CSP 合作夥伴如何使用合作夥伴中心，將客戶從現有的 CSP Azure 供應項目移至 Azure 方案下的 Azure 服務。 間接提供者和直接帳單合作夥伴可以轉換為適用於 Azure 的 Microsoft 雲端服務提供者計畫 (CSP) 中所提供的新商務體驗。 (間接經銷商必須透過其間接提供者來運作)。客戶可以透過簡化的方式購買雲端服務，無論是向合作夥伴、Microsoft 賣方或直接在網路上購買。
 
-轉換功能僅適用於轉換至適用於 Azure 新商務經驗的客戶，以及已簽署 Microsoft 客戶合約的使用者，而不是針對 CSP 中的其他供應項目，例如 Office 365 或 Dynamics 365。
+轉換功能僅適用於轉換至適用於 Azure 新商務經驗的客戶，以及已簽署 Microsoft 客戶合約的使用者。 不是針對 CSP 中的其他供應項目，例如 Office 365 或 Dynamics 365。
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>將現有的 CSP 供應項目轉換為 Azure 方案
 

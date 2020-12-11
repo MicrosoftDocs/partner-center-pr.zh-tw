@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92334018"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534687"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商務體驗 - Azure 計費 
 
-**適當的角色：**
+**適當的角色**
 
 - 系統管理代理人
 - 帳單系統管理員
 - 全域系統管理員
 
-Azure 方案下的計費，是藉由使用一致的單一計費日期和以行事曆月份為基礎的計費期間，簡化的計費體驗。
+本文說明如何存取及了解與 Azure 方案計費相關的發票和對帳檔案結構。 Azure 方案下的計費，是藉由使用一致的單一計費日期和以行事曆月份為基礎的計費期間，簡化的計費體驗。
 
 ## <a name="summary-of-billing-essentials"></a>計費基本資訊摘要
 
-- **發票日期** ：發票和對帳檔案在合作夥伴中心儀表板/API 中將於 8 日 (午夜 UTC) 提供。
+- **發票日期**：發票和對帳檔案在合作夥伴中心儀表板/API 中將於 8 日 (午夜 UTC) 提供。
 
-- **發票計費期間** ：發票計費期間會對應到行事曆月份，例如，10/1-10/31、11/1-11/30。
+- **發票計費期間**：發票計費期間會對應到行事曆月份，例如，10/1-10/31、11/1-11/30。
 
-- **收費服務期間** ：收費將會與行事曆月份一致。 例如，如果計費合作夥伴在 10/15 透過 Azure 方案新增 Azure 服務，而客戶在 10/15 開始使用 Azure 服務，則計費合作夥伴會在 11/8 收到 10/15 - 10/31 服務期間客戶使用的發票/對帳檔案。 下一個月份的發票會在 12/8 產生，其中包含 11/1- 11/31 服務期間的所有費用。
+- **收費服務期間**：收費將會與行事曆月份一致。 例如，如果計費合作夥伴在 10/15 透過 Azure 方案新增 Azure 服務，而客戶在 10/15 開始使用 Azure 服務，則計費合作夥伴會在 11/8 收到 10/15 - 10/31 服務期間客戶使用的發票/對帳檔案。 下一個月份的發票會在 12/8 產生，其中包含 11/1- 11/31 服務期間的所有費用。
 
-- **發票付款期限** ：淨 60 天。
+- **發票付款期限**：淨 60 天。
 
-- **發票貨幣** ：合作夥伴會繼續以客戶國家/地區的指派貨幣來計費。 例如，如果計費合作夥伴是在愛爾蘭，而客戶是在英國、挪威和德國，則計費合作夥伴將會收到 GBP、NOK 和 EUR 發票/對帳檔案。
+- **發票貨幣**：合作夥伴會繼續以客戶國家/地區的指派貨幣來計費。 例如，如果計費合作夥伴是在愛爾蘭，而客戶是在英國、挪威和德國，則計費合作夥伴將會收到 GBP、NOK 和 EUR 發票/對帳檔案。
 
-- **合作夥伴獎勵** ：從發票月份結束起算 45 天支付。
+- **合作夥伴獎勵**：從發票月份結束起算 45 天支付。
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>存取您的發票和對帳檔案
 
@@ -106,7 +106,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 5. 如需其他計費詳細資料，請參閱發票對帳檔案和每日評等使用量檔案。
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="計費":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="發票":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>讀取發票對帳檔案
 
@@ -134,7 +134,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
   - 7/8 - 7/31 的計量符合 **受控服務的合作夥伴所獲得信用點數** 的資格 (請注意，有效單價是零售價)。
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="計費":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>以客戶貨幣表示的發票
 
@@ -142,7 +142,7 @@ Azure 方案下的計費，是藉由使用一致的單一計費日期和以行�
 
 Microsoft 將使用 Thomson Reuters，來判斷用來決定定價貨幣至計費貨幣轉換的 FX 費率。 FX 費率會重新整理，並在其套用當月第一天的前一天可供使用。
 
-**範例** ：服務期間 8 月 1 日 - 8 月 31 日的使用費用，會使用在 7 月 31 日發佈的 FX 費率來計費。 這些費用會出現在 9 月發票上，而 FX 費率會在發票的最後一頁上註明。
+**範例**：服務期間 8 月 1 日 - 8 月 31 日的使用費用，會使用在 7 月 31 日發佈的 FX 費率來計費。 這些費用會出現在 9 月發票上，而 FX 費率會在發票的最後一頁上註明。
 
 ## <a name="azure-reservations"></a>Azure Reservations
 
@@ -160,7 +160,7 @@ Microsoft 將使用 Thomson Reuters，來判斷用來決定定價貨幣至計費
 
 因為透過 Azure 方案的 Azure 服務計費模式是後付款使用方式，所以若要避免帳單超出預期，合作夥伴可以套用每月預算，並追蹤使用量的百分比。 預算可以一次套用至一個客戶或多個客戶。 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="計費":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Azure 費用":::
 
 ## <a name="next-steps"></a>後續步驟
 

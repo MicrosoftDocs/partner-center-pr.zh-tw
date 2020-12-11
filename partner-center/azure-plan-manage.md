@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000602"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534925"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>管理 Azure 方案下的訂用帳戶和資源
 
-當您將客戶轉換至 Azure 方案時，預設會在 Azure 中獲指派特殊系統管理權限 (透過代表管理員的訂用帳戶擁有者權限)。
+**適當的角色**
+
+- 系統管理代理人
+
+
+本文說明 CSP 合作夥伴如何使用不同的角色型存取控制 (RBAC) 選項，來對客戶 Azure 資源的操作進行控制和管理。 當您將客戶轉換至 Azure 方案時，預設會在 Azure 中獲指派特殊系統管理權限 (透過代表管理員的訂用帳戶擁有者權限)。
 
  > [!NOTE]
  > 客戶可以在訂用帳戶、資源群組或工作負載層級移除 Azure 訂用帳戶的系統管理員權限。 
@@ -29,7 +34,7 @@ ms.locfileid: "91000602"
 
 - **Azure Lighthouse**：AOBO 不允許彈性建立與不同客戶一起使用的不同群組，或為群組或使用者啟用不同的角色。 使用 Azure Lighthouse，您可以將不同的群組指派給不同的客戶或角色。 因為使用者會透過 Azure 委派的資源管理來擁有適當的存取層級，所以您可以減少擁有系統管理代理人角色的使用者人數 (因而擁有完整的 AOBO 存取權)。 藉由限制對客戶資源的不必要存取來協助改善安全性。 它也可讓您更有彈性地大規模管理多個客戶。 如需詳細資訊，請參閱 [Azure Lighthouse 與雲端解決方案提供者計畫](/azure/lighthouse/concepts/cloud-solution-provider)。
 
--  **目錄或來賓使用者或[服務主體](/azure/active-directory/develop/app-objects-and-service-principals)** ：您可以藉由在客戶目錄中新增使用者，或新增來賓使用者並指派特定 RBAC 角色，委派對 CSP 訂用帳戶的細微存取權。
+- **目錄或來賓使用者或 [服務主體](/azure/active-directory/develop/app-objects-and-service-principals)** ：您可以藉由在客戶目錄中新增使用者，或新增來賓使用者並指派特定 RBAC 角色，委派對 CSP 訂用帳戶的細微存取權。
 
 Microsoft 建議使用者擁有執行其工作所需的最小權限，作為安全性做法。 請參閱 [Azure Active Directory Privileged Identity Management 資源](/azure/active-directory/privileged-identity-management/pim-configure)。
 
