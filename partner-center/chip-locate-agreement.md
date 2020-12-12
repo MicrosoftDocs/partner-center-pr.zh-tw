@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51307be51de3c41aca9fb9d39ab623f4dac318a7
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 032ad30c17136dcf102af9134153a3921e29c38a
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570547"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354435"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>找出合約的桌面計數和費用等級
+
+**適當的角色**
+
+- 主要連絡人或計畫管理員
 
 您可以下載至 Excel，這是一個檔案，提供桌面人數和費用等級的合約詳細資料。
 

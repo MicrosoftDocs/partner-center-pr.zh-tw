@@ -8,18 +8,17 @@ description: 瞭解使用共同銷售連接器的常見問題解答。 閱讀此
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92031261"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354537"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>對共同銷售推薦連接器進行疑難排解
 
 **適用於：**
 
-- 合作夥伴中心
 - Dynamics 365 CRM
 - Salesforce CRM
 
@@ -80,7 +79,7 @@ Salesforce 連接器解決方案的類型為「Dynamics Flow」，可支援與�
 
 3. 如果您在 Power Automate 平臺中啟用 CRM 流程的合作夥伴中心時收到下列錯誤，該怎麼辦？
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="要求登入的錯誤訊息":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="需要更新的錯誤訊息":::
 
 遵循下列疑難排解步驟：
 
@@ -95,11 +94,11 @@ Salesforce 連接器解決方案的類型為「Dynamics Flow」，可支援與�
 - 選取每個流程，並個別加以編輯。
 - 展開流程中的所有步驟 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="要求登入的錯誤訊息":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="需要連接的步驟":::
 
 - 選取您會在其中看到警告圖示的步驟，要求關聯連接，以及新增連接。 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="要求登入的錯誤訊息":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="逐步編輯流程":::
 
 
 5. 如果共同銷售推薦連接器解決方案的流程未開啟，您該怎麼做？
@@ -116,7 +115,7 @@ A. 在 Power Automate 中，您必須以下列順序編輯流程，並將其更�
 
  B. 針對每個流程，選取 [ **僅執行使用者** ] 選項。 選取 [ **使用連接** ，而不是 **由僅限執行的使用者提供**]。  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="要求登入的錯誤訊息":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="啟用流程":::
 
 
 C. 在下列提及的流程中啟用下列各項：
@@ -140,7 +139,7 @@ E. 在 [flow] 合作夥伴中心 Webhook 註冊中，選取 [ **執行**]。 從
  
 若要判斷參照同步處理的狀態，請選取 [ **Audit**]。 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="要求登入的錯誤訊息":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="如何同步處理參考":::
 
 請確定符合下列條件：
 
@@ -156,7 +155,7 @@ E. 在 [flow] 合作夥伴中心 Webhook 註冊中，選取 [ **執行**]。 從
 
 - 合作夥伴銷售人員必須確保他們已啟用與 CRM 區段中合作夥伴中心選項的 **同步** 。
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="要求登入的錯誤訊息":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="確定您已啟用同步處理":::
 
 - 銷售人員必須在符合潛在客戶時提供收入和結束日期。
 

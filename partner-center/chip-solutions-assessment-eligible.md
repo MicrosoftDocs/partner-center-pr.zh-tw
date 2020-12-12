@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447230"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354468"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>解決方案評估獎勵計畫的資格需求
+
+**適當的角色**
+
+- 主要連絡人或計畫管理員
 
 如果合作夥伴具有有效的 MPN 成員資格以及有效的銀級或金級 MPN 專長認證，則在 FY20 的解決方案評量獎勵方案中，具有作用中和已註冊狀態的合作夥伴將繼續符合 FY21 獎勵的資格。 每年都有資格審查合作夥伴資格。 如果建立的夥伴在當年未達成資格和參與的需求，則會在下一年度的評論中將其移除。 所有新的合作夥伴都是透過當地解決方案評量專家 (SAS) 在其區域中進行上線。 SAS 將根據合作夥伴公司的技能和專業知識，以及 SAS 所支援之子公司的商務需求，來識別要上線的合作夥伴。
 

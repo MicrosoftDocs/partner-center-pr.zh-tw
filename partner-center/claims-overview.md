@@ -9,18 +9,14 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 00761df0cb51e8fcd3238141a51a53107c7c8523
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133077"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354503"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>獲得合作行銷資金
-
-**適用於**
-
-- 合作夥伴中心
 
 **適當的角色**
 
@@ -52,7 +48,7 @@ Microsoft 會使用分割百分比 (（例如60% 退款-40% 共同作業) ）來
 - H1 是會計年度的前半部，7月1日到12月31日。
 - H2 是會計年度的下半年，1月1日到6月30日。
 
-您累積收益的六個月期間會變成您的收益 **週期** 。 您必須在下列六個月的 **使用期間** 內的某個時間點使用這些收益。 如果您未在使用期間結束時使用您的收益，您將會要略過它們。 宣告 **期間** 為六個月期間，您可以在這段期間內索取獎勵計畫活動的款項。
+您累積收益的六個月期間會變成您的收益 **週期**。 您必須在下列六個月的 **使用期間** 內的某個時間點使用這些收益。 如果您未在使用期間結束時使用您的收益，您將會要略過它們。 宣告 **期間** 為六個月期間，您可以在這段期間內索取獎勵計畫活動的款項。
 
 下表顯示不同的收益、使用方式和宣稱的期間。 除非另有說明，否則期間會從第一個月的第一天延伸至上個月的最後一天。
 
@@ -68,7 +64,7 @@ Microsoft 會使用分割百分比 (（例如60% 退款-40% 共同作業) ）來
 
 下列資源將協助您開始使用共同作業宣告。
 
-| 若要執行此工作 | 閱讀這個 |
+| 作法 | 閱讀這個 |
 | ------ | ----------- |
 | 提交宣告 |  [建立及管理獎勵計畫共同作業理賠](create-incentives-claims.md)  |
 | 管理提交的宣告 | [建立及管理獎勵計畫共同作業理賠](create-incentives-claims.md)    |
