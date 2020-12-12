@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175079"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153140"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客戶回報服務問題-包括何時及如何進行
 
@@ -31,11 +31,13 @@ ms.locfileid: "92175079"
 
 ## <a name="submit-a-service-request-for-a-customer"></a>為客戶提交服務要求
 
-1. 從 [合作夥伴中心]**** 功能表，選取 [服務要求]****，然後選取 [客戶要求]****。 
+1. 從 [CSP] 下的 [合作夥伴中心] 功能表中，選取 [**客戶**]
 
-2. 在 [客戶要求] 頁面上，搜尋您想要的客戶。
+2. 在 [客戶] 頁面上，選取或搜尋您想要的客戶
+    
+3. 從 [客戶] 功能表中，選取 [**服務要求**]
 
-3. 從 [新增要求]**** 下拉式功能表中，選取 **Azure** 或 **Office 365、Dynamics 365、Enterprise Mobility Suite**。 系統會將您重新導向至 Microsoft Azure 入口網站或 Office 365 系統管理中心。
+4. 從 [新增要求] 下拉式功能表中，選取 **Azure** 或 **Office 365、Dynamics 365、Enterprise Mobility Suite**。 系統會將您重新導向至 Microsoft Azure 入口網站或 Office 365 系統管理中心。
 
 >[!NOTE]
 >需要交易 Dynamics 365 in CSP 的支援作業合作夥伴，才能維持 (ASfP) 方案或更高版本的支援合約。 需要有此支援合約，才能代表 CSP 客戶提交 Dynamics 365 事件。 [深入瞭解](https://partner.microsoft.com/support/partnersupport) 支援合約選項。
@@ -51,13 +53,13 @@ ms.locfileid: "92175079"
 
 1. 選取 [新增支援要求]。
 
-2. 以適當的資訊填寫支援要求，並選取 [建立]****：
+2. 以適當的資訊填寫支援要求，並選取 [建立]：
 
-   - 在支援要求的 [基本]**** 區段中，請確定選取 [支援方案]**** 中的 [雲端解決方案提供者]****。
+   - 在支援要求的 [基本] 區段中，請確定選取 [支援方案] 中的 [雲端解決方案提供者]。
 
-   - 在支援要求的 [連絡人]**** 資訊區段中，輸入您的資訊，而不是客戶的資訊。
+   - 在支援要求的 [連絡人] 資訊區段中，輸入您的資訊，而不是客戶的資訊。
 
-3. 稍後，選取 [管理支援要求]****，以在 Microsoft Azure 入口網站中檢閱您客戶的服務要求。
+3. 稍後，選取 [管理支援要求]，以在 Microsoft Azure 入口網站中檢閱您客戶的服務要求。
 
 當您沒有該客戶的系統管理員許可權時，可能需要為客戶建立支援要求。 在下列兩個案例中的其中一種情況下就可能發生這種情形：
 
@@ -72,14 +74,14 @@ ms.locfileid: "92175079"
 
 3. 選取需要支援的 Azure 訂用帳戶。
 
-4. 選取 [新增支援要求]****，然後遵循提示來建立要求。 
+4. 選取 [新增支援要求]，然後遵循提示來建立要求。 
 
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365、Microsoft Dynamics CRM Online、Enterprise Mobility Suite
 
 1. 在 [ **建立服務要求** ] 區段中，選擇適當的支援類別。 您可能需要選取 [ **更多] ...** 才能查看其他文章。
 
-2. 完成服務要求表單，然候選取 [提交]****。
+2. 完成服務要求表單，然候選取 [提交]。
 
    > [!TIP]
    > 請務必包含您的連絡資訊，而非客戶連絡資訊。
@@ -92,7 +94,7 @@ Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要�
 
 若要尋找 ISV 的連絡人資訊：
 
-1.  在 [Marketplace]**** 頁面上，選取您需要協助的產品。
+1.  在 [Marketplace] 頁面上，選取您需要協助的產品。
 
 2.  在產品的頁面上，您會找到支援連絡人資訊。 這可能是下列其中一個或多個選項：
 
@@ -116,7 +118,7 @@ Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要�
 
 我們的初始回應時間取決於已提交之事件的嚴重性。 您在提交服務要求時將會指出該問題對業務造成影響的程度，這將會決定該問題的嚴重性。
 
-**技術修復事件**的初始回應時間：
+**技術修復事件** 的初始回應時間：
 
 - 嚴重影響 (嚴重性 A)：2 小時 (顯著的服務中斷或品質降低。 生產服務關閉)。
 - 中等影響力 (嚴重性 B) ：四小時 (仲裁遺失或服務降級。 生產服務部分受影響。 ) 
