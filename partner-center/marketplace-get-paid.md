@@ -1,23 +1,28 @@
 ---
-title: 在商業市集中獲得報酬
-description: 瞭解如何在商業市場 Azure Marketplace 中收到收益的款項。 包含付款原則、付款保留狀態和付款聲明。
+title: 合作夥伴中心中取得付費
+description: 瞭解如何以 Microsoft 合作夥伴的形式接收收益款項，例如透過商業 marketplace 供應專案、獎勵計畫和雲端解決方案提供者計畫。 包含付款原則、付款保留狀態和付款聲明。
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514719"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492444"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>在商業市集中獲得報酬
+# <a name="getting-paid-in-partner-center"></a>合作夥伴中心中取得付費
+
+**適當的角色：**
+
+- 帳戶管理員
+- 全域系統管理員
 
 本文提供有關接收您的供應專案、附加元件和廣告收入款項的重要資訊。 其中摘要說明支出原則、取得付費前所需的步驟，以及付款聲明的總覽。
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>商業 marketplace 支出原則和合約
+## <a name="payout-policies-and-agreements"></a>支付原則和協定
 
 取得付費需要您遵守合約和付款原則。
 
@@ -49,4 +54,4 @@ ms.locfileid: "95514719"
 ## <a name="next-steps"></a>後續步驟
 
 - [合作夥伴支出 API](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Marketplace 支出常見問題](payout-faq.md)
+- [支付常見問題](payout-faq.md)

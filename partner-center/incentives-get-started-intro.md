@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "88303164"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492597"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>使用這些資源協助您開始使用獎勵
 
@@ -44,13 +44,13 @@ ms.locfileid: "88303164"
 
 |  **進行此動作**  |  **請閱讀本文**  |
 |--------------|-----------|
-| 瞭解如何在獎勵計畫中註冊 | [註冊獎勵計畫](incentives-enroll.md)  |
-| 瞭解您的獎勵工作是否符合特定獎勵計畫的資格需求 | [判斷您的計畫資格](incentives-determined-your-program-eligibility.md)  |
+| 瞭解如何在獎勵計畫中註冊 | [符合獎勵計畫](incentives-enroll.md)  |
+| 瞭解您的獎勵工作是否符合特定獎勵計畫的資格需求 | [判斷您的計劃資格](incentives-determined-your-program-eligibility.md)  |
 | 找出並提供 Microsoft 所需的資料，您才能獲得獎勵支出 | [在合作夥伴中心建立及管理支出與稅務設定檔](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | 確認您已提供所有需要獲得獎勵收益的詳細資料 | [確認您的收益資格](incentives-confirm-your-earnings-eligibility.md)  |
-| 查看您獎勵計畫的所有資料和報表 | [查看您的獎勵付款和計畫](understand-incentive-payouts.md)  |
-| 存取您的程式特定、獎勵支出頁面 | [存取您的獎勵支出頁面](incentives-unified-user-guide.md)  |
+| 查看您獎勵計畫的所有資料和報表 | [查看您的獎勵計畫和付款](understand-incentive-payouts.md)  |
+| 存取您的程式特定、獎勵支出頁面 | [存取您的支出聲明](payout-statement.md)  |
 
 ## <a name="next-steps"></a>後續步驟
 
-[判斷您的計畫資格](incentives-determined-your-program-eligibility.md)
+[判斷您的計劃資格](incentives-determined-your-program-eligibility.md)

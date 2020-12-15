@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514753"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492682"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>設定支出帳戶和稅賦形式
+
+**適當的角色：**
+
+- 帳戶管理員
+- 全域系統管理員
 
 為了接收商業市集供應項目銷售量的收入金額，您需要在[合作夥伴中心](https://partner.microsoft.com/dashboard)設定您的支付帳戶，並填妥必要的稅務表單。
 
@@ -32,19 +37,16 @@ ms.locfileid: "95514753"
 
 ## <a name="tax-forms"></a>稅務表單
 
-### <a name="fill-out-your-tax-forms"></a>填妥稅務表單
+您可以在合作夥伴中心的 [支付 **和稅務** ] 頁面中，管理您的稅務設定檔和稅務表單。 您組織的許可權會決定您所看到的設定檔和資訊。
 
-首先必須建立稅務設定檔，並指派給您參與的計畫。 完成下列步驟，即可建立商業市集的 *稅務設定檔*：
+### <a name="create-or-update-your-tax-profile"></a>建立或更新您的稅務設定檔
 
-- 指定您所居住並具有公民身分的國家/地區。
-- 填妥適用的稅務表單。
-
-您可以在合作夥伴中心以電子方式填妥並提交您的稅務表單；在大部分的情況下不需要列印郵寄任何表單。
+首先必須建立稅務設定檔，並指派給您參與的計畫。 使用下列步驟，在合作夥伴中心中建立或更新您的 *稅務設定檔* 。 您可以在合作夥伴中心的儀表板中，以電子方式完成並提交您的稅務表單;在大多數情況下，您不需要列印任何表單並將其傳送給郵件。
 
 > [!IMPORTANT]
 > 不同的國家和地區有不同的稅務規定。 必須支付的確切稅額，取決於您銷售供應項目的國家和地區。 請參閱 [Microsoft Azure Marketplace Publisher Agreement](https://go.microsoft.com/fwlink/p/?LinkID=699560)，找出 Microsoft 代表您匯付營業稅及使用稅的國家/地區。 在其他國家/地區，可能需要直接向當地的稅務機關繳交您供應項目銷售額的營業稅和使用稅。 此外，您收到的應用程式銷售收益，可能會視為收入而予以課稅。 強烈建議洽詢您所在國家或地區的相關主管機關，主管機關最能協助您判斷您商業市集活動的正確稅務資訊。
 
-1. 在 [合作夥伴中心](https://partner.microsoft.com/dashboard)中，選取右上角的 **設定** 齒輪圖示，然後選取 [ **帳戶設定**]。
+1. 在 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard)中，選取右上角的 **設定** 齒輪圖示，然後選取 [ **帳戶設定**]。
 
 2. 在左側導覽功能表中，選取 [支付與稅務]，然後選取 [支付與稅務指派]。
 
