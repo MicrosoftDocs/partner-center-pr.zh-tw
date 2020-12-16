@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92333912"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354605"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>用來確認客戶是否已接受 Microsoft 客戶合約的更新後方法
 
-**適用於**
-
--  合作夥伴中心
 
 **適當的角色**
 
@@ -82,7 +79,7 @@ ms.locfileid: "92333912"
 
 5. 輸入提供接受的使用者詳細資料。
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="公司資訊":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="新增接受日期":::
 
    根據預設，會顯示主要連絡人的使用者資訊。 如果此資訊不正確，請選取 [更新]  ，然後輸入接受合約之人員的 [名字]  、[姓氏]  、[電子郵件地址]  、*[電話號碼]  (選用)。
 
@@ -98,7 +95,7 @@ ms.locfileid: "92333912"
 
 3. 在 [Microsoft 客戶合約]  下方，選取 [更新]  。
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="公司資訊":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="更新":::
 
 4. 輸入接受合約之使用者的[名字]  、[姓氏]  、[電子郵件地址]  、[電話號碼]  (選用)。
 

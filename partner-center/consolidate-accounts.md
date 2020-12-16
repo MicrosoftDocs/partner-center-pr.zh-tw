@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "87527811"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354520"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>從 PMC 遷移至合作夥伴中心時合併公司帳戶
 
@@ -62,3 +62,9 @@ ms.locfileid: "87527811"
 在合作夥伴中心中，所有位置帳戶都會合併為單一通用帳戶。 這表示所有進入市場供應項目、方案及專長認證也都會合併。 其他權益工具套件 (ABTK) 將無法使用。 不過，您可以視公司需求來組織行銷資源、供應項目、方案及專長認證的散發。 當您合併時，我們將會提供延期。 此延期可讓您的公司針對其用於 PMC 中的行銷資源、供應項目及方案，享受額外一年的使用權限。
 
 如需 PMC 和合作夥伴中心間差異的詳細資訊，請參閱[從 PMC 移至合作夥伴中心](guide-to-migration.md)。
+
+## <a name="next-steps"></a>後續步驟
+
+- [管理您的合作夥伴中心帳戶](partner-center-account-setup.md)
+
+- [管理位置](manage-locations.md)

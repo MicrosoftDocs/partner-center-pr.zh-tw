@@ -279,18 +279,12 @@
         - name: 了解發放款與稅金設定檔
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
           displayName: incentives
-        - name: 發放款與稅金設定檔常見問題
-          href: incentives-payout-tax-profile-faqs.md
-          displayName: incentives
         - name: 檢查收益資格
           href: incentives-confirm-your-earnings-eligibility.md
           displayName: incentives
-        - name: 查看付款和計畫
+        - name: 檢視程式和付款
           href: understand-incentive-payouts.md
           displayName: 'mpn, incentives'
-        - name: 存取您的支出頁面
-          href: incentives-unified-user-guide.md
-          displayName: incentives
     - name: 執行方案和證明
       items:
         - name: 了解方案和 PoE
@@ -433,23 +427,21 @@
       displayName: csp
 - name: 取得付款
   items:
+    - name: 付費
+      href: marketplace-get-paid.md
+    - name: 支付明細表
+      href: payout-statement.md
     - name: 管理未付款、詐騙或濫用
       href: non-payment-fraud-misuse.md
     - name: 管理未分配的付款
       href: unallocated-payment.md
-    - name: 商業 Marketplace 支出
-      items:
-        - name: 付費 - Marketplace
-          href: marketplace-get-paid.md
-        - name: 支出原則詳細資料
-          href: payout-policy-details.md
-        - name: 付款閾值、方法和時間範圍
-          href: payment-thresholds-methods-timeframes.md
-        - name: 支出明細表
-          href: payout-statement.md
-          displayName: invoice
-        - name: 支付常見問題
-          href: payout-faq.md
+    - name: 支出排程和流程
+      href: payout-policy-details.md
+    - name: 付款閾值、方法和時間範圍
+      href: payment-thresholds-methods-timeframes.md
+      displayName: invoice
+    - name: 發放款與稅金設定檔常見問題
+      href: payout-faq.md
 - name: 與客戶保持聯繫
   items:
     - name: 與您的客戶連線
@@ -663,10 +655,12 @@
               displayName: 'indirect, reseller'
             - name: 訓練
               href: pci-training-dashboard.md
-        - name: 已知問題
+        - name: 深入解常見問題集
           href: pci-known-issues.md
         - name: 下載深入解析報表
           href: pci-download-reports.md
+        - name: 深入解析資料定義
+          href: pci-data-definitions.md
     - name: 合作夥伴貢獻指標
       href: partner-contribution-indicators.md
       displayName: mpn
