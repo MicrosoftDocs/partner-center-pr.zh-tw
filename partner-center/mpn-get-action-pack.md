@@ -1,7 +1,7 @@
 ---
 title: 購買或續約 Microsoft 行動套件供應項目
-ms.topic: article
-ms.date: 11/23/2020
+ms.topic: how-to
+ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何購買 Microsoft 行動套件訂用帳戶，並開始使用行動套件的權益。 同時了解如何更新、取消、檢視您的帳單等等。
@@ -9,20 +9,15 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812858"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514721"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>購買或續約 Microsoft 行動套件優惠，或者銀級或金級專長認證
 
-**適用於**
-
-- 合作夥伴中心
-- Partner Membership Center
-- MPN 計畫合作夥伴
 
 **適當的角色**
 
@@ -30,13 +25,13 @@ ms.locfileid: "95812858"
 - 使用者系統管理員
 - MPN 合作夥伴系統管理員
 - 系統管理代理人
-- 銷售代理人
 
-現在，從合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)中，Microsoft 合作夥伴網路 (MPN.md) 的成員可以購買或續約您的權益優惠。 這類優惠包括 Microsoft 行動套件訂閱，以及銀級和金級專長認證。
+
+Microsoft 合作夥伴網路 (MPN) 的成員可以從合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard)購買或續訂權益優惠方案，包括 Microsoft 行動套件訂用帳戶及銀級和金級專長認證。
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>首次購買 Microsoft 行動套件
 
-如果您是首次與 Microsoft 合作，第一個步驟是加入 Microsoft 合作夥伴網路。 如果您尚未成為合作夥伴網路的成員，請移至合作夥伴網站的[成員資格頁面](https://partner.microsoft.com/membership)，然後當您準備好要註冊時，請選取 [立即加入]。 
+如果您是首次與 Microsoft 合作，第一個步驟是加入 Microsoft 合作夥伴網路。 若要加入 MPN，請移至合作夥伴網站的 [成員資格頁面](https://partner.microsoft.com/membership)，然後當您準備好要註冊時，選取 [立即加入]。
 
 已成功加入合作夥伴網路之後，請遵循[合作夥伴網站上的指示](https://partner.microsoft.com/membership/action-pack) (需要登入)，購買您的第一個行動套件訂閱。 
 
@@ -62,7 +57,7 @@ ms.locfileid: "95812858"
 2. 選取 [續約訂閱]，然後選取您的付款方式。 您可以使用信用卡或電子銀行轉帳來付費。
 
     >[!NOTE]
-    >如果 [續約訂閱] 未顯示出來或呈現灰色，表示您尚未符合續約行動套件訂閱的資格。 我們已經變更我們的續約時間範圍原則，您只能在訂閱到期後續約。 例如，如果您的訂閱在 6 月 22 日到期，您可以從 6 月 23 日起的 30 天內續約。  
+    >如果 [續約訂閱] 未顯示出來或呈現灰色，表示您尚未符合續約行動套件訂閱的資格。 我們已經變更續約時間範圍原則，因此您 **只能** 在訂閱到期後續約。 例如，如果您的訂閱在 6 月 22 日到期，您可以從 6 月 23 日起的 30 天內續約。  
 
 3. 如果以信用卡付款，請依照下列指示加入您的信用卡資訊。 如果以電子銀行轉帳付款，請提供連絡人姓名、電話號碼以及電子郵件地址，然後選取 [提交]。
 
@@ -70,15 +65,13 @@ ms.locfileid: "95812858"
 
 5. 您的訂單已確認。 選取 [關閉]。
 
-您的行動套件訂閱將會在每年的這一天自動續約。
-
 ### <a name="update-your-bill-to-address"></a>更新您的帳單地址
 
 在續訂或購買行動套件的過程中，您可以藉此機會確認您的帳單寄送地址。
 
  1. 選取 [提交] 之後，您可以檢視購買詳細資料。 如果您看到您的地址需要更新，請選取 [更新]。
   
- 1. 在 [合作夥伴基本資料] 頁面上，更新您的地址。
+ 1. 在 [法務設定檔] 頁面上，更新您的地址。
 
 ## <a name="cancel-your-action-pack-subscription"></a>取消您的行動套件訂閱
 
@@ -115,6 +108,3 @@ ms.locfileid: "95812858"
 -   [新增使用者並指派權限給他們](create-user-accounts-and-set-permissions.md)
 
 -   [建立商務設定檔以透過 Microsoft 獲得業務潛在客戶](create-a-marketing-profile.md)
-
-
-

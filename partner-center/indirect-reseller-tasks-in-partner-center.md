@@ -1,27 +1,23 @@
 ---
 title: 與 CSP 計畫中的間接提供者合作
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 了解間接轉銷商如何與 Microsoft 間接提供者 (或代理商) 合作，以協助提供客戶支援和計費服務。
+description: 了解間接經銷商如何與 Microsoft 間接提供者 (或代理商) 合作，以協助提供客戶支援和計費服務。
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795843"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514741"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在雲端解決方案提供者計畫中與間接提供者成為合作夥伴
-
-**適用於**
-
-- 合作夥伴中心
 
 **適當的角色**
 
@@ -72,33 +68,22 @@ ms.locfileid: "92795843"
 
 2. 檢閱 [歡迎] 頁面，確定您有註冊所需的資訊，然後選取 [下一步]。
 
-3. 使用您的工作帳戶登入。 選取 [登入]，然後輸入您以全域管理員身分登入 Office 365、Microsoft Azure 或 Microsoft Dynamics CRM 所用的使用者名稱和密碼。
+3. 使用您的工作帳戶登入 - 以全域管理員身分登入 Office 365、Microsoft Azure 或 Microsoft Dynamics CRM 所用的使用者名稱和密碼。 如果您沒有工作帳戶，請選取 [建立帳戶] 立即設定一個帳戶。 建立您的工作帳戶之後，使用新帳戶的全域管理員認證來登入。
 
-   如果您沒有工作帳戶，請選取 [建立帳戶] 立即設定一個帳戶。 建立您的工作帳戶之後，使用新帳戶的全域管理員認證來登入。
-
-4. 複查有關如何將您的 Microsoft 合作夥伴網路識別碼 (MPN ID) 與新合作夥伴中心帳戶建立關聯的資訊。 我們需要連結您公司的 MPN 識別碼與您新的合作夥伴中心帳戶，以便您可以管理您的合作夥伴中心成員資格權益和獎勵。 選取 [登入]。
-
-5. 輸入您用來登入 Partner Membership Center (PMC) 網站的使用者名稱。 Partner Membership Center 網站是目前管理您的 Microsoft 合作夥伴帳戶的地方。 登入 Partner Membership Center，讓我們可以擷取您的 MPN ID，並將其相關聯到新的合作夥伴中心帳戶。 選取 [下一步]  。
-
-6. 輸入您的 Partner Membership Center 帳戶密碼，然後選取 [登入]。
-
-7. 選取 [MPN 識別碼] 已連結至您的獎勵、成員資格權益和專長認證的公司設定檔。 然後，我們可以將此資訊移到您的合作夥伴中心帳戶。 選取 \[繼續\]。
-
-   如果在此頁面上未列出您想要使用 MPN ID，選取 [取消]，並以您想要使用的公司設定檔的使用者名稱和密碼，再試一次登入。
 
    > [!IMPORTANT]  
-   > 選取與使用中公司設定檔相關的 MPN ID，而且位於您的 Azure AD 租用戶的相同國家/地區。
+   > 選取與使用中公司設定檔相關的 MPN ID，而且位於您 Azure AD 租用戶的相同國家/地區。
 
-8. 提供或更新公司的法定公司設定檔、主要連絡人資訊，以及客戶支援資訊。 選取 [現在註冊]。
+4. 提供或更新公司的法定公司設定檔、主要連絡人資訊，以及客戶支援資訊。 (若要尋找您的法定商務資訊，請選取 [組織設定檔] 然後選取 [法律資訊])。選取 [現在註冊]。
 
-   主要連絡人應是您公司中我們可以針對您的申請來與之連絡的人員。 主要連絡人可以是您或您公司中的其他人。 注意：我們不接受網頁型電子郵件服務的電子郵件地址，例如 Gmail、Yahoo! 郵件、iCloud 郵件、AOL 郵件或 Outlook 郵件。
+   主要連絡人是您公司中我們可以針對您的申請來與其連絡的人員。 該人員可以是您或您公司中的其他人。 注意：我們不接受網頁型電子郵件服務的電子郵件地址，例如 Gmail、Yahoo! 郵件、iCloud 郵件、AOL 郵件或 Outlook 郵件。
 
    > [!IMPORTANT]  
    > 為了協助確保貴公司的安全性與隱私權，我們將會寄送電子郵件給您的主要連絡人，以確認 (1) 該連絡人已註冊合作夥伴中心帳戶，以及 (2) 此電子郵件地址屬於貴公司。 主要連絡人確認其電子郵件地址之後，我們會持續複查您所提供的資訊。 我們會使用電子郵件傳送註冊狀態更新給主要連絡人。
 
-9. 您的合作夥伴中心帳戶準備好可以使用時，請確認您已新增至系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
+5. 您的合作夥伴中心帳戶準備好可以使用時，請確認您已新增至系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
 
-   1. 在您的 **合作夥伴中心** 中，選取 [設定] 圖示，然後選取 [使用者管理]。
+   1. 從合作夥伴中心儀表板中，選取 [設定] 圖示，然後在 [帳戶設定] 下方，選取 [使用者管理]。
 
    2. 從使用者清單中選取您的名稱。 然後選取 [系統管理代理人] (如果尚未選取的話)。 選取 [更新]。
 
@@ -138,6 +123,10 @@ ms.locfileid: "92795843"
 
    > [!IMPORTANT]  
    > 您的間接提供者必須有您客戶的經銷商關係，才能代表他們提交訂單。
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>您的 CSP 國家/地區和執行業務的 CSP 區域
+
+身為 CSP Indirect Reseller 的法定商務位置決定了可以與其合作的間接提供者，以及可以從事 CSP 業務的區域。 若要深入了解，請閱讀 [您可以在其中銷售 CSP 供應項目的雲端解決方案提供者方案區域市場和貨幣](regional-authorization-overview.md)。
 
 
 ## <a name="next-steps"></a>後續步驟

@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/29/2020
-ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.date: 12/15/2020
+ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360015"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514694"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>註冊為 CSP 直接計費合作夥伴的需求
 
@@ -47,17 +47,16 @@ ms.locfileid: "94360015"
 >[!IMPORTANT]
 >查核貴公司信用可能需要數天或更久時間才能完成。 在這段期間，請勿購買 Microsoft 支援方案。 只有在我們通知您已通過信用查核之後，才購買 Microsoft 支援方案。
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>從直接轉換為間接轉銷商
+## <a name="transition-from-direct-to-indirect-reseller"></a>從直接轉換為間接經銷商
 
 目前的直接計費合作夥伴必須符合新的需求，才能繼續參與雲端解決方案提供者直接計費合作夥伴計畫。 否則，其[對直接計費功能的存取權最終將會受到限制](restricted-direct-bill-capabilities.md)，且可能無法再執行特定工作，例如為客戶進行新的購買。
 
-如果您決定從直接計費業務轉換為間接轉銷商業務，您必須採取幾個步驟。 若要深入了解轉換程序，請參閱[從雲端解決方案提供者 (CSP) 直接計費合作夥伴轉換為雲端解決方案提供者間接轉銷商](transition-direct-to-indirect.md)。
+如果您決定從直接計費業務轉換為間接經銷商業務，您必須採取幾個步驟。 若要深入了解轉換程序，請參閱[從雲端解決方案提供者 (CSP) 直接計費合作夥伴轉換為雲端解決方案提供者間接經銷商](transition-direct-to-indirect.md)。
 
 ## <a name="next-steps"></a>接下來的步驟
 
 - [直接帳單合作夥伴的新營收需求](./announcements/2020-october.md#13)
  
+- [關於成為間接經銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [關於成為間接轉銷商的其他資訊](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
-
-- [直接計費轉換為間接轉銷商的常見問題集](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [CSP 中直接帳單合作夥伴需求的新績效標準](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)

@@ -1,7 +1,7 @@
 ---
 title: 雲端解決方案提供者 (CSP) 的 Microsoft 合作夥伴合約 (MPA)
-ms.topic: article
-ms.date: 04/27/2020
+ms.topic: how-to
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入了解 Microsoft CSP 合作夥伴需求，以簽署並確認此統一、數位化的 Microsoft 合作夥伴合約 (MPA)。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869328"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514754"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解 CSP 計畫合作夥伴的 Microsoft 合作夥伴合約 (MPA)
 
@@ -24,9 +24,12 @@ ms.locfileid: "96869328"
 
 Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、數位化的合作夥伴合約。 Microsoft 合作夥伴合約包含一組核心永久條款，可協助 Microsoft、合作夥伴和客戶支援資料隱私權和安全性、提升合規性，並鼓勵良好的商業實務。
 
-所有雲端解決方案提供者計畫合作夥伴 (包括間接提供者、間接轉銷商和直接計費合作夥伴) 都可以在合作夥伴中心線上簽署 MPA。 在政府雲端中操作的直接帳單和間接提供者合作夥伴也可以在合作夥伴中心內簽署 MPA。
+所有雲端解決方案提供者計畫合作夥伴 (包括間接提供者、間接經銷商和直接計費合作夥伴) 都可以在合作夥伴中心線上簽署 MPA。 在政府雲端中操作的直接帳單和間接提供者合作夥伴也可以在合作夥伴中心內簽署 MPA。
 
 若要繼續參與 CSP 計畫，您必須在 2020 年 1 月 31 日前簽署 Microsoft 合作夥伴合約。 合作夥伴中心會提醒您，您現在可以輕鬆地在合作夥伴中心內簽署合約。
+
+>[!NOTE]
+>在您的公司從事 CSP 業務的每個 CSP 區域中，必須簽署一次 MPA。 深入了解 [CSP 區域](regional-authorization-overview.md) 
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>確認您的 MPN 識別碼有效，並已遷移至合作夥伴中心
 
@@ -47,13 +50,13 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>請確認您已註冊為 CSP 間接經銷商
 
-1. 如果您尚未在合作夥伴中心註冊為 [CSP 間接經銷商](enrolling-in-the-csp-program.md)，則您必須先進行這項操作。 在合作夥伴中心註冊為 CSP 間接經銷商之後，完成其餘步驟。
+1. 如果您尚未在合作夥伴中心註冊為 [CSP Indirect Reseller](enrolling-in-the-csp-program.md)，則您必須先進行這項操作。 在合作夥伴中心註冊為 CSP Indirect Reseller 之後，完成其餘步驟。
 
 1. 使用您的 CSP 全域管理員帳戶憑證登入合作夥伴中心。
 
 1. 從 [設定] 選取 [合作夥伴設定檔](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)。
 
-1. 檢查 [計畫資訊] 區段。 如果您的資訊未顯示 [間接經銷商] 的狀態，則您必須[註冊為間接經銷商](https://partner.microsoft.com/cloud-solution-provider/whats-required)。
+1. 檢查 [計畫資訊] 區段。 如果您的資訊未顯示 [間接經銷商] 的狀態，則您必須[註冊為間接經銷商](indirect-reseller-tasks-in-partner-center.md)。
 
 1. 如果 [間接經銷商] 的狀態是 [作用中]，則表示您是合作夥伴中心內的作用中間接經銷商。
  
@@ -78,13 +81,13 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 >只有公司的全域管理員可以檢視和簽署 MPA。 如果您不是全域管理員，則必須要求全域管理員驗證 MPA。
 
 
-## <a name="downloadable-step-by-step-guides"></a>可下載的逐步指南
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>下載過程中最適合您的逐步指南
 
-1. [從 PMC 遷移至合作夥伴中心，並接受 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. 如果要將 MPN 帳戶從 PMC 遷移至合作夥伴中心：[從 PMC 遷移至合作夥伴中心，並接受 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. [MPN 成員上線和 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. 如果要在合作夥伴中心註冊為 CSP Indirect Reseller：[MPN 成員上線和 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. [確認 Microsoft 合作夥伴合約的接受狀態](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. 如果完成上述步驟 1 和/或步驟 2 之後，要在合作夥伴中心驗證您的 MPA 狀態：[確認 Microsoft 合作夥伴合約的接受狀態](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>後續步驟
 

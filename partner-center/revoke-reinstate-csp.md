@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c694f48fb62fc031bfaf78be6a1c4e43629a7adb
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 13fdeb01ecd73dc1a63d174a4ad5cb8e1bdc813a
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87811328"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011497"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>恢復客戶的 Azure CSP 訂用帳戶管理員權限  
 
@@ -39,7 +39,7 @@ CSP 中的 Azure 系統管理員許可權有兩種層級。
 
 1. 登入合作夥伴中心儀表板，然後從 [合作夥伴中心] 功能表中，選取 [客戶]。
 
-2. 選取您要合作的客戶，然後**要求轉銷商關係。** 這會產生連結，可連結到具有租用戶系統管理員權限的客戶。
+2. 選取您要合作的客戶，然後 **要求轉銷商關係。** 這會產生連結，可連結到具有租用戶系統管理員權限的客戶。
 
 3. 該使用者必須選取連結，並核准轉銷商關係要求。
 
@@ -47,7 +47,7 @@ CSP 中的 Azure 系統管理員許可權有兩種層級。
 
 ## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>新增系統管理員代理程式群組，作為 Azure CSP 訂用帳戶的擁有者
 
-您的客戶必須將您的系統管理員代理程式群組新增為 Azure CSP 訂用帳戶的擁有者。
+您的客戶必須將您的系統管理員代理程式群組新增為 Azure CSP 訂用帳戶、資源群組或資源的擁有者。 
 
 1. 請使用 PowerShell 主控台或 PowerShell 整合式腳本環境 (ISE)。 請確定已安裝 AzureAD 模組。
 
@@ -67,13 +67,20 @@ CSP 中的 Azure 系統管理員許可權有兩種層級。
 4. 具有 Azure CSP 訂用帳戶擁有者存取權的使用者，會使用自己的認證登入 Azure。
 
    ```powershell
-   Connect-AzAccount
+   Connect-AzureRmAccount
    ```
 
-5. 然後，她可以新增您的系統管理員代理程式群組，作為 CSP Azure 訂用帳戶的擁有者。
+5. 其可透過在範圍參數中套用適當的資源 URI，將您的系統管理員代理程式群組新增為 CSP Azure 訂用帳戶、資源群組或資源的擁有者。 
 
     ```powershell
-    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    # Grant owner role at subscription level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+
+    # Grant owner role at resource group level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>/resourceGroups/<Resource group name>"
+
+    # Grant owner role at resource level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "<Resource Uri>"
     ```
 
 ## <a name="next-steps"></a>接下來的步驟

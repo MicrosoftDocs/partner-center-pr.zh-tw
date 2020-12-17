@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556441"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011516"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>管理您的合作夥伴中心帳戶 - 公司設定檔、銀行資訊、角色、權限等等
 
@@ -41,9 +41,19 @@ ms.locfileid: "96556441"
 
 無論您是合作夥伴還是開發人員，請使用您的 MPN 識別碼，進行如記錄支援票證這類的事項。 您的 MPN 識別碼位於 [法律資訊] 頁面上。 您也可以在 [身分識別設定檔] 上找到識別碼。
 
+## <a name="account-settings---partners-resellers"></a>帳戶設定 - 合作夥伴、轉銷商
+
+當您選取 [設定] 圖示，並開啟 [帳戶設定] 功能表時，若您的公司是雲端解決方案提供者方案的一部分，則預設檢視為 [法律資訊]，顯示兩個索引標籤：[合作夥伴] 和 [轉銷商]。 每個索引標籤都包含企業的各個層面。
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="功能表顯示合作夥伴和轉銷商的索引標籤":::
+
+[合作夥伴] 索引標籤包含所有法定商務資訊，例如註冊的公司法定名稱和地址，以及主要連絡人和商務位置。 [轉銷商] 索引標籤 (從事 CSP 業務的合作夥伴) 包含 **客戶支援設定檔**。
+
+如果您的公司未參與 CSP，預設檢視只會顯示 [合作夥伴] 索引標籤，其中包含 **客戶支援設定檔**。
+
 ## <a name="organization-profile"></a>組織設定檔
 
-使用這些頁面來管理法定公司設定檔、合作夥伴設定檔和公司位置等區域。 選取例如 [法律] 或 [租用戶] 等索引標籤 (詳述如下)，以編輯該區域。 選取您感興趣計畫的索引標籤 (MPN、CSP 或商業市集) 以查看您的資訊和設定狀態。
+您可以使用這些頁面管理業務的深度領域，包括法定公司設定檔、合作夥伴設定檔和租用戶。 分別管理每個區域。 其描述如下。 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="法律資訊功能表。":::
 
@@ -81,7 +91,7 @@ ms.locfileid: "96556441"
 
 若要更新您接收合作夥伴中心通知的慣用電子郵件：
 
-1. 請登入您的[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard)。
+1. 登入 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard)。
 1. 移至 [**參與喜好設定**](https://partner.microsoft.com/dashboard/engagement/preference)、選取 [變更] 連結、更新電子郵件地址，然後選取 [儲存]。
 
 ### <a name="find-your-user-role"></a>尋找您的使用者角色
@@ -126,5 +136,5 @@ ms.locfileid: "96556441"
 - [指派使用者角色和權限](permissions-overview.md)
 - [管理您的 MPN 帳戶：位置](manage-locations.md)
 - [重設使用者密碼](reset-a-user-password.md)
-- [API：取得合作夥伴的合法商務設定檔](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
+- [API：取得合作夥伴的法定公司設定檔](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
 - [探索合作夥伴中心商業市集中的供應項目和定價](csp-commercial-marketplace-discover.md)
