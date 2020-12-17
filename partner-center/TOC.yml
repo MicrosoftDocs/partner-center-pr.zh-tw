@@ -119,7 +119,7 @@
     - name: 受限制的直接計費存取
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
-    - name: 從雲端解決方案提供者直接計費轉換到間接轉銷商
+    - name: 從雲端解決方案提供者直接計費轉換到間接經銷商
       href: transition-direct-to-indirect.md
       displayName: csp
     - name: 雲端解決方案提供者合約、價目表和供應項目
@@ -650,7 +650,7 @@
               href: pci-product-licenses-report.md
             - name: 產品訂用帳戶
               href: pci-product-subscriptions-report.md
-            - name: 轉銷商績效
+            - name: 經銷商績效
               href: pci-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: 訓練
@@ -668,7 +668,7 @@
       items:
         - name: 客戶 Azure 使用情況
           href: analyze-azure-usage.md
-        - name: 間接轉銷商績效
+        - name: 間接經銷商績效
           href: analyze-indirect-resellers.md
           displayName: 'indirect, reseller, subscription'
         - name: 訂閱與授權
@@ -738,6 +738,8 @@
     - name: 對合作夥伴租用戶強制使用 MFA
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: 使用 MFA 設定您的使用者
+      href: mfa-for-users.md
     - name: 需求狀態
       href: partner-security-compliance.md
       displayName: csp
