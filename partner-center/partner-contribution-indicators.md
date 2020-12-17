@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴貢獻指標
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入瞭解七個合作夥伴貢獻指標 (PCI) ，其中顯示您如何使用 Dynamics 365 Customer Engagement 或 Dynamics 365 財務和營運。
@@ -9,14 +9,14 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344386"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636036"
 ---
-# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>合作夥伴貢獻指標 (PCI) 顯示合作夥伴對客戶成功的七個關鍵量值有何影響
+# <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>合作夥伴貢獻指標 (PCI) 顯示合作夥伴對客戶成功的七個關鍵量值的影響
 
 本文說明 (PCI) 的七個主要合作夥伴貢獻指標，用來評估合作夥伴取得或維護雲端 Business Applications (CBA) MPN 專長認證的進度。
 
@@ -42,23 +42,23 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 
 *效能指標：*
 
-1. **淨新收入** ： Microsoft Dynamics 365 產品所有銷售通路的淨新收益。  (如需此計量的詳細資訊，請參閱 [淨新收益的定義](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)) 
+1. **淨新收入**： Microsoft Dynamics 365 產品所有銷售通路的淨新收益。  (如需此計量的詳細資訊，請參閱 [淨新收益的定義](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue)) 
 
-2. **淨客戶新增** ：跨所有銷售通路取得 Dynamics 365 的淨客戶。  (如需此計量的詳細資訊，請參閱 [net customer 新增的定義](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)。 ) 
+2. **淨客戶新增**：跨所有銷售通路取得 Dynamics 365 的淨客戶。  (如需此計量的詳細資訊，請參閱 [net customer 新增的定義](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds)。 ) 
 
 *功能指標：*
 
-3. **功能顧問** ：持有目前作用中功能顧問的個人人數會將 Dynamics 365 的認證相關聯。  (如需此計量的詳細資訊，請參閱 [功能顧問的定義](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)) 。
+3. **功能顧問**：持有目前作用中功能顧問的個人人數會將 Dynamics 365 的認證相關聯。  (如需此計量的詳細資訊，請參閱 [功能顧問的定義](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants)) 。
 
-4. **功能顧問成長** ：功能顧問的數目成長。  PCI 中功能顧問成長標準的基準快照現在將于2020年10月1日生效。  (如需此計量的詳細資料，請參閱 [功能顧問成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。 ) 
+4. **功能顧問成長**：功能顧問的數目成長。 有幾個選項可取得此指標的點。 若要在2020年10月1日取得 PCI 中功能顧問成長標準的基準快照集，其中一個選項需要基準快照。  (如需取得此計量之所有選項的詳細資訊，請參閱 [功能顧問成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。 ) 
 
-5. **開發人員** ：擁有目前作用中開發人員相關聯之 Dynamics 365 認證的個人數目。  (如需此計量的詳細資訊，請參閱 [開發人員的定義](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)。 ) 
+5. **開發人員**：擁有目前作用中開發人員相關聯之 Dynamics 365 認證的個人數目。  (如需此計量的詳細資訊，請參閱 [開發人員的定義](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers)。 ) 
 
 *客戶成功指示器：*
 
-6. **新的大型部署** ：在過去12個月內，跨越高使用量閾值的生產租使用者數目。  (如需此計量的詳細資料，請參閱 [新大型部署的定義](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)。 ) 
+6. **新的大型部署**：在過去12個月內，跨越高使用量閾值的生產租使用者數目。  (如需此計量的詳細資料，請參閱 [新大型部署的定義](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments)。 ) 
 
-7. **每月活躍使用者成長** ：過去12個月內，所有客戶的每月作用中使用者成長。  (如需此計量的詳細資料，請參閱 [每月作用中使用者成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)。 ) 
+7. **每月活躍使用者成長**：過去12個月內，所有客戶的每月作用中使用者成長。  (如需此計量的詳細資料，請參閱 [每月作用中使用者成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)。 ) 
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI 分數如何影響專長認證資格
 系統會為每個達成的指標授與點，以產生單一數位的 PCI 分數。 100可能的最大點數。 
@@ -98,12 +98,12 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 系統會記錄每個計量的點，以針對客戶參與和財務和營運產生不同的 PCI 分數。 此分數將會每月更新。
 
 如果合作夥伴達到或超過以下所示的閾值，就能獲得給定計量的最高分。 部分點數可針對所有計量獲得，但功能顧問的成長除外。
+
 例如，使用 $150000 的淨新收入來開發的市場夥伴將獲得最大10點的一半 ($ 150000/$ 300000) 。
 
 請參閱下表以取得詳細資料：
 - [[表 1]。客戶參與閾值](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [[表 2]財務和營運閾值](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [[表 3]。功能顧問成長](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>表 1 Customer Engagement 閾值
 
@@ -114,7 +114,7 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 | **開發** | $300,000 | 10 | 10 | *\* 請參閱附注* | 5 | 5 | 25% |
 | **發展** | $150000 | 5  | 5  |*\* 請參閱附注* | 2 | 1 | 25% |
 
-*\* 注意：成長目標會根據基準顧問的數目而有所不同。請參閱 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 以瞭解成長目標。*
+*\* 注意：成長目標會根據基準顧問的數目以及夥伴用來取得點數的特定選項而有所不同。若要深入瞭解取得點數的選項，或每個選項的特定成長目標，請參閱 [功能顧問成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>表2財務和營運閾值
 
@@ -125,19 +125,7 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 | **開發** | $300,000 | 3 | 15 | *\* 請參閱附注* | 5  | 3 | 25% |
 | **發展** | $150000 | 1 | 5 |*\* 請參閱附注* | 2 | 1 | 25% |
 
-*\* 注意：成長目標會根據基準顧問的數目而有所不同。請參閱 [表 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) 以瞭解成長目標。*
-
-### <a name="table-3-functional-consultant-growth"></a>表3功能顧問成長
-
->[!NOTE]
-> 下表顯示已 **開發** 和 **開發** 的資料行，其中包含符合資格可獲得點數的功能顧問基準。 基準快照日期將于2020年10月1日取得。
-
-
-| 開發 | 發展 | 獲得全部15點所需的成長 *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | 35% |
-| 30-49 | 15-24 | 25% |
-| 50 及以上 | 25和更新版本 | 15% |
+*\* 注意：成長目標會根據基準顧問的數目以及夥伴用來取得點數的特定選項而有所不同。若要深入瞭解取得點數的選項，或每個選項的特定成長目標，請參閱 [功能顧問成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>PCI 計量的詳細定義
 
@@ -180,7 +168,7 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 
 - **客戶新增** 會在下列情況下定義：當客戶在上個月沒有任何其訂用帳戶的付費基座，但目前的月份至少有一個付費基座時。
 
-- **客戶流失** 會在下列情況下定義：當客戶的所有訂用帳戶在上個月至少有一個付費基座， **而且** 目前月份沒有任何付費基座時。
+- **客戶流失** 會在下列情況下定義：當客戶的所有訂用帳戶在上個月至少有一個付費基座，**而且** 目前月份沒有任何付費基座時。
 
 - 銷售通路包括 Enterprise 合約 (EA) 、雲端解決方案提供者 (CSP) 和 Web Direct。
 
@@ -208,13 +196,30 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 
 - 功能顧問的定義是，持有目前作用中功能顧問的個體數目會與認證相關聯，例如 Customer Engagement 功能顧問認證或財務和營運功能顧問認證。
 
-- 客戶參與功能顧問認證需要個別的人員通過： MB-200 **和** 下列其中一項： mb-210、mb-220、MB-230、mb-240 或 MB6-898。
+- 客戶參與功能顧問認證需要個人通過：
+  - MB-200 \* 或 PL-200<br/>
+  **和** 下列其中一項測驗：
+  - MB-210、MB-220、MB-230、MB-240 或 MB6-898 \* \* 。
 
-- 財務和作業功能顧問認證需要個人通過： MB-300 **和** 下列其中一項： mb-310、MB-320、MB-330、MB6-897 或 MB6-898。
+- 財務和作業功能顧問認證需要個人通過：
+  - MB-300<br/>
+  **和** 下列其中一項測驗：
+  - MB-310、MB-320、MB-330、MB-897 \* \* 或 MB6-898 \* \* 。
+
+> [!NOTE]
+> 以星號標示 () 的測驗 \* 將在未來幾個月淘汰或取代。 請參閱下面的特定詳細資料：
+>
+> - 以單一星號標記的測驗 (\*) 將于2020年12月31日淘汰。 2020年12月31日淘汰的測驗將維持符合專長認證的資格，並在2021年12月31日之前續訂。
+> - 以兩個星號標示的測驗 (\* \*) 將于2021年1月31日淘汰。 2021年1月31日淘汰的測驗將維持符合專長認證的資格，並在2022年1月31日前續訂。
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>PCI 度量 #4 的定義-功能顧問成長
 
-功能顧問成長是一項功能指標，以及本文稍 [早所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七個主要合作夥伴貢獻指標之一。 以下是有關如何定義功能顧問成長指標的詳細資訊，以及如何計算此類別的點數：
+功能顧問成長是一項功能指標，以及本文稍 [早所述](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)的七個主要合作夥伴貢獻指標之一。 夥伴擁有兩個選項之一，可讓您達到此計量 (15 或0點) 可用的全或無點。 不會授與任何部分點。 
+
+以下是有關如何定義功能顧問成長指標，以及如何計算此類別的點數的詳細資訊。
+
+**取得點的選項1：**
 
 - 功能顧問的成長定義為自基準快照以來，已認證的功能顧問的成長數。 基準快照日期將于2020年10月1日起生效。
 
@@ -224,7 +229,19 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 
 - 若要符合點數的資格，您必須至少有 **15** 個功能顧問與開發的市場夥伴相關聯，以及 **5** 個，以在建立基準快照時開發市場合作夥伴。
 
-- **不會授與任何部分點。** 基準快照集之上的成長必須符合或超過表3中指出的閾值 [。功能顧問成長](partner-contribution-indicators.md#table-3-functional-consultant-growth)。
+- **不會授與任何部分點。** 基準快照集之上的成長必須符合或超過下表所指出的閾值。 此表格顯示已 **開發** 和 **開發** 的資料行，其中包含符合資格可獲得點數的功能顧問基準。
+
+  | 開發 | 發展 | 獲得全部15點所需的成長 *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | 35% |
+  | 30-49 | 15-24 | 25% |
+  | 50 及以上 | 25和更新版本 | 15% |
+
+**第二個選項可取得點數：**
+
+- 開發的市場夥伴可以針對其第一個以 PCI 為基礎的 CBA 周年，及時認證50或更多的功能性顧問。  (開發市場夥伴可以針對其第一個以 PCI 為基礎的 CBA 周年，及時認證25個或更多的功能顧問。 ) 
+
+- 如果達到此閾值，您將會在該日期起24個月內，收到完整15點的功能顧問成長。 這可有效地表示您會獲得兩個 CBA 周年的功能顧問成長的最大點數。
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>PCI 度量 #5 的定義-開發人員
 
@@ -234,9 +251,21 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 
 - 開發人員指標的點是根據目前的月快照集，最多可以使用5個點。
 
-- 客戶 Engagement 開發人員會在通過 MB-200 **和** 下列其中一項時取得點數： mb-400 或 >\mb2\instance1-716。
+- 客戶參與開發人員會在通過時取得點數：
+  - PL-400<br/>**or**
+  - MB-200 \* **和** 下列其中一項測驗：
+    - MB-400 \* 或 >\mb2\instance1-716\*\*
 
-- 當財務和營運人員通過 MB-300 **和** 下列其中一項時，就會取得點數： mb-500 或 MB6-894。
+- 財務和營運人員在通過時取得點數：
+  - MB-300<br/>
+  **和** 下列其中一項測驗：
+  - MB-500 或 MB-894\*\*
+
+> [!NOTE]
+> 以星號標示 () 的測驗 \* 將在未來幾個月淘汰或取代。 請參閱下面的特定詳細資料：
+>
+> - 以單一星號標記的測驗 (\*) 將于2020年12月31日淘汰。 2020年12月31日淘汰的測驗將維持符合專長認證的資格，並在2021年12月31日之前續訂。
+> - 以兩個星號標示的測驗 (\* \*) 將于2021年1月31日淘汰。 2021年1月31日淘汰的測驗將維持符合專長認證的資格，並在2022年1月31日前續訂。
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI 度量 #6 的定義-新的大型部署
 
