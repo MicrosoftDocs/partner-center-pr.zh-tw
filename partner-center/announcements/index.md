@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869311"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622179"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "96869311"
 
 | **類別** | **2020 年 12 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[Power Apps 促銷供應項目現已推出](2020-december.md#5)|12 月 16 日|
 |功能|[.NET Standard (v1.16.3) 上的 SDK 版本](2020-december.md#4)|12 月 8 日|
 |供應項目/市場|[2020 年 12 月授權型價格清單版本資訊](2020-december.md#3)|12 月 8 日|
 |供應項目/市場|[美國 Microsoft 365 商務版語音與通話方案供應專案即將更新](2020-december.md#2)|12 月 3 日|
