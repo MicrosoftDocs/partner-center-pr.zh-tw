@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622179"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666735"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,11 @@ ms.locfileid: "97622179"
 
 | **類別** | **2020 年 12 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[CSP 中的永久軟體：新產品和地理位置](2020-december.md#10)|12 月 17 日|
+|拓展您的業務|[政府、學術和非營利機構：繼續進行 Open License 的程式變更和 CSP 的發展](2020-december.md#9)|12 月 17 日|
+|供應項目/市場|[雲端解決方案提供者 (CSP) 客戶上架需求的變更](2020-december.md#8)|12 月 17 日|
+|拓展您的業務|[提醒：自 2021 年 1 月開始可廣泛使用雲端解決方案提供者 (CSP) 計畫中的永久軟體](2020-december.md#7)|12 月 17 日|
+|功能|[線上服務和軟體頻道授權指南](2020-december.md#6)|12 月 17 日|
 |供應項目/市場|[Power Apps 促銷供應項目現已推出](2020-december.md#5)|12 月 16 日|
 |功能|[.NET Standard (v1.16.3) 上的 SDK 版本](2020-december.md#4)|12 月 8 日|
 |供應項目/市場|[2020 年 12 月授權型價格清單版本資訊](2020-december.md#3)|12 月 8 日|
