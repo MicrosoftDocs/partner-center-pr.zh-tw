@@ -9,12 +9,12 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92174903"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720827"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>合作夥伴系統管理中心即將移轉到合作夥伴中心
 
@@ -41,13 +41,10 @@ Office 365 合作夥伴系統管理中心 (PAC) 即將移至 Microsoft 合作夥
 
 - 雲端解決方案提供者合作夥伴：如果您是 CSP 合作夥伴，我們會自動將您重新導向至從2018年4月開始的合作夥伴中心。
 
-- 如果您不是透過 CSP 來交易，而是使用 PAC 為您的客戶提供試用/報價，則建議程式合作夥伴 () ：只要我們決定自動重新導向至合作夥伴中心的時間軸，我們就會在此宣佈。
+- 如果您不是透過 CSP 進行交易，而使用 PAC 為客戶提供試用/報價) ：如果您是 Advisor 合作夥伴，我們會自動將您重新導向至自2020年6月起的合作夥伴中心。 (
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>立即開始使用 Microsoft 合作夥伴中心！
 
 立即開始使用 [Microsoft 合作夥伴中心](https://partnercenter.microsoft.com/) ，以準備好從 PAC 進行移動。  您將針對用於 PAC 的合作夥伴中心使用相同的認證。
 
-> [!IMPORTANT]  
-> PAC 中提供的某些功能與功能將無法在合作夥伴中心中使用。
-
- 請閱讀[並排比較](moving-from-pac-to-pc.md)以了解並熟悉這些變更。 
+請閱讀[並排比較](moving-from-pac-to-pc.md)以了解並熟悉這些變更。

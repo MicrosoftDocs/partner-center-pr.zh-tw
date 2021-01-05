@@ -6,18 +6,18 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5769326965955762d2c262fd42a099cf745417e6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
+ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007178"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "97771687"
 ---
 # <a name="what-is-microsoft-appsource"></a>什麼是 Microsoft AppSource？
 
 Microsoft AppSource 是一個線上商店，內含由業界領先的軟體提供者所建立的數千種商務應用程式和服務。 您可以使用 AppSource 來尋找、試用、購買及部署商務軟體和服務，以協助您執行業務。
 
-AppSource catalog 包含軟體即服務 (SaaS) 應用程式、為 Microsoft Azure 提供的解決方案、Dynamics 365、Microsoft 365、Power BI、Power Apps，以及 Microsoft 合作夥伴提供的諮詢服務。 您可以在中存取 AppSource 產品目錄 [https://appsource.microsoft.com](https://appsource.microsoft.com) ，也可以透過 Microsoft 365、Dynamics 365 和 Microsoft Power Platform 的產品內體驗來存取。 來自 AppSource 的解決方案也可以從 Microsoft 轉銷商的雲端解決方案提供者方案中取得。
+AppSource catalog 包含軟體即服務 (SaaS) 應用程式、為 Microsoft Azure 提供的解決方案、Dynamics 365、Microsoft 365、Power BI、Power Apps，以及 Microsoft 合作夥伴提供的諮詢服務。 存取 AppSource 產品目錄， [https://appsource.microsoft.com](https://appsource.microsoft.com) 或透過 Microsoft 365、Dynamics 365 和 Microsoft Power Platform 的產品內體驗。 來自 AppSource 的解決方案也可以從 Microsoft 轉銷商的雲端解決方案提供者方案中取得。
 
 ## <a name="find-what-you-need-on-appsource"></a>在 AppSource 上尋找您需要的內容
 
@@ -44,12 +44,16 @@ AppSource 中提供的每項產品都已根據特定準則獲得認證。 我們
 
 ## <a name="terms-and-conditions"></a>條款及條件
 
-軟體廠商會定義價格、使用者授權合約和隱私權原則。 AppSource 上的每個供應專案都包含發行者的授權合約和隱私權原則的連結。 確認這些合約以及有機會加以查看，是購買流程的一部分。 如需詳細資訊，請參閱 [法律合約](legal-contracts.md) 。
+軟體廠商會定義價格、使用者授權合約和隱私權原則。 AppSource 上的每個供應專案都包含發行者的授權合約和隱私權原則的連結。 觀賞和確認這些合約是購買流程的一部分。 如需詳細資訊，請參閱 [法律合約](legal-contracts.md)。
+
+## <a name="discover-saas-and-m365-integrated-apps"></a>探索 SaaS 和 M365 整合式應用程式
+
+我們的合作夥伴可以在 SaaS 與 M365 整合式應用程式之間連結。 當您取得連結的 SaaS 應用程式時，這可讓您下載並使用整合式應用程式。 在此情況下，搜尋結果可能只會傳回 SaaS 應用程式，而該應用程式會顯示隨附的整合式應用程式圖示。 您可以在每個應用程式的 [產品詳細資料] 頁面上，流覽 SaaS 與整合式應用程式。 如果 SaaS 應用程式需要購買，請參閱 [如何在 Microsoft AppSource 購買 saas](purchase-software-appsource.md)供應專案。
 
 ## <a name="find-ratings-and-reviews"></a>尋找評等和評論
 
-在每個 [清單] 頁面上，您可以找到其他客戶的評等和評論。 評等會使用5星級，而平均評等則會顯示在每個供應專案卡片上。 您也可以使用逐字評論來瞭解其他客戶的體驗。 購買解決方案之後，您也可以離開評分和評論，以協助其他客戶進行決策。
+在每個 [清單] 頁面上，您可以找到其他客戶的評等和評論。 評等會使用五顆星的比例，而平均評等則會顯示在每個供應專案卡片上。 您也可以使用逐字評論來瞭解其他客戶的體驗。 購買解決方案之後，您也可以離開評分和評論，以協助其他客戶進行決策。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
-- [購買 Microsoft AppSource 的軟體](purchase-software-appsource.md)
+- [在 Microsoft AppSource 上購買軟體](purchase-software-appsource.md)

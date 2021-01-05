@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
-ms.date: 09/18/2020
-ms.openlocfilehash: 2459e7841c2c33227ad38f9d6fa1fc139fc0326e
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.date: 12/22/2020
+ms.openlocfilehash: 09f7bcb29dc619e4e31c0aa3d5c73fade5218819
+ms.sourcegitcommit: 30d154cdf40aa75400be7805cd9b2685b66a1382
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439259"
+ms.lasthandoff: 12/24/2020
+ms.locfileid: "97760797"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>在 Azure 入口網站中建立及管理私人 Azure Marketplace (預覽) 
 
@@ -31,14 +31,32 @@ ms.locfileid: "96439259"
 >[!IMPORTANT]
 > 私人 Azure Marketplace 管理的存取權僅適用于已指派 Marketplace 管理員角色的 IT 系統管理員。
 
-### <a name="prerequisites"></a>Prerequisites
+### <a name="prerequisites"></a>必要條件
 
 您必須符合這些必要條件，才能將 Marketplace 系統管理員角色指派給租使用者範圍的使用者：
 
 - 您可以存取 **全域管理員** 使用者。
 - 租使用者至少有一個訂用帳戶 (可以是任何類型) 。
 - 系統會將所選訂用帳戶的「 **參與者** 」角色或更高許可權指派給全域管理員使用者。
-- 全域系統管理員使用者的存取權設定為 **[是]** (查看提高 [存取權以管理所有 Azure 訂用帳戶和管理群組](/azure/role-based-access-control/elevate-access-global-admin)) 。
+
+### <a name="assign-the-marketplace-admin-role-with-iam"></a>使用 IAM 指派 Marketplace 管理員角色
+
+1. 登入 [Azure 入口網站](https://portal.azure.com/)。
+1. 選取 [ **所有服務** ]，然後選取 [ **Marketplace**]。
+
+   :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Azure 入口網站主視窗。":::
+
+3. 從左側的選項中選取 [ **私人 Marketplace** ]。
+1. 選取 [ **存取控制] (IAM)** 以指派 Marketplace 管理員角色。
+
+    :::image type="content" source="media/private-azure/access-control-iam.png" alt-text="IAM 存取控制畫面。":::
+
+1. 選取 [+新增] > [新增角色指派]。
+1. 在 [ **角色**] 下，選擇 [ **Marketplace 管理員**]。
+
+    :::image type="content" source="media/private-azure/iam-role-assignment.png" alt-text="角色指派功能表。":::
+
+1. 從下拉式清單中選取所需的使用者，然後選取 [ **完成**]。
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>使用 PowerShell 指派 Marketplace 管理員角色
 
@@ -53,74 +71,83 @@ ms.locfileid: "96439259"
 > 對於受邀加入租使用者的來賓使用者，最多可能需要48小時，直到他們的帳戶可以指派 Marketplace 管理員角色為止。 如需詳細資訊，請參閱 [AZURE ACTIVE DIRECTORY B2B 共同作業使用者的屬性](/azure/active-directory/b2b/user-properties)。
 
 ```PowerShell
-function Assign-MarketplaceAdminRole {
-[CmdletBinding()]
-param(
-[Parameter(Mandatory)]
-[string]$TenantId,
+function Assign-MarketplaceAdminRole { 
+[CmdletBinding()] 
+param( 
+[Parameter(Mandatory)] 
+[string]$TenantId, 
+ 
+[Parameter(Mandatory)] 
+[string]$SubscriptionId, 
 
-[Parameter(Mandatory)]
-[string]$SubscriptionId,
+ 
 
-[Parameter(Mandatory)]
-[string]$GlobalAdminUsername,
+[Parameter(Mandatory)] 
+[string]$GlobalAdminUsername, 
 
-[Parameter(Mandatory)]
-[string]$UsernameToAssignRoleFor
-)
+ 
 
-$MarketplaceAdminRoleDefinitionName = "Marketplace Admin"
+[Parameter(Mandatory)] 
+[string]$UsernameToAssignRoleFor 
+) 
 
-Write-Output "TenantId = $TenantId"
-Write-Output "SubscriptionId = $SubscriptionId"
-Write-Output "GlobalAdminUsername = $GlobalAdminUsername"
-Write-Output "UsernameToAssignRoleFor = $UsernameToAssignRoleFor"
+$MarketplaceAdminRoleDefinitionName = "Marketplace Admin" 
 
-Write-Output "$($GlobalAdminUsername) is about to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)"
+ 
+
+Write-Output "TenantId = $TenantId" 
+Write-Output "SubscriptionId = $SubscriptionId" 
+Write-Output "GlobalAdminUsername = $GlobalAdminUsername" 
+Write-Output "UsernameToAssignRoleFor = $UsernameToAssignRoleFor" 
+
+ 
+
+Write-Output "$($GlobalAdminUsername) is about to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)" 
+
+ 
 
 $profile = Connect-AzAccount -Tenant $TenantId -SubscriptionId $SubscriptionId
 
-if($profile -eq $null)
-{
-Write-Error -Message "Failed to connect to tenant and/or subscription" -ErrorAction Stop
-}
-elseif($profile.Context.Account.Id -ne $GlobalAdminUsername)
-{
-Write-Error "Connected with $($profile.Context.Account.Id) instead of with the global admin that was specified in the script parameters, which is $($GlobalAdminUsername)"
-}
-else
-{
-Write-Output "$($GlobalAdminUsername) was connected successfully to Tenant=$($profile.Context.Tenant), Subscription=$($profile.Context.Subscription), AccountId=$($profile.Context.Account.Id), Environment=$($profile.Context.Environment)"
-}
+ 
 
-$MarketPlaceAdminRole = Get-AzRoleDefinition $MarketplaceAdminRoleDefinitionName
+ 
+if($profile -eq $null) 
+{ 
+Write-Error -Message "Failed to connect to tenant and/or subscription" -ErrorAction Stop 
+} 
+elseif($profile.Context.Account.Id -ne $GlobalAdminUsername) 
+{ 
+Write-Error "Connected with $($profile.Context.Account.Id) instead of with the global admin that was specified in the script parameters, which is $($GlobalAdminUsername)" 
+} 
+else 
+{ 
+Write-Output "$($GlobalAdminUsername) was connected successfully to Tenant=$($profile.Context.Tenant), Subscription=$($profile.Context.Subscription), AccountId=$($profile.Context.Account.Id), Environment=$($profile.Context.Environment)" 
+} 
 
-if($MarketPlaceAdminRole -eq $null)
-{
-Write-Error -Message "'$($MarketplaceAdminRoleDefinitionName)' role is not available" -ErrorAction Stop
-}
-else
-{
-Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is available"
-}
+ 
 
-Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-$elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
+$MarketPlaceAdminRole = Get-AzRoleDefinition $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace"
 
-if($elevatedAccessOnRoot.Count -eq 0)
-{
-Write-Error -Message "$($GlobalAdminUsername) doesn't have permissions to assign '$($MarketplaceAdminRoleDefinitionName)'. Please verify it has elevated access 'On' in portal, https://docs.microsoft.com/en-us/azure/role-based-access-control/elevate-access-global-admin" -ErrorAction Stop
-}
-else
-{
-Write-Output "$GlobalAdminUsername has elevated access on root"
-}
+ 
 
-New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace"
+if($MarketPlaceAdminRole -eq $null) 
+{ 
+Write-Error -Message "'$($MarketplaceAdminRoleDefinitionName)' role is not available" -ErrorAction Stop 
+} 
+else 
+{ 
+Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is available" 
+} 
 
-}
+ 
 
-Assign-MarketplaceAdminRole
+Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..." 
+
+New-AzRoleAssignment -SignInName $UsernameToAssignRoleFor -RoleDefinitionName $MarketplaceAdminRoleDefinitionName -Scope "/providers/Microsoft.Marketplace" 
+
+} 
+
+Assign-MarketplaceAdminRole 
 ```
 
 如需 Az. Portal PowerShell 模組中所含 Cmdlet 的詳細資訊，請參閱 [Microsoft Azure PowerShell：入口網站儀表板 Cmdlet](/powershell/module/az.portal/)。
@@ -191,8 +218,8 @@ Assign-MarketplaceAdminRole
 
 您可以視需要啟用或停用私用 Azure Marketplace。
 
-1. 如果已停用，請選取 [ **啟用私人 Marketplace** ] 以啟用。
-2. 若已啟用，請選取 [ **停用私人 Marketplace** ] 以停用。
+- 如果已停用，請選取 [ **啟用私人 Marketplace** ] 以啟用。
+- 若已啟用，請選取 [ **停用私人 Marketplace** ] 以停用。
 
 ## <a name="browsing-private-azure-marketplace"></a>流覽私用 Azure Marketplace
 
@@ -219,8 +246,8 @@ Assign-MarketplaceAdminRole
 
 - 如果產品方案選項未出現在 [產品詳細資料] 頁面中，但系統管理員已核准一或多個方案，則橫幅會注明允許的方案，並啟用 [ **建立** ] 按鈕：
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="供應專案橫幅指出可以建立方案，並顯示可用的方案。":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="供應專案橫幅指出可以建立方案並顯示可用的方案。":::
 
-## <a name="contact-support"></a>請連絡支援部門
+## <a name="contact-support"></a>請連絡支援人員
 
 如 Azure Marketplace 支援，請造訪 [Microsoft Q&A](/answers/products/)。 
