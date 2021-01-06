@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
+ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916842"
+ms.locfileid: "97950581"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作夥伴中心 (電腦) 共同銷售的指南，適用于從合作夥伴銷售 Connect (PSC 進行遷移的合作夥伴) 
 
@@ -321,7 +321,7 @@ PSC 的商機識別碼與 PC 中的交易識別碼相同。 當您開啟任何�
 - 合作夥伴中心中的來賓使用者-您可以 @microsoft.com 在合作夥伴中心內將您的 PDM 帳戶新增為來賓使用者，並指派參考系統管理員角色給他們，讓他們可以根據參考來查看和採取行動。
 - 在您的租使用者中建立 [新的使用者](./create-user-accounts-and-set-permissions.md#add-a-new-user) -您可以在自己的租使用者中建立新的使用者，並與 PDM 共用這些詳細資料，讓他們可以在您的帳戶中使用與其他推薦使用者類似的參考來進行流覽和操作。
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>如果您的 PSC 帳戶未與不正確 MPN 相關聯，請尋找正確的 MPN 識別碼
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>如果您的 PSC 帳戶未與有效的 MPN 相關聯，請尋找正確的 MPN 識別碼
 
 如果您在這裡看到的是「PSC 不正確 MPN 識別碼關聯問題」，則您在正確的位置。
 
