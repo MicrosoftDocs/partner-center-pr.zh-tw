@@ -1,19 +1,19 @@
 ---
 title: Salesforce CRM 合作夥伴中心的共同銷售連接器
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 將合作夥伴中心中的您的參考與 Salesforce CRM 同步處理。 然後，銷售人員可以從您的 CRM 系統內與 Microsoft 共同銷售。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947846"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960946"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM 的共同銷售連接器 – 概觀
 
@@ -51,7 +51,7 @@ ms.locfileid: "94947846"
 
 3. 在 Salesforce 中，請使用以下的套件安裝程式來安裝自訂欄位和物件。
   
-請前往 [這裡](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) 將套件安裝到任何公司：
+請前往 [這裡](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) 將套件安裝到任何公司。
 
 
 注意：如果您要安裝至沙箱，您必須將 URL 的初始部分取代為 http://test.salesforce.com
