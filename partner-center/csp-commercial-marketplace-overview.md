@@ -9,19 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038824"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979442"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>合作夥伴中心的商業市場概觀
 
-**適用於**
+**適當的角色**
 
-- 合作夥伴中心
-- 雲端解決方案提供者方案中的合作夥伴
+- 全域系統管理員
 
 身為雲端解決方案提供者 (CSP) 計畫中的合作夥伴，可讓您將 Microsoft 產品配套，以及由協力廠商獨立軟體廠商 (Isv) 發行的解決方案。 以這種方式組合解決方案，可讓您更妥善提供終端客戶的服務，並拓展您的 CSP 服務業務。
 
@@ -55,7 +54,7 @@ ms.locfileid: "96038824"
 
 - [Microsoft Azure 管理入口網站](https://portal.azure.com/)
 
-    或
+    Or
 
 - 協力廠商 ISV 發行者的系統或網站
 

@@ -1,6 +1,6 @@
 ---
 title: 探索優惠-商業市場
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e89473cf095be4cc87c96f1c2a6d0da224eccedd
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: f741ef4e44632e1d239285b58e99fbb38a8f37e7
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038842"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979595"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>探索合作夥伴中心商用 marketplace 中的優惠和定價
-
-**適用於**
-
-- 合作夥伴中心
-- 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
 

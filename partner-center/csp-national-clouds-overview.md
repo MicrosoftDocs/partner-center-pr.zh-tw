@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000382"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979561"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>申請在 Microsoft 國家雲端銷售作為 CSP 方案的一部分
+
+**適用於**
+
+- 適用于 Microsoft 政府雲端的合作夥伴中心
+- 適用于 Microsoft Cloud 德國的合作夥伴中心
+
+
+**適當的角色**
+
+- 全域系統管理員
 
 除了可對屬於全球雲端解決方案提供者計畫的客戶進行銷售，合格的 Microsoft 合作夥伴也能對以下三種不同的國內雲客戶進行銷售。 國內雲是 Microsoft 企業雲端服務的實體和邏輯網路隔離的執行個體，局限在特定國家/地區的地理邊界內，並由當地人員操作。 
 
@@ -24,7 +34,7 @@ ms.locfileid: "91000382"
 
 Microsoft 在國內雲提供這些服務：
 
--   Microsoft Azure 範圍內服務提供超大規模運算、儲存空間、網路和身分識別管理。 Azure 以政府要求的安全性、隱私權、控制、合規性以及透明度水平來保護雲端的資料。
+-   Microsoft Azure 範圍內的服務提供超大規模的運算、儲存體、網路和身分識別管理。 Azure 以政府要求的安全性、隱私權、控制、合規性以及透明度水平來保護雲端的資料。
 
 -   Microsoft Dynamics 365 是雲端式客戶關係 (CRM) 解決方案，讓政府員工可以使用資料報告、模型建置以及工作流程，同時提供可限制機密資料存取權的安全性功能。
 
@@ -49,3 +59,7 @@ Microsoft 在國內雲提供這些服務：
     Microsoft 是技術提供者，但不運作服務；由 21Vianet 獨立地運作、提供及管理 Microsoft 雲端服務。 透過授權 Microsoft 技術，21Vianet 可以提供 Azure 與 Office 365 服務並操作在中國大陸境內保存資料的 Azure 與 Office 365 資料中心。 21Vianet 也提供訂閱和帳單服務，以及支援。
 
     如需如何註冊以及向中國境內由 21Vianet 營運的 Azure 和 Office 365 客戶銷售的相關資訊，請參閱[由 21Vianet 營運的合作夥伴中心](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))。
+
+## <a name="next-steps"></a>後續步驟
+
+- [Microsoft Cloud for US Government 適用的合作夥伴中心常見問題集](faq-for-us-govt-cloud.md)

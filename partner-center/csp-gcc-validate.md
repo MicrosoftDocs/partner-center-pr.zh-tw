@@ -4,24 +4,19 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解直接帳單合作夥伴（直接轉銷商、間接提供者）的步驟，以驗證適用于 CSP 的 Office 365 政府版 GCC 的合作夥伴和客戶。
+description: 瞭解直接帳單合作夥伴的步驟 (直接轉銷商、間接提供者) 來驗證 Office 365 政府版 GCC for CSP 的合作夥伴和客戶。
 author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87114380"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979632"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>適用于 CSP 的 Office 365 政府 GCC 合作夥伴和客戶資格條件-合作夥伴中心
-
-**適用於**
-
-- 合作夥伴中心
-- 雲端解決方案提供者合作夥伴
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>適用于 CSP 的 Office 365 政府 GCC 合作夥伴和客戶資格準則 
 
 **適當的角色**
 
@@ -32,11 +27,11 @@ ms.locfileid: "87114380"
 >[!NOTE]
 >以下列出的驗證程序和條件專屬於直接帳單合作夥伴。 直接帳單合作夥伴包含直接經銷商和間接提供者。  如果您是間接經銷商，請與您的間接提供者合作。
 
-如果您想要讓組織（或您的客戶組織）核准適用于 CSP 的 Office 365 政府 GCC，請參閱下列需求。
+如果您有興趣讓公司 (或客戶的公司) 核准 Office 365 政府版 GCC 的 CSP，請參閱下列需求。
 
-如果您是服務美國聯邦、州、地方或部落實體的合作夥伴，則可以獲得核准。 若要驗證您的組織資格，請完成[這裡](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)的簡短表單。
+如果您是服務美國聯邦、州、地方或部落實體的合作夥伴，則可以獲得核准。 若要驗證您的組織是否符合資格，請完成 [此處](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)的簡短表單。
 
-如果您的客戶是處理政府控管資料的組織，或者他們是美國聯邦、州、地方或部落實體，則可以獲得核准。 若要驗證客戶的資格，請完成[這裡](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的簡短表單。 
+如果您的客戶是處理政府控管資料的組織，或者他們是美國聯邦、州、地方或部落實體，則可以獲得核准。 若要驗證客戶的組織資格，請完成 [此處](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)的簡短表單。 
 
 -   貴組織必須[已註冊](https://partnercenter.microsoft.com/partner/cloud-solution-provider)雲端解決方案提供者計畫，因為這是獲得適用於雲端解決方案提供者的 Office 365 政府版 GCC 核准的必要條件。
 -   適用於雲端解決方案提供者的 Office 365 政府版 GCC 的逐步驗證程序位於[這裡](https://go.microsoft.com/fwlink/?linkid=2007323)。
@@ -57,7 +52,7 @@ ms.locfileid: "87114380"
     -   地區或州際政府實體 (但非國際實體)
     -   聯邦資助的研究和發展中心 (FERDC)
 
-2.  商業私人實體，具有受法規約束的資料。 接受的政府資料類型包括： 
+2.  商業私用實體，具有受法規約束的資料。 接受的政府資料類型包括： 
     -   國際武器販運 (ITAR)
     -   受控制的未分類資訊 (CUI)
     -   國防部 (DoD) 未分類的受控核子資訊 (UCNI)
@@ -68,3 +63,6 @@ ms.locfileid: "87114380"
 
 如果國際商業實體符合上述需求，並已確認位於美國 (例如郵寄地址、實體位置等)，則可能符合資格。
 
+## <a name="next-steps"></a>後續步驟
+
+- [銷售適用於雲端解決方案提供者的 Office 365 政府版 GCC 訂閱給符合資格的客戶](csp-gcc-overview.md)

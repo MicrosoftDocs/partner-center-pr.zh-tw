@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000512"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979671"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>管理客戶的商業 marketplace 產品和優惠
 
-**適用於**
-
-- 合作夥伴中心
-- 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
 
@@ -114,7 +110,7 @@ ms.locfileid: "91000512"
 
 您也可以使用合作夥伴中心 Api 來執行生命週期管理及管理訂用帳戶的發票。 如需詳細資訊，請參閱 [建立商業 marketplace 產品的訂用](/partner-center/develop/create-subscription-azure-marketplace-products)帳戶。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [購買商用 marketplace 優惠](csp-commercial-marketplace-purchase.md)
 - [瞭解商業 marketplace 中的帳單](csp-commercial-marketplace-billing.md)

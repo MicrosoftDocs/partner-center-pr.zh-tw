@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000422"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979527"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>合作夥伴中心中的商業 marketplace 產品和訂閱帳單
 
-**適用於**
-
-- 合作夥伴中心
-- 雲端解決方案提供者方案中的合作夥伴
 
 **適當的角色**
 
@@ -53,7 +49,7 @@ CSP 方案中的合作夥伴會在購買這些產品時，向客戶購買的 ISV
   
 3. 選取 [ **週期性和一次性購買** ] 索引標籤。如果您以不同的貨幣購買客戶的訂用帳戶，您會看到每個貨幣的索引標籤。 您可以執行下列工作： om 這個頁面：
 
-    - 若要查看最新的發票和對帳檔案，請選取 **發票** 或 **對帳**檔案。  (如果您想要的話，也可以使用 [合作夥伴中心 api](/partner-center/develop/)來存取最新的發票和偵察檔案資料。
+    - 若要查看最新的發票和對帳檔案，請選取 **發票** 或 **對帳** 檔案。  (如果您想要的話，也可以使用 [合作夥伴中心 api](/partner-center/develop/)來存取最新的發票和偵察檔案資料。
 
     - 若要查看先前的發票和偵察檔，請展開下方的 **計費記錄** 資料列。
 
@@ -95,7 +91,7 @@ CSP 方案中的合作夥伴會在購買這些產品時，向客戶購買的 ISV
 
 ### <a name="tips-on-reading-your-reconciliation-file"></a>讀取對帳檔案的秘訣
 
-**週期性和單次採購**對帳檔案包含數個數據行，其中包含對應至發票費用的額外詳細資料。 [ **PublisherName** ] 欄會顯示購買是來自 Microsoft 或協力廠商 ISV 發行者。
+**週期性和單次採購** 對帳檔案包含數個數據行，其中包含對應至發票費用的額外詳細資料。 [ **PublisherName** ] 欄會顯示購買是來自 Microsoft 或協力廠商 ISV 發行者。
 
 對帳檔案中的某些費用可能會以 $0 的成本顯示。 這可能是因為 ISV 「免費試用」供應專案， (通常是30或60天) 或自備授權供應專案。
 
@@ -107,7 +103,7 @@ CSP 方案中的合作夥伴會在購買這些產品時，向客戶購買的 ISV
 
 如需每個資料行代表什麼的詳細資訊，請參閱 [使用您的對帳](use-the-reconciliation-files.md)檔案。 另請參閱 [合作夥伴中心中的計費類型](billing-different-types.md)
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [管理客戶的商業 marketplace 產品](csp-commercial-marketplace-manage.md)
 - [瞭解商業 marketplace 產品的支援](csp-commercial-marketplace-support.md)
