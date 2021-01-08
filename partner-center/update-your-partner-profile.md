@@ -6,15 +6,15 @@ description: 瞭解如何確認您的公司詳細資料，像是主要連絡人�
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 11/23/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514702"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666786"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>在合作夥伴中心確認您的組織設定檔資訊
 
@@ -27,7 +27,7 @@ ms.locfileid: "95514702"
 
 您的合作夥伴設定檔包含您的法定公司資訊、主要連絡人姓名和電子郵件、公司參與的計畫，以及您的其他現已合併在法定公司下的公司 (如果相關)。 請確定您在法定公司設定檔中的公司名稱和地址並沒有拼字錯誤和縮寫，且完全符合正式的公司商業登記記錄。 如果您是獨資經營者，則必須使用公司名稱作為法定名稱。
 
-1. 移至 [設定]，然後選取 [帳戶設定]。
+1. 移至 [設定] 圖示，然後選取 [帳戶設定]。
  
 1. 選取 [組織設定檔]。 
 
@@ -65,15 +65,11 @@ ms.locfileid: "95514702"
 
 若要更新與您的 CSP 帳戶相關聯的 MPN 識別碼：
 
-1. 登入合作夥伴中心儀表板。
+1. 登入合作夥伴中心儀表板，然後選取 [設定]。
  
-1. 從 [帳戶設定] 中選取 [組織設定檔]。
+1. 從 [帳戶設定] 選取 [識別碼]。
 
-1. 在 [相關聯的 MPNID] 旁，選取 [更新]。
- 
-1. 選取 [繼續]  。
- 
-1. 新增您的 MPN 識別碼。
+1. 在 [CSP] 區段下，使用 [更新] 連結，來更新與 CSP 帳戶相關聯的 MPN 識別碼 
 
 
 ## <a name="update-your-billing-address"></a>更新帳單地址

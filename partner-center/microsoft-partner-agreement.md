@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514754"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916825"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解 CSP 計畫合作夥伴的 Microsoft 合作夥伴合約 (MPA)
 
@@ -50,7 +50,7 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>請確認您已註冊為 CSP 間接經銷商
 
-1. 如果您尚未在合作夥伴中心註冊為 [CSP Indirect Reseller](enrolling-in-the-csp-program.md)，則您必須先進行這項操作。 在合作夥伴中心註冊為 CSP Indirect Reseller 之後，完成其餘步驟。
+1. 如果您尚未在合作夥伴中心註冊為 [CSP 間接經銷商](indirect-reseller-tasks-in-partner-center.md)，則您必須先進行這項操作。 在合作夥伴中心註冊為 CSP Indirect Reseller 之後，完成其餘步驟。
 
 1. 使用您的 CSP 全域管理員帳戶憑證登入合作夥伴中心。
 

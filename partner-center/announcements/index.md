@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736526"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916808"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
 了解重要的合作夥伴中心更新。 此項訊息更新頻繁，因此請務必定期回來查看！
 
-| **類別** | **2020 年 12 月公告** | **公告** |
+| **類別** | **2021 年 1 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[2021 年 2 月底時，教育版客戶驗證程序的現有 GET 和 PUT 限定性條件 API 將會過時並遭到淘汰](2021-january.md#2)|1 月 5 日|
+|供應項目/市場|[2021 年 2 月的 Dynamics 365 供應項目](2021-january.md#1)|1 月 4 日|
+| **類別** | **2020 年 12 月公告** | **公告** |
 |供應項目|[FY21 H1 使用期間未使用的管道獎勵行銷資金 (合作) 資金將變換到 FY21 H2 使用期間](2020-december.md#13)|12 月 22 日|
 |功能|[具有 Microsoft 合作夥伴合約 (MPA) 的合作夥伴在 2021 年從 DocuSign 遷移至 Adobe Sign](2020-december.md#12)|12 月 22 日|
 |供應項目/市場|[2021 年 1 月定價和目錄排程](2020-december.md#11)|12 月 22 日|
