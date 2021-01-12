@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: HT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979782"
+ms.locfileid: "98040985"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "97979782"
 
 | **類別** | **2021 年 1 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[2021 年 1 月的授權型價格清單更新](2021-january.md#4)|1 月 8 日|
 |新式工作場所|[合作夥伴計費貨幣的 EU/EFTA 變更 (適用於新商務供應項目)](2021-january.md#3)|1 月 7 日|
 |功能|[2021 年 2 月底時，教育版客戶驗證程序的現有 GET 和 PUT 限定性條件 API 將會過時並遭到淘汰](2021-january.md#2)|1 月 5 日|
 |供應項目/市場|[2021 年 2 月的 Dynamics 365 供應項目](2021-january.md#1)|1 月 4 日|
