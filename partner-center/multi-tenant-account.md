@@ -1,7 +1,7 @@
 ---
 title: 將其他租使用者新增至您的合作夥伴中心帳戶
 ms.topic: article
-ms.date: 07/30/2020
+ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解如何在您的合作夥伴中心帳戶中新增、合併或管理多個 Azure AD 租使用者。 深入瞭解您可能會想要進行的一些原因。
@@ -9,18 +9,15 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9379ce6b27a8ef6e5d6894a0630745794e04e04
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92175167"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105542"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>在您的合作夥伴中心帳戶中新增和管理多個租使用者
 
-**適用於**
-
-- 合作夥伴中心
 
 **適當的角色**
 
@@ -50,7 +47,7 @@ ms.locfileid: "92175167"
 
 1. 以全域管理員身分登入您想要關聯的租使用者，並確認該關聯。 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="建立租使用者的關聯"::: 
+:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="確認租使用者的關聯"::: 
 
 5. 確認之後，您會看到所有的 **設定** 通知。  選取 [ **返回租使用者管理** ]，您會看到列出新加入的租使用者。 
  
@@ -58,7 +55,28 @@ ms.locfileid: "92175167"
 >[!NOTE]
 >如果租使用者已經與另一個合作夥伴中心帳戶建立關聯，您就無法將它與帳戶產生關聯。
 
+
+## <a name="remove-a-tenant-from-your-account"></a>從您的帳戶移除租使用者
  
+1. 以全域管理員身分登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)。
+
+1. 從 [ **設定** ] 圖示選取 [ **帳戶設定** -> 租使用者]，然後按一下 [ **夥伴** ] 索引標籤。
+ 
+3. 針對您想要中斷關聯的租使用者，按一下 [ **移除** ]。
+
+4. 中斷關聯租使用者表示該租使用者上的使用者將無法再存取合作夥伴中心帳戶，而這可能會影響您的能力。 
+
+除了主要租使用者和您目前登入的租使用者之外，所有相關聯的租使用者都會啟用 [ **移除** ] 按鈕。
+
+:::image type="content" source="images/disassociate.png" alt-text="具有 [移除] 按鈕的租使用者":::
+ 
+
 ## <a name="next-steps"></a>後續步驟
 
 - [新增使用者](create-user-accounts-and-set-permissions.md)
+
+
+
+
+
+
