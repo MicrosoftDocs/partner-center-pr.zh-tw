@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514694"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105523"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>註冊為 CSP 直接計費合作夥伴的需求
 
-**適用於**
+**適當的角色**
 
-- 雲端解決方案提供者計畫中的直接計費合作夥伴
+- 全域系統管理員
 
 ## <a name="enroll-as-a-direct-partner"></a>註冊為直接合作夥伴
 
-身為直接計費合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 身為直接計費合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 從 2020 年 10 月 27 日起，我們已更新直接計費合作夥伴的註冊需求。 這些需求可協助您運用適當的雲端解決方案提供者模型加速業務成長，以及透過加值服務與支援鞏固您的客戶關係。  
+身為直接計費合作夥伴，您和您的客戶以及 Microsoft 擁有端對端關係。 從 2020 年 10 月 27 日起，我們已更新直接計費合作夥伴的註冊需求。 這些需求可協助您運用適當的雲端解決方案提供者模型加速業務成長，以及透過加值服務與支援鞏固您的客戶關係。  
 
 ### <a name="minimum-requirements"></a>最低要求條件
 
