@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
+ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 01/13/2021
-ms.locfileid: "98146382"
+ms.locfileid: "98166693"
 ---
 # <a name="what-is-microsoft-appsource"></a>什麼是 Microsoft AppSource？
 
@@ -59,7 +59,7 @@ AppSource 中提供的每項產品都已根據特定準則獲得認證。 我們
 
 如果 SaaS 應用程式需要購買，請參閱 [如何在 Microsoft AppSource 購買 saas](purchase-software-appsource.md)供應專案。
 
-Microsoft 365 管理使用者可以在單一位置部署 SaaS 和增益集。 若要深入瞭解，請參閱 [測試和部署 Microsoft 365 應用程式-Microsoft 365 管理員](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md)。
+Microsoft 365 管理使用者可以在單一位置部署 SaaS 和增益集。 若要深入瞭解，請參閱 [測試和部署 Microsoft 365 應用程式-Microsoft 365 管理員](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps)。
 
 ## <a name="find-ratings-and-reviews"></a>尋找評等和評論
 
