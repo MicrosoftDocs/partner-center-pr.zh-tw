@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771687"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146382"
 ---
 # <a name="what-is-microsoft-appsource"></a>什麼是 Microsoft AppSource？
 
@@ -48,7 +48,18 @@ AppSource 中提供的每項產品都已根據特定準則獲得認證。 我們
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>探索 SaaS 和 M365 整合式應用程式
 
-我們的合作夥伴可以在 SaaS 與 M365 整合式應用程式之間連結。 當您取得連結的 SaaS 應用程式時，這可讓您下載並使用整合式應用程式。 在此情況下，搜尋結果可能只會傳回 SaaS 應用程式，而該應用程式會顯示隨附的整合式應用程式圖示。 您可以在每個應用程式的 [產品詳細資料] 頁面上，流覽 SaaS 與整合式應用程式。 如果 SaaS 應用程式需要購買，請參閱 [如何在 Microsoft AppSource 購買 saas](purchase-software-appsource.md)供應專案。
+我們的合作夥伴可以在 SaaS 應用程式與其對應的增益集之間進行連結，以進行 Microsoft 365。 當您取得與增益集連結的 SaaS 應用程式時，這可讓您從特定的 Microsoft 365 服務或產品下載及使用增益集。
+
+在此情況下，搜尋結果可能只會在 SaaS 應用程式產品卡上使用對應的增益集產品圖示傳回 SaaS 應用程式。 您可以在 SaaS 應用程式的產品詳細資料頁面與整合式應用程式之間流覽。
+
+如果您要尋找獨立的增益集，您可以透過下列其中一種方式來尋找這些增益集：
+
+- 存取 [AppSource 產品目錄](https://appsource.microsoft.com/marketplace/apps/)，然後在左側導覽中，選取 [ **產品** ] 下的 [ **Microsoft 365**]。 從出現在 [ **Microsoft 365**] 下的產品清單中，選取您要的產品的方塊。
+- 或選取 SaaS 應用程式產品卡內的增益集產品圖示，以移至已從搜尋顯示隱藏的特定增益集。
+
+如果 SaaS 應用程式需要購買，請參閱 [如何在 Microsoft AppSource 購買 saas](purchase-software-appsource.md)供應專案。
+
+Microsoft 365 管理使用者可以在單一位置部署 SaaS 和增益集。 若要深入瞭解，請參閱 [測試和部署 Microsoft 365 應用程式-Microsoft 365 管理員](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md)。
 
 ## <a name="find-ratings-and-reviews"></a>尋找評等和評論
 
