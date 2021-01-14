@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 71ffee8426244c211338e97becab516c07251e45
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94498551"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182574"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 一次性採購對帳檔案欄位
 
@@ -22,15 +22,15 @@ ms.locfileid: "94498551"
 
 如需對等檔的詳細資訊，請參閱 [使用對帳](use-the-reconciliation-files.md)檔案。
 
-| 資料行 | 描述 | 範例值 |
+| Column | 描述 | 範例值 |
 | ------ | ----------- | ------------ |
 | PartnerId | 特定帳單實體之 GUID 格式的唯一識別碼。 不需要進行對帳。 在所有資料列中都是如此。 | *0e195b37-4574-4539-bc42-0e539b9684c0* |
 | CustomerId | GUID 格式的客戶唯一的 Microsoft 識別碼。 | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
 | CustomerName | 如合作夥伴中心報告的客戶組織名稱。 此資料行對於使用您的系統資訊來協調發票而言很重要。 | *強尼現代化的 DE2* |
 | CustomerDomainName | 客戶的功能變數名稱。 | *testcustomerdomain.onmicrosoft.com* |
-| CustomerCountry | 您的客戶所在的國家/地區。 查看您所在地區的 [國家/地區完整清單](/partner-center/regional-authorization-overview) 。  | *德* |
+| CustomerCountry | 您的客戶所在的國家/地區。 查看您所在地區的 [國家/地區完整清單](./regional-authorization-overview.md) 。  | *德* |
 | InvoiceNumber | 與對等檔相關聯的發票號碼。  | *G002297372* |
-| MpnId | MPN CSP 合作夥伴的識別碼。 如需詳細資訊，請參閱 [如何依合作夥伴進行](/partner-center/use-the-reconciliation-files#itemize-reconciliation-files-by-partner)詳細資料。 | *6034453* |
+| MpnId | MPN CSP 合作夥伴的識別碼。 如需詳細資訊，請參閱 [如何依合作夥伴進行](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner)詳細資料。 | *6034453* |
 | ResellerMpnId | 訂用帳戶之記錄轉銷商的 MPN 識別碼。 | *6048879* |
 | OrderId | Microsoft 計費平台中訂單的唯一識別碼。 在聯繫支援時識別訂單可能很有用。 未用於對帳。 | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
 | OrderDate | 訂單的放置日期。 | *10/3/2020* |
@@ -39,7 +39,7 @@ ms.locfileid: "94498551"
 | AvailabilityId | 可用性唯一識別碼。 | *DZH318Z08B80* |
 | SkuName | SKU 名稱。 | *資料表-LRS* |
 | ProductName | 產品名稱。 | *資料表* |
-| ChargeType | 費用或調整的 [類型](/partner-center/recon-file-charge-types) 。 | *新增* |
+| ChargeType | 費用或調整的 [類型](./recon-file-charge-types.md) 。 | *新增* |
 | UnitPrice | 每一授權的價格（依購買時的價格清單發佈）。 請確定此專案符合您的計費系統中儲存的資訊。 | *0.045* |
 | 數量 | 授權數目。 請確定此專案符合您的計費系統中儲存的資訊。 | *1* |
 | 小計 | 稅前總計。 小計應等於可計費的數量乘以有效的單位價格。 | *0* |
@@ -54,7 +54,7 @@ ms.locfileid: "94498551"
 | ChargeStartDate | 合作夥伴中心支付訂用帳戶費用的日期。 如果訂用帳戶是以年度計費期限和每月計費方案購買，則在第一個對帳檔案中，這是購買訂閱的日期。 從下一個對帳檔案開始，它會遞增30天。 | *9/1/2020* |
 | ChargeEndDate | 訂用帳戶計費週期的結束日期。 如果訂用帳戶是以年度計費期限和每月計費方案購買，則在第一個對帳檔案中，這是購買訂閱之後的30天。 從下一個對帳檔案開始，它會遞增30天。 | *9/30/2020* |
 | TermAndBillingCycle | 在購買時繼續訂用帳戶的持續時間。 | *每月儲存 (GB 的資料)* |
-| EffectiveUnitPrice | 計算計費週期成本的按比例單位價格。 折扣、計費天數的調整，以及其他因素決定有效的單價。 如需詳細資訊，請參閱 [有效的單位價格計算](/partner-center/effective-unit-price-calculation)。  | *0.03825* |
+| EffectiveUnitPrice | 計算計費週期成本的按比例單位價格。 折扣、計費天數的調整，以及其他因素決定有效的單價。 如需詳細資訊，請參閱 [有效的單位價格計算](./effective-unit-price-calculation.md)。  | *0.03825* |
 | Unittype.pixel 表示 | 計量計費的單位類型。 | *1 GB/月* |
 | 替代識別碼 | 參考之訂單明細專案的替代識別碼。 | *6dc5c039750a* |
 | BillableQuantity | 要計費的總數量。  | *0.005001* |

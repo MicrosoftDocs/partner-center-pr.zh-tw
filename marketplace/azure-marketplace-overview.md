@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 89ed8850d92861ea7da2d83a9945980f0ca71daa
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007177"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182523"
 ---
 # <a name="what-is-azure-marketplace"></a>什麼是 Azure Marketplace？
 
@@ -59,11 +59,11 @@ Azure Marketplace 中的每個清單都支援下列一或多個動作：
 - 信用卡
 - 使用現有的 Microsoft 購買合約 (發票) 
 
-Azure Marketplace 購買會自動新增至您的 Azure 帳單，並依與帳戶相關聯的付款條件收費。 如需關聯不同付款帳戶的協助，請參閱 **Azure 外部費用** 主題中的 [檢查計費帳戶類型](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type)。
+Azure Marketplace 購買會自動新增至您的 Azure 帳單，並依與帳戶相關聯的付款條件收費。 如需關聯不同付款帳戶的協助，請參閱 **Azure 外部費用** 主題中的 [檢查計費帳戶類型](/azure/cost-management-billing/understand/understand-azure-marketplace-charges#check-billing-account-type)。
 
 ## <a name="certification-and-security"></a>認證和安全性
 
-Azure Marketplace 中提供的每項產品都已根據特定準則獲得認證。 我們仍建議您仔細檢查每項產品，以確保其符合您組織的獨特需求。 若要瞭解我們針對每個供應專案類型所複習的認證原則，請參閱商業 marketplace [認證原則](https://docs.microsoft.com/legal/marketplace/certification-policies)。
+Azure Marketplace 中提供的每項產品都已根據特定準則獲得認證。 我們仍建議您仔細檢查每項產品，以確保其符合您組織的獨特需求。 若要瞭解我們針對每個供應專案類型所複習的認證原則，請參閱商業 marketplace [認證原則](/legal/marketplace/certification-policies)。
 
 ## <a name="terms-and-conditions"></a>條款及條件
 
@@ -75,7 +75,7 @@ Azure Marketplace 中提供的每項產品都已根據特定準則獲得認證�
 
 :::image type="content" source="media/azure-marketplace/app-reviews.png" alt-text="應用程式評論的範例。":::
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [Azure Marketplace 購買](azure-purchasing-invoicing.md)
 - [什麼是 Microsoft AppSource？](appsource-overview.md)

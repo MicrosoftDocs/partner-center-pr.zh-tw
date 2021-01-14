@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389300"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182319"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>合作夥伴見解–常見問題
 
@@ -26,15 +26,15 @@ ms.locfileid: "97389300"
 
 問) **我在合作夥伴中心帳戶中看不到見解中樞。我該怎麼做？**
 
-答) 請確認您已登入組織的 MPN 帳戶。 您無法從 CSP 帳戶存取見解儀表板。 此外，請確定您已提供全域管理員的報表檢視器或執行報表檢視器角色存取權。 如需有關角色的詳細資訊，請參閱 [這篇文章](https://docs.microsoft.com/partner-center/pci-roles)。
+答) 請確認您已登入組織的 MPN 帳戶。 您無法從 CSP 帳戶存取見解儀表板。 此外，請確定您已提供全域管理員的報表檢視器或執行報表檢視器角色存取權。 如需有關角色的詳細資訊，請參閱 [這篇文章](./pci-roles.md)。
 
 問) **我無法在 [我的報表] 中看到 (ACR) 資料的計費收益或 Azure 使用量收入。原因為何？**
 
-) 計費的收益和 ACR 資料僅適用于主管報表檢視器的使用者。  如需有關角色的詳細資訊，請參閱 [這篇文章](https://docs.microsoft.com/partner-center/pci-roles)。
+) 計費的收益和 ACR 資料僅適用于主管報表檢視器的使用者。  如需有關角色的詳細資訊，請參閱 [這篇文章](./pci-roles.md)。
 
 問) **我無法在 [我的報表] 中看到 (ACR) 資料的計費收益或 Azure 使用量收入。原因為何？**
 
-) 計費的收益和 ACR 資料僅適用于主管報表檢視器的使用者。 如需有關角色的詳細資訊，請參閱 [這篇文章](https://docs.microsoft.com/partner-center/pci-roles)。
+) 計費的收益和 ACR 資料僅適用于主管報表檢視器的使用者。 如需有關角色的詳細資訊，請參閱 [這篇文章](./pci-roles.md)。
 
 問) **回報給我的客戶的國家/地區似乎不正確。原因為何？**
 

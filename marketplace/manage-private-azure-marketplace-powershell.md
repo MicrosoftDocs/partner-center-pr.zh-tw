@@ -8,12 +8,12 @@ ms.prod: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: c5b8b9fcc247818315887109e2163c0722bfbd97
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: d0021be17ab12b6e549b0e5263772a4a1e42f8a3
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96536075"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182336"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>快速入門：使用 PowerShell 管理私用 Azure Marketplace
 
@@ -30,7 +30,7 @@ ms.locfileid: "96536075"
   * [安裝 Az PowerShell 模組](/powershell/azure/install-az-ps)。
   * 使用 [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount) Cmdlet 連線至 Azure 帳戶。
 * 如果您選擇使用 Azure Cloud Shell：
-  * 請參閱 [Azure Cloud Shell 概觀](https://docs.microsoft.com/azure/cloud-shell/overview) 以取得詳細資訊。
+  * 請參閱 [Azure Cloud Shell 概觀](/azure/cloud-shell/overview) 以取得詳細資訊。
 
   > [!IMPORTANT]
   > 雖然 **Az** PowerShell 模組目前為預覽狀態，但您必須使用指令程式個別進行安裝 `Install-Module` 。 此 PowerShell 模組正式推出後，便會成為未來 Az PowerShell 模組版本的一部分，且預設可從 Azure Cloud Shell 內使用。

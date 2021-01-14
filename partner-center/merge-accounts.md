@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189742"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182591"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>將您的合作夥伴帳戶與另一個夥伴帳戶合併
 
@@ -77,6 +77,8 @@ ms.locfileid: "93189742"
 
 - 所有軟體保證的合約都會保留在這兩個帳戶中。 
 
+- DPOR 或 PAL 關聯不會有任何影響。 任何相關聯的收入貢獻都會開始流入新的合作夥伴全球帳戶
+
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>邀請公司將其合作夥伴中心帳戶與您的合作夥伴中心帳戶合併
 
 >[!Note]
@@ -84,11 +86,11 @@ ms.locfileid: "93189742"
 
 1. 從您的合作夥伴中心儀表板中選取 **設定** 。 
 
-2. 選取 **帳戶合併** 。
+2. 選取 **帳戶合併**。
 
 3. 在您想要邀請的帳戶 **夥伴設定檔** 中新增 MPN 識別碼，以與您合併。 您必須使用其合作夥伴全域 MPN 識別碼。 您無法使用位置 MPN 識別碼。
 
-4. 當您選取 [ **合併** ] 時，邀請會傳送給合作夥伴公司。 當他們接受您的要求時，您可以在合作夥伴中心中起始帳戶合併。 如果公司拒絕您合併帳戶的要求，他們就可以解釋他們拒絕要求的原因。 您可以在 **合併歷程記錄** 下，取得所有帳戶合併的清單。
+4. 當您選取 [ **合併**] 時，邀請會傳送給合作夥伴公司。 當他們接受您的要求時，您可以在合作夥伴中心中起始帳戶合併。 如果公司拒絕您合併帳戶的要求，他們就可以解釋他們拒絕要求的原因。 您可以在 **合併歷程記錄** 下，取得所有帳戶合併的清單。
  
 ### <a name="example-of-two-companies-merging-accounts"></a>兩個公司合併帳戶的範例
 
@@ -120,7 +122,7 @@ ms.locfileid: "93189742"
 7.  Contoso 的系統管理員將繼續為使用者管理合作夥伴中心角色 @contoso.com 。 >fabricam.com 的系統管理員將繼續為使用者管理合作夥伴中心角色 @fabricam.com 。 如果 Contoso 的系統管理員被邀為 >fabricam.com 租使用者的來賓，則只能管理 >fabricam.com 的使用者。
 8.  Contoso 可以決定忽略租使用者 @fabricam.com ，然後 @contoso.com 使用新的角色和許可權重新發出 >fabricam.com 員工新的認證。
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 - [指派使用者角色和權限](permissions-overview.md)
 

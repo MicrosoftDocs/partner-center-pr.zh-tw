@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105542"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182423"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>在您的合作夥伴中心帳戶中新增和管理多個租使用者
 
@@ -22,6 +22,7 @@ ms.locfileid: "98105542"
 **適當的角色**
 
 - 全域系統管理員
+- 帳戶管理員
 
 這項功能可讓您管理貴公司的多個租用戶，並將其合併到您的合作夥伴中心帳戶。 您可能需要在合作夥伴中心帳戶中管理多個 Azure AD 租使用者的原因有很多。 例如：
 

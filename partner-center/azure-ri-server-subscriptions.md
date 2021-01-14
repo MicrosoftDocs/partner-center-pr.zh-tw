@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691345"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182489"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>取得、布建、& 管理 Azure 保留的 VM 實例 (RI) + 適用于客戶的伺服器訂閱
 
@@ -47,7 +47,7 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 
 由於有無可匹敵的定價與無與倫比的部署彈性，客戶在選擇 Azure 保留時，將會看到最佳的整體價值。
 
-- 請參閱 Azure 入口網站上的 [購買保留](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) 。
+- 請參閱 Azure 入口網站上的 [購買保留](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) 。
 
 - 如需軟體訂用帳戶和 Linux ISV 年度訂閱的合作夥伴中心，請參閱 [[定價和](https://partner.microsoft.com/dashboard/sell/pricingandoffers)供應專案] 頁面的 [ **Microsoft Azure 保留實例**] 類別下的 [ **Azure RI CSP 商業價位表**]。
 
@@ -69,24 +69,24 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 
 1. 複習並瞭解 [合作夥伴中心的新商務操作指南](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)。
 
-2. 瞭解 [合作夥伴中心 api (api/SDK) ](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)中的 Azure 保留專案和伺服器訂閱的更新。
+2. 瞭解 [合作夥伴中心 api (api/SDK) ](/partner-center/develop/purchase-azure-reserved-vm-instances)中的 Azure 保留專案和伺服器訂閱的更新。
 
 
 ### <a name="sales-readiness"></a>銷售就緒程度
 
 - [遠端桌面服務 (RDS) 用戶端存取許可證 (CAL)  (公告) ](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Azure 保留的 VM 執行個體 (Azure 入口網站) ](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure 保留的 VM 執行個體 (Azure 入口網站) ](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [伺服器訂閱](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [伺服器訂閱](./csp-software-subscriptions.md)
 
-- [SQL DB 保留 (Azure 入口網站) ](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [SQL DB 保留 (Azure 入口網站) ](/azure/sql-database/sql-database-reserved-capacity)
 
-- [Azure Cosmos DB (Azure 入口網站) ](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Azure Cosmos DB (Azure 入口網站) ](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [SQL 受控執行個體 (Azure 入口網站) ](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [SQL 受控執行個體 (Azure 入口網站) ](/azure/sql-database/sql-database-managed-instance)
 
-- [SUSE 和 Red Hat Enterprise Linux (Azure 入口網站) ](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SUSE 和 Red Hat Enterprise Linux (Azure 入口網站) ](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
 - [Azure 上的 Red Hat Linux](https://azure.com/redhat)
 
@@ -98,7 +98,7 @@ Azure 保留可為客戶提供各種運算解決方案的虛擬化彈性，包�
 
 - [Azure 定價計算機](https://azure.microsoft.com/pricing/calculator)
 
-- [Azure Databricks 單位保留](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks 單位保留](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>訓練

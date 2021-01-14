@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007167"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182472"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace 購買
 
@@ -25,7 +25,7 @@ Azure Marketplace 可透過不同的購買選項協助簡化採購程序。 如�
 
 ## <a name="permission-to-purchase"></a>購買的許可權
 
-找到正確的軟體應用程式之後，就可以輕鬆完成購買。 不過，您將需要 Azure 訂用帳戶內的適當許可權。 因為 Azure 會在 [角色型存取控制](https://docs.microsoft.com/azure/role-based-access-control/overview) 上運作 (RBAC) 模型，所以您的帳戶需要訂用帳戶 **擁有** 者或 **參與者** 許可權才能進行購買。
+找到正確的軟體應用程式之後，就可以輕鬆完成購買。 不過，您將需要 Azure 訂用帳戶內的適當許可權。 因為 Azure 會在 [角色型存取控制](/azure/role-based-access-control/overview) 上運作 (RBAC) 模型，所以您的帳戶需要訂用帳戶 **擁有** 者或 **參與者** 許可權才能進行購買。
 
 完成購買之前，請確定使用者在 Azure 租使用者中具有正確的設定。 這將有助於防止在購買期間發生錯誤。
 
@@ -55,12 +55,12 @@ Microsoft 可讓您以 Azure 訂用帳戶管理員的身分，使用帳單設定
 
 ## <a name="cost-management"></a>成本管理
 
-當您從 Azure Marketplace 購買產品時，您想要取得可協助您管理成本的見解。 Azure 成本管理是一項免費的工具，可供您用來查看您所購買之產品的相關資訊。 您可以使用成本管理來查看您要在一段時間內花費多少服務的詳細資料，以及這些成本如何針對您所設定的預算進行追蹤。 除了設定預算之外，您還可以排程報表並分析訂用帳戶成本。 藉由 [使用 Azure 成本管理來完成分析成本和建立預算](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/)的 Microsoft Learn 課程模組，以深入瞭解 Azure 成本管理。
+當您從 Azure Marketplace 購買產品時，您想要取得可協助您管理成本的見解。 Azure 成本管理是一項免費的工具，可供您用來查看您所購買之產品的相關資訊。 您可以使用成本管理來查看您要在一段時間內花費多少服務的詳細資料，以及這些成本如何針對您所設定的預算進行追蹤。 除了設定預算之外，您還可以排程報表並分析訂用帳戶成本。 藉由 [使用 Azure 成本管理來完成分析成本和建立預算](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)的 Microsoft Learn 課程模組，以深入瞭解 Azure 成本管理。
 
 您可在 Azure 成本管理底下的成本分析工具上檢視 Azure Marketplace 費用及發票。
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="使用 Azure 成本管理可深入瞭解您購買的產品。":::
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
-- [帳單和發票](billing-invoicing.md)
+- [計費與發票開立](billing-invoicing.md)

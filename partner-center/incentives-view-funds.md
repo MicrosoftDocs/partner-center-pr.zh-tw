@@ -1,5 +1,5 @@
 ---
-title: 查看可用的共同作業資金
+title: 檢視可用合作資金
 ms.topic: article
 ms.date: 01/03/2021
 description: 瞭解如何查看您獲得、索取和剩餘的共同作業資金、查看到期日，以及調解不一致的金額。
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: cd17656c64a55b9b27784555d9ea2acaae3979d3
-ms.sourcegitcommit: c062209be8f7ed905ab33511675ae280e93dd839
+ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "97864321"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182506"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>查看可用的贏得、領取和剩餘的共同作業資金
 
@@ -34,7 +34,7 @@ ms.locfileid: "97864321"
 
 4. 若要查看所選期間內提交的所有宣告，請將它滾動到頁面底部。
 
-如果您認為摘要中顯示的數量有不一致的情況，您可以從上一期下載交易報表。 這份報告可協助您判斷所選使用期間所獲得的共同作業資金量。 若要下載交易報表或驗證提交的宣告，以確保剩餘的共同作業金額正確無誤，請參閱 [交易記錄](/partner-center/payout-statement#transaction-history)。
+如果您認為摘要中顯示的數量有不一致的情況，您可以從上一期下載交易報表。 這份報告可協助您判斷所選使用期間所獲得的共同作業資金量。 若要下載交易報表或驗證提交的宣告，以確保剩餘的共同作業金額正確無誤，請參閱 [交易記錄](./payout-statement.md#transaction-history)。
 
 如果您仍遇到無法調整數量的問題，或某些共同作業資金無法顯示，您可以開啟支援票證。 若要這樣做，請選取頁面右上角的問號圖示，然後選取 [ **獎勵**]。
 
