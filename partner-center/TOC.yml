@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: 深入解析報表
           items:
+            - name: 總覽
+              href: pci-overview-report.md
+            - name: 客戶
+              href: pci-customer-report.md
+            - name: 經銷商績效
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: 產品訂用帳戶
+              href: pci-product-subscriptions-report.md
             - name: Azure 使用情況
               href: pci-azure-usage-report.md
+            - name: 小組使用情況
+              href: pci-teams-usage-report.md
+            - name: Office 365 使用情況
+              href: pci-office-365-usage-report.md
+            - name: Dynamics 使用情況
+              href: pci-dynamics-usage-report.md
+            - name: Enterprise Mobility + Security 使用情況
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: Power BI 使用情況
+              href: pci-power-bi-usage-report.md
+            - name: 訓練
+              href: pci-training-dashboard.md
+            - name: Microsoft Learn 分析
+              href: ms-learn-analytics.md
+            - name: 專長認證
+              href: pci-competencies-report.md
             - name: 優點
               href: pci-benefits-report.md
             - name: CloudAscent 傾向
               href: pci-customer-opportunities.md
-            - name: 專長認證
-              href: pci-competencies-report.md
-            - name: 客戶
-              href: pci-customer-report.md
-            - name: Microsoft Learn 分析
-              href: ms-learn-analytics.md
-            - name: 概觀
-              href: pci-overview-report.md
             - name: 產品授權
               href: pci-product-licenses-report.md
-            - name: 產品訂用帳戶
-              href: pci-product-subscriptions-report.md
-            - name: 經銷商績效
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: 訓練
-              href: pci-training-dashboard.md
         - name: 深入解常見問題集
           href: pci-known-issues.md
         - name: 下載深入解析報表
