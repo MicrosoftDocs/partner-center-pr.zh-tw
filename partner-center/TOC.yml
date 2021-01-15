@@ -675,8 +675,12 @@
         - name: 深入解析資料定義
           href: pci-data-definitions.md
     - name: 合作夥伴貢獻指標
-      href: partner-contribution-indicators.md
-      displayName: mpn
+      items:
+        - name: 針對雲端業務應用程式專長認證
+          href: partner-contribution-indicators.md
+        - name: 針對小型及中端市場雲端解決方案專長認證
+          href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
+      displayName: 'mpn, cloud business applications competency, small and midmarket cloud solutions competency, CBA SMB option'
     - name: 分析其他資料
       items:
         - name: 客戶 Azure 使用情況
