@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916825"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105506"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解 CSP 計畫合作夥伴的 Microsoft 合作夥伴合約 (MPA)
 
@@ -54,7 +54,7 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 
 1. 使用您的 CSP 全域管理員帳戶憑證登入合作夥伴中心。
 
-1. 從 [設定] 選取 [合作夥伴設定檔](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)。
+1. 從 **[設定]** 中選取 **[帳戶設定]** ，然後選取 [合作夥伴設定檔](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)。
 
 1. 檢查 [計畫資訊] 區段。 如果您的資訊未顯示 [間接經銷商] 的狀態，則您必須[註冊為間接經銷商](indirect-reseller-tasks-in-partner-center.md)。
 
@@ -80,6 +80,10 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 >[!NOTE]
 >只有公司的全域管理員可以檢視和簽署 MPA。 如果您不是全域管理員，則必須要求全域管理員驗證 MPA。
 
+您也可以從 [帳戶設定] 中選取 [合約]，查看是否已簽署合約。
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="表示已簽署 MPA":::
+
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>下載過程中最適合您的逐步指南
 
@@ -91,4 +95,4 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
  
 ## <a name="next-steps"></a>後續步驟
 
-- [註冊雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)
+- [註冊雲端解決方案提供者計畫](indirect-reseller-tasks-in-partner-center.md)
