@@ -4,24 +4,21 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 探索雲端解決方案提供者方案中的 Microsoft 合作夥伴如何購買促銷價格的訂閱，並將其費用提供給客戶。
+description: 探索雲端解決方案提供者計畫中的 Microsoft 合作夥伴如何以促銷價格購買訂閱，並為其客戶節省費用。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 11d31ba8fc33c965be7d5a6eeb4b5a32e5a4fa77
-ms.sourcegitcommit: 9d0f5e6cfcaf191f95d153ae3a53fef1ab3d6f77
+ms.openlocfilehash: 48521424fd695f20192e69e11a980505873768c2
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "86377762"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215861"
 ---
-# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>使用促銷來吸引新客戶，並將其費用傳遞給他們
+# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>使用促銷來吸引新客戶，並將節省的費用傳遞給他們
 
-**適用於**
 
-- 合作夥伴中心
-- 雲端解決方案提供者 (CSP) 計畫中的合作夥伴
 
 **適當的角色**
 
@@ -33,13 +30,13 @@ ms.locfileid: "86377762"
 
 Microsoft 有時會在授權型訂閱上提供促銷，可讓您將結餘部分退還給客戶，並拓展業務。 
 
-Microsoft 提供兩種促銷：雲端解決方案提供者（CSP）計畫中所有合格合作夥伴皆可使用的升級，以及僅適用于特定地理區域中的合作夥伴。
+Microsoft 提供兩種促銷方式：雲端解決方案提供者 (CSP) 方案中所有符合資格的合作夥伴皆可使用，且僅適用于特定地理區域中的合作夥伴。
 
 當您以促銷價格購買新訂閱時，促銷定價會自動套用到您的淨價。 此外，任何新增至您用促銷定價所購買之訂閱的授權也都是以促銷價格來加入其中。 
 
 請花一些時間檢閱下列有關促銷的重要事項：
 
-- 訂用帳戶的促銷價格僅適用于訂用帳戶的持續時間。 當您使用促銷價格購買的訂用帳戶到期時，續約訂用帳戶的價格會還原為價格清單中的價格。 這表示任何設定為自動續約的訂閱將會以當時價格來續約。 您可以在 **\[定價與方案\]** 頁面上找到價目表。
+- 訂用帳戶的促銷價格僅適用于訂用帳戶的持續時間。 當您使用促銷價格購買的訂用帳戶到期時，續訂訂用帳戶的價格會還原為價格清單中的價格。 這表示任何設定為自動續約的訂閱將會以當時價格來續約。 您可以在 **\[定價與方案\]** 頁面上找到價目表。
 
 - 如果訂閱符合多個促銷的資格，將會自動套用折價百分比最高的促銷。
 
@@ -47,16 +44,16 @@ Microsoft 提供兩種促銷：雲端解決方案提供者（CSP）計畫中所�
 
 ## <a name="see-available-promotions"></a>查看可用的促銷活動
 
-您可以在**促銷**頁面上查看您符合資格的促銷 (如果有的話)。 選取 [**合作夥伴中心**] 功能表中的 [**升級**]，以查看目前促銷的清單，以及訂用帳戶的折扣、促銷類型和開始和結束日期。 如果沒有可用的促銷，您會看到一則訊息，指出這種情況。 
+您可以在 **促銷** 頁面上查看您符合資格的促銷 (如果有的話)。 從您的 **合作夥伴中心** 功能表中選取 [**升級**]，以查看目前的促銷清單，以及訂用帳戶的折扣、促銷類型和開始與結束日期。 如果沒有可用的促銷，您會看到一則訊息，指出這種情況。 
 
 > [!NOTE]  
 > 您也可以在進行購買時查看促銷活動。 當您選取訂用帳戶時，促銷價格會出現在 [檢閱] 頁面上。
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>以促銷價格購買訂閱
 
-1. 在 [**合作夥伴中心**] 功能表上，選取 [**客戶**]，然後選取購買訂用帳戶的客戶。 
+1. 在 [ **合作夥伴中心** ] 功能表上選取 [ **客戶** ]，然後選取要購買訂用帳戶的客戶。 
 
-2. 選取 [訂用帳戶]****。
+2. 選取 [訂用帳戶]。
 
 3. 在 **\[新訂閱\]** 頁面上，選取可適用銷售的訂閱。
 
@@ -64,6 +61,9 @@ Microsoft 提供兩種促銷：雲端解決方案提供者（CSP）計畫中所�
 
 5. 檢閱訂單 您會看到將在 **\[折扣\]** 欄套用的促銷定價。  
 
-6. 選取 [**提交**] 以購買。 您的客戶將會在下一期帳單看到促銷價格。  
+6. 選取 [ **提交** 以購買]。 您的客戶將會在下一期帳單看到促銷價格。  
 
 
+## <a name="next-steps"></a>後續步驟
+
+- [銷售給特製化的使用者](sell-to-education-customers.md)

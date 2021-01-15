@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950581"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215946"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作夥伴中心 (電腦) 共同銷售的指南，適用于從合作夥伴銷售 Connect (PSC 進行遷移的合作夥伴) 
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950581"
 - 合作夥伴銷售 Connect (PSC) 管理員
 - 合作夥伴銷售 Connect (PSC) 交易經理
 
-本文會引導夥伴從合作夥伴銷售 Connect 遷移至合作夥伴中心，讓他們可以繼續建立及管理合作夥伴中心的共同銷售交易。
+本文提供從合作夥伴銷售 Connect 遷移至合作夥伴中心，讓他們可以繼續建立及管理合作夥伴中心的共同銷售交易的指引。
 
 如您所知，在2021年3月31日之後，您的公司將會失去對 PSC 的存取權。 不過，您仍然可以在合作夥伴中心中找到您想要進行的所有作業，例如建立共同銷售交易、管理交易，以及採取 Microsoft 銷售人員傳送給您的交易。
 
@@ -353,7 +353,6 @@ PSC 的商機識別碼與 PC 中的交易識別碼相同。 當您開啟任何�
 
 ## <a name="next-steps"></a>後續步驟
 
-請遵循下列其他資源：
 
 - [合作夥伴銷售會連接到合作夥伴中心活頁簿](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -活頁簿，以透過合作夥伴中心與合作夥伴銷售連接來將夥伴的銷售流程和角色與新的銷售程式保持一致。
 - [合作夥伴中心共同銷售操作指南](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -透過合作夥伴中心來識別作業模型的指引，以管理潛在客戶或共同銷售商機並註冊交易。

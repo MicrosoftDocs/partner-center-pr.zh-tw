@@ -10,18 +10,16 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e58c8ed68e40e9ffb4f2ed5555dc780e21570a7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0d1cd25558cd7c0421398fc2cc9b93a1bcc57bbc
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000012"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215912"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>CSP 中的適用於 Power BI 的合作夥伴中心分析應用程式 (直接合作夥伴的總覽和常見問題) 
 
-**適用於**
 
-- 合作夥伴中心
 
 **適當的角色**
 
@@ -55,7 +53,7 @@ ms.locfileid: "91000012"
 | --- | ---------- |
 | 應用程式的費用是多少？ | 應用程式本身是免費的。 若要預覽應用程式，您可以[註冊免費的 Power BI 服務](https://go.microsoft.com/fwlink/p/?linkid=845347)，並用來自訂儀表板及報告。 若要讓公司其他人員使用應用程式，您必須擁有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 的使用中訂閱。 |
 | 誰可以連線到合作夥伴中心分析應用程式？ | 這個版本的應用程式是專為雲端解決方案提供者程式中的直接合作夥伴 (第 1 層) 設計的。 如果您在業務上與 Microsoft 及客戶直接往來，即是直接合作夥伴。 若要安裝應用程式，您必須是公司帳戶的全域管理員、系統管理員代理程式或帳單管理員。 |
-| 我是間接提供者；可以使用此應用程式嗎？ | 可以。 您的全域管理員，系統管理代理人或帳單系統管理員可以安裝應用程式，並查看您的直接客戶的相關資料。 未來發行的版本可能會包含也能讓您查看間接經銷商相關資料的功能。 |
+| 我是間接提供者；可以使用此應用程式嗎？ | 是。 您的全域管理員，系統管理代理人或帳單系統管理員可以安裝應用程式，並查看您的直接客戶的相關資料。 未來發行的版本可能會包含也能讓您查看間接經銷商相關資料的功能。 |
 | 如何得悉未來發行的版本？ | 公告和預覽版本會透過合作夥伴中心早期採用者計畫來發佈。 您也可以透過早期採用者計畫分享您的意見反應。 如果您還沒有參與計畫，請瞭解如何加入。 請參閱 [加入合作夥伴中心 API 和 SDK 早期](/partner-center/develop/early-adopter-program)採用者計畫。  |
 | 誰可以在應用程式中自訂儀表板和報告？ | 只有全域管理員、系統管理員代理人或帳單系統管理員，才可以在 Power BI Web 介面中自訂儀表板或建立新報告。 |
 | 誰可以在應用程式中檢視儀表板和報告？ | 已安裝應用程式的全域管理員、管理員代理程式或帳單管理員，可以與任何有 Microsoft Power BI Professional 或 Microsoft Power BI Premium 訂閱的人共用應用程式資料。 |
@@ -64,7 +62,7 @@ ms.locfileid: "91000012"
 
 
 
-## <a name="next-steps"></a>下一步
+## <a name="next-steps"></a>後續步驟
 
 [安裝和預覽適用於 Microsoft Power BI 的合作夥伴中心分析應用程式](power-bi-app-for-direct-partners-install.md)
 

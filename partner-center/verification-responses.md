@@ -1,7 +1,7 @@
 ---
 title: 確認您的帳戶資訊
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 嘗試註冊新的合作夥伴中心計畫時，請遵循帳戶驗證的狀態。 如有必要，請瞭解如何提供其他資訊。
@@ -9,14 +9,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0f4102fb5d520ad9af6f66f8dfa1980903721ff
-ms.sourcegitcommit: b702276b961943688b710664313818d8e10e33ad
+ms.openlocfilehash: 49c9d6730dd221ea81806644c8d05ff65442272f
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89304965"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215793"
 ---
-# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>當您在新的合作夥伴中心方案中註冊時，請確認您的帳戶資訊
+# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>在註冊新的合作夥伴中心方案時確認帳戶資訊
 
 **適當的角色**
 
@@ -41,7 +41,7 @@ ms.locfileid: "89304965"
 |----------------------------|:-----------------------------------|:--------------------------------------|
 |電子郵件擁有權   |電子郵件擁有權可確認主要連絡人 (主要電子郵件) 地址是否有效。 主要連絡人電子郵件地址必須是受監視、且可以傳送/接收電子郵件的工作帳戶。 **合作夥伴不應使用**：(1) 未與公司網域相關聯的個人電子郵件地址。  (2) 未與電子郵件相關聯的租使用者使用者登入 (例如 jsmith@testcompany.onmicrosoft.com) 。  |如果您在一個工作天內沒有收到電子郵件擁有權驗證電子郵件訊息，您可以使用下列連結要求重新傳送：適用于 [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)的 [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)。 在 [設定檔] 頁面中，按一下 Microsoft 的 [重新傳送驗證電子郵件] 連結，將電子郵件重新傳送給您。 若要確保收到電子郵件，請務必將電子郵件從 Microsoft.com 標示為「安全」網域，並查看垃圾郵件資料夾。|
 |就業 |雇用驗證藉由在公司所擁有的電子郵件網域上擁有有效的電子郵件地址，確認主要連絡人是註冊公司的員工。|如果雇用驗證遭到拒絕，主要連絡人 (一般您的全域或帳戶管理員) 將需要提供檔，確認連絡人的電子郵件網域位於其雇主的擁有權下。 [建立支援票證](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)。|
-|Microsoft Store   |確認合法商務設定檔中的公司名稱和位址沒有拼寫錯誤和縮寫，並且完全符合正式的公司商務註冊記錄。 如果您是以唯一的人操作，您需要將公司名稱更新為合法的名稱。 商務驗證會確認註冊公司是合法的商務實體，以及用於註冊的位址。|如果商務驗證失敗，主要連絡人 (您的全域或帳戶管理員) 將會要求您提供官方檔（例如商務註冊或稅務註冊憑證或收據）給公司的家庭國家/地區或自治區確認該公司已獲授權在該機構名稱下進行業務，並位於登入位址。 [建立支援票證](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
+|Microsoft Store   | 商務驗證會確認註冊公司是合法的商務實體，而且是用於註冊的位址。|確認 [合法商務設定檔](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) 中的公司名稱和位址沒有拼寫錯誤和縮寫，並且完全符合正式的公司商務註冊記錄。 主要連絡人 (通常是全域或帳戶管理員) 將會要求您提供官方檔（例如商務註冊或稅務註冊憑證或收據）給公司的家庭國家/地區或自治區，確認該公司已獲授權在該機構名稱下進行業務，並位於登入位址。 [建立支援票證](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
 
 >[!NOTE]
 >瞭解如何更新您的 [法律商務設定檔 (位址) ](update-your-partner-profile.md)。
