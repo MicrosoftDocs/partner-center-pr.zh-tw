@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afb3fad6f0345ef8a602c78b891634a64a2adf84
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "87120052"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979687"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>雲端解決方案提供者計畫指南、合約、價目表和優惠
 
@@ -77,3 +77,8 @@ ms.locfileid: "87120052"
 針對使用 CREST 使用量記錄 API 的 CSP 合作夥伴，Microsoft 也會在 [定價與供應項目] 頁面發佈一份清單，列出 CSP 中的 Azure 服務。
 
 若要了解由獨立軟體廠商 (ISV) 發佈的 Azure Marketplace 供應項目，請從左導覽瀏覽至 [Marketplace] 頁面。 目前只有 SaaS (軟體即服務) 類型的產品是可以從合作夥伴中心購買的。 您必須造訪 Azure 入口網站才能取得其他類型的 Azure Marketplace 供應項目。
+
+## <a name="next-steps"></a>後續步驟
+
+- [了解 Microsoft 合作夥伴合約](microsoft-partner-agreement.md)
+- [註冊雲端解決方案提供者計畫](enrolling-in-the-csp-program.md)

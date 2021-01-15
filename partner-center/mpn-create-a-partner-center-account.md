@@ -1,7 +1,7 @@
 ---
 title: 建立合作夥伴中心帳戶
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解 Microsoft 合作夥伴網路成員如何建立合作夥伴中心帳戶，來管理他們的網路權益和專長認證。
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570785"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979731"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>建立合作夥伴中心帳戶，以管理網路權益和專長認證
 
@@ -55,16 +55,20 @@ ms.locfileid: "96570785"
 
     如果公司沒有工作帳戶，請選取 [建立一個] 立即設定一個。 建立工作帳戶之後，請針對您剛建立的工作帳戶使用全域系統管理員認證來登入。
 
-3.  提供或更新公司的法定公司設定檔和主要連絡人資訊，然後選取 [立即註冊]。 
+3.  提供或更新您公司的法定商務基本資料。
+
+    您可以查閱公司的基本資料，或手動輸入公司資訊。 如果您的公司已向 [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad) 註冊，請使用 DUNS 識別碼來查閱公司資訊。 如果您想要自行提供公司詳細資料，請選取 [手動]。
+
+4. 提供公司資訊後，請輸入主要連絡人資訊，然後選取 [立即註冊]。
 
     主要連絡人必須是我們可以連絡關於您的申請事宜的公司中人員 (這可以是您本人或是貴公司中的其他人員)。 我們還會使用這項資訊，確認此人員任職於貴公司，且已註冊合作夥伴中心帳戶。
 
     > [!IMPORTANT]  
     > 為了協助確保貴公司的安全性與隱私權，我們將會寄送電子郵件給您的主要連絡人，以確認 (1) 該連絡人已註冊合作夥伴中心帳戶，以及 (2) 此電子郵件地址屬於貴公司。 主要連絡人確認其電子郵件地址之後，我們會持續複查您所提供的資訊。
 
-4.  閱讀並接受 Microsoft 合作夥伴網路合約的條款及條件。 
+5.  閱讀並接受 Microsoft 合作夥伴網路合約的條款及條件。 
 
-5.  確認您已被新增到系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
+6.  確認您已被新增到系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
 
     a. 從合作夥伴中心[儀表板](https://partner.microsoft.com/dashboard/home**) 中，選取 [設定] 圖示，然後選取 [使用者管理]。  
 
