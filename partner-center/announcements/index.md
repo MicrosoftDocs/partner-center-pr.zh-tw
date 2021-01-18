@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: 6c7255f1bece1b107d173b8f1dc8a2b77defa992
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062428"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235948"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "98062428"
 
 | **類別** | **2021 年 1 月公告** | **公告** |
 |---------|:---------|:---------|
+|供應項目/市場|[挪威克朗的商業定價更新](2021-january.md#7)|1 月 14 日|
 |供應項目/市場|[印度幣的商業定價更新](2021-january.md#6)|1 月 8 日|
 |供應項目/市場|[2021 年 2 月 1 日呼叫計畫和電話系統更新](2021-january.md#5)|1 月 8 日|
 |供應項目/市場|[2021 年 1 月的授權型價格清單更新](2021-january.md#4)|1 月 8 日|
