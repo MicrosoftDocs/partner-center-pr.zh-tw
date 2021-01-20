@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97578283"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182370"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>使用多重要素驗證來設定您的使用者
 
@@ -39,11 +39,10 @@ ms.locfileid: "97578283"
 :::image type="content" source="images/MFA/securityverification.png" alt-text="指定如何驗證":::
 
 >[!NOTE]
->您可以使用上述相同步驟，並選取 [強制執行] 來 **強制** 使用者使用 MFA。 若要深入了解，請閱讀[啟用每一使用者 Azure Multi-Factor Authentication 以保護登入事件](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates)。 
+>您可以使用上述相同步驟，並選取 [強制執行] 來 **強制** 使用者使用 MFA。 若要深入了解，請閱讀[啟用每一使用者 Azure Multi-Factor Authentication 以保護登入事件](/azure/active-directory/authentication/howto-mfa-userstates)。 
 
 所有使用者都會從 [已停用] **** 開始。 當您以每一使用者 Azure Multi-Factor Authentication 註冊使用者時，其狀態會變更為 [已啟用] **** 。 當已啟用的使用者登入並完成註冊程序時，其狀態會變更為 [強制執行] **** 。 
 
 ## <a name="next-steps"></a>後續步驟
 
 - [將角色和權限指派給使用者](permissions-overview.md)
-

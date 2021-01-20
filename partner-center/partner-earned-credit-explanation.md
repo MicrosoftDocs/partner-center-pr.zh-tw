@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622162"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182404"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作夥伴所獲得信用點數如何計算及付費
 
@@ -36,7 +36,7 @@ ms.locfileid: "97622162"
 
 - 您應具備作用中的 MPN 合約和有效的角色型存取控制 (RBAC) 角色，才能接收所管理之 Azure 資產的所獲得信用點數。
 
-- 您必須具有在 CSP 中客戶 Azure 資源的全天候營運控制和管理。 這表示您必須在客戶的 Azure 訂用帳戶、Azure 資源群組、Azure 資源上擁有系統管理員權限。 在間接提供者及其間接經銷商的案例中，如果間接提供者或間接經銷商或雙方都有此營運控制和管理，間接提供者就有資格使用 PEC。 若要深入了解，請參閱[恢復 Azure CSP 訂用帳戶的系統管理員權限](https://docs.microsoft.com/partner-center/revoke-reinstate-csp)。
+- 您必須具有在 CSP 中客戶 Azure 資源的全天候營運控制和管理。 這表示您必須在客戶的 Azure 訂用帳戶、Azure 資源群組、Azure 資源上擁有系統管理員權限。 在間接提供者及其間接經銷商的案例中，如果間接提供者或間接經銷商或雙方都有此營運控制和管理，間接提供者就有資格使用 PEC。 若要深入了解，請參閱[恢復 Azure CSP 訂用帳戶的系統管理員權限](./revoke-reinstate-csp.md)。
 
 - 除了以上要求，PEC 僅適用於 Azure 方案耗用量價格中所列的服務，您可以從 [Azure 方案價格](https://partner.microsoft.com/commerce/sales)頁面匯出這些資訊。
 
@@ -48,7 +48,7 @@ ms.locfileid: "97622162"
 
 - PEC 會向下獲得至 Azure 資源層級。 如果您在訂用帳戶或資源群組層級上具有有效存取權，每個具有較高實體的資源可以獲得 PEC。
 
-- 您也可以在 [Azure 成本管理](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners)頁面上取得 PEC 的詳細資料。
+- 您也可以在 [Azure 成本管理](/azure/cost-management-billing/costs/get-started-partners)頁面上取得 PEC 的詳細資料。
 
 ### <a name="calculation"></a>計算
 

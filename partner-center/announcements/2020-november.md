@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439084"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182540"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -40,7 +40,7 @@ Microsoft 為雲端解決方案提供者計畫中的合作夥伴引進了功能�
 
 ### <a name="details"></a>詳細資料
 
-Microsoft 為雲端解決方案提供者計畫 (包括間接提供者和直接帳單合作夥伴) 的合作夥伴引進了功能，可以透過合作夥伴中心的 [計量帳單](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing) 購買 SaaS 供應項目。 目前，雲端解決方案提供者計畫中的合作夥伴可以 [透過 Azure 入口網站購買 SaaS 供應項目](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)，也可以檢視。 這項新體驗可讓合作夥伴透過合作夥伴中心的 CSP Marketplace 和 API 來購買這些供應項目，就像對其他 SaaS 供應項目類型所做的一樣。 
+Microsoft 為雲端解決方案提供者計畫 (包括間接提供者和直接帳單合作夥伴) 的合作夥伴引進了功能，可以透過合作夥伴中心的 [計量帳單](/azure/marketplace/partner-center-portal/saas-metered-billing) 購買 SaaS 供應項目。 目前，雲端解決方案提供者計畫中的合作夥伴可以 [透過 Azure 入口網站購買 SaaS 供應項目](../csp-commercial-marketplace-purchase.md)，也可以檢視。 這項新體驗可讓合作夥伴透過合作夥伴中心的 CSP Marketplace 和 API 來購買這些供應項目，就像對其他 SaaS 供應項目類型所做的一樣。 
 
 ### <a name="next-steps"></a>後續步驟
 
@@ -309,23 +309,23 @@ Microsoft 即將在 2021 年第 1 季實作 API 節流，讓呼叫合作夥伴�
 |-------------------------|----------------------------------|
 |{baseURL}/v1/customers/{customer_id}/subscriptions|[取得客戶的所有訂用帳戶](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[依照識別碼取得訂用帳戶](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/customers/{customer_id}/orders||[取得客戶的所有訂單](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[依識別碼取得供應項目](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[取得訂用帳戶的佈建狀態](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[管理訂單和管理訂用帳戶](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[取得訂用帳戶的附加元件清單](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[取得訂用帳戶的 Azure 權利清單](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[取得訂用帳戶的註冊狀態](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[取得客戶的所有轉移](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[取得產品升級狀態](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[取得試用版轉換方案的清單](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/customers/{customer_id}/orders||[取得客戶的所有訂單](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}|[依識別碼取得供應項目](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus|[取得訂用帳戶的佈建狀態](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}|[管理訂單和管理訂用帳戶](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons|[取得訂用帳戶的附加元件清單](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements|[取得訂用帳戶的 Azure 權利清單](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus|[取得訂用帳戶的註冊狀態](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers|[取得客戶的所有轉移](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[取得產品升級狀態](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions|[取得試用版轉換方案的清單](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-此公告旨在讓合作夥伴及早了解即將進行的變更，進而做好準備。 我們強烈建議合作夥伴熟悉這些 API，並考慮使用活動記錄 API 以提高效率並避免節流。 如需這項功能的詳細資訊，請參閱 [API 節流指導方針](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)中的詳細資訊。 
+此公告旨在讓合作夥伴及早了解即將進行的變更，進而做好準備。 我們強烈建議合作夥伴熟悉這些 API，並考慮使用活動記錄 API 以提高效率並避免節流。 如需這項功能的詳細資訊，請參閱 [API 節流指導方針](/partner-center/develop/api-throttling-guidance)中的詳細資訊。 
 
 ### <a name="next-steps"></a>後續步驟
 
-請參閱 [API 節流指導方針](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)，並執行必要的步驟。 
+請參閱 [API 節流指導方針](/partner-center/develop/api-throttling-guidance)，並執行必要的步驟。 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Context
 
 - 今年二月，我們要求合作夥伴簽署了 Microsoft 客戶合約 (MCuA)。 這是從 Microsoft Cloud 合約 (MCA) 進行的移轉。 
-- 在此變更中，我們要求合作夥伴依照[這裡](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)的說明納入合約類型參數。
+- 在此變更中，我們要求合作夥伴依照[這裡](/partner-center/develop/get-confirmation-of-customer-agreement)的說明納入合約類型參數。
 
 ### <a name="what-happened-next"></a>後續情形：
 

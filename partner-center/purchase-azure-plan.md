@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6f9908be183983c590c52b38465041c908c91d7c
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: HT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "87810898"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215895"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>為客戶購買 Azure 方案，並以隨用隨付費率存取最新的 Azure 服務
 
@@ -26,6 +26,7 @@ ms.locfileid: "87810898"
 當您在 Microsoft 客戶合約下為客戶購買 Azure 方案時，您可以使用隨用隨付費率來存取最新 Azure 服務的完整目錄。 CSP 合作夥伴現在能夠在任何 Azure 服務正式推出時進行存取。 合作夥伴在 Azure 方案下可以有多個 Azure 訂用帳戶。 
 
 ## <a name="countryregion-availability"></a>國家/地區可用性
+
 Azure CSP 中的新商務體驗目前已排程於 139 個國家/地區提供。 請參閱[國家/地區](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)的完整清單。 
 
 ## <a name="how-to-purchase-azure-plan"></a>如何購買 Azure 方案
@@ -78,7 +79,7 @@ Azure Reservations 必須關聯至有效的 Azure 方案。 從 [客戶訂用帳
 >如果客戶還沒有作用中的 Azure 方案，請選取 [Azure] 立即新增一個方案。 如需進一步的指示，請參閱[購買 Azure Reservations](azure-reservations-buying.md#purchase-azure-reservations)。
 
 >[!Note]
->保留的範圍目前在合作夥伴中心內只能設定為**共用**。 若要選取單一訂用帳戶範圍或從共用範圍更新至單一訂用帳戶範圍，請按照下列指示移至 **Microsoft Azure 管理入口網站**。 
+>保留的範圍目前在合作夥伴中心內只能設定為 **共用**。 若要選取單一訂用帳戶範圍或從共用範圍更新至單一訂用帳戶範圍，請按照下列指示移至 **Microsoft Azure 管理入口網站**。 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="共用範圍保留設定":::
 
@@ -99,7 +100,7 @@ Azure Reservations 必須關聯至有效的 Azure 方案。 從 [客戶訂用帳
 
 您將會在 Azure 入口網站中新增訂用帳戶，並為您的客戶設定資源。 您也可以依工作負載或專案來區分客戶的環境。 您可以透過 [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) 以及 Azure 入口網站來管理訂用帳戶。 
 
-若要管理您客戶的資源和訂用帳戶，您需要**系統管理員代表** (AOBO) 權限。 如需管理您的存取權的詳細資訊，請參閱[管理 Azure 方案下的訂用帳戶和資源](azure-plan-manage.md)
+若要管理您客戶的資源和訂用帳戶，您需要 **系統管理員代表** (AOBO) 權限。 如需管理您的存取權的詳細資訊，請參閱[管理 Azure 方案下的訂用帳戶和資源](azure-plan-manage.md)
 
 ## <a name="next-steps"></a>接下來的步驟
 
