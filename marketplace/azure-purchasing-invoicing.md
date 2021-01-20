@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182472"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584201"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketplace 購買
 
@@ -60,6 +60,20 @@ Microsoft 可讓您以 Azure 訂用帳戶管理員的身分，使用帳單設定
 您可在 Azure 成本管理底下的成本分析工具上檢視 Azure Marketplace 費用及發票。
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="使用 Azure 成本管理可深入瞭解您購買的產品。":::
+
+## <a name="purchase-validation-checks"></a>購買驗證檢查
+
+透過 Azure Marketplace 購買供應專案可能會因不同原因而失敗。 使用命令列介面 (CLI) 進行購買很可能會造成錯誤，因為您可能想要購買的供應專案在 Azure Marketplace 中無法使用或顯示。 以下是可能導致購買失敗的檢查：
+
+1. 訂用帳戶屬於 Enterprise 合約 (EA) 且 EA 系統管理員已停用 Azure Marketplace 購買。
+1. EA 系統管理員已為免費供應專案啟用購買，而供應專案是付費供應專案。
+1. 在 marketplace 中找不到供應專案。
+1. 獨立軟體廠商 (ISV) 已停止銷售供應專案（至少在您的區域中）。
+1. 您正在使用的訂用帳戶屬於無法使用供應專案的區域中的帳單帳戶。
+1. 訂用帳戶/計費帳戶未與有效的付款條件 (，例如有效的信用卡) 。
+1. 訂用帳戶屬於雲端解決方案提供者 (CSP) 且 ISV 拒絕透過 CSP 銷售。
+1. 訂用帳戶已啟用私人 Marketplace，但供應專案不在允許的供應專案清單中。
+1. 供應專案為特定客戶的私人/預覽，且訂用帳戶不在允許的客戶清單中。
 
 ## <a name="next-steps"></a>後續步驟
 
