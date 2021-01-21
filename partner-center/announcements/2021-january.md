@@ -8,263 +8,465 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
-ms.translationtype: HT
+ms.date: 01/15/2021
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062445"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571664"
 ---
-# <a name="january-2021-announcements"></a><span data-ttu-id="a23d9-103">2021 年 1 月公告</span><span class="sxs-lookup"><span data-stu-id="a23d9-103">January 2021 announcements</span></span>
+# <a name="january-2021-announcements"></a><span data-ttu-id="0282c-103">2021 年 1 月公告</span><span class="sxs-lookup"><span data-stu-id="0282c-103">January 2021 announcements</span></span>
 
-<span data-ttu-id="a23d9-104">本頁詳述 Microsoft 合作夥伴中心 2021 年 1 月的公告。</span><span class="sxs-lookup"><span data-stu-id="a23d9-104">This page details the announcements for Microsoft Partner Center for January 2021.</span></span>
+<span data-ttu-id="0282c-104">本頁詳述 Microsoft 合作夥伴中心 2021 年 1 月的公告。</span><span class="sxs-lookup"><span data-stu-id="0282c-104">This page details the announcements for Microsoft Partner Center for January 2021.</span></span>
 
-<span data-ttu-id="a23d9-105">2021 年公告：1 月</span><span class="sxs-lookup"><span data-stu-id="a23d9-105">2021 announcements: January</span></span>
+<span data-ttu-id="0282c-105">2021 年公告：1 月</span><span class="sxs-lookup"><span data-stu-id="0282c-105">2021 announcements: January</span></span>
 
-<span data-ttu-id="a23d9-106">2020 公告：[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)</span><span class="sxs-lookup"><span data-stu-id="a23d9-106">2020 announcements: [May](2020-may.md) | [June](2020-june.md) | [July](2020-july.md) | [August](2020-august.md) | [September](2020-september.md) | [October](2020-October.md) | [November](2020-november.md) | [December](2020-december.md)</span></span>  
-
-_____________ 
-
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a><span data-ttu-id="a23d9-107">印度幣的商業定價更新</span><span class="sxs-lookup"><span data-stu-id="a23d9-107">Commercial pricing update for the Indian rupee</span></span> 
-
-### <a name="categories"></a><span data-ttu-id="a23d9-108">類別</span><span class="sxs-lookup"><span data-stu-id="a23d9-108">Categories</span></span>
-
-- <span data-ttu-id="a23d9-109">日期：2021-01-08</span><span class="sxs-lookup"><span data-stu-id="a23d9-109">Date: 2021-01-08</span></span>
-- <span data-ttu-id="a23d9-110">供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="a23d9-110">Offers/Markets</span></span>
-
-### <a name="impacted-audience"></a><span data-ttu-id="a23d9-111">影響對象</span><span class="sxs-lookup"><span data-stu-id="a23d9-111">Impacted audience</span></span>
-
-<span data-ttu-id="a23d9-112">在印度進行交易的「雲端解決方案提供者」合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="a23d9-112">CSP partners transacting in India.</span></span>
-
-### <a name="details"></a><span data-ttu-id="a23d9-113">詳細資料</span><span class="sxs-lookup"><span data-stu-id="a23d9-113">Details</span></span> 
-
-<span data-ttu-id="a23d9-114">為配合印度和亞洲地區的商務軟體和線上服務定價，Microsoft 即將對印度幣的價目表進行變更。</span><span class="sxs-lookup"><span data-stu-id="a23d9-114">Microsoft is making changes to the Indian rupee price list to align prices for commercial software and online services within India and the Asian region.</span></span>
-
-<span data-ttu-id="a23d9-115">完整的公告僅適用於 Microsoft 合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="a23d9-115">The full announcement is only available to Microsoft Partners.</span></span> <span data-ttu-id="a23d9-116">[登入以閱讀完整的公告](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf)。</span><span class="sxs-lookup"><span data-stu-id="a23d9-116">[Login to access the full announcement](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).</span></span>
+<span data-ttu-id="0282c-106">2020 公告：[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)</span><span class="sxs-lookup"><span data-stu-id="0282c-106">2020 announcements: [May](2020-may.md) | [June](2020-june.md) | [July](2020-july.md) | [August](2020-august.md) | [September](2020-september.md) | [October](2020-October.md) | [November](2020-november.md) | [December](2020-december.md)</span></span>  
 
 ________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a><span data-ttu-id="0282c-107">永久軟體現已針對雲端解決方案提供者計畫正式推出</span><span class="sxs-lookup"><span data-stu-id="0282c-107">Perpetual software now generally available for the Cloud Solution Provider program</span></span>
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a><span data-ttu-id="a23d9-117">2021 年 2 月 1 日的通話方案和電話系統更新</span><span class="sxs-lookup"><span data-stu-id="a23d9-117">Calling Plan and Phone System updates for February 1, 20201</span></span>
+### <a name="categories"></a><span data-ttu-id="0282c-108">類別</span><span class="sxs-lookup"><span data-stu-id="0282c-108">Categories</span></span>
 
-### <a name="categories"></a><span data-ttu-id="a23d9-118">類別</span><span class="sxs-lookup"><span data-stu-id="a23d9-118">Categories</span></span>
+- <span data-ttu-id="0282c-109">日期：2021-01-19</span><span class="sxs-lookup"><span data-stu-id="0282c-109">Date: 2021-01-19</span></span>
+- <span data-ttu-id="0282c-110">拓展您的業務</span><span class="sxs-lookup"><span data-stu-id="0282c-110">Grow your Business</span></span>
 
-- <span data-ttu-id="a23d9-119">日期：2021-01-08</span><span class="sxs-lookup"><span data-stu-id="a23d9-119">Date: 2021-01-08</span></span>
-- <span data-ttu-id="a23d9-120">供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="a23d9-120">Offers/Markets</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-111">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-111">Impacted audience</span></span>
 
-### <a name="summary"></a><span data-ttu-id="a23d9-121">摘要</span><span class="sxs-lookup"><span data-stu-id="a23d9-121">Summary</span></span>
+<span data-ttu-id="0282c-112">所有雲端解決方案提供者合作夥伴</span><span class="sxs-lookup"><span data-stu-id="0282c-112">All CSP partners</span></span>
 
-<span data-ttu-id="a23d9-122">我們將在特定國家/地區推出 Microsoft 365 的附加元件供應項目，其中包括電話系統和國內通話方案，以及獨立的國內通話方案。</span><span class="sxs-lookup"><span data-stu-id="a23d9-122">An add-on offer to Microsoft 365, which will include Phone System and Domestic Calling Plan and a standalone Domestic Calling Plan, is coming soon to select countries.</span></span>
+### <a name="details"></a><span data-ttu-id="0282c-113">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-113">Details</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="a23d9-123">影響對象</span><span class="sxs-lookup"><span data-stu-id="a23d9-123">Impacted audience</span></span>
+<span data-ttu-id="0282c-114">如同今天的[公告](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)，我們很高興地通知您，商業永久軟體授權現已正式推出，可供所有 CSP 合作夥伴銷售。</span><span class="sxs-lookup"><span data-stu-id="0282c-114">As [announced](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) today, we are excited to inform you that commercial perpetual software licenses are now generally available for all CSP partners to sell.</span></span> <span data-ttu-id="0282c-115">合作夥伴中心 CSP 永久軟體價目表已重新發佈，現在包含其他產品和地理位置。</span><span class="sxs-lookup"><span data-stu-id="0282c-115">The Partner Center CSP perpetual software price list has been republished and now includes additional products and geographies.</span></span>
 
-<span data-ttu-id="a23d9-124">透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="a23d9-124">All partners transacting through the Cloud Solution Provider (CSP) program.</span></span>
+<span data-ttu-id="0282c-116">另請注意，從今天起，合作夥伴中心的軟體和授權金鑰履行功能已淘汰，而合作夥伴和客戶今後應該使用 Microsoft 365 系統管理中心來達到此目的。</span><span class="sxs-lookup"><span data-stu-id="0282c-116">Also note that as of today the Partner Center software and license key fulfillment capability has been retired and that going forward partners and customers should use the Microsoft 365 Admin Center for this purpose.</span></span>
+<span data-ttu-id="0282c-117">如需進一步的詳細資訊和後續步驟，請參閱下文。</span><span class="sxs-lookup"><span data-stu-id="0282c-117">Please see below for further details and next steps.</span></span>
 
-### <a name="details"></a><span data-ttu-id="a23d9-125">詳細資料</span><span class="sxs-lookup"><span data-stu-id="a23d9-125">Details</span></span> 
+### <a name="next-steps"></a><span data-ttu-id="0282c-118">後續步驟</span><span class="sxs-lookup"><span data-stu-id="0282c-118">Next steps</span></span>
 
-<span data-ttu-id="a23d9-126">Microsoft 365 E1、E3 和 E5 中搭配此附加元件的供應項目將包含電話系統和國內通話方案。</span><span class="sxs-lookup"><span data-stu-id="a23d9-126">The add-on bundled offer to Microsoft 365 E1, E3, and E5 offers will include Phone System and Domestic Calling Plan.</span></span> <span data-ttu-id="a23d9-127">此外，新的獨立國內通話方案供應項目將僅適用於 E5。</span><span class="sxs-lookup"><span data-stu-id="a23d9-127">In addition, a new standalone Domestic Calling Plan offer will be available for E5 only.</span></span> <span data-ttu-id="a23d9-128">新的供應項目僅適用於美國、波多黎各和加拿大的客戶；對於所有其他國家和地區，現有的全球獨立 SKU 和定價會維持不變。</span><span class="sxs-lookup"><span data-stu-id="a23d9-128">The new offers will be available to customers in the US, Puerto Rico, and Canada only; for all other countries and territories, the existing global standalone SKUs and pricing remain the same.</span></span> 
+- <span data-ttu-id="0282c-119">在合作夥伴中心 [定價與供應項目](https://partnercenter.microsoft.com/en-us/pcv/sales)頁面的 [軟體] 區段中下載 **CSP 永久軟體** 價目表。</span><span class="sxs-lookup"><span data-stu-id="0282c-119">Download the **CSP Perpetual software** price list in the **Software** section of the Partner Center [Pricing & Offers](https://partnercenter.microsoft.com/en-us/pcv/sales) page.</span></span> <span data-ttu-id="0282c-120">您可以在[這裡](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)找到新增的產品和地理位置清單。</span><span class="sxs-lookup"><span data-stu-id="0282c-120">A listing of the newly added products and geographies can be found [here](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf).</span></span>
+- <span data-ttu-id="0282c-121">請檢閱 [Microsoft 365 系統管理中心永久軟體和產品授權金鑰下載操作說明文章](https://go.microsoft.com/fwlink/p/?linkid=2152525)，而當客戶準備好下載其軟體和授權金鑰時，與其分享該文章。</span><span class="sxs-lookup"><span data-stu-id="0282c-121">Review the [Microsoft 365 Admin Center perpetual software and product license keys download how-to article](https://go.microsoft.com/fwlink/p/?linkid=2152525) and share with your customers when they’re ready to download their software and license keys.</span></span>
+- <span data-ttu-id="0282c-122">檢閱[雲端解決方案提供者計畫中的永久軟體](https://partner.microsoft.com/resources/collection/software-in-csp#/)整備資料。</span><span class="sxs-lookup"><span data-stu-id="0282c-122">Review the [Perpetual software in the Cloud Solution Provider program](https://partner.microsoft.com/resources/collection/software-in-csp#/) readiness materials.</span></span> <span data-ttu-id="0282c-123">使用此[整備地圖](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)，快速找出適合您角色的資訊。</span><span class="sxs-lookup"><span data-stu-id="0282c-123">Use this [readiness map](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) to quickly locate the right information for your role.</span></span>
 
-<span data-ttu-id="a23d9-129">這些供應項目將提供給美國、波多黎各和加拿大的商業客戶、學生、教職員、政府社群雲端 (GCC) 和非營利客戶使用。</span><span class="sxs-lookup"><span data-stu-id="a23d9-129">These offers will be available to Commercial, Student, Faculty, Government Community Cloud (GCC), and Nonprofit customers in the US, Puerto Rico, and Canada.</span></span> <span data-ttu-id="a23d9-130">通話方案無法在美國其他所有領地使用。</span><span class="sxs-lookup"><span data-stu-id="a23d9-130">Calling plans are not available in any of the other US territories.</span></span>
+### <a name="questions"></a><span data-ttu-id="0282c-124">有問題嗎？</span><span class="sxs-lookup"><span data-stu-id="0282c-124">Questions?</span></span>
 
-   |<span data-ttu-id="a23d9-131">**供應項目名稱**</span><span class="sxs-lookup"><span data-stu-id="a23d9-131">**Offer name**</span></span>|<span data-ttu-id="a23d9-132">**優惠識別碼**</span><span class="sxs-lookup"><span data-stu-id="a23d9-132">**Offer ID**</span></span>|<span data-ttu-id="a23d9-133">**材質識別碼**</span><span class="sxs-lookup"><span data-stu-id="a23d9-133">**Material ID**</span></span>|
-   |-------------------|:------|:------|
-   |<span data-ttu-id="a23d9-134">適用於美國和加拿大的 Microsoft Teams 通話基礎</span><span class="sxs-lookup"><span data-stu-id="a23d9-134">Microsoft Teams Calling Essentials for US and Canada</span></span>|<span data-ttu-id="a23d9-135">1ee81de6-4d8b-4cf1-b926-2fd2a774a4ca</span><span class="sxs-lookup"><span data-stu-id="a23d9-135">1ee81de6-4d8b-4cf1-b926-2fd2a774a4ca</span></span>|<span data-ttu-id="a23d9-136">8N2-00010</span><span class="sxs-lookup"><span data-stu-id="a23d9-136">8N2-00010</span></span>|
-   |<span data-ttu-id="a23d9-137">適用於美國和加拿大的 Microsoft Teams 通話基礎 (非營利員工定價)</span><span class="sxs-lookup"><span data-stu-id="a23d9-137">Microsoft Teams Calling Essentials for US and Canada (Nonprofit Staff Pricing)</span></span>|<span data-ttu-id="a23d9-138">0c2ece0d-39b7-40ec-8c08-87c2b6c75d62</span><span class="sxs-lookup"><span data-stu-id="a23d9-138">0c2ece0d-39b7-40ec-8c08-87c2b6c75d62</span></span>|<span data-ttu-id="a23d9-139">8N2-00011</span><span class="sxs-lookup"><span data-stu-id="a23d9-139">8N2-00011</span></span>|
-   |<span data-ttu-id="a23d9-140">適用於美國和加拿大教職員的 Microsoft Teams 通話基礎</span><span class="sxs-lookup"><span data-stu-id="a23d9-140">Microsoft Teams Calling Essentials for US and Canada for faculty</span></span>|<span data-ttu-id="a23d9-141">b8baa3b8-8cc2-4f26-a212-7fbeb28e7895</span><span class="sxs-lookup"><span data-stu-id="a23d9-141">b8baa3b8-8cc2-4f26-a212-7fbeb28e7895</span></span>|<span data-ttu-id="a23d9-142">8N3-00003</span><span class="sxs-lookup"><span data-stu-id="a23d9-142">8N3-00003</span></span>|
-   |<span data-ttu-id="a23d9-143">適用於美國和加拿大學生的 Microsoft Teams 通話基礎</span><span class="sxs-lookup"><span data-stu-id="a23d9-143">Microsoft Teams Calling Essentials for US and Canada for students</span></span>|<span data-ttu-id="a23d9-144">26956da8-eeb5-44e3-aa79-d36e0e42b930</span><span class="sxs-lookup"><span data-stu-id="a23d9-144">26956da8-eeb5-44e3-aa79-d36e0e42b930</span></span>|<span data-ttu-id="a23d9-145">8N3-00004</span><span class="sxs-lookup"><span data-stu-id="a23d9-145">8N3-00004</span></span>|
-   |<span data-ttu-id="a23d9-146">適用於美國和加拿大政府社群雲端 (GCC) 的 Microsoft Teams 通話基礎</span><span class="sxs-lookup"><span data-stu-id="a23d9-146">Microsoft Teams Calling Essentials for US and Canada for GCC</span></span>|<span data-ttu-id="a23d9-147">7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1</span><span class="sxs-lookup"><span data-stu-id="a23d9-147">7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1</span></span>|<span data-ttu-id="a23d9-148">8N4-00002</span><span class="sxs-lookup"><span data-stu-id="a23d9-148">8N4-00002</span></span>|
-   |<span data-ttu-id="a23d9-149">適用於美國和加拿大的 Microsoft 365 國內通話方案</span><span class="sxs-lookup"><span data-stu-id="a23d9-149">Microsoft 365 Domestic Calling Plan for US and Canada</span></span>|<span data-ttu-id="a23d9-150">60d2919e-427a-46c9-bd03-89cbad27d53f</span><span class="sxs-lookup"><span data-stu-id="a23d9-150">60d2919e-427a-46c9-bd03-89cbad27d53f</span></span>|<span data-ttu-id="a23d9-151">TK2-00050</span><span class="sxs-lookup"><span data-stu-id="a23d9-151">TK2-00050</span></span>|
-   |<span data-ttu-id="a23d9-152">適用於美國和加拿大教職員的 Microsoft 365 國內通話方案</span><span class="sxs-lookup"><span data-stu-id="a23d9-152">Microsoft 365 Domestic Calling Plan for faculty for US and Canada</span></span>|<span data-ttu-id="a23d9-153">602e7548-375b-4e01-bf79-a9a8b8ff16d4</span><span class="sxs-lookup"><span data-stu-id="a23d9-153">602e7548-375b-4e01-bf79-a9a8b8ff16d4</span></span>|<span data-ttu-id="a23d9-154">LM7-00006</span><span class="sxs-lookup"><span data-stu-id="a23d9-154">LM7-00006</span></span>|
-   |<span data-ttu-id="a23d9-155">適用於美國和加拿大學生的 Microsoft 365 國內通話方案</span><span class="sxs-lookup"><span data-stu-id="a23d9-155">Microsoft 365 Domestic Calling Plan for students for US and Canada</span></span>|<span data-ttu-id="a23d9-156">1f4b4375-3185-40cf-b044-117fe3b102c6</span><span class="sxs-lookup"><span data-stu-id="a23d9-156">1f4b4375-3185-40cf-b044-117fe3b102c6</span></span>|<span data-ttu-id="a23d9-157">LM7-00007</span><span class="sxs-lookup"><span data-stu-id="a23d9-157">LM7-00007</span></span>|
-   |<span data-ttu-id="a23d9-158">適用於美國和加拿大政府社群雲端 (GCC) 的 Microsoft 365 國內通話方案</span><span class="sxs-lookup"><span data-stu-id="a23d9-158">Microsoft 365 Domestic Calling Plan for GCC for US and Canada</span></span>|<span data-ttu-id="a23d9-159">594ed84e-ddf8-4e40-9726-76c04bd29e3b</span><span class="sxs-lookup"><span data-stu-id="a23d9-159">594ed84e-ddf8-4e40-9726-76c04bd29e3b</span></span>|<span data-ttu-id="a23d9-160">LM9-00023</span><span class="sxs-lookup"><span data-stu-id="a23d9-160">LM9-00023</span></span>|
+<span data-ttu-id="0282c-125">如有任何進一步的問題，請洽詢相關的 CSP Yammer 社群。</span><span class="sxs-lookup"><span data-stu-id="0282c-125">For any further questions please check your relevant CSP Yammer communities.</span></span>
 
-### <a name="next-steps"></a><span data-ttu-id="a23d9-161">後續步驟</span><span class="sxs-lookup"><span data-stu-id="a23d9-161">Next steps</span></span>
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a><span data-ttu-id="0282c-126">提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介</span><span class="sxs-lookup"><span data-stu-id="0282c-126">Reminder: Introducing API throttling to partners calling Partner Center APIs</span></span> 
 
-- <span data-ttu-id="a23d9-162">請與您組織中相關連絡人分享這項資訊，以了解追加銷售和交叉銷售商機。</span><span class="sxs-lookup"><span data-stu-id="a23d9-162">Share this information with the relevant contacts in your organization and understand the upsell and cross-sell opportunities.</span></span> 
-- <span data-ttu-id="a23d9-163">請參閱 [Teams 合作夥伴指南](https://aka.ms/teamscallingmeetingsguide)的資源區段。</span><span class="sxs-lookup"><span data-stu-id="a23d9-163">Review the resources section of the [Teams Partner Guide](https://aka.ms/teamscallingmeetingsguide).</span></span>
+### <a name="categories"></a><span data-ttu-id="0282c-127">類別</span><span class="sxs-lookup"><span data-stu-id="0282c-127">Categories</span></span>
 
-_____________ 
+- <span data-ttu-id="0282c-128">日期：2021-01-19</span><span class="sxs-lookup"><span data-stu-id="0282c-128">Date: 2021-01-19</span></span>
+- <span data-ttu-id="0282c-129">拓展您的業務</span><span class="sxs-lookup"><span data-stu-id="0282c-129">Grow your Business</span></span>
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a><span data-ttu-id="a23d9-164">2021 年 1 月的授權型價目表更新</span><span class="sxs-lookup"><span data-stu-id="a23d9-164">License-base price list updates for January 2021</span></span> 
+### <a name="summary"></a><span data-ttu-id="0282c-130">總結</span><span class="sxs-lookup"><span data-stu-id="0282c-130">Summary</span></span>
 
-### <a name="categories"></a><span data-ttu-id="a23d9-165">類別</span><span class="sxs-lookup"><span data-stu-id="a23d9-165">Categories</span></span>
+<span data-ttu-id="0282c-131">Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥伴在一段時間範圍內能獲得更一致的效能。</span><span class="sxs-lookup"><span data-stu-id="0282c-131">Microsoft will be implementing API throttling to allow a more consistent performance within a time span for partners calling the Partner Center APIs.</span></span>
 
-- <span data-ttu-id="a23d9-166">日期：2021-01-08</span><span class="sxs-lookup"><span data-stu-id="a23d9-166">Date: 2021-01-08</span></span>
-- <span data-ttu-id="a23d9-167">供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="a23d9-167">Offers/Markets</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-132">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-132">Impacted audience</span></span>
 
-### <a name="summary"></a><span data-ttu-id="a23d9-168">摘要</span><span class="sxs-lookup"><span data-stu-id="a23d9-168">Summary</span></span>
+<span data-ttu-id="0282c-133">透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴</span><span class="sxs-lookup"><span data-stu-id="0282c-133">All partners transacting through the Cloud Solution Provider (CSP) program</span></span>  
 
-<span data-ttu-id="a23d9-169">授權型供應項目的 1 月和 2 月價目表已更新，已修正某些不正確的定價。</span><span class="sxs-lookup"><span data-stu-id="a23d9-169">January and February price lists for license-based offers have been updated to correct certain incorrect list prices.</span></span>
+### <a name="details"></a><span data-ttu-id="0282c-134">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-134">Details</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="a23d9-170">影響對象</span><span class="sxs-lookup"><span data-stu-id="a23d9-170">Impacted audience</span></span>
+<span data-ttu-id="0282c-135">從 2021 年 2 月開始，Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥伴在一段時間範圍內能獲得更一致的效能。</span><span class="sxs-lookup"><span data-stu-id="0282c-135">Beginning in February 2021, Microsoft will be implementing API throttling to allow a more consistent performance within a time span for partners calling the Partner Center APIs.</span></span><span data-ttu-id="0282c-136"> 節流會限制在某個時間範圍內對服務的要求數目，以避免過度使用資源。</span><span class="sxs-lookup"><span data-stu-id="0282c-136"> Throttling limits the number of requests to a service in a time span to prevent overuse of resources.</span></span><span data-ttu-id="0282c-137"> 超過節流閾值時，合作夥伴中心會在一段時間內限制來自該用戶端的任何後續要求。</span><span class="sxs-lookup"><span data-stu-id="0282c-137"> When a throttling threshold is exceeded, Partner Center limits any further requests from that client for a period of time.</span></span>
+<span data-ttu-id="0282c-138">  
+\*\*合作夥伴權益：\*\* 合作夥伴中心依設計可處理大量要求，但若有幾個合作夥伴提出了極大量的要求，節流將有助於為所有合作夥伴維持理想的效能和可靠性。</span><span class="sxs-lookup"><span data-stu-id="0282c-138">  
+\*\*Partner benefits:\*\* Partner Center is designed to handle a high volume of requests, but if an overwhelming number of requests are made by a few partners, throttling will help maintain optimal performance and reliability for all partners.</span></span>  
 
-<span data-ttu-id="a23d9-171">透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="a23d9-171">All partners transacting through the Cloud Solution Provider (CSP) program.</span></span>
+- <span data-ttu-id="0282c-139">節流可以盡可能縮短停機時間。</span><span class="sxs-lookup"><span data-stu-id="0282c-139">Throttling ensures minimal downtime.</span></span>
+- <span data-ttu-id="0282c-140">節流會減少大量要求的數量，協助確保所有合作夥伴的效能一致。</span><span class="sxs-lookup"><span data-stu-id="0282c-140">Throttling reduces the number of high-volume requests, helping to ensure a consistent performance for all partners.</span></span>
 
-### <a name="details"></a><span data-ttu-id="a23d9-172">詳細資料</span><span class="sxs-lookup"><span data-stu-id="a23d9-172">Details</span></span> 
+<span data-ttu-id="0282c-141">**要節流的 API：**</span><span class="sxs-lookup"><span data-stu-id="0282c-141">**APIs to be throttled:**</span></span>
 
-<span data-ttu-id="a23d9-173">2021 年 1 月和 2 月的授權型價目表中有幾個不正確的定價。</span><span class="sxs-lookup"><span data-stu-id="a23d9-173">The license-based price lists for January 2021 and February 2021 included a few incorrect list prices.</span></span> <span data-ttu-id="a23d9-174">受影響的供應項目和貨幣如下。</span><span class="sxs-lookup"><span data-stu-id="a23d9-174">The impacted offers and currencies are below.</span></span> <span data-ttu-id="a23d9-175">正確的定價已於 2021 年 1 月 7 日下午 2 點 (太平洋標準時間) 更新且可供使用。</span><span class="sxs-lookup"><span data-stu-id="a23d9-175">The correct pricing was updated and available as of January 7, 2021 2PM PST (Pacific Standard Time).</span></span> 
+| <span data-ttu-id="0282c-142">作業</span><span class="sxs-lookup"><span data-stu-id="0282c-142">Operation</span></span> | <span data-ttu-id="0282c-143">合作夥伴中心文件</span><span class="sxs-lookup"><span data-stu-id="0282c-143">Partner Center documentation</span></span> |
+| ------ | ------- |
+|<span data-ttu-id="0282c-144">{baseURL}/v1/customers/{customer_id}/subscriptions</span><span class="sxs-lookup"><span data-stu-id="0282c-144">{baseURL}/v1/customers/{customer_id}/subscriptions</span></span>  | [<span data-ttu-id="0282c-145">取得客戶的所有訂用帳戶</span><span class="sxs-lookup"><span data-stu-id="0282c-145">Get-all-of-a-customer-s-subscriptions</span></span>](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|<span data-ttu-id="0282c-146">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span><span class="sxs-lookup"><span data-stu-id="0282c-146">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span></span>  | [<span data-ttu-id="0282c-147">依照識別碼取得訂用帳戶</span><span class="sxs-lookup"><span data-stu-id="0282c-147">Get a subscription by ID</span></span>](/partner-center/develop/get-a-subscription-by-id) |
+|<span data-ttu-id="0282c-148">{baseURL}/v1/customers/{customer_id}/orders</span><span class="sxs-lookup"><span data-stu-id="0282c-148">{baseURL}/v1/customers/{customer_id}/orders</span></span>  | [<span data-ttu-id="0282c-149">取得所有客戶訂單</span><span class="sxs-lookup"><span data-stu-id="0282c-149">Get all customer orders</span></span>](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|<span data-ttu-id="0282c-150">{baseURL}/v1/customers/{customer_id}/orders/{order_id}</span><span class="sxs-lookup"><span data-stu-id="0282c-150">{baseURL}/v1/customers/{customer_id}/orders/{order_id}</span></span>  | [<span data-ttu-id="0282c-151">依識別碼取得供應項目</span><span class="sxs-lookup"><span data-stu-id="0282c-151">Get an order by ID</span></span>](/partner-center/develop/get-an-order-by-id) |
+|<span data-ttu-id="0282c-152">{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus</span><span class="sxs-lookup"><span data-stu-id="0282c-152">{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus</span></span>  | [<span data-ttu-id="0282c-153">取得訂用帳戶的佈建狀態</span><span class="sxs-lookup"><span data-stu-id="0282c-153">Get subscription provisioning status</span></span>](/partner-center/develop/get-subscription-provisioning-status) |
+|<span data-ttu-id="0282c-154">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span><span class="sxs-lookup"><span data-stu-id="0282c-154">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}</span></span>  | [<span data-ttu-id="0282c-155">管理訂單和管理訂用帳戶</span><span class="sxs-lookup"><span data-stu-id="0282c-155">Manage orders and manage a subscription</span></span>](/partner-center/develop/manage-orders#manage-a-subscription) |
+|<span data-ttu-id="0282c-156">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons</span><span class="sxs-lookup"><span data-stu-id="0282c-156">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons</span></span>  | [<span data-ttu-id="0282c-157">取得訂用帳戶的附加元件清單</span><span class="sxs-lookup"><span data-stu-id="0282c-157">Get a list of add-ons for a subscription</span></span>](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|<span data-ttu-id="0282c-158">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements</span><span class="sxs-lookup"><span data-stu-id="0282c-158">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements</span></span> | [<span data-ttu-id="0282c-159">取得訂用帳戶的 Azure 權利清單</span><span class="sxs-lookup"><span data-stu-id="0282c-159">Get a list of Azure entitlements for a subscription</span></span>](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|<span data-ttu-id="0282c-160">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus</span><span class="sxs-lookup"><span data-stu-id="0282c-160">{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus</span></span>  | [<span data-ttu-id="0282c-161">取得訂用帳戶的註冊狀態</span><span class="sxs-lookup"><span data-stu-id="0282c-161">Get subscription registration status</span></span>](/partner-center/develop/get-subscription-registration-status) |
+|<span data-ttu-id="0282c-162">{baseURL}/v1/customers/{customer-tenant-id}/transfers</span><span class="sxs-lookup"><span data-stu-id="0282c-162">{baseURL}/v1/customers/{customer-tenant-id}/transfers</span></span>  | [<span data-ttu-id="0282c-163">取得客戶的所有轉移</span><span class="sxs-lookup"><span data-stu-id="0282c-163">Get all of a customer's transfers</span></span>](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|<span data-ttu-id="0282c-164">{baseURL}/v1/productUpgrades/{upgrade-id}/status</span><span class="sxs-lookup"><span data-stu-id="0282c-164">{baseURL}/v1/productUpgrades/{upgrade-id}/status</span></span>  | [<span data-ttu-id="0282c-165">取得產品升級狀態</span><span class="sxs-lookup"><span data-stu-id="0282c-165">Get product upgrade status</span></span>](/partner-center/develop/get-product-upgrade-status) |
+|<span data-ttu-id="0282c-166">{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions</span><span class="sxs-lookup"><span data-stu-id="0282c-166">{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions</span></span>   | [<span data-ttu-id="0282c-167">取得試用版轉換方案的清單</span><span class="sxs-lookup"><span data-stu-id="0282c-167">Get a list of trial conversion offers</span></span>](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+<span data-ttu-id="0282c-168">我們強烈建議合作夥伴考慮使用活動記錄 API，以提高效率且避免節流。</span><span class="sxs-lookup"><span data-stu-id="0282c-168">We highly recommend that partners consider using the activity log API for more efficiency and to avoid throttling.</span></span><span data-ttu-id="0282c-169"> 如需這項功能的詳細資訊，請參閱 [這裡](/partner-center/develop/api-throttling-guidance)的詳細資訊。</span><span class="sxs-lookup"><span data-stu-id="0282c-169"> For more information on this feature, refer to the details [here](/partner-center/develop/api-throttling-guidance).</span></span>  
 
-   |<span data-ttu-id="a23d9-176">**供應項目名稱**</span><span class="sxs-lookup"><span data-stu-id="a23d9-176">**Offer name**</span></span>|<span data-ttu-id="a23d9-177">**優惠識別碼**</span><span class="sxs-lookup"><span data-stu-id="a23d9-177">**Offer ID**</span></span>|<span data-ttu-id="a23d9-178">**材質識別碼**</span><span class="sxs-lookup"><span data-stu-id="a23d9-178">**Material ID**</span></span>|
-   |-------------------|:------|:------|
-   |<span data-ttu-id="a23d9-179">Microsoft 365 E3</span><span class="sxs-lookup"><span data-stu-id="a23d9-179">Microsoft 365 E3</span></span>|<span data-ttu-id="a23d9-180">2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091</span><span class="sxs-lookup"><span data-stu-id="a23d9-180">2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091</span></span>|<span data-ttu-id="a23d9-181">AAA-35638</span><span class="sxs-lookup"><span data-stu-id="a23d9-181">AAA-35638</span></span>| 
-   |<span data-ttu-id="a23d9-182">Microsoft 365 商務基本版</span><span class="sxs-lookup"><span data-stu-id="a23d9-182">Microsoft 365 Business Basic</span></span>|<span data-ttu-id="a23d9-183">bd938f12-058f-4927-bba3-ae36b1d2501c</span><span class="sxs-lookup"><span data-stu-id="a23d9-183">bd938f12-058f-4927-bba3-ae36b1d2501c</span></span>|<span data-ttu-id="a23d9-184">AAA-10624</span><span class="sxs-lookup"><span data-stu-id="a23d9-184">AAA-10624</span></span>|
+### <a name="next-steps"></a><span data-ttu-id="0282c-170">後續步驟</span><span class="sxs-lookup"><span data-stu-id="0282c-170">Next steps</span></span>
 
-<span data-ttu-id="a23d9-185">受影響的貨幣：</span><span class="sxs-lookup"><span data-stu-id="a23d9-185">Currencies impacted:</span></span> 
-
-- <span data-ttu-id="a23d9-186">Microsoft 365 E3 定價問題僅限於下列貨幣：JPY (日元)、GBP (英鎊)、歐元 (歐盟)、AUD (澳幣)。</span><span class="sxs-lookup"><span data-stu-id="a23d9-186">Microsoft 365 E3 price issues were limited to only these currencies: JPY (Japanese Yen), GBP (Great British Pound), EUR (European Union), AUD (Australian Dollar).</span></span> 
-- <span data-ttu-id="a23d9-187">Microsoft 365 商務版基本問題僅限於 USD (美元)。</span><span class="sxs-lookup"><span data-stu-id="a23d9-187">Microsoft 365 Business Basic issues were limited to only USD (United States Dollars).</span></span> 
-
-<span data-ttu-id="a23d9-188">合作夥伴應參考目前可用的 1 月和 2 月預覽價目表，以取得正確的定價。</span><span class="sxs-lookup"><span data-stu-id="a23d9-188">Partners should reference the currently available January and February preview price lists for the correct prices.</span></span> 
-
-### <a name="next-steps"></a><span data-ttu-id="a23d9-189">後續步驟</span><span class="sxs-lookup"><span data-stu-id="a23d9-189">Next steps</span></span>
-
-- <span data-ttu-id="a23d9-190">合作夥伴應從合作夥伴中心下載最新的價目表檔案，以取得已更正的 1 月和 2 月定價。</span><span class="sxs-lookup"><span data-stu-id="a23d9-190">Partners should download the latest price list files from the Partner Center to get the corrected January and February prices.</span></span> 
-- <span data-ttu-id="a23d9-191">如果受影響租用戶的全域管理員在 1 月 1 日到 1 月 6 日之間購買了訂用帳戶，他們將會在 1 月底前收到合作夥伴中心的電子郵件通知，其中會提供更多詳細資料。</span><span class="sxs-lookup"><span data-stu-id="a23d9-191">Global administrators for impacted tenants who have purchased subscriptions between January 1 and January 6 will be notified via a Partner Center email before the end of January with more details.</span></span> 
-
-_____________ 
-
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> <span data-ttu-id="a23d9-192">合作夥伴計費貨幣的 EU/EFTA 變更 (適用於新商業供應項目)</span><span class="sxs-lookup"><span data-stu-id="a23d9-192">EU/EFTA Change of Partner Billing Currency for new commerce offers</span></span>
-
-### <a name="categories"></a><span data-ttu-id="a23d9-193">類別</span><span class="sxs-lookup"><span data-stu-id="a23d9-193">Categories</span></span>
-
-- <span data-ttu-id="a23d9-194">日期：2021-01-07</span><span class="sxs-lookup"><span data-stu-id="a23d9-194">Date: 2021-01-07</span></span>
-- <span data-ttu-id="a23d9-195">功能</span><span class="sxs-lookup"><span data-stu-id="a23d9-195">Capabilities</span></span>
-
-### <a name="impacted-audience"></a><span data-ttu-id="a23d9-196">影響對象</span><span class="sxs-lookup"><span data-stu-id="a23d9-196">Impacted audience</span></span>
-
-- <span data-ttu-id="a23d9-197">EU/EFTA 地區中透過雲端解決方案提供者計畫進行交易的所有合作夥伴</span><span class="sxs-lookup"><span data-stu-id="a23d9-197">All Partners transacting through the Cloud Solution Provider program in the EU/EFTA region</span></span> 
-
-### <a name="details"></a><span data-ttu-id="a23d9-198">詳細資料</span><span class="sxs-lookup"><span data-stu-id="a23d9-198">Details</span></span>
-
-<span data-ttu-id="a23d9-199">在歐盟 (EU)/歐洲自由貿易聯盟 (EFTA) 地區中，雲端解決方案提供者計畫中所有新的商業供應項目都將使用合作夥伴計費位置，而不是客戶計費位置。</span><span class="sxs-lookup"><span data-stu-id="a23d9-199">In the European Union (EU)/European Free Trade Association (EFTA) region, all new commerce offers in the Cloud Solution Provider program will use partner billing location instead of customer billing location.</span></span> <span data-ttu-id="a23d9-200">因此，Microsoft 將依據合作夥伴所在位置的貨幣 (而非其客戶所在位置的貨幣) 對合作夥伴計費。</span><span class="sxs-lookup"><span data-stu-id="a23d9-200">As such, partners will be billed by Microsoft based on their location currency, not their customers' location currency.</span></span> <span data-ttu-id="a23d9-201">這些變更會分兩個階段完成：</span><span class="sxs-lookup"><span data-stu-id="a23d9-201">These changes will be done in two phases:</span></span>
-
-<span data-ttu-id="a23d9-202">**階段 1：**</span><span class="sxs-lookup"><span data-stu-id="a23d9-202">**Phase 1:**</span></span>
-
-- <span data-ttu-id="a23d9-203">在 CSP 中購買新商業供應項目的新客戶</span><span class="sxs-lookup"><span data-stu-id="a23d9-203">New customer purchasing a new commerce offer in CSP</span></span>
-
-- <span data-ttu-id="a23d9-204">現有客戶第一次購買新的商業供應項目 - 在 2020 年 5 月 11 日之前建立的租用戶</span><span class="sxs-lookup"><span data-stu-id="a23d9-204">Existing customers first-time purchase of new commerce offers - Tenant created prior to 11 May 2020</span></span>
-
-<span data-ttu-id="a23d9-205">從 2021 年 1 月 28 日開始，若合作夥伴有全新客戶購買新的商業供應項目，或在 2020 年 5 月 11 日之前建立租用戶的現有客戶首次購買新的商業供應項目，將會以合作夥伴所在位置的貨幣向這些購買計費。</span><span class="sxs-lookup"><span data-stu-id="a23d9-205">Starting January 28, 2021, partners who have net new customers purchasing a new commerce offer, or existing customers with tenants created before May 11, 2020 making their first-time purchase of new commerce offers, will be billed for those purchases in partner location currency.</span></span>  
-
-<span data-ttu-id="a23d9-206">有現有客戶已在 CSP 中購買新商業供應項目的合作夥伴，在此階段將繼續以客戶計費位置的貨幣計費。</span><span class="sxs-lookup"><span data-stu-id="a23d9-206">Partners with existing customers who have already purchased new commerce offers in CSP will continue to be billed in the currency of the customer’s billing location during this phase.</span></span> <span data-ttu-id="a23d9-207">此外，若合作夥伴的現有客戶首次購買新的商業供應項目，但其租用戶是在 2020 年 5 月 11 日當天或之後建立，則會繼續以客戶的貨幣來計費。</span><span class="sxs-lookup"><span data-stu-id="a23d9-207">In addition, partners with existing customers making a first-time purchase of a new commerce offer, whose tenants were created on or after 11 May 2020, will continue to be billed in the customer’s currency.</span></span>
-
-<span data-ttu-id="a23d9-208">**階段 2：**</span><span class="sxs-lookup"><span data-stu-id="a23d9-208">**Phase 2:**</span></span>
-
-- <span data-ttu-id="a23d9-209">在階段 1 之前，已在 CSP 中購買新商業供應項目的現有客戶</span><span class="sxs-lookup"><span data-stu-id="a23d9-209">Existing customers who have already purchased a new commerce offer in CSP prior to Phase 1</span></span>
-- <span data-ttu-id="a23d9-210">現有客戶第一次購買新的商業供應項目 - 在 2020 年 5 月 11 日當天或之後建立的租用戶</span><span class="sxs-lookup"><span data-stu-id="a23d9-210">Existing customers first-time purchase of new commerce offers - Tenant created on or after 11 May 2020</span></span>
-
-<span data-ttu-id="a23d9-211">在階段 1 之後及日曆年度 2021 年期間，若有合作夥伴的現有客戶在階段 1 之前於 CSP 中購買了新商業供應項目，以及其客戶是在 2020 年 5 月 11 日當天或之後建立租用戶的，則 Microsoft 會將這些合作夥伴的新商業供應項目的計費從客戶所在位置的貨幣轉換為合作夥伴所在位置的貨幣。</span><span class="sxs-lookup"><span data-stu-id="a23d9-211">Following Phase 1 and during calendar year 2021, Microsoft will transition the billing of new commerce offers for partners with existing customers, who have purchased a new commerce offer in CSP prior to Phase 1, as well as customers that had their tenants created on or after May 11, 2020, from customer location currency to partner location currency.</span></span> <span data-ttu-id="a23d9-212">在實作這項變更之前，合作夥伴會先收到通知。</span><span class="sxs-lookup"><span data-stu-id="a23d9-212">Partners will be notified well in advance before this change is implemented.</span></span>
-
-<span data-ttu-id="a23d9-213">在第 2 階段之後，EU/EFTA 區域中的合作夥伴將以合作夥伴所在位置貨幣來對所有客戶和所有 CSP 購買計費。</span><span class="sxs-lookup"><span data-stu-id="a23d9-213">After Phase 2, partners in the EU/EFTA region will be billed in partner location currency for all customers and all CSP purchases.</span></span>
-
->[!NOTE]
-><span data-ttu-id="a23d9-214">這項變更只會影響合作夥伴的計費貨幣，而不會影響 CSP 中新商業供應項目的定價。</span><span class="sxs-lookup"><span data-stu-id="a23d9-214">This change will only impact partner billing currency and not the pricing of new commerce offers in CSP.</span></span> <span data-ttu-id="a23d9-215">這項變更涵蓋的新商業供應項目包括：雲端解決方案提供者計畫中屬於 Azure 方案、Azure 保留、伺服器訂閱、永久軟體和 Microsoft 商業市集購買的 Azure 訂閱。</span><span class="sxs-lookup"><span data-stu-id="a23d9-215">The new commerce offers in scope for this change are: Azure subscriptions that are part of an Azure plan, Azure reservations, server subscriptions, perpetual software, and Microsoft commercial marketplace purchases in the Cloud Solution Provider program.</span></span>
-
-
-### <a name="partner-benefits"></a><span data-ttu-id="a23d9-216">合作夥伴權益</span><span class="sxs-lookup"><span data-stu-id="a23d9-216">Partner benefits</span></span>
-
-<span data-ttu-id="a23d9-217">這項更新可降低 EU/EFTA 地區的多幣別發票所產生的複雜性和額外負荷，以提供新的商業體驗。</span><span class="sxs-lookup"><span data-stu-id="a23d9-217">This update will reduce the complexity and overhead with multi-currency invoicing in the EU/EFTA region for the new commerce experience.</span></span>
-
-- <span data-ttu-id="a23d9-218">合作夥伴將收到採用單一貨幣的合併發票，而不會再收到個別客戶所在地貨幣的發票</span><span class="sxs-lookup"><span data-stu-id="a23d9-218">Partners will receive a consolidated invoice in a single currency and will no longer receive an invoice for each customer location currency</span></span>
-- <span data-ttu-id="a23d9-219">獎勵給付將採用與合作夥伴的發票貨幣相同的貨幣</span><span class="sxs-lookup"><span data-stu-id="a23d9-219">Incentive payouts will be in the same currency as the partner’s invoice currency</span></span>
-- <span data-ttu-id="a23d9-220">合作夥伴會發現多幣別發票所導致的計費複雜性不復存在，而能夠省下現行與對帳有關的時間和資源</span><span class="sxs-lookup"><span data-stu-id="a23d9-220">Partners will notice reduced billing complexity caused by multi-currency invoicing, which will free up time and resources currently associated with reconciling accounts</span></span>
-- <span data-ttu-id="a23d9-221">對於尚未採用新商業供應項目的合作夥伴，這項變更與先前的合作夥伴計費模型保持一致，讓合作夥伴能更輕鬆地轉換至 CSP 的新商業體驗</span><span class="sxs-lookup"><span data-stu-id="a23d9-221">For partners who have not yet adopted new commerce offers, this change aligns with the previous partner billing model, enabling partners to more easily transition to the new commerce experience in CSP</span></span>
-
-### <a name="next-steps"></a><span data-ttu-id="a23d9-222">後續步驟</span><span class="sxs-lookup"><span data-stu-id="a23d9-222">Next steps</span></span>
-
-<span data-ttu-id="a23d9-223">請在 Microsoft 合作夥伴網站上的[作業資源庫](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (需要登入) 中參閱本主題的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="a23d9-223">Review the information about this topic in the [Operations Gallery](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (sign-in required) on the Microsoft partner website.</span></span>  
-
-### <a name="questions"></a><span data-ttu-id="a23d9-224">有問題嗎？</span><span class="sxs-lookup"><span data-stu-id="a23d9-224">Questions?</span></span>
-
-<span data-ttu-id="a23d9-225">如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (需要登入)。</span><span class="sxs-lookup"><span data-stu-id="a23d9-225">For any questions related to this notification contact [Partner Center support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (sign-in required).</span></span>
-
-### <a name="change-log"></a><span data-ttu-id="a23d9-226">變更記錄</span><span class="sxs-lookup"><span data-stu-id="a23d9-226">Change log</span></span>
-
-- <span data-ttu-id="a23d9-227">2020 年 11 月 17 日：原始發行</span><span class="sxs-lookup"><span data-stu-id="a23d9-227">November 17, 2020: Original publication</span></span>
-- <span data-ttu-id="a23d9-228">2021 年 1 月 7 日：階段 1 和階段 2 中包含的其他案例</span><span class="sxs-lookup"><span data-stu-id="a23d9-228">January 7, 2021: Additional scenario included for Phase 1 and Phase 2</span></span>
-
-
-________________
-## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a><span data-ttu-id="a23d9-229">2021 年 2 月底時，教育客戶驗證程序的現有 GET 和 PUT 限定性條件 API 將會過時並遭到淘汰</span><span class="sxs-lookup"><span data-stu-id="a23d9-229">Deprecation and retirement of existing GET and PUT Qualification APIs for the Education customer validation process by the end of February 2021</span></span>
-
-### <a name="impacted-audience"></a><span data-ttu-id="a23d9-230">影響對象</span><span class="sxs-lookup"><span data-stu-id="a23d9-230">Impacted audience</span></span>
-
-<span data-ttu-id="a23d9-231">使用合作夥伴中心 API 透過雲端解決方案提供者計畫銷售學術供應項目的合作夥伴</span><span class="sxs-lookup"><span data-stu-id="a23d9-231">Partners selling Academic offers through the Cloud Solution Provider program using the Partner Center API</span></span>
-
-### <a name="details"></a><span data-ttu-id="a23d9-232">詳細資料</span><span class="sxs-lookup"><span data-stu-id="a23d9-232">Details</span></span> 
-
-<span data-ttu-id="a23d9-233">這是 2020 年 12 月所發行 API 增強功能的後續事宜。</span><span class="sxs-lookup"><span data-stu-id="a23d9-233">This is a follow-up to the API enhancements released in December 2020.</span></span> <span data-ttu-id="a23d9-234">2020 年 12 月時發行了新的 GET 和 POST 限定性條件 API，因此舊的 GET 和 PUT 限定性條件 API 將於 2021 年 2 月底時遭到淘汰。</span><span class="sxs-lookup"><span data-stu-id="a23d9-234">In December 2020 new GET and POST Qualifications APIs were released, and as a result the old GET and PUT Qualification APIs will be retired by the end of February 2021.</span></span> <span data-ttu-id="a23d9-235">屆時，您必須使用新的 GET 和 POST 合作夥伴中心 API，才能夠購買教育版供應項目。</span><span class="sxs-lookup"><span data-stu-id="a23d9-235">At that time, you will need to use the new GET and POST Partner Center APIs in order to be able to purchase Education offers.</span></span> 
-
-### <a name="next-steps"></a><span data-ttu-id="a23d9-236">後續步驟</span><span class="sxs-lookup"><span data-stu-id="a23d9-236">Next steps</span></span>
-
-- <span data-ttu-id="a23d9-237">如果您還沒有這麼做，請更新為新的 API，以便成功且即時地完成轉換。</span><span class="sxs-lookup"><span data-stu-id="a23d9-237">If you haven't already done so, update to the new APIs for a successful and timely transition.</span></span>
-- <span data-ttu-id="a23d9-238">檢閱新的合作夥伴中心 API 變更，以及[作業整備資源中的指南：合作夥伴中心教育客戶驗證程序增強功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)。</span><span class="sxs-lookup"><span data-stu-id="a23d9-238">Review the new Partner Center API changes, and [Guide in the Operations Readiness resources:  Partner Center Education customer validation process enhancements](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).</span></span>
-- <span data-ttu-id="a23d9-239">請與組織中的適當小組以及轉銷商分享這項資訊，協助他們為這些變更做好準備。</span><span class="sxs-lookup"><span data-stu-id="a23d9-239">Share this information with the appropriate teams in your organization, and with your resellers, to help them prepare for these changes.</span></span>
+<span data-ttu-id="0282c-171">請檢閱本主題的 [資源](/partner-center/develop/api-throttling-guidance) ，並採取必要的步驟。</span><span class="sxs-lookup"><span data-stu-id="0282c-171">Review the [resources](/partner-center/develop/api-throttling-guidance) for this topic and take the necessary steps.</span></span>  
 
 _____________
 
-## <a name="dynamics-365-offers-for-february-2021"></a><a name="1"></a><span data-ttu-id="a23d9-240">2021 年 2 月的 Dynamics 365 供應項目</span><span class="sxs-lookup"><span data-stu-id="a23d9-240">Dynamics 365 offers for February 2021</span></span>
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a><span data-ttu-id="0282c-172">2021 年 2 月 1 日即將推出安全性、合規性和身分識別 (SCI)</span><span class="sxs-lookup"><span data-stu-id="0282c-172">Security, Compliance, and Identity (SCI) launches coming on February 1, 2021</span></span> 
 
-### <a name="categories"></a><span data-ttu-id="a23d9-241">類別</span><span class="sxs-lookup"><span data-stu-id="a23d9-241">Categories</span></span>
+### <a name="categories"></a><span data-ttu-id="0282c-173">類別</span><span class="sxs-lookup"><span data-stu-id="0282c-173">Categories</span></span>
 
-- <span data-ttu-id="a23d9-242">日期：2021-01-04</span><span class="sxs-lookup"><span data-stu-id="a23d9-242">Date: 2021-01-04</span></span>
-- <span data-ttu-id="a23d9-243">供應項目</span><span class="sxs-lookup"><span data-stu-id="a23d9-243">Offers</span></span>
+- <span data-ttu-id="0282c-174">日期：2021-01-15</span><span class="sxs-lookup"><span data-stu-id="0282c-174">Date: 2021-01-15</span></span>
+- <span data-ttu-id="0282c-175">供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="0282c-175">Offers/Markets</span></span>
 
-### <a name="summary"></a><span data-ttu-id="a23d9-244">[摘要]</span><span class="sxs-lookup"><span data-stu-id="a23d9-244">Summary</span></span>
+### <a name="summary"></a><span data-ttu-id="0282c-176">摘要</span><span class="sxs-lookup"><span data-stu-id="0282c-176">Summary</span></span>
 
-<span data-ttu-id="a23d9-245">新的 Dynamics 365 供應項目變更將於 2021 年 2 月啟動。</span><span class="sxs-lookup"><span data-stu-id="a23d9-245">New Dynamics 365 offer changes will be launched in February 2021.</span></span>
+<span data-ttu-id="0282c-177">有幾項 Microsoft 365 推出將會包含在 1 月份的價目表預覽中，並將於 2021 年 2 月 1 日起提供。</span><span class="sxs-lookup"><span data-stu-id="0282c-177">Several Microsoft 365 launches will be included in the price list preview in January and will be available from February 1, 2021.</span></span>
 
-### <a name="impacted-audience"></a><span data-ttu-id="a23d9-246">影響對象</span><span class="sxs-lookup"><span data-stu-id="a23d9-246">Impacted audience</span></span>
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-178">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-178">Impacted audience</span></span>
 
-<span data-ttu-id="a23d9-247">參與雲端解決方案提供者 (CSP) 直接計費合作夥伴、間接提供者和間接轉售商獎勵計畫的合作夥伴</span><span class="sxs-lookup"><span data-stu-id="a23d9-247">Partners participating in the Cloud Solution Provider (CSP) direct bill partner, indirect provider, and indirect reseller incentive programs</span></span>
+<span data-ttu-id="0282c-179">透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴</span><span class="sxs-lookup"><span data-stu-id="0282c-179">All partners transacting through the Cloud Solution Provider (CSP) program</span></span>
 
-### <a name="details"></a><span data-ttu-id="a23d9-248">詳細資料</span><span class="sxs-lookup"><span data-stu-id="a23d9-248">Details</span></span>
+### <a name="details"></a><span data-ttu-id="0282c-180">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-180">Details</span></span>
 
-<span data-ttu-id="a23d9-249">Microsoft 宣佈即將推出新的 Dynamics 365 供應項目變更，且將於 2021 年 2 月啟動：</span><span class="sxs-lookup"><span data-stu-id="a23d9-249">Microsoft is announcing upcoming new Dynamics 365 offer changes that will be launched in February 2021 for:</span></span>
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[<span data-ttu-id="0282c-181">適用於政府的 Microsoft 365 G5 合規性元件 SKU</span><span class="sxs-lookup"><span data-stu-id="0282c-181">Microsoft 365 G5 compliance component SKUs for government</span></span>](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
-- <span data-ttu-id="a23d9-250">Dynamics 365 Customer Voice 額外回應</span><span class="sxs-lookup"><span data-stu-id="a23d9-250">Dynamics 365 Customer Voice Additional Response</span></span>
-- <span data-ttu-id="a23d9-251">Dynamics 365 Customer Service Insights 停止提供服務</span><span class="sxs-lookup"><span data-stu-id="a23d9-251">Dynamics 365 Customer Service Insights End of Life</span></span>
-- <span data-ttu-id="a23d9-252">Dynamics 365 Cloud AX Migration 供應項目識別碼變更</span><span class="sxs-lookup"><span data-stu-id="a23d9-252">Dynamics 365 Cloud AX Migration Offer IDs change</span></span>
+<span data-ttu-id="0282c-182">我們將針對政府社群雲端 (GCC) 和 GCC High 客戶推出三個新的元件供應項目，這將於 2021 年 2 月 1 日起提供。</span><span class="sxs-lookup"><span data-stu-id="0282c-182">We will be launching three new component offerings for Government Community Cloud (GCC) and GCC High customers, which will be available starting February 1, 2021.</span></span> <span data-ttu-id="0282c-183">這些 SKU 等同於目前可供商業客戶使用的 Microsoft 365 E5 資訊保護與控管、M365 E5 Insider 風險管理，以及 Microsoft 365 E5 電子文件探索與稽核。</span><span class="sxs-lookup"><span data-stu-id="0282c-183">These SKUs will be the equivalent to Microsoft 365 E5 Information Protection and Governance, M365 E5 Insider Risk Management, and Microsoft 365 E5 eDiscovery & Audit which are currently available in Commercial.</span></span> 
 
-<span data-ttu-id="a23d9-253">**Dynamics 365 Customer Voice 額外回應**</span><span class="sxs-lookup"><span data-stu-id="a23d9-253">**Dynamics 365 Customer Voice Additional Response**</span></span>
+   |<span data-ttu-id="0282c-184">**供應項目名稱**</span><span class="sxs-lookup"><span data-stu-id="0282c-184">**Offer name**</span></span>|<span data-ttu-id="0282c-185">**優惠識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-185">**Offer ID**</span></span>|<span data-ttu-id="0282c-186">**材質識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-186">**Material ID**</span></span>|
+   |-------------------|:------|:------|
+   |<span data-ttu-id="0282c-187">適用於 GCC 的 Microsoft 365 E5 資訊保護與控管</span><span class="sxs-lookup"><span data-stu-id="0282c-187">Microsoft 365 E5 Information Protection and Governance for GCC</span></span>|<span data-ttu-id="0282c-188">9e5397ab-f309-4d90-97f3-6fb5d53074d6</span><span class="sxs-lookup"><span data-stu-id="0282c-188">9e5397ab-f309-4d90-97f3-6fb5d53074d6</span></span>|<span data-ttu-id="0282c-189">8QL-00002</span><span class="sxs-lookup"><span data-stu-id="0282c-189">8QL-00002</span></span>|
+   |<span data-ttu-id="0282c-190">適用於 GCC 的 Microsoft 365 E5 電子文件探索與稽核</span><span class="sxs-lookup"><span data-stu-id="0282c-190">Microsoft 365 E5 eDiscovery and Audit for GCC</span></span>|<span data-ttu-id="0282c-191">5c9ef884-6307-47e7-a914-f5092feae51e</span><span class="sxs-lookup"><span data-stu-id="0282c-191">5c9ef884-6307-47e7-a914-f5092feae51e</span></span>|<span data-ttu-id="0282c-192">8RI-00002</span><span class="sxs-lookup"><span data-stu-id="0282c-192">8RI-00002</span></span>|
+   |<span data-ttu-id="0282c-193">適用於 GCC 的 Microsoft 365 E5 內部風險管理</span><span class="sxs-lookup"><span data-stu-id="0282c-193">Microsoft 365 E5 Insider Risk Management for GCC</span></span>|<span data-ttu-id="0282c-194">11ccfdb3-80cb-4c80-8146-c9775045df17</span><span class="sxs-lookup"><span data-stu-id="0282c-194">11ccfdb3-80cb-4c80-8146-c9775045df17</span></span>|<span data-ttu-id="0282c-195">8RF-00002</span><span class="sxs-lookup"><span data-stu-id="0282c-195">8RF-00002</span></span>|
+   |<span data-ttu-id="0282c-196">適用於 GCC 的 Microsoft 365 E5 資訊保護與 DLP (附加元件)</span><span class="sxs-lookup"><span data-stu-id="0282c-196">Microsoft 365 E5 Information Protection and DLP (add-on) for GCC</span></span>|<span data-ttu-id="0282c-197">911d3177-53a9-42ec-a0e9-3b73fce527f0</span><span class="sxs-lookup"><span data-stu-id="0282c-197">911d3177-53a9-42ec-a0e9-3b73fce527f0</span></span>|<span data-ttu-id="0282c-198">8QY-00002</span><span class="sxs-lookup"><span data-stu-id="0282c-198">8QY-00002</span></span>|
 
-<span data-ttu-id="a23d9-254">在 2021 年 2 月 1 日，Microsoft 將會建立新的「額外回應」供應項目 (具有 1000 個回應權利)，以取代現有供應項目 (具有 2000 個調查回應)，後者的銷售截止日為 2021 年 2 月 1 日。</span><span class="sxs-lookup"><span data-stu-id="a23d9-254">On February 1, 2021, Microsoft will create a new "Additional Response" offer with 1-K response entitlement to replace the existing offer with 2-K Survey Responses, the end of sale of which will be on February 1, 2021.</span></span>
+#### <a name="10-year-audit-log-retention-add-on"></a>[<span data-ttu-id="0282c-199">10 年稽核記錄保留附加元件</span><span class="sxs-lookup"><span data-stu-id="0282c-199">10-Year Audit Log Retention add-on</span></span>](/microsoft-365/compliance/)
 
-<span data-ttu-id="a23d9-255">如需 SKU 詳細資料，請參閱 [Dynamics CSP Offers-February 2021 Excel 文件](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)中的 [Customer Voice Addl Resp] 索引標籤。</span><span class="sxs-lookup"><span data-stu-id="a23d9-255">See the "Customer Voice Addl Resp" tab in the [Dynamics CSP Offers-February 2021 Excel document](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) for the SKU details.</span></span> <span data-ttu-id="a23d9-256">如需詳細資訊，請檢視 [Microsoft Dynamics 365 Customer Voice 首頁](https://dynamics.microsoft.com/en-us/customer-voice/overview/)。</span><span class="sxs-lookup"><span data-stu-id="a23d9-256">View the [Microsoft Dynamics 365 Customer Voice Home Page](https://dynamics.microsoft.com/en-us/customer-voice/overview/) for more information.</span></span>
+<span data-ttu-id="0282c-200">Microsoft 365 E5 必要條件隨附的附加元件可讓客戶將其資料保留 10 年。</span><span class="sxs-lookup"><span data-stu-id="0282c-200">An add-on available with a prerequisite of Microsoft 365 E5 will enable customers to hold their data for 10 years.</span></span> 
 
-<span data-ttu-id="a23d9-257">**Dynamics 365 Customer Service Insights 停止提供服務**</span><span class="sxs-lookup"><span data-stu-id="a23d9-257">**Dynamics 365 Customer Service Insights End of Life**</span></span>
+   |<span data-ttu-id="0282c-201">**供應項目名稱**</span><span class="sxs-lookup"><span data-stu-id="0282c-201">**Offer name**</span></span>|<span data-ttu-id="0282c-202">**優惠識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-202">**Offer ID**</span></span>|<span data-ttu-id="0282c-203">**材質識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-203">**Material ID**</span></span>|
+   |-------------------|:------|:------|
+   |<span data-ttu-id="0282c-204">適用於 EDU 的 10 年稽核記錄保留附加元件</span><span class="sxs-lookup"><span data-stu-id="0282c-204">10-Year Audit Log Retention Add On for EDU</span></span>|<span data-ttu-id="0282c-205">879b5e1a-eaa2-4ea9-a628-0b429b2e8732</span><span class="sxs-lookup"><span data-stu-id="0282c-205">879b5e1a-eaa2-4ea9-a628-0b429b2e8732</span></span>|<span data-ttu-id="0282c-206">8LC-00002</span><span class="sxs-lookup"><span data-stu-id="0282c-206">8LC-00002</span></span>|
+   |<span data-ttu-id="0282c-207">10 年稽核記錄保留附加元件</span><span class="sxs-lookup"><span data-stu-id="0282c-207">10-Year Audit Log Retention Add On</span></span>|<span data-ttu-id="0282c-208">e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4</span><span class="sxs-lookup"><span data-stu-id="0282c-208">e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4</span></span>|<span data-ttu-id="0282c-209">8LB-00003</span><span class="sxs-lookup"><span data-stu-id="0282c-209">8LB-00003</span></span>|
+   
+#### <a name="frontline-worker-add-ons"></a><span data-ttu-id="0282c-210">前線員工附加元件</span><span class="sxs-lookup"><span data-stu-id="0282c-210">Frontline Worker add-ons</span></span>
 
-<span data-ttu-id="a23d9-258">在 2021 年 2 月 1 日，下列產品將會變更為停止提供服務：</span><span class="sxs-lookup"><span data-stu-id="a23d9-258">On February 1, 2021, the following products will be changed to end-of-life:</span></span>
+<span data-ttu-id="0282c-211">從 2021 年 2 月 1 日起，客戶可為前線員工購買三種新的安全性與合規性程式設計供應項目，作為 [Microsoft 365 F1 和 F3 SKU](https://www.microsoft.com/microsoft-365/firstline-workers) 的附加元件。</span><span class="sxs-lookup"><span data-stu-id="0282c-211">From February 1, 2021, customers can purchase three new Security and Compliance programmatic offers for frontline workers as add-ons to the [Microsoft 365 F1 and F3 SKUs](https://www.microsoft.com/microsoft-365/firstline-workers).</span></span>
 
-- <span data-ttu-id="a23d9-259">Dynamics 365 Customer Service Insights (包括「其他案例」)</span><span class="sxs-lookup"><span data-stu-id="a23d9-259">Dynamics 365 Customer Service Insights (including "Additional Cases")</span></span>
-- <span data-ttu-id="a23d9-260">Dynamics 365 Virtual Agent for Customer Service</span><span class="sxs-lookup"><span data-stu-id="a23d9-260">Dynamics 365 Virtual Agent for Customer Service</span></span>
+<span data-ttu-id="0282c-212">這些程式設計供應項目將會取代目前的 [安全性與合規性](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx)促銷，這會在 **2021 年 2 月 28 日** 到期。</span><span class="sxs-lookup"><span data-stu-id="0282c-212">These programmatic offers will replace the current [Security and Compliance](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) promotion which is expiring on **February 28, 2021**.</span></span> <span data-ttu-id="0282c-213">不同於目前的促銷，F5 附加元件可讓客戶隨著其前線員工的成長獲得更高的可預測性。</span><span class="sxs-lookup"><span data-stu-id="0282c-213">Unlike the current promotion, the F5 add-ons give customers more predictability for forecasting as their frontline workforce grows.</span></span>
 
-<span data-ttu-id="a23d9-261">「Customer Service Insights」獨立體驗將會移至「Dynamics 365 Customer Service」，客戶可以在其中找到深藏在客戶服務體驗內的相同功能。</span><span class="sxs-lookup"><span data-stu-id="a23d9-261">The "Customer Service Insights" standalone experience is moving into "Dynamics 365 Customer Service", where customers can find the same capabilities deeply embedded in the customer service experiences.</span></span>  
+   
+   |<span data-ttu-id="0282c-214">**供應項目名稱**</span><span class="sxs-lookup"><span data-stu-id="0282c-214">**Offer name**</span></span>|<span data-ttu-id="0282c-215">**優惠識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-215">**Offer ID**</span></span>|<span data-ttu-id="0282c-216">**材質識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-216">**Material ID**</span></span>|
+   |-------------------|:------|:------|
+   |<span data-ttu-id="0282c-217">Microsoft 365 F5 安全性</span><span class="sxs-lookup"><span data-stu-id="0282c-217">Microsoft 365 F5 Security</span></span>|<span data-ttu-id="0282c-218">a8fba59e-1fc2-4658-8684-5f3d0c71c490</span><span class="sxs-lookup"><span data-stu-id="0282c-218">a8fba59e-1fc2-4658-8684-5f3d0c71c490</span></span>|<span data-ttu-id="0282c-219">8RQ-00003</span><span class="sxs-lookup"><span data-stu-id="0282c-219">8RQ-00003</span></span>|
+   |<span data-ttu-id="0282c-220">Microsoft 365 F5 合規性</span><span class="sxs-lookup"><span data-stu-id="0282c-220">Microsoft 365 F5 Compliance</span></span>|<span data-ttu-id="0282c-221">6dc6cb1d-7bcb-4234-80cc-9c7a9cded044</span><span class="sxs-lookup"><span data-stu-id="0282c-221">6dc6cb1d-7bcb-4234-80cc-9c7a9cded044</span></span>|<span data-ttu-id="0282c-222">8RL-00003</span><span class="sxs-lookup"><span data-stu-id="0282c-222">8RL-00003</span></span>|
+   |<span data-ttu-id="0282c-223">Microsoft 365 F5 安全性與合規性</span><span class="sxs-lookup"><span data-stu-id="0282c-223">Microsoft 365 F5 Security & Compliance</span></span>|<span data-ttu-id="0282c-224">ad396924-ee4e-4059-b779-efe43dfa24d2</span><span class="sxs-lookup"><span data-stu-id="0282c-224">ad396924-ee4e-4059-b779-efe43dfa24d2</span></span>|<span data-ttu-id="0282c-225">8RU-00003</span><span class="sxs-lookup"><span data-stu-id="0282c-225">8RU-00003</span></span>|
+   
+### <a name="next-steps"></a><span data-ttu-id="0282c-226">後續步驟</span><span class="sxs-lookup"><span data-stu-id="0282c-226">Next steps</span></span>
 
-<span data-ttu-id="a23d9-262">如需 SKU 詳細資料，請參閱 [Dynamics CSP Offers-February 2021 Excel 文件](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)中的 [Customer Service Insights] 索引標籤。</span><span class="sxs-lookup"><span data-stu-id="a23d9-262">See the "Customer Service Insights" tab in the [Dynamics CSP Offers-February 2021 Excel document](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) for the SKU details.</span></span> <span data-ttu-id="a23d9-263">如需詳細資訊，請造訪 [Microsoft Dynamics Customer Service 首頁](https://dynamics.microsoft.com/customer-service/overview/)。</span><span class="sxs-lookup"><span data-stu-id="a23d9-263">Visit the [Microsoft Dynamics Customer Service Home Page](https://dynamics.microsoft.com/customer-service/overview/) for more information.</span></span>
+<span data-ttu-id="0282c-227">檢閱價目表預覽，並與您組織中的適當利害關係人分享。</span><span class="sxs-lookup"><span data-stu-id="0282c-227">Review the price list preview and share with the appropriate stakeholders in your organization.</span></span> <span data-ttu-id="0282c-228">如需詳細資訊，請移至 [Microsoft 安全性與合規性 - Microsoft 技術社群](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance)。</span><span class="sxs-lookup"><span data-stu-id="0282c-228">For more information, go to [Microsoft Security and Compliance - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance).</span></span>
 
-<span data-ttu-id="a23d9-264">**Dynamics 365 Cloud AX Migration 供應項目識別碼**</span><span class="sxs-lookup"><span data-stu-id="a23d9-264">**Dynamics 365 Cloud AX migration offer IDs**</span></span>
+### <a name="questions"></a><span data-ttu-id="0282c-229">有問題嗎？</span><span class="sxs-lookup"><span data-stu-id="0282c-229">Questions?</span></span>
 
-<span data-ttu-id="a23d9-265">這些 SKU 已從 2021 年 1 月 1 日的最終價目表中移除，目前無法訂購。</span><span class="sxs-lookup"><span data-stu-id="a23d9-265">These SKUs have been removed from the January 1, 2021 final price list and will not be available to order at this time.</span></span> 
+<span data-ttu-id="0282c-230">如有關於這些供應項目的進一步問題，請洽詢相關的 Yammer 社群。</span><span class="sxs-lookup"><span data-stu-id="0282c-230">For any further questions about these offers, check your relevant Yammer communities.</span></span> 
 
-   |<span data-ttu-id="a23d9-266">**供應項目名稱**</span><span class="sxs-lookup"><span data-stu-id="a23d9-266">**Offer name**</span></span>|<span data-ttu-id="a23d9-267">**優惠識別碼**</span><span class="sxs-lookup"><span data-stu-id="a23d9-267">**Offer ID**</span></span>|
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a><span data-ttu-id="0282c-231">Microsoft 合作夥伴合約 (MPA) 下的合作夥伴從 DocuSign 遷移至 Adobe Sign</span><span class="sxs-lookup"><span data-stu-id="0282c-231">DocuSign migration to Adobe Sign for partners under Microsoft Partner Agreements (MPAs)</span></span> 
+
+### <a name="categories"></a><span data-ttu-id="0282c-232">類別</span><span class="sxs-lookup"><span data-stu-id="0282c-232">Categories</span></span>
+
+- <span data-ttu-id="0282c-233">日期：2021-01-15</span><span class="sxs-lookup"><span data-stu-id="0282c-233">Date: 2021-01-15</span></span>
+- <span data-ttu-id="0282c-234">功能</span><span class="sxs-lookup"><span data-stu-id="0282c-234">Capabilities</span></span>
+
+### <a name="summary"></a><span data-ttu-id="0282c-235">摘要</span><span class="sxs-lookup"><span data-stu-id="0282c-235">Summary</span></span>
+
+<span data-ttu-id="0282c-236">Microsoft 會將所有電子簽章處理從 DocuSign 轉換為 Adobe Sign。</span><span class="sxs-lookup"><span data-stu-id="0282c-236">Microsoft will be transitioning all electronic signature processing from DocuSign to Adobe Sign.</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-237">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-237">Impacted audience</span></span>
+
+<span data-ttu-id="0282c-238">在 MPA 下的現有直接與間接雲端解決方案提供者 (CSP) 合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="0282c-238">Existing direct and indirect Cloud Solution Provider (CSP) partners under MPA.</span></span> <span data-ttu-id="0282c-239">位於烏克蘭、俄羅斯和哈薩克的合作夥伴必須每年以實體或電子方式重新簽署附加條款。</span><span class="sxs-lookup"><span data-stu-id="0282c-239">Partners in Ukraine, Russia, and Kazakhstan will be required to physically or electronically re-sign the Rider annually.</span></span>
+
+### <a name="details"></a><span data-ttu-id="0282c-240">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-240">Details</span></span>
+
+<span data-ttu-id="0282c-241">從 2021 年 2 月起，Microsoft 會開始將 CSP 合作夥伴的所有電子簽章處理從 DocuSign 轉換為 Adobe Sign。</span><span class="sxs-lookup"><span data-stu-id="0282c-241">In February 2021, Microsoft will begin transitioning all electronic signature processing from DocuSign to Adobe Sign for CSP partners.</span></span> 
+
+<span data-ttu-id="0282c-242">轉換的過程應該會很順暢。</span><span class="sxs-lookup"><span data-stu-id="0282c-242">You should expect a smooth transition.</span></span> <span data-ttu-id="0282c-243">在移轉時，每當需要您的電子簽章時，您就會收到來自 adobesign@adobesign.com (而不是 DocuSign) 的電子郵件。</span><span class="sxs-lookup"><span data-stu-id="0282c-243">Upon migration, you will receive an email from adobesign@adobesign.com, instead of DocuSign, whenever your electronic signature is required.</span></span> <span data-ttu-id="0282c-244">這封電子郵件會提供您需要在其中簽署的 Adobe Sign 網頁連結。</span><span class="sxs-lookup"><span data-stu-id="0282c-244">This email will provide you with a link to the Adobe Sign web page where you will need to sign.</span></span> <span data-ttu-id="0282c-245">Microsoft 合作夥伴不需要重新簽署現有的合約，只需簽署未來的通路合約。</span><span class="sxs-lookup"><span data-stu-id="0282c-245">Microsoft partners will not have to re-sign existing agreements, only future Channel Agreements.</span></span> 
+
+<span data-ttu-id="0282c-246">您可以在[資源庫](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)中找到 Adobe Sign 簽章要求電子郵件的範例。</span><span class="sxs-lookup"><span data-stu-id="0282c-246">You can find an example of an Adobe Sign signature request email in [the resource gallery](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf).</span></span> 
+
+<span data-ttu-id="0282c-247">**若要獲得最佳體驗，請務必執行下列動作：**</span><span class="sxs-lookup"><span data-stu-id="0282c-247">**For the best experience, make sure to do the following:**</span></span>
+
+1. <span data-ttu-id="0282c-248">將 adobesign@adobesign.com 新增至您的安全寄件者清單，以避免來自此帳戶的電子郵件直接進入您的垃圾郵件資料夾。</span><span class="sxs-lookup"><span data-stu-id="0282c-248">Add adobesign@adobesign.com to your safe senders list to avoid emails from this account going directly into your junk email folder.</span></span>
+2. <span data-ttu-id="0282c-249">請與您的 IT 部門合作，以：</span><span class="sxs-lookup"><span data-stu-id="0282c-249">Work with your IT department to:</span></span>
+   - <span data-ttu-id="0282c-250">將 adobesign@adobesign.com 電子郵件地址新增至其安全寄件者清單，以確保其不會包含在任何預先建立的網路釣魚規則中。</span><span class="sxs-lookup"><span data-stu-id="0282c-250">Add the adobesign@adobesign.com email address to their safe senders list to ensure that it’s not included in any pre-established phishing rule.</span></span>
+   - <span data-ttu-id="0282c-251">更新現有的安全性原則，以確保所有必要收件者都能在您的 Adobe Sign 企業授權下簽署文件。</span><span class="sxs-lookup"><span data-stu-id="0282c-251">Update existing security policies to ensure that all required recipients can sign documentation under your Adobe Sign enterprise license.</span></span>
+
+<span data-ttu-id="0282c-252">Adobe Sign 是 Microsoft 慣用的電子簽章解決方案 (ESS)。</span><span class="sxs-lookup"><span data-stu-id="0282c-252">Adobe Sign is Microsoft’s preferred Electronic Signature Solution (ESS).</span></span> <span data-ttu-id="0282c-253">轉換成 Adobe Sign 可以確保電子簽章體驗是安全且有效率的，從而為我們的客戶和合作夥伴提供更高的價值。</span><span class="sxs-lookup"><span data-stu-id="0282c-253">The transition to Adobe Sign will ensure a secure and efficient electronic signature experience that will deliver greater value to our customers and partners.</span></span>
+
+<span data-ttu-id="0282c-254">如需有關如何以電子方式簽署文件和電子簽名委派的詳細資訊，請參閱下列 **教學課程**：</span><span class="sxs-lookup"><span data-stu-id="0282c-254">For additional information on how to electronically sign documents and electronic signature delegation, refer to the following **tutorials**:</span></span> 
+- [<span data-ttu-id="0282c-255">以電子方式簽署文件 | Adobe Sign 教學課程</span><span class="sxs-lookup"><span data-stu-id="0282c-255">Electronically sign a document | Adobe Sign tutorials</span></span>](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [<span data-ttu-id="0282c-256">委派其他人簽署文件 | Adobe Sign 教學課程</span><span class="sxs-lookup"><span data-stu-id="0282c-256">Delegate someone else to sign a document | Adobe Sign tutorials</span></span>](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a><span data-ttu-id="0282c-257">後續步驟</span><span class="sxs-lookup"><span data-stu-id="0282c-257">Next steps</span></span>
+
+<span data-ttu-id="0282c-258">請與貴組織內適當的專案關係人分享這項資訊。</span><span class="sxs-lookup"><span data-stu-id="0282c-258">Share this information with the appropriate stakeholders in your organization.</span></span>
+
+### <a name="questions"></a><span data-ttu-id="0282c-259">有問題嗎？</span><span class="sxs-lookup"><span data-stu-id="0282c-259">Questions?</span></span>
+
+<span data-ttu-id="0282c-260">如有任何問題，請使用[通話記錄工具 (CLT)](https://clt.partners.extranet.microsoft.com/CLT) 或透過 [Explore MS](https://www.explore.ms/) 連絡您的區域營運中心。</span><span class="sxs-lookup"><span data-stu-id="0282c-260">If you have any questions, contact your Regional Operations Center using the [Call Logging Tool (CLT)](https://clt.partners.extranet.microsoft.com/CLT) or at [Explore MS](https://www.explore.ms/).</span></span> <span data-ttu-id="0282c-261">請仔細遵循標準 CLT 程序，以便我們儘快解決您的查詢。</span><span class="sxs-lookup"><span data-stu-id="0282c-261">Follow the standard CLT process closely so that we can resolve your query as quickly as possible.</span></span>
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a><span data-ttu-id="0282c-262">挪威克朗的商業定價更新</span><span class="sxs-lookup"><span data-stu-id="0282c-262">Commercial pricing update for Norwegian krone</span></span> 
+
+### <a name="categories"></a><span data-ttu-id="0282c-263">類別</span><span class="sxs-lookup"><span data-stu-id="0282c-263">Categories</span></span>
+
+- <span data-ttu-id="0282c-264">日期：2021-01-14</span><span class="sxs-lookup"><span data-stu-id="0282c-264">Date: 2021-01-14</span></span>
+- <span data-ttu-id="0282c-265">供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="0282c-265">Offers/Markets</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-266">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-266">Impacted audience</span></span>
+
+<span data-ttu-id="0282c-267">使用挪威克朗的雲端解決方案提供者合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="0282c-267">Cloud Solution Provider partners using the Norwegian krone.</span></span>
+
+### <a name="details"></a><span data-ttu-id="0282c-268">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-268">Details</span></span>
+
+<span data-ttu-id="0282c-269">從 2021 年 3 月 1 日起，商業內部部署軟體和線上服務的挪威克朗價格將會變更，以便重新與區域中的主要定價層級一起調整。</span><span class="sxs-lookup"><span data-stu-id="0282c-269">From March 1, 2021, Norwegian krone prices for commercial on-premises software and online services will change to realign with prevailing pricing levels in the region.</span></span>
+<span data-ttu-id="0282c-270">完整的公告僅適用於 Microsoft 合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="0282c-270">The full announcement is available only to Microsoft partners.</span></span> <span data-ttu-id="0282c-271">[登入以閱讀完整的公告](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf)。</span><span class="sxs-lookup"><span data-stu-id="0282c-271">[Sign in to access the full announcement](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).</span></span>
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a><span data-ttu-id="0282c-272">印度幣的商業定價更新</span><span class="sxs-lookup"><span data-stu-id="0282c-272">Commercial pricing update for the Indian rupee</span></span> 
+
+### <a name="categories"></a><span data-ttu-id="0282c-273">類別</span><span class="sxs-lookup"><span data-stu-id="0282c-273">Categories</span></span>
+
+- <span data-ttu-id="0282c-274">日期：2021-01-08</span><span class="sxs-lookup"><span data-stu-id="0282c-274">Date: 2021-01-08</span></span>
+- <span data-ttu-id="0282c-275">供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="0282c-275">Offers/Markets</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-276">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-276">Impacted audience</span></span>
+
+<span data-ttu-id="0282c-277">在印度進行交易的「雲端解決方案提供者」合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="0282c-277">CSP partners transacting in India.</span></span>
+
+### <a name="details"></a><span data-ttu-id="0282c-278">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-278">Details</span></span> 
+
+<span data-ttu-id="0282c-279">為配合印度和亞洲地區的商務軟體和線上服務定價，Microsoft 即將對印度幣的價目表進行變更。</span><span class="sxs-lookup"><span data-stu-id="0282c-279">Microsoft is making changes to the Indian rupee price list to align prices for commercial software and online services within India and the Asian region.</span></span>
+
+<span data-ttu-id="0282c-280">完整的公告僅適用於 Microsoft 合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="0282c-280">The full announcement is only available to Microsoft Partners.</span></span> <span data-ttu-id="0282c-281">[登入以閱讀完整的公告](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf)。</span><span class="sxs-lookup"><span data-stu-id="0282c-281">[Login to access the full announcement](https://partner.microsoft.com/resources/detail/price-update-indian-rupee.pdf).</span></span>
+
+________________
+
+## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a><span data-ttu-id="0282c-282">2021 年 2 月 1 日的通話方案和電話系統更新</span><span class="sxs-lookup"><span data-stu-id="0282c-282">Calling Plan and Phone System updates for February 1, 20201</span></span>
+
+### <a name="categories"></a><span data-ttu-id="0282c-283">類別</span><span class="sxs-lookup"><span data-stu-id="0282c-283">Categories</span></span>
+
+- <span data-ttu-id="0282c-284">日期：2021-01-08</span><span class="sxs-lookup"><span data-stu-id="0282c-284">Date: 2021-01-08</span></span>
+- <span data-ttu-id="0282c-285">供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="0282c-285">Offers/Markets</span></span>
+
+### <a name="summary"></a><span data-ttu-id="0282c-286">摘要</span><span class="sxs-lookup"><span data-stu-id="0282c-286">Summary</span></span>
+
+<span data-ttu-id="0282c-287">我們將在特定國家/地區推出 Microsoft 365 的附加元件供應項目，其中包括電話系統和國內通話方案，以及獨立的國內通話方案。</span><span class="sxs-lookup"><span data-stu-id="0282c-287">An add-on offer to Microsoft 365, which will include Phone System and Domestic Calling Plan and a standalone Domestic Calling Plan, is coming soon to select countries.</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-288">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-288">Impacted audience</span></span>
+
+<span data-ttu-id="0282c-289">透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="0282c-289">All partners transacting through the Cloud Solution Provider (CSP) program.</span></span>
+
+### <a name="details"></a><span data-ttu-id="0282c-290">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-290">Details</span></span> 
+
+<span data-ttu-id="0282c-291">Microsoft 365 E1、E3 和 E5 中搭配此附加元件的供應項目將包含電話系統和國內通話方案。</span><span class="sxs-lookup"><span data-stu-id="0282c-291">The add-on bundled offer to Microsoft 365 E1, E3, and E5 offers will include Phone System and Domestic Calling Plan.</span></span> <span data-ttu-id="0282c-292">此外，新的獨立國內通話方案供應項目將僅適用於 E5。</span><span class="sxs-lookup"><span data-stu-id="0282c-292">In addition, a new standalone Domestic Calling Plan offer will be available for E5 only.</span></span> <span data-ttu-id="0282c-293">新的供應項目僅適用於美國、波多黎各和加拿大的客戶；對於所有其他國家和地區，現有的全球獨立 SKU 和定價會維持不變。</span><span class="sxs-lookup"><span data-stu-id="0282c-293">The new offers will be available to customers in the US, Puerto Rico, and Canada only; for all other countries and territories, the existing global standalone SKUs and pricing remain the same.</span></span> 
+
+<span data-ttu-id="0282c-294">這些供應項目將提供給美國、波多黎各和加拿大的商業客戶、學生、教職員、政府社群雲端 (GCC) 和非營利客戶使用。</span><span class="sxs-lookup"><span data-stu-id="0282c-294">These offers will be available to Commercial, Student, Faculty, Government Community Cloud (GCC), and Nonprofit customers in the US, Puerto Rico, and Canada.</span></span> <span data-ttu-id="0282c-295">通話方案無法在美國其他所有領地使用。</span><span class="sxs-lookup"><span data-stu-id="0282c-295">Calling plans are not available in any of the other US territories.</span></span>
+
+   |<span data-ttu-id="0282c-296">**供應項目名稱**</span><span class="sxs-lookup"><span data-stu-id="0282c-296">**Offer name**</span></span>|<span data-ttu-id="0282c-297">**優惠識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-297">**Offer ID**</span></span>|<span data-ttu-id="0282c-298">**材質識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-298">**Material ID**</span></span>|
+   |-------------------|:------|:------|
+   |<span data-ttu-id="0282c-299">適用於美國和加拿大的 Microsoft Teams 通話基礎</span><span class="sxs-lookup"><span data-stu-id="0282c-299">Microsoft Teams Calling Essentials for US and Canada</span></span>|<span data-ttu-id="0282c-300">1ee81de6-4d8b-4cf1-b926-2fd2a774a4ca</span><span class="sxs-lookup"><span data-stu-id="0282c-300">1ee81de6-4d8b-4cf1-b926-2fd2a774a4ca</span></span>|<span data-ttu-id="0282c-301">8N2-00010</span><span class="sxs-lookup"><span data-stu-id="0282c-301">8N2-00010</span></span>|
+   |<span data-ttu-id="0282c-302">適用於美國和加拿大的 Microsoft Teams 通話基礎 (非營利員工定價)</span><span class="sxs-lookup"><span data-stu-id="0282c-302">Microsoft Teams Calling Essentials for US and Canada (Nonprofit Staff Pricing)</span></span>|<span data-ttu-id="0282c-303">0c2ece0d-39b7-40ec-8c08-87c2b6c75d62</span><span class="sxs-lookup"><span data-stu-id="0282c-303">0c2ece0d-39b7-40ec-8c08-87c2b6c75d62</span></span>|<span data-ttu-id="0282c-304">8N2-00011</span><span class="sxs-lookup"><span data-stu-id="0282c-304">8N2-00011</span></span>|
+   |<span data-ttu-id="0282c-305">適用於美國和加拿大教職員的 Microsoft Teams 通話基礎</span><span class="sxs-lookup"><span data-stu-id="0282c-305">Microsoft Teams Calling Essentials for US and Canada for faculty</span></span>|<span data-ttu-id="0282c-306">b8baa3b8-8cc2-4f26-a212-7fbeb28e7895</span><span class="sxs-lookup"><span data-stu-id="0282c-306">b8baa3b8-8cc2-4f26-a212-7fbeb28e7895</span></span>|<span data-ttu-id="0282c-307">8N3-00003</span><span class="sxs-lookup"><span data-stu-id="0282c-307">8N3-00003</span></span>|
+   |<span data-ttu-id="0282c-308">適用於美國和加拿大學生的 Microsoft Teams 通話基礎</span><span class="sxs-lookup"><span data-stu-id="0282c-308">Microsoft Teams Calling Essentials for US and Canada for students</span></span>|<span data-ttu-id="0282c-309">26956da8-eeb5-44e3-aa79-d36e0e42b930</span><span class="sxs-lookup"><span data-stu-id="0282c-309">26956da8-eeb5-44e3-aa79-d36e0e42b930</span></span>|<span data-ttu-id="0282c-310">8N3-00004</span><span class="sxs-lookup"><span data-stu-id="0282c-310">8N3-00004</span></span>|
+   |<span data-ttu-id="0282c-311">適用於美國和加拿大政府社群雲端 (GCC) 的 Microsoft Teams 通話基礎</span><span class="sxs-lookup"><span data-stu-id="0282c-311">Microsoft Teams Calling Essentials for US and Canada for GCC</span></span>|<span data-ttu-id="0282c-312">7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1</span><span class="sxs-lookup"><span data-stu-id="0282c-312">7a2e2d5a-41b5-4b20-a0d1-0d06d34b5fe1</span></span>|<span data-ttu-id="0282c-313">8N4-00002</span><span class="sxs-lookup"><span data-stu-id="0282c-313">8N4-00002</span></span>|
+   |<span data-ttu-id="0282c-314">適用於美國和加拿大的 Microsoft 365 國內通話方案</span><span class="sxs-lookup"><span data-stu-id="0282c-314">Microsoft 365 Domestic Calling Plan for US and Canada</span></span>|<span data-ttu-id="0282c-315">60d2919e-427a-46c9-bd03-89cbad27d53f</span><span class="sxs-lookup"><span data-stu-id="0282c-315">60d2919e-427a-46c9-bd03-89cbad27d53f</span></span>|<span data-ttu-id="0282c-316">TK2-00050</span><span class="sxs-lookup"><span data-stu-id="0282c-316">TK2-00050</span></span>|
+   |<span data-ttu-id="0282c-317">適用於美國和加拿大教職員的 Microsoft 365 國內通話方案</span><span class="sxs-lookup"><span data-stu-id="0282c-317">Microsoft 365 Domestic Calling Plan for faculty for US and Canada</span></span>|<span data-ttu-id="0282c-318">602e7548-375b-4e01-bf79-a9a8b8ff16d4</span><span class="sxs-lookup"><span data-stu-id="0282c-318">602e7548-375b-4e01-bf79-a9a8b8ff16d4</span></span>|<span data-ttu-id="0282c-319">LM7-00006</span><span class="sxs-lookup"><span data-stu-id="0282c-319">LM7-00006</span></span>|
+   |<span data-ttu-id="0282c-320">適用於美國和加拿大學生的 Microsoft 365 國內通話方案</span><span class="sxs-lookup"><span data-stu-id="0282c-320">Microsoft 365 Domestic Calling Plan for students for US and Canada</span></span>|<span data-ttu-id="0282c-321">1f4b4375-3185-40cf-b044-117fe3b102c6</span><span class="sxs-lookup"><span data-stu-id="0282c-321">1f4b4375-3185-40cf-b044-117fe3b102c6</span></span>|<span data-ttu-id="0282c-322">LM7-00007</span><span class="sxs-lookup"><span data-stu-id="0282c-322">LM7-00007</span></span>|
+   |<span data-ttu-id="0282c-323">適用於美國和加拿大政府社群雲端 (GCC) 的 Microsoft 365 國內通話方案</span><span class="sxs-lookup"><span data-stu-id="0282c-323">Microsoft 365 Domestic Calling Plan for GCC for US and Canada</span></span>|<span data-ttu-id="0282c-324">594ed84e-ddf8-4e40-9726-76c04bd29e3b</span><span class="sxs-lookup"><span data-stu-id="0282c-324">594ed84e-ddf8-4e40-9726-76c04bd29e3b</span></span>|<span data-ttu-id="0282c-325">LM9-00023</span><span class="sxs-lookup"><span data-stu-id="0282c-325">LM9-00023</span></span>|
+
+### <a name="next-steps"></a><span data-ttu-id="0282c-326">後續步驟</span><span class="sxs-lookup"><span data-stu-id="0282c-326">Next steps</span></span>
+
+- <span data-ttu-id="0282c-327">請與您組織中相關連絡人分享這項資訊，以了解追加銷售和交叉銷售商機。</span><span class="sxs-lookup"><span data-stu-id="0282c-327">Share this information with the relevant contacts in your organization and understand the upsell and cross-sell opportunities.</span></span> 
+- <span data-ttu-id="0282c-328">請參閱 [Teams 合作夥伴指南](https://aka.ms/teamscallingmeetingsguide)的資源區段。</span><span class="sxs-lookup"><span data-stu-id="0282c-328">Review the resources section of the [Teams Partner Guide](https://aka.ms/teamscallingmeetingsguide).</span></span>
+
+_____________ 
+
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a><span data-ttu-id="0282c-329">2021 年 1 月的授權型價目表更新</span><span class="sxs-lookup"><span data-stu-id="0282c-329">License-base price list updates for January 2021</span></span> 
+
+### <a name="categories"></a><span data-ttu-id="0282c-330">類別</span><span class="sxs-lookup"><span data-stu-id="0282c-330">Categories</span></span>
+
+- <span data-ttu-id="0282c-331">日期：2021-01-08</span><span class="sxs-lookup"><span data-stu-id="0282c-331">Date: 2021-01-08</span></span>
+- <span data-ttu-id="0282c-332">供應項目/市場</span><span class="sxs-lookup"><span data-stu-id="0282c-332">Offers/Markets</span></span>
+
+### <a name="summary"></a><span data-ttu-id="0282c-333">摘要</span><span class="sxs-lookup"><span data-stu-id="0282c-333">Summary</span></span>
+
+<span data-ttu-id="0282c-334">授權型供應項目的 1 月和 2 月價目表已更新，已修正某些不正確的定價。</span><span class="sxs-lookup"><span data-stu-id="0282c-334">January and February price lists for license-based offers have been updated to correct certain incorrect list prices.</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-335">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-335">Impacted audience</span></span>
+
+<span data-ttu-id="0282c-336">透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴。</span><span class="sxs-lookup"><span data-stu-id="0282c-336">All partners transacting through the Cloud Solution Provider (CSP) program.</span></span>
+
+### <a name="details"></a><span data-ttu-id="0282c-337">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-337">Details</span></span> 
+
+<span data-ttu-id="0282c-338">2021 年 1 月和 2 月的授權型價目表中有幾個不正確的定價。</span><span class="sxs-lookup"><span data-stu-id="0282c-338">The license-based price lists for January 2021 and February 2021 included a few incorrect list prices.</span></span> <span data-ttu-id="0282c-339">受影響的供應項目和貨幣如下。</span><span class="sxs-lookup"><span data-stu-id="0282c-339">The impacted offers and currencies are below.</span></span> <span data-ttu-id="0282c-340">正確的定價已於 2021 年 1 月 7 日下午 2 點 (太平洋標準時間) 更新且可供使用。</span><span class="sxs-lookup"><span data-stu-id="0282c-340">The correct pricing was updated and available as of January 7, 2021 2PM PST (Pacific Standard Time).</span></span> 
+
+   |<span data-ttu-id="0282c-341">**供應項目名稱**</span><span class="sxs-lookup"><span data-stu-id="0282c-341">**Offer name**</span></span>|<span data-ttu-id="0282c-342">**優惠識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-342">**Offer ID**</span></span>|<span data-ttu-id="0282c-343">**材質識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-343">**Material ID**</span></span>|
+   |-------------------|:------|:------|
+   |<span data-ttu-id="0282c-344">Microsoft 365 E3</span><span class="sxs-lookup"><span data-stu-id="0282c-344">Microsoft 365 E3</span></span>|<span data-ttu-id="0282c-345">2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091</span><span class="sxs-lookup"><span data-stu-id="0282c-345">2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091</span></span>|<span data-ttu-id="0282c-346">AAA-35638</span><span class="sxs-lookup"><span data-stu-id="0282c-346">AAA-35638</span></span>| 
+   |<span data-ttu-id="0282c-347">Microsoft 365 商務基本版</span><span class="sxs-lookup"><span data-stu-id="0282c-347">Microsoft 365 Business Basic</span></span>|<span data-ttu-id="0282c-348">bd938f12-058f-4927-bba3-ae36b1d2501c</span><span class="sxs-lookup"><span data-stu-id="0282c-348">bd938f12-058f-4927-bba3-ae36b1d2501c</span></span>|<span data-ttu-id="0282c-349">AAA-10624</span><span class="sxs-lookup"><span data-stu-id="0282c-349">AAA-10624</span></span>|
+
+<span data-ttu-id="0282c-350">受影響的貨幣：</span><span class="sxs-lookup"><span data-stu-id="0282c-350">Currencies impacted:</span></span> 
+
+- <span data-ttu-id="0282c-351">Microsoft 365 E3 定價問題僅限於下列貨幣：JPY (日元)、GBP (英鎊)、歐元 (歐盟)、AUD (澳幣)。</span><span class="sxs-lookup"><span data-stu-id="0282c-351">Microsoft 365 E3 price issues were limited to only these currencies: JPY (Japanese Yen), GBP (Great British Pound), EUR (European Union), AUD (Australian Dollar).</span></span> 
+- <span data-ttu-id="0282c-352">Microsoft 365 商務版基本問題僅限於 USD (美元)。</span><span class="sxs-lookup"><span data-stu-id="0282c-352">Microsoft 365 Business Basic issues were limited to only USD (United States Dollars).</span></span> 
+
+<span data-ttu-id="0282c-353">合作夥伴應參考目前可用的 1 月和 2 月預覽價目表，以取得正確的定價。</span><span class="sxs-lookup"><span data-stu-id="0282c-353">Partners should reference the currently available January and February preview price lists for the correct prices.</span></span> 
+
+### <a name="next-steps"></a><span data-ttu-id="0282c-354">後續步驟</span><span class="sxs-lookup"><span data-stu-id="0282c-354">Next steps</span></span>
+
+- <span data-ttu-id="0282c-355">合作夥伴應從合作夥伴中心下載最新的價目表檔案，以取得已更正的 1 月和 2 月定價。</span><span class="sxs-lookup"><span data-stu-id="0282c-355">Partners should download the latest price list files from the Partner Center to get the corrected January and February prices.</span></span> 
+- <span data-ttu-id="0282c-356">如果受影響租用戶的全域管理員在 1 月 1 日到 1 月 6 日之間購買了訂用帳戶，他們將會在 1 月底前收到合作夥伴中心的電子郵件通知，其中會提供更多詳細資料。</span><span class="sxs-lookup"><span data-stu-id="0282c-356">Global administrators for impacted tenants who have purchased subscriptions between January 1 and January 6 will be notified via a Partner Center email before the end of January with more details.</span></span> 
+
+_____________ 
+
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> <span data-ttu-id="0282c-357">合作夥伴計費貨幣的 EU/EFTA 變更 (適用於新商業供應項目)</span><span class="sxs-lookup"><span data-stu-id="0282c-357">EU/EFTA Change of Partner Billing Currency for new commerce offers</span></span>
+
+### <a name="categories"></a><span data-ttu-id="0282c-358">類別</span><span class="sxs-lookup"><span data-stu-id="0282c-358">Categories</span></span>
+
+- <span data-ttu-id="0282c-359">日期：2021-01-07</span><span class="sxs-lookup"><span data-stu-id="0282c-359">Date: 2021-01-07</span></span>
+- <span data-ttu-id="0282c-360">功能</span><span class="sxs-lookup"><span data-stu-id="0282c-360">Capabilities</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-361">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-361">Impacted audience</span></span>
+
+- <span data-ttu-id="0282c-362">EU/EFTA 地區中透過雲端解決方案提供者計畫進行交易的所有合作夥伴</span><span class="sxs-lookup"><span data-stu-id="0282c-362">All Partners transacting through the Cloud Solution Provider program in the EU/EFTA region</span></span> 
+
+### <a name="details"></a><span data-ttu-id="0282c-363">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-363">Details</span></span>
+
+<span data-ttu-id="0282c-364">在歐盟 (EU)/歐洲自由貿易聯盟 (EFTA) 地區中，雲端解決方案提供者計畫中所有新的商業供應項目都將使用合作夥伴計費位置，而不是客戶計費位置。</span><span class="sxs-lookup"><span data-stu-id="0282c-364">In the European Union (EU)/European Free Trade Association (EFTA) region, all new commerce offers in the Cloud Solution Provider program will use partner billing location instead of customer billing location.</span></span> <span data-ttu-id="0282c-365">因此，Microsoft 將依據合作夥伴所在位置的貨幣 (而非其客戶所在位置的貨幣) 對合作夥伴計費。</span><span class="sxs-lookup"><span data-stu-id="0282c-365">As such, partners will be billed by Microsoft based on their location currency, not their customers' location currency.</span></span> <span data-ttu-id="0282c-366">這些變更會分兩個階段完成：</span><span class="sxs-lookup"><span data-stu-id="0282c-366">These changes will be done in two phases:</span></span>
+
+<span data-ttu-id="0282c-367">**階段 1：**</span><span class="sxs-lookup"><span data-stu-id="0282c-367">**Phase 1:**</span></span>
+
+- <span data-ttu-id="0282c-368">在 CSP 中購買新商業供應項目的新客戶</span><span class="sxs-lookup"><span data-stu-id="0282c-368">New customer purchasing a new commerce offer in CSP</span></span>
+
+- <span data-ttu-id="0282c-369">現有客戶第一次購買新的商業供應項目 - 在 2020 年 5 月 11 日之前建立的租用戶</span><span class="sxs-lookup"><span data-stu-id="0282c-369">Existing customers first-time purchase of new commerce offers - Tenant created prior to 11 May 2020</span></span>
+
+<span data-ttu-id="0282c-370">從 2021 年 1 月 28 日開始，若合作夥伴有全新客戶購買新的商業供應項目，或在 2020 年 5 月 11 日之前建立租用戶的現有客戶首次購買新的商業供應項目，將會以合作夥伴所在位置的貨幣向這些購買計費。</span><span class="sxs-lookup"><span data-stu-id="0282c-370">Starting January 28, 2021, partners who have net new customers purchasing a new commerce offer, or existing customers with tenants created before May 11, 2020 making their first-time purchase of new commerce offers, will be billed for those purchases in partner location currency.</span></span>  
+
+<span data-ttu-id="0282c-371">有現有客戶已在 CSP 中購買新商業供應項目的合作夥伴，在此階段將繼續以客戶計費位置的貨幣計費。</span><span class="sxs-lookup"><span data-stu-id="0282c-371">Partners with existing customers who have already purchased new commerce offers in CSP will continue to be billed in the currency of the customer’s billing location during this phase.</span></span> <span data-ttu-id="0282c-372">此外，若合作夥伴的現有客戶首次購買新的商業供應項目，但其租用戶是在 2020 年 5 月 11 日當天或之後建立，則會繼續以客戶的貨幣來計費。</span><span class="sxs-lookup"><span data-stu-id="0282c-372">In addition, partners with existing customers making a first-time purchase of a new commerce offer, whose tenants were created on or after 11 May 2020, will continue to be billed in the customer’s currency.</span></span>
+
+<span data-ttu-id="0282c-373">**階段 2：**</span><span class="sxs-lookup"><span data-stu-id="0282c-373">**Phase 2:**</span></span>
+
+- <span data-ttu-id="0282c-374">在階段 1 之前，已在 CSP 中購買新商業供應項目的現有客戶</span><span class="sxs-lookup"><span data-stu-id="0282c-374">Existing customers who have already purchased a new commerce offer in CSP prior to Phase 1</span></span>
+- <span data-ttu-id="0282c-375">現有客戶第一次購買新的商業供應項目 - 在 2020 年 5 月 11 日當天或之後建立的租用戶</span><span class="sxs-lookup"><span data-stu-id="0282c-375">Existing customers first-time purchase of new commerce offers - Tenant created on or after 11 May 2020</span></span>
+
+<span data-ttu-id="0282c-376">在階段 1 之後及日曆年度 2021 年期間，若有合作夥伴的現有客戶在階段 1 之前於 CSP 中購買了新商業供應項目，以及其客戶是在 2020 年 5 月 11 日當天或之後建立租用戶的，則 Microsoft 會將這些合作夥伴的新商業供應項目的計費從客戶所在位置的貨幣轉換為合作夥伴所在位置的貨幣。</span><span class="sxs-lookup"><span data-stu-id="0282c-376">Following Phase 1 and during calendar year 2021, Microsoft will transition the billing of new commerce offers for partners with existing customers, who have purchased a new commerce offer in CSP prior to Phase 1, as well as customers that had their tenants created on or after May 11, 2020, from customer location currency to partner location currency.</span></span> <span data-ttu-id="0282c-377">在實作這項變更之前，合作夥伴會先收到通知。</span><span class="sxs-lookup"><span data-stu-id="0282c-377">Partners will be notified well in advance before this change is implemented.</span></span>
+
+<span data-ttu-id="0282c-378">在第 2 階段之後，EU/EFTA 區域中的合作夥伴將以合作夥伴所在位置貨幣來對所有客戶和所有 CSP 購買計費。</span><span class="sxs-lookup"><span data-stu-id="0282c-378">After Phase 2, partners in the EU/EFTA region will be billed in partner location currency for all customers and all CSP purchases.</span></span>
+
+>[!NOTE]
+><span data-ttu-id="0282c-379">這項變更只會影響合作夥伴的計費貨幣，而不會影響 CSP 中新商業供應項目的定價。</span><span class="sxs-lookup"><span data-stu-id="0282c-379">This change will only impact partner billing currency and not the pricing of new commerce offers in CSP.</span></span> <span data-ttu-id="0282c-380">這項變更涵蓋的新商業供應項目包括：雲端解決方案提供者計畫中屬於 Azure 方案、Azure 保留、伺服器訂閱、永久軟體和 Microsoft 商業市集購買的 Azure 訂閱。</span><span class="sxs-lookup"><span data-stu-id="0282c-380">The new commerce offers in scope for this change are: Azure subscriptions that are part of an Azure plan, Azure reservations, server subscriptions, perpetual software, and Microsoft commercial marketplace purchases in the Cloud Solution Provider program.</span></span>
+
+
+### <a name="partner-benefits"></a><span data-ttu-id="0282c-381">合作夥伴權益</span><span class="sxs-lookup"><span data-stu-id="0282c-381">Partner benefits</span></span>
+
+<span data-ttu-id="0282c-382">這項更新可降低 EU/EFTA 地區的多幣別發票所產生的複雜性和額外負荷，以提供新的商業體驗。</span><span class="sxs-lookup"><span data-stu-id="0282c-382">This update will reduce the complexity and overhead with multi-currency invoicing in the EU/EFTA region for the new commerce experience.</span></span>
+
+- <span data-ttu-id="0282c-383">合作夥伴將收到採用單一貨幣的合併發票，而不會再收到個別客戶所在地貨幣的發票</span><span class="sxs-lookup"><span data-stu-id="0282c-383">Partners will receive a consolidated invoice in a single currency and will no longer receive an invoice for each customer location currency</span></span>
+- <span data-ttu-id="0282c-384">獎勵給付將採用與合作夥伴的發票貨幣相同的貨幣</span><span class="sxs-lookup"><span data-stu-id="0282c-384">Incentive payouts will be in the same currency as the partner’s invoice currency</span></span>
+- <span data-ttu-id="0282c-385">合作夥伴會發現多幣別發票所導致的計費複雜性不復存在，而能夠省下現行與對帳有關的時間和資源</span><span class="sxs-lookup"><span data-stu-id="0282c-385">Partners will notice reduced billing complexity caused by multi-currency invoicing, which will free up time and resources currently associated with reconciling accounts</span></span>
+- <span data-ttu-id="0282c-386">對於尚未採用新商業供應項目的合作夥伴，這項變更與先前的合作夥伴計費模型保持一致，讓合作夥伴能更輕鬆地轉換至 CSP 的新商業體驗</span><span class="sxs-lookup"><span data-stu-id="0282c-386">For partners who have not yet adopted new commerce offers, this change aligns with the previous partner billing model, enabling partners to more easily transition to the new commerce experience in CSP</span></span>
+
+### <a name="next-steps"></a><span data-ttu-id="0282c-387">後續步驟</span><span class="sxs-lookup"><span data-stu-id="0282c-387">Next steps</span></span>
+
+<span data-ttu-id="0282c-388">請在 Microsoft 合作夥伴網站上的[作業資源庫](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (需要登入) 中參閱本主題的相關資訊。</span><span class="sxs-lookup"><span data-stu-id="0282c-388">Review the information about this topic in the [Operations Gallery](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (sign-in required) on the Microsoft partner website.</span></span>  
+
+### <a name="questions"></a><span data-ttu-id="0282c-389">有問題嗎？</span><span class="sxs-lookup"><span data-stu-id="0282c-389">Questions?</span></span>
+
+<span data-ttu-id="0282c-390">如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (需要登入)。</span><span class="sxs-lookup"><span data-stu-id="0282c-390">For any questions related to this notification contact [Partner Center support](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (sign-in required).</span></span>
+
+### <a name="change-log"></a><span data-ttu-id="0282c-391">變更記錄</span><span class="sxs-lookup"><span data-stu-id="0282c-391">Change log</span></span>
+
+- <span data-ttu-id="0282c-392">2020 年 11 月 17 日：原始發行</span><span class="sxs-lookup"><span data-stu-id="0282c-392">November 17, 2020: Original publication</span></span>
+- <span data-ttu-id="0282c-393">2021 年 1 月 7 日：階段 1 和階段 2 中包含的其他案例</span><span class="sxs-lookup"><span data-stu-id="0282c-393">January 7, 2021: Additional scenario included for Phase 1 and Phase 2</span></span>
+
+
+________________
+## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a><span data-ttu-id="0282c-394">2021 年 2 月底時，教育客戶驗證程序的現有 GET 和 PUT 限定性條件 API 將會過時並遭到淘汰</span><span class="sxs-lookup"><span data-stu-id="0282c-394">Deprecation and retirement of existing GET and PUT Qualification APIs for the Education customer validation process by the end of February 2021</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-395">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-395">Impacted audience</span></span>
+
+<span data-ttu-id="0282c-396">使用合作夥伴中心 API 透過雲端解決方案提供者計畫銷售學術供應項目的合作夥伴</span><span class="sxs-lookup"><span data-stu-id="0282c-396">Partners selling Academic offers through the Cloud Solution Provider program using the Partner Center API</span></span>
+
+### <a name="details"></a><span data-ttu-id="0282c-397">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-397">Details</span></span> 
+
+<span data-ttu-id="0282c-398">這是 2020 年 12 月所發行 API 增強功能的後續事宜。</span><span class="sxs-lookup"><span data-stu-id="0282c-398">This is a follow-up to the API enhancements released in December 2020.</span></span> <span data-ttu-id="0282c-399">2020 年 12 月時發行了新的 GET 和 POST 限定性條件 API，因此舊的 GET 和 PUT 限定性條件 API 將於 2021 年 2 月底時遭到淘汰。</span><span class="sxs-lookup"><span data-stu-id="0282c-399">In December 2020 new GET and POST Qualifications APIs were released, and as a result the old GET and PUT Qualification APIs will be retired by the end of February 2021.</span></span> <span data-ttu-id="0282c-400">屆時，您必須使用新的 GET 和 POST 合作夥伴中心 API，才能夠購買教育版供應項目。</span><span class="sxs-lookup"><span data-stu-id="0282c-400">At that time, you will need to use the new GET and POST Partner Center APIs in order to be able to purchase Education offers.</span></span> 
+
+### <a name="next-steps"></a><span data-ttu-id="0282c-401">後續步驟</span><span class="sxs-lookup"><span data-stu-id="0282c-401">Next steps</span></span>
+
+- <span data-ttu-id="0282c-402">如果您還沒有這麼做，請更新為新的 API，以便成功且即時地完成轉換。</span><span class="sxs-lookup"><span data-stu-id="0282c-402">If you haven't already done so, update to the new APIs for a successful and timely transition.</span></span>
+- <span data-ttu-id="0282c-403">檢閱新的合作夥伴中心 API 變更，以及[作業整備資源中的指南：合作夥伴中心教育客戶驗證程序增強功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)。</span><span class="sxs-lookup"><span data-stu-id="0282c-403">Review the new Partner Center API changes, and [Guide in the Operations Readiness resources:  Partner Center Education customer validation process enhancements](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).</span></span>
+- <span data-ttu-id="0282c-404">請與組織中的適當小組以及轉銷商分享這項資訊，協助他們為這些變更做好準備。</span><span class="sxs-lookup"><span data-stu-id="0282c-404">Share this information with the appropriate teams in your organization, and with your resellers, to help them prepare for these changes.</span></span>
+
+_____________
+
+## <a name="dynamics-365-offers-for-february-2021"></a><a name="1"></a><span data-ttu-id="0282c-405">2021 年 2 月的 Dynamics 365 供應項目</span><span class="sxs-lookup"><span data-stu-id="0282c-405">Dynamics 365 offers for February 2021</span></span>
+
+### <a name="categories"></a><span data-ttu-id="0282c-406">類別</span><span class="sxs-lookup"><span data-stu-id="0282c-406">Categories</span></span>
+
+- <span data-ttu-id="0282c-407">日期：2021-01-04</span><span class="sxs-lookup"><span data-stu-id="0282c-407">Date: 2021-01-04</span></span>
+- <span data-ttu-id="0282c-408">供應項目</span><span class="sxs-lookup"><span data-stu-id="0282c-408">Offers</span></span>
+
+### <a name="summary"></a><span data-ttu-id="0282c-409">[摘要]</span><span class="sxs-lookup"><span data-stu-id="0282c-409">Summary</span></span>
+
+<span data-ttu-id="0282c-410">新的 Dynamics 365 供應項目變更將於 2021 年 2 月啟動。</span><span class="sxs-lookup"><span data-stu-id="0282c-410">New Dynamics 365 offer changes will be launched in February 2021.</span></span>
+
+### <a name="impacted-audience"></a><span data-ttu-id="0282c-411">影響對象</span><span class="sxs-lookup"><span data-stu-id="0282c-411">Impacted audience</span></span>
+
+<span data-ttu-id="0282c-412">參與雲端解決方案提供者 (CSP) 直接計費合作夥伴、間接提供者和間接轉售商獎勵計畫的合作夥伴</span><span class="sxs-lookup"><span data-stu-id="0282c-412">Partners participating in the Cloud Solution Provider (CSP) direct bill partner, indirect provider, and indirect reseller incentive programs</span></span>
+
+### <a name="details"></a><span data-ttu-id="0282c-413">詳細資料</span><span class="sxs-lookup"><span data-stu-id="0282c-413">Details</span></span>
+
+<span data-ttu-id="0282c-414">Microsoft 宣佈即將推出新的 Dynamics 365 供應項目變更，且將於 2021 年 2 月啟動：</span><span class="sxs-lookup"><span data-stu-id="0282c-414">Microsoft is announcing upcoming new Dynamics 365 offer changes that will be launched in February 2021 for:</span></span>
+
+- <span data-ttu-id="0282c-415">Dynamics 365 Customer Voice 額外回應</span><span class="sxs-lookup"><span data-stu-id="0282c-415">Dynamics 365 Customer Voice Additional Response</span></span>
+- <span data-ttu-id="0282c-416">Dynamics 365 Customer Service Insights 停止提供服務</span><span class="sxs-lookup"><span data-stu-id="0282c-416">Dynamics 365 Customer Service Insights End of Life</span></span>
+- <span data-ttu-id="0282c-417">Dynamics 365 Cloud AX Migration 供應項目識別碼變更</span><span class="sxs-lookup"><span data-stu-id="0282c-417">Dynamics 365 Cloud AX Migration Offer IDs change</span></span>
+
+<span data-ttu-id="0282c-418">**Dynamics 365 Customer Voice 額外回應**</span><span class="sxs-lookup"><span data-stu-id="0282c-418">**Dynamics 365 Customer Voice Additional Response**</span></span>
+
+<span data-ttu-id="0282c-419">在 2021 年 2 月 1 日，Microsoft 將會建立新的「額外回應」供應項目 (具有 1000 個回應權利)，以取代現有供應項目 (具有 2000 個調查回應)，後者的銷售截止日為 2021 年 2 月 1 日。</span><span class="sxs-lookup"><span data-stu-id="0282c-419">On February 1, 2021, Microsoft will create a new "Additional Response" offer with 1-K response entitlement to replace the existing offer with 2-K Survey Responses, the end of sale of which will be on February 1, 2021.</span></span>
+
+<span data-ttu-id="0282c-420">如需 SKU 詳細資料，請參閱 [Dynamics CSP Offers-February 2021 Excel 文件](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)中的 [Customer Voice Addl Resp] 索引標籤。</span><span class="sxs-lookup"><span data-stu-id="0282c-420">See the "Customer Voice Addl Resp" tab in the [Dynamics CSP Offers-February 2021 Excel document](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) for the SKU details.</span></span> <span data-ttu-id="0282c-421">如需詳細資訊，請檢視 [Microsoft Dynamics 365 Customer Voice 首頁](https://dynamics.microsoft.com/en-us/customer-voice/overview/)。</span><span class="sxs-lookup"><span data-stu-id="0282c-421">View the [Microsoft Dynamics 365 Customer Voice Home Page](https://dynamics.microsoft.com/en-us/customer-voice/overview/) for more information.</span></span>
+
+<span data-ttu-id="0282c-422">**Dynamics 365 Customer Service Insights 停止提供服務**</span><span class="sxs-lookup"><span data-stu-id="0282c-422">**Dynamics 365 Customer Service Insights End of Life**</span></span>
+
+<span data-ttu-id="0282c-423">在 2021 年 2 月 1 日，下列產品將會變更為停止提供服務：</span><span class="sxs-lookup"><span data-stu-id="0282c-423">On February 1, 2021, the following products will be changed to end-of-life:</span></span>
+
+- <span data-ttu-id="0282c-424">Dynamics 365 Customer Service Insights (包括「其他案例」)</span><span class="sxs-lookup"><span data-stu-id="0282c-424">Dynamics 365 Customer Service Insights (including "Additional Cases")</span></span>
+- <span data-ttu-id="0282c-425">Dynamics 365 Virtual Agent for Customer Service</span><span class="sxs-lookup"><span data-stu-id="0282c-425">Dynamics 365 Virtual Agent for Customer Service</span></span>
+
+<span data-ttu-id="0282c-426">「Customer Service Insights」獨立體驗將會移至「Dynamics 365 Customer Service」，客戶可以在其中找到深藏在客戶服務體驗內的相同功能。</span><span class="sxs-lookup"><span data-stu-id="0282c-426">The "Customer Service Insights" standalone experience is moving into "Dynamics 365 Customer Service", where customers can find the same capabilities deeply embedded in the customer service experiences.</span></span>  
+
+<span data-ttu-id="0282c-427">如需 SKU 詳細資料，請參閱 [Dynamics CSP Offers-February 2021 Excel 文件](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)中的 [Customer Service Insights] 索引標籤。</span><span class="sxs-lookup"><span data-stu-id="0282c-427">See the "Customer Service Insights" tab in the [Dynamics CSP Offers-February 2021 Excel document](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) for the SKU details.</span></span> <span data-ttu-id="0282c-428">如需詳細資訊，請造訪 [Microsoft Dynamics Customer Service 首頁](https://dynamics.microsoft.com/customer-service/overview/)。</span><span class="sxs-lookup"><span data-stu-id="0282c-428">Visit the [Microsoft Dynamics Customer Service Home Page](https://dynamics.microsoft.com/customer-service/overview/) for more information.</span></span>
+
+<span data-ttu-id="0282c-429">**Dynamics 365 Cloud AX Migration 供應項目識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-429">**Dynamics 365 Cloud AX migration offer IDs**</span></span>
+
+<span data-ttu-id="0282c-430">這些 SKU 已從 2021 年 1 月 1 日的最終價目表中移除，目前無法訂購。</span><span class="sxs-lookup"><span data-stu-id="0282c-430">These SKUs have been removed from the January 1, 2021 final price list and will not be available to order at this time.</span></span> 
+
+   |<span data-ttu-id="0282c-431">**供應項目名稱**</span><span class="sxs-lookup"><span data-stu-id="0282c-431">**Offer name**</span></span>|<span data-ttu-id="0282c-432">**優惠識別碼**</span><span class="sxs-lookup"><span data-stu-id="0282c-432">**Offer ID**</span></span>|
    |-------------------|:------|
-   |<span data-ttu-id="a23d9-268">Dynamics 365 Finance for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="a23d9-268">Dynamics 365 Finance for AX Migration Program</span></span>|<span data-ttu-id="a23d9-269">7fbd1115-a4c1-4cf9-b881-40c4187ca581</span><span class="sxs-lookup"><span data-stu-id="a23d9-269">7fbd1115-a4c1-4cf9-b881-40c4187ca581</span></span>|
-   |<span data-ttu-id="a23d9-270">Dynamics 365 Supply Chain Management for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="a23d9-270">Dynamics 365 Supply Chain Management for AX Migration Program</span></span>|<span data-ttu-id="a23d9-271">a3c62c0e-4f8a-4fc9-a47e-dec3310529d0</span><span class="sxs-lookup"><span data-stu-id="a23d9-271">a3c62c0e-4f8a-4fc9-a47e-dec3310529d0</span></span>|
-   |<span data-ttu-id="a23d9-272">Dynamics 365 Commerce for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="a23d9-272">Dynamics 365 Commerce for AX Migration Program</span></span>|<span data-ttu-id="a23d9-273">97e98de6-24a8-4282-bad6-9d1a874e90a4</span><span class="sxs-lookup"><span data-stu-id="a23d9-273">97e98de6-24a8-4282-bad6-9d1a874e90a4</span></span>|
-   |<span data-ttu-id="a23d9-274">Dynamics 365 Finance Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="a23d9-274">Dynamics 365 Finance Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span></span>|<span data-ttu-id="a23d9-275">69d789e8-1e93-4dee-86b2-3ddfb03c08b9</span><span class="sxs-lookup"><span data-stu-id="a23d9-275">69d789e8-1e93-4dee-86b2-3ddfb03c08b9</span></span>|
-   |<span data-ttu-id="a23d9-276">Dynamics 365 Supply Chain Management Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="a23d9-276">Dynamics 365 Supply Chain Management Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span></span>|<span data-ttu-id="a23d9-277">c897adce-2964-4d24-abc3-7f7ad4b6a80d</span><span class="sxs-lookup"><span data-stu-id="a23d9-277">c897adce-2964-4d24-abc3-7f7ad4b6a80d</span></span>|
-   |<span data-ttu-id="a23d9-278">Dynamics 365 Commerce Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="a23d9-278">Dynamics 365 Commerce Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span></span>|<span data-ttu-id="a23d9-279">ba1fe561-cfda-405a-a25d-ecda3bd3cba7</span><span class="sxs-lookup"><span data-stu-id="a23d9-279">ba1fe561-cfda-405a-a25d-ecda3bd3cba7</span></span>|
-   |<span data-ttu-id="a23d9-280">Dynamics 365 Operations – Activity for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="a23d9-280">Dynamics 365 Operations – Activity for AX Migration Program</span></span>|<span data-ttu-id="a23d9-281">177e954e-1fff-4941-8967-55a47e36e1ce</span><span class="sxs-lookup"><span data-stu-id="a23d9-281">177e954e-1fff-4941-8967-55a47e36e1ce</span></span>|
-   |<span data-ttu-id="a23d9-282">Dynamics 365 Operations – Device for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="a23d9-282">Dynamics 365 Operations – Device for AX Migration Program</span></span>|<span data-ttu-id="a23d9-283">8c8b7c8f-cb3a-4737-8319-1752938c7be3</span><span class="sxs-lookup"><span data-stu-id="a23d9-283">8c8b7c8f-cb3a-4737-8319-1752938c7be3</span></span>|
-   |<span data-ttu-id="a23d9-284">Dynamics 365 Team Members for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="a23d9-284">Dynamics 365 Team Members for AX Migration Program</span></span>|<span data-ttu-id="a23d9-285">1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2</span><span class="sxs-lookup"><span data-stu-id="a23d9-285">1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2</span></span>|
+   |<span data-ttu-id="0282c-433">Dynamics 365 Finance for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="0282c-433">Dynamics 365 Finance for AX Migration Program</span></span>|<span data-ttu-id="0282c-434">7fbd1115-a4c1-4cf9-b881-40c4187ca581</span><span class="sxs-lookup"><span data-stu-id="0282c-434">7fbd1115-a4c1-4cf9-b881-40c4187ca581</span></span>|
+   |<span data-ttu-id="0282c-435">Dynamics 365 Supply Chain Management for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="0282c-435">Dynamics 365 Supply Chain Management for AX Migration Program</span></span>|<span data-ttu-id="0282c-436">a3c62c0e-4f8a-4fc9-a47e-dec3310529d0</span><span class="sxs-lookup"><span data-stu-id="0282c-436">a3c62c0e-4f8a-4fc9-a47e-dec3310529d0</span></span>|
+   |<span data-ttu-id="0282c-437">Dynamics 365 Commerce for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="0282c-437">Dynamics 365 Commerce for AX Migration Program</span></span>|<span data-ttu-id="0282c-438">97e98de6-24a8-4282-bad6-9d1a874e90a4</span><span class="sxs-lookup"><span data-stu-id="0282c-438">97e98de6-24a8-4282-bad6-9d1a874e90a4</span></span>|
+   |<span data-ttu-id="0282c-439">Dynamics 365 Finance Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="0282c-439">Dynamics 365 Finance Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span></span>|<span data-ttu-id="0282c-440">69d789e8-1e93-4dee-86b2-3ddfb03c08b9</span><span class="sxs-lookup"><span data-stu-id="0282c-440">69d789e8-1e93-4dee-86b2-3ddfb03c08b9</span></span>|
+   |<span data-ttu-id="0282c-441">Dynamics 365 Supply Chain Management Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="0282c-441">Dynamics 365 Supply Chain Management Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span></span>|<span data-ttu-id="0282c-442">c897adce-2964-4d24-abc3-7f7ad4b6a80d</span><span class="sxs-lookup"><span data-stu-id="0282c-442">c897adce-2964-4d24-abc3-7f7ad4b6a80d</span></span>|
+   |<span data-ttu-id="0282c-443">Dynamics 365 Commerce Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="0282c-443">Dynamics 365 Commerce Attach to Qualifying Dynamics 365 Base Offer for AX Migration Program</span></span>|<span data-ttu-id="0282c-444">ba1fe561-cfda-405a-a25d-ecda3bd3cba7</span><span class="sxs-lookup"><span data-stu-id="0282c-444">ba1fe561-cfda-405a-a25d-ecda3bd3cba7</span></span>|
+   |<span data-ttu-id="0282c-445">Dynamics 365 Operations – Activity for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="0282c-445">Dynamics 365 Operations – Activity for AX Migration Program</span></span>|<span data-ttu-id="0282c-446">177e954e-1fff-4941-8967-55a47e36e1ce</span><span class="sxs-lookup"><span data-stu-id="0282c-446">177e954e-1fff-4941-8967-55a47e36e1ce</span></span>|
+   |<span data-ttu-id="0282c-447">Dynamics 365 Operations – Device for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="0282c-447">Dynamics 365 Operations – Device for AX Migration Program</span></span>|<span data-ttu-id="0282c-448">8c8b7c8f-cb3a-4737-8319-1752938c7be3</span><span class="sxs-lookup"><span data-stu-id="0282c-448">8c8b7c8f-cb3a-4737-8319-1752938c7be3</span></span>|
+   |<span data-ttu-id="0282c-449">Dynamics 365 Team Members for AX Migration Program</span><span class="sxs-lookup"><span data-stu-id="0282c-449">Dynamics 365 Team Members for AX Migration Program</span></span>|<span data-ttu-id="0282c-450">1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2</span><span class="sxs-lookup"><span data-stu-id="0282c-450">1eb3ad0b-9de3-419d-8bfe-0d61bdd945b2</span></span>|
 
-### <a name="next-steps"></a><span data-ttu-id="a23d9-286">後續步驟</span><span class="sxs-lookup"><span data-stu-id="a23d9-286">Next steps</span></span>
+### <a name="next-steps"></a><span data-ttu-id="0282c-451">後續步驟</span><span class="sxs-lookup"><span data-stu-id="0282c-451">Next steps</span></span>
 
-<span data-ttu-id="a23d9-287">檢閱關於本主題的資源，並與您組織中適當的利害關係人分享。</span><span class="sxs-lookup"><span data-stu-id="a23d9-287">Review the resources about this topic and share them with the appropriate stakeholders in your organization.</span></span> 
+<span data-ttu-id="0282c-452">檢閱關於本主題的資源，並與您組織中適當的利害關係人分享。</span><span class="sxs-lookup"><span data-stu-id="0282c-452">Review the resources about this topic and share them with the appropriate stakeholders in your organization.</span></span> 
 
-### <a name="questions"></a><span data-ttu-id="a23d9-288">有問題嗎？</span><span class="sxs-lookup"><span data-stu-id="a23d9-288">Questions?</span></span>
+### <a name="questions"></a><span data-ttu-id="0282c-453">有問題嗎？</span><span class="sxs-lookup"><span data-stu-id="0282c-453">Questions?</span></span>
 
-<span data-ttu-id="a23d9-289">如有關於這些供應項目的進一步問題，請洽詢相關的 Yammer 社群。</span><span class="sxs-lookup"><span data-stu-id="a23d9-289">For any further questions about these offers, check your relevant Yammer communities.</span></span>
+<span data-ttu-id="0282c-454">如有關於這些供應項目的進一步問題，請洽詢相關的 Yammer 社群。</span><span class="sxs-lookup"><span data-stu-id="0282c-454">For any further questions about these offers, check your relevant Yammer communities.</span></span>
 
 ________________
