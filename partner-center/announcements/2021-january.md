@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
-ms.translationtype: HT
+ms.date: 01/15/2021
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062445"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571664"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -23,6 +23,207 @@ ms.locfileid: "98062445"
 2021 年公告：1 月
 
 2020 公告：[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)  
+
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a>永久軟體現已針對雲端解決方案提供者計畫正式推出
+
+### <a name="categories"></a>類別
+
+- 日期：2021-01-19
+- 拓展您的業務
+
+### <a name="impacted-audience"></a>影響對象
+
+所有雲端解決方案提供者合作夥伴
+
+### <a name="details"></a>詳細資料
+
+如同今天的[公告](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)，我們很高興地通知您，商業永久軟體授權現已正式推出，可供所有 CSP 合作夥伴銷售。 合作夥伴中心 CSP 永久軟體價目表已重新發佈，現在包含其他產品和地理位置。
+
+另請注意，從今天起，合作夥伴中心的軟體和授權金鑰履行功能已淘汰，而合作夥伴和客戶今後應該使用 Microsoft 365 系統管理中心來達到此目的。
+如需進一步的詳細資訊和後續步驟，請參閱下文。
+
+### <a name="next-steps"></a>後續步驟
+
+- 在合作夥伴中心 [定價與供應項目](https://partnercenter.microsoft.com/en-us/pcv/sales)頁面的 [軟體] 區段中下載 **CSP 永久軟體** 價目表。 您可以在[這裡](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)找到新增的產品和地理位置清單。
+- 請檢閱 [Microsoft 365 系統管理中心永久軟體和產品授權金鑰下載操作說明文章](https://go.microsoft.com/fwlink/p/?linkid=2152525)，而當客戶準備好下載其軟體和授權金鑰時，與其分享該文章。
+- 檢閱[雲端解決方案提供者計畫中的永久軟體](https://partner.microsoft.com/resources/collection/software-in-csp#/)整備資料。 使用此[整備地圖](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)，快速找出適合您角色的資訊。
+
+### <a name="questions"></a>有問題嗎？
+
+如有任何進一步的問題，請洽詢相關的 CSP Yammer 社群。
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a>提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介 
+
+### <a name="categories"></a>類別
+
+- 日期：2021-01-19
+- 拓展您的業務
+
+### <a name="summary"></a>總結
+
+Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥伴在一段時間範圍內能獲得更一致的效能。
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴  
+
+### <a name="details"></a>詳細資料
+
+從 2021 年 2 月開始，Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥伴在一段時間範圍內能獲得更一致的效能。 節流會限制在某個時間範圍內對服務的要求數目，以避免過度使用資源。 超過節流閾值時，合作夥伴中心會在一段時間內限制來自該用戶端的任何後續要求。
+  
+**合作夥伴權益：** 合作夥伴中心依設計可處理大量要求，但若有幾個合作夥伴提出了極大量的要求，節流將有助於為所有合作夥伴維持理想的效能和可靠性。  
+
+- 節流可以盡可能縮短停機時間。
+- 節流會減少大量要求的數量，協助確保所有合作夥伴的效能一致。
+
+**要節流的 API：**
+
+| 作業 | 合作夥伴中心文件 |
+| ------ | ------- |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [取得客戶的所有訂用帳戶](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [依照識別碼取得訂用帳戶](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [取得所有客戶訂單](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [依識別碼取得供應項目](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [取得訂用帳戶的佈建狀態](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [管理訂單和管理訂用帳戶](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [取得訂用帳戶的附加元件清單](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [取得訂用帳戶的 Azure 權利清單](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [取得訂用帳戶的註冊狀態](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [取得客戶的所有轉移](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [取得產品升級狀態](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [取得試用版轉換方案的清單](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+我們強烈建議合作夥伴考慮使用活動記錄 API，以提高效率且避免節流。 如需這項功能的詳細資訊，請參閱 [這裡](/partner-center/develop/api-throttling-guidance)的詳細資訊。  
+
+### <a name="next-steps"></a>後續步驟
+
+請檢閱本主題的 [資源](/partner-center/develop/api-throttling-guidance) ，並採取必要的步驟。  
+
+_____________
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>2021 年 2 月 1 日即將推出安全性、合規性和身分識別 (SCI) 
+
+### <a name="categories"></a>類別
+
+- 日期：2021-01-15
+- 供應項目/市場
+
+### <a name="summary"></a>摘要
+
+有幾項 Microsoft 365 推出將會包含在 1 月份的價目表預覽中，並將於 2021 年 2 月 1 日起提供。
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴
+
+### <a name="details"></a>詳細資料
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[適用於政府的 Microsoft 365 G5 合規性元件 SKU](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+我們將針對政府社群雲端 (GCC) 和 GCC High 客戶推出三個新的元件供應項目，這將於 2021 年 2 月 1 日起提供。 這些 SKU 等同於目前可供商業客戶使用的 Microsoft 365 E5 資訊保護與控管、M365 E5 Insider 風險管理，以及 Microsoft 365 E5 電子文件探索與稽核。 
+
+   |**供應項目名稱**|**優惠識別碼**|**材質識別碼**|
+   |-------------------|:------|:------|
+   |適用於 GCC 的 Microsoft 365 E5 資訊保護與控管|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |適用於 GCC 的 Microsoft 365 E5 電子文件探索與稽核|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |適用於 GCC 的 Microsoft 365 E5 內部風險管理|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
+   |適用於 GCC 的 Microsoft 365 E5 資訊保護與 DLP (附加元件)|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[10 年稽核記錄保留附加元件](/microsoft-365/compliance/)
+
+Microsoft 365 E5 必要條件隨附的附加元件可讓客戶將其資料保留 10 年。 
+
+   |**供應項目名稱**|**優惠識別碼**|**材質識別碼**|
+   |-------------------|:------|:------|
+   |適用於 EDU 的 10 年稽核記錄保留附加元件|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |10 年稽核記錄保留附加元件|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>前線員工附加元件
+
+從 2021 年 2 月 1 日起，客戶可為前線員工購買三種新的安全性與合規性程式設計供應項目，作為 [Microsoft 365 F1 和 F3 SKU](https://www.microsoft.com/microsoft-365/firstline-workers) 的附加元件。
+
+這些程式設計供應項目將會取代目前的 [安全性與合規性](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx)促銷，這會在 **2021 年 2 月 28 日** 到期。 不同於目前的促銷，F5 附加元件可讓客戶隨著其前線員工的成長獲得更高的可預測性。
+
+   
+   |**供應項目名稱**|**優惠識別碼**|**材質識別碼**|
+   |-------------------|:------|:------|
+   |Microsoft 365 F5 安全性|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Microsoft 365 F5 合規性|6dc6cb1d-7bcb-4234-80cc-9c7a9cded044|8RL-00003|
+   |Microsoft 365 F5 安全性與合規性|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>後續步驟
+
+檢閱價目表預覽，並與您組織中的適當利害關係人分享。 如需詳細資訊，請移至 [Microsoft 安全性與合規性 - Microsoft 技術社群](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance)。
+
+### <a name="questions"></a>有問題嗎？
+
+如有關於這些供應項目的進一步問題，請洽詢相關的 Yammer 社群。 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>Microsoft 合作夥伴合約 (MPA) 下的合作夥伴從 DocuSign 遷移至 Adobe Sign 
+
+### <a name="categories"></a>類別
+
+- 日期：2021-01-15
+- 功能
+
+### <a name="summary"></a>摘要
+
+Microsoft 會將所有電子簽章處理從 DocuSign 轉換為 Adobe Sign。
+
+### <a name="impacted-audience"></a>影響對象
+
+在 MPA 下的現有直接與間接雲端解決方案提供者 (CSP) 合作夥伴。 位於烏克蘭、俄羅斯和哈薩克的合作夥伴必須每年以實體或電子方式重新簽署附加條款。
+
+### <a name="details"></a>詳細資料
+
+從 2021 年 2 月起，Microsoft 會開始將 CSP 合作夥伴的所有電子簽章處理從 DocuSign 轉換為 Adobe Sign。 
+
+轉換的過程應該會很順暢。 在移轉時，每當需要您的電子簽章時，您就會收到來自 adobesign@adobesign.com (而不是 DocuSign) 的電子郵件。 這封電子郵件會提供您需要在其中簽署的 Adobe Sign 網頁連結。 Microsoft 合作夥伴不需要重新簽署現有的合約，只需簽署未來的通路合約。 
+
+您可以在[資源庫](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)中找到 Adobe Sign 簽章要求電子郵件的範例。 
+
+**若要獲得最佳體驗，請務必執行下列動作：**
+
+1. 將 adobesign@adobesign.com 新增至您的安全寄件者清單，以避免來自此帳戶的電子郵件直接進入您的垃圾郵件資料夾。
+2. 請與您的 IT 部門合作，以：
+   - 將 adobesign@adobesign.com 電子郵件地址新增至其安全寄件者清單，以確保其不會包含在任何預先建立的網路釣魚規則中。
+   - 更新現有的安全性原則，以確保所有必要收件者都能在您的 Adobe Sign 企業授權下簽署文件。
+
+Adobe Sign 是 Microsoft 慣用的電子簽章解決方案 (ESS)。 轉換成 Adobe Sign 可以確保電子簽章體驗是安全且有效率的，從而為我們的客戶和合作夥伴提供更高的價值。
+
+如需有關如何以電子方式簽署文件和電子簽名委派的詳細資訊，請參閱下列 **教學課程**： 
+- [以電子方式簽署文件 | Adobe Sign 教學課程](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [委派其他人簽署文件 | Adobe Sign 教學課程](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>後續步驟
+
+請與貴組織內適當的專案關係人分享這項資訊。
+
+### <a name="questions"></a>有問題嗎？
+
+如有任何問題，請使用[通話記錄工具 (CLT)](https://clt.partners.extranet.microsoft.com/CLT) 或透過 [Explore MS](https://www.explore.ms/) 連絡您的區域營運中心。 請仔細遵循標準 CLT 程序，以便我們儘快解決您的查詢。
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>挪威克朗的商業定價更新 
+
+### <a name="categories"></a>類別
+
+- 日期：2021-01-14
+- 供應項目/市場
+
+### <a name="impacted-audience"></a>影響對象
+
+使用挪威克朗的雲端解決方案提供者合作夥伴。
+
+### <a name="details"></a>詳細資料
+
+從 2021 年 3 月 1 日起，商業內部部署軟體和線上服務的挪威克朗價格將會變更，以便重新與區域中的主要定價層級一起調整。
+完整的公告僅適用於 Microsoft 合作夥伴。 [登入以閱讀完整的公告](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf)。
 
 _____________ 
 

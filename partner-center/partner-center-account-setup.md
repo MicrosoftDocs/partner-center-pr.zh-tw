@@ -1,7 +1,7 @@
 ---
 title: 管理您的合作夥伴中心帳戶
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何使用合作夥伴中心管理貴公司的設定檔、銀行和稅務資訊、角色、權限等等。
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
-ms.translationtype: HT
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011516"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235965"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>管理您的合作夥伴中心帳戶 - 公司設定檔、銀行資訊、角色、權限等等
 
-**適當的角色** - 全域管理員、MPN 管理員
+**適當的角色** - 全域管理員
+- MPN 帳戶管理員
 
 您註冊時在合作夥伴中心建立的帳戶會是您的工作電子郵件加上商務資訊的組合。 建立帳戶之後，您將必須完成設定您公司的完整設定檔，包括支援詳細資料、列報免稅 (若適用) 以及主要連絡資訊。 若有任何人員將會使用合作夥伴中心來新增或管理客戶、銷售訂閱、開立帳單和發票、建立商務設定檔、管理轉介、使用獎勵計畫以及提供支援，貴公司的帳戶也必須納入其使用者帳戶。
 
@@ -60,6 +61,10 @@ ms.locfileid: "97011516"
 ### <a name="legal-info"></a>法律資訊
 
 當您第一次加入合作夥伴中心時，貴公司會經歷 Microsoft 的驗證程序。 您可以在 [法律資訊] 頁面上追蹤驗證的狀態。 上面會顯示主要連絡人 (Microsoft 會針對合作夥伴相關問題進行聯繫的人員) 以及主要法律連絡人 (管理您的法律資訊和狀態的人員)。 您公司的所有商務位置都會列出，並可在此新增。
+
+### <a name="primary-contact-email"></a>主要連絡人電子郵件
+
+我們將使用主要連絡人電子郵件來通知您有關帳戶的驗證。 您針對主要連絡人提供的電子郵件務必是定期進行管理和監看的電子郵件。  
 
 深入了解[驗證和您的帳戶資訊](verification-responses.md)。
 
@@ -122,9 +127,9 @@ ms.locfileid: "97011516"
 
 若要了解如何在特定合作夥伴中心計畫中註冊，請參閱下列部分清單：
 
-- [商業市集計畫](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [商業市集計畫](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft 合作夥伴網路會員資格權益](mpn-overview.md)
-- [雲端解決方案提供者計畫](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [雲端解決方案提供者計畫](./enrolling-in-the-csp-program.md)
 - [Office 市集](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 若要深入了解如何在合作夥伴中心計畫中註冊，請參閱[合作夥伴網路資源](https://partner.microsoft.com/)。
