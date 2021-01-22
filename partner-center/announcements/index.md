@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: aa06fa03b29bb43d5b3c9d2c64e7208ebe9a9d5f
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571647"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685900"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "98571647"
 
 | **類別** | **2021 年 1 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[Azure 中的 Azure 供應專案變更提供與 CSP 中新商務體驗相關的 Azure 供應專案](2021-january.md#12)|1月21日|
 |拓展您的業務|[永久軟體現已針對雲端解決方案提供者計畫正式推出](2021-january.md#11)|1 月 19 日|
 |拓展您的業務|[提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介](2021-january.md#10)|1 月 19 日|
 |供應項目/市場|[2021 年 2 月 1 日將推出安全性、合規性和身分識別 (SCI)](2021-january.md#9)|1 月 15 日|

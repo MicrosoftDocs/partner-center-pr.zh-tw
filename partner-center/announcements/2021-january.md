@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571664"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685917"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -23,6 +23,92 @@ ms.locfileid: "98571664"
 2021 年公告：1 月
 
 2020 公告：[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)  
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Azure 中的 Azure 供應專案變更提供與 CSP 中新商務體驗相關的 Azure 供應專案
+
+### <a name="categories"></a>類別
+
+- 日期：2021-01-21
+- 功能
+ 
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴。
+
+### <a name="details"></a>詳細資料：
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>Azure in CSP 的新商務體驗
+
+新的 Microsoft 商務體驗將為客戶建立一致且簡化的購買體驗，讓他們能夠以數位方式進行轉換，並在購買的方式和位置上提供更大的彈性。 合作夥伴在客戶的雲端旅程中扮演著重要的角色，不論客戶決定與 Microsoft 交易的通道 () 。 完整推出之後，更新的商務平臺和模型可讓合作夥伴參與大型企業客戶和中小型公司的銷售工作，並讓合作夥伴有機會擴大參與範圍，以促進客戶的成功。
+
+在雲端解決方案提供者程式中，Azure 的新商務體驗將擴充合作夥伴商機來建立和提供受控服務、進一步擴充其客戶群，以及協助客戶進行數位轉型。
+
+新的商務經驗提供下列優點：
+
+- 使用 Azure 方案簡化 Azure 購買流程。
+- 跨通道建立更好的定價調整。 根據客戶和合作夥伴的意見反應，雲端解決方案提供者計畫中新的 Azure 體驗將會使用單一價格清單（以美元為單位），為客戶和合作夥伴提供全球規模的一致定價。
+- 提供可納入適當治理、客戶經驗和原則的工具，將這些工具移至雲端解決方案提供者計畫中的新 Azure 體驗，以降低客戶的取得障礙。
+- 可讓合作夥伴利用 Azure Lighthouse 和 Azure 成本管理等功能，更有效率地管理其客戶。 
+- 展開 Azure Marketplace 的存取。
+
+我們已在 Azure 的新商務體驗上擴充了轉換工具，讓您能夠以符合客戶發展業務需求的方式來增強管理 Azure 的彈性，並協助您將客戶帶到雲端解決方案提供者計畫中的新 Azure 供應專案。 在雲端解決方案提供者計畫中，查看支援客戶 Azure 訂用帳戶轉換所存在的工具總覽。
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>雲端解決方案提供者方案中的新 Azure 方案提供 (Azure 方案) 
+
+藉由新的商務體驗，合作夥伴可透過 Azure 方案，以隨用隨付費率存取 Azure 服務，以隨用隨付費率存取 Microsoft 客戶合約下的客戶。 此方案可讓您在 Azure 方案內建立多個 Azure 訂用帳戶，以簡化購買體驗。 在合作夥伴中心中，您不再需要為每個 Azure 訂用帳戶提交個別的訂單。
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫中先前 Azure 供應專案可用性的變更
+
+當我們在 (Azure 方案的雲端解決方案提供者計畫中宣佈新的 Azure 供應專案時，) 我們會告知合作夥伴，先前的 Azure 供應專案和平臺會繼續提供，以及新的 Azure 體驗，而且我們會在對前一個 Azure 供應專案進行任何變更之前，事先通知合作夥伴六個月的時間。
+
+雖然雲端解決方案提供者計畫中的新 Azure 供應專案 (Azure 方案) 為合作夥伴提供更佳的體驗，我們想要讓合作夥伴有時間將新的 Azure 功能納入其服務，並將其客戶轉換成新的體驗。
+
+先前 Azure 供應專案的變更將會有三個階段。 今天，我們會在這三個階段共用詳細資訊。
+
+#### <a name="three-phases"></a>三個階段
+
+**第1階段–從2021年7月21日起**
+
+在第1階段中，所有新的 Azure 雲端方案提供者方案商務都將會在新的 Azure 方案供應專案上。 將適用下列指導方針：
+
+- 針對雲端解決方案提供者計畫中合作夥伴與客戶之間的所有現有轉銷商關係，如果客戶已購買先前的 Azure 供應專案，合作夥伴可能會繼續交易，而客戶可能會繼續向該合作夥伴購買先前的 Azure 供應專案。
+- 先前的 Azure 供應專案將不再提供給交易在 CSP 中的全新合作夥伴
+- 先前的 Azure 供應專案將不再適用于透過 CSP 合作夥伴購買的全新客戶
+- 針對所有新的轉銷商關係或新的客戶收購，合作夥伴只能 (Azure 方案來交易新的 Azure 供應專案) 
+- 針對合作夥伴與客戶之間的所有現有轉銷商關係，如果客戶之前從未購買過 Azure，則合作夥伴可能只會交易，而客戶只能向該合作夥伴購買新的 Azure 供應專案。
+
+**第2階段–日曆年度2022**
+
+在第2階段（于日曆年度2022期間開始），獎勵和合作夥伴毛利機會將從先前的 Azure 供應專案中移除。 我們會事先將階段2開始日期與合作夥伴6個月溝通。
+
+**第3階段–日期 TBD**
+
+在第3階段中，先前 Azure 供應專案上的所有剩餘客戶將會遷移至 Azure 方案)  (的雲端解決方案提供者方案中的新 Azure 供應專案。 如同先前的階段，我們將在第3個月前向合作夥伴傳達第3階段開始日期。
+
+#### <a name="partner-earned-credit-pec"></a>合作夥伴贏得的點數 (PEC) 
+
+透過新的商務體驗，合作夥伴可透過合作夥伴所獲得的點數模型，持續地辨識出不同的增值服務。 合作夥伴所獲得的點數獎勵合作夥伴，致力於透過加值的服務（可產生持續性的獲利）來推動客戶的成功。
+
+### <a name="next-steps"></a>後續步驟：
+
+強烈建議合作夥伴熟悉下列資源：
+
+#### <a name="partner-earned-credit-pec"></a>合作夥伴贏得的點數 (PEC) 
+
+- [瞭解合作夥伴所獲得的點數 (指南) # B2 microsoft.com) ](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [合作夥伴獲得的點數-總覽-合作夥伴中心 |Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [受管理服務的合作夥伴獲得的點數-合作夥伴中心 |Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [角色、合作夥伴取得點數合作夥伴中心的許可權 |Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [雲端上的 Azure 在 CSP 課程模組中取得的隨選訓練課程模組 (eventbuilder.com) ](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>新的商務體驗
+
+- [合作夥伴資源資源庫：適用于 Azure 的 CSP 新商務體驗](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>有問題嗎？
+
+如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a>永久軟體現已針對雲端解決方案提供者計畫正式推出
