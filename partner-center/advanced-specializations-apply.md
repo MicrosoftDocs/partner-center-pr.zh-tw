@@ -1,7 +1,7 @@
 ---
 title: 適用于 advanced 特製化
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 強化您在 Microsoft 合作夥伴目錄中的商務設定檔。 瞭解如何使用合作夥伴中心來申請並獲得先進的特製化。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440039"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658411"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>使用合作夥伴中心來申請 advanced 特製化並檢查其狀態
 
@@ -60,20 +60,21 @@ ms.locfileid: "96440039"
 
 需要透過協力廠商審核員進行審核的先進特製化包括：
 
-- 資料倉儲遷移至 Microsoft Azure
+- Microsoft Azure 上的分析
+- 資料倉儲移轉至 Microsoft Azure
 - Microsoft Azure 上的 Kubernetes
 - Linux 和開放原始碼資料庫移轉至 Microsoft Azure
 - Microsoft Windows 虛擬桌面
-- 將 Web 應用程式現代化為 Microsoft Azure
-- Windows Server 和 SQL Server 遷移至 Microsoft Azure
+- 以 Microsoft Azure 為目的地進行 Web 應用程式的現代化
+- Windows Server 和 SQL Server 移轉至 Microsoft Azure
 
 需要客戶參考的 Advanced 特殊化包括：
 
-- 採用與變更管理
-- 呼叫 Microsoft 小組
+- 採用和變更管理
+- 打電話了解 Microsoft Teams
 - Microsoft 團隊的會議和會議室
 - SAP on Azure
-- 團隊合作部署
+- Teamwork 部署
 - 身分識別和存取管理
 - 威脅防護
 
@@ -116,7 +117,7 @@ ms.locfileid: "96440039"
 
 4. 除非您符合此頁面上顯示的所有必要條件並提供客戶參考，否則您的狀態將維持 **不會啟動**。 一旦符合所有必要條件之後，您的狀態就會 **變更為 [作用中]**。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - 深入瞭解 advanced 特製化 [、其優點和獨特需求](https://partner.microsoft.com/membership/advanced-specialization)。
 

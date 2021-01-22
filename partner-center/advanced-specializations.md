@@ -1,7 +1,7 @@
 ---
 title: 深入瞭解 advanced 特製化
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 強化您在 Microsoft 合作夥伴目錄中的商務設定檔。 瞭解您可以取得的先進特製化，以及您現有的金級和銀級專長認證。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204014"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658394"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>獲得先進的特製化，展示您的已驗證功能
 
@@ -45,6 +45,7 @@ Microsoft advanced 特殊化建基於合作夥伴可獲得的相關 [金](learn-
 
 **Azure** advanced 特殊化包括：
 
+- Microsoft Azure 上的分析
 - 資料倉儲移轉至 Microsoft Azure
 - Microsoft Azure 上的 Kubernetes
 - Linux 和開放原始碼資料庫移轉至 Microsoft Azure
@@ -73,7 +74,7 @@ Microsoft advanced 特殊化建基於合作夥伴可獲得的相關 [金](learn-
 > [!NOTE]
 > 若要深入瞭解每個 advanced 特製化，以及其必要條件和需求，請造訪 [Advanced 特製化] [頁面](https://partner.microsoft.com/membership/advanced-specialization)。 當您準備好要申請 advanced 特製化時，請登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)來檢查您的進度。 若要深入瞭解如何存取合作夥伴中心的這個區域，請參閱 [適用于 advanced 特製化](advanced-specializations-apply.md)。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - 使用合作夥伴中心來[申請和檢查 advanced](advanced-specializations-apply.md)特製化的狀態
 
