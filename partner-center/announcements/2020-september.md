@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
-ms.translationtype: HT
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878795"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705006"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -36,7 +36,7 @@ ________________
 
 ### <a name="details"></a>詳細資料
 
-現今合作夥伴可以使用合作夥伴中心或 Microsoft 365 系統管理中心，針對 CSP 軟體訂單進行軟體下載和授權金鑰履行。 從 **2021 年 1 月 19 日** 起，將會淘汰合作夥伴中心軟體和授權金鑰履行功能，而且合作夥伴將會基於此目的而使用 **Microsoft 365 系統管理中心**。 合作夥伴中心內的 [客戶軟體] 頁面將包含 Microsoft 365 系統管理中心的「深層連結」，您可在其中取得客戶授權和軟體下載。 這有助於確保客戶擁有最安全且有效率的體驗。
+現今合作夥伴可以使用合作夥伴中心或 Microsoft 365 系統管理中心，針對 CSP 軟體訂單進行軟體下載和授權金鑰履行。 從 **2021 年1月 19** 日起，合作夥伴中心的軟體和授權金鑰履行功能將被淘汰，而合作夥伴將會指出客戶僅針對此目的使用 **Microsoft 365 管理中心** 。 合作夥伴中心中的 [客戶軟體] 頁面會包含 Microsoft 365 管理中心的「深層連結」，您可以在其中指向客戶以取得客戶授權和軟體下載。 這有助於確保客戶擁有最安全且有效率的體驗。
 
 軟體授權金鑰和下載連結是重要且廣受歡迎的智慧財產資產。 如果外洩，很快就會耗盡其啟用限制，並造成負面的客戶和合作夥伴體驗。 因此，合作夥伴務必使用最安全的技術和最佳做法，協助防護這些重要的資產並保護其客戶。
 

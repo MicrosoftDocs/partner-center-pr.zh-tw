@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685917"
+ms.locfileid: "98705023"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -126,8 +126,7 @@ ________________
 
 如同今天的[公告](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)，我們很高興地通知您，商業永久軟體授權現已正式推出，可供所有 CSP 合作夥伴銷售。 合作夥伴中心 CSP 永久軟體價目表已重新發佈，現在包含其他產品和地理位置。
 
-另請注意，從今天起，合作夥伴中心的軟體和授權金鑰履行功能已淘汰，而合作夥伴和客戶今後應該使用 Microsoft 365 系統管理中心來達到此目的。
-如需進一步的詳細資訊和後續步驟，請參閱下文。
+另請注意，從今天開始，合作夥伴中心的軟體和授權金鑰履行功能已淘汰，未來的夥伴應將客戶指向 Microsoft 365 的系統管理中心，以達到此目的。 如需進一步的詳細資訊和後續步驟，請參閱下文。
 
 ### <a name="next-steps"></a>後續步驟
 
