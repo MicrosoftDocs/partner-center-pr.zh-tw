@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 83d2abd4c799a9776087efc4fb4f5e755ecbadad
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685900"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717840"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "98685900"
 
 | **類別** | **2021 年 1 月公告** | **公告** |
 |---------|:---------|:---------|
+|功能|[合作夥伴中心 Audit 記錄檔變更，以包含兩個新的作業類型](2021-january.md#13)|1月25日|
 |功能|[Azure 中的 Azure 供應專案變更提供與 CSP 中新商務體驗相關的 Azure 供應專案](2021-january.md#12)|1月21日|
 |拓展您的業務|[永久軟體現已針對雲端解決方案提供者計畫正式推出](2021-january.md#11)|1 月 19 日|
 |拓展您的業務|[提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介](2021-january.md#10)|1 月 19 日|

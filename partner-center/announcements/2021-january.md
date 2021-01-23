@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705023"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717823"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -23,6 +23,38 @@ ms.locfileid: "98705023"
 2021 年公告：1 月
 
 2020 公告：[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> 合作夥伴中心 Audit 記錄檔變更，以包含兩個新的作業類型
+
+### <a name="categories"></a>類別
+
+- 日期：2021-01-25
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+所有雲端解決方案提供者合作夥伴
+
+### <a name="details"></a>詳細資料
+
+今天宣佈，我們很高興通知您，我們已在合作夥伴中心活動記錄中公開兩個新的作業類型，以在客戶核准或移除委派的系統管理員關聯性時，為合作夥伴提供可見度。
+
+以下是新的作業類型：
+
+"operationType"： "dap_admin_relationship_terminated"
+
+"operationType"： "dap_admin_relationship_approved"，
+
+### <a name="next-steps"></a>後續步驟
+
+- 利用新的作業類型來追蹤客戶核准的授權和客戶終止時的事件。  
+- [取得合作夥伴中心活動的記錄-合作夥伴中心應用程式開發人員 |Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [審核資源-合作夥伴中心應用程式開發人員 |Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>有問題嗎？
+
+如有任何進一步的問題，請洽詢相關的 CSP Yammer 社群。
 
 ________________
 ## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Azure 中的 Azure 供應專案變更提供與 CSP 中新商務體驗相關的 Azure 供應專案
@@ -130,7 +162,7 @@ ________________
 
 ### <a name="next-steps"></a>後續步驟
 
-- 在合作夥伴中心 [定價與供應項目](https://partnercenter.microsoft.com/en-us/pcv/sales)頁面的 [軟體] 區段中下載 **CSP 永久軟體** 價目表。 您可以在[這裡](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)找到新增的產品和地理位置清單。
+- 在合作夥伴中心 [定價與供應項目](https://partnercenter.microsoft.com/pcv/sales)頁面的 [軟體] 區段中下載 **CSP 永久軟體** 價目表。 您可以在[這裡](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)找到新增的產品和地理位置清單。
 - 請檢閱 [Microsoft 365 系統管理中心永久軟體和產品授權金鑰下載操作說明文章](https://go.microsoft.com/fwlink/p/?linkid=2152525)，而當客戶準備好下載其軟體和授權金鑰時，與其分享該文章。
 - 檢閱[雲端解決方案提供者計畫中的永久軟體](https://partner.microsoft.com/resources/collection/software-in-csp#/)整備資料。 使用此[整備地圖](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)，快速找出適合您角色的資訊。
 
@@ -516,7 +548,7 @@ Microsoft 宣佈即將推出新的 Dynamics 365 供應項目變更，且將於 2
 
 在 2021 年 2 月 1 日，Microsoft 將會建立新的「額外回應」供應項目 (具有 1000 個回應權利)，以取代現有供應項目 (具有 2000 個調查回應)，後者的銷售截止日為 2021 年 2 月 1 日。
 
-如需 SKU 詳細資料，請參閱 [Dynamics CSP Offers-February 2021 Excel 文件](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)中的 [Customer Voice Addl Resp] 索引標籤。 如需詳細資訊，請檢視 [Microsoft Dynamics 365 Customer Voice 首頁](https://dynamics.microsoft.com/en-us/customer-voice/overview/)。
+如需 SKU 詳細資料，請參閱 [Dynamics CSP Offers-February 2021 Excel 文件](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls)中的 [Customer Voice Addl Resp] 索引標籤。 如需詳細資訊，請檢視 [Microsoft Dynamics 365 Customer Voice 首頁](https://dynamics.microsoft.com/customer-voice/overview/)。
 
 **Dynamics 365 Customer Service Insights 停止提供服務**
 

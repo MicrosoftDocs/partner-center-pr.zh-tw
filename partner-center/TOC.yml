@@ -110,6 +110,9 @@
     - name: Microsoft 合作夥伴合約 - 雲端解決方案提供者
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: 間接提供者如何能夠協助其轉銷商採用 MPA
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: 雲端解決方案提供者直接合作夥伴需求
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'
