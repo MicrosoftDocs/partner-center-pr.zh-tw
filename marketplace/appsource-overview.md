@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166693"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759857"
 ---
 # <a name="what-is-microsoft-appsource"></a>什麼是 Microsoft AppSource？
 
@@ -46,7 +46,7 @@ AppSource 中提供的每項產品都已根據特定準則獲得認證。 我們
 
 軟體廠商會定義價格、使用者授權合約和隱私權原則。 AppSource 上的每個供應專案都包含發行者的授權合約和隱私權原則的連結。 觀賞和確認這些合約是購買流程的一部分。 如需詳細資訊，請參閱 [法律合約](legal-contracts.md)。
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>探索 SaaS 和 M365 整合式應用程式
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>探索 SaaS 和 Microsoft 365 整合式應用程式
 
 我們的合作夥伴可以在 SaaS 應用程式與其對應的增益集之間進行連結，以進行 Microsoft 365。 當您取得與增益集連結的 SaaS 應用程式時，這可讓您從特定的 Microsoft 365 服務或產品下載及使用增益集。
 
