@@ -1,29 +1,27 @@
 ---
 title: 與 CSP 計畫中的間接提供者合作
 ms.topic: how-to
-ms.date: 12/16/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解間接經銷商如何與 Microsoft 間接提供者 (或代理商) 合作，以協助提供客戶支援和計費服務。
 ms.prod: ''
 ms.custom: contperf-fy21q2
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
-ms.translationtype: HT
+ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636019"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773454"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在雲端解決方案提供者計畫中與間接提供者成為合作夥伴
 
 **適當的角色**
 
-
-- 所有想要註冊加入雲端解決方案提供者計畫的 Microsoft 合作夥伴
-
+- 全域系統管理員
 
 雲端式解決方案與服務的快速成長需求，為所有大小的 Microsoft 合作夥伴提供許多機會來建立可獲利的雲端解決方案業務。 準備好要進入市場，但不願管理多個廠商，或是端對端客戶關係管理基礎結構可能尚不到位的合作夥伴，可以間接經銷商的身分來參加 Microsoft 的雲端解決方案提供者 (CSP) 計畫成為間接經銷商。
 
@@ -80,12 +78,11 @@ ms.locfileid: "97636019"
 
 5. 將 MPN 識別碼與 Azure 識別碼租用戶建立關聯。
 
-    1. 從 [帳戶設定] 選取 [識別碼]。
-
-    1. 在 [CSP] 區段下，使用 [更新] 連結，來更新與 CSP 帳戶相關聯的 MPN 識別碼。 
- 
+    1. 使用您的 MPN 帳戶登入。 移至 [**設定**  ->  **帳戶設定**  ->  **組織設定檔**  ->  **識別碼**]。 請查看您的 MPN 識別碼，並選取其國家/地區與您 CSP 帳戶的國家/地區相同的識別碼。 換句話說，您的 CSP 帳戶和相關聯的 MPN 識別碼必須位於相同的國家/地區。
+    
+     
  > [!IMPORTANT]  
-   > 選取與使用中公司設定檔相關的 MPN ID，而且位於您 Azure AD 租用戶的相同國家/地區。
+   > 選取與您的 CSP 帳戶位於相同國家/地區的 MPN 識別碼。
 
 6. 您的合作夥伴中心帳戶準備好可以使用時，請確認您已新增至系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
 
@@ -146,5 +143,5 @@ ms.locfileid: "97636019"
 - [建立商務設定檔](create-a-marketing-profile.md)
 
 - [了解驗證程序](verification-responses.md)
- 
+
 - [查看直接計費合作夥伴需求](direct-partner-new-requirements.md)

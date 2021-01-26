@@ -1,7 +1,7 @@
 ---
 title: 管理合作夥伴帳戶中的位置
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何新增位置，以及如何在獎勵計畫、雲端解決方案提供者業務、訂閱和其他交易中使用 MPN 識別碼。
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
-ms.translationtype: HT
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514789"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773430"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理您的 MPN 帳戶位置並新增位置
 
-**適用於**
-
-- 合作夥伴中心
 
 **適當的角色**
 
@@ -38,7 +35,7 @@ Contoso 在英國有其合作夥伴通用帳戶 (PGA)。 這是其已註冊的�
 
 :::image type="content" source="images/locations/locations1.png" alt-text="MPN 位置的結構":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>為 CSP 業務新增位置的必要條件
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>為 CSP 企業新增帳戶位置的必要條件
 
 若要新增 CSP 業務位置，有幾個必要條件：
 

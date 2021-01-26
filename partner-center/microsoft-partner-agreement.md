@@ -1,20 +1,20 @@
 ---
 title: 雲端解決方案提供者 (CSP) 的 Microsoft 合作夥伴合約 (MPA)
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入了解 Microsoft CSP 合作夥伴需求，以簽署並確認此統一、數位化的 Microsoft 合作夥伴合約 (MPA)。
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
-ms.translationtype: HT
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105506"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773469"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解 CSP 計畫合作夥伴的 Microsoft 合作夥伴合約 (MPA)
 
@@ -68,6 +68,20 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 
 請記得接受與間接提供者的 CSP 關聯性要求。
 
+## <a name="sign-the-mpa"></a>簽署 MPA
+
+1. 使用您的 CSP 間接轉銷商帳戶登入合作夥伴中心。 您必須是全域管理員。
+1. 移至 **[CSP 總覽](https://partner.microsoft.com/pcv/dashboard/overview)** 頁面。  如果您沒有看到 [ **接受] 和 [繼續** ] 或綠色橫幅告訴您已簽署 mpa，表示您沒有正確的角色可簽署 mpa。 請洽詢您的全域管理員以簽署 MPA。
+
+1. 若要在簽署之前先查看 **Microsoft 合作夥伴合約** ，請按一下 Microsoft 合作夥伴合約連結，如下所示。
+
+:::image type="content" source="images/agreement-three.png" alt-text="新的 MPA 合約位置":::
+
+>[!NOTE]
+>如果您沒有看到 **Microsoft 合作夥伴合約** 連結，請在合作夥伴中心中檢查您的角色。 只有 CSP 租使用者的全域管理員可以在合作夥伴中心中查看和簽署 MPA。 若要檢查您的角色，請移至 [ **使用者管理** ]，並檢查登入帳戶是否標示為 [ **全域管理員**]。如果不是，則無法使用此帳戶來簽署 MPA。 您可以在 [使用者管理] 頁面上搜尋公司中的全域管理員。
+
+:::image type="content" source="images/user-management-clean.png" alt-text="如何尋找您的角色":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>確認您已簽署 MPA
 
 若要了解您是否已簽署 MPA：
@@ -75,17 +89,17 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
  以貴公司全域管理員的身分，移至您的 [CSP 概觀](https://partner.microsoft.com/pcv/dashboard/overview)並查看綠色橫幅，此處會出現接受 MPA 的通知。
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="顯示接受 MPA 的綠色橫幅":::
+:::image type="content" source="images/banner-boxed.png" alt-text="顯示接受 MPA 的綠色橫幅":::
 
 >[!NOTE]
 >只有公司的全域管理員可以檢視和簽署 MPA。 如果您不是全域管理員，則必須要求全域管理員驗證 MPA。
 
 您也可以從 [帳戶設定] 中選取 [合約]，查看是否已簽署合約。
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="表示已簽署 MPA":::
+:::image type="content" source="images/agreement-new.png" alt-text="表示已簽署 MPA":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>下載過程中最適合您的逐步指南
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>下載適用于您在 MPA 簽署程式中的逐步指南
 
 1. 如果要將 MPN 帳戶從 PMC 遷移至合作夥伴中心：[從 PMC 遷移至合作夥伴中心，並接受 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

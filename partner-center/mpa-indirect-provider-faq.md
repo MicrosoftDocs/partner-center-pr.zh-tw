@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ca7dd4239821fedfdb017c7a475b31b9e91cf68
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: a6cf5bc3d1e0f28a9c4e0a11d8a603297fa57bf9
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98739249"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773498"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-adopt-the-microsoft-partner-agreement-mpa"></a>間接提供者如何能協助其間接轉銷商採用 Microsoft 合作夥伴合約 (MPA) 
 
@@ -126,13 +126,13 @@ ms.locfileid: "98739249"
 ### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>我想要將我的 MPN 帳戶從 Partner Membership Center 遷移至合作夥伴中心。 我該怎麼做？ 我不知道誰是我在 PMC 中 MPN 的系統管理員，要如何遷移？ 
 
 **解答** 逐步解說如何將 [MPN 從 PMC 遷移至 PC](guide-to-migration.md)的逐步指南。 它有各種連結可供您遷移協助。
--   [雲端解決方案提供者 (CSP) 的 Microsoft 合作夥伴合約 (MPA)](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process)
+-   [雲端解決方案提供者 (CSP) 的 Microsoft 合作夥伴合約 (MPA)](microsoft-partner-agreement.md)
 
 如果發生問題，請從合作夥伴中心中提出 [支援票證](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) 。 
 
 ### <a name="are-there-any-localized-step-by-step-instructions-available"></a>是否有任何可用的當地語系化逐步指示？
 
-**解答** 是的，我們在這裡提供當地語系化的指導方針：適用于 [Microsoft 合作夥伴合約 IN CSP 方案的間接轉銷商](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  入門 (語言：西班牙文、韓文、中文、日文) 
+**解答** 是的，我們已提供當地語系化的指導方針：適用于 [Microsoft 合作夥伴合約 IN CSP 方案的間接轉銷商](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  上線 (語言：西班牙文、韓文、中文、日文) 
 
 ### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-sign-mpa-"></a>我不知道誰可以簽署 MPA 合作夥伴中心系統管理員？
 
@@ -159,8 +159,8 @@ ms.locfileid: "98739249"
 
 如果您無法自行修正問題，請使用您的 CSP 帳戶登入，並在合作夥伴中心中提出支援票證：
 
-- 針對商務驗證問題，請按一下 [這裡](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  
-- 針對雇用驗證問題，請按一下 [這裡](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)
+- 針對商務驗證問題，請建立 [支援要求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)。  
+- 針對雇用驗證問題，請建立 [支援要求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)。
 
 :::image type="content" source="images/rejected-faq-mpa.png" alt-text="拒絕":::
 
