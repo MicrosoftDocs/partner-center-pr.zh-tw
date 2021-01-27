@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴貢獻指標-SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 (PCI) 合作夥伴必須符合的合作夥伴貢獻指標，才能達到中小型雲端解決方案專長認證。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204112"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861422"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>使用合作夥伴貢獻指標來達成中小型雲端解決方案專長認證
 
@@ -157,11 +157,10 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 - 淨新收入會定義為所有銷售通路的淨新計費收益，以符合資格的 Dynamics 365 產品。
 - 淨新收入會加總12個月期，且最多可以有10個月的收益。
 - 淨新收入的點會計算為帳單減去點數，並匯總超過12個月。
-- 淨新收入的計算依據如下：符合客戶參與路徑或財務和操作路徑的產品資格：
+- 淨新收入是根據下列合格產品的任何組合計算：
   - Dynamics 365 Customer Engagement-符合資格的產品包括：銷售、行銷、客戶服務、現場服務、Project server、方案1、自動化、行銷、Microsoft 關聯性銷售
-  - 財務和營運符合資格的產品包括：商務中央、容量和儲存體、財務和營運 (包括詐騙保護、營運、零售、HR、方案 2) 、混合現實、小組成員
-  - Dynamics 365 Business Central
-
+  - 財務和營運符合資格的產品包括： Dynamics 365 Business Central、容量和儲存體、財務和營運 (包括詐騙保護、營運、零售、HR、方案 2) 、混合現實、小組成員
+  
 - 銷售通路包括 Enterprise 合約 (EA) 、雲端解決方案提供者 (CSP) 和 Web Direct。
 - 針對 Enterprise 合約僅限收入：此收益包含合約第一年的收入。 不包含第二和第三年的週期性收入。
 
