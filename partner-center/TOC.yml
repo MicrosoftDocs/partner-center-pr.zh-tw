@@ -51,6 +51,9 @@
         - name: 尋找您的 MPN 權益
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: 支付專長認證費用
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: 專長認證
       items:
         - name: 了解專長認證
