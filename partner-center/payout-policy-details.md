@@ -1,20 +1,20 @@
 ---
-title: 付款排程和流程
+title: 支出排程和流程
 description: 瞭解支出和交易，例如商務 marketplace 和其他交易的付款排程和 recoupment 流程。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492665"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861405"
 ---
-# <a name="payout-schedules-and-processes"></a>付款排程和流程
+# <a name="payout-schedules-and-processes"></a>支出排程和流程
 
 **適當的角色：**
 
@@ -37,6 +37,7 @@ ms.locfileid: "97492665"
 | --- | --- | --- | --- |
 | 交易的使用量或月份 | 客戶使用或購買服務。 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第1個月** |
 | Microsoft 計算帳單金額 | 判斷總使用量和交易總計 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第2個月** |
+| 客戶付款的發票 | Microsoft 會從客戶收集款項 | 沒有變更 | **第2個月** |
 | 已張貼付款 | 判斷機關費和支出收益 | 在付款[語句](payout-statement.md)的交易歷程記錄中標示為未處理 | **第3個月 (第一周)** |
 | 準備付款 | 每月付款已備妥收益 | 在付款[聲明](payout-statement.md)的交易歷程記錄中標示為即將推出 | **第3個月 (第一周)** |
 | **已傳送支出** | **付款會傳送給發行者** | **標示為在交易歷程記錄和付款 [聲明](payout-statement.md)的付款區段中傳送** | **第3個月 (不晚于 15)** |
