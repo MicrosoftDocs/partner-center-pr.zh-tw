@@ -1,7 +1,7 @@
 ---
 title: Microsoft 金級、銀級專長認證需求
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解如何透過符合專長認證需求來贏得金和銀會員資格等級，從而贏得Microsoft 精英合作夥伴的地位並吸引新客戶。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
-ms.translationtype: HT
+ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
+ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691328"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98912534"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>獲得 Microsoft 專長認證，讓您的企業脫穎而出
 
@@ -68,6 +68,8 @@ ms.locfileid: "94691328"
 - 深入了解專長認證所包含的特定[上市資源](mpn-learn-about-go-to-market-benefits.md)。
 
 - 深入了解[專長認證的發票和稅金](mpn-view-print-maps-invoice.md)。
+
+- 瞭解如何支付與銀級或金級專長認證成員資格相關聯 [的費用](mpn-pay-fee-silver-gold-competency.md) 。
 
 - 檢視合作夥伴中心深入解析[專長認證報表](pci-competencies-report.md)，其中會顯示您的專長認證目前的狀態。
 
