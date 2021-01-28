@@ -1,7 +1,7 @@
 ---
 title: 管理合作夥伴帳戶中的位置
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何新增位置，以及如何在獎勵計畫、雲端解決方案提供者業務、訂閱和其他交易中使用 MPN 識別碼。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773430"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925027"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理您的 MPN 帳戶位置並新增位置
 
@@ -35,45 +35,51 @@ Contoso 在英國有其合作夥伴通用帳戶 (PGA)。 這是其已註冊的�
 
 :::image type="content" source="images/locations/locations1.png" alt-text="MPN 位置的結構":::
 
-## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>為 CSP 企業新增帳戶位置的必要條件
+## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>為 CSP 商務新增帳戶的必要條件
 
-若要新增 CSP 業務位置，有幾個必要條件：
+若要加入新的 CSP 商務帳戶，請先確定您已滿足必要條件。
 
-1. 您必須在想要執行業務的國家/地區中擁有位置 MPN 識別碼。
-
-1. 您在尚未註冊 CSP 的[業務區域](regional-authorization-overview.md)中需要新的 Azure AD 租用戶。 當您註冊 CSP 時，請建立此項目。
- 
-3. 使用新的 AAD 租用戶在區域中註冊 CSP 計畫。
-提供合法公司的詳細資料，包括合法公司名稱、地址、主要連絡人詳細資料。 此帳戶會進行驗證，因此請務必新增有效的資訊。
+1. 您的國家/地區必須要有一個位置 MPN 識別碼。 若要建立新的 MPN 位置，請閱讀下方的「新增 MPN 位置」。
+  
+1. 若要建立新的 CSP 間接轉銷商註冊，請參閱 [使用間接提供者的工作](indirect-reseller-tasks-in-partner-center.md#get-started) 
 
 >[!NOTE] 
- >請記得使用 **新的** Azure AD 租用戶的 **新** 認證來登入。 請不要使用現有認證，因為合作夥伴中心會將您識別為已擁有帳戶。
+ >請記得 **使用新的 CSP 帳戶****新** 的認證登入。 請不要使用現有認證，因為合作夥伴中心會將您識別為已擁有帳戶。
 
-4. 接受 Microsoft 合作夥伴合約並啟用帳戶。
+2. 接受 Microsoft 合作夥伴合約並啟用帳戶。
 
 ## <a name="add-an-mpn-location"></a>新增 MPN 位置
 
-1. 在合作夥伴中心使用 MPN 帳戶登入。 MPN 帳戶應具備全域管理員或帳戶系統管理員權限。 
+1. 使用合作夥伴中心中的 MPN 帳戶登入。  (您的 MPN 認證可能與您) 的 CSP 認證不同。 MPN 帳戶應具備全域管理員或帳戶系統管理員權限。 
 
-1. 從 [設定] 圖示選取 [組織設定]。
+1. 從 [ **設定] 圖示** 選取 **帳戶設定** ，然後選取 [ **組織設定檔**]。
 
-2. 選取 [法律]，然後選取 [位置]。
+2. 選取 [ **法律聲明** ]，然後在 [ **夥伴** ] 索引標籤上，選取 [ **商務位置]，** 然後按一下 [ **新增位置]。**
 
-3. 選取 [新增位置]，然後插入要新增至公司位置的地址詳細資料，以及該位置的主要連絡人。
+3. 提供所需的詳細資料，包括您想要新增至公司之位置的公司名稱、位址和連絡人。
+ 
+1. 按一下 [ **新增位置**]。 這會為新的位置建立新的 MPN 識別碼，您可以將其用於 CSP 交易和獎勵。
+
+:::image type="content" source="images/legal-biz.png" alt-text="新增法律聲明企業":::
 
 > [!NOTE]
 > 在合作夥伴中心新增位置後，即無法將其移除。 如果您已使用正確的 MPN 識別碼來登入，您會在合作夥伴中心的左側功能表中看到 **MPN**。
 
-## <a name="change-global-partner-account-location"></a>變更全球合作夥伴帳戶位置
+## <a name="change-country-of-partner-global-account"></a>變更合作夥伴通用帳戶的國家/地區 
 
-1. 在 **[商務位置](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)** 上檢查位置清單，來確定已列出您要作為法律實體的位置。 如果沒有，請新增它。
+1. 使用合作夥伴中心中的 MPN 帳戶登入。  (您的 MPN 認證可能與您) 的 CSP 認證不同。 MPN 帳戶應具備全域管理員或帳戶系統管理員權限。 
 
-   :::image type="content" source="images/accountsettings/location1.png" alt-text="合作夥伴中心帳戶位置頁面的螢幕擷取畫面，其中包含所有目前位置的清單。":::
+2. 在 [ **夥伴** ] 索引標籤上，移至 [ **商務位置** ] 並檢查位置清單，以確保列出您想要的位置，以列出您的法律實體。 
+ 
+1. 若要新增位置，請按一下 [ **新增位置**]，然後在 [飛出] 中提供所需的詳細資料，包括您想要新增至公司之位置的公司名稱、位址和主要連絡人。 
+ 
+1. 選取 [**國家/地區**] 下拉式清單旁的 [**變更您的國家**/地區]，然後依照步驟執行。 
 
-2. 選取 [法律]，然後選取 [更新法定公司設定檔]。
-  
-3. 選取區域和法律實體，然後加以 **提交**。
+:::image type="content" source="images/lbp.png" alt-text="法律聲明商務設定檔資料飛出":::
 
+5. 按一下 [儲存]。
+
+6. MPN global account country 將會變更為新的法律國家/地區。
   
 ## <a name="next-steps"></a>後續步驟
 

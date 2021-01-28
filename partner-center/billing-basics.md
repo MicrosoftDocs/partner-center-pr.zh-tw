@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
-ms.translationtype: HT
+ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570700"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924943"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>在合作夥伴中心運作的 CSP 方案合作夥伴計費概觀 
 
@@ -53,7 +53,7 @@ Microsoft 對於您開立發票的處理方式上沒有任何要求或條件。
 
 **授權型和用量型計費**：您將以您所在國家或地區的貨幣來支付產品的費用。 無論您銷售產品的客戶位置在哪裡，您都必須支付相同的費用。
 
-**一次性計費**：帳單會以客戶的貨幣內容產生。 這表示如果您是與不同可計費貨幣的客戶進行交易的合作夥伴，則會收到每個客戶貨幣類型的發票。 請深入了解[一次性和週期性](azure-plan-billing.md)。 
+單次 **計費**：從2021年1月28日開始，歐盟/EFTA 和 UK 區域中有新客戶和 UK 客戶的合作夥伴，在第一次購買新的商務供應專案時，如果租使用者在 11 2020 月11日之前建立了新的商務供應專案，則會以合作夥伴位置貨幣收取這些購買專案的費用。  位於歐盟/EFTA 和 UK 地區之外的合作夥伴將繼續以合作夥伴位置貨幣計費。 請深入了解[一次性和週期性](azure-plan-billing.md)。 
 
 ## <a name="invoices"></a>發票
 

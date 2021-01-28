@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717823"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924894"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -24,8 +24,98 @@ ms.locfileid: "98717823"
 
 2020 公告：[5 月](2020-may.md) | [6 月](2020-june.md) | [7 月](2020-july.md) | [8 月](2020-august.md) | [9 月](2020-september.md) | [10 月](2020-October.md) | [11 月](2020-november.md) | [12 月](2020-december.md)  
 
+_____________ 
+
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> 第1階段上線： EU/EFTA & UK 變更新商務優惠的合作夥伴帳單貨幣
+
+### <a name="categories"></a>類別
+
+- 日期：2021-01-28
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+- 所有合作夥伴都交易在歐盟/EFTA & UK 的雲端解決方案提供者計畫中
+
+### <a name="details"></a>詳細資料
+
+在歐盟 (EU) /European 免費貿易協會 (EFTA) 和英國 (UK) ，雲端解決方案提供者計畫中的所有新商務供應專案都會使用合作夥伴計費位置，而不是客戶帳單位置。 因此，Microsoft 將依據合作夥伴所在位置的貨幣 (而非其客戶所在位置的貨幣) 對合作夥伴計費。 這些變更會分兩個階段完成：
+
+**階段 1：**
+
+- 在 CSP 中購買新商業供應項目的新客戶
+
+- 現有客戶第一次購買新的商業供應項目 - 在 2020 年 5 月 11 日之前建立的租用戶
+
+從 2021 年 1 月 28 日開始，若合作夥伴有全新客戶購買新的商業供應項目，或在 2020 年 5 月 11 日之前建立租用戶的現有客戶首次購買新的商業供應項目，將會以合作夥伴所在位置的貨幣向這些購買計費。  
+
+有現有客戶已在 CSP 中購買新商業供應項目的合作夥伴，在此階段將繼續以客戶計費位置的貨幣計費。 此外，若合作夥伴的現有客戶首次購買新的商業供應項目，但其租用戶是在 2020 年 5 月 11 日當天或之後建立，則會繼續以客戶的貨幣來計費。
+
+**階段 2：**
+
+- 在階段 1 之前，已在 CSP 中購買新商業供應項目的現有客戶
+- 現有客戶第一次購買新的商業供應項目 - 在 2020 年 5 月 11 日當天或之後建立的租用戶
+
+在階段 1 之後及日曆年度 2021 年期間，若有合作夥伴的現有客戶在階段 1 之前於 CSP 中購買了新商業供應項目，以及其客戶是在 2020 年 5 月 11 日當天或之後建立租用戶的，則 Microsoft 會將這些合作夥伴的新商業供應項目的計費從客戶所在位置的貨幣轉換為合作夥伴所在位置的貨幣。 在實作這項變更之前，合作夥伴會先收到通知。
+
+第2階段之後，EU/EFTA & UK 的夥伴將會以合作夥伴的位置貨幣計費，以供所有客戶和所有 CSP 購買之用。
+
+>[!NOTE]
+>這項變更只會影響合作夥伴的計費貨幣，而不會影響 CSP 中新商業供應項目的定價。 這項變更涵蓋的新商業供應項目包括：雲端解決方案提供者計畫中屬於 Azure 方案、Azure 保留、伺服器訂閱、永久軟體和 Microsoft 商業市集購買的 Azure 訂閱。
+
+### <a name="partner-benefits"></a>合作夥伴權益
+
+這項更新可降低在 EU/EFTA & UK 針對新商務體驗進行多貨幣發票的複雜性和額外負荷。
+
+- 合作夥伴將收到採用單一貨幣的合併發票，而不會再收到個別客戶所在地貨幣的發票
+- 獎勵給付將採用與合作夥伴的發票貨幣相同的貨幣
+- 合作夥伴會發現多幣別發票所導致的計費複雜性不復存在，而能夠省下現行與對帳有關的時間和資源
+- 對於尚未採用新商業供應項目的合作夥伴，這項變更與先前的合作夥伴計費模型保持一致，讓合作夥伴能更輕鬆地轉換至 CSP 的新商業體驗
+
+### <a name="next-steps"></a>後續步驟
+
+請在 Microsoft 合作夥伴網站上的[作業資源庫](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (需要登入) 中參閱本主題的相關資訊。  
+
+### <a name="questions"></a>有問題嗎？
+
+如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (需要登入)。
+
+### <a name="change-log"></a>變更記錄
+
+- 2020 年 11 月 17 日：原始發行
+- 2021 年 1 月 7 日：階段 1 和階段 2 中包含的其他案例
+- 2021年1月28日： 
+    -    宣佈第1階段正式運作 
+    -    在 EU/EFTA 中未包含 UK 時進行闡述，其為 [Microsoft 歐洲地區和市場](https://docs.microsoft.com/partner-center/regional-authorization-overview) 的一部分，而且會受到影響
+
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> 合作夥伴中心 Audit 記錄檔變更，以包含兩個新的作業類型
+## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft 合作夥伴合約 (MPA) –間接轉銷商更新 & 新的常見問題 
+
+### <a name="categories"></a>類別
+
+- 日期：2021-01-27
+- 功能
+ 
+### <a name="impacted-audience"></a>影響對象
+
+所有間接轉銷商 & 透過雲端解決方案提供者 (CSP) 計畫交易的間接提供者。
+
+### <a name="details"></a>詳細資料
+
+間接轉銷商的 Microsoft 合作夥伴合約 (MPA) 目前正在進行中。 為了進一步支援提供者和轉銷商，我們聽到了您的意見反應，現在已將如何接受 MPA 的一般查詢合併到新的常見問題 [頁面](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)。
+
+### <a name="next-steps"></a>後續步驟
+
+**間接轉銷商：** 如果您未接受 MPA，請參閱 [Mpa 常見問題](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) ，並遵循 [此處](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) 提供的逐步指引來接受 mpa。
+
+**間接提供者：** 與您的間接轉銷商聯繫，並使用 [MPA 常見問題](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) 和 [此處](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)提供的逐步指引來支援這些轉銷商。
+
+### <a name="questions"></a>有問題嗎？
+
+如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> 合作夥伴中心 Audit 記錄檔變更，以包含兩個新的作業類型
 
 ### <a name="categories"></a>類別
 
@@ -57,7 +147,7 @@ ________________
 如有任何進一步的問題，請洽詢相關的 CSP Yammer 社群。
 
 ________________
-## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> Azure 中的 Azure 供應專案變更提供與 CSP 中新商務體驗相關的 Azure 供應專案
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="11"></a> Azure 中的 Azure 供應專案變更提供與 CSP 中新商務體驗相關的 Azure 供應專案
 
 ### <a name="categories"></a>類別
 
@@ -143,7 +233,7 @@ ________________
 如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
 
 ________________
-## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a>永久軟體現已針對雲端解決方案提供者計畫正式推出
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="10"></a>永久軟體現已針對雲端解決方案提供者計畫正式推出
 
 ### <a name="categories"></a>類別
 
@@ -171,7 +261,7 @@ ________________
 如有任何進一步的問題，請洽詢相關的 CSP Yammer 社群。
 
 _____________
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a>提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介 
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a>提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介 
 
 ### <a name="categories"></a>類別
 
@@ -220,7 +310,7 @@ Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥
 
 _____________
 
-## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>2021 年 2 月 1 日即將推出安全性、合規性和身分識別 (SCI) 
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="8"></a>2021 年 2 月 1 日即將推出安全性、合規性和身分識別 (SCI) 
 
 ### <a name="categories"></a>類別
 
@@ -280,7 +370,7 @@ Microsoft 365 E5 必要條件隨附的附加元件可讓客戶將其資料保留
 
 _____________ 
 
-## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>Microsoft 合作夥伴合約 (MPA) 下的合作夥伴從 DocuSign 遷移至 Adobe Sign 
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="7"></a>Microsoft 合作夥伴合約 (MPA) 下的合作夥伴從 DocuSign 遷移至 Adobe Sign 
 
 ### <a name="categories"></a>類別
 
@@ -326,7 +416,7 @@ Adobe Sign 是 Microsoft 慣用的電子簽章解決方案 (ESS)。 轉換成 Ad
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>挪威克朗的商業定價更新 
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="6"></a>挪威克朗的商業定價更新 
 
 ### <a name="categories"></a>類別
 
@@ -344,7 +434,7 @@ _____________
 
 _____________ 
 
-## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="6"></a>印度幣的商業定價更新 
+## <a name="commercial-pricing-update-for-the-indian-rupee"></a><a name="5"></a>印度幣的商業定價更新 
 
 ### <a name="categories"></a>類別
 
@@ -363,7 +453,7 @@ _____________
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="5"></a>2021 年 2 月 1 日的通話方案和電話系統更新
+## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>2021 年 2 月 1 日的通話方案和電話系統更新
 
 ### <a name="categories"></a>類別
 
@@ -403,7 +493,7 @@ Microsoft 365 E1、E3 和 E5 中搭配此附加元件的供應項目將包含電
 
 _____________ 
 
-## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>2021 年 1 月的授權型價目表更新 
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="3"></a>2021 年 1 月的授權型價目表更新 
 
 ### <a name="categories"></a>類別
 
@@ -438,69 +528,6 @@ _____________
 
 - 合作夥伴應從合作夥伴中心下載最新的價目表檔案，以取得已更正的 1 月和 2 月定價。 
 - 如果受影響租用戶的全域管理員在 1 月 1 日到 1 月 6 日之間購買了訂用帳戶，他們將會在 1 月底前收到合作夥伴中心的電子郵件通知，其中會提供更多詳細資料。 
-
-_____________ 
-
-## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> 合作夥伴計費貨幣的 EU/EFTA 變更 (適用於新商業供應項目)
-
-### <a name="categories"></a>類別
-
-- 日期：2021-01-07
-- 功能
-
-### <a name="impacted-audience"></a>影響對象
-
-- EU/EFTA 地區中透過雲端解決方案提供者計畫進行交易的所有合作夥伴 
-
-### <a name="details"></a>詳細資料
-
-在歐盟 (EU)/歐洲自由貿易聯盟 (EFTA) 地區中，雲端解決方案提供者計畫中所有新的商業供應項目都將使用合作夥伴計費位置，而不是客戶計費位置。 因此，Microsoft 將依據合作夥伴所在位置的貨幣 (而非其客戶所在位置的貨幣) 對合作夥伴計費。 這些變更會分兩個階段完成：
-
-**階段 1：**
-
-- 在 CSP 中購買新商業供應項目的新客戶
-
-- 現有客戶第一次購買新的商業供應項目 - 在 2020 年 5 月 11 日之前建立的租用戶
-
-從 2021 年 1 月 28 日開始，若合作夥伴有全新客戶購買新的商業供應項目，或在 2020 年 5 月 11 日之前建立租用戶的現有客戶首次購買新的商業供應項目，將會以合作夥伴所在位置的貨幣向這些購買計費。  
-
-有現有客戶已在 CSP 中購買新商業供應項目的合作夥伴，在此階段將繼續以客戶計費位置的貨幣計費。 此外，若合作夥伴的現有客戶首次購買新的商業供應項目，但其租用戶是在 2020 年 5 月 11 日當天或之後建立，則會繼續以客戶的貨幣來計費。
-
-**階段 2：**
-
-- 在階段 1 之前，已在 CSP 中購買新商業供應項目的現有客戶
-- 現有客戶第一次購買新的商業供應項目 - 在 2020 年 5 月 11 日當天或之後建立的租用戶
-
-在階段 1 之後及日曆年度 2021 年期間，若有合作夥伴的現有客戶在階段 1 之前於 CSP 中購買了新商業供應項目，以及其客戶是在 2020 年 5 月 11 日當天或之後建立租用戶的，則 Microsoft 會將這些合作夥伴的新商業供應項目的計費從客戶所在位置的貨幣轉換為合作夥伴所在位置的貨幣。 在實作這項變更之前，合作夥伴會先收到通知。
-
-在第 2 階段之後，EU/EFTA 區域中的合作夥伴將以合作夥伴所在位置貨幣來對所有客戶和所有 CSP 購買計費。
-
->[!NOTE]
->這項變更只會影響合作夥伴的計費貨幣，而不會影響 CSP 中新商業供應項目的定價。 這項變更涵蓋的新商業供應項目包括：雲端解決方案提供者計畫中屬於 Azure 方案、Azure 保留、伺服器訂閱、永久軟體和 Microsoft 商業市集購買的 Azure 訂閱。
-
-
-### <a name="partner-benefits"></a>合作夥伴權益
-
-這項更新可降低 EU/EFTA 地區的多幣別發票所產生的複雜性和額外負荷，以提供新的商業體驗。
-
-- 合作夥伴將收到採用單一貨幣的合併發票，而不會再收到個別客戶所在地貨幣的發票
-- 獎勵給付將採用與合作夥伴的發票貨幣相同的貨幣
-- 合作夥伴會發現多幣別發票所導致的計費複雜性不復存在，而能夠省下現行與對帳有關的時間和資源
-- 對於尚未採用新商業供應項目的合作夥伴，這項變更與先前的合作夥伴計費模型保持一致，讓合作夥伴能更輕鬆地轉換至 CSP 的新商業體驗
-
-### <a name="next-steps"></a>後續步驟
-
-請在 Microsoft 合作夥伴網站上的[作業資源庫](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (需要登入) 中參閱本主題的相關資訊。  
-
-### <a name="questions"></a>有問題嗎？
-
-如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (需要登入)。
-
-### <a name="change-log"></a>變更記錄
-
-- 2020 年 11 月 17 日：原始發行
-- 2021 年 1 月 7 日：階段 1 和階段 2 中包含的其他案例
-
 
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>2021 年 2 月底時，教育客戶驗證程序的現有 GET 和 PUT 限定性條件 API 將會過時並遭到淘汰

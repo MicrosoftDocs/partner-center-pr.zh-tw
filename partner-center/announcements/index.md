@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/27/2021
+ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717840"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924934"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,17 +22,18 @@ ms.locfileid: "98717840"
 
 | **類別** | **2021 年 1 月公告** | **公告** |
 |---------|:---------|:---------|
-|功能|[合作夥伴中心 Audit 記錄檔變更，以包含兩個新的作業類型](2021-january.md#13)|1月25日|
-|功能|[Azure 中的 Azure 供應專案變更提供與 CSP 中新商務體驗相關的 Azure 供應專案](2021-january.md#12)|1月21日|
-|拓展您的業務|[永久軟體現已針對雲端解決方案提供者計畫正式推出](2021-january.md#11)|1 月 19 日|
-|拓展您的業務|[提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介](2021-january.md#10)|1 月 19 日|
-|供應項目/市場|[2021 年 2 月 1 日將推出安全性、合規性和身分識別 (SCI)](2021-january.md#9)|1 月 15 日|
-|功能|[Microsoft 合作夥伴合約 (MPA) 下的合作夥伴從 DocuSign 遷移至 Adobe Sign](2021-january.md#8)|1 月 15 日|
-|供應項目/市場|[挪威克朗的商業定價更新](2021-january.md#7)|1 月 14 日|
-|供應項目/市場|[印度幣的商業定價更新](2021-january.md#6)|1 月 8 日|
-|供應項目/市場|[2021 年 2 月 1 日呼叫計畫和電話系統更新](2021-january.md#5)|1 月 8 日|
-|供應項目/市場|[2021 年 1 月的授權型價格清單更新](2021-january.md#4)|1 月 8 日|
-|新式工作場所|[合作夥伴計費貨幣的 EU/EFTA 變更 (適用於新商務供應項目)](2021-january.md#3)|1 月 7 日|
+|新式工作場所|[合作夥伴計費貨幣的 EU/EFTA 變更 (適用於新商務供應項目)](2021-january.md#14)|1月27日|
+|功能|[Microsoft 合作夥伴合約 (MPA) –間接轉銷商更新 & 新的常見問題](2021-january.md#13)|1月27日|
+|功能|[合作夥伴中心 Audit 記錄檔變更，以包含兩個新的作業類型](2021-january.md#12)|1月25日|
+|功能|[Azure 中的 Azure 供應專案變更提供與 CSP 中新商務體驗相關的 Azure 供應專案](2021-january.md#11)|1月21日|
+|拓展您的業務|[永久軟體現已針對雲端解決方案提供者計畫正式推出](2021-january.md#10)|1 月 19 日|
+|拓展您的業務|[提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介](2021-january.md#9)|1 月 19 日|
+|供應項目/市場|[2021 年 2 月 1 日將推出安全性、合規性和身分識別 (SCI)](2021-january.md#8)|1 月 15 日|
+|功能|[Microsoft 合作夥伴合約 (MPA) 下的合作夥伴從 DocuSign 遷移至 Adobe Sign](2021-january.md#7)|1 月 15 日|
+|供應項目/市場|[挪威克朗的商業定價更新](2021-january.md#6)|1 月 14 日|
+|供應項目/市場|[印度幣的商業定價更新](2021-january.md#5)|1 月 8 日|
+|供應項目/市場|[2021 年 2 月 1 日呼叫計畫和電話系統更新](2021-january.md#4)|1 月 8 日|
+|供應項目/市場|[2021 年 1 月的授權型價格清單更新](2021-january.md#3)|1 月 8 日|
 |功能|[2021 年 2 月底時，教育版客戶驗證程序的現有 GET 和 PUT 限定性條件 API 將會過時並遭到淘汰](2021-january.md#2)|1 月 5 日|
 |供應項目/市場|[2021 年 2 月的 Dynamics 365 供應項目](2021-january.md#1)|1 月 4 日|
 | **類別** | **2020 年 12 月公告** | **公告** |

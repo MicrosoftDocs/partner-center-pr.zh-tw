@@ -1,5 +1,5 @@
 ---
-title: 支出和稅務設定檔常見問題
+title: 發放款與稅金設定檔常見問題
 description: 取得合作夥伴中心中支出和稅務詳細資料的常見問題解答。 包含您的收益為何與預期不同的答案。
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492580"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924906"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>支出和稅金的常見問題
 
@@ -128,10 +128,6 @@ ms.locfileid: "97492580"
 
 移至 [支付付款] 頁面，然後移至 [付款清單] 區段。 具有服務費用稅務的付款會出現服務費用稅務表單的連結。
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>如何下載 PDF 格式的預繳稅額表單？
-
-移至 [支付付款] 頁面，然後移至 [付款清單] 區段。 付款旁會出現預繳稅額表單的連結。
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>哪裡可以找到年終稅務表單？
 
 移至 [[設定檔] 頁面](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage)，即可檢視您的年終稅務表單。
@@ -170,7 +166,7 @@ ms.locfileid: "97492580"
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>如何? 下載 PDF 中的預繳稅金表單？
 
-移至 [支付付款] 頁面，然後移至 [付款清單] 區段。 付款旁會出現預繳稅額表單的連結。
+移至 [支付付款] 頁面，然後移至 [付款清單] 區段。 付款旁會出現預繳稅額表單的連結。 預繳稅金表單只適用于所選獎勵方案，而不適用於商業 marketplace 支出。
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>哪裡可以找到年終稅務表單？
 

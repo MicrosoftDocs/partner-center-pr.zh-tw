@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
-ms.translationtype: HT
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534721"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924958"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>適用於 Azure 的 CSP 中新商務體驗的價目表
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534721"
 - 銷售代理人
 - 使用者管理系統管理員
 
-CSP 中新 Azure 商務體驗的價目表會張貼在合作夥伴中心。 價目表會以即時精確的檔案動態傳遞，而且價格只會以美元顯示。 不過，計費是以適用於客戶貨幣位置的支援貨幣來完成。 如需有關客戶貨幣位置計費的詳細資訊，請參閱 [Azure 方案 - 計費](azure-plan-billing.md)。
+CSP 中新 Azure 商務體驗的價目表會張貼在合作夥伴中心。 價目表會以即時精確的檔案動態傳遞，而且價格只會以美元顯示。 自2021年1月28日起，EU/EFTA 和 UK 區域中有新客戶和現有 CSP 客戶購買新商務供應專案的合作夥伴，將在第一次於 11 2020 月11日之前建立的租使用者購買新的商務優惠。  位於歐盟/EFTA 和 UK 地區之外的合作夥伴將繼續以合作夥伴位置貨幣計費，請參閱 [Azure 方案計費](azure-plan-billing.md)。
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>請參閱 Azure 方案定價下的訂用帳戶定價
 

@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658428"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924990"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 中的新商務體驗 - Azure 計費 
 
@@ -36,7 +36,7 @@ ms.locfileid: "98658428"
 
 - **發票付款期限**：淨 60 天。
 
-- **發票貨幣**：合作夥伴會繼續以客戶國家/地區的指派貨幣來計費。 例如，如果計費合作夥伴是在愛爾蘭，而客戶是在英國、挪威和德國，則計費合作夥伴將會收到 GBP、NOK 和 EUR 發票/對帳檔案。
+- **發票貨幣**：從2021年1月28日開始，歐盟/EFTA 和 UK 區域中有新客戶與現有 CSP 客戶的合作夥伴，在第一次購買新的商務供應專案時，如果租使用者在 11 2020 月11月11日之前建立了新的商務供應專案，則會以合作夥伴的地點貨幣計費。 位於歐盟/EFTA 和 UK 地區之外的合作夥伴將繼續以合作夥伴位置貨幣計費。
 
 - **合作夥伴獎勵**：從發票月份結束起算 45 天支付。
 

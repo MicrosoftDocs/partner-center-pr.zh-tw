@@ -1,7 +1,7 @@
 ---
 title: 與 CSP 計畫中的間接提供者合作
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 了解間接經銷商如何與 Microsoft 間接提供者 (或代理商) 合作，以協助提供客戶支援和計費服務。
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773454"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924967"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>了解如何在雲端解決方案提供者計畫中與間接提供者成為合作夥伴
 
@@ -76,30 +76,39 @@ ms.locfileid: "98773454"
    > [!IMPORTANT]  
    > 為了協助確保貴公司的安全性與隱私權，我們將會寄送電子郵件給您的主要連絡人，以確認 (1) 該連絡人已註冊合作夥伴中心帳戶，以及 (2) 此電子郵件地址屬於貴公司。 主要連絡人確認其電子郵件地址之後，我們會持續複查您所提供的資訊。 我們會使用電子郵件傳送註冊狀態更新給主要連絡人。
 
-5. 將 MPN 識別碼與 Azure 識別碼租用戶建立關聯。
+5. 將您的 MPN 識別碼關聯至您的 CSP 帳戶。 
+  您的 CSP 帳戶和相關聯的 MPN 識別碼必須位於相同的國家/地區。
 
-    1. 使用您的 MPN 帳戶登入。 移至 [**設定**  ->  **帳戶設定**  ->  **組織設定檔**  ->  **識別碼**]。 請查看您的 MPN 識別碼，並選取其國家/地區與您 CSP 帳戶的國家/地區相同的識別碼。 換句話說，您的 CSP 帳戶和相關聯的 MPN 識別碼必須位於相同的國家/地區。
+   a. 使用您的 "MPN" 帳號憑證登入合作夥伴中心 (您的 MPN 認證可能與您的 CSP 認證) 不同。
+   
+   b. 移至 [**設定**  ->  **帳戶設定**  ->  **組織設定檔**  ->  **識別碼**]。
+ 
+    c. 找出類型為 "Location" 且符合此 CSP 帳戶國家/地區的 MPN 識別碼。 
+
+    d. 如果找不到符合您想要使用之 CSP 帳戶的位置 MPN 識別碼，您可以新增新的位置，以建立新的 MPN 識別碼。 深入瞭解、 [管理地點](manage-locations.md)。
+
+    e. 您現在可以延後此步驟，不過，在您完成 MPN 識別碼與 CSP 帳戶的關聯之前，您將無法簽署 Microsoft 合作夥伴合約 (MPA) 或在 CSP 中進行交易。
     
      
  > [!IMPORTANT]  
    > 選取與您的 CSP 帳戶位於相同國家/地區的 MPN 識別碼。
 
-6. 您的合作夥伴中心帳戶準備好可以使用時，請確認您已新增至系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
+6. 當 Microsoft 完成您的註冊驗證（需要3-5 個工作天）之後，請使用全域管理員認證，在 [合作夥伴中心儀表板](https://partner.microsoft.com/pcv/dashboard/overview) 上簽署 Microsoft 合作夥伴合約。 若要在簽署之前先查看 **Microsoft 合作夥伴合約** ，請按一下 Microsoft 合作夥伴合約連結，如下所示。  如果您的帳戶在5個工作天后卡在驗證中，請閱讀 [帳戶驗證](verification-responses.md)程式。
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="新的 MPA 合約位置":::
+
+ 
+7. 確認您已在 [合作夥伴設定檔] 的 [計畫資訊] 區段中簽署 Microsoft 合作夥伴合約。 此外，您也會在 CSP 的 [概觀] 頁面上看到確認橫幅通知。 
+
+:::image type="content" source="images/mpagreen.png" alt-text="綠色已接受橫幅":::
+
+
+8. 您的合作夥伴中心帳戶準備好可以使用時，請確認您已新增至系統管理代理人群組。 若要完成您的帳戶設定，包括新增其他使用者，您必須有系統管理代理人權限。 請依照下列步驟進行以檢視或更新權限：
 
    1. 從合作夥伴中心儀表板中，選取 [設定] 圖示，然後在 [帳戶設定] 下方，選取 [使用者管理]。
 
    2. 從使用者清單中選取您的名稱。 然後選取 [系統管理代理人] (如果尚未選取的話)。 選取 [更新]。
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>所有間接經銷商都必須簽署 Microsoft 合作夥伴合約
-
-1.  如果您還沒有從 Partner Membership Center 移至合作夥伴中心，請立即進行。 如需如何移至合作夥伴中心的說明，請參閱[從 PMC 遷移至合作夥伴中心的指南](guide-to-migration.md)。 
-
-2.  如果您有合作夥伴中心的成員資格帳戶 (MPN 識別碼)，仍必須正式註冊參加雲端解決方案提供者計畫。 若要檢查您的成員資格狀態，請移至您的 [**合作夥伴設定檔**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)並確認帳戶類型。 然後[在 CSP 中註冊為間接經銷商](enrolling-in-the-csp-program.md)。 當您註冊為間接經銷商之後，請[接受來自間接提供者的 CSP 關聯性要求](indirect-reseller-tasks-in-partner-center.md)。
-
-3.  如果您已在合作夥伴中心內註冊為間接經銷商，請使用全域系統管理員認證在[合作夥伴中心儀表板概觀](https://partner.microsoft.com/pcv/dashboard/overview)上接受 Microsoft 合作夥伴合約。 確認您已在 [合作夥伴設定檔] 的 [計畫資訊] 區段中簽署 Microsoft 合作夥伴合約。 此外，您也會在 CSP 的 [概觀] 頁面上看到確認橫幅通知。 
-
-:::image type="content" source="images/mpagreen.png" alt-text="綠色已接受橫幅":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>與間接提供者保持聯繫
 
@@ -145,3 +154,4 @@ ms.locfileid: "98773454"
 - [了解驗證程序](verification-responses.md)
 
 - [查看直接計費合作夥伴需求](direct-partner-new-requirements.md)
+- [Microsoft 合作夥伴合約](microsoft-partner-agreement.md)
