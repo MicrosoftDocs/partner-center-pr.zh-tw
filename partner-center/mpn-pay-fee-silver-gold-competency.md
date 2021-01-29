@@ -1,19 +1,19 @@
 ---
 title: 支付 MPN 專長認證的費用
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: 瞭解如何支付或更新一或多個銀級或金級專長認證相關的費用或更新付款詳細資料。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921058"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042679"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>如何支付與銀級或金級專長認證相關聯的費用
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921058"
 本文說明如何及何時支付獲得銀級或金級 Microsoft 合作夥伴網路專長認證的相關費用。 本文也會說明如何變更您慣用的付款方法、如何取消訂單，以及如何在從銀級轉移至金級專長認證時獲得25% 的費用折扣。
 
 > [!NOTE]
-> 若要深入瞭解取得銀級或金級專長認證的優點、可用的特定專長，以及其獨特的需求，請參閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/competencies)專長認證。 您也可以查看 Microsoft 合作夥伴網路 [專長認證的授權資料表]，以閱讀更多有關每個可用專長認證的權益。
+> 若要深入瞭解取得銀級或金級專長認證的優點、可用的特定專長，以及其獨特的需求，請參閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/competencies)專長認證。 您也可以查看 Microsoft 合作夥伴網路 [授權資料表以取得](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) 專長認證，以深入瞭解每個可用專長認證的權益。
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>符合專長認證的需求並支付費用
 
@@ -43,7 +43,7 @@ ms.locfileid: "98921058"
 
 2. 從導覽功能表中選取 [ [成員資格提供](https://partner.microsoft.com/dashboard/mpn/offers) 者]。 
 
-3. 在 [ **供應專案可供購買**] 底下，尋找與您的特定專長認證相關聯的銀級成員資格 * * 磚或金級 **成員資格** 磚 
+3. 在 [ **供應專案可供購買**] 底下，尋找與您的特定專長認證相關聯的銀級 **成員資格** 磚或 **金級成員資格** 。 
 
 4. 選取位於特定銀級或金級成員資格磚右下角的 **訂閱** 選項。
 
@@ -54,7 +54,7 @@ ms.locfileid: "98921058"
 
 4. 在 [ **購買詳細資料** ] 頁面上，檢查並確認您的詳細資料。
 
-    (深入瞭解如何將 [公司的 **稅務識別碼** 資訊](https://docs.microsoft.com/partner-center/organization-tax-info) 或公司的 [**帳單寄** 送到公司位址](https://docs.microsoft.com/partner-center/mpn-get-action-pack)。
+    (深入瞭解如何將 [公司的 **稅務識別碼** 資訊](https://docs.microsoft.com/partner-center/organization-tax-info) 或公司的 [**帳單寄** 送到公司位址](https://docs.microsoft.com/partner-center/mpn-get-action-pack)。 ) 
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="成員資格提供購買詳細資料頁面與付款喜好設定。" border="false":::
 
@@ -130,7 +130,7 @@ ms.locfileid: "98921058"
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="詳細資料頁面，其中包含用來上傳顯示可選取選項的欄位、上傳付款證明，適用于每個購買的供應專案。" border="false":::
 
-1. 完成與最近的電子資金轉移交易相關之其他欄位的資訊，例如 **付款日期**、* 付費給帳戶號碼 * * 和 **交易/Ref 否。**
+1. 針對與最近的電子資金轉帳交易相關的其他欄位，完成相關資訊，例如 **付款日期、付款****給帳戶號碼**，以及 **交易/Ref 否**。
 
   可能會出現綠色訊息，告訴您您的要求已成功完成。
 
@@ -185,6 +185,6 @@ ms.locfileid: "98921058"
 
 5. 選取 **[下一步]** 以完成購買此供應專案並享有折扣。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 深入 [瞭解專長認證、其](https://partner.microsoft.com/membership/competencies)優點和獨特需求

@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴中心計費概觀
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: 了解 CSP 合作夥伴在合作夥伴中心內的基本計費和發票資訊。 包括如何向客戶收費，以及如何尋找和解讀您的發票。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924943"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042713"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>在合作夥伴中心運作的 CSP 方案合作夥伴計費概觀 
 
@@ -86,6 +86,8 @@ Microsoft 對於您開立發票的處理方式上沒有任何要求或條件。
 付款期限為 60 天整。 付款必須在發票到期日 (帳單日期 60 天後) 之前完成，否則帳戶將會成為到期未付的狀態，並影響您在 CSP 的註冊。 
 
 在您支付逾期金額之後，便能重新取得暫停帳戶的完整功能。
+
+一旦提供更正的帳單資訊之後，您的付款就會顯示在5個工作天內的合作夥伴中心計費頁面中。
 
 ### <a name="taxes-and-vat"></a>稅金和加值稅
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 2879a129879f894da89f57dc79366d2122a4a160
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924894"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042730"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -26,7 +26,7 @@ ms.locfileid: "98924894"
 
 _____________ 
 
-## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> 第1階段上線： EU/EFTA & UK 變更新商務優惠的合作夥伴帳單貨幣
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> 第1階段上線： EU/EFTA & UK 變更新商務優惠的合作夥伴帳單貨幣
 
 ### <a name="categories"></a>類別
 
@@ -88,6 +88,74 @@ _____________
     -    宣佈第1階段正式運作 
     -    在 EU/EFTA 中未包含 UK 時進行闡述，其為 [Microsoft 歐洲地區和市場](https://docs.microsoft.com/partner-center/regional-authorization-overview) 的一部分，而且會受到影響
 
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> 雲端解決方案提供者 (CSP 的變更) 客戶上架需求
+
+### <a name="categories"></a>類別
+
+- 日期：2021-01-28
+- 增強的安全性與合規性
+
+### <a name="impacted-audience"></a>影響對象
+
+CSP 直接帳單夥伴和間接提供者，在下一節所列的國家/地區有新的或現有的客戶。
+
+### <a name="summary"></a>摘要
+
+我們致力於協助合作夥伴與客戶根據信任來執行業務，我們將會要求額外的客戶資訊，並于2021年3月起生效。
+
+### <a name="details"></a>詳細資料
+
+Microsoft 的營運以信任為原則。 我們承諾針對在 CSP 計畫中從事客戶訂用帳戶交易時所需的客戶驗證，提供符合規範且安全的方法，是我們一貫努力的目標。 在 2021 年 3 月底，我們將推出合作夥伴中心 API 和使用者介面 (UI) 的增強功能，其會影響符合下列兩項準則的合作夥伴：
+
+1. 合作夥伴具有與 Microsoft 的直接計費關係 (亦即該合作夥伴為直接計費合作夥伴或間接提供者)。
+2. 合作夥伴會在下列國家/地區與新的或現有客戶進行業務：
+    - 泰國
+    - 越南
+    - 土耳其
+    - 波蘭
+    - 南非
+    - 印度
+    - 巴西
+    - 伊拉克
+    - 緬甸
+    - 南蘇丹
+    - 沙烏地阿拉伯
+    - 阿拉伯聯合大公國
+    - 委內瑞拉
+
+符合準則的合作夥伴將必須提交客戶的 **法律識別碼** (也稱為客戶的 **組織 INN**) 與 **電話號碼** ，以將新客戶上線或修改現有的客戶詳細資料。 這些合作夥伴現在也可以為客戶輸入選擇性的 **中間名**。
+
+在下列國家/地區中，與新的或現有客戶進行業務往來的合作夥伴，已透過 2020 年 11 月的舊版更新完成訓練。
+
+- 亞美尼亞
+- 亞塞拜然
+- 白俄羅斯
+- 匈牙利
+- 哈薩克
+- 吉爾吉斯
+- 摩爾多瓦
+- 俄羅斯
+- 塔吉克
+- 烏克蘭
+- 烏茲別克
+
+具有全球其他客戶的合作夥伴將能夠在 2021 年 3 月底輸入 **法律識別碼**、 **電話號碼**，以及 **中間名**，供客戶作為選擇性詳細資料。
+
+### <a name="next-steps"></a>後續步驟
+
+- 請參閱專用 [夥伴集合](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) 中的技術檔和常見問題 (登入所需的) ，以取得更詳細的指引。
+- 準備使用合作夥伴中心 API 和 web 使用者體驗來納入變更。 API/SDK 將用於測試。
+- 在為新客戶提供訓練或修改現有的客戶詳細資料時，請務必提交額外的資料。
+- 如果您使用的是控制台廠商 (CPV) 解決方案，請洽詢您的 CPV。
+
+### <a name="questions"></a>有問題嗎？
+
+如果您有任何與法律識別碼 (也稱為 INN 或 TIN) 相關的問題，請洽詢您的稅務顧問或當地稅務機構。 Microsoft 無法提供稅務事項的指導。
+
+如果您需要與 Microsoft 進行的作業支援，請 [開啟服務要求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (登入所需的) 。
+
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft 合作夥伴合約 (MPA) –間接轉銷商更新 & 新的常見問題 
 
@@ -104,7 +172,7 @@ ________________
 
 間接轉銷商的 Microsoft 合作夥伴合約 (MPA) 目前正在進行中。 為了進一步支援提供者和轉銷商，我們聽到了您的意見反應，現在已將如何接受 MPA 的一般查詢合併到新的常見問題 [頁面](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)。
 
-### <a name="next-steps"></a>後續步驟
+### <a name="next-steps"></a>下一步
 
 **間接轉銷商：** 如果您未接受 MPA，請參閱 [Mpa 常見問題](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) ，並遵循 [此處](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) 提供的逐步指引來接受 mpa。
 
@@ -136,7 +204,7 @@ ________________
 
 "operationType"： "dap_admin_relationship_approved"，
 
-### <a name="next-steps"></a>後續步驟
+### <a name="next-steps"></a>下一步
 
 - 利用新的作業類型來追蹤客戶核准的授權和客戶終止時的事件。  
 - [取得合作夥伴中心活動的記錄-合作夥伴中心應用程式開發人員 |Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
@@ -453,7 +521,7 @@ _____________
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>2021 年 2 月 1 日的通話方案和電話系統更新
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>在2021年2月1日呼叫方案和電話系統更新
 
 ### <a name="categories"></a>類別
 
