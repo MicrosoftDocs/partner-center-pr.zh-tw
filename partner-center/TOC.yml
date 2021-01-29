@@ -84,7 +84,10 @@
           displayName: mpn
         - name: 權益常見問題集
           href: benefits-faq.md
-          displayName: 'renew, license, mpn'
+          displayName: 'renew, license,'
+        - name: Azure 和雲端的優點
+          href: mpn-benefits-azure-cloud.md
+          displayname: 'activate, azure license, mpn, renew'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: 軟體保證
