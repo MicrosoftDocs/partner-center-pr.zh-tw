@@ -1,19 +1,19 @@
 ---
 title: 偵察 CSP 單次購買的檔案欄位
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: 在合作夥伴中心中，瞭解 CSP 單次採購對帳檔案中的所有專案，包括範例值。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182574"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098800"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP 一次性採購對帳檔案欄位
 
@@ -22,7 +22,7 @@ ms.locfileid: "98182574"
 
 如需對等檔的詳細資訊，請參閱 [使用對帳](use-the-reconciliation-files.md)檔案。
 
-| Column | 描述 | 範例值 |
+| 資料行 | 描述 | 範例值 |
 | ------ | ----------- | ------------ |
 | PartnerId | 特定帳單實體之 GUID 格式的唯一識別碼。 不需要進行對帳。 在所有資料列中都是如此。 | *0e195b37-4574-4539-bc42-0e539b9684c0* |
 | CustomerId | GUID 格式的客戶唯一的 Microsoft 識別碼。 | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
@@ -65,6 +65,9 @@ ms.locfileid: "98182574"
 | MeterDescription | 計量描述。  | *資料表-LRS 儲存 (GB/月) 的資料* |
 | ReservationOrderId | 保留訂單識別碼。 | *E21A6344E398FFC1C4D7...* |
 
-## <a name="next-steps"></a>後續步驟
+>[!NOTE]
+>您可以在一次性購買偵察檔中協調您的 Azure 耗用量。 若要這樣做，請移至您的每日評等使用量偵察檔，並搜尋您的 SubscriptionID。 這會顯示與您的 Azure 方案識別碼相關聯的所有成本。 您的 Azure SubscriptionID 會顯示為 EntitlementID。
+
+## <a name="next-steps"></a>下一步
 
 - [帳單與稅金](billing.md)

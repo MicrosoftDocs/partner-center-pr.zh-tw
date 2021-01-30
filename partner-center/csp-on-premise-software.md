@@ -1,7 +1,7 @@
 ---
 title: 透過雲端解決方案提供者銷售內部部署軟體
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 CSP 方案中的合作夥伴如何在合作夥伴中心中代表客戶購買、管理、銷售和取消內部部署軟體訂閱。
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584169"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098851"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>透過雲端解決方案提供者 (CSP) 計畫銷售內部部署軟體
 
@@ -37,13 +37,16 @@ ms.locfileid: "98584169"
 
 ## <a name="activate-and-manage-software-subscriptions"></a>啟用及管理軟體訂閱
 
-購買您的軟體之後，您和您的客戶需要下載。 使用下列程序來執行此動作。 
+購買您的軟體之後，您的客戶就必須下載軟體。 使用下列程序來執行此動作。
 
 >[!NOTE]
 >您必須是系統管理代理人才能取得金鑰和下載項目。
 
 1. 移至客戶的詳細資料頁面，然後選取 [軟體]。 您會看到您已代表客戶購買的所有軟體清單。
-2. 將連結從 **連結複製到軟體產品金鑰，並下載** 並與您的客戶分享連結。 當他們選取此連結時，系統會將他們重新導向至 Microsoft 系統管理員入口網站，以下載並取得其產品金鑰。
+2. 將「深層連結」從 **連結複製到軟體產品金鑰，並下載** 並與您的客戶分享連結。 當他們選取此連結時，系統會將他們重新導向至 Microsoft 系統管理中心，以下載並取得其產品金鑰。
+
+>[!NOTE]
+>只有客戶可以在 Microsoft 系統管理中心查看產品金鑰及下載資訊。 合作夥伴看不到此資訊。
 
 如果您或您的客戶想要深入瞭解如何下載授權金鑰，請參閱 [下載軟體和產品授權金鑰](https://go.microsoft.com/fwlink/p/?linkid=2152525)。
 

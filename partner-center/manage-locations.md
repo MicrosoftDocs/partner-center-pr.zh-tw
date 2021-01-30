@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925027"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098885"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理您的 MPN 帳戶位置並新增位置
 
@@ -47,6 +47,20 @@ Contoso 在英國有其合作夥伴通用帳戶 (PGA)。 這是其已註冊的�
  >請記得 **使用新的 CSP 帳戶****新** 的認證登入。 請不要使用現有認證，因為合作夥伴中心會將您識別為已擁有帳戶。
 
 2. 接受 Microsoft 合作夥伴合約並啟用帳戶。
+
+## <a name="view-your-mpn-locations"></a>查看您的 MPN 位置
+
+1. 使用您的 MPN 帳號憑證登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard/home) 。  (您的 MPN 認證可能與您的 CSP 認證不同)  
+ 
+1. 從 [ **設定** ] 圖示，選取 [ **帳戶設定**]、[ **組織設定檔**]、[ **法律**]。 
+
+1. 在 [ **夥伴** ] 索引標籤上，確認沒有橫幅錯誤訊息要求您修正從 PMC 遷移的位置。 如果有，請遵循指示並修正這些位置。 
+
+3. 如果沒有錯誤訊息，請從 [  **設定**] 中選取 [  **帳戶設定**]、[ **組織設定檔**]、[ **識別碼**]。
+
+4. 找出類型為 "Location" 的 MPN 識別碼，此識別碼符合此 CSP 帳戶的國家/地區，並使用它來搜尋下列專案並完成關聯。
+
+5. 如果找不到符合您想要使用之 CSP 帳戶的位置 MPN 識別碼，您可以新增新的位置，以建立新的 MPN 識別碼。 請參閱下方 **的新增 MPN 位置** 。
 
 ## <a name="add-an-mpn-location"></a>新增 MPN 位置
 
