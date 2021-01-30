@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 2879a129879f894da89f57dc79366d2122a4a160
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042730"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098868"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -180,7 +180,7 @@ ________________
 
 ### <a name="questions"></a>有問題嗎？
 
-如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
+關於與此通知相關的任何問題[合作夥伴中心支援](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4)人員
 
 ________________
 ## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> 合作夥伴中心 Audit 記錄檔變更，以包含兩個新的作業類型
