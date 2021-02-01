@@ -36,3 +36,5 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
+    - name: 慣用的解決方案
+      href: preferred-solutions.md
