@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: 應用程式開發專長認證豁免
           href: app-dev-isv.md
+        - name: 使用技能報表
+          href: mpn-skills-report.md
     - name: 進階專長
       items:
         - name: 展示您的專業知識
