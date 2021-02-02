@@ -9,18 +9,20 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 11/19/2020
-  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
-  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
-  ms.translationtype: HT
+  ms.date: 02/01/2021
+  ms.openlocfilehash: 902c05a71776e74e735de16e3e464a1a816a5402
+  ms.sourcegitcommit: 299bd9948848c7012485b0ea45c2a319309d2b47
+  ms.translationtype: MT
   ms.contentlocale: zh-TW
-  ms.lasthandoff: 11/20/2020
-  ms.locfileid: "94983312"
+  ms.lasthandoff: 02/02/2021
+  ms.locfileid: "99251908"
 landingContent:
 - title: 開始使用合作夥伴中心
   linkLists:
   - linkListType: get-started
     links:
+    - text: 什麼是合作夥伴中心？
+      url: overview.md
     - text: 合作夥伴中心公告
       url: announcements/index.md
     - text: 成為 Microsoft 合作夥伴
@@ -29,8 +31,6 @@ landingContent:
       url: mpn-create-a-partner-center-account.md
     - text: 管理您的 MPN 成員資格權益和優惠
       url: manage-your-partner-network-benefits.md
-    - text: 了解專長認證
-      url: learn-about-competencies.md
 - title: 拓展您的業務
   linkLists:
   - linkListType: concept
@@ -51,6 +51,8 @@ landingContent:
   linkLists:
   - linkListType: concept
     links:
+    - text: 接受 Microsoft 合作夥伴合約
+      url: microsoft-partner-agreement.md
     - text: 合作夥伴中心安全性需求
       url: partner-security-requirements.md
     - text: 建立商務設定檔
@@ -77,8 +79,6 @@ landingContent:
       url: partner-center-account-setup.md
     - text: 將角色和權限指派給使用者
       url: permissions-overview.md
-    - text: 管理使用者和使用者授權
-      url: assign-licenses-to-users.md
     - text: 帳單基本知識
       url: billing-basics.md
     - text: 設定支出帳戶和稅賦形式
