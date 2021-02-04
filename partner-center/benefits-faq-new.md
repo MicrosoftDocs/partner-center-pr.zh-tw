@@ -1,7 +1,7 @@
 ---
 title: Microsoft 合作夥伴網路權益常見問題
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: 有關 Microsoft 合作夥伴網路權益的原則的問題解答。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349506"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552399"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Microsoft 合作夥伴網路權益常見問題
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349506"
 
 - MPN 合作夥伴系統管理員
 
-
 下列文章將回答 Microsoft 合作夥伴網路 (MPN) 合作夥伴關於其 MPN 成員資格權益、專長認證和產品授權的一些主要問題。
+
+## <a name="responding-to-covid-19"></a>回應 COVID-19-19
+
+**問**：我們的專長  **認證週年日即將推出，由於與 covid-19-19 相關的影響，我們無法滿足專長認證需求。我們該怎麼做？**
+
+A. 如果您的專長認證週年日介於2021年1月1日到6月30日之間，我們將擴充您現有的專長認證或專長認證 (除了雲端 Business Applications 專長認證) 在2022年的下一週年日為止。 您將不需要符合測驗或效能需求，但仍需支付專長認證費用。如需詳細資訊，請參閱我們的 [blog 文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。
 
 ## <a name="membership"></a>成員資格
 
@@ -140,18 +145,7 @@ A. 專長認證的完成度和行動套件購買都是透過合作夥伴全球�
 
 A. 您可以移至 [合作夥伴中心的支援區段](https://partner.microsoft.com/support) ，以取得可能有所説明之資源的連結，或視需要向合作夥伴支援小組開啟票證。
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>COVID-19-19 之位移效果的專長認證延伸模組
+## <a name="next-steps"></a>下一步
 
-**問： Microsoft 是否提供對困難的合作夥伴的協助？**
-
-答：對於在2020年7月1日到12月31日之間具有專長認證的合作夥伴，我們會透過其在2021中的下一個週年日來擴展合作夥伴的現有專長認證或專長認證。 合作夥伴會收到續約提醒以反映此新供應專案。 合作夥伴必須在30天的續約期間內支付其專長認證費用。
-
-**問：如果合作夥伴錯過30天的續約期間，該怎麼辦？**
-
-答：合作夥伴可以重新啟用其專長認證，並在合作夥伴中心的 [成員資格供應] 頁面上支付其費用，以在其週年日張貼的最多30天內獲得資源和權益的存取權。 如果合作夥伴錯過了週年日後30天的寬限期，則應該透過合作夥伴中心提交支援票證，以說明在30天的續約期間到期之後，將 COVID-19 覆寫授與的要求詳細資料。
-
-如需詳細資訊，請參閱 [更新 MPN 供應](renew-mpn-offers.md)專案。
-
-## <a name="next-steps"></a>後續步驟
-
-- [找出您的 Microsoft 合作夥伴網路權益](mpn-find-benefits.md) 
+- [找出您的 Microsoft 合作夥伴網路權益](mpn-find-benefits.md)
+- [更新 MPN 供應專案](renew-mpn-offers.md)

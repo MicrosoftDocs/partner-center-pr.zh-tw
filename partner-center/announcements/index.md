@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: 6e5a9f4bcc9918a78833121c22c410aac9fac79c
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.date: 02/03/2021
+ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042696"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552422"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
 了解重要的合作夥伴中心更新。 此項訊息更新頻繁，因此請務必定期回來查看！
 
-| **類別** | **2021 年 1 月公告** | **公告** |
+|**類別**|**2021年2月公告**|**公告**|
 |---------|:---------|:---------|
+|功能|[回應 COVID-19-19： Microsoft 合作夥伴網路更新](2021-february.md#3)|2月4日|
+|功能|[合作夥伴中心中的新推薦模組更新](2021-february.md#2)|2月4日|
+|新式工作場所|[在2021年2月25日淘汰及淘汰教育客戶驗證程式的 PUT 限定 Api，並于2021年5月4日取得資格](2021-february.md#1)|2月4日|
+| **類別** | **2021 年 1 月公告** | **公告** |
 |新式工作場所|[第1階段上線： EU/EFTA & UK 變更新商務優惠的合作夥伴帳單貨幣](2021-january.md#15)|1月28日|
 |新式工作場所|[雲端解決方案提供者 (CSP) 客戶上架需求的變更](2021-january.md#14)|1月28日|
 |功能|[Microsoft 合作夥伴合約 (MPA) –間接轉銷商更新 & 新的常見問題](2021-january.md#13)|1月27日|
