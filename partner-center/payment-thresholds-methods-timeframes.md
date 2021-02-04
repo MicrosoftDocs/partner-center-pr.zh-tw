@@ -6,13 +6,13 @@ ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 09/02/2020
-ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 02/02/2021
+ms.openlocfilehash: 81c5ecb93caef7836dc6e6725a700ac74d881558
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531999"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530709"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>付款閾值、方法和時間範圍
 
@@ -33,6 +33,10 @@ ms.locfileid: "94531999"
 | ACH/SEPA | 2-3 個工作天 |
 | 電匯 | 7-10 個工作天 |
 | | |
+
+>[!NOTE]
+>由於外部匯率的變更，確切的銷售金額可能會稍微不同于一貨幣。 匯率會每月計算一次。 根據您的交易發生時間，會套用適當的匯率。 在 [資料行 exchangeRate 和 exchangeRateDate] 中，會在您的付款報告上分別指出其為強制執行的匯率和日期費率。
+
 
 ## <a name="payment-methods-in-countries-and-regions"></a>國家/地區和區域的付款方式
 
@@ -196,4 +200,4 @@ ms.locfileid: "94531999"
 
 ## <a name="next-step"></a>後續步驟
 
-- [支出明細表](payout-statement.md)
+- [支付明細表](payout-statement.md)

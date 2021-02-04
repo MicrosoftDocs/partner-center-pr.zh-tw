@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983331"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530658"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>如何報告合作夥伴中心的問題，並提交任何記錄檔或診斷資訊
 
@@ -53,7 +53,7 @@ ms.locfileid: "94983331"
 
 2. 合作夥伴中心會檢查支援提倡者的行事曆是否可用。
 
-1. 當您排定約會時，合作夥伴中心會將行事曆邀請傳送給您，以取得支援提倡者如何聯繫您的資訊，讓您可以在自己的工作行事曆上追蹤此約會。
+1. 當您排定約會時，合作夥伴中心會將行事曆邀請傳送給您，以取得支援提倡者如何聯繫您的資訊，讓您可以在自己的工作行事曆上追蹤此約會。  雖然這項功能仍處於預覽狀態，但是電子郵件和行事曆邀請將會是英文，但提倡者將能以您在建立票證時所選的語言來支援。
 
 :::image type="content" source="images/support/ticket3.png" alt-text="日期和時間":::
 

@@ -1,7 +1,7 @@
 ---
 title: 合作夥伴貢獻指標-CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入瞭解七個合作夥伴貢獻指標 (PCI) ，其中顯示合作夥伴如何取得銀級或金級雲端 Business Applications 專長認證。
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204065"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530811"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>使用合作夥伴貢獻指標來達成雲端 Business Applications 專長認證
 
@@ -125,7 +125,7 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 | PCI 度量 | 效能指標：淨新收入 | 效能指標：新客戶新增 | 功能指標：功能顧問 | 功能指標：功能顧問成長 | 功能指標：開發人員 | 客戶成功指標：新的大型部署 | 客戶成功指標：每月主動使用者成長 |
 |---|---|---|---|---|---|---|---|
 | **最大點數** | 10點 | 10點 | 15點 | 15點 | 5點 | 20點 | 25個點 |
-| **開發** | $300,000 | 10 | 10 | *\* 請參閱附注* | 5 | 5 | 25% |
+| **開發** | $300,000 | 10 | 15 | *\* 請參閱附注* | 5 | 5 | 25% |
 | **發展** | $150000 | 5  | 5  |*\* 請參閱附注* | 2 | 1 | 25% |
 
 *\* 注意：成長目標會根據基準顧問的數目以及夥伴用來取得點數的特定選項而有所不同。若要深入瞭解取得點數的選項，或每個選項的特定成長目標，請參閱 [功能顧問成長的定義](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth)。*
@@ -381,6 +381,6 @@ Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-sco
 
 如需有關使用此區域的詳細資訊，請參閱本文結尾處的資源和影片收集。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 觀看更多有關取得金級或銀級雲端 Business Applications 專長認證的 PCI [訓練影片和資訊資源](https://partner.microsoft.com/asset/collection/pci-learn#/) 。

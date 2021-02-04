@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776775"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530828"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>分析您的潛在客戶-瞭解您吸引目標客戶和潛在推薦的程度
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>分析您的潛在客戶 - 了解如何吸引目標客戶和潛在的推薦
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **適當的角色**
 
 - 推薦管理員
-
-**適用於**
-
-- Marketplace 潛在客戶
-- 合格的潛在客戶
 
 [參考] 中 [**分析**] 區段底下的 [**潛在客戶**] 頁面可讓您查看您的參考如何執行。 定期檢閱這些計量，以識別需要注意的趨勢或領域，並開始推動您的業務目標。
 
@@ -115,3 +110,7 @@ https://go.microsoft.com/fwlink/?linkid=849120
 
 > [!TIP]
 > 若要查看共同銷售商機的執行狀況，請參閱 [共同銷售商機見解頁面](referral-insights.md)。
+
+## <a name="next-steps"></a>下一步
+
+- [管理潛在客戶](manage-leads.md)
