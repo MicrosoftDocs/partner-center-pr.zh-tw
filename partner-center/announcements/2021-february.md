@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/03/2021
-ms.openlocfilehash: dd389d0857f1ddf391086155ea5a595f0fa5b2d6
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99554356"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588711"
 ---
 # <a name="february-2021-announcements"></a>2021年2月公告
 
 本頁面詳細說明2021年2月的 Microsoft 合作夥伴中心公告。
 
 _______________
+
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>高階評量（合規性管理員的附加元件）即將于2021年3月1日推出
+
+### <a name="categories"></a>類別
+
+- 日期：2021-02-05
+- 功能
+
+### <a name="affected-audience"></a>受影響的物件
+
+透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴
+
+### <a name="summary"></a>摘要
+
+Premium 評量將于2月包含于價格清單預覽版中，並將于2021年3月1日推出。
+
+### <a name="details"></a>詳細資料
+
+Premium 評定是合規性管理員的選擇性附加元件，可協助客戶符合管理收集和使用資料的國家、地區和業界特定需求。 Premium 評定會保留給 Office 365 E5、A5 和 G5，以及 Microsoft 365 E5、A5 和 G5 客戶。
+
+|**供應項目名稱**|**優惠識別碼**|**材質識別碼**|
+|------------------|:--------------------|:------------------|
+|CSP-Corp-附加元件|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
+|CSP-Corp-試用版|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
+|CSP-教育版-教職員|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
+|CSP-教育-教職員-試用版|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+
+### <a name="next-steps"></a>下一步
+
+請參閱本主題的下列資源，並與您組織中適當的專案關係人共用資訊。   
+
+- [Microsoft 365 E5 安全性與合規性](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
+- [在 Microsoft 合規性管理員中建立和管理評量](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+
+_________________________________________________________
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> 回應 COVID-19-19： Microsoft 合作夥伴網路更新
 
 ### <a name="categories"></a>類別

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 9002e77d364985ffec170dbf3887dde0ab324746
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.date: 02/05/2021
+ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552422"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588728"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "99552422"
 
 |**類別**|**2021年2月公告**|**公告**|
 |---------|:---------|:---------|
+|功能|[高階評量（合規性管理員的附加元件）即將于2021年3月1日推出](2021-february.md#4)|2月5日|
 |功能|[回應 COVID-19-19： Microsoft 合作夥伴網路更新](2021-february.md#3)|2月4日|
 |功能|[合作夥伴中心中的新推薦模組更新](2021-february.md#2)|2月4日|
 |新式工作場所|[在2021年2月25日淘汰及淘汰教育客戶驗證程式的 PUT 限定 Api，並于2021年5月4日取得資格](2021-february.md#1)|2月4日|
