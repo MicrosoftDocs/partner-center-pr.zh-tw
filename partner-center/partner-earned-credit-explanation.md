@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
-ms.translationtype: HT
+ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182404"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623995"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>合作夥伴所獲得信用點數如何計算及付費
 
@@ -52,7 +52,7 @@ ms.locfileid: "98182404"
 
 ### <a name="calculation"></a>計算
 
-PEC 會每日計算，並可在每日使用量檔案和每月發票對帳檔案中檢視。 合作夥伴 (間接提供者或間接經銷商) 必須具有整天 (全天候) 的存取權，以確保他們獲得 PEC。 系統會在受控 Azure 資產上每日計算 PEC。 指定計費週期 (月) 的最大 PEC 為 15%。 在整個月 (存取跨度) 和所有合格資源 (存取範圍) 內保留永續性特殊權限存取的合作夥伴，將獲得 15% 的完整 PEC。 範圍和跨度縮減會導致該月的 PEC 率降低。 每日評等使用量檔案會每日顯示是否在 Azure 資產上套用 PEC。 合作夥伴還可以註冊警示，以監視永續性特殊權限存取是否發生變更。
+PEC 會每日計算，並可在每日使用量檔案和每月發票對帳檔案中檢視。 合作夥伴 (間接提供者或間接經銷商) 必須具有整天 (全天候) 的存取權，以確保他們獲得 PEC。 系統會在受控 Azure 資產上每日計算 PEC。 合作夥伴會在每個月保留持續的特殊許可權存取權)  (範圍的存取權，以及所有符合資格的資源 (存取範圍) 將會獲得完整的 PEC。 範圍和跨度縮減會導致該月的 PEC 率降低。 每日評等使用量檔案會每日顯示是否在 Azure 資產上套用 PEC。 合作夥伴還可以註冊警示，以監視永續性特殊權限存取是否發生變更。
 
 ## <a name="azure-cost-management"></a>Azure 成本管理
 

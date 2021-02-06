@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.date: 02/04/2021
+ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588711"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624165"
 ---
 # <a name="february-2021-announcements"></a>2021年2月公告
 
@@ -70,22 +70,7 @@ _________________________________________________________
 
 ### <a name="details"></a>詳細資料
 
-在2021年1月1日到2021年6月30日之間，Microsoft 將放棄所有具有週年日 (AD) 之合作夥伴的專長認證和先進特製化需求。 唯一的例外是雲端 Business Applications (CBA) 專長認證，在 2021 2021 年4月1日之前或之後有廣告的案例合作夥伴，將會獲得 PCI 結構內的功能顧問成長標準需求的15點。  
-
-具有專長認證的 **合作夥伴 (除了雲端 Business Applications 專長認證) ，在2021年1月1日到6月30日之間具有週年日2021，並** 符合一年的專長認證。 我們會透過您在2022年的下一週年日來擴充您現有的專長認證或專長認證。您組織的特定資訊將于2月開始于合作夥伴中心推出，並符合您的續約時間範圍。您將需要。若要在合作夥伴中心中採取行動，請支付專長認證費用並完成續約。如果您即將結束30天的專長認證續約時間範圍，但無法在合作夥伴中心中續約，請聯絡 [合作夥伴支援](https://partner.microsoft.com/support) 以取得協助。  
-
-**針對具有雲端 Business Applications 專長認證的合作夥伴：** 如同先前所傳達的，合作夥伴貢獻指標 (PCI) 評分將于2021年4月1日生效。 如果您的雲端 Business Applications 專長認證的週年日是在2021年1月1日到2021年3月31日之間，您必須符合在合作夥伴中心發佈的需求，並支付專長認證費用，才能完成續約。 如果您的雲端 Business Applications 專長認證的週年日是在2021年4月1日到2021年6月30日之間，則您將獲得「功能顧問成長」度量的15個點數。 您必須符合合作夥伴中心發佈的剩餘需求，並支付專長認證費用，才能完成續約。  
-
-**針對在2021中更新先進特製化的合作夥伴：** 在2021年1月1日到6月 2021 30 日之間，具有先進特製化週年日的合作夥伴可享有為期一年期延長至2022的資格，前提是您保有符合 advanced 特製化所需的金級專長認證，其中可能包括支付要續約的專長認證費用。 您組織的特定資訊將于2月開始于合作夥伴中心推出，並符合您的續約時間範圍。  
-
-### <a name="next-steps"></a>下一步
-
-- 如需更多的更新，請參閱 [回應 covid-19-19： Microsoft 合作夥伴網路更新 Microsoft 合作夥伴網路](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)。
-
-### <a name="questions"></a>有問題嗎？
-
-如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
-
+Microsoft 目前提供專長認證延伸 (，除了雲端 Business Applications 專長認證) 和先進的特製化延伸模組之外，在2021年1月1日到2021年6月30日之間 (AD) 。 請參閱我們的 [合作夥伴 blog 文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) ，以取得詳細資訊。
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> 合作夥伴中心中的新推薦模組更新
 
@@ -124,12 +109,12 @@ ________________
 
 ### <a name="questions"></a>有問題嗎？
 
-如果您需要使用任何新功能的說明，請參閱知識庫中的 [ [參考] 區段](https://docs.microsoft.com/partner-center/referrals) ，或我們的 [共同銷售體驗資源庫](https://aka.ms/CoSellExperience) 中的如何支援資料， (登入所需的) 。
+如果您需要使用任何新功能的說明，請參閱知識庫中的 [ [參考] 區段](https://docs.microsoft.com/partner-center/referrals) ，或我們的 [共同銷售體驗資源庫](https://aka.ms/CoSellExperience) 中的使用方法支援材料 (登入所需的) 。
 
 如需其他支援，您可以 [向合作夥伴支援小組開啟票證](https://partner.microsoft.com/support/?stage=1)。
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25th-2021-and-get-qualification-by-may-4th-2021"></a><a name="1"></a> 在2021年2月25日淘汰並淘汰教育客戶驗證程式的 PUT 限定 Api，並于2021年5月4日取得資格。
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> 在2021年2月25日淘汰並淘汰教育客戶驗證程式的 PUT 限定 Api，並于2021年5月4日取得資格。
 
 ### <a name="categories"></a>類別
 
@@ -142,7 +127,7 @@ ________________
 
 ### <a name="details"></a>詳細資料
 
-這是 [在12月發行的合作夥伴中心增強功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的後續追蹤。 在該版本中，已部署新的 GET 和 POST 合格 Api，因此 **合作夥伴中心 api 的現有 PUT 限定 api 將于2021年2月25日淘汰，並于2021年4月4日淘汰**。 屆時，您將必須轉換成使用新的 POST 合作夥伴中心 Api，才能購買教育供應專案和新的「取得資格」 API，以購買預先限定的非收益和 GCC 優惠。
+此公告是 [12 月發行的合作夥伴中心增強功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的後續公告。 在該版本中，已部署新的 GET 和 POST 合格 Api，因此 **合作夥伴中心 api 將于2021年2月25日淘汰，並于2021年4月4日淘汰**。 屆時，您將必須轉換成使用新的 POST 合作夥伴中心 Api，才能購買教育供應專案和新的「取得資格」 API，以購買預先限定的非收益和 GCC 優惠。
 
 ### <a name="next-steps"></a>下一步
 

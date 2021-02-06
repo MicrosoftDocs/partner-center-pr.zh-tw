@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "89367172"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624046"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>銷售給特定產業，例如教育、非營利團體和政府使用者
-
-**適用於**
-
-- 合作夥伴中心
 
 **適當的角色**
 
@@ -44,7 +40,7 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 
 1. 在合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)中，選取視窗右上角的齒輪圖示以開啟 [ **帳戶設定**]。
 
-2. 在您的 **\[合作夥伴設定檔\]** 中，於 **\[計畫資訊\]** 區段，尋找 **\[經銷商資格\]**。
+2. 在您的 **法律設定檔** 的 [ **程式資訊** ] 區段中，尋找 [ **轉售商資格**]。
 
 3. 如果您沒有看到 **轉售商的資格**，您還沒獲得購買任何特殊優惠的授權。
 
@@ -77,7 +73,7 @@ Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育�
 | 教育訓練 |商業、教育 | 非收益或政府社群雲端 |
 | 政府社群雲端 |政府社群雲端 | 非利潤、教育或商業 |
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [銷售教育客戶 Minecraft: Education Edition 訂閱](minecraft-subscriptions.md)
 

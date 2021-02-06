@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133060"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624216"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>關於獎勵的常見問題
-
-**適用於：**
-
-- 合作夥伴中心
 
 **適當的角色：**
 
@@ -29,13 +25,13 @@ ms.locfileid: "93133060"
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>是否必須是全域管理員才能註冊獎勵？
 
-否。 全域管理員和帳戶管理員可將使用者指派為獎勵系統管理員。 激勵系統管理員透過合作夥伴中心管理公司的獎勵方案。 如需詳細資訊，請參閱 [許可權總覽](permissions-overview.md)。
+不會。 全域管理員和帳戶管理員可將使用者指派為獎勵系統管理員。 激勵系統管理員透過合作夥伴中心管理公司的獎勵方案。 如需詳細資訊，請參閱 [許可權總覽](permissions-overview.md)。
 
 ## <a name="what-do-i-need-to-do-if-i-find-my-company-is-already-a-member-of-the-microsoft-partner-network-mpn"></a>如果我發現我的公司已經是 Microsoft 合作夥伴網路 (MPN) 的成員，我該怎麼做？
 
 如果您嘗試加入 MPN，且您的公司已經是成員，則 MPN 會辨識網域，並將您與現有的帳戶產生關聯。 現有的帳戶可能是相同的公司或使用相同電子郵件網域的相關公司，或相同的 Azure 活動目錄 (Azure AD) 來管理多個網域。
 
-您可以從 [夥伴設定檔] 頁面識別主要連絡人。 如果您的位置是 MPNHQ 位置，您只需要使用管理獎勵的必要許可權來設定。 如需有關角色和許可權的詳細資訊，請參閱 [許可權總覽](permissions-overview.md)。
+您可以從 [法律設定檔] 頁面識別主要連絡人。 如果您的位置是 MPNHQ 位置，您只需要使用管理獎勵的必要許可權來設定。 如需有關角色和許可權的詳細資訊，請參閱 [許可權總覽](permissions-overview.md)。
 
 如果您不是位於與 MPNHQ 位置相同的國家/地區，請參閱 [多國國家](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) /地區帳戶的指示，以取得此案例的詳細資料。
 
@@ -51,9 +47,9 @@ ms.locfileid: "93133060"
 
 若要尋找可進行角色變更或將角色指派給新使用者的全域管理員或帳戶管理員：
 
-1. 從合作夥伴中心右上方的 [帳戶設定] 圖示中，選取 [ **使用者管理** ]。
-2. 篩選 **全域管理員** 或 **帳戶管理員** 。
-3. 您也可以移至 [ **我的設定檔** ]，選取 [ **角色和許可權** ]，並查看可協助您提升許可權的不同系統管理員清單。
+1. 從合作夥伴中心右上方的 [帳戶設定] 圖示中，選取 [ **使用者管理**]。
+2. 篩選 **全域管理員** 或 **帳戶管理員**。
+3. 您也可以移至 [ **我的設定檔**]，選取 [ **角色和許可權** ]，並查看可協助您提升許可權的不同系統管理員清單。
  
 如需詳細資訊，請參閱 [尋找您的角色](find-your-role.md)。  
 
@@ -63,9 +59,9 @@ ms.locfileid: "93133060"
 
 1. 使用您的 Azure AD 租使用者認證來登入 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/) ， (您的工作認證) 。 如果您無法登入，請洽詢貴公司的全域管理員。
 
-2. 登入時，如果系統提示您從 **公司帳戶** 或 **個人帳戶** 中選取，請選取 [ **工作帳戶** ]。
+2. 登入時，如果系統提示您從 **公司帳戶** 或 **個人帳戶** 中選取，請選取 [ **工作帳戶**]。
 
-3. 在 [合作夥伴中心] 功能表上選取 [ **獎勵** ]，然後選取 **[總覽** ]。 如果您沒有獎勵系統管理員或獎勵使用者權限，您將會看到公司所有全域和帳戶管理員的連絡人資訊。 請洽詢其中一個系統管理員，以取得所需 MPN 識別碼和獎勵計畫的獎勵角色。
+3. 在 [合作夥伴中心] 功能表上選取 [ **獎勵**]，然後選取 **[總覽**]。 如果您沒有獎勵系統管理員或獎勵使用者權限，您將會看到公司所有全域和帳戶管理員的連絡人資訊。 請洽詢其中一個系統管理員，以取得所需 MPN 識別碼和獎勵計畫的獎勵角色。
 
 4. 如果您已經有獎勵系統管理員角色，您將會看到您公司的註冊，以取得您有權存取的 MPN 識別碼和獎勵方案。
 
@@ -75,7 +71,7 @@ ms.locfileid: "93133060"
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
 
-2. 在 [ **設定** ] 底下，選取 [ [使用者管理](https://partner.microsoft.com/pcv/users)]。
+2. 在 [ **設定**] 底下，選取 [ [使用者管理](https://partner.microsoft.com/pcv/users)]。
 
 3. 選取您的名稱，以查看您的許可權。
 
@@ -87,6 +83,6 @@ ms.locfileid: "93133060"
 
 如果您在 [儀表板] 的獎勵區段內遇到任何問題，則會有線上支援服務–請參閱支援選項 (？ 圖示) 在右上方。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [開始使用獎勵](incentives-get-started-intro.md)

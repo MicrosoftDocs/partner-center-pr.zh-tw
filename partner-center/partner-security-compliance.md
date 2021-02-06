@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
-ms.translationtype: HT
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132958"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624148"
 ---
 # <a name="security-requirements-status-report"></a>安全性需求狀態報告
 
-**適用於**
-
-- 雲端解決方案提供者計畫中的所有合作夥伴
-- 所有控制台廠商
-- 所有顧問
-
-**適當的使用者**
-- 所有已啟用的使用者，包括來賓使用者
+**適當的角色**
+- 控制台廠商
+- 全域管理員
 
 本文說明合作夥伴中心的安全性需求狀態報告。 此報告會針對合作夥伴租用戶中的使用者，提供關於是否符合多重要素驗證 (MFA) 的[合作夥伴安全性需求](partner-security-requirements.md)的計量。
 
-若要在[合作夥伴中心](https://partner.microsoft.com/dashboard)存取此報告，請移至 [設定] > [合作夥伴設定] > [安全性需求狀態]。 報告會每日更新，並反映過去七天內的登入資料。
+若要在 [合作夥伴中心](https://partner.microsoft.com/dashboard)中存取此報告，請前往 **設定**  >  **帳戶設定**  >  **安全性需求狀態**。 報告會每日更新，並反映過去七天內的登入資料。
 
 >[!NOTE]
 >只有在合作夥伴中心才支援安全性需求狀態報告。 不適用於 Microsoft Cloud for US Government 或 Microsoft Cloud Germany。 我們強烈建議所有透過主權雲端 (美國政府和德國) 進行交易的合作夥伴立即採取這些新的安全性需求。 不過，這些合作夥伴目前不需要符合新的安全性需求。 Microsoft 未來將針對主權雲端的這些安全性需求強制執行，提供額外的詳細資料。
@@ -75,8 +70,8 @@ ms.locfileid: "93132958"
 
 如果您想要了解哪些應用程式 + 使用者活動會導致此計量不是 100%，請使用下列檔案：
 
-- **API 要求摘要** ，以了解應用程式的整體 MFA 狀態。
-- **所有 API 要求** ，以了解租用戶使用者所提出的每個 API 要求詳細資料，其結果受限於最多 10,000 個最近要求，以提供更好的下載體驗。
+- **API 要求摘要**，以了解應用程式的整體 MFA 狀態。
+- **所有 API 要求**，以了解租用戶使用者所提出的每個 API 要求詳細資料，其結果受限於最多 10,000 個最近要求，以提供更好的下載體驗。
 
 ## <a name="actions-for-mfa-status-below-100"></a>MFA 狀態低於 100% 的動作
 

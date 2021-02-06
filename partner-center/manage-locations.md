@@ -1,7 +1,7 @@
 ---
 title: 管理合作夥伴帳戶中的位置
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何新增位置，以及如何在獎勵計畫、雲端解決方案提供者業務、訂閱和其他交易中使用 MPN 識別碼。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098885"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624267"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理您的 MPN 帳戶位置並新增位置
 
@@ -47,6 +47,8 @@ Contoso 在英國有其合作夥伴通用帳戶 (PGA)。 這是其已註冊的�
  >請記得 **使用新的 CSP 帳戶****新** 的認證登入。 請不要使用現有認證，因為合作夥伴中心會將您識別為已擁有帳戶。
 
 2. 接受 Microsoft 合作夥伴合約並啟用帳戶。
+
+1. 如果您想要註冊為直接帳單合作夥伴，請閱讀 [直接帳單合作夥伴的需求](direct-partner-new-requirements.md)
 
 ## <a name="view-your-mpn-locations"></a>查看您的 MPN 位置
 

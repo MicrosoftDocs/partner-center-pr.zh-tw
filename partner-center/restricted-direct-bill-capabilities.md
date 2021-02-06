@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795760"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623978"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>受限制的直接帳單功能，以及 CSP 直接帳單合作夥伴所需的需求  
 
@@ -31,11 +31,11 @@ ms.locfileid: "92795760"
 
 1. 登入 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard)。
 
-2. 移至 [ **夥伴設定**  ->  **夥伴設定檔** ]。
+2. 移至 **帳戶設定**  ->  **法律聲明設定檔**。
 
-3. 在 [ **程式資訊** ] 底下，尋找 **Microsoft 雲端解決方案提供者狀態** 。
+3. 在 [ **程式資訊**] 底下，尋找 **Microsoft 雲端解決方案提供者狀態**。
 
-4. 如果程式狀態的值 **受限制** ，這表示您的直接帳單合作夥伴租使用者的直接帳單功能存取權已受限制。
+4. 如果程式狀態的值 **受限制**，這表示您的直接帳單合作夥伴租使用者的直接帳單功能存取權已受限制。
 
 ## <a name="affected-direct-bill-capabilities"></a>受影響的直接帳單功能
 
@@ -43,7 +43,7 @@ ms.locfileid: "92795760"
 
 - Azure 訂用帳戶
 
-- 以授權為基礎的訂閱
+- 以授權為基礎的訂用帳戶
 
 - 將新的附加元件加入至現有的授權型訂閱。
 
@@ -62,13 +62,13 @@ ms.locfileid: "92795760"
     >[!Note] 
     >您無法將新的附加元件加入至現有的訂用帳戶，因為它會被視為新的購買訂閱。
 
-- 部署新的 Azure 資源，並在現有的 Azure 訂用帳戶下管理現有的 Azure 資源。 這包括可透過 Azure marketplace 和 Visual Studio 訂用帳戶取得的資源。
+- 部署新的 Azure 資源，並在現有的 Azure 訂用帳戶下管理現有的 Azure 資源。 這包括可透過 Azure Marketplace 和 Visual Studio 訂閱取得的資源。
 
 除了新的購買，您也無法在合作夥伴中心中存取下列直接帳單功能：
 
-- 您無法建立新的客戶租使用者。 合作夥伴中心中的 [ **客戶** ] 頁面下的 [ **建立客戶** ] 選項將無法使用。
+- 您無法建立新的客戶租使用者。 合作夥伴中心中的 [**客戶**] 頁面下的 [**建立客戶**] 選項將無法使用。
 
-- 您無法對要求直接轉銷商關係的客戶產生邀請。 合作夥伴中心中的 [ **客戶** ] 頁面下的 [ **要求轉售商關聯** 性] 選項將無法使用。
+- 您無法對要求直接轉銷商關係的客戶產生邀請。 合作夥伴中心中的 [**客戶**] 頁面下的 [**要求轉售商關聯** 性] 選項將無法使用。
 
     >[!NOTE]
     >從直接帳單夥伴轉換為間接轉銷商的過程中，如果您已經將直接帳單合作夥伴租使用者註冊為間接轉銷商，您可以改為向要求間接轉銷商關係的客戶產生邀請。

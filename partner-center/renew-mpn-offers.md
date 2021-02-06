@@ -1,7 +1,7 @@
 ---
 title: 續訂您的 MPN 供應項目
 ms.topic: article
-ms.date: 02/02/2021
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 更新 Microsoft 合作夥伴網路 (MPN 供應專案的) 供應專案和 advanced 特製化-續約期間開始購買日期的週年日加上一天。
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be1590d83f6349e9caeb85ed9303e7a10d0cca6b
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: f254c3353a49a8aa65703ef123e727b0a9ac4a85
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99552434"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624131"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>更新您的 MPN 供應專案，以取得您在更新期間的專長認證和先進特製化優惠
 
@@ -24,15 +24,7 @@ ms.locfileid: "99552434"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>回應 COVID-19-19： Microsoft 合作夥伴網路更新
 
-2021年1月27日更新：  
-
-在2021年1月1日到2021年6月30日之間，Microsoft 將放棄所有具有週年日 (AD) 之合作夥伴的專長認證和先進特製化需求。 唯一的例外是雲端 Business Applications (CBA) 專長認證，在 2021 2021 年4月1日之前或之後有廣告的案例合作夥伴，將會獲得 PCI 結構內的功能顧問成長標準需求的15點。  
-
-具有專長認證的 **合作夥伴 (除了雲端 Business Applications 專長認證) ，在2021年1月1日到6月30日之間具有週年日2021，並** 符合一年的專長認證。 我們會透過您在2022年的下一週年日來擴充您現有的專長認證或專長認證。您組織的特定資訊將于2月開始于合作夥伴中心推出，並符合您的續約時間範圍。您必須在合作夥伴中心中採取行動，才能支付專長認證費用並完成續約。如果您即將結束30天的專長認證續約時間範圍，但無法在合作夥伴中心中續約，請聯絡 [合作夥伴支援](https://partner.microsoft.com/support) 以取得協助。  
-
-**針對具有雲端 Business Applications 專長認證的合作夥伴：** 如同先前所傳達的，合作夥伴貢獻指標 (PCI) 評分將于2021年4月1日生效。 如果您的雲端 Business Applications 專長認證的週年日是在2021年1月1日到2021年3月31日之間，您必須符合在合作夥伴中心發佈的需求，並支付專長認證費用，才能完成續約。 如果您的雲端 Business Applications 專長認證的週年日是在2021年4月1日到2021年6月30日之間，則您將獲得「功能顧問成長」度量的15個點數。 您必須符合合作夥伴中心發佈的剩餘需求，並支付專長認證費用，才能完成續約。  
-
-**針對在2021中更新先進特製化的合作夥伴：** 在2021年1月1日到6月 2021 30 日之間，具有先進特製化週年日的合作夥伴可享有為期一年期延長至2022的資格，前提是您保有符合 advanced 特製化所需的金級專長認證，其中可能包括支付要續約的專長認證費用。 您組織的特定資訊將于2月開始于合作夥伴中心推出，並符合您的續約時間範圍。  
+Microsoft 目前提供專長認證延伸 (，除了雲端 Business Applications 專長認證) 和先進的特製化延伸模組之外，在2021年1月1日到2021年6月30日之間 (AD) 。 請參閱我們的 [合作夥伴 blog 文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) ，以取得詳細資訊。
 
 ## <a name="renewal-reminders"></a>續約提醒
 

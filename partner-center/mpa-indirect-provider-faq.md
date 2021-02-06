@@ -1,7 +1,7 @@
 ---
 title: 間接提供者如何能協助其轉銷商採用 Microsoft 合作夥伴合約-常見問題
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 關於 Microsoft 合作夥伴合約解答的重要問題
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e1848ae63756141e43c980b8910ce556b6ffb32
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530845"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624284"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>間接提供者可以如何協助間接轉銷商接受 Microsoft 合作夥伴合約 (MPA) 
 
@@ -104,8 +104,6 @@ ms.locfileid: "99530845"
 
 您與位置 MPN 識別碼相關聯的 CSP 帳戶，可讓您與間接提供者合作、管理客戶並獲得獎勵。
     
-- [雲端解決方案提供者方案概觀](csp-overview.md)
-
 - [雲端解決方案提供者 (CSP) 的 Microsoft 合作夥伴合約 (MPA)](microsoft-partner-agreement.md)
 
 - [與 CSP 計畫中的間接提供者合作](indirect-reseller-tasks-in-partner-center.md)
@@ -134,6 +132,39 @@ ms.locfileid: "99530845"
 
 **解答** 使用 MPN 帳號憑證登入合作夥伴中心 (MPN 和 CSP 登入認證可能) 不同。 從 [**設定**] 選取 **帳戶設定**  ->  **組織設定檔**  ->  **識別碼** 以查看您的 MPN 識別碼。 若要加入新的 MPN 位置/子公司，請移至 [ **法律聲明設定檔** ]，然後按一下 [ **新增位置**]。
 
+## <a name="questions-about-csp-regional-authorization"></a>CSP 區域授權的相關問題
+
+#### <a name="what-is-a-csp-region"></a>什麼是 CSP 區域？
+
+**解答** CSP 區域是由一或多個可執行 CSP 商務的國家（地區）所組成。 例如，企業包括使用間接提供者、與客戶連接、交易和累積獎勵。 您至少需要一個 CSP 帳戶 (office 365 公司帳戶) 在 CSP 區域中執行業務。 深入瞭解 [CSP 區域](regional-authorization-overview.md)。
+
+如果您是 CSP 間接轉銷商，您需要在相同區域中與間接提供者合作，而且只能銷售給相同區域中的客戶。
+
+#### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>為什麼我無法將 MPN 識別碼關聯至我的租使用者？
+
+**解答**  如果您無法將 MPN 識別碼關聯至您的租使用者，且看到錯誤，則表示 MPN 識別碼和租使用者不在相同的國家/地區。 若要讓關聯運作，兩者都必須位於相同的國家/地區。 這是因為 Microsoft 獎勵是依國家/地區和 MPN 識別碼層級付費。 例如，如果您在法國有 CSP 帳戶，您需要 MPN 位置 (MPN 識別碼也) 在法國，才能獲得付費獎勵。 英國的 MPN 識別碼 雖然位於相同的 CSP 區域中，否則將無法運作。 
+
+若要解決此問題，請在與 CSP 國家/地區相同的國家/地區內建立 MPN 的位置。 深入瞭解如何 [管理 MPN 位置](manage-locations.md)。
+
+#### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>我有法國的 CSP 間接轉銷商帳戶。 我可以在德國與間接提供者合作嗎？
+
+**解答** 是的。 一旦 csp 區域中的 CSP 間接轉銷商帳戶為作用中，就可以在整個區域中使用相同的帳戶來進行商務作業。 深入瞭解 [CSP 區域](regional-authorization-overview.md)。
+
+#### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>我是美國的間接轉銷商。 我可以與 UK 中的間接提供者合作嗎？
+
+**解答** 不。 CSP 是一個區域程式。 間接轉銷商和間接提供者的 CSP 帳戶必須位於相同的 CSP 區域，才能進行業務。 若要解決此問題，您必須在歐洲地區建立新的 CSP 帳戶，並在與 CSP 帳戶國家/地區相同的國家/地區建立 MPN 位置，然後接受間接提供者的關聯性要求。 例如，您可以在法國建立 CSP 間接轉銷商帳戶，在法國建立 MPN 位置，然後接受來自于法國或 CSP 歐洲區域任何其他國家/地區之間接提供者的邀請。
+
+#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>合作夥伴中心中可以有超過1個 MPN 和 CSP 帳戶嗎？
+
+**解答** 您只能有一個 MPN 帳戶 (登入) 和一或多個 CSP 帳戶 (登入) 取決於您公司所執行的企業 CSP 區域。 例如，您可以在美國 (HQ) 的 MPN 帳戶中，將 (美國地區) 、英國 (子公司) 和澳大利亞 (子公司) 。
+您可以有一個 CSP 帳戶 (Office 365 公司帳戶) 在美國，與您的 MPN 帳戶具有相同的登入認證。 您可以使用英國的第二個 CSP 帳戶 其具有不同的登入認證來管理歐洲地區的 CSP 業務，而第三個則是澳大利亞的第三個，在澳大利亞有不同的登入認證來管理 CSP 商務。
+
+所有的這三個 CSP 帳戶都必須與 MPN 識別碼位置帳戶相關聯，才能進行業務並獲得這些子公司的獎勵。 只有 MPN 帳戶才能管理 MPN 專長認證和權益。
+
+#### <a name="i-am-a-csp-indirect-reseller-in-us-and-want-to-expand-my-business-to-europe-what-do-i-need-to-do-in-partner-center"></a>我是美國的 CSP 間接轉銷商，而且想要將我的企業擴展至歐洲。 我需要在合作夥伴中心中做些什麼？
+
+**解答** 您將需要在您想要執行商務的國家/地區中有 MPN 的位置，而且您必須在該相同國家/地區註冊 CSP 間接轉銷商計畫。 深入瞭解如何建立新的 [MPN 位置和 CSP 註冊](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business)。
+
 ## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>將您的 MPN 帳戶從 PMC 遷移至合作夥伴中心的相關問題
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>我想要將我的 MPN 帳戶從 Partner Membership Center 遷移至合作夥伴中心。 我該怎麼做？ 我不知道誰是我在 PMC 中 MPN 的系統管理員，要如何遷移？ 
@@ -142,10 +173,7 @@ ms.locfileid: "99530845"
 
 遷移 MPN 帳戶之後，深入瞭解如何簽署 MPA、閱讀 [microsoft 合作夥伴合約] 9microsoft-合作夥伴合約。 md # 下載-逐步指南) ---------------------------------------------------
 
-如果發生問題，請從合作夥伴中心中提出 [支援票證](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) 。 
-
-
-
+如果發生問題，請從合作夥伴中心中提出 [支援票證](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) 。
 
 #### <a name="how-do-i-check-if-my-mpn-id-is-migrated-into-partner-center"></a>如何? 檢查我的 MPN 識別碼是否已遷移至合作夥伴中心？
 
@@ -161,6 +189,7 @@ ms.locfileid: "99530845"
 #### <a name="i-enrolled-in-mpn-program-and-as-a-csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-is-in-rejected-state-what-should-i-do"></a>我已在 MPN 方案和 CSP 間接轉銷商計畫中註冊，但我的法律商務設定檔驗證狀態處於拒絕狀態。 我該怎麼辦？
 
 **解答** 您必須按一下 [ **更新**] 來更新法律設定檔資訊。 繼續進行之前，請閱讀下列文章：
+
 - [驗證帳戶資訊](verification-responses.md#what-is-verified-and-how-to-respond)
 
 - [驗證組織設定檔](update-your-partner-profile.md)
