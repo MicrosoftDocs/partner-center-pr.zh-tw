@@ -59,6 +59,9 @@
         - name: 了解專長認證
           href: learn-about-competencies.md
           displayName: mpn
+        - name: 註冊為學習夥伴
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: 專長認證常見問題集
           href: competencies-faq.md
           displayName: 'renew, mpn'

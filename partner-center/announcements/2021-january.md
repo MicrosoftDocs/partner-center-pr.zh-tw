@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
+ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098868"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "99974751"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -587,8 +587,8 @@ _____________
 
 受影響的貨幣： 
 
-- Microsoft 365 E3 定價問題僅限於下列貨幣：JPY (日元)、GBP (英鎊)、歐元 (歐盟)、AUD (澳幣)。 
-- Microsoft 365 商務版基本問題僅限於 USD (美元)。 
+- Microsoft 365 E3 價格的問題僅限於這些貨幣：日本日元 (JPY) 、英國英鎊 (GBP) 、歐洲等 (歐元) 、澳大利亞元 (AUD) 。 
+- Microsoft 365 商務版基本問題僅限美國美元 (美元) 。 
 
 合作夥伴應參考目前可用的 1 月和 2 月預覽價目表，以取得正確的定價。 
 
