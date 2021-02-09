@@ -1,19 +1,19 @@
 ---
 title: 獎勵常見問題
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Microsoft 獎勵的常見問題。 本文包含有關使用者角色、如何註冊，或要如何處理錯誤訊息的問題。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624216"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835062"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>關於獎勵的常見問題
 
@@ -67,17 +67,11 @@ ms.locfileid: "99624216"
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>獎勵總覽頁面中缺少某些註冊。
 
-如果您在 [獎勵 **總覽** ] 頁面上看到的註冊次數少於預期，您可以執行下列動作。
+如果您收到來自或已註冊的邀請，則您應該再次檢查是否有適當的存取權，才能在儀表板中看到不再顯示的獎勵方案。 只有具有「獎勵使用者」或「獎勵管理員」角色的使用者才能看到此計畫。 請參閱 [尋找您的角色](https://docs.microsoft.com/partner-center/find-your-role)。
 
-1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
+如果您需要變更角色或許可權，請洽詢貴公司的全球或帳戶管理員。若要瞭解這些人員，請閱讀 [尋找您的全域管理員](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)。
 
-2. 在 [ **設定**] 底下，選取 [ [使用者管理](https://partner.microsoft.com/pcv/users)]。
-
-3. 選取您的名稱，以查看您的許可權。
-
-如果您需要變更角色或許可權，請參閱貴公司的全域或帳戶管理員。
-
-請注意，此頁面只會顯示與 Azure AD 租使用者相關聯 (PGA) 夥伴通用帳戶相關聯的註冊。 如果您的公司有一個以上的 PGA，每一個都必須有不同的認證。
+請注意，[總覽] 頁面只會顯示與 Azure AD 租使用者相關聯 (PGA) 夥伴通用帳戶相關聯的註冊。 如果您的公司有一個以上的 PGA，每一個都必須有不同的認證。
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>如果我在註冊程式期間收到錯誤訊息或需要協助，應聯絡誰？
 

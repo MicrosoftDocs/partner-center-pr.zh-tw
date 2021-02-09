@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098834"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834851"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>透過雲端解決方案提供者 (CSP) 方案銷售軟體訂閱
 
@@ -95,7 +95,7 @@ Azure Hybrid Benefit 有助於讓您的 Windows Server 授權發揮更大的效�
 購買您的軟體之後，您的客戶就必須下載軟體。 使用下列程序來執行此動作。
 
 >[!NOTE]
->您必須是系統管理代理人才能取得金鑰和下載項目。
+>您必須是系統管理員代理程式，才能取得金鑰和下載的連結。
 
 1. 移至客戶的詳細資料頁面，然後選取 [軟體]。 您會看到您已代表客戶購買的所有軟體清單。
 2. 將「深層連結」從 **連結複製到軟體產品金鑰，並下載** 並與您的客戶分享連結。 當他們選取此連結時，系統會將他們重新導向至 Microsoft 系統管理中心，以下載並取得其產品金鑰。
