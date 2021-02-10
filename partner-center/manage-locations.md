@@ -1,7 +1,7 @@
 ---
 title: 管理合作夥伴帳戶中的位置
 ms.topic: how-to
-ms.date: 02/05/2021
+ms.date: 02/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: 了解如何新增位置，以及如何在獎勵計畫、雲端解決方案提供者業務、訂閱和其他交易中使用 MPN 識別碼。
@@ -9,14 +9,14 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
+ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624267"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "100005910"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>管理您的 MPN 帳戶位置並新增位置
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>管理您的 MPN 帳戶位置，並新增 (刪除) 位置
 
 
 **適當的角色**
@@ -79,7 +79,11 @@ Contoso 在英國有其合作夥伴通用帳戶 (PGA)。 這是其已註冊的�
 :::image type="content" source="images/legal-biz.png" alt-text="新增法律聲明企業":::
 
 > [!NOTE]
-> 在合作夥伴中心新增位置後，即無法將其移除。 如果您已使用正確的 MPN 識別碼來登入，您會在合作夥伴中心的左側功能表中看到 **MPN**。
+> 在合作夥伴中心中加入位置之後，您就無法將它移除。 如果您已使用正確的 MPN 識別碼來登入，您會在合作夥伴中心的左側功能表中看到 **MPN**。
+
+## <a name="delete-a-location"></a>刪除位置
+
+若要從您的帳戶刪除位置，您必須聯絡 [合作夥伴支援](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b)。 請確定您瞭解此動作的影響。 無法抓取已刪除的位置，且系結至該特定 MPN 識別碼的任何系結，將無法再辨識或對您的公司有效。
 
 ## <a name="change-country-of-partner-global-account"></a>變更合作夥伴通用帳戶的國家/地區 
 
