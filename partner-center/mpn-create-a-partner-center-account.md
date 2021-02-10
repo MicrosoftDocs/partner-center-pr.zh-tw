@@ -1,5 +1,5 @@
 ---
-title: 建立合作夥伴中心帳戶
+title: 在合作夥伴中心中建立 MPN 帳戶
 ms.topic: article
 ms.date: 02/08/2021
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 129cdd337f9b475b37d14c4e68058736b473fe33
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005928"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013685"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>建立合作夥伴中心帳戶，以管理網路權益和專長認證
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>在合作夥伴中心中建立 MPN 帳戶以管理網路權益和專長認證
 
 
-如果您不熟悉 Microsoft 合作夥伴網路且沒有 MPN 識別碼，您可以遵循 [註冊指示](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)開始註冊。
+如果您不熟悉 Microsoft 合作夥伴網路 (MPN) 且沒有 MPN 識別碼，您可以遵循 [註冊指示](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)開始註冊。
 
 ## <a name="prerequisites"></a>必要條件 
 
 當您準備好在合作夥伴中心上建立帳戶時，若要開始使用，您必須備妥下列專案。  您可能需要先花幾分鐘時間收集這些項目，再開始進行：
 
-- 公司工作電子郵件或 Office 365 工作帳戶。 如需詳細資訊，請閱讀 [您公司的工作帳戶和合作夥伴中心](azure-active-directory-tenants-and-partner-center.md) 
+- 公司工作電子郵件或 Office 365 工作帳戶。 如需詳細資訊，請閱讀 [公司工作帳戶和合作夥伴中心](azure-active-directory-tenants-and-partner-center.md) 
  
 - 公司的法定公司名稱和地址。
 
@@ -61,7 +61,7 @@ ms.locfileid: "100005928"
 主要連絡人必須是我們可以連絡關於您的申請事宜的公司中人員 (這可以是您本人或是貴公司中的其他人員)。
 
 >[!IMPORTANT]
->為了協助確保您公司的安全性和隱私權，我們會傳送電子郵件給您的主要連絡人，以驗證電子郵件地址，並確保電子郵件地址屬於您的公司，而在主要連絡人確認電子郵件地址之後，我們會繼續複習您所提供的資訊。 驗證通常需要3-5 個工作天。 
+>為了協助確保您公司的安全性和隱私權，我們會以電子郵件傳送您的主要連絡人，以驗證電子郵件地址，並確保電子郵件地址屬於您的公司。 在主要連絡人確認電子郵件地址之後，我們會繼續複習您所提供的資訊。 驗證通常需要3-5 個工作天。 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>如何檢視帳戶詳細資料，或檢視及下載 MPN 合約
 
