@@ -9,16 +9,66 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624165"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281223"
 ---
 # <a name="february-2021-announcements"></a>2021年2月公告
 
 本頁面詳細說明2021年2月的 Microsoft 合作夥伴中心公告。
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 在2021年3月推出的 E3 價格變更
+
+### <a name="categories"></a>類別
+
+- 日期：2021-02-11
+- 供應項目/市場
+
+### <a name="affected-audience"></a>受影響的物件
+
+所有合作夥伴都交易在歐元、AUD、GBP 和 JPY 的雲端解決方案提供者 (CSP) 計畫中。
+
+### <a name="details"></a>詳細資料
+
+2021年3月的授權型預覽價位清單已更新，以包含 Microsoft 365 E3 的價格變更。 受影響的供應專案和貨幣如下所示。 
+ 
+供應專案名稱： Microsoft 365 E3 供應專案識別碼：2b3b8d2d-10aa-4be4-b5fd-7f2feb0c3091 材質識別碼： AAA-35638
+
+這些 Microsoft 365 E3 價格更新僅限於這些貨幣： JPY (日文日元) 、GBP (英屬英鎊) 、歐元 (歐盟) 、AUD (澳大利亞元) 。 三月檔案中有其他價格變更，而合作夥伴應取得最新的預覽版本，以查看其他預期的變更。
+
+### <a name="next-steps"></a>下一步
+
+合作夥伴應從合作夥伴中心下載最新的價格清單檔案，以取得最新的三月價格。 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>針對挪威克朗更新以授權為基礎的預覽價位清單
+
+### <a name="categories"></a>類別
+
+- 日期：2021-02-10
+- 供應項目/市場
+
+### <a name="affected-audience"></a>受影響的物件
+
+透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴
+
+### <a name="summary"></a>摘要
+
+針對2021年3月1日所預期的挪威克朗定價，已更新以授權為基礎的預覽價格清單。
+
+### <a name="details"></a>詳細資料
+
+3月的 FX 費率變更並未包含在先前的3月份授權型價目表中。 此檔案已經更新，以反映預期的挪威克朗價格變更。 合作夥伴應取得最新的預覽定價檔案，以查看2021年3月1日所預期的變更。 這些變更僅適用于挪威克朗貨幣定價。
+
+### <a name="next-steps"></a>下一步
+
+合作夥伴應針對2021年3月1日的預期變更下載目前的價格清單預覽檔案。
 
 _______________
 

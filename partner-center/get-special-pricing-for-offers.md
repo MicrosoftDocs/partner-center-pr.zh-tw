@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624046"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281274"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>銷售給特定產業，例如教育、非營利團體和政府使用者
 
@@ -24,7 +24,7 @@ ms.locfileid: "99624046"
 - 系統管理代理人
 - 銷售代理人
 
-Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育機構客戶、非營利機構客戶、小型企業及政府實體。 您與您的客戶都必須符合資格，您才能提供特殊定價給您的客戶。 
+Microsoft 針對特定群組的客戶提供較低的特殊定價，包括教育機構客戶、非營利機構客戶、小型企業及政府實體。 您與您的客戶都必須符合資格，您才能提供特殊定價給您的客戶。 這些特殊定價供應專案目前 **僅適用于以授權為基礎的服務** ，例如 Microsoft 365、Dynamics、Intune 等等。它不適用於其他類型 (軟體訂用帳戶、永久軟體或 Azure 產品) 。
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>銷售到特色產業的需求
 

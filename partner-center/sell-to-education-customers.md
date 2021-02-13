@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916875"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281316"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>如何銷售供應專案給教育客戶，以及如何在合作夥伴中心中建立教育客戶
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916875"
 
 ## <a name="create-an-education-customer"></a>建立教育版客戶
 
-本文說明如何在合作夥伴中心中建立教育客戶，並對其銷售教育版產品。 它也會說明如何查看驗證狀態，並視需要重新提交驗證要求。
+本文說明如何在合作夥伴中心中建立教育客戶，並對其銷售教育版產品。 它也會說明如何查看驗證狀態，並視需要重新提交驗證要求。 教育版供應專案目前 **僅適用于以授權為基礎的服務** ，例如 Microsoft 365、Dynamics、Intune 等等。它不適用於其他類型 (軟體訂用帳戶、永久軟體或 Azure 產品) 。
 
 > [!IMPORTANT]
 > Microsoft 會驗證每個新建立的教育客戶租使用者，以確保其符合教育優惠。  請務必正確且完整地輸入必要資訊，以避免在驗證程式中發生延遲。
@@ -75,7 +75,7 @@ ms.locfileid: "97916875"
 
 如果您的客戶無法進行初始驗證，您現在可以更正資訊並重新提交。
 
-### <a name="correct-the-customer-account-information"></a>修正客戶帳戶資訊
+### <a name="correct-the-customer-account-information"></a>更正客戶帳戶資訊
 
 您必須具有全域管理員許可權，才能更新客戶的資訊。 您會更新 Office 365 入口網站上的資訊，因為此資料無法從合作夥伴中心入口網站更新。
 
@@ -87,7 +87,7 @@ ms.locfileid: "97916875"
 
 4. 系統會在瀏覽器的新索引標籤上，將您重新導向至 Office 365 系統管理中心。 您可能會被要求使用您的認證登入。
 
-5. 選取 [設定]  。
+5. 選取 [設定]。
 
 6. 選取畫面頂端的 [ **組織設定檔** ] 索引標籤，然後選取 [ **組織資訊**]。 您現在可以更新客戶詳細資料。
 
@@ -99,7 +99,7 @@ ms.locfileid: "97916875"
 
 2. 如果更新的客戶詳細資料符合教育供應專案的資格，您將會看到 **特殊的資格** 已更新 **教育** 版。 如果您仍然看 **不到教育客戶**，請洽詢支援人員以進行手動驗證。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [銷售到特色產業](get-special-pricing-for-offers.md)
 

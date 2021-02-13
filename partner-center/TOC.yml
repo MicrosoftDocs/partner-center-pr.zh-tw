@@ -127,9 +127,6 @@
     - name: Microsoft 合作夥伴合約 - 雲端解決方案提供者
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: 管理位置
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: 間接提供者如何能夠協助其轉銷商採用 MPA
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,6 +194,9 @@
           displayName: mpn
         - name: 連結您的公司帳戶
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: 管理位置
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: 確認網域擁有權
           href: become-global-admin.md
         - name: 驗證帳戶資訊
@@ -262,6 +262,8 @@
       items:
         - name: 關於共同銷售潛在客戶
           href: manage-co-sell-opportunities.md
+        - name: 大量作業
+          href: bulk-operations.md
         - name: 使用共同銷售 CRM 連接器
           items:
             - name: 針對 Dynamics 365

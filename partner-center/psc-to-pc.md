@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: f84ceb4d17be7e02a4380e4da55d7ac199f43515
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588745"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281350"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作夥伴中心 (電腦) 共同銷售的指南，適用于從合作夥伴銷售 Connect (PSC 進行遷移的合作夥伴) 
 
@@ -158,7 +158,7 @@ ms.locfileid: "99588745"
     - 預估的交易關閉日期
     - 合作夥伴注意事項
 
-您可以使用 PSC 的大量下載和上傳功能，來清除所有合格交易的資料。
+您可以使用 PSC 的大量下載和上傳功能，在所有符合資格的交易中加入所有遺漏的詳細資料。
 
 >[!Note]
 > 即使不符合上述先決條件，交易遷移也會成功。 但是，如果合作夥伴中心中有任何上述必要欄位無法使用，您就無法變更交易的狀態。 然後，您必須在合作夥伴中心中輸入所需的所有必要資訊，才能開始處理。 **強烈建議您先清除 PSC 中符合資格的交易，再將其遷移至合作夥伴中心。**
@@ -178,9 +178,9 @@ ms.locfileid: "99588745"
 4. **Psc 交易識別碼** -此交易的 psc 中的唯一識別碼。
 5. **錯誤** -指出遷移特定交易時是否有任何錯誤。
 
-所有已成功遷移的交易將不會顯示在 PSC 中。 您可以在電腦上處理遷移的交易。 共同銷售交易的 Microsoft 銷售人員的互動不會有任何變更。
+所有已成功遷移的交易將不會顯示在 PSC 中。 您可以繼續處理電腦上已遷移的交易，包括在 PC 中完成交易註冊。 共同銷售交易的 Microsoft 銷售人員的互動不會有任何變更。
 
-從 PSC 遷移的交易將會根據交易來源，在輸入和輸出索引標籤中提供。 您可以在 [輸出] 索引標籤中取得所有夥伴建立的交易，並在合作夥伴中心的 [輸入] 索引標籤中提供 Microsoft 起始的交易。 遷移後將會建立兩種類型的交易。
+從 PSC 遷移的交易將會根據交易來源，在輸入和輸出索引標籤中提供。 您公司共用的所有交易都將可在 [輸出] 索引標籤中取得，而 Microsoft 起始的交易將會出現在合作夥伴中心的 [輸入] 索引標籤中。 遷移後將會建立兩種類型的交易。
 
 1. **共同銷售交易** -在 PSC 中標示為共同銷售的交易，將會建立為合作夥伴中心中的共同銷售交易。
 2. **夥伴主導的交易** （未標示為共同銷售的交易）將會在合作夥伴中心中建立為合作夥伴主導的交易。 Microsoft 銷售人員可以看到合作夥伴主導的交易，而且可以在達到終止狀態 (贏得、遺失) 之前，升級為共同銷售交易。 此外，如果交易中有獎勵符合資格的解決方案，夥伴主導的交易就有資格進行交易註冊。
@@ -386,12 +386,20 @@ PSC 的商機識別碼與 PC 中的交易識別碼相同。 當您開啟任何�
 
 ## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>如果您的 PSC 帳戶未與有效的 MPN 相關聯，請尋找正確的 MPN 識別碼
 
-如果您在這裡看到的是「PSC 不正確 MPN 識別碼關聯問題」，則您在正確的位置。
+如果您在這裡看到的是「PSC 不正確 MPN 識別碼關聯問題」，則您在正確的位置。 因為下列原因，所以您的帳戶可能已連結至不正確 MPN 識別碼
+
+- 您的公司沒有合作夥伴中心帳戶。
+- 您的 PDM 在內部系統中輸入您帳戶的 MPN 識別碼時發生錯誤，這些系統會將您的 PSC 帳戶連結至您的合作夥伴中心帳戶 (MPNID) 。
+- 您的公司未完成從 Partner Membership Center (PMC) 至 PC 的遷移。
 
 首先，請遵循下列步驟來尋找正確的 MPN 識別碼
 
 - 登入您的合作夥伴中心帳戶
 - 使用 [帳戶設定檔](./partner-center-account-setup.md#locate-your-mpn-id) 中提供的指引來找出 MPN 識別碼。
+
+以下螢幕擷取畫面顯示您可以在其中找到合作夥伴中心 MPN 識別碼的確切位置
+
+:::image type="content" source="images/pscmigration/findingMPNID.png" alt-text="顯示夥伴可在其中找到其 MPN 識別碼之帳戶設定的影像。"  lightbox="images/pscmigration/findingMPNID.png":::
 
 接下來，
 

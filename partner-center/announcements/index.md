@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 9dd646b693f718f47c2f5edd4778836694fb0954
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.openlocfilehash: 5a5f2ee73c84a3d50e20e6319b07ee2f90aa4972
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588728"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281234"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "99588728"
 
 |**類別**|**2021年2月公告**|**公告**|
 |---------|:---------|:---------|
+|供應項目/市場|[Microsoft 365 在2021年3月推出的 E3 價格變更](2021-february.md#6)|2月11日|
+|供應項目/市場|[針對挪威克朗更新以授權為基礎的預覽價位清單](2021-february.md#5)|2月10日|
 |功能|[高階評量（合規性管理員的附加元件）即將于2021年3月1日推出](2021-february.md#4)|2月5日|
 |功能|[回應 COVID-19-19： Microsoft 合作夥伴網路更新](2021-february.md#3)|2月4日|
 |功能|[合作夥伴中心中的新推薦模組更新](2021-february.md#2)|2月4日|

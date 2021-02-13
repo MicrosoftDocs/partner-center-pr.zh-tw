@@ -1,7 +1,7 @@
 ---
 title: 雲端解決方案提供者 (CSP) 的 Microsoft 合作夥伴合約 (MPA)
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 深入了解 Microsoft CSP 合作夥伴需求，以簽署並確認此統一、數位化的 Microsoft 合作夥伴合約 (MPA)。
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773469"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281330"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>了解 CSP 計畫合作夥伴的 Microsoft 合作夥伴合約 (MPA)
 
@@ -34,6 +34,8 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>確認您的 MPN 識別碼有效，並已遷移至合作夥伴中心
 
 1. 如果您沒有將 MPN 帳戶從 Partner Membership Center (PMC) 遷移到合作夥伴中心，則您必須[將 MPN 帳戶遷移至合作夥伴中心](move-pmc-pc-map.md)。 完成遷移之後，您要完成其餘的步驟。 
+
+1. 如果您沒有 MPN 帳戶或識別碼，必須先加入 Microsoft 合作夥伴網路計畫。 [瞭解如何加入 MPN](mpn-create-a-partner-center-account.md)。
 
 1. 使用您的 MPN 帳戶憑證登入合作夥伴中心。
  
@@ -101,9 +103,9 @@ Microsoft 合作夥伴合約為 Microsoft 合作夥伴提供了一份統一、�
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>下載適用于您在 MPA 簽署程式中的逐步指南
 
-1. 如果要將 MPN 帳戶從 PMC 遷移至合作夥伴中心：[從 PMC 遷移至合作夥伴中心，並接受 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. 如果您要將 MPN 帳戶從 PMC 遷移至合作夥伴中心：[從 PMC 遷移至合作夥伴中心，並接受 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. 如果要在合作夥伴中心註冊為 CSP Indirect Reseller：[MPN 成員上線和 Microsoft 合作夥伴合約](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. 如果您想要在合作夥伴中心註冊為 CSP 間接轉銷商：[MPN 成員和 Microsoft 合作夥伴合約的上線](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
 3. 如果完成上述步驟 1 和/或步驟 2 之後，要在合作夥伴中心驗證您的 MPA 狀態：[確認 Microsoft 合作夥伴合約的接受狀態](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  

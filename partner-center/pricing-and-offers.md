@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979816"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281291"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365、Dynamics CRM、Enterprise 行動套件、Azure 等的定價和優惠
 
@@ -45,7 +45,7 @@ ms.locfileid: "97979816"
 
 以授權為基礎的服務包含價格清單預覽，在任何變更前30天內提供。 若要查看價格清單預覽，請前往 **銷售 > 定價和優惠**。 基於使用方式的服務沒有價格預覽，因為這些服務是動態的。 下表說明如何讀取價格清單資料表。
 
-|**Item**        |**[定義]**      |
+|**Item**        |**定義**      |
 |:-----------   |:-----------   |
 |ADD   |價格清單的新專案|
 |CHG   |從 month 到 month 的標價變更。 其他與標價無關的變更可能會發生，夥伴應比較月份之間的價格清單，以判斷其他屬性的變更。|
@@ -82,7 +82,7 @@ ms.locfileid: "97979816"
 
 ## <a name="pricing-and-special-segments"></a>定價和特殊區段
 
-CSP 提供某些服務給特殊市場部門，例如教育、非收益和政府機關的雲端。 並非所有服務都可在每個通道中使用。 沒有任何區段預設為我們所謂的「商業」區段。 所有以授權為基礎的定價都可在 [定價與供應專案] 頁面上以授權為基礎的價格清單中取得。 在登入已啟用 Azure Government 的 CSP 租使用者時，以使用量為基礎的價格清單中會提供 Azure Government 定價。
+CSP 提供某些服務給特殊市場部門，例如教育、非收益和政府機關的雲端。 並非所有服務都可在每個通道中使用。 沒有任何區段預設為我們所謂的「商業」區段。 所有以授權為基礎的定價都可在 [定價與供應專案] 頁面上以授權為基礎的價格清單中取得。 在登入已啟用 Azure Government 的 CSP 租使用者時，以使用量為基礎的價格清單中會提供 Azure Government 定價。 軟體訂閱和永久軟體尚未支援這些特殊區段。
 
 |**區段**   |**誰需要符合資格**   |**合作夥伴合格客戶**|**啟用的產品類型**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
