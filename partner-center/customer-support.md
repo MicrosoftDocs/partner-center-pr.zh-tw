@@ -1,20 +1,20 @@
 ---
 title: 提供支援給您的客戶
-ms.topic: article
-ms.date: 01/22/2021
+description: 深入瞭解 CSP 方案中的合作夥伴客戶支援責任。 涵蓋帳單、訂用帳戶管理和技術問題的支援。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 深入瞭解 CSP 方案中的合作夥伴客戶支援責任。 涵蓋帳單、訂用帳戶管理和技術問題的支援。
 author: Kim-Davis
 ms.author: kimnich
+ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: f32c9b2db500fabe982c364e24f94fc449bc5218
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/22/2021
+ms.openlocfilehash: 315089a3a20fdd5f9de283494e735f54bd351806
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717669"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541020"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>為您的客戶提供不同類型的支援
 
@@ -34,11 +34,15 @@ CSP 客戶無法自行建立支援票證。 他們必須聯絡您以尋求支援
 
 - **商業** 問題支援適用於雲端解決方案提供者計畫的所有合作夥伴
 
-- **技術** 問題支援-您可以 [比較合作夥伴支援方案](https://partner.microsoft.com/support/partnersupport) ，或查看下列詳細資料，以取得特定支援方案的詳細資料：
+- **技術** 問題支援-您可以 [比較合作夥伴支援方案](https://partner.microsoft.com/support/partnersupport) 或如需詳細資訊，請參閱下列有關特定支援方案的連結：
 
-  - [適用于合作夥伴的頂級支援](https://partner.microsoft.com/support/microsoft-services-premier-support) (費用基底) 
-  - 合作夥伴 (費用基礎) [的先進支援](https://partner.microsoft.com/support/advanced-cloud-support)
-  - 具有金級/銀級專長認證的 (簽章[雲端支援](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits)) 
+  - [適用于合作夥伴的頂級支援](https://partner.microsoft.com/support/microsoft-services-premier-support) (費用基礎，適用于所有產品) 
+
+  - [合作夥伴的 Advanced Support](https://partner.microsoft.com/support/advanced-cloud-support) (費用基礎，僅適用于雲端產品) 
+
+  - MPN 享有金級或銀級專長認證的「簽章[雲端支援](manage-your-partner-network-benefits.md)」 (，僅適用于雲端產品) 
+
+  -  (金、銀級或 Microsoft 行動套件合作夥伴的 MPN 權益隨附[產品支援事件](manage-your-partner-network-benefits.md)，僅適用于最近的內部部署產品) 
 
 ## <a name="providing-billing-subscription-management-and-technical-support"></a>提供帳單、訂閱管理和技術支援 
 
@@ -49,12 +53,3 @@ CSP 客戶無法自行建立支援票證。 他們必須聯絡您以尋求支援
 - [透過雲端解決方案提供者銷售的 Azure 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [透過 CSP 銷售的 Microsoft Office 365 訂閱](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
-
-
-
- 
-
- 
-
-
-

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490150"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540976"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "100490150"
 
 |**類別**|**2021年2月公告**|**公告**|
 |---------|:---------|:---------|
+|功能|[Live： DocuSign 遷移至 Adobe Sign for Microsoft 合作夥伴合約下的合作夥伴 (MPAs) ](2021-february.md#9)|二月16|
+|拓展您的業務|[提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介](2021-february.md#8)|二月16|
 |功能|[介紹 Microsoft Viva 主題](2021-february.md#7)|2月12日|
 |供應項目/市場|[Microsoft 365 在2021年3月推出的 E3 價格變更](2021-february.md#6)|2月11日|
 |供應項目/市場|[針對挪威克朗更新以授權為基礎的預覽價位清單](2021-february.md#5)|2月10日|

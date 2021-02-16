@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974751"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541009"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -286,7 +286,7 @@ ________________
 
 #### <a name="partner-earned-credit-pec"></a>合作夥伴贏得的點數 (PEC) 
 
-- [瞭解合作夥伴所獲得的點數 (指南) # B2 microsoft.com) ](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [瞭解合作夥伴所獲得的點數 (指南)  (microsoft.com) ](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
 - [合作夥伴獲得的點數-總覽-合作夥伴中心 |Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
 - [受管理服務的合作夥伴獲得的點數-合作夥伴中心 |Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
 - [角色、合作夥伴取得點數合作夥伴中心的許可權 |Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
@@ -348,7 +348,9 @@ Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥
 
 從 2021 年 2 月開始，Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥伴在一段時間範圍內能獲得更一致的效能。 節流會限制在某個時間範圍內對服務的要求數目，以避免過度使用資源。 超過節流閾值時，合作夥伴中心會在一段時間內限制來自該用戶端的任何後續要求。
   
-**合作夥伴權益：** 合作夥伴中心依設計可處理大量要求，但若有幾個合作夥伴提出了極大量的要求，節流將有助於為所有合作夥伴維持理想的效能和可靠性。  
+**合作夥伴權益：**
+
+合作夥伴中心是設計用來處理大量的要求，但如果幾個夥伴提出大量的要求，則節流將有助於維持所有夥伴的最佳效能和可靠性。  
 
 - 節流可以盡可能縮短停機時間。
 - 節流會減少大量要求的數量，協助確保所有合作夥伴的效能一致。

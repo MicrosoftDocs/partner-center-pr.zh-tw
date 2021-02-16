@@ -9,16 +9,120 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490167"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100540993"
 ---
 # <a name="february-2021-announcements"></a>2021年2月公告
 
 本頁面詳細說明2021年2月的 Microsoft 合作夥伴中心公告。
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Live： DocuSign 遷移至 Adobe Sign for Microsoft 合作夥伴合約下的合作夥伴 (MPAs) 
+
+### <a name="categories"></a>類別
+
+- 日期：2021-02-16
+- 功能
+
+### <a name="summary"></a>摘要
+
+Microsoft 會將所有電子簽章處理從 DocuSign 轉換為 Adobe Sign。
+
+### <a name="impacted-audience"></a>影響對象
+
+在 MPA 下的現有直接與間接雲端解決方案提供者 (CSP) 合作夥伴。
+
+### <a name="details"></a>詳細資料
+
+從 2021 年 2 月起，Microsoft 會開始將 CSP 合作夥伴的所有電子簽章處理從 DocuSign 轉換為 Adobe Sign。
+
+轉換的過程應該會很順暢。 在移轉時，每當需要您的電子簽章時，您就會收到來自 adobesign@adobesign.com (而不是 DocuSign) 的電子郵件。 這封電子郵件會提供您需要在其中簽署的 Adobe Sign 網頁連結。 Microsoft 合作夥伴不需要重新簽署現有的合約，只需簽署未來的通路合約。 位於烏克蘭、俄羅斯和哈薩克的合作夥伴必須每年以實體或電子方式重新簽署附加條款。
+
+您可以在[資源庫](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)中找到 Adobe Sign 簽章要求電子郵件的範例。
+
+若要獲得最佳體驗，請務必執行下列動作：
+
+1. 將 adobesign@adobesign.com 新增至您的安全寄件者清單，以避免來自此帳戶的電子郵件直接進入您的垃圾郵件資料夾。
+2. 請與您的 IT 部門合作，以：
+    - 將 adobesign@adobesign.com 電子郵件地址新增至其安全寄件者清單，以確保其不會包含在任何預先建立的網路釣魚規則中。
+    - 更新現有的安全性原則，以確保所有必要收件者都能在您的 Adobe Sign 企業授權下簽署文件。
+
+有關上線、功能和商務程式問題的資源，可以在 [Adobe 簽署遷移夥伴頁面](https://aka.ms/eSignature/External)上找到。
+
+Adobe Sign 是 Microsoft 慣用的電子簽章解決方案 (ESS)。 轉換成 Adobe Sign 可以確保電子簽章體驗是安全且有效率的，從而為我們的客戶和合作夥伴提供更高的價值。
+
+如需有關如何以電子方式簽署文件和電子簽名委派的詳細資訊，請參閱下列教學課程：
+
+- [以電子方式簽署文件 | Adobe Sign 教學課程](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [委派其他人簽署文件 | Adobe Sign 教學課程](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>後續步驟
+
+請與貴組織內適當的專案關係人分享這項資訊。
+
+### <a name="questions"></a>有問題嗎？
+
+如有任何問題，請使用[通話記錄工具 (CLT)](https://clt.partners.extranet.microsoft.com/CLT) 或透過 [Explore MS](https://www.explore.ms/) 連絡您的區域營運中心。 請仔細遵循標準 CLT 程序，以便我們儘快解決您的查詢。
+
+### <a name="change-log"></a>變更記錄
+
+- 2021年1月15日：原始發行集 
+- 2021年2月16日：現已上線、新資源： Adobe Sign 遷移夥伴頁面 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a>提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介
+
+### <a name="categories"></a>類別
+
+- 日期：2021-02-16
+- 拓展您的業務
+
+### <a name="summary"></a>總結
+
+Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥伴在一段時間範圍內能獲得更一致的效能。
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴  
+
+### <a name="details"></a>詳細資料
+
+從 2021 年 2 月開始，Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥伴在一段時間範圍內能獲得更一致的效能。 節流會限制在某個時間範圍內對服務的要求數目，以避免過度使用資源。 超過節流閾值時，合作夥伴中心會在一段時間內限制來自該用戶端的任何後續要求。
+
+**合作夥伴權益：**
+
+合作夥伴中心是設計用來處理大量的要求，但如果幾個夥伴提出大量的要求，則節流將有助於維持所有夥伴的最佳效能和可靠性。  
+
+- 節流可以盡可能縮短停機時間。
+- 節流會減少大量要求的數量，協助確保所有合作夥伴的效能一致。
+
+**要節流的 API：**
+
+| 作業 | 合作夥伴中心文件 |
+| ------ | ------- |
+|{baseURL}/v1/customers/{customer_id}/subscriptions  | [取得客戶的所有訂用帳戶](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [依照識別碼取得訂用帳戶](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders  | [取得所有客戶訂單](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [依識別碼取得供應項目](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [取得訂用帳戶的佈建狀態](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [管理訂單和管理訂用帳戶](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [取得訂用帳戶的附加元件清單](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [取得訂用帳戶的 Azure 權利清單](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [取得訂用帳戶的註冊狀態](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/customers/{customer-tenant-id}/transfers  | [取得客戶的所有轉移](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [取得產品升級狀態](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [取得試用版轉換方案的清單](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+我們強烈建議合作夥伴考慮使用活動記錄 API，以提高效率且避免節流。 如需這項功能的詳細資訊，請參閱 [這裡](/partner-center/develop/api-throttling-guidance)的詳細資訊。  
+
+### <a name="next-steps"></a>後續步驟
+
+請檢閱本主題的 [資源](/partner-center/develop/api-throttling-guidance) ，並採取必要的步驟。  
 
 _______________
 
