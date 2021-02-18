@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334569"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645634"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>使用逗點分隔值 (CSV) 檔案的共同銷售商機的大量作業
 
@@ -71,7 +71,7 @@ Errors|No|如果與參考相關聯的建立/更新作業相關的錯誤，將會
 客戶縣/市|Yes|客戶組織所在的城市。|Redmond
 客戶州|No|客戶組織所在的狀態。|Washington
 客戶郵遞區號|No|客戶組織所在區域的郵遞區號。|98052
-客戶國家/地區|Yes|客戶組織所在的國家/地區。 如 [這裡]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)所述，使用三個字母的國家/地區代碼。|USA
+客戶國家/地區|Yes|客戶組織所在的國家/地區。 使用 [下面]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)所述的兩個字母國家/地區代碼。|US
 客戶 d. U-N-S 識別碼|No|嘗試提取客戶組織的 DUNS 識別碼。 這有助於更快速地比對 Microsoft 端的客戶組織，以加速賣方指派。 您可以從這個 [網站](https://www.dnb.com/duns-number/lookup.html)免費取得 DUNS 識別碼。|81466849
 客戶連絡人的名字|相依|只有在您需要 Microsoft 協助時，才需要名字。 客戶組織的主要連絡人的名字，處理此交易。|John
 客戶連絡人姓氏|相依|只有在您需要 Microsoft 協助時，才需要姓氏。 這項交易的客戶組織的主要連絡人姓氏。|客戶
