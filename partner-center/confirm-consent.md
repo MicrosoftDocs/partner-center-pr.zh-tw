@@ -8,15 +8,15 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/30/2020
-ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
-ms.translationtype: HT
+ms.date: 03/02/2021
+ms.openlocfilehash: ab2f5be77f6480b4a8b47bef0e0fd5096f7c1776
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354605"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029911"
 ---
-# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>用來確認客戶是否已接受 Microsoft 客戶合約的更新後方法
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>確認客戶接受 Microsoft 客戶合約
 
 
 **適當的角色**
@@ -30,8 +30,6 @@ ms.locfileid: "97354605"
 > * Microsoft Cloud 德國合作夥伴中心
 > * Microsoft Cloud for US Government 適用的合作夥伴中心
 
->[!NOTE]
->自 2020 年 1 月 31 日起，所有客戶 (包括現有和新的客戶) 都必須簽署新的 Microsoft 客戶合約。 如需詳細資訊，請閱讀[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)。
 
 身為合作夥伴，您必須先讓您的客戶接受 Microsoft 客戶合約，才能為該客戶訂購 Microsoft 產品和服務。 為了更妥善協助合作夥伴符合合規需求，Microsoft 會要求合作夥伴提供接受合約者的下列相關詳細資料，以確認接受：
 
@@ -46,6 +44,9 @@ ms.locfileid: "97354605"
 - 接受日期
 
 直接帳單合作夥伴和間接提供者透過合作夥伴中心或合作夥伴中心 API 交易時，必須確認客戶已接受 Microsoft 客戶合約。 確認是「強制性」  的。
+
+>[!NOTE]
+>自 2020 年 1 月 31 日起，所有客戶 (包括現有和新的客戶) 都必須簽署新的 Microsoft 客戶合約。 如需詳細資訊，請閱讀[確認客戶接受 Microsoft 客戶合約](confirm-customer-agreement.md)。
 
 如未提供客戶確認：
 
