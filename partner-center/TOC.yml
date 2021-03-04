@@ -9,7 +9,7 @@
     - name: 成為 Microsoft 合作夥伴
       href: mpn-overview.md
       displayName: mpn
-    - name: 在合作夥伴中心中建立 MPN 帳戶
+    - name: 在合作夥伴中心內建立 MPN 帳戶
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: 取得公司電子郵件地址
@@ -99,6 +99,11 @@
         - name: Azure 和雲端的優點
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Visual Studio 權益
+          href: mpn-benefits-visual-studio.md
+          displayname: 'visual studio, mpn, activate'
+        - name: 技術售前和部署優點
+          href: technical-benefits.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: 軟體保證
@@ -447,6 +452,8 @@
           displayName: 'region, regio'
         - name: 向 Microsoft 要求 SLA 信用額度
           href: request-credit.md
+        - name: 稅務原則如何影響支出
+          href: tax-policies-affect-payout.md
     - name: 為客戶設定 Azure 消費預算
       href: set-an-azure-spending-budget-for-your-customers.md
       displayName: csp

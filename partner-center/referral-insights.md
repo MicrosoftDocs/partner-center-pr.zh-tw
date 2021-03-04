@@ -1,7 +1,7 @@
 ---
 title: 取得推薦深入解析
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 在合作夥伴中心定期檢閱您的推薦見解資料，了解要因應的趨勢或要改進的範圍，以助您達成業務目標。
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3496e57e9a9947d725a64d70b317779182f77583
-ms.sourcegitcommit: 3329fd120d8d49a4831412b79e044678ec71b84c
-ms.translationtype: HT
+ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "91422364"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756482"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>在合作夥伴中心取得推薦見解，並了解您的推薦情況
 
@@ -28,7 +28,7 @@ ms.locfileid: "91422364"
 若要查看您的共同銷售商機深入解析資料，請從 [合作夥伴中心] 功能表移至 [推薦] > [分析] > [共同銷售商機]。
 
 > [!Important]
-> 交易類型篩選條件會預先套用，搭配針對所有資料選取的**共同銷售**類型。 如果您想要分析與私人交易相關的資料，請移除篩選條件。
+> 交易類型篩選條件會預先套用，搭配針對所有資料選取的 **共同銷售** 類型。 如果您想要分析與私人交易相關的資料，請移除篩選條件。
 
 ## <a name="apply-filters"></a>套用篩選條件
 
@@ -51,21 +51,21 @@ ms.locfileid: "91422364"
 
 此圖表會顯示所選時段的交易總數、成交數目、未成交數目，以及總交易量 (美元)。
 
-百分比變更計量 (以紅色或綠色顯示，具有箭號指標) 表示**所選取日期範圍內最後一個完整月份**與**該範圍中第一個完整月份**之間的差異。 例如，假設目前日期為 6 月 15 日，且您已選取 [3 個月] 篩選來顯示過去三個月的資料。 在此情況下，這些計量會顯示 5 月 (所選時段的最後一個完整月份) 和三月 (所選時段的第一個完整月份) 之間的差異，選取的日期範圍是最後 [3M]，比較會在 5 月的資料與 3 月的資料之間進行。
+百分比變更計量 (以紅色或綠色顯示，具有箭號指標) 表示 **所選取日期範圍內最後一個完整月份** 與 **該範圍中第一個完整月份** 之間的差異。 例如，假設目前日期為 6 月 15 日，且您已選取 [3 個月] 篩選來顯示過去三個月的資料。 在此情況下，這些計量會顯示 5 月 (所選時段的最後一個完整月份) 和三月 (所選時段的第一個完整月份) 之間的差異，選取的日期範圍是最後 [3M]，比較會在 5 月的資料與 3 月的資料之間進行。
 
 :::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="此影像顯示共同銷售商機分析的摘要卡。":::
 
 ## <a name="conversion-funnel"></a>轉換漏斗圖
 
-本區段會顯示一個視覺指標，指出您的交易如何在其整個生命週期中從某個狀態移至另一個狀態。 您可以根據交易量以及以此區段主要樞紐分析為基礎的交易價值 (美元) 來檢視整個生命週期。 第一個區段會同時以狀態和交易類型標示，依類型提供您交易或價值的視覺指標。 另外還有一個區段，即**過去的推薦**，用來指出您對其採取動作的交易，這些動作指的是在為報告選取的時段中，接受/拒絕交易或將交易標示為成交/未成交。 您可以套用篩選條件，在其生命週期中查看各種階段的交易進度。
+本區段會顯示一個視覺指標，指出您的交易如何在其整個生命週期中從某個狀態移至另一個狀態。 您可以根據交易量以及以此區段主要樞紐分析為基礎的交易價值 (美元) 來檢視整個生命週期。 第一個區段會同時以狀態和交易類型標示，依類型提供您交易或價值的視覺指標。 另外還有一個區段，即 **過去的推薦**，用來指出您對其採取動作的交易，這些動作指的是在為報告選取的時段中，接受/拒絕交易或將交易標示為成交/未成交。 您可以套用篩選條件，在其生命週期中查看各種階段的交易進度。
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="此影像顯示共同銷售商機分析的摘要卡。":::
+:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="此影像顯示推薦的轉換漏斗圖。":::
 
 ## <a name="deals-by-geography"></a>交易 (依地理位置)
 
 此區段會顯示交易來源的國家/地區，以及每個國家/地區的詳細資料。 每個國家/地區都有交易詳細資料的表格檢視，還有所有國家/地區的地圖檢視。 您可以按一下表格中的特定國家/地區，或按一下地圖檢視以縮放至特定國家/地區。
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="此影像顯示共同銷售商機分析的摘要卡。":::
+:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="此影像顯示推薦的地理位置分佈。":::
 
 ## <a name="deals-by-solutions"></a>交易 (依解決方案)
 
@@ -77,13 +77,13 @@ ms.locfileid: "91422364"
 
 表格具有其中包含解決方案的交易總數，以及對應狀態，例如交易已成交、交易未成交、交易過期，以及以美元貨幣為單位的總交易成交及未成交價值。 表格右側也有一個交易趨勢圖，其中顯示交易總數，以及根據所選解決方案以美元貨幣為單位的交易成交值。 預設選項為所有解決方案。
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="此影像顯示共同銷售商機分析的摘要卡。":::
+:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="此影像顯示解決方案效能。":::
 
 ## <a name="declined--lost-reasons"></a>拒絕與未成交原因
 
 本區段將協助您分析貴公司將交易標示為 [拒絕] 或 [未成交] 原因。 這些表示法中的選項是銷售人員在交易以拒絕或未成交結案時所選擇的相同原因。
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="此影像顯示共同銷售商機分析的摘要卡。":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="此影像顯示合作夥伴在拒絕交易或將交易標示為未成交時所選取的原因。":::
 
 ## <a name="comparison-charts"></a>比較圖
 
@@ -96,13 +96,13 @@ ms.locfileid: "91422364"
 
 選取交易類型時，您可以選擇比較與共同銷售商機和私人交易相關的推薦績效。 對於市場和解決方案兩者，您可以挑選最多三個不同的選項來比較其績效。 第一個圖形 (即橫條圖) 會根據主要樞紐分析 (即成交量或交易成交價值)，以每月趨勢呈現資料。 橫條圖右側也有一個圓形圖，它會以百分比顯示相同資料的分佈情形。
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="此影像顯示共同銷售商機分析的摘要卡。":::
+:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="此影像顯示比較區段。":::
 
 ## <a name="raw-data-table"></a>原始資料表格
 
-下表具有與共同銷售商機相關的所有原始資料，可協助您快速**匯出**您要對其執行任何詳細或自訂分析的資料。
+下表具有與共同銷售商機相關的所有原始資料，可協助您快速 **匯出** 您要對其執行任何詳細或自訂分析的資料。
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="此影像顯示共同銷售商機分析的摘要卡。":::
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="此影像顯示推薦的原始資料表格。":::
 
 ## <a name="no-data"></a>無資料
 
@@ -114,10 +114,10 @@ ms.locfileid: "91422364"
 - 沒有符合所套用篩選條件的記錄。 請嘗試重設篩選條件。
 - 商機狀態變更之間會有延遲，在分析報告中更新也一樣會有延遲。 在 24 小時之後檢查報告。
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="此影像顯示共同銷售商機分析的摘要卡。":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="此影像顯示推薦沒有視覺化資料。":::
 
 > [!NOTE]
-> [推薦深入解析] 頁面只會顯示在合作夥伴中心產生的推薦資料。 它不會顯示透過 [Partner Sales Connect](https://support.microsoft.com/help/3170447/learn-to-use-partner-center-sales-connect) 或任何其他機制所產生的推薦資料。
+> [推薦深入解析] 頁面只會顯示在合作夥伴中心產生的推薦資料。 它不會顯示透過 [Partner Sales Connect](psc-to-pc.md) 或任何其他機制所產生的推薦資料。
 
 > [!TIP]
 > 若要查看您的商務設定檔如何在[尋找解決方案提供者](https://www.microsoft.com/solution-providers/home)體驗中執行，請參閱[商務設定檔深入解析頁面](analyze-your-marketing-profile.md)。

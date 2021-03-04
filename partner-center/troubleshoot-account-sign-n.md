@@ -4,24 +4,21 @@ ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 針對嘗試註冊合作夥伴中心時發生的問題進行疑難排解。 使用付款條件、忘記密碼等解決問題的答案。
+description: 針對嘗試在合作夥伴中心註冊時發生的問題進行疑難排解。 使用付款條件、忘記密碼等解決問題的答案。
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6bf3e3af8e0d1d87a63f86e892d8bddcd74b6460
-ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
+ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "94381404"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756745"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>針對帳戶設定或 MPN 續約問題進行疑難排解
 
-**適用於**
 
-- 合作夥伴中心
- 
 **適當的角色**
 
 - 全域系統管理員
@@ -29,18 +26,18 @@ ms.locfileid: "94381404"
  
 以下是一些針對設定合作夥伴中心帳戶時所發生的常見問題進行疑難排解的建議。
 
-## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>如果您要從 Partner Membership Center 進行遷移，而且無法編輯任何公司資訊欄位，會發生什麼事
+## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>如果您要從合作夥伴成員中心進行遷移，而且無法編輯任何公司資訊欄位，會發生什麼事
 
-如果您的公司已經有合作夥伴中心的 (說 CSP 帳戶) –您將會看到唯讀畫面。 此畫面會顯示合作夥伴中心中現有公司的所有相關資訊。
+如果您的公司已經有合作夥伴中心的目前狀態 (假設 CSP 帳戶) –您將會看到唯讀畫面。 此畫面會顯示您公司在合作夥伴中心內的所有相關資訊。
 
 您無法變更此畫面上的詳細資料。 這是設計的，而不是錯誤。
 
 選取 [ **接受** ] 並 **繼續** 進行。
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>如果 IT 部門已關閉合作夥伴中心的 **註冊** 。
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>如果 IT 部門已關閉 **合作夥伴中心的註冊**。
 
-您會看到此訊息是因為病毒使用者已停用，或在 Azure AD 的租使用者上停用病毒註冊。 您 Azure AD 帳戶的全域管理員可以執行下列 PowerShell 命令來啟用所需的功能：
+您會看到此訊息是因為已停用病毒的使用者，或是 Azure AD 租使用者上的病毒註冊已停用。 您 Azure AD 帳戶的全域管理員可以執行下列 PowerShell 命令來啟用必要的功能：
 
 **Set-msolcompanysettings-AllowEmailVerifiedUsers $true-AllowAdHocSubscriptions $true**
 
@@ -68,7 +65,7 @@ ms.locfileid: "94381404"
 
 1. 選取儀表板中的 [ **成員資格** 供應專案] 索引標籤。
 
-2. 選取 [ **取消訂單** ]
+2. 選取 [**取消訂單**]
 
 3. 確認視窗會出現，您必須確認才能取消最初訂單。
 

@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
-ms.translationtype: HT
+ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492699"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756459"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>為需要在合作夥伴中心工作的公司使用者指派使用者角色和權限
 
@@ -128,9 +128,6 @@ CPV 開發可供雲端解決方案提供者 (CSP) 合作夥伴使用的應用程
 ||*    檢視您所建立的合作夥伴支援票證
 
 ## <a name="manage-referrals"></a>管理推薦
-
-> [!Note]
->2020 年 11 月 18 日起，將有新的「推薦」使用者角色可供使用。 現有推薦管理員的推薦管理員角色仍會侷限在整個公司的範圍內。
 
 |**角色** | **可以執行的作業**|**深入了解**
 |------------------------------|:-------------------------|---|

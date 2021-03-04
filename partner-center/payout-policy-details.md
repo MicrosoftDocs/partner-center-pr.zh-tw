@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
-ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
+ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98861405"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756853"
 ---
 # <a name="payout-schedules-and-processes"></a>支出排程和流程
 
@@ -25,11 +25,11 @@ ms.locfileid: "98861405"
 
 ## <a name="payment-schedules"></a>付款排程
 
-下列各節說明 **Enterprise 合約** 和 **信用卡/發票** 交易的支出流程。
+下列各節描述適用于 **Enterprise 合約** 和 **信用卡/發票** 交易的支出流程。
 
 ### <a name="enterprise-agreement-transactions"></a>Enterprise 合約交易
 
-當客戶從 Microsoft AppSource 購買產品，Azure Marketplace 或使用其現有的 Microsoft Enterprise 合約進行交易時，我們會在下一期的客戶發票30天內發出支出。 客戶使用信用卡的交易在付款前有30天的保留期。
+當客戶使用其現有的 Microsoft Enterprise 合約進行交易，從 Microsoft AppSource 或 Azure Marketplace 購買產品時，我們會在下一期的客戶發票30天內發行支出。 客戶使用信用卡的交易在付款前有30天的保留期。
 
 付款通常會在 Microsoft 向客戶收取款項之前發生。 如果客戶無法支付 Microsoft 的費用，但我們已發出款項，請參閱以下 [客戶的非付款流程](#process-for-customer-non-payment) 。
 
@@ -37,7 +37,6 @@ ms.locfileid: "98861405"
 | --- | --- | --- | --- |
 | 交易的使用量或月份 | 客戶使用或購買服務。 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第1個月** |
 | Microsoft 計算帳單金額 | 判斷總使用量和交易總計 | [使用量](/azure/marketplace/partner-center-portal/usage-dashboard) 或 [訂單](/azure/marketplace/partner-center-portal/orders-dashboard) 儀表板 | **第2個月** |
-| 客戶付款的發票 | Microsoft 會從客戶收集款項 | 沒有變更 | **第2個月** |
 | 已張貼付款 | 判斷機關費和支出收益 | 在付款[語句](payout-statement.md)的交易歷程記錄中標示為未處理 | **第3個月 (第一周)** |
 | 準備付款 | 每月付款已備妥收益 | 在付款[聲明](payout-statement.md)的交易歷程記錄中標示為即將推出 | **第3個月 (第一周)** |
 | **已傳送支出** | **付款會傳送給發行者** | **標示為在交易歷程記錄和付款 [聲明](payout-statement.md)的付款區段中傳送** | **第3個月 (不晚于 15)** |
@@ -86,7 +85,7 @@ Microsoft 會使用下列其中一種方法 recoup 任何已支付給您的支�
 | 客戶接收終止通知 | 2/1/2021 | 無 |
 | 集合處理常式結束/資金已寫出 | 2/15/2021 | 傳送給發行者的電子郵件通知，已將資金寫掉。 包含交易識別碼和金額。 |
 | 扣除支出 | 3/1/2021 | 發行者會在合作夥伴中心付款聲明中看到負面交易 |
-| 支付支出 | 3/15/2021 | 未來的支出會顯示在合作夥伴中心的付款聲明中。 在餘額不再為負數之前，發行者將不會收到付款。  |
+| 支付支出 | 3/15/2021 | 未來的支出會顯示在合作夥伴中心付款聲明內。 在餘額不再為負數之前，發行者將不會收到付款。  |
 |||
 
 \* 付款日期是太平洋標準時間 (PST) 。
@@ -105,6 +104,6 @@ Microsoft 會使用下列其中一種方法 recoup 任何已支付給您的支�
 | 電匯      | 7-10 個工作天                         |
 |
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [稅賦詳細資訊](tax-details-marketplace.md)

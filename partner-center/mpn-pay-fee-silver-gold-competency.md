@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042679"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757393"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>如何支付與銀級或金級專長認證相關聯的費用
 
@@ -25,11 +25,11 @@ ms.locfileid: "99042679"
 本文說明如何及何時支付獲得銀級或金級 Microsoft 合作夥伴網路專長認證的相關費用。 本文也會說明如何變更您慣用的付款方法、如何取消訂單，以及如何在從銀級轉移至金級專長認證時獲得25% 的費用折扣。
 
 > [!NOTE]
-> 若要深入瞭解取得銀級或金級專長認證的優點、可用的特定專長，以及其獨特的需求，請參閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/competencies)專長認證。 您也可以查看 Microsoft 合作夥伴網路 [授權資料表以取得](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) 專長認證，以深入瞭解每個可用專長認證的權益。
+> 若要深入瞭解取得銀級或金級專長認證的優點、可用的特定專長，以及其獨特的需求，請參閱 [Microsoft 合作夥伴網路](https://partner.microsoft.com/membership/competencies)專長認證。 您也可以查看 Microsoft 合作夥伴網路 [授權資料表的](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) 專長認證，以深入瞭解每個可用專長認證的權益。
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>符合專長認證的需求並支付費用
 
-如果您已經符合要求以取得特定的銀級或金級專長認證 (或者您已經有銀級或金級專長認證) ，您可以快速檢查專長認證的費用。 只需選取合作夥伴中心中的 [ [比較-](https://partner.microsoft.com/membership/compare-offers) 供應專案] 索引標籤。
+如果您已經符合要求以取得特定的銀級或金級專長認證 (或者您已經有銀級或金級專長認證) ，您可以快速檢查專長認證的費用。 只需選取合作夥伴中心的 [ [比較-](https://partner.microsoft.com/membership/compare-offers) 供應專案] 索引標籤。
 
 否則，請遵循下列步驟來支付銀級或金級專長認證的費用。 這些步驟假設您已符合下列必要條件：
 
@@ -37,7 +37,7 @@ ms.locfileid: "99042679"
 
 - 您已符合 [要求](https://partner.microsoft.com/membership/competencies) 以取得特定的銀級或金級專長認證。
 
-- 您已獲指派 [全域管理員或 MPN 合作夥伴系統管理員](https://docs.microsoft.com/partner-center/permissions-overview)的合作夥伴中心角色。如果您是沒有其中一個角色的來賓使用者，系統將會拒絕您存取以下所述的部分合作夥伴中心頁面。 如果發生這種情況，請 [洽詢您的全域管理員](https://docs.microsoft.com/partner-center/find-your-role) ，並要求他們將適當的角色指派給您。 
+- 您已獲指派 [全域管理員或 MPN 合作夥伴系統管理員](./permissions-overview.md)的合作夥伴中心角色。如果您是沒有其中一個角色的來賓使用者，您將會被拒絕存取以下所述的一些合作夥伴中心頁面。 如果發生這種情況，請 [洽詢您的全域管理員](./find-your-role.md) ，並要求他們將適當的角色指派給您。 
 
 1. 使用您組織的公司帳號憑證，登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)。
 
@@ -54,7 +54,7 @@ ms.locfileid: "99042679"
 
 4. 在 [ **購買詳細資料** ] 頁面上，檢查並確認您的詳細資料。
 
-    (深入瞭解如何將 [公司的 **稅務識別碼** 資訊](https://docs.microsoft.com/partner-center/organization-tax-info) 或公司的 [**帳單寄** 送到公司位址](https://docs.microsoft.com/partner-center/mpn-get-action-pack)。 ) 
+    (深入瞭解如何將 [公司的 **稅務識別碼** 資訊](./organization-tax-info.md) 或公司的 [**帳單寄** 送到公司位址](./mpn-get-action-pack.md)。 ) 
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="成員資格提供購買詳細資料頁面與付款喜好設定。" border="false":::
 
@@ -118,15 +118,15 @@ ms.locfileid: "99042679"
 
 ### <a name="upload-proof-of-wire-transfer-payment"></a>上傳電匯證明付款
 
-如果您透過電子電匯支付銀級或金級會員費用，則必須將付款證明上傳至合作夥伴中心。 請遵循下列步驟來執行此動作：
+如果您透過電子電匯支付銀級或金級的成員資格費用，則必須將付款證明上傳至合作夥伴中心。 請遵循下列步驟來執行此動作：
 
-1. 返回合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)，然後從左側導覽功能表中選取 [ **成員資格** 供應專案] 選項。
+1. 返回 [合作夥伴中心] [儀表板](https://partner.microsoft.com/dashboard)，然後從左側導覽功能表中選取 [ **成員資格** 供應專案] 選項。
 
 1. 在 [購買的供應專案] 清單中，找出您的特定供應專案。 然後，在該供應專案的 [動作] 資料行下，選取 **[上傳付款證明**]。
 
    :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="針對每個已購買的供應專案，顯示可選取選項、上傳付款證明的已購買成員資格供應專案清單。" border="false":::
 
-1. 在 [詳細資料] 頁面上，尋找 [ **付款證明** ] 欄位。 選取 **[流覽]** 以找出並上傳您的證明檔以合作夥伴中心。
+1. 在 [詳細資料] 頁面上，尋找 [ **付款證明** ] 欄位。 選取 **[流覽]** 以找出您的證明檔，並將其上傳到合作夥伴中心。
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="詳細資料頁面，其中包含用來上傳顯示可選取選項的欄位、上傳付款證明，適用于每個購買的供應專案。" border="false":::
 

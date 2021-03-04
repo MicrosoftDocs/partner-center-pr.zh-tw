@@ -1,7 +1,7 @@
 ---
 title: 使用者和授權管理
 titleSuffix: Microsoft Cloud for US Government - Partner Center
-description: 瞭解如何以及在何處管理 Microsoft Cloud for US Government 夥伴、客戶和授權的合作夥伴中心，以及密碼重設。
+description: 瞭解如何和何處管理適用于美國政府合作夥伴、客戶和授權的 Microsoft Cloud 合作夥伴中心，以及密碼重設。
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cf34aa52bd1d0359736dbcf6cc5ed9029f6d9e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "91000312"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756760"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>美國政府適用的 Microsoft Cloud 合作夥伴中心內的使用者及授權管理
 
@@ -23,14 +23,9 @@ ms.locfileid: "91000312"
 
 - Microsoft Cloud for US Government 適用的合作夥伴中心
 
-下列工作是在 Microsoft Cloud for US Government 的 Microsoft Azure 系統管理員入口網站中進行管理：
+**適當的角色**
 
-- 合作夥伴使用者管理
-
-- 客戶使用者和授權管理
-
-- 重設使用者密碼
-
+- 全域系統管理員
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>如何在 Azure 入口網站中為美國政府適用的 Microsoft Cloud 管理使用者
 
@@ -45,7 +40,7 @@ ms.locfileid: "91000312"
 
 -  [**在 Azure Active Directory 中將使用者指派給系統管理員角色**](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [**在 Azure Active Directory 中重設使用者的密碼**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [**為 Azure Active Directory 中的使用者重設密碼**](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 **相關主題**
 

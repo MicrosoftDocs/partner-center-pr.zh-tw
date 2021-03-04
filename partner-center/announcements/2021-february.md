@@ -6,19 +6,209 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
-ms.custom: announcement
+ms.custom: references_regions
 ms.localizationpriority: high
-ms.date: 02/04/2021
-ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: dcdbbda3a93bdf80dfe2c8eacc74ea4f78a7d07e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540993"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756334"
 ---
 # <a name="february-2021-announcements"></a>2021年2月公告
 
-本頁面詳細說明2021年2月的 Microsoft 合作夥伴中心公告。
+此頁面詳細說明2021年2月的 Microsoft 合作夥伴中心公告。
+
+________________
+## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> PUT 限定性 Api 已淘汰，可能會在5月淘汰
+
+### <a name="categories"></a>類別
+
+- 日期：2021年2月25日
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+使用合作夥伴中心 API 透過雲端解決方案提供者計畫銷售學術、非盈利和 GCC 供應專案的合作夥伴
+
+### <a name="details"></a>詳細資料
+
+此公告是 [在12月發行](2020-december.md#1)的合作夥伴中心增強功能的後續步驟。 在該版本中，已部署新的 GET 和 POST 合格 Api，因此 **現有的 PUT 限定 api 已淘汰，且將于2021年5月4日淘汰取得資格**。 一旦發生這種情況，您將需要轉換為使用新的後置合作夥伴中心 Api，才能購買教育供應專案。 同樣地，您必須使用新的 GET 合格 API 來購買預先限定的非收益和 GCC 供應專案。
+
+### <a name="next-steps"></a>下一步
+
+- **更新至新的 api** ，以順利且及時地轉換
+- **查看新的合作夥伴中心 API 變更和指南** 中的作業就緒資源： [合作夥伴中心教育客戶驗證流程增強功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- 與貴組織內的適當小組和您的轉售商 **共用此資訊**，以協助他們為這些變更做好準備
+
+### <a name="questions"></a>有問題嗎？
+
+如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
+
+### <a name="change-log"></a>變更記錄
+
+- 二月：淘汰 GET & PUT 資格的更新時間軸
+- 1月：即將棄用功能 GET & PUT 資格的提醒
+
+________________
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> 使用合作夥伴中心的大量作業功能，大規模共用共同銷售交易
+
+### <a name="categories"></a>類別
+
+- 日期：2021-02-25
+- 增強的安全性與合規性
+
+### <a name="impacted-audience"></a>影響對象
+
+合作夥伴中心內的合作夥伴共同銷售
+
+### <a name="summary"></a>摘要
+
+共同銷售合作夥伴現在可以使用新的合作夥伴中心 CSV 檔案大量操作功能，大規模地匯出和匯入商機。
+
+### <a name="details"></a>詳細資料
+
+共同銷售合作夥伴現在可以使用新的合作夥伴中心 CSV 檔案大量操作功能，大規模地匯出和匯入商機。 這可統一您的參考共用體驗，並確保從合作夥伴銷售 Connect 移動時的業務持續性。 這也是合作夥伴中心 API 投資的替代方案。
+
+如需完整的詳細資料，請參閱下一節中所述的文章。 
+
+### <a name="next-steps"></a>下一步
+
+若要深入瞭解大量作業功能，請 [使用逗號分隔值 (CSV) 檔案來讀取共同銷售商機的大量作業](https://docs.microsoft.com/partner-center/bulk-operations)。
+
+### <a name="questions"></a>有問題嗎？
+
+如果您有任何進一步的問題，請聯絡 [支援](https://partner.microsoft.com/support/?stage=1) 人員。
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>使用新的交易遷移功能，從合作夥伴銷售 Connect (PSC) 遷移您的交易
+
+### <a name="categories"></a>類別
+
+- 日期：2021-02-25
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+具有 PSC 交易的合作夥伴
+
+### <a name="summary"></a>摘要
+
+合作夥伴銷售 Connect (PSC) 的合作夥伴，可以使用「交易遷移」功能來遷移共同銷售交易，以利用合作夥伴中心內新的共同銷售體驗。
+
+### <a name="details"></a>詳細資料
+
+具有 PSC 交易的合作夥伴現在可以更快速地移動，以利用合作夥伴中心內的新共同銷售體驗，並藉由使用交易遷移功能將共同銷售交易遷移至合作夥伴中心，以消除跨兩個平臺的工作。
+
+如需完整的詳細資料，請參閱下一節中所述的文章。
+
+### <a name="next-steps"></a>下一步
+
+若要深入瞭解交易遷移功能的詳細資訊，請查閱《[合作夥伴中心內的共同銷售 (電腦) 中的「在合作夥伴中心共同銷售」指南中的「進行共同銷售」指南，以瞭解從合作夥伴銷售 Connect (PSC) 進行](https://docs.microsoft.com/partner-center/psc-to-pc) 
+
+### <a name="questions"></a>有問題嗎？
+
+如果您有任何進一步的問題，請聯絡 [支援](https://partner.microsoft.com/support/?stage=1) 人員。
+
+________________
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>利用合作夥伴主導的共同銷售交易提高彈性
+
+### <a name="categories"></a>類別
+
+- 日期：2021-02-25
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+具有共同銷售就緒解決方案的合作夥伴
+
+### <a name="summary"></a>摘要
+
+合作夥伴現在可以在建立夥伴導向的共同銷售交易之後邀請 Microsoft 賣方，使其成為共同銷售活動。
+
+### <a name="details"></a>詳細資料
+
+合作夥伴現在可以選擇在建立夥伴導向的共同銷售交易之後邀請 Microsoft 賣方，使其成為共同銷售活動。 這項交易的詳細資料並不會與 Microsoft 銷售團隊分享，除非合作夥伴明確地尋求 Microsoft 賣方的協助。 此案例也適用于 Microsoft 賣方獎勵。
+
+請注意，夥伴導向的共同銷售交易可以在交易結束之前，于任何時間點升級為主動共同銷售。
+
+如需完整的詳細資料，請參閱下一節中所述的文章。
+
+### <a name="next-steps"></a>下一步
+
+若要深入瞭解，請流覽我們的指南，以 [在合作夥伴中心內管理共同銷售商機](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)。
+
+### <a name="questions"></a>有問題嗎？
+
+如果您有任何進一步的問題，請聯絡 [支援](https://partner.microsoft.com/support/?stage=1) 人員。
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a> 雲端解決方案提供者的變更 (CSP) 客戶上線需求
+
+### <a name="categories"></a>類別
+
+- 日期：2021-02-25
+- 增強的安全性與合規性
+
+### <a name="impacted-audience"></a>影響對象
+
+CSP 直接帳單夥伴和間接提供者，在下一節所列的國家/地區有新的或現有的客戶。
+
+### <a name="summary"></a>摘要
+
+我們致力於協助合作夥伴與客戶根據信任來執行業務，我們會要求額外的客戶資訊，自2021年3月25日起生效。
+
+### <a name="details"></a>詳細資料
+
+Microsoft 的營運以信任為原則。 我們承諾針對在 CSP 計畫中從事客戶訂用帳戶交易時所需的客戶驗證，提供符合規範且安全的方法，是我們一貫努力的目標。 我們將在2021年3月25日推出合作夥伴中心 API 和使用者介面 (UI) 增強功能，其會影響符合下列兩項條件的夥伴：
+
+1. 合作夥伴具有與 Microsoft 的直接計費關係 (亦即該合作夥伴為直接計費合作夥伴或間接提供者)。
+2. 合作夥伴會在下列國家/地區與新的或現有客戶進行業務：
+    - 泰國
+    - 越南
+    - 土耳其
+    - 波蘭
+    - 南非
+    - 印度
+    - 巴西
+    - 伊拉克
+    - 緬甸
+    - 南蘇丹
+    - 沙烏地阿拉伯
+    - 阿拉伯聯合大公國
+    - 委內瑞拉
+
+符合準則的合作夥伴將必須提交客戶的 **法律識別碼** (也稱為客戶的 **組織 INN**) 與 **電話號碼** ，以將新客戶上線或修改現有的客戶詳細資料。 這些合作夥伴現在也可以為客戶輸入選擇性的 **中間名**。
+
+在下列國家/地區中，與新的或現有客戶進行業務往來的合作夥伴，已透過 2020 年 11 月的舊版更新完成訓練。
+
+- 亞美尼亞
+- 亞塞拜然
+- 白俄羅斯
+- 匈牙利
+- 哈薩克
+- 吉爾吉斯
+- 摩爾多瓦
+- 俄羅斯
+- 塔吉克
+- 烏克蘭
+- 烏茲別克
+
+與全球其他客戶合作的合作夥伴將可在2021年3月25日，將 **法律識別碼**、 **電話號碼** 和 **中間名** 輸入給客戶，作為選擇性的詳細資料。
+
+### <a name="next-steps"></a>下一步
+
+- 請參閱專用 [夥伴集合](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) 中的技術檔和常見問題 (登入所需的) ，以取得更詳細的指引。
+- 準備使用合作夥伴中心 API 和 web 使用者體驗來納入變更。 API/SDK 將用於測試。
+- 在為新客戶提供訓練或修改現有的客戶詳細資料時，請務必提交額外的資料。
+- 如果您使用的是控制台廠商 (CPV) 解決方案，請洽詢您的 CPV。
+
+### <a name="questions"></a>有問題嗎？
+
+如果您有任何與法律識別碼 (也稱為 INN 或 TIN) 相關的問題，請洽詢您的稅務顧問或當地稅務機構。 Microsoft 無法提供稅務事項的指導。
+
+如果您需要與 Microsoft 進行的作業支援，請 [開啟服務要求](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (登入所需的) 。
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Live： DocuSign 遷移至 Adobe Sign for Microsoft 合作夥伴合約下的合作夥伴 (MPAs) 
@@ -96,7 +286,7 @@ Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥
 
 **合作夥伴權益：**
 
-合作夥伴中心是設計用來處理大量的要求，但如果幾個夥伴提出大量的要求，則節流將有助於維持所有夥伴的最佳效能和可靠性。  
+合作夥伴中心的設計是為了處理大量的要求，但如果幾個夥伴提出大量的要求，節流將有助於維持所有夥伴的最佳效能和可靠性。  
 
 - 節流可以盡可能縮短停機時間。
 - 節流會減少大量要求的數量，協助確保所有合作夥伴的效能一致。
@@ -144,7 +334,7 @@ Microsoft Viva 主題將人工智慧 (AI) 來識別整個組織的知識與專�
 使用者必須具備下列其中一項的授權，才符合 Viva 主題的資格：   
 - Microsoft 365 F1、F3、E3、A3、E5 或 A5 
 - Office 365 F3、E1、A1、E3、A3、E5 或 A5 
-- Microsoft 365 商務版 Basic、Standard 或 Premium 
+- Microsoft 365 Business Basic、Standard 或 Premium 
 - SharePoint K、方案1或 Plan2 
 
 **優惠詳細資料**
@@ -164,7 +354,7 @@ Microsoft Viva 主題將人工智慧 (AI) 來識別整個組織的知識與專�
 
 _______________
 
-## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>Microsoft 365 在2021年3月推出的 E3 價格變更
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>適用于3月2021的 Microsoft 365 E3 價格變更
 
 ### <a name="categories"></a>類別
 
@@ -173,7 +363,7 @@ _______________
 
 ### <a name="affected-audience"></a>受影響的物件
 
-所有合作夥伴都交易在歐元、AUD、GBP 和 JPY 的雲端解決方案提供者 (CSP) 計畫中。
+所有透過雲端解決方案提供者交易的合作夥伴 (CSP) 方案，以歐元、AUD、GBP 和 JPY。
 
 ### <a name="details"></a>詳細資料
 
@@ -245,7 +435,7 @@ Premium 評定是合規性管理員的選擇性附加元件，可協助客戶符
 請參閱本主題的下列資源，並與您組織中適當的專案關係人共用資訊。   
 
 - [Microsoft 365 E5 安全性與合規性](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [在 Microsoft 合規性管理員中建立和管理評量](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+- [在 Microsoft 合規性管理員中建立和管理評量](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
@@ -262,9 +452,9 @@ _________________________________________________________
 
 ### <a name="details"></a>詳細資料
 
-Microsoft 目前提供專長認證延伸模組 (除了雲端 Business Applications 專長認證) 和先進的特製化延伸模組，在2021年1月1日到2021年6月30日之間 (AD) 。 如需詳細資訊，請參閱我們的 [合作夥伴 blog 文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) 。
+Microsoft 目前提供專長認證延伸模組 (除了雲端商務應用程式專長認證) 和 advanced 特製化延伸模組，在2021年1月1日到2021年6月30日之間 (AD) 。 如需詳細資訊，請參閱我們的 [合作夥伴 blog 文章](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) 。
 ________________
-## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> 合作夥伴中心中的新推薦模組更新
+## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> 合作夥伴中心內的推薦模組新增更新
 
 ### <a name="categories"></a>類別
 
@@ -275,33 +465,33 @@ ________________
 
 - 具有共同銷售就緒優惠的合作夥伴
 - 具有可交易供應專案的合作夥伴，在商業 marketplace 中使用 Azure 獎勵符合資格的解決方案
-- 在合作夥伴中心中使用 [參考] 模組的所有合作夥伴。
+- 所有使用合作夥伴中心內的推薦模組的合作夥伴。
 
 ### <a name="details"></a>詳細資料
 
-隨著我們進入新的一年，我們將新增功能來增強及擴充合作夥伴中心中的共同銷售體驗。 這些新功能可協助您加快交易速度、延伸賣方存取，並協助您更妥善地調整您的業務。 在「推薦」課程模組中引進，這些新的新增專案將協助您透過其他 Microsoft 合作夥伴或 Microsoft 銷售者觸及更多客戶，並在單一位置管理您與 Microsoft 之間的管道。  
+隨著我們移至新的一年，我們將新增功能來增強及擴充合作夥伴中心內的共同銷售體驗。 這些新功能可協助您加快交易速度、延伸賣方存取，並協助您更妥善地調整您的業務。 在「推薦」課程模組中引進，這些新的新增專案將協助您透過其他 Microsoft 合作夥伴或 Microsoft 銷售者觸及更多客戶，並在單一位置管理您與 Microsoft 之間的管道。  
 
-以下是合作夥伴中心推薦模組的新功能：
+以下是合作夥伴中心推薦課程模組的新功能：
 
-#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>在合作夥伴中心中使用 [參考] 模組的所有合作夥伴  
+#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>在合作夥伴中心使用推薦模組的所有合作夥伴  
 
-- [建立新的 SMB](https://docs.microsoft.com/partner-center/connect-with-your-customers)連線：共同銷售並與 Microsoft 銷售者合作，以獲得與 SMB 客戶相關的輸入機會。
+- [建立新的 SMB](../connect-with-your-customers.md)連線：共同銷售並與 Microsoft 銷售者合作，以獲得與 SMB 客戶相關的輸入機會。
 
-- [展開 [參考許可權](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals)：指派使用者的參考許可權]，根據您是否要讓使用者擁有系統管理員許可權， (存取所有共同銷售商機) 或使用者權限 (存取使用者的特定共同銷售商機) 。
+- [展開 [參考許可權](../permissions-overview.md#manage-referrals)：指派使用者的參考許可權]，根據您是否要讓使用者擁有系統管理員許可權， (存取所有共同銷售商機) 或使用者權限 (存取使用者的特定共同銷售商機) 。
 
-- [夥伴銷售 connect 使用者遷移](https://docs.microsoft.com/partner-center/psc-to-pc#user-migration)：將現有的 Partner sales connect 使用者權限對應到對應的合作夥伴中心參考系統管理員和參考使用者權限，然後將新的許可權套用至使用者。 請參閱 [推薦的許可權檔](https://docs.microsoft.com/partner-center/permissions-overview#manage-referrals) ，以深入瞭解推薦管理。  
+- [合作夥伴銷售 connect 使用者遷移](../psc-to-pc.md#user-migration)：將現有的合作夥伴銷售 connect 使用者權限對應到對應的合作夥伴中心的參考管理員和參考使用者權限，然後將新的許可權套用至使用者。 請參閱 [推薦的許可權檔](../permissions-overview.md#manage-referrals) ，以深入瞭解推薦管理。  
 
 #### <a name="partners-with-co-sell-ready-offers"></a>具有共同銷售就緒優惠的合作夥伴
 
-- [與其他合作夥伴共同銷售](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)：邀請我們強大的合作夥伴生態系統中的另一個合作夥伴，與您共同銷售，並讓更多客戶的物件存取更容易。  
+- [與其他合作夥伴共同銷售](../manage-co-sell-opportunities.md)：邀請我們強大的合作夥伴生態系統中的另一個合作夥伴，與您共同銷售，並讓更多客戶的物件存取更容易。  
 
 #### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>具有可交易供應專案的合作夥伴，在商業 marketplace 中使用 Azure 獎勵符合資格的解決方案
 
-- [使用自動交易註冊](https://docs.microsoft.com/partner-center/register-deals)：若要節省時間並確保正確性，請使用下列核取方塊來註冊可交易 Microsoft 商業 Marketplace Azure 供應專案：「此交易/贏得已通過 Azure Marketplace 或 AppSource 交易。」 只要您的交易日期正確，就會直接從 Microsoft 商業市場提取交易註冊的資訊。
+- [使用自動交易註冊](../register-deals.md)：若要節省時間並確保正確性，請使用下列核取方塊來註冊可交易 Microsoft 商業 Marketplace Azure 供應專案：「此交易/贏得已或將透過 Azure Marketplace 或 AppSource 進行交易。」 只要您的交易日期正確，就會直接從 Microsoft 商業市場提取交易註冊的資訊。
 
 ### <a name="questions"></a>有問題嗎？
 
-如果您需要使用任何新功能的說明，請參閱知識庫中的 [ [參考] 區段](https://docs.microsoft.com/partner-center/referrals) ，或我們的 [共同銷售體驗資源庫](https://aka.ms/CoSellExperience) 中的使用方法支援材料 (登入所需的) 。
+如果您需要使用任何新功能的說明，請參閱知識庫中的 [ [參考] 區段](../referrals.md) ，或我們的 [共同銷售體驗資源庫](https://aka.ms/CoSellExperience) 中的使用方法支援材料 (登入所需的) 。
 
 您可以 [向合作夥伴支援小組開啟票證](https://partner.microsoft.com/support/?stage=1) 以尋求支援。
 
@@ -319,12 +509,12 @@ ________________
 
 ### <a name="details"></a>詳細資料
 
-此公告是 [12 月發行的合作夥伴中心增強功能](https://docs.microsoft.com/partner-center/announcements/2020-december#1)的後續公告。 在該版本中，已部署新的 GET 和 POST 合格 Api，因此 **合作夥伴中心 api 將于2021年2月25日淘汰，並于2021年4月4日淘汰**。 屆時，您將必須轉換成使用新的 POST 合作夥伴中心 Api，才能購買教育供應專案和新的「取得資格」 API，以購買預先限定的非收益和 GCC 優惠。
+此公告是 [在12月發行](./2020-december.md#1)的合作夥伴中心增強功能的後續步驟。 在該版本中，已部署新的 GET 和 POST 合格 Api，因此 **現有的 PUT 限定 Api 合作夥伴中心 api 將于2021年2月25日淘汰，並于2021年5月4日淘汰**。 屆時，您將必須轉換成使用新的「合作夥伴中心」 Api，才能購買教育供應專案和新的「取得資格」 API，以購買預先限定的非收益和 GCC 供應專案。
 
 ### <a name="next-steps"></a>下一步
 
 - **更新至新的 api** ，以順利且及時地轉換
-- 請參閱操作就緒資源中 **的新合作夥伴中心 API 變更和指南**：[合作夥伴中心教育客戶驗證流程增強功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **查看新的合作夥伴中心 API 變更和指南** 中的作業就緒資源： [合作夥伴中心教育客戶驗證流程增強功能](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - 請與您組織內的適當小組和您的轉售商 **共用此資訊**，以協助他們為這些變更做好準備。
 
 ### <a name="questions"></a>有問題嗎？

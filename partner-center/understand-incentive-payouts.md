@@ -4,23 +4,19 @@ ms.topic: article
 ms.date: 11/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: 使用這些頁面來查看和管理獎勵計畫狀態
+description: 使用這些頁面來查看和管理獎勵方案狀態
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492716"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755853"
 ---
 # <a name="view-your-incentives-program-details"></a>查看您的獎勵計畫詳細資料
-
-**適用於**
-
-- 合作夥伴中心
 
 **適當的角色**
 
@@ -33,7 +29,7 @@ ms.locfileid: "97492716"
 本文說明如何存取 [我的 **獎勵總覽** ] 頁面，其中顯示您的獎勵計畫的整體狀態，以及每個位置的每個程式的狀態。 它也會提供不同的註冊狀態。 
 
 >[!NOTE]
->如需合作夥伴中心中獎勵和獎勵功能的詳細資訊，請參閱 [合作夥伴投資和獎勵](https://partner.microsoft.com/membership/partner-incentives) (登入所需的) 。
+>如需合作夥伴中心獎勵與獎勵功能的詳細資訊，請參閱 [合作夥伴投資和獎勵](https://partner.microsoft.com/membership/partner-incentives) (登入所需的) 。
 
 ## <a name="access-the-incentives-overview-page"></a>存取獎勵總覽頁面
 
@@ -53,7 +49,7 @@ ms.locfileid: "97492716"
 
 | **狀態**         | **出現時間** |
 |:------------------------------------|:------------------|
-| 必要的動作  | 合作夥伴已接受邀請以註冊獎勵方案，但可能需要更新銀行或稅務資訊。 請參閱合作夥伴中心中的任何後續步驟或連結，以更新您的銀行或稅務資訊，請參閱 **必要的動作** 資料行。 |
+| 必要的動作  | 合作夥伴已接受邀請以註冊獎勵方案，但可能需要更新銀行或稅務資訊。 請參閱任何後續步驟的 **必要動作** 資料行，或在合作夥伴中心更新您的銀行或稅務資訊的連結。 |
 | 已停用  | 獎勵系統不再提供特定的獎勵方案。 |
 | 已註冊  | 所有稅務和銀行資訊都已經過驗證。 合作夥伴不需要進一步的註冊動作。 |
 | 正在註冊  | 使用者不是獎勵系統管理員，而且註冊是在 **所需的動作** 或 **驗證註冊** 狀態中。|
@@ -75,5 +71,6 @@ ms.locfileid: "97492716"
 
 您也可以使用 [合作夥伴付款 API](https://apidocs.microsoft.com/services/partnerpayouts) 來連接並直接取得付款交易與付款資料。 若要深入瞭解，請參閱付款 [聲明](payout-statement.md) 。
 
-## <a name="next-steps"></a>後續步驟
-- [支出明細表](payout-statement.md)
+## <a name="next-steps"></a>下一步
+
+- [支付明細表](payout-statement.md)

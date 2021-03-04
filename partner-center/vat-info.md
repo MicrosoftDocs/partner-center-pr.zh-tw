@@ -1,26 +1,26 @@
 ---
 title: 合作夥伴中心註冊的加值稅 (VAT) 資訊
-description: 如果您在合作夥伴中心註冊程式期間必須提供加值稅識別碼號碼，此資訊可協助您開始使用。
+description: 如果您在合作夥伴中心註冊過程中需要提供加值稅識別碼，此資訊可協助您開始使用。
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755634"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755749"
 ---
 # <a name="value-added-tax-vat-information"></a>加值稅 (加值稅) 資訊的加值稅
 
-**適用於：**
+**適當的角色**
 
-- 合作夥伴中心
-- 商務 Marketplace
+- 帳戶管理員
 
-如果您在合作夥伴中心註冊程式期間必須提供加值稅識別碼，以下提供一些資訊，讓您開始使用。
+
+如果您在合作夥伴中心註冊程式中需要提供加值稅識別碼，以下提供一些資訊，讓您開始使用。
 
 ## <a name="understanding-vat-numbers"></a>了解 VAT 編號
 
@@ -34,7 +34,7 @@ ms.locfileid: "96755634"
 
 在歐盟會員國內，合作夥伴必須提供其有效加值稅識別碼編號，以供反向徵收和適當的計費。 加值稅編號必須有效才能予以接受。
 
-Microsoft 不支援點數和重新帳單。 銷售任何訂用帳戶之前，您必須在合作夥伴中心中註冊您的加值稅 [識別碼號碼](organization-tax-info.md) 。
+Microsoft 不支援點數和重新帳單。 銷售任何訂用帳戶之前，您必須在合作夥伴中心 [註冊您的 加值稅 ID 號碼](organization-tax-info.md) 。
 
 ### <a name="south-africa"></a>南非
 
@@ -78,6 +78,7 @@ Microsoft 現在會在以土耳其的夥伴購買的數位內容和服務上套�
 |西班牙 |-加值稅 編號格式：9個數字<br/>-國家/地區代碼： ES<br/>-範例： X12345678、12345678X 或 X1234567X<br/>-附注：包含1或2個字母： first、last 或 first 和 last。 |
 |瑞典 |-加值稅 號碼格式：12位數<br/>-國家/地區代碼： SE<br/>-範例：123456789001<br/>-注意：前2個字元必須是 ' 01 '。 |
 |英國 |-加值稅 號碼格式：9或12位數<br/>-國家/地區代碼： GB<br/>-範例：123456789或123456789001<br/>-附注：通常是9個位數，但如果數位代表群組內的子公司，則為12位數。 |
-## <a name="next-steps"></a>後續步驟
 
-- [公司稅務資訊，以及如何新增或提交合作夥伴中心購買的 加值稅 識別碼](organization-tax-info.md)
+## <a name="next-steps"></a>下一步
+
+- [公司稅務資訊，以及如何新增或提交合作夥伴中心購買的加值稅識別碼](organization-tax-info.md)

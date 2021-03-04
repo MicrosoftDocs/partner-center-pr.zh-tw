@@ -1,22 +1,22 @@
 ---
 title: 合作夥伴貢獻指標-CBA
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 深入瞭解七個合作夥伴貢獻指標 (PCI) ，其中顯示合作夥伴如何取得銀級或金級雲端 Business Applications 專長認證。
+description: 深入瞭解七個合作夥伴貢獻指標 (PCI) ，其中顯示合作夥伴如何取得銀級或金級雲端商務應用程式專長認證。
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530811"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756551"
 ---
-# <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>使用合作夥伴貢獻指標來達成雲端 Business Applications 專長認證
+# <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>使用合作夥伴貢獻指標來達成雲端商務應用程式專長認證
 
 **適當的角色**
 
@@ -24,10 +24,10 @@ ms.locfileid: "99530811"
 - MPN 合作夥伴系統管理員
 - 帳戶管理員
 
-本文說明七個主要的夥伴貢獻指標 (PCI) 用來評估合作夥伴的進度，以達到或保留銀級或金級雲端 Business Applications 專長認證。
+本文說明七個主要的合作夥伴貢獻指標 (PCI) 用來評估合作夥伴的進度，以達到或保留銀級或金級雲端商務應用程式專長認證。
 
 > [!NOTE]
-> 瞭解合作夥伴如何使用一組不同的夥伴投稿指標計量，透過雲端 Business Applications SMB 選項，來取得銀級或金級小型和中型雲端解決方案專長認證。 如需詳細資訊，請參閱 [針對中小型雲端解決方案專長認證使用合作夥伴貢獻](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)指標。 您也可以 [閱讀更多](https://partner.microsoft.com/membership/competencies) 有關專長認證及其需求的資訊。
+> 瞭解合作夥伴如何使用一組不同的夥伴投稿指標計量，透過雲端商務應用程式 SMB 選項來取得銀級或金級小型和中型雲端解決方案專長認證。 如需詳細資訊，請參閱 [針對中小型雲端解決方案專長認證使用合作夥伴貢獻](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)指標。 您也可以 [閱讀更多](https://partner.microsoft.com/membership/competencies) 有關專長認證及其需求的資訊。
 
 本文包含下列各項的相關資訊：
 
@@ -37,22 +37,22 @@ ms.locfileid: "99530811"
 
 - [每個 PCI 指標的詳細定義](partner-contribution-indicators.md#detailed-pci-metrics-definitions-for-this-competency)
 
-- [如何存取和讀取](partner-contribution-indicators.md#how-to-access-partner-contribution-indicators) 合作夥伴中心中的 PCI 圖表
+- 如何在合作夥伴中心[存取和讀取](partner-contribution-indicators.md#how-to-access-partner-contribution-indicators)PCI 圖表
 
 ## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>此專長認證的合作夥伴貢獻指標總覽
 
-合作夥伴貢獻指標可提供合作夥伴對駕駛成功客戶成果的影響，進而在合作夥伴並達到或保留銀級或金級雲端 Business Applications 專長認證時，獲得更大的差異。
+合作夥伴貢獻指標可提供合作夥伴對駕駛成功客戶成果的影響，進而在合作夥伴並達到或保留銀級或金級雲端商務應用程式專長認證時，獲得更大的差異。
 
 使用 PCI，合作夥伴可獲得客戶成功的重要量值的點數，例如成功的部署和增加的使用量。 他們會在繼續投資及擴展其技術功能時獲得獎勵。
 
-例如，當合作夥伴達到重要指標的特定層級影響時，合作夥伴就能取得 (或保持) 銀級或金級雲端 Business Applications 專長認證。
+例如，當合作夥伴達到重要指標的特定層級影響時，合作夥伴可以取得 (或保持) 銀級或金級雲端商務應用程式專長認證。
 
 > [!NOTE]
 > 若要深入瞭解取得專長認證的優點，請參閱 [Microsoft 合作夥伴](https://partner.microsoft.com/membership/competencies)專長認證。
 
 ## <a name="pci-scoring-based-on-seven-key-indicators"></a>以七個關鍵指標為基礎的 PCI 評分
 
-PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的能力，以及其銷售績效。 為了協助合作夥伴取得銀級或金級雲端 Business Applications 專長認證，PCI 會測量您公司在七個關鍵指標上的前一年效能：
+PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的能力，以及其銷售績效。 為了協助合作夥伴取得銀級或金級雲端商務應用程式專長認證，PCI 會測量您公司在七個關鍵指標上的前一年效能：
 
 *效能指標：*
 
@@ -90,7 +90,7 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 
 ### <a name="maximum-pci-competency-scores-you-can-achieve-for-each-indicator"></a>您可以為每個指標達成的最高 PCI 專長認證分數
 
-每個指標都會加上加總的分數。 以下是雲端 Business Applications 專長認證的每個指標的最大分數：
+每個指標都會加上加總的分數。 以下是每個適用于雲端商務應用程式專長認證之指標的最大分數：
 
 |針對此指標 | 這項專長認證的最大分數為  |
 |:------------|:--------------:|
@@ -107,7 +107,7 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>此專長認證的每個 PCI 度量閾值
 
-每個 PCI 計量都有 Microsoft 設定的閾值，決定您公司可以獲得的最高分。 這些閾值與用來取得雲端 Business Applications 專長認證的客戶參與和財務和營運途徑不同。 針對在開發的市場中操作的合作夥伴，以及專為開發市場而運作的合作夥伴，其閾值也會有所不同。 **開發** 或 **開發** 國家/地區的市場分類是以 [Microsoft 合作夥伴網路定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)為基礎。
+每個 PCI 計量都有 Microsoft 設定的閾值，決定您公司可以獲得的最高分。 這些閾值與用來達成雲端商務應用程式專長認證的客戶參與和財務和操作途徑不同。 針對在開發的市場中操作的合作夥伴，以及專為開發市場而運作的合作夥伴，其閾值也會有所不同。 針對國家/地區 **開發** 或 **開發** 的市場分類是以 [Microsoft 合作夥伴網路定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)為基礎。
 
 系統會記錄每個計量的點，以針對客戶參與和財務和營運產生不同的 PCI 分數。 此分數將會每月更新。
 
@@ -151,11 +151,11 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 - 每月作用中使用者成長
 
 如果您有下列其中一項合作夥伴對客戶的關聯，您只能為指定的客戶接收這些 PCI 計量的點數：
-- 您是屬於該客戶租使用者之付費訂用帳戶的雲端解決方案提供者 (CSP) 
+- 針對屬於該客戶租使用者的付費訂用帳戶，您是雲端解決方案提供者 (CSP) 
 - 針對屬於該客戶租使用者的付費訂用帳戶，您是申請記錄的合作夥伴 (CPOR) 
 - 針對屬於該客戶租使用者的付費訂用帳戶，您是記錄的數位合作夥伴 (DPOR) 
 
-如果夥伴在訂用帳戶層級透過 Dynamics 365 [Online Services Advisor](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) (OSA) 獎勵或 Dynamics 365 [線上服務使用](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU) 獎勵，則會變成 CPOR。
+如果合作夥伴在訂用帳戶層級透過 Dynamics 365 Online Services Advisor 與客戶建立關聯， (OSA) 獎勵或 Dynamics 365 Online 服務使用量 (OSU) 獎勵。 若要深入瞭解，請參閱 [瞭解 CPOR 關聯](incentives-customer-associations-intro.md)。
 
 如果合作夥伴已在產品內與客戶在訂用帳戶層級建立關聯性，就會成為 DPOR。
 
@@ -178,7 +178,7 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
 
 ### <a name="definitions-for-pci-metric-1---net-new-revenue"></a>PCI 度量 #1 的定義-新收入
 
-淨新收入是 [效能指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指標的點是針對雲端 Business Applications 專長認證計算，如下所示：
+淨新收入是 [效能指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 這是針對雲端商務應用程式專長認證計算的指標，如下所示：
 
 - 淨新收入會定義為所有銷售通路的淨新計費收益，以符合資格的 Dynamics 365 產品。
 - 淨新收入會加總12個月期，且最多可以有10個月的收益。
@@ -187,12 +187,12 @@ PCI 提供了一種複雜的合作夥伴技術功能、推動客戶成功率的�
   - Customer Engagement-符合資格的產品包括：銷售、客戶服務、現場服務、專案服務自動化、行銷、Microsoft 關聯性銷售、方案1、人才和企業小組成員。
   - 財務和營運符合資格的產品包括：整合作業、財務、供應鏈管理、零售、商務、方案2、混合現實、配音員和企業團隊成員。
 
-- 銷售通路包括 Enterprise 合約 (EA) 、雲端解決方案提供者 (CSP) 和 Web Direct。
-- 針對 Enterprise 合約僅限收入：此收益包含合約第一年的收入。 不包含第二和第三年的週期性收入。
+- 銷售通路包含 Enterprise 合約 (EA) 、雲端解決方案提供者 (CSP) 和 Web Direct。
+- 僅限 Enterprise 合約的收入：此收益包含合約第一年的收入。 不包含第二和第三年的週期性收入。
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>PCI 度量 #2 的定義-Net 客戶新增
 
-Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指標的點是針對雲端 Business Applications 專長認證計算，如下所示：
+Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 這是針對雲端商務應用程式專長認證計算的指標，如下所示：
 
 - 淨客戶新增會加總12個月期，最大可能的收益為10點。 
 
@@ -214,7 +214,7 @@ Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-sco
   > [!NOTE]
   > 如需開發和開發市場的詳細資訊，請參閱這些 [Microsoft 合作夥伴網路定義](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)。
 
-- 銷售通路包括 Enterprise 合約 (EA) 、雲端解決方案提供者 (CSP) 和 Web Direct。
+- 銷售通路包含 Enterprise 合約 (EA) 、雲端解決方案提供者 (CSP) 和 Web Direct。
 
 - 針對與 Microsoft 直接合作的多個合作夥伴/相同客戶或客戶：有不同的計算 **方式，可** 在多個合作夥伴透過不同的訂用帳戶與相同的客戶相關聯的情況下，或客戶可能已直接與 microsoft 合作的情況下，為 **客戶新增** 不同的計算。 這些計算如下所示。
 
@@ -234,7 +234,7 @@ Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-sco
 
 ### <a name="definitions-for-pci-metric-3---functional-consultants"></a>PCI 度量 #3 的定義-功能顧問
 
-功能顧問是一項 [功能指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指標的點是針對雲端 Business Applications 專長認證計算，如下所示：
+功能顧問是一項 [功能指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 這是針對雲端商務應用程式專長認證計算的指標，如下所示：
 
 - 功能顧問指標點是以目前月份的快照集為基礎，最大可能的收益為15點。
 
@@ -258,7 +258,7 @@ Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-sco
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>PCI 度量 #4 的定義-功能顧問成長
 
-功能顧問成長是 [功能指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指標的點是針對雲端 Business Applications 專長認證計算，如下所示：
+功能顧問成長是 [功能指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 這是針對雲端商務應用程式專長認證計算的指標，如下所示：
 
 夥伴擁有兩個選項之一，可讓您達到此計量 (15 或0點) 可用的全或無點。 不會授與任何部分點。
 
@@ -268,7 +268,7 @@ Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-sco
 
 - 相較于2020年10月1日的基準，功能顧問成長指標點是以當月快照集為基礎。 合作夥伴可以使用此指標達到0或15點。
 
-- 接著會在下一個雲端 Business Applications 專長認證續約日期重設基準快照。
+- 接著會在下一次的雲端商務應用程式專長認證續約日期重設基準快照。
 
 - 若要符合點數的資格，您必須至少有 **15** 個功能顧問與開發的市場夥伴相關聯，以及 **5** 個，以在建立基準快照時開發市場合作夥伴。
 
@@ -282,13 +282,13 @@ Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-sco
 
 **第二個選項可取得點數：**
 
-- 開發的市場夥伴可以針對其第一個以 PCI 為基礎的雲端 Business Applications 專長認證，及時認證50或更多的功能性顧問。  (開發市場夥伴可以針對其第一個以 PCI 為基礎的雲端 Business Applications 專長認證年度，及時認證25個或更多的功能顧問。 ) 
+- 開發的市場夥伴可以針對其第一個以 PCI 為基礎的雲端商務應用程式專長認證年度，及時認證50或更多的功能性顧問。  (開發市場夥伴可以針對其第一個以 PCI 為基礎的雲端商務應用程式專長認證周年，預先認證25個或更多的功能顧問。 ) 
 
-- 如果達到此閾值，您將會在該日期起24個月內，收到完整15點的功能顧問成長。 這可有效地表示您會獲得兩個雲端 Business Applications 專長認證的功能顧問成長的最大點數。
+- 如果達到此閾值，您將會在該日期起24個月內，收到完整15點的功能顧問成長。 這可有效地表示您將取得兩個雲端商務應用程式專長認證周年的功能顧問成長的最大點數。
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>PCI 度量 #5 的定義-開發人員
 
-開發人員是一個 [功能指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指標的點是針對雲端 Business Applications 專長認證計算，如下所示：
+開發人員是一個 [功能指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 這是針對雲端商務應用程式專長認證計算的指標，如下所示：
 
 - 開發人員會定義為持有目前作用中開發人員相關認證的個人數目。
 
@@ -312,7 +312,7 @@ Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-sco
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI 度量 #6 的定義-新的大型部署
 
-新的大型部署是 [客戶成功指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指標的點是針對雲端 Business Applications 專長認證計算，如下所示：
+新的大型部署是 [客戶成功指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 這是針對雲端商務應用程式專長認證計算的指標，如下所示：
 
 - 新的大型部署會加總12個月期間，最多可有20個點。
 
@@ -340,7 +340,7 @@ Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-sco
 
 ### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>PCI 度量的定義 #7-每月作用中使用者成長
 
-每月活躍使用者成長是 [客戶成功指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 此指標的點是針對雲端 Business Applications 專長認證計算，如下所示：
+每月活躍使用者成長是 [客戶成功指標](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)。 這是針對雲端商務應用程式專長認證計算的指標，如下所示：
 
 - 每月作用中使用者的成長定義為過去12個月內整個客戶群的每月活躍使用者成長。 
 
@@ -364,7 +364,7 @@ Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-sco
 
 ## <a name="how-to-access-partner-contribution-indicators"></a>如何存取夥伴投稿指標
 
-本節說明如何從合作夥伴中心儀表板存取夥伴貢獻指標，以及如何讀取相關聯的圖表。
+本節說明如何從合作夥伴中心儀表板存取合作夥伴貢獻指標，以及如何讀取相關聯的圖表。
 
 若要查看您的夥伴投稿指標圖表和進度，請遵循下列步驟：
 
@@ -377,10 +377,10 @@ Net customer 新增是 [效能指標](partner-contribution-indicators.md#pci-sco
    :::image type="content" source="images/pci/howto.png" alt-text="如何讀圖表":::
 
    > [!NOTE]
-   > 如果您看不到這些選項，請嘗試從功能表選取 [ **MPN** ]，然後選取 [ **夥伴投稿** 指標]。 如果您仍然找不到這些選項，合作夥伴中心中可能沒有指派適當的使用者角色。 請洽詢您的合作夥伴中心全域管理員或 MPN 合作夥伴系統管理員以取得協助。
+   > 如果您看不到這些選項，請嘗試從功能表選取 [ **MPN** ]，然後選取 [ **夥伴投稿** 指標]。 如果您仍然找不到這些選項，您可能不會在合作夥伴中心內指派適當的使用者角色。 請洽詢您的合作夥伴中心全域管理員或 MPN 合作夥伴系統管理員以取得協助。
 
 如需有關使用此區域的詳細資訊，請參閱本文結尾處的資源和影片收集。
 
 ## <a name="next-steps"></a>下一步
 
-觀看更多有關取得金級或銀級雲端 Business Applications 專長認證的 PCI [訓練影片和資訊資源](https://partner.microsoft.com/asset/collection/pci-learn#/) 。
+觀看更多有關取得金級或銀級雲端商務應用程式專長認證的 PCI [訓練影片和資訊資源](https://partner.microsoft.com/asset/collection/pci-learn#/) 。

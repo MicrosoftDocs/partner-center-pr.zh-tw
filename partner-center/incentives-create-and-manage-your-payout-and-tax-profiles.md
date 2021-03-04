@@ -1,21 +1,21 @@
 ---
 title: 合作夥伴中心的支出和稅金設定檔
 ms.topic: how-to
-ms.date: 11/12/2020
+ms.date: 02/24/2021
 description: 建立及管理您的付款和稅務設定檔，以便支付獎勵工作的費用。 包括建立、管理及使用不同的設定檔。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624233"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756600"
 ---
-# <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>在合作夥伴中心中建立及管理獎勵支出和稅務設定檔
+# <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>在合作夥伴中心建立和管理獎勵支出和稅務設定檔
 
 
 **適當的角色：**
@@ -34,7 +34,7 @@ ms.locfileid: "99624233"
 
 您必須是獎勵系統管理員，才能輸入報酬金的銀行和稅務資訊。 如果您是 MPN/帳戶系統管理員，您可以將自己和/或同事指派為獎勵系統管理員。
 
-如果您需要要求獎勵系統管理員許可權，請洽詢您的 MPN 系統管理員或全域管理員。您可以登入 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)，找出貴公司中的誰擁有這些角色。 從右上方的 **設定** 圖示中，選取 [ **使用者管理** ]，然後篩選全域管理員。
+如果您需要要求獎勵系統管理員許可權，請洽詢您的 MPN 系統管理員或全域管理員。您可以登入「 [合作夥伴中心」儀表板](https://partner.microsoft.com/dashboard/)，找出貴公司中有哪些人擁有這些角色。 從右上方的 **設定** 圖示中，選取 [ **使用者管理** ]，然後篩選全域管理員。
 
 獎勵使用者可以查看獎勵收益和付款詳細資料和報表，但無法編輯銀行和稅務詳細資料。
 
@@ -48,17 +48,17 @@ ms.locfileid: "99624233"
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>在合作夥伴中心建立及管理支出與稅務設定檔
 
-下列各節將逐步引導您在合作夥伴中心中建立和管理付款和稅務設定檔的流程。
+下列各節將逐步引導您完成在合作夥伴中心建立和管理付款和稅務設定檔的程式。
 
 >[!IMPORTANT]
->您必須是獎勵系統管理員，才能在合作夥伴中心中建立或管理付款設定檔。 獎勵角色必須指派給每個獎勵計畫下的每個 MPN 位置。 如需有關如何在合作夥伴中心中新增「獎勵管理員」的詳細資訊，請參閱 [建立使用者帳戶](create-user-accounts-and-set-permissions.md)。
+>您必須是獎勵系統管理員，才能在合作夥伴中心建立或管理付款設定檔。 獎勵角色必須指派給每個獎勵計畫下的每個 MPN 位置。 如需有關如何在合作夥伴中心新增獎勵管理員的詳細資訊，請參閱 [建立使用者帳戶](create-user-accounts-and-set-permissions.md)。
 
-## <a name="access-the-payout-and-tax-section-in-partner-center"></a>存取合作夥伴中心中的付款和稅務區段
+## <a name="access-the-payout-and-tax-section-in-partner-center"></a>存取合作夥伴中心的付款和稅務區段
 
-1. 使用您的 Azure Active Directory (Azure AD) 帳戶 (公司帳戶) ，或已指派適當的電子郵件地址，登入 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/) 。
+1. 使用您的 Azure Active Directory (Azure AD) 帳戶 (公司帳戶) 或已指派的適當電子郵件地址，登入 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/) 。
 
    - 您可以在一個 Azure AD 帳戶內註冊多個網域。 請洽詢您的全域系統管理員，以判斷哪些網域相關聯。
-   - 如果您只能使用網域登入 @onmicrosoft.com ，請洽詢您的帳戶管理員，將其他網域新增至 Azure AD 帳戶。
+   - 如果您只能使用網域登入 @onmicrosoft.com ，請洽詢您的帳戶管理員，將其他網域新增至 AZURE AD 帳戶。
    - 如果系統提示您選取 [ **公司或學校帳戶** ] 或 [ **個人帳戶**]，請選取 [ **公司或學校帳戶**]。
 
 2. 選取齒輪圖示以開啟 [ **設定** ] 功能表，然後選取 [ **帳戶設定**]。
@@ -67,7 +67,7 @@ ms.locfileid: "99624233"
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>將付款和稅務設定檔指派給個別的程式
 
-1. 登入 [合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)，然後選取齒輪圖示以開啟 [ **設定** ] 功能表。 
+1. 登入 [ [合作夥伴中心] 儀表板](https://partner.microsoft.com/dashboard/)，然後選取齒輪圖示以開啟 [ **設定** ] 功能表。 
 
 2. 選取 [ **帳戶設定**]，展開 [支付 **和稅務] 區段**，然後選取 [支付 **和稅務設定檔指派**]。 
    
@@ -86,10 +86,22 @@ ms.locfileid: "99624233"
 
     >[!NOTE]
     >付款方法的可用性取決於獎勵計畫的規則。
+
+    - 如果您的位置 MPN 識別碼是由特定獎勵方案的當地 Microsoft 子公司支付，並允許 LRD (有限的風險散發者) 點數備忘錄作為付款條件，則您的付款設定檔將會預先填入 LRD 信用額度付款方法。 在個別「獎勵計畫」和「位置 MPN 識別碼」的 [LRD 信用卡附注付款方法] 資料列上，您會在 [付款設定檔] 區段中看到 [已 **確認** ] 或 [ **需要驗證** ] 狀態。
+    
+       選取 **所需的驗證** ，以確認和確認與 location MPN 和付款方法相關聯的 CSP 租使用者識別碼詳細資料，以接收信用額度付款。 在 [ **信用評論詳細資料** ] 對話方塊中，檢查並確認提供的 CSP 租使用者識別碼和詳細資料正確無誤。 如果您有一個以上的租使用者識別碼，請仔細選取您要在其上收到付款的 CSP 租使用者識別碼。 接下來，選取 [ **確認** ] 以確認您的公司詳細資料是否正確，以及是否應該對您選取的 CSP 租使用者識別碼進行獎勵付款。
+ 
+      如果狀態顯示為 [已 **確認**]，表示 CSP 租使用者識別碼的指派已完成，且不需要採取進一步的動作。 您仍然可以選取 [已確認] 以查看指派的詳細資料。
+   
+      在需要合作夥伴明確要求套用免稅的國家/地區，將會有一個選項可在 [獎勵方案和位置 MPN] 的 [稅務設定檔] 區段中，于稅務設定檔旁邊套用免稅。 核取此方塊會將免稅權益套用至您的獎勵點數注意事項。 
+   
+      目前，此付款條件僅適用于澳大利亞、紐西蘭和加拿大合作夥伴，適用于 Microsoft Commerce 獎勵方案。 如果您是這三個國家/地區的直接帳單合作夥伴或間接提供者，而這三個國家/地區註冊了 MCI 方案，而且您沒有看到 LRD 的點數提示作為可用的付款條件，請確認您的租使用者識別碼與相關的夥伴 MPN 位置帳戶相關聯。 如需此操作的詳細資訊，請參閱 [如何更新您的組織設定檔](update-your-partner-profile.md)。
+
     
 5. 選取 **貨幣**。
 
 6. 當您完成所有的付款欄位時，請選取 [ **提交**]。
+
 
 ## <a name="create-your-bank-profile"></a>建立您的銀行設定檔
 
@@ -100,7 +112,7 @@ ms.locfileid: "99624233"
 
 1. 在 [ **詳細資料** ] 頁面上，完成下欄欄位： **設定檔名稱：** 輸入唯一名稱來識別此付款設定檔。
     **銀行帳戶位置：** 公司銀行所在的國家/地區。
-    **付款方法：** 合作夥伴中心的慣用付款條件是「電子銀行傳輸」。
+    **付款方法：** 合作夥伴中心的慣用付款方法是電子銀行轉帳。
 
 2. 選取 [下一步] 。
 

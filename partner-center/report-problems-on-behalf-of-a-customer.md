@@ -1,7 +1,7 @@
 ---
 title: 代表客戶報告問題
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 02/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解何時將客戶服務問題呈報給 Microsoft，以及如何針對不同類型的 Microsoft 服務提出支援票證。
@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97153140"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756439"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>代表客戶回報服務問題-包括何時及如何進行
 
@@ -68,7 +68,7 @@ ms.locfileid: "97153140"
  
 在上述任一情況下，您都可以使用下列程序來建立支援要求。 
 
-1. 從合作夥伴中心中的 [帳戶] 頁面複製客戶的功能變數名稱。
+1. 從合作夥伴中心的 [帳戶] 頁面複製客戶的功能變數名稱。
 
 2. 移至 https://portal.azure.com/[customerdomainname]。 
 
@@ -108,9 +108,9 @@ Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要�
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>支援權益包含哪些內容？
 
-服務要求應該透過合作夥伴中心進行歸檔。 適用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企業行動套件。 身為參與雲端解決方案提供者計畫的合作夥伴，您可以期待您的重大問題獲得優先回應。
+應透過合作夥伴中心來提出服務要求。 適用于 Azure、Microsoft Office 365、Microsoft Dynamics CRM Online 和企業行動套件。 身為參與雲端解決方案提供者計畫的合作夥伴，您可以期待您的重大問題獲得優先回應。
 
-對於您自己的合作夥伴租使用者的支援，不包含在 CSP 支援權益中。 不過，Office 365、Microsoft Dynamics CRM Online 和企業行動套件不會針對合作夥伴或客戶收取個別的支援訂用帳戶費用。 Azure 會收取費用，但如果您有權簽署雲端支援或其他 Microsoft 合作夥伴網路 (MPN) 權益，您可能會使用這些費用來支付費用。
+對於您自己的合作夥伴租使用者的支援，不包含在 CSP 支援權益中。 不過，Office 365、Microsoft Dynamics CRM Online 和企業行動套件不會針對合作夥伴或客戶收取個別的支援訂用帳戶費用。 Azure 會收取費用，但如果您有權簽署雲端支援或其他 Microsoft 合作夥伴網路， (MPN) 權益，您可能會使用這些權益來支付費用。
 
 這項權益適用於參與雲端解決方案提供者計畫的所有合作夥伴 (無論是付費或在試用期內)。 此套件中也包含了免費的帳單和訂閱管理支援。
 
@@ -133,9 +133,9 @@ Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要�
 
 ### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>如果我略過合作夥伴中心登入 Azure 入口網站，會發生什麼事？
 
-如果您直接登入 Microsoft Azure 入口網站，就會在您自己的內容中（而不是客戶的內容）中查看中心。 這就是為什麼您應該只在為自己的訂用帳戶建立服務要求時，才直接登入 Microsoft Azure 入口網站。
+如果您直接登入 Microsoft Azure 入口網站，您會在自己的內容中（而不是客戶的內容）中查看中心。 這就是為什麼您應該只在為自己的訂用帳戶建立服務要求時，直接登入 Microsoft Azure 入口網站。
 
-您的 CSP 方案支援權利無法在您自己的合作夥伴訂用帳戶上提供支援。 因此，當您建立的服務要求與您自己的夥伴訂用帳戶相關時，您必須提供有效的支援方案權利。 範例包括 MPN 合約識別碼、頂級或 Azure 支援計畫。 如需詳細資訊，請參閱 [Azure 支援常見問題](https://go.microsoft.com/fwlink/?LinkId=717532)。
+您的 CSP 方案支援權利無法在您自己的合作夥伴訂用帳戶上提供支援。 因此，當您建立的服務要求與您自己的夥伴訂用帳戶相關時，您必須提供有效的支援方案權利。 範例包括 MPN 合約識別碼、頂級或 Azure 支援方案。 如需詳細資訊，請參閱 [Azure 支援常見問題](https://go.microsoft.com/fwlink/?LinkId=717532)。
 
 ### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>當我登入 Office 365 系統管理中心入口網站並略過合作夥伴中心時，會發生什麼事？
 
@@ -147,9 +147,7 @@ Microsoft 不會供應商用 marketplace 產品的產品支援。 您將需要�
  
 連絡 [Dynamics 支援](/dynamics365/customer-engagement/admin/contact-technical-support)
 
-閱讀 [Microsoft Dynamics 支援](https://support.microsoft.com/help/4052881/faq-microsoft-dynamics-365-for-unified-operations-iur)
-
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [為客戶提供支援](customer-support.md)
 - [檢查服務健康狀況](check-service-health.md)

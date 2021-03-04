@@ -1,20 +1,20 @@
 ---
 title: 管理客戶帳戶的使用者
 ms.topic: how-to
-ms.date: 05/13/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 在合作夥伴中心中管理客戶的使用者-建立使用者帳戶、新增或移除使用者授權、重設密碼，以及刪除或還原使用者帳戶。
+description: 在合作夥伴中心管理客戶的使用者-建立使用者帳戶、新增或移除使用者授權、重設密碼，以及刪除或還原使用者帳戶。
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570734"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756074"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>管理客戶帳戶的使用者和使用者授權 
 
@@ -28,6 +28,9 @@ ms.locfileid: "96570734"
 您可以建立和刪除客戶帳戶中的新使用者。 您也可以還原一或多個先前在刪除的30天內刪除的使用者帳戶。 使用者先前的訂閱指派同樣會還原 (假設他們之前的配置可用)
 
 當您為客戶購買新的訂用帳戶時，客戶應該會提供一份清單，列出所有需要帳戶的使用者、其使用者權限，以及每位使用者所需的服務。  
+
+>[!NOTE]
+>[**客戶**] 索引標籤的 [**使用者和授權**] 區段會顯示在特定客戶的租使用者中建立的所有使用者，包括具有從其他 CSP 合作夥伴購買的授權，或從另一個購買頻道購買的授權。
 
 您可以使用 [與 Excel 相容的 .csv 試算表檔案](adding-multiple-users-to-a-customer-account.md)來匯入名稱，一次[指派訂閱給多個使用者](bulk-license-provisioning-for-multiple-users.md)。
 
@@ -66,7 +69,7 @@ ms.locfileid: "96570734"
 5. 選取 [ **管理授權**]。 進行您的變更，然後 **儲存**。
 
 > [!NOTE]
-> 針對 [Azure Marketplace 產品](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)，授權指派和啟用是透過發佈產品的獨立軟體廠商 (ISV) 來管理。
+> 針對 [Azure Marketplace 產品](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)，授權指派和啟用是透過發行產品的獨立軟體廠商 (ISV) 來管理。
 
 <a href="" id="resetpassword"></a>
 
@@ -108,7 +111,7 @@ ms.locfileid: "96570734"
 
     所有選取的使用者帳戶都會重新出現在 [ **使用者和授權** ] 頁面中。
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [指派或撤銷多個使用者的授權](bulk-license-provisioning-for-multiple-users.md)
 

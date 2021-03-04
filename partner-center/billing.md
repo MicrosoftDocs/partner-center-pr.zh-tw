@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
-ms.translationtype: HT
+ms.openlocfilehash: 27bdb4aab3c8092b1ffc458e4da29250e2dbf23e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570632"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756730"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>概觀：合作夥伴中心的主要計費和稅務文章
 
@@ -25,7 +25,7 @@ ms.locfileid: "96570632"
 - 全域系統管理員
 - 銷售代理人
 
-本文提供合作夥伴中心計費和稅賦主題相關資訊的連結，包括計費資源、發票、CSP 計費和稅賦。
+本文提供合作夥伴中心計費和稅務主題的相關資訊連結，包括帳單資源、發票、CSP 計費和稅金。
 
 
 | 主題 | 說明 |

@@ -1,5 +1,5 @@
 ---
-title: 支出明細表
+title: 支付明細表
 description: 瞭解付款聲明與摘要，以及如何從 Microsoft 合作夥伴中心查看和匯出付款資料
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
@@ -7,21 +7,21 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492631"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756164"
 ---
-# <a name="payout-statements"></a>支出明細表
+# <a name="payout-statements"></a>支付明細表
 
 **適當的角色：**
 
 - 帳戶管理員
 - 全域系統管理員
 
-付款 **聲明** 提供透過商業市場銷售的優惠支出總覽。 它會顯示您的收益的交易歷程記錄、預估您下一個付款，並顯示付款趨勢。 您也可以下載交易歷程記錄和付款語句。 本文說明如何存取您的付款帳單，以及您在合作夥伴中心中可存取的不同付款頁面和下載。
+付款 **聲明** 提供透過商業市場銷售的優惠支出總覽。 它會顯示您的收益的交易歷程記錄、預估您下一個付款，並顯示付款趨勢。 您也可以下載交易歷程記錄和付款語句。 本文說明如何存取您的付款帳單，以及合作夥伴中心內可供您存取的不同付款頁面和下載。
 
 >[!NOTE]
 >您只會看到您所關聯之 MPN 識別碼和程式的資料。 如果您想要查看其他資料，請與您的帳戶管理員合作以取得許可權。 
@@ -99,11 +99,11 @@ ms.locfileid: "97492631"
 
 下表顯示預估的付款月份範例。
 
-| Month | 數量 |
+| Month | 金額 |
 | ------ | :-----------: |
 |  Sep-2020 |  $7273.99   |
 |  十月-2020 | $8692.30  |
-|  11月-2020 | $107.89  |
+|  2020 年 11 月 | $107.89  |
 
 預估數量可能會因各種原因而與實際數量不同：
 
@@ -138,7 +138,7 @@ ms.locfileid: "97492631"
 | claimId | 宣告的唯一識別碼 | 獎勵 - 僅限部分計劃 |
 | customerCountry | 客戶國家/地區 | marketplaces |
 | customerEmail |  |  |
-| customerName | 一律為空白 | 獎勵方案只 (例外狀況： OEM) 和市場 |
+| customerName | 可能是空白 | 獎勵方案只 (例外狀況： OEM) 和市場。 針對 CSP 交易，marketplace 會顯示 CSP 的名稱 |
 | customerTenantId |  |  |
 | distributorId | 散發者識別碼 | 獎勵 - 僅限部分計劃 |
 | distributorName | 散發者名稱 | 獎勵 - 僅限部分計劃 |
@@ -259,12 +259,12 @@ ms.locfileid: "97492631"
 
 | 收益狀態 | 原因 | 需要合作夥伴動作嗎？ |
 | --- | --- | --- |
-| 尚未處理 | 收益符合付款資格。 它會維持在此狀態中，如獎勵計畫的《節目表》中所定義。 | 否 |
+| 尚未處理 | 收益符合付款資格。 它會維持在此狀態中，如獎勵計畫的計劃指南中所定義的冷卻週期。 | 否 |
 | 即將付款 | 付款訂單會在付款處理之前產生等待內部審核。 | 否 |
 | 稅務發票正在暫止 | 您的稅務發票未完成或無效。 | 您需要更新稅務發票才能接收付款 |
 | 檢閱期間遭到拒絕 | 評論期間的付款已遭到拒絕。 | 請連絡 Microsoft 支援服務以取得詳細資料 |
 | Failed | 付款因 Microsoft 系統錯誤而失敗。 | 如需詳細資訊，請洽詢 Microsoft 支援服務 |
-| 進行中 | 付款正在進行中。 | 否 |
+| 正在進行 | 付款正在進行中。 | 否 |
 | 付款不正確 | 付款 recouping 正在進行中。 | 否 |
 | 已傳送 | 付款已傳送至您的銀行。 | 否 |
 | 正在重新處理 | 付款發生 Microsoft 系統錯誤，正在重新處理。 | 否 |
@@ -357,7 +357,7 @@ ms.locfileid: "97492631"
 | Charges | 顯示彙總在交易金額資料行中所有費用詳細資料的明細 (僅會針對 Azure Marketplace 包含，不會包含在 **已保留** CSV 檔案中)。 |
 |||
 
-## <a name="next-steps"></a>後續步驟
+## <a name="next-steps"></a>下一步
 
 - [合作夥伴支付 API](https://apidocs.microsoft.com/services/partnerpayouts)
 - [支出原則詳細資料](payout-policy-details.md)

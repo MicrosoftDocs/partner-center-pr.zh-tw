@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541009"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756294"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -39,7 +39,7 @@ _____________
 
 ### <a name="details"></a>詳細資料
 
-在歐盟 (EU) /European 免費貿易協會 (EFTA) 和英國 (UK) ，雲端解決方案提供者計畫中的所有新商務供應專案都會使用合作夥伴計費位置，而不是客戶帳單位置。 因此，Microsoft 將依據合作夥伴所在位置的貨幣 (而非其客戶所在位置的貨幣) 對合作夥伴計費。 這些變更會分兩個階段完成：
+在歐盟 (EU) /European 免費貿易協會 (EFTA) 和英國 (UK) ，雲端解決方案提供者方案中的所有新商務供應專案都會使用合作夥伴計費位置，而不是客戶帳單位置。 因此，Microsoft 將依據合作夥伴所在位置的貨幣 (而非其客戶所在位置的貨幣) 對合作夥伴計費。 這些變更會分兩個階段完成：
 
 **階段 1：**
 
@@ -86,11 +86,11 @@ _____________
 - 2021 年 1 月 7 日：階段 1 和階段 2 中包含的其他案例
 - 2021年1月28日： 
     -    宣佈第1階段正式運作 
-    -    在 EU/EFTA 中未包含 UK 時進行闡述，其為 [Microsoft 歐洲地區和市場](https://docs.microsoft.com/partner-center/regional-authorization-overview) 的一部分，而且會受到影響
+    -    在 EU/EFTA 中未包含 UK 時進行闡述，其為 [Microsoft 歐洲地區和市場](../regional-authorization-overview.md) 的一部分，而且會受到影響
 
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> 雲端解決方案提供者 (CSP 的變更) 客戶上架需求
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> 雲端解決方案提供者的變更 (CSP) 客戶上線需求
 
 ### <a name="categories"></a>類別
 
@@ -166,24 +166,24 @@ ________________
  
 ### <a name="impacted-audience"></a>影響對象
 
-所有間接轉銷商 & 透過雲端解決方案提供者 (CSP) 計畫交易的間接提供者。
+所有間接轉銷商 & 透過雲端解決方案提供者 (CSP) 方案所交易的間接提供者。
 
 ### <a name="details"></a>詳細資料
 
-間接轉銷商的 Microsoft 合作夥伴合約 (MPA) 目前正在進行中。 為了進一步支援提供者和轉銷商，我們聽到了您的意見反應，現在已將如何接受 MPA 的一般查詢合併到新的常見問題 [頁面](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)。
+間接轉銷商的 Microsoft 合作夥伴合約 (MPA) 目前正在進行中。 為了進一步支援提供者和轉銷商，我們聽到了您的意見反應，現在已將如何接受 MPA 的一般查詢合併到新的常見問題 [頁面](../mpa-indirect-provider-faq.md)。
 
 ### <a name="next-steps"></a>下一步
 
-**間接轉銷商：** 如果您未接受 MPA，請參閱 [Mpa 常見問題](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) ，並遵循 [此處](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) 提供的逐步指引來接受 mpa。
+**間接轉銷商：** 如果您未接受 MPA，請參閱 [Mpa 常見問題](../mpa-indirect-provider-faq.md) ，並遵循 [此處](../microsoft-partner-agreement.md) 提供的逐步指引來接受 mpa。
 
-**間接提供者：** 與您的間接轉銷商聯繫，並使用 [MPA 常見問題](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) 和 [此處](https://docs.microsoft.com/partner-center/microsoft-partner-agreement)提供的逐步指引來支援這些轉銷商。
+**間接提供者：** 與您的間接轉銷商聯繫，並使用 [MPA 常見問題](../mpa-indirect-provider-faq.md) 和 [此處](../microsoft-partner-agreement.md)提供的逐步指引來支援這些轉銷商。
 
 ### <a name="questions"></a>有問題嗎？
 
-關於與此通知相關的任何問題[合作夥伴中心支援](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4)人員
+針對與此通知相關的任何問題，請洽詢 [合作夥伴中心支援](https://partner.microsoft.com/support/v2/?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4)
 
 ________________
-## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> 合作夥伴中心 Audit 記錄檔變更，以包含兩個新的作業類型
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="12"></a> 合作夥伴中心審核記錄變更，以包含兩個新的作業類型
 
 ### <a name="categories"></a>類別
 
@@ -207,8 +207,8 @@ ________________
 ### <a name="next-steps"></a>下一步
 
 - 利用新的作業類型來追蹤客戶核准的授權和客戶終止時的事件。  
-- [取得合作夥伴中心活動的記錄-合作夥伴中心應用程式開發人員 |Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [審核資源-合作夥伴中心應用程式開發人員 |Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [取得合作夥伴中心活動的記錄-合作夥伴中心應用程式開發人員 |Microsoft 檔](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [審核資源-合作夥伴中心應用程式開發人員 |Microsoft 檔](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>有問題嗎？
 
@@ -232,27 +232,27 @@ ________________
 
 新的 Microsoft 商務體驗將為客戶建立一致且簡化的購買體驗，讓他們能夠以數位方式進行轉換，並在購買的方式和位置上提供更大的彈性。 合作夥伴在客戶的雲端旅程中扮演著重要的角色，不論客戶決定與 Microsoft 交易的通道 () 。 完整推出之後，更新的商務平臺和模型可讓合作夥伴參與大型企業客戶和中小型公司的銷售工作，並讓合作夥伴有機會擴大參與範圍，以促進客戶的成功。
 
-在雲端解決方案提供者程式中，Azure 的新商務體驗將擴充合作夥伴商機來建立和提供受控服務、進一步擴充其客戶群，以及協助客戶進行數位轉型。
+在雲端解決方案提供者計畫中，Azure 的新商務體驗將擴充合作夥伴商機來建立和提供受控服務、進一步擴充其客戶群，以及協助客戶進行數位轉型。
 
 新的商務經驗提供下列優點：
 
 - 使用 Azure 方案簡化 Azure 購買流程。
 - 跨通道建立更好的定價調整。 根據客戶和合作夥伴的意見反應，雲端解決方案提供者計畫中新的 Azure 體驗將會使用單一價格清單（以美元為單位），為客戶和合作夥伴提供全球規模的一致定價。
-- 提供可納入適當治理、客戶經驗和原則的工具，將這些工具移至雲端解決方案提供者計畫中的新 Azure 體驗，以降低客戶的取得障礙。
+- 提供可納入適當治理、客戶經驗和原則的工具，將其移至雲端解決方案提供者計畫中新的 Azure 體驗，以降低客戶的取得障礙。
 - 可讓合作夥伴利用 Azure Lighthouse 和 Azure 成本管理等功能，更有效率地管理其客戶。 
-- 展開 Azure Marketplace 的存取。
+- 擴充 Azure Marketplace 的存取權。
 
-我們已在 Azure 的新商務體驗上擴充了轉換工具，讓您能夠以符合客戶發展業務需求的方式來增強管理 Azure 的彈性，並協助您將客戶帶到雲端解決方案提供者計畫中的新 Azure 供應專案。 在雲端解決方案提供者計畫中，查看支援客戶 Azure 訂用帳戶轉換所存在的工具總覽。
+我們以 Azure 的新商務體驗為依據，讓您能夠以符合客戶發展商務需求的方式來增強管理 Azure 的彈性，並協助您在雲端解決方案提供者計畫中協助您將客戶帶入新的 Azure 供應專案。 在雲端解決方案提供者計畫中，查看支援客戶 Azure 訂用帳戶轉換所存在的工具總覽。
 
-#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>雲端解決方案提供者方案中的新 Azure 方案提供 (Azure 方案) 
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>雲端解決方案提供者方案中的新 Azure 解決方案提供者方案提供 (Azure 方案) 
 
-藉由新的商務體驗，合作夥伴可透過 Azure 方案，以隨用隨付費率存取 Azure 服務，以隨用隨付費率存取 Microsoft 客戶合約下的客戶。 此方案可讓您在 Azure 方案內建立多個 Azure 訂用帳戶，以簡化購買體驗。 在合作夥伴中心中，您不再需要為每個 Azure 訂用帳戶提交個別的訂單。
+有了新的商務體驗，合作夥伴可透過 Azure 方案，以隨用隨付費率取得 Microsoft 客戶合約下的 Azure 服務存取權。 此方案可讓您在 Azure 方案內建立多個 Azure 訂用帳戶，以簡化購買體驗。 您不再需要在合作夥伴中心針對每個 Azure 訂用帳戶提交個別的訂單。
 
 #### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>雲端解決方案提供者計畫中先前 Azure 供應專案可用性的變更
 
-當我們在 (Azure 方案的雲端解決方案提供者計畫中宣佈新的 Azure 供應專案時，) 我們會告知合作夥伴，先前的 Azure 供應專案和平臺會繼續提供，以及新的 Azure 體驗，而且我們會在對前一個 Azure 供應專案進行任何變更之前，事先通知合作夥伴六個月的時間。
+當我們在雲端解決方案提供者計畫中宣佈新的 Azure 供應專案時 (Azure 方案) 我們通知合作夥伴，先前的 Azure 供應專案和平臺會繼續提供，以及新的 Azure 體驗，而且我們會在對前一個 Azure 供應專案進行任何變更之前，事先通知合作夥伴六個月的時間。
 
-雖然雲端解決方案提供者計畫中的新 Azure 供應專案 (Azure 方案) 為合作夥伴提供更佳的體驗，我們想要讓合作夥伴有時間將新的 Azure 功能納入其服務，並將其客戶轉換成新的體驗。
+雖然雲端解決方案提供者方案中的新 Azure 供應專案 (Azure 方案) 為合作夥伴提供更佳的體驗，我們想要讓合作夥伴有時間將新的 Azure 功能納入其服務，並將其客戶轉換成新的體驗。
 
 先前 Azure 供應專案的變更將會有三個階段。 今天，我們會在這三個階段共用詳細資訊。
 
@@ -260,9 +260,9 @@ ________________
 
 **第1階段–從2021年7月21日起**
 
-在第1階段中，所有新的 Azure 雲端方案提供者方案商務都將會在新的 Azure 方案供應專案上。 將適用下列指導方針：
+在第1階段中，所有新的 Azure 雲端解決方案提供者方案商務都將會在新的 Azure 方案供應專案中。 將適用下列指導方針：
 
-- 針對雲端解決方案提供者計畫中合作夥伴與客戶之間的所有現有轉銷商關係，如果客戶已購買先前的 Azure 供應專案，合作夥伴可能會繼續交易，而客戶可能會繼續向該合作夥伴購買先前的 Azure 供應專案。
+- 針對雲端解決方案提供者方案中的合作夥伴與客戶之間的所有現有轉銷商關係，如果客戶已購買先前的 Azure 供應專案，合作夥伴可能會繼續交易，而客戶可能會繼續向該合作夥伴購買先前的 Azure 供應專案。
 - 先前的 Azure 供應專案將不再提供給交易在 CSP 中的全新合作夥伴
 - 先前的 Azure 供應專案將不再適用于透過 CSP 合作夥伴購買的全新客戶
 - 針對所有新的轉銷商關係或新的客戶收購，合作夥伴只能 (Azure 方案來交易新的 Azure 供應專案) 
@@ -274,7 +274,7 @@ ________________
 
 **第3階段–日期 TBD**
 
-在第3階段中，先前 Azure 供應專案上的所有剩餘客戶將會遷移至 Azure 方案)  (的雲端解決方案提供者方案中的新 Azure 供應專案。 如同先前的階段，我們將在第3個月前向合作夥伴傳達第3階段開始日期。
+在第3階段中，先前 Azure 供應專案上的任何剩餘客戶都會遷移至雲端解決方案提供者方案中的新 Azure 供應專案， (Azure 方案) 。 如同先前的階段，我們將在第3個月前向合作夥伴傳達第3階段開始日期。
 
 #### <a name="partner-earned-credit-pec"></a>合作夥伴贏得的點數 (PEC) 
 
@@ -287,9 +287,9 @@ ________________
 #### <a name="partner-earned-credit-pec"></a>合作夥伴贏得的點數 (PEC) 
 
 - [瞭解合作夥伴所獲得的點數 (指南)  (microsoft.com) ](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [合作夥伴獲得的點數-總覽-合作夥伴中心 |Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [受管理服務的合作夥伴獲得的點數-合作夥伴中心 |Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [角色、合作夥伴取得點數合作夥伴中心的許可權 |Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [合作夥伴獲得的點數-總覽-合作夥伴中心 |Microsoft 檔](../partner-earned-credit.md?branch=main)
+- [合作夥伴針對受控服務所獲得的點數-合作夥伴中心 |Microsoft 檔](../partner-earned-credit-explanation.md?branch=main)
+- [角色，合作夥伴所獲得的點數-合作夥伴中心的許可權 |Microsoft 檔](../azure-roles-perms-pec.md)
 - [雲端上的 Azure 在 CSP 課程模組中取得的隨選訓練課程模組 (eventbuilder.com) ](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>新的商務體驗
@@ -316,12 +316,12 @@ ________________
 
 如同今天的[公告](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)，我們很高興地通知您，商業永久軟體授權現已正式推出，可供所有 CSP 合作夥伴銷售。 合作夥伴中心 CSP 永久軟體價目表已重新發佈，現在包含其他產品和地理位置。
 
-另請注意，從今天開始，合作夥伴中心的軟體和授權金鑰履行功能已淘汰，未來的夥伴應將客戶指向 Microsoft 365 的系統管理中心，以達到此目的。 如需進一步的詳細資訊和後續步驟，請參閱下文。
+另請注意，從今天開始，合作夥伴中心的軟體和授權金鑰履行功能已淘汰，未來的合作夥伴應將客戶指向 Microsoft 365 系統管理中心，以達到此目的。 如需進一步的詳細資訊和後續步驟，請參閱下文。
 
 ### <a name="next-steps"></a>後續步驟
 
 - 在合作夥伴中心 [定價與供應項目](https://partnercenter.microsoft.com/pcv/sales)頁面的 [軟體] 區段中下載 **CSP 永久軟體** 價目表。 您可以在[這裡](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)找到新增的產品和地理位置清單。
-- 請檢閱 [Microsoft 365 系統管理中心永久軟體和產品授權金鑰下載操作說明文章](https://go.microsoft.com/fwlink/p/?linkid=2152525)，而當客戶準備好下載其軟體和授權金鑰時，與其分享該文章。
+- 請檢閱 [Microsoft 365 系統管理中心永久軟體和產品授權金鑰下載操作說明文章](/microsoft-365/admin/setup/download-software-licenses-csp)，而當客戶準備好下載其軟體和授權金鑰時，與其分享該文章。
 - 檢閱[雲端解決方案提供者計畫中的永久軟體](https://partner.microsoft.com/resources/collection/software-in-csp#/)整備資料。 使用此[整備地圖](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)，快速找出適合您角色的資訊。
 
 ### <a name="questions"></a>有問題嗎？
@@ -350,7 +350,7 @@ Microsoft 將會實作 API 節流，讓呼叫合作夥伴中心 API 的合作夥
   
 **合作夥伴權益：**
 
-合作夥伴中心是設計用來處理大量的要求，但如果幾個夥伴提出大量的要求，則節流將有助於維持所有夥伴的最佳效能和可靠性。  
+合作夥伴中心的設計是為了處理大量的要求，但如果幾個夥伴提出大量的要求，節流將有助於維持所有夥伴的最佳效能和可靠性。  
 
 - 節流可以盡可能縮短停機時間。
 - 節流會減少大量要求的數量，協助確保所有合作夥伴的效能一致。
@@ -589,8 +589,8 @@ _____________
 
 受影響的貨幣： 
 
-- Microsoft 365 E3 價格的問題僅限於這些貨幣：日本日元 (JPY) 、英國英鎊 (GBP) 、歐洲等 (歐元) 、澳大利亞元 (AUD) 。 
-- Microsoft 365 商務版基本問題僅限美國美元 (美元) 。 
+- Microsoft 365 E3 價格問題僅限於這些貨幣：日本日元 (JPY) 、英屬英鎊 (GBP) 、歐洲等 (歐元) 、澳大利亞元 (AUD) 。 
+- Microsoft 365 商務基本問題僅限美國美元 (美元) 。 
 
 合作夥伴應參考目前可用的 1 月和 2 月預覽價目表，以取得正確的定價。 
 

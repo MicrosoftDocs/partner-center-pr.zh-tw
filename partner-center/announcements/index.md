@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/05/2021
-ms.openlocfilehash: 7974d6f02951db944a44634543cda5bba49df976
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.date: 02/25/2021
+ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100540976"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756156"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,20 +22,25 @@ ms.locfileid: "100540976"
 
 |**類別**|**2021年2月公告**|**公告**|
 |---------|:---------|:---------|
+|功能|[PUT 限定性 Api 已淘汰，可能會在5月淘汰](2021-february.md#14)|2月25日|
+|功能|[使用合作夥伴中心的大量作業功能，大規模共用共同銷售交易](2021-february.md#13)|2月25日|
+|功能|[使用新的交易遷移功能，從合作夥伴銷售 Connect (PSC) 遷移您的交易](2021-february.md#12)|2月25日|
+|功能|[利用合作夥伴主導的共同銷售交易提高彈性](2021-february.md#11)|2月25日|
+|功能|[雲端解決方案提供者的變更 (CSP) 客戶上架](2021-february.md#10)|2月25日|
 |功能|[Live： DocuSign 遷移至 Adobe Sign for Microsoft 合作夥伴合約下的合作夥伴 (MPAs) ](2021-february.md#9)|二月16|
 |拓展您的業務|[提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介](2021-february.md#8)|二月16|
 |功能|[介紹 Microsoft Viva 主題](2021-february.md#7)|2月12日|
-|供應項目/市場|[Microsoft 365 在2021年3月推出的 E3 價格變更](2021-february.md#6)|2月11日|
+|供應項目/市場|[適用于3月2021的 Microsoft 365 E3 價格變更](2021-february.md#6)|2月11日|
 |供應項目/市場|[針對挪威克朗更新以授權為基礎的預覽價位清單](2021-february.md#5)|2月10日|
 |功能|[高階評量（合規性管理員的附加元件）即將于2021年3月1日推出](2021-february.md#4)|2月5日|
 |功能|[回應 COVID-19-19： Microsoft 合作夥伴網路更新](2021-february.md#3)|2月4日|
-|功能|[合作夥伴中心中的新推薦模組更新](2021-february.md#2)|2月4日|
+|功能|[合作夥伴中心內的推薦模組新增更新](2021-february.md#2)|2月4日|
 |新式工作場所|[在2021年2月25日淘汰及淘汰教育客戶驗證程式的 PUT 限定 Api，並于2021年5月4日取得資格](2021-february.md#1)|2月4日|
 | **類別** | **2021 年 1 月公告** | **公告** |
 |新式工作場所|[第1階段上線： EU/EFTA & UK 變更新商務優惠的合作夥伴帳單貨幣](2021-january.md#15)|1月28日|
 |新式工作場所|[雲端解決方案提供者 (CSP) 客戶上架需求的變更](2021-january.md#14)|1月28日|
 |功能|[Microsoft 合作夥伴合約 (MPA) –間接轉銷商更新 & 新的常見問題](2021-january.md#13)|1月27日|
-|功能|[合作夥伴中心 Audit 記錄檔變更，以包含兩個新的作業類型](2021-january.md#12)|1月25日|
+|功能|[合作夥伴中心審核記錄變更，以包含兩個新的作業類型](2021-january.md#12)|1月25日|
 |功能|[Azure 中的 Azure 供應專案變更提供與 CSP 中新商務體驗相關的 Azure 供應專案](2021-january.md#11)|1月21日|
 |拓展您的業務|[永久軟體現已針對雲端解決方案提供者計畫正式推出](2021-january.md#10)|1 月 19 日|
 |拓展您的業務|[提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介](2021-january.md#9)|1 月 19 日|

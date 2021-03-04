@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
-ms.translationtype: HT
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182540"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756397"
 ---
 # <a name="november-2020-announcements"></a>2020 年 11 月公告
 
@@ -98,7 +98,7 @@ ______________
 上列參與市場中合作夥伴都是透過雲端解決方案提供者 (CSP) 計畫進行交易。
 
 ### <a name="details"></a>詳細資料
-促銷包含適用於 CSP 的 Office 365 E1 30% 折扣。 將在 2020 年 12 月 1 日起啟動，為期 6 個月，直到 2020 年 5月 31 日為止。 這份促銷僅適用於不熟悉 MW 雲端，且最多有 500 個基座的客戶。 請注意，這僅限於拉丁美洲、印度和亞太地區的新興市場，以實現轉換至雲端的目的。 
+促銷包含適用於 CSP 的 Office 365 E1 30% 折扣。 它將于2020年12月1日啟動，並將于6個月內提供，直到2021年5月31日為止。 這份促銷僅適用於不熟悉 MW 雲端，且最多有 500 個基座的客戶。 請注意，這僅限於拉丁美洲、印度和亞太地區的新興市場，以實現轉換至雲端的目的。 
 
 #### <a name="offer-details"></a>供應項目詳細資料
 

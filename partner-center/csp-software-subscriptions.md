@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5355dd6229d22d154512be8536e5fd4ab9b900ad
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: b6e08baf11061bc027b52d4662311bdc91ee0202
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834851"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756097"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>透過雲端解決方案提供者 (CSP) 方案銷售軟體訂閱
 
@@ -103,7 +103,7 @@ Azure Hybrid Benefit 有助於讓您的 Windows Server 授權發揮更大的效�
 >[!NOTE]
 >只有客戶可以在 Microsoft 系統管理中心查看產品金鑰及下載資訊。 合作夥伴看不到此資訊。
 
-如果您或您的客戶想要深入瞭解如何下載授權金鑰，請參閱 [下載軟體和產品授權金鑰](https://go.microsoft.com/fwlink/p/?linkid=2152525)。
+如果您或您的客戶想要深入瞭解如何下載授權金鑰，請參閱 [下載軟體和產品授權金鑰](/microsoft-365/admin/setup/download-software-licenses-csp)。
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>可以透過 Microsoft 365 系統管理中心為客戶提供伺服器訂閱下載和授權金鑰 
 
