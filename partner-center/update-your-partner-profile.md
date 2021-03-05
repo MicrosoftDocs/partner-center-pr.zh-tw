@@ -9,82 +9,81 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755788"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124766"
 ---
-# <a name="verify-your-company-profile-information-in-partner-center"></a><span data-ttu-id="6e11a-104">確認合作夥伴中心內的公司設定檔資訊</span><span class="sxs-lookup"><span data-stu-id="6e11a-104">Verify your company profile information in Partner Center</span></span>
+# <a name="verify-your-company-profile-information-in-partner-center"></a><span data-ttu-id="13cc7-104">確認合作夥伴中心內的公司設定檔資訊</span><span class="sxs-lookup"><span data-stu-id="13cc7-104">Verify your company profile information in Partner Center</span></span>
 
-<span data-ttu-id="6e11a-105">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="6e11a-105">**Appropriate roles**</span></span>
+<span data-ttu-id="13cc7-105">**適當的角色**</span><span class="sxs-lookup"><span data-stu-id="13cc7-105">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="6e11a-106">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="6e11a-106">Global admin</span></span>
-- <span data-ttu-id="6e11a-107">MPN 帳戶管理員</span><span class="sxs-lookup"><span data-stu-id="6e11a-107">MPN account admin</span></span>
+- <span data-ttu-id="13cc7-106">全域系統管理員</span><span class="sxs-lookup"><span data-stu-id="13cc7-106">Global admin</span></span>
+- <span data-ttu-id="13cc7-107">MPN 帳戶管理員</span><span class="sxs-lookup"><span data-stu-id="13cc7-107">MPN account admin</span></span>
 
-<span data-ttu-id="6e11a-108">當您第一次以全域管理員身分登入合作夥伴中心時，應該確認所有的公司詳細資料都正確無誤。</span><span class="sxs-lookup"><span data-stu-id="6e11a-108">The first time you sign into Partner Center as global admin, you should confirm that all of your company details are correct.</span></span> <span data-ttu-id="6e11a-109">包括主要連絡人、法定公司名稱和地址、計畫資訊。</span><span class="sxs-lookup"><span data-stu-id="6e11a-109">These include primary contact, legal business name and address, and program information.</span></span> <span data-ttu-id="6e11a-110">如果您的公司有多個位置，請複查您的位置資料的正確性。</span><span class="sxs-lookup"><span data-stu-id="6e11a-110">If your company has more than one location, review your location data for accuracy.</span></span> <span data-ttu-id="6e11a-111">身為全域管理員、帳單管理員或系統管理代理人，您也可以查看並更新您的帳單和稅務資訊。</span><span class="sxs-lookup"><span data-stu-id="6e11a-111">As global admin, billing admin, or admin agent, you will also be able to see and update your billing and tax information.</span></span>
+<span data-ttu-id="13cc7-108">當您第一次以全域管理員身分登入合作夥伴中心時，應該確認所有的公司詳細資料都正確無誤。</span><span class="sxs-lookup"><span data-stu-id="13cc7-108">The first time you sign into Partner Center as global admin, you should confirm that all of your company details are correct.</span></span> <span data-ttu-id="13cc7-109">包括主要連絡人、法定公司名稱和地址、計畫資訊。</span><span class="sxs-lookup"><span data-stu-id="13cc7-109">These include primary contact, legal business name and address, and program information.</span></span> <span data-ttu-id="13cc7-110">如果您的公司有多個位置，請複查您的位置資料的正確性。</span><span class="sxs-lookup"><span data-stu-id="13cc7-110">If your company has more than one location, review your location data for accuracy.</span></span> <span data-ttu-id="13cc7-111">身為全域管理員、帳單管理員或系統管理代理人，您也可以查看並更新您的帳單和稅務資訊。</span><span class="sxs-lookup"><span data-stu-id="13cc7-111">As global admin, billing admin, or admin agent, you will also be able to see and update your billing and tax information.</span></span>
 
-<span data-ttu-id="6e11a-112">您的合作夥伴設定檔包含您的法定公司資訊、主要連絡人姓名和電子郵件、公司參與的計畫，以及您的其他現已合併在法定公司下的公司 (如果相關)。</span><span class="sxs-lookup"><span data-stu-id="6e11a-112">Your partner profile consists of your legal business information, primary contact name and email, the programs in which your company participates, and if relevant, your other companies that are now merged under your legal business.</span></span> <span data-ttu-id="6e11a-113">請確定您在法定公司設定檔中的公司名稱和地址並沒有拼字錯誤和縮寫，且完全符合正式的公司商業登記記錄。</span><span class="sxs-lookup"><span data-stu-id="6e11a-113">Make sure the Company name and address in your Legal business profile are free of spelling errors and abbreviations and match your formal company business registration records exactly.</span></span> <span data-ttu-id="6e11a-114">如果您是獨資經營者，則必須使用公司名稱作為法定名稱。</span><span class="sxs-lookup"><span data-stu-id="6e11a-114">If you are operating as a Sole Proprietor, you need to use your company name as your legal name.</span></span>
+<span data-ttu-id="13cc7-112">您的合作夥伴設定檔包含您的法定公司資訊、主要連絡人姓名和電子郵件、公司參與的計畫，以及您的其他現已合併在法定公司下的公司 (如果相關)。</span><span class="sxs-lookup"><span data-stu-id="13cc7-112">Your partner profile consists of your legal business information, primary contact name and email, the programs in which your company participates, and if relevant, your other companies that are now merged under your legal business.</span></span> <span data-ttu-id="13cc7-113">請確定您在法定公司設定檔中的公司名稱和地址並沒有拼字錯誤和縮寫，且完全符合正式的公司商業登記記錄。</span><span class="sxs-lookup"><span data-stu-id="13cc7-113">Make sure the Company name and address in your Legal business profile are free of spelling errors and abbreviations and match your formal company business registration records exactly.</span></span> <span data-ttu-id="13cc7-114">如果您是獨資經營者，則必須使用公司名稱作為法定名稱。</span><span class="sxs-lookup"><span data-stu-id="13cc7-114">If you are operating as a Sole Proprietor, you need to use your company name as your legal name.</span></span>
 
 
 
-## <a name="locate-the-legal-business-profile"></a><span data-ttu-id="6e11a-115">找出法定公司設定檔</span><span class="sxs-lookup"><span data-stu-id="6e11a-115">Locate the legal business profile</span></span>
+## <a name="locate-the-legal-business-profile"></a><span data-ttu-id="13cc7-115">找出法定公司設定檔</span><span class="sxs-lookup"><span data-stu-id="13cc7-115">Locate the legal business profile</span></span>
 
-1. <span data-ttu-id="6e11a-116">移至 [設定] 圖示，然後選取 [帳戶設定]。</span><span class="sxs-lookup"><span data-stu-id="6e11a-116">Go to the **Settings** icon and select **Account settings**.</span></span>
+1. <span data-ttu-id="13cc7-116">移至 [設定] 圖示，然後選取 [帳戶設定]。</span><span class="sxs-lookup"><span data-stu-id="13cc7-116">Go to the **Settings** icon and select **Account settings**.</span></span>
  
-1. <span data-ttu-id="6e11a-117">選取 [組織設定檔]。</span><span class="sxs-lookup"><span data-stu-id="6e11a-117">Select **Organization profile**.</span></span> 
+1. <span data-ttu-id="13cc7-117">選取 [組織設定檔]。</span><span class="sxs-lookup"><span data-stu-id="13cc7-117">Select **Organization profile**.</span></span> 
 
-2. <span data-ttu-id="6e11a-118">複查您的 **法定公司設定檔**、**主要連絡人資訊** 以及您的 **計畫資訊**。</span><span class="sxs-lookup"><span data-stu-id="6e11a-118">Review your **Legal business profile**, **Primary contact info**, and your **Program info**.</span></span>
+2. <span data-ttu-id="13cc7-118">複查您的 **法定公司設定檔**、**主要連絡人資訊** 以及您的 **計畫資訊**。</span><span class="sxs-lookup"><span data-stu-id="13cc7-118">Review your **Legal business profile**, **Primary contact info**, and your **Program info**.</span></span>
 
-<span data-ttu-id="6e11a-119">如果您已經將其他公司合併在您的法定公司下，您也可以檢閱其資訊。</span><span class="sxs-lookup"><span data-stu-id="6e11a-119">If you have merged your other companies under your legal business, you can review that information as well.</span></span> 
+<span data-ttu-id="13cc7-119">如果您已經將其他公司合併在您的法定公司下，您也可以檢閱其資訊。</span><span class="sxs-lookup"><span data-stu-id="13cc7-119">If you have merged your other companies under your legal business, you can review that information as well.</span></span> 
 
-## <a name="update-your-legal-business-profile"></a><span data-ttu-id="6e11a-120">更新您的法定公司設定檔</span><span class="sxs-lookup"><span data-stu-id="6e11a-120">Update your legal business profile</span></span>
+## <a name="update-your-legal-business-profile"></a><span data-ttu-id="13cc7-120">更新您的法定公司設定檔</span><span class="sxs-lookup"><span data-stu-id="13cc7-120">Update your legal business profile</span></span>
 
-<span data-ttu-id="6e11a-121">在合作夥伴中心更新您的法定地址。</span><span class="sxs-lookup"><span data-stu-id="6e11a-121">Update your legal address on Partner Center.</span></span>
+<span data-ttu-id="13cc7-121">在合作夥伴中心更新您的法定地址。</span><span class="sxs-lookup"><span data-stu-id="13cc7-121">Update your legal address on Partner Center.</span></span>
 
 >[!Important]
->- <span data-ttu-id="6e11a-122">對於 MPN 帳戶，全域管理員和帳戶管理員都可以更新法定公司名稱。</span><span class="sxs-lookup"><span data-stu-id="6e11a-122">For MPN accounts, both the Global admin and Account admin can update the legal company name.</span></span>
->- <span data-ttu-id="6e11a-123">針對 CSP 間接轉銷商帳戶，只有全域管理員可以更新合法的公司名稱。</span><span class="sxs-lookup"><span data-stu-id="6e11a-123">For CSP Indirect reseller accounts, only the Global admin can update the legal company name.</span></span> 
+>- <span data-ttu-id="13cc7-122">對於 MPN 帳戶，全域管理員和帳戶管理員都可以更新法定公司名稱。</span><span class="sxs-lookup"><span data-stu-id="13cc7-122">For MPN accounts, both the Global admin and Account admin can update the legal company name.</span></span>
+>- <span data-ttu-id="13cc7-123">針對 CSP 間接轉銷商帳戶，只有全域管理員可以更新合法的公司名稱。</span><span class="sxs-lookup"><span data-stu-id="13cc7-123">For CSP Indirect reseller accounts, only the Global admin can update the legal company name.</span></span> 
 
-1. <span data-ttu-id="6e11a-124">移至 [設定]，然後選取 [組織設定檔]。</span><span class="sxs-lookup"><span data-stu-id="6e11a-124">Go to **Settings** and select **Organization profile**.</span></span>
+1. <span data-ttu-id="13cc7-124">移至 [設定]，然後選取 [組織設定檔]。</span><span class="sxs-lookup"><span data-stu-id="13cc7-124">Go to **Settings** and select **Organization profile**.</span></span>
 
-2. <span data-ttu-id="6e11a-125">選取 [法律]，然後選取您想要使用的法定公司設定檔。</span><span class="sxs-lookup"><span data-stu-id="6e11a-125">Select **Legal**  and then select the Legal business profile you want to use.</span></span>
+2. <span data-ttu-id="13cc7-125">選取 [法律]，然後選取您想要使用的法定公司設定檔。</span><span class="sxs-lookup"><span data-stu-id="13cc7-125">Select **Legal**  and then select the Legal business profile you want to use.</span></span>
  
-1. <span data-ttu-id="6e11a-126">當您選取 [提交] 時，系統將會重新評估您的合法身分識別，您會收到另一封電子郵件，而且您必須接受。</span><span class="sxs-lookup"><span data-stu-id="6e11a-126">When you select **Submit**, your legal identity will be reassessed, and you'll receive another email which you'll need to accept.</span></span>
+1. <span data-ttu-id="13cc7-126">當您選取 [提交] 時，系統將會重新評估您的合法身分識別，您會收到另一封電子郵件，而且您必須接受。</span><span class="sxs-lookup"><span data-stu-id="13cc7-126">When you select **Submit**, your legal identity will be reassessed, and you'll receive another email which you'll need to accept.</span></span>
 
 >[!Important]
-><span data-ttu-id="6e11a-127">如果您是雲端解決方案提供者 (CSP) 合作夥伴，則無法變更與您的法定地址相關聯的國家/地區。您的法定地址國家/地區會繫結至您的租用戶和服務，以及執行業務所使用的貨幣。</span><span class="sxs-lookup"><span data-stu-id="6e11a-127">If you are a Cloud Solution Provider (CSP) partner, you can't change the country associated with your legal address.Your legal address country is tied to your tenant and services as well as the currency you do business with.</span></span> <span data-ttu-id="6e11a-128">如果不在 CSP 計畫中，則可以變更與您的法定地址相關聯的國家/地區。</span><span class="sxs-lookup"><span data-stu-id="6e11a-128">If you are not in the CSP program, you can change the country associated with your legal address.</span></span> <span data-ttu-id="6e11a-129">如果驗證狀態為「已授權」，則直接帳單夥伴和間接提供者無法變更其公司的法定名稱。</span><span class="sxs-lookup"><span data-stu-id="6e11a-129">Direct Bill partners and Indirect providers cannot change the legal name of their company if the validation status is "Authorized".</span></span> <span data-ttu-id="6e11a-130">如果您需要變更名稱，則需要[建立支援票證](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。</span><span class="sxs-lookup"><span data-stu-id="6e11a-130">If you need to change the name, you will need to [create a Support ticket](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).</span></span>
+><span data-ttu-id="13cc7-127">如果您是雲端解決方案提供者 (CSP) 合作夥伴，則無法變更與您的法定地址相關聯的國家/地區。您的法定地址國家/地區會繫結至您的租用戶和服務，以及執行業務所使用的貨幣。</span><span class="sxs-lookup"><span data-stu-id="13cc7-127">If you are a Cloud Solution Provider (CSP) partner, you can't change the country associated with your legal address.Your legal address country is tied to your tenant and services as well as the currency you do business with.</span></span> <span data-ttu-id="13cc7-128">如果不在 CSP 計畫中，則可以變更與您的法定地址相關聯的國家/地區。</span><span class="sxs-lookup"><span data-stu-id="13cc7-128">If you are not in the CSP program, you can change the country associated with your legal address.</span></span> <span data-ttu-id="13cc7-129">如果驗證狀態為「已授權」，則直接帳單夥伴和間接提供者無法變更其公司的法定名稱。</span><span class="sxs-lookup"><span data-stu-id="13cc7-129">Direct Bill partners and Indirect providers cannot change the legal name of their company if the validation status is "Authorized".</span></span> <span data-ttu-id="13cc7-130">如果您需要變更名稱，則需要[建立支援票證](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。</span><span class="sxs-lookup"><span data-stu-id="13cc7-130">If you need to change the name, you will need to [create a Support ticket](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772).</span></span>
 
 
 
-## <a name="update-your-mpn-global-business-account"></a><span data-ttu-id="6e11a-131">更新您的 MPN Global 商業帳戶</span><span class="sxs-lookup"><span data-stu-id="6e11a-131">Update your MPN Global Business Account</span></span>
+## <a name="update-your-mpn-global-business-account"></a><span data-ttu-id="13cc7-131">更新您的 MPN Global 商業帳戶</span><span class="sxs-lookup"><span data-stu-id="13cc7-131">Update your MPN Global Business Account</span></span>
 
-<span data-ttu-id="6e11a-132">如果您在從合作夥伴成員中心遷移至合作夥伴中心時，將錯誤的商務帳戶識別為法律聲明企業，您可以將它變更為正確的合法商務帳戶。</span><span class="sxs-lookup"><span data-stu-id="6e11a-132">If, during your migration from Partner Membership Center to Partner Center, the wrong business account was identified as the legal business, you can change it to the correct legal business account.</span></span>
+<span data-ttu-id="13cc7-132">如果您在從合作夥伴成員中心遷移至合作夥伴中心時，將錯誤的商務帳戶識別為法律聲明企業，您可以將它變更為正確的合法商務帳戶。</span><span class="sxs-lookup"><span data-stu-id="13cc7-132">If, during your migration from Partner Membership Center to Partner Center, the wrong business account was identified as the legal business, you can change it to the correct legal business account.</span></span>
 
-<span data-ttu-id="6e11a-133">若要進行這些更新，您必須是全域管理員或帳戶管理員。瞭解如何 [管理您的 MPN 全域位置帳戶](manage-locations.md)</span><span class="sxs-lookup"><span data-stu-id="6e11a-133">To make these updates, you need to be either the Global admin or Account admin. Learn how to [manage your MPN Global location accounts](manage-locations.md)</span></span>
+<span data-ttu-id="13cc7-133">若要進行這些更新，您必須是全域管理員或帳戶管理員。瞭解如何 [管理您的 MPN 全域位置帳戶](manage-locations.md)</span><span class="sxs-lookup"><span data-stu-id="13cc7-133">To make these updates, you need to be either the Global admin or Account admin. Learn how to [manage your MPN Global location accounts](manage-locations.md)</span></span>
 
 
-## <a name="update-your-mpn-id-associated-with-your-csp-account"></a><span data-ttu-id="6e11a-134">更新與您的 CSP 帳戶相關聯的 MPN 識別碼</span><span class="sxs-lookup"><span data-stu-id="6e11a-134">Update your MPN ID associated with your CSP account</span></span>
+## <a name="update-your-mpn-id-associated-with-your-csp-account"></a><span data-ttu-id="13cc7-134">更新與您的 CSP 帳戶相關聯的 MPN 識別碼</span><span class="sxs-lookup"><span data-stu-id="13cc7-134">Update your MPN ID associated with your CSP account</span></span>
 
-<span data-ttu-id="6e11a-135">若要更新與您的 CSP 帳戶相關聯的 MPN 識別碼：</span><span class="sxs-lookup"><span data-stu-id="6e11a-135">To update the MPN ID associated with your CSP account:</span></span>
+<span data-ttu-id="13cc7-135">若要更新與您的 CSP 帳戶相關聯的 MPN 識別碼：</span><span class="sxs-lookup"><span data-stu-id="13cc7-135">To update the MPN ID associated with your CSP account:</span></span>
 
-1. <span data-ttu-id="6e11a-136">使用您的 CSP 帳號憑證，以全域管理員身分登入合作夥伴中心 [儀表板](https://partner.microsoft.com/en-us/dashboard/home) ，然後選取 [ **設定**]。</span><span class="sxs-lookup"><span data-stu-id="6e11a-136">Sign into the Partner Center [dashboard](https://partner.microsoft.com/en-us/dashboard/home) as a Global admin with your CSP account credentials and then select **Settings**.</span></span> <span data-ttu-id="6e11a-137"> (您的 MPN 和 CSP 認證可能會不同。 ) </span><span class="sxs-lookup"><span data-stu-id="6e11a-137">(Your MPN and CSP credentials may be different.)</span></span>
+1. <span data-ttu-id="13cc7-136">使用您的 CSP 帳號憑證，以全域管理員身分登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard/home) ，然後選取 [ **設定**]。</span><span class="sxs-lookup"><span data-stu-id="13cc7-136">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home) as a Global admin with your CSP account credentials and then select **Settings**.</span></span> <span data-ttu-id="13cc7-137"> (您的 MPN 和 CSP 認證可能會不同。 ) </span><span class="sxs-lookup"><span data-stu-id="13cc7-137">(Your MPN and CSP credentials may be different.)</span></span>
  
-1. <span data-ttu-id="6e11a-138">從 [帳戶設定] 選取 [識別碼]。</span><span class="sxs-lookup"><span data-stu-id="6e11a-138">Select **Identifiers** from **Account settings**.</span></span>
+1. <span data-ttu-id="13cc7-138">從 [帳戶設定] 選取 [識別碼]。</span><span class="sxs-lookup"><span data-stu-id="13cc7-138">Select **Identifiers** from **Account settings**.</span></span>
 
-1. <span data-ttu-id="6e11a-139">在 [CSP] 區段下，使用 [更新] 連結，來更新與 CSP 帳戶相關聯的 MPN 識別碼</span><span class="sxs-lookup"><span data-stu-id="6e11a-139">Under the **CSP** section, use the **Update** link to update the MPN ID associated with your CSP Account</span></span> 
-
-
-## <a name="update-your-csp-legal-billing-address"></a><span data-ttu-id="6e11a-140">更新您的 CSP 合法帳單位址</span><span class="sxs-lookup"><span data-stu-id="6e11a-140">Update your CSP legal billing address</span></span>
-
-<span data-ttu-id="6e11a-141">如果您是全域管理員、帳單管理員或系統管理代理人，您可以在 [支出和稅金設定檔] 中變更出現在發票上的地址。</span><span class="sxs-lookup"><span data-stu-id="6e11a-141">If you are the global admin, billing admin, or admin agent, you can change the address that appears on your invoice in your **Payout and tax profile**.</span></span> <span data-ttu-id="6e11a-142">不過，因為發票系統的限制，您無法變更發票上的公司名稱。</span><span class="sxs-lookup"><span data-stu-id="6e11a-142">You can't, however, change the company name on your invoice because of a limitation with the invoice system.</span></span>
+1. <span data-ttu-id="13cc7-139">在 [CSP] 區段下，使用 [更新] 連結，來更新與 CSP 帳戶相關聯的 MPN 識別碼</span><span class="sxs-lookup"><span data-stu-id="13cc7-139">Under the **CSP** section, use the **Update** link to update the MPN ID associated with your CSP Account</span></span> 
 
 
+## <a name="update-your-csp-legal-billing-address"></a><span data-ttu-id="13cc7-140">更新您的 CSP 合法帳單位址</span><span class="sxs-lookup"><span data-stu-id="13cc7-140">Update your CSP legal billing address</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="6e11a-143">接下來的步驟</span><span class="sxs-lookup"><span data-stu-id="6e11a-143">Next steps</span></span>
+<span data-ttu-id="13cc7-141">如果您是全域管理員、帳單管理員或系統管理代理人，您可以在 [支出和稅金設定檔] 中變更出現在發票上的地址。</span><span class="sxs-lookup"><span data-stu-id="13cc7-141">If you are the global admin, billing admin, or admin agent, you can change the address that appears on your invoice in your **Payout and tax profile**.</span></span> <span data-ttu-id="13cc7-142">不過，因為發票系統的限制，您無法變更發票上的公司名稱。</span><span class="sxs-lookup"><span data-stu-id="13cc7-142">You can't, however, change the company name on your invoice because of a limitation with the invoice system.</span></span>
 
-- [<span data-ttu-id="6e11a-144">檢查您的驗證狀態</span><span class="sxs-lookup"><span data-stu-id="6e11a-144">Check on your verification status</span></span>](verification-responses.md)
 
-- [<span data-ttu-id="6e11a-145">管理 MPN 位置</span><span class="sxs-lookup"><span data-stu-id="6e11a-145">Manage MPN locations</span></span>](manage-locations.md)
 
+## <a name="next-steps"></a><span data-ttu-id="13cc7-143">接下來的步驟</span><span class="sxs-lookup"><span data-stu-id="13cc7-143">Next steps</span></span>
+
+- [<span data-ttu-id="13cc7-144">檢查您的驗證狀態</span><span class="sxs-lookup"><span data-stu-id="13cc7-144">Check on your verification status</span></span>](verification-responses.md)
+
+- [<span data-ttu-id="13cc7-145">管理 MPN 位置</span><span class="sxs-lookup"><span data-stu-id="13cc7-145">Manage MPN locations</span></span>](manage-locations.md)
