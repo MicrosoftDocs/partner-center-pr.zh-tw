@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.date: 03/04/2021
+ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102029928"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185276"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "102029928"
 
 |**類別**|**2021年3月公告**|**公告**|
 |---------|:---------|:---------|
+|功能|[新的 Microsoft Dynamics 365 產品和優惠可于2021年4月1日取得](2021-march.md#2)|3月4日|
 |功能|[Microsoft 通用列印現已在某些套件中推出](2021-march.md#1)|3月3日|
 |**類別**|**2021年2月公告**|**公告**|
 |功能|[PUT 限定性 Api 已淘汰，可能會在5月淘汰](2021-february.md#14)|2月25日|

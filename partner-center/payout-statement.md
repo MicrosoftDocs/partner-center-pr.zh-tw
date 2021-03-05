@@ -6,13 +6,13 @@ ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 10/29/2020
-ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 3/2/2021
+ms.openlocfilehash: 681080b654ca1a12523a7ff63fc75a44daaab9b7
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756164"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185344"
 ---
 # <a name="payout-statements"></a>支付明細表
 
@@ -56,8 +56,7 @@ ms.locfileid: "101756164"
 
 ## <a name="transaction-history"></a>交易記錄
 
-[ **交易記錄** ] 頁面會顯示您的收益摘要、估計的下一個付款，以及過去36個月的收益和付款趨勢。 您也可以從這個區段下載交易詳細資料。
-
+[ **交易記錄** ] 頁面會顯示您的收益摘要、估計的下一個付款，以及過去36個月的收益和付款趨勢。 您也可以從這個區段下載交易詳細資料。<br><br>此報表會顯示所有符合款項的收益，包括尚未傳送的付款。 當 ISV 已完成合作夥伴中心內的所有銀行與稅務資訊、已獲得 >$50、ISV 帳戶為使用中，且客戶已 (適用于 EA 交易) ，或 (針對非 EA) 交易獲得時，即享有預付金的資格。
 
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="交易總覽。":::
 

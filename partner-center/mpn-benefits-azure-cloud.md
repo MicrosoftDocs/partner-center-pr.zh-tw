@@ -4,37 +4,35 @@ ms.topic: article
 ms.date: 01/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: 深入瞭解 Azure 和雲端產品的 Microsoft 合作夥伴網路 (MPN) 權益，包括如何啟用訂閱。
+description: 瞭解 Azure 和雲端產品的 Microsoft Partner Network (MPN) 權益，包括如何啟用訂閱。
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c82e9cc3ea35097c15ac27b137f93c656ab99a78
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 8f54956f71912b2b55bdbfa6be60baf92f417378
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99056555"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185327"
 ---
-# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>探索合作夥伴中心中的 Azure 和雲端產品權益區域
+# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>探索合作夥伴中心的 Azure 和雲端產品權益區域
 
 **適當的角色**
 
 - 全域系統管理員
-- 使用者系統管理員
-- 系統管理代理人
 - MPN 合作夥伴系統管理員
 
-本文說明從合作夥伴中心內可供合作夥伴使用的特定 Azure 和雲端優勢。 您也將瞭解如何啟用特定類型的 Azure 和雲端訂用帳戶。
+本文說明合作夥伴中心內適用于合作夥伴的特定 Azure 和雲端優勢。 您也將瞭解如何啟用特定類型的 Azure 和雲端訂用帳戶。
  
 ## <a name="overview"></a>概觀
 
-作為 Microsoft 合作夥伴網路中的合作夥伴，您可能可以存取不同區域的許多技術和進入市場權益。 如果您已獲指派合作夥伴中心中的其中一個角色，您可以直接從合作夥伴中心儀表板探索許多這些權益。
+做為 Microsoft 合作夥伴網路中的合作夥伴，您可能可以存取不同區域的許多技術和進入市場權益。 如果您已獲派合作夥伴中心內的其中一個角色，您可以直接從 [合作夥伴中心] 儀表板探索許多這些權益。
 
 > [!NOTE]
-> 若要存取合作夥伴中心權益區域，您只需要登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard) ，然後從左側導覽功能表中選取 [ **MPN** ]。 然後，從功能表中選取 [ **權益** ]，然後選取您想要探索的特定權益選項或區域。
+> 若要存取合作夥伴中心權益區域，您只需要登入 [合作夥伴中心] [儀表板](https://partner.microsoft.com/dashboard) ，然後從左側導覽功能表中選取 [ **MPN** ]。 然後，從功能表中選取 [ **權益** ]，然後選取您想要探索的特定權益選項或區域。
 
-您可以使用的其中一個優點選項是 **Azure & 雲端產品**。 當您從 [合作夥伴中心 **權益**] 功能表中選取 [ **azure & cloud** ] 時，[ **azure & 雲端產品**] 頁面隨即出現。
+您可以使用的其中一個優點選項是 **Azure & 雲端產品**。 當您從 [合作夥伴中心 **權益**] 功能表選取 [ **azure & cloud** ] 時，會出現 [ **azure & 雲端產品**] 頁面。
 
 此頁面會顯示下列詳細資料：
 
@@ -49,12 +47,12 @@ ms.locfileid: "99056555"
 ## <a name="usage-based-vs-license-based-subscriptions"></a>以使用量為基礎的與授權型訂閱
 
 **Azure & 雲端產品** 頁面會列出布建給您的兩種訂用帳戶權益：
-- 以使用量為基礎的訂用帳戶 (Microsoft Azure 點數)  
+- 以使用量為基礎的訂閱 (Microsoft Azure 點數)  
 - 以授權為基礎的訂閱 (例如 Office 365) 
 
 ### <a name="usage-based-subscriptions-with-two-types-of-microsoft-azure-credit"></a>以使用量為基礎的訂用帳戶，具有兩種類型的 Microsoft Azure 點數
 
-有兩種類型的使用量型訂用帳戶可供您接收，視您 Microsoft 合作夥伴網路成員資格可用的有效供應專案而定。 這類有效供應專案可能包含 Microsoft 行動套件、銀級專長認證或金級專長認證。 
+有兩種類型的使用量型訂用帳戶可供您接收，這取決於您的 Microsoft 合作夥伴網路成員資格所提供的有效供應專案。 這類有效供應專案可能包含 Microsoft 行動套件、銀級專長認證或金級專長認證。 
 
 可以針對這些供應專案布建的這兩種以使用量為基礎的訂用帳戶，包括 *azure 每月點數* 及/或 *azure 大量 (年度) 點數*：
 
@@ -62,25 +60,25 @@ ms.locfileid: "99056555"
 *and/or*
 - 布建 **Azure 大量 (年度) 點數：** 這可能會顯示為像是 $ 6000/year、$ 12000/year 及/或 $ 13000/year (，或每年都是當地貨幣的相等) 
 
-若要在合作夥伴中心中啟用 Microsoft Azure 訂用帳戶，您必須將存取權指派給公司內的使用者 (或來賓使用者) 。 使用者必須已經在您的 Azure Active Directory 租使用者中建立使用者專案。 然後，請遵循下列步驟：
+若要在合作夥伴中心啟用 Microsoft Azure 訂用帳戶，您必須將存取權指派給公司內的使用者 (或來賓使用者) 。 使用者必須已在 Azure Active Directory 租使用者中建立使用者專案。 然後，請遵循下列步驟：
 
-1. 確定使用者在您的 Azure AD 租使用者中有使用者專案之後，請登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)。
+1. 一旦您確定使用者有 Azure AD 租使用者中的使用者專案，請登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard)。
 
 1. 從左側導覽功能表中選取 [ **MPN** ]，接著選取 [ **權益**]，然後選取 [Azure] **和 [雲端**]。
 
 1. 選取右邊的向下箭號，並查看您想要啟用之使用量型訂用帳戶的 [ **詳細資料] 資料** 行。 
 
-1. 在 [ **Azure 與雲端產品**] 頁面的 [合作夥伴中心] 頁面上找出 [**使用者指派**] 區域 () 。 然後，選取 [ **指派使用者** ] 選項，將所需的使用量型訂用帳戶權益指派給該使用者。 
+1. 在 [合作夥伴中心的 **Azure 和雲端產品**] 頁面上找出 [**使用者指派**] 區域 (下) 。 然後，選取 [ **指派使用者** ] 選項，將所需的使用量型訂用帳戶權益指派給該使用者。 
 
    :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="顯示使用者指派區域的 Azure 和雲端產品頁面。" border="false":::
 
 - 當您將每月信用額度的每月信用額度指派為每月 $100 (或當地貨幣) 的對等專案時，請注意，您可以隨時在此訂用帳戶中新增或移除使用者。
 
-- 當您指派 Azure 大量 (年度) 點數時，請注意合作夥伴中心不提供 [ **移除** ] 選項。 相反地，您必須在註冊年度期間將大量點數轉移給其他人。 Azure 大量 (年度) 點數訂用帳戶也無法與其他授權、預付或信用額度供應專案結合 (例如 Microsoft Enterprise 合約、雲端解決方案提供者、Azure in Open、Azure Pass、Microsoft 行動套件等等。
+- 當您將 Azure 大量 (年度) 點數時，請注意 [合作夥伴中心] 中不提供 [ **移除** ] 選項。 相反地，您必須在註冊年度期間將大量點數轉移給其他人。 Azure 大量 (年度) 點數訂用帳戶也無法與其他授權、預付或信用額度供應專案結合 (例如 Microsoft Enterprise 合約、雲端解決方案提供者、Azure in Open、Azure Pass、Microsoft 行動套件等 ) 。
 
 ### <a name="license-based-subscriptions"></a>以授權為基礎的訂用帳戶
 
-在 [Azure 與雲端產品] 頁面的 [以授權為基礎的訂用帳戶] 區段中，您會發現所有需要產品金鑰的雲端產品都必須啟用，例如 Microsoft O365、Microsoft Dynamics、Microsoft Intune、Azure AD 基本、Power BI 等等。這些產品是根據您在 Microsoft 合作夥伴網路中提供給您的使用中供應專案類型來提供。 這類優惠可能包括 Microsoft 行動套件、銀級專長認證成員資格或金級專長認證成員資格。
+在 [Azure 與雲端產品] 頁面的 [以授權為基礎的訂用帳戶] 區段中，您會發現所有需要產品金鑰的雲端產品都必須啟用，例如 Microsoft O365、Microsoft Dynamics、Microsoft Intune、Azure AD basic、Power BI 等等。這些產品是根據您在 Microsoft 合作夥伴網路中作為合作夥伴提供的使用中供應專案類型來提供。 這類優惠可能包括 Microsoft 行動套件、銀級專長認證成員資格或金級專長認證成員資格。
 
 若要啟用以授權為基礎的訂用帳戶： 
 
@@ -109,7 +107,7 @@ ms.locfileid: "99056555"
 >
 > - 請確定您已使用正確的認證登入，而且您要在正確的 Azure Active Directory (AAD) 租使用者上啟用金鑰。 請一律使用私用/incognito 瀏覽器視窗登入，以確保您在正確的租使用者上啟用金鑰。
 >
-> - Microsoft 合作夥伴中心中顯示的權益到期日，表示執行該權益之許可權的最後一個日期。 此日期可能與 M365 Admin Center 入口網站中所列的訂用帳戶結束日期不同。 這可能是因為有數個因素，例如權益啟用日期、與金鑰相關聯的授權數目，以及在系統管理員入口網站上新增或擴充的授權。
+> - Microsoft 合作夥伴中心所顯示的權益到期日，表示執行該權益之許可權的最後一個日期。 此日期可能與 M365 Admin Center 入口網站中所列的訂用帳戶結束日期不同。 這可能是因為有數個因素，例如權益啟用日期、與金鑰相關聯的授權數目，以及在系統管理員入口網站上新增或擴充的授權。
 
 ## <a name="extend-the-end-date-or-add-more-licenses-to-an-existing-subscription"></a>延長結束日期，或將更多授權新增至現有的訂用帳戶
 
@@ -119,7 +117,7 @@ ms.locfileid: "99056555"
 
    [https://admin.microsoft.com/AdminPortal/Home#/subscriptions](https://admin.microsoft.com/AdminPortal/Home#/subscriptions)
 
-1. 登入您的 **M365 系統管理中心入口網站** 時，請確定您使用正確的 Azure Active Directory 租使用者登入。 然後，從清單中選取特定的雲端訂用帳戶，然後執行下列其中一個 (以更新訂用帳戶或新增更多授權) ：
+1. 登入您的 **M365 admin center 入口網站** 時，請確定您是使用正確的 Azure Active Directory 租使用者登入。 然後，從清單中選取特定的雲端訂用帳戶，然後執行下列其中一個 (以更新訂用帳戶或新增更多授權) ：
 
    - 若要更新現有的訂用帳戶，請在 [授權] 區域中選取 [ **延長結束日期** ] 選項。 延長結束日期將會增加訂用帳戶的持續時間，同時維持相同的授權/基座數目。 
 
@@ -179,8 +177,8 @@ ms.locfileid: "99056555"
 
 ## <a name="next-steps"></a>下一步
 
-- 瞭解如何 [從 Office 365 E3 遷移至 Microsoft 365 商務版 Premium](/microsoft-365/business/migrate-from-e3)
+- 瞭解如何 [從 Office 365 E3 遷移至 Microsoft 365 Business Premium](/microsoft-365/business/migrate-from-e3)
    
-- 深入瞭解 [Microsoft 365 商務版語音](/microsoftteams/business-voice/whats-business-voice)
+- 深入瞭解 [Microsoft 365 商務語音](/microsoftteams/business-voice/whats-business-voice)
   
 - 瞭解 [商務語音的國家/地區可用性](/microsoftteams/business-voice/country-region-availability)

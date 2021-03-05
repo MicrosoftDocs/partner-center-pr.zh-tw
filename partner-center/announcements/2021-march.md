@@ -9,16 +9,83 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/03/2021
-ms.openlocfilehash: 1a386a97d0e55818b2226fd453cfca3b63753247
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102055825"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185259"
 ---
 # <a name="march-2021-announcements"></a>2021年3月公告
 
 本頁面提供2021年3月的 Microsoft 合作夥伴中心公告。
+
+________________
+## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>新的 Microsoft Dynamics 365 產品和優惠可于2021年4月1日取得
+
+### <a name="categories"></a>類別
+
+- 日期：2021-03-04
+- 功能
+
+### <a name="summary"></a>摘要
+
+在2021年4月1日，Microsoft 將為雲端解決方案提供者 (CSP) 計畫推出數項新產品和優惠。
+
+### <a name="impacted-audience"></a>影響對象
+
+透過雲端解決方案提供者 (CSP) 方案交易的所有合作夥伴
+
+### <a name="details"></a>詳細資料
+
+在2021年4月1日，Microsoft 將會推出下列新產品和優惠：
+
+- 每位使用者的 Power BI Premium
+- 客戶心聲和行銷 USL 地理和區段擴充
+
+**每位使用者的 Power BI Premium**
+
+Microsoft 會介紹第一個每位使用者的 Power BI Premium 優惠。 Power BI Premium 目前只在容量結構中銷售。 每位使用者的 Power BI Premium 可讓您存取企業商業智慧 (BI) 和分析功能。 其彈性的個別基座授權已經考慮為中小型企業。
+
+請參閱 [POWER BI 版本詳細資料](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/planned-features) ，以深入瞭解此供應專案。
+
+
+**供應項目詳細資料**
+
+請注意，供應專案名稱稍有不同于價格清單預覽。
+
+| 供應項目名稱 | 優惠識別碼 |
+| ------ |----------- |
+| 每位使用者的 Power BI Premium | 9c810018-9356-4903-95ab-eeb956289290 | 
+| 適用于教職員的每個使用者 Power BI Premium | 3affc44f-f372-4ad5-8657-aadd9574fce0 | 
+| 適用于學生的每位使用者 Power BI Premium | 657eea87-d0b0-4c89-8c8e-9b04395bd940 | 
+| Power BI Premium 每位使用者 (非盈利性員工定價)  | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
+| 每位使用者 Add-On 的 power BI Premium | 244ff87e-5925-44a0-bf31-cea189719b58 | 
+| 每位使用者的 Power BI Premium Add-On 教職員版 | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
+| 適用于學生的每個使用者 Add-On Power BI Premium | cf62d70d-5af5-422a-bda8-97936402ac8e | 
+| Power BI Premium 每位使用者 Add-On (非盈利性員工定價)  | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
+
+**客戶心聲和行銷 USL 地理和區段擴充**
+
+在2020年12月的發行中，我們已變更 Dynamics 365 客戶心聲和行銷 USL 優惠，以新增國家/地區及更多非盈利性和教育 Sku。
+
+| 供應項目名稱 | 優惠識別碼 |
+| ------ |----------- |
+| Dynamics 365 客戶心聲 USL (非贏利員工定價)  | 7a8642a5-481e-4906-a642-b56dbeeb62a0 |
+| Dynamics 365 Customer Voice USL 教職員 | 85162d70-9676-4cf6-a4bc-a0d6672f2657 |
+
+請流覽下列頁面，以深入瞭解這些優惠：
+
+- [Dynamics 365 Customer Service Voice 首頁](https://dynamics.microsoft.com/customer-voice/overview/)
+- [Dynamics 365 行銷首頁](https://dynamics.microsoft.com/customer-voice/overview/)
+
+### <a name="next-steps"></a>下一步
+
+請參閱本主題的資源，並與貴組織中的適當專案關係人分享這項資訊。  
+
+### <a name="questions"></a>有問題嗎？
+
+針對這些供應專案的任何問題，請檢查您的相關 Yammer 團體。 
 
 ________________
 ## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Microsoft 通用列印現已在某些套件中推出

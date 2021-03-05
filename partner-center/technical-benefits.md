@@ -9,14 +9,14 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d805b3ba9ea25fcccc4c4e82d05e524d47b7fc72
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: c273de275ed2821b9441be69fd29b931992a1982
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758453"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185293"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd-benefits"></a>探索技術售前和部署服務 (TPD) 的優點
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>探索 (TPD) 的技術售前和部署服務 
 
 ## <a name="develop-your-technical-know-how"></a>開發您的技術知識-如何
 
