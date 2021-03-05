@@ -6,15 +6,17 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: brentserbus
 ms.author: brserbus
-ms.custom: references_regions
+ms.custom:
+- announcement
+- references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: dcdbbda3a93bdf80dfe2c8eacc74ea4f78a7d07e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756334"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124783"
 ---
 # <a name="february-2021-announcements"></a>2021年2月公告
 

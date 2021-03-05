@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755788"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124766"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>確認合作夥伴中心內的公司設定檔資訊
 
@@ -69,7 +69,7 @@ ms.locfileid: "101755788"
 
 若要更新與您的 CSP 帳戶相關聯的 MPN 識別碼：
 
-1. 使用您的 CSP 帳號憑證，以全域管理員身分登入合作夥伴中心 [儀表板](https://partner.microsoft.com/en-us/dashboard/home) ，然後選取 [ **設定**]。  (您的 MPN 和 CSP 認證可能會不同。 ) 
+1. 使用您的 CSP 帳號憑證，以全域管理員身分登入合作夥伴中心 [儀表板](https://partner.microsoft.com/dashboard/home) ，然後選取 [ **設定**]。  (您的 MPN 和 CSP 認證可能會不同。 ) 
  
 1. 從 [帳戶設定] 選取 [識別碼]。
 
@@ -87,4 +87,3 @@ ms.locfileid: "101755788"
 - [檢查您的驗證狀態](verification-responses.md)
 
 - [管理 MPN 位置](manage-locations.md)
-

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756182"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124817"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作夥伴中心內的共同銷售指南 (電腦) ，適用于從合作夥伴銷售 Connect (PSC 進行遷移的合作夥伴) 
 
@@ -32,9 +32,9 @@ ms.locfileid: "101756182"
 > 如果您在這裡看到關於遷移的資訊，您就是在正確的位置。 本指南不適用於解決方案評估 (SA) 和 OEM 授權商務合作夥伴管理其在 PSC 的交易。
 
 >[!Important]
-> 自2021年5月1日起，您的公司將無法建立或編輯 PSC 的交易。 **您仍然可以使用 PSC 的大量匯出功能來下載現有交易資料。您也可以在此日期之後，將 [open 交易](psc-to-pc.md#psc-deals-migration) 從 PSC 遷移到合作夥伴中心。** <br><br> 如果您正在積極處理的交易包含 IP 共同銷售激勵符合資格的解決方案，您有兩個選擇： <br><br> 1. 在2021年4月30日前，于 PSC 中將交易標示為贏及完成交易註冊。 <br> 2. [將交易遷移](psc-to-pc.md#psc-deals-migration) 至合作夥伴中心，讓您有更多時間處理並開始交易註冊。
+> 自2021年4月1日起，您的公司將無法建立或編輯 PSC 的交易。 **您仍然可以使用 PSC 的大量匯出功能來下載現有交易資料。您也可以在此日期之後，將 [open 交易](psc-to-pc.md#psc-deals-migration) 從 PSC 遷移到合作夥伴中心。** <br><br> 如果您正在積極處理的交易包含 IP 共同銷售激勵符合資格的解決方案，您有兩個選擇： <br><br> 1. 在2021年3月31日前，于 PSC 中將交易標示為贏及完成交易註冊。 <br> 2. [將交易遷移](psc-to-pc.md#psc-deals-migration) 至合作夥伴中心，讓您有更多時間處理並開始交易註冊。
 
-如您所知， **公司將在2021年5月31日之後失去對 PSC 的存取權**。 不過，您仍然可以在合作夥伴中心內找到您想要進行的所有作業，例如建立共同銷售交易、管理交易，以及採取 Microsoft 銷售人員傳送給您的交易。
+如您所知， **公司將在2021年4月30日之後失去對 PSC 的存取權**。 不過，您仍然可以在合作夥伴中心內找到您想要進行的所有作業，例如建立共同銷售交易、管理交易，以及採取 Microsoft 銷售人員傳送給您的交易。
 
 不過，會有一些差異。 下列指導方針可協助您將轉換至合作夥伴中心的工作更順暢、更簡單。
 
