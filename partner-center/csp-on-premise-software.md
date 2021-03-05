@@ -1,7 +1,7 @@
 ---
-title: 透過雲端解決方案提供者銷售內部部署軟體
+title: 透過 CSP 銷售內部部署軟體
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: 瞭解 CSP 方案中的合作夥伴如何在合作夥伴中心內代表客戶購買、管理、銷售和取消內部部署軟體訂閱。
@@ -9,27 +9,23 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756048"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220239"
 ---
-# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>透過雲端解決方案提供者 (CSP) 計畫銷售內部部署軟體
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>透過雲端解決方案提供者 (CSP) 計畫銷售內部部署軟體
 
 **適當的角色**
 
 - 系統管理代理人
 - 全域系統管理員
 
-雲端解決方案提供者中的內部部署軟體引進雲端焦點計畫中的內部部署軟體，藉以支援順暢轉換到雲端。  這個新服務提供單一平台來交易所有 Microsoft 產品，因此可將加值型合作夥伴帶往每個購買案例。 身為雲端解決方案提供者，現在除了 Open、EA 以及目前使用的其他計畫，您還可以透過合作夥伴中心銷售內部部署軟體。 CSP 中的內部部署軟體是新的銷售計畫，不打算取代任何 Microsoft 其他大量授權方案。 
+CSP 中的內部部署軟體可在雲端導向的程式中引進內部部署軟體，藉以支援順暢轉換至雲端。  這個新服務提供單一平台來交易所有 Microsoft 產品，因此可將加值型合作夥伴帶往每個購買案例。 作為 CSP，您現在可以透過合作夥伴中心銷售內部部署軟體，以及目前使用中的開放、EA 及其他程式。  
  
-在使用內部部署軟體授權選項來確保整體客戶價值最高時，我們也會讓商務模型盡可能符合合作夥伴的需要。 雲端解決方案提供者中內部部署軟體的直接授權表示成本可預測性以及簡化銷售流程。 這個新的商業模型可讓您為客戶輕鬆採購、管理及定價內部部署軟體，讓您將焦點放在運用 IT 管理加值型解決方案的擴展產品組合來贏得業務。 
-
->[!NOTE]
->內部部署軟體目前僅提供給有限的合作夥伴。 若要瞭解您是否符合資格，請參閱您的 Microsoft 連絡人。 
-
+使用內部部署軟體授權選項確保整體客戶價值最高時，我們也會讓商務模型盡可能符合合作夥伴的需要。 在 CSP 中直接授權內部部署軟體，表示成本可預測性和簡化的銷售流程。 這項新的商務模型可讓您輕鬆地為客戶購買、管理及提供內部部署軟體的價格，讓您能夠以擴充的 IT 管理價值解決方案組合來專注于獲獎的企業。
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>代表客戶購買軟體訂閱
 
@@ -37,18 +33,16 @@ ms.locfileid: "101756048"
 
 ## <a name="activate-and-manage-software-subscriptions"></a>啟用及管理軟體訂閱
 
-購買您的軟體之後，您的客戶就必須下載軟體。 使用下列程序來執行此動作。
+購買您的軟體之後，您或您的客戶需要下載。 使用下列程序來執行此動作。
 
 >[!NOTE]
 >您必須是系統管理員代理程式，才能取得金鑰和下載的連結。
 
 1. 移至客戶的詳細資料頁面，然後選取 [軟體]。 您會看到您已代表客戶購買的所有軟體清單。
-2. 將「深層連結」從 **連結複製到軟體產品金鑰，並下載** 並與您的客戶分享連結。 當他們選取此連結時，系統會將他們重新導向至 Microsoft 系統管理中心，以下載並取得其產品金鑰。
+2. 遵循 [夥伴操作指南](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) 中的指示，以完成代表客戶購買軟體的作業。
 
 >[!NOTE]
 >只有客戶可以在 Microsoft 系統管理中心查看產品金鑰及下載資訊。 合作夥伴看不到此資訊。
-
-如果您或您的客戶想要深入瞭解如何下載授權金鑰，請參閱 [下載軟體和產品授權金鑰](/microsoft-365/admin/setup/download-software-licenses-csp)。
 
 ## <a name="cancel-a-purchase"></a>取消購買
 

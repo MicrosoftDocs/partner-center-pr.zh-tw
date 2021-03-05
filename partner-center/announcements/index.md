@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/04/2021
-ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185276"
+ms.locfileid: "102220266"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,8 @@ ms.locfileid: "102185276"
 
 |**類別**|**2021年3月公告**|**公告**|
 |---------|:---------|:---------|
+|功能|[合作夥伴中心軟件授權金鑰和下載履行](2021-march.md#4)|3 月 5 日|
+|功能|[將交易夥伴銷售 Connect (PSC) 的交易遷移至合作夥伴中心](2021-march.md#3)|3 月 5 日|
 |功能|[新的 Microsoft Dynamics 365 產品和優惠可于2021年4月1日取得](2021-march.md#2)|3月4日|
 |功能|[Microsoft 通用列印現已在某些套件中推出](2021-march.md#1)|3月3日|
 |**類別**|**2021年2月公告**|**公告**|

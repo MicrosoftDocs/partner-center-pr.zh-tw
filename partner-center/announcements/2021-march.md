@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 03/04/2021
+ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185259"
+ms.locfileid: "102220290"
 ---
 # <a name="march-2021-announcements"></a>2021年3月公告
 
 本頁面提供2021年3月的 Microsoft 合作夥伴中心公告。
+
+________________
+## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>合作夥伴中心軟件授權金鑰和下載履行
+
+### <a name="categories"></a>類別
+
+- 日期：2021-03-04
+- 功能
+
+### <a name="summary"></a>摘要
+
+合作夥伴中心軟件下載和授權金鑰履行功能已恢復。
+
+### <a name="impacted-audience"></a>影響對象
+
+所有雲端解決方案提供者 (CSP) 合作夥伴透過合作夥伴中心交易永久和伺服器訂用帳戶軟體訂單
+
+### <a name="details"></a>詳細資料
+
+為了回應合作夥伴的意見反應，我們會恢復合作夥伴中心履行功能，以取得永久和伺服器訂用帳戶軟體訂單的軟體和授權金鑰。 在2021年1月19日移除之前，它將會還原為先前的狀態。  (查看 [公告](2020-september.md#17)。 ) 
+
+請注意，軟體授權金鑰和下載連結在智慧財產資產之後是很重要且高度追求的。 如果外洩，很快就會耗盡其啟用限制，並造成負面的客戶和合作夥伴體驗。
+
+### <a name="next-steps"></a>下一步
+
+請參閱下列資源，以取得使用方式指示和軟體金鑰散發的重要指引：
+
+- [透過 CSP 計畫銷售內部部署軟體](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [合作夥伴中心新的商務操作指南](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) (參閱 **軟體金鑰發佈的指引** 一節。 ) 
+
+### <a name="questions"></a>有問題嗎？
+
+如果您對此聲明有任何進一步的問題，請檢查您的相關 Yammer 團體。
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>將交易夥伴銷售 Connect (PSC) 的交易遷移至合作夥伴中心
+
+### <a name="categories"></a>類別
+
+- 日期：2021-03-04
+- 功能
+
+### <a name="summary"></a>摘要
+
+合作夥伴銷售 Connect (PSC) 將自2021年3月31日起移至唯讀存取，因此我們建議您開始將您的交易從 PSC 遷移到合作夥伴中心。
+
+### <a name="impacted-audience"></a>影響對象
+
+具有 PSC 交易的合作夥伴
+
+### <a name="details"></a>詳細資料
+
+作為成長的共用承諾， **與 Microsoft 共同銷售** 的途徑是您要探索的途徑 **、提供您的專業知識，並擴大客戶對客戶** 成果的使用量。 使用比平常 **更快3.5 倍** 的平均交易，在合作夥伴中心內管理您的共同銷售體驗，可讓您在直接客戶、合作夥伴與 Microsoft 賣方通道之間銷售，並在單一位置管理整個參考管線。
+
+自 **2021 年3月 31** 日起， **PSC** 將移至 **唯讀存取**，因此我們建議您開始移至合作夥伴中心，並存取這些功能改進： 
+
+- 根據您所需的協助，更準確地將與 Microsoft 共用的交易 **路由傳送** 到正確的賣方。
+- 針對獎勵符合資格的解決方案預先 **交易資格驗證**，並符合 ISV Connect 計畫準則，以簡化核准程式和最終執行證明 (POE) 證明。
+- **順暢的使用者體驗** ，可讓您在單一位置管理所有共同銷售商機和銷售合格的潛在客戶。
+
+我們最近也在合作夥伴中心新增了新功能，以協助您進行移動：
+
+- [共同銷售商機的大量作業](https://docs.microsoft.com/partner-center/bulk-operations)
+- [交易遷移功能](https://docs.microsoft.com/partner-center/psc-to-pc) (查看 **PSC 交易遷移** 一節。 ) 
+
+使用合作夥伴中心內的共同銷售體驗，您的銷售團隊將有更多時間專注于加強關係潛在客戶和商機、交易關閉，以及建立持續性的客戶關係。
+
+### <a name="next-steps"></a>下一步
+
+使用「合作夥伴中心」 [轉換指南](https://docs.microsoft.com/partner-center/psc-to-pc) ，逐步引導您完成將交易從 PSC 遷移至合作夥伴中心的步驟。
+
+### <a name="questions"></a>有問題嗎？
+
+如有任何進一步的問題，請聯絡 [支援](https://partner.microsoft.com/support/?stage=1)人員。
 
 ________________
 ## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>新的 Microsoft Dynamics 365 產品和優惠可于2021年4月1日取得

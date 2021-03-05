@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124766"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220256"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>確認合作夥伴中心內的公司設定檔資訊
 
@@ -54,8 +54,7 @@ ms.locfileid: "102124766"
 1. 當您選取 [提交] 時，系統將會重新評估您的合法身分識別，您會收到另一封電子郵件，而且您必須接受。
 
 >[!Important]
->如果您是雲端解決方案提供者 (CSP) 合作夥伴，則無法變更與您的法定地址相關聯的國家/地區。您的法定地址國家/地區會繫結至您的租用戶和服務，以及執行業務所使用的貨幣。 如果不在 CSP 計畫中，則可以變更與您的法定地址相關聯的國家/地區。 如果驗證狀態為「已授權」，則直接帳單夥伴和間接提供者無法變更其公司的法定名稱。 如果您需要變更名稱，則需要[建立支援票證](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
-
+>如果您是雲端解決方案提供者 (CSP) 合作夥伴，則無法變更與您的法定地址相關聯的國家/地區。您的法定地址國家/地區會繫結至您的租用戶和服務，以及執行業務所使用的貨幣。 如果驗證狀態為「已授權」，則直接帳單夥伴和間接提供者無法變更其公司的法定名稱。 如果您需要變更名稱，則需要[建立支援票證](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)。
 
 
 ## <a name="update-your-mpn-global-business-account"></a>更新您的 MPN Global 商業帳戶
