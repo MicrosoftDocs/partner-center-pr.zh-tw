@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705006"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475274"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -36,7 +36,10 @@ ________________
 
 ### <a name="details"></a>詳細資料
 
-現今合作夥伴可以使用合作夥伴中心或 Microsoft 365 系統管理中心，針對 CSP 軟體訂單進行軟體下載和授權金鑰履行。 從 **2021 年1月 19** 日起，合作夥伴中心的軟體和授權金鑰履行功能將被淘汰，而合作夥伴將會指出客戶僅針對此目的使用 **Microsoft 365 管理中心** 。 合作夥伴中心中的 [客戶軟體] 頁面會包含 Microsoft 365 管理中心的「深層連結」，您可以在其中指向客戶以取得客戶授權和軟體下載。 這有助於確保客戶擁有最安全且有效率的體驗。
+>[!NOTE]
+>由於合作夥伴的意見反應，我們會恢復合作夥伴中心履行功能，以取得永久和伺服器訂用帳戶軟體訂單的軟體和授權金鑰。 在2021年1月19日移除之前，它將會還原為先前的狀態。 如需詳細資訊，請參閱 [2021 年3月公告](https://docs.microsoft.com/partner-center/announcements/2021-march#4)。
+
+現今合作夥伴可以使用合作夥伴中心或 Microsoft 365 系統管理中心，針對 CSP 軟體訂單進行軟體下載和授權金鑰履行。 從 **2021 年1月 19** 日起，合作夥伴中心的軟體和授權金鑰履行功能將被淘汰，而合作夥伴將會指出客戶僅針對此目的使用 **Microsoft 365 系統管理中心** 。 合作夥伴中心內的 [客戶軟體] 頁面將包含 Microsoft 365 系統管理中心的「深層連結」，您可以在其中指向客戶以取得客戶授權和軟體下載。 這有助於確保客戶擁有最安全且有效率的體驗。
 
 軟體授權金鑰和下載連結是重要且廣受歡迎的智慧財產資產。 如果外洩，很快就會耗盡其啟用限制，並造成負面的客戶和合作夥伴體驗。 因此，合作夥伴務必使用最安全的技術和最佳做法，協助防護這些重要的資產並保護其客戶。
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/08/2021
+ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756294"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475223"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -313,6 +313,9 @@ ________________
 所有雲端解決方案提供者合作夥伴
 
 ### <a name="details"></a>詳細資料
+
+>[!NOTE]
+>由於合作夥伴的意見反應，我們會恢復合作夥伴中心履行功能，以取得永久和伺服器訂用帳戶軟體訂單的軟體和授權金鑰。 在2021年1月19日移除之前，它將會還原為先前的狀態。 如需詳細資訊，請參閱 [2021 年3月公告](https://docs.microsoft.com/partner-center/announcements/2021-march#4)。
 
 如同今天的[公告](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/)，我們很高興地通知您，商業永久軟體授權現已正式推出，可供所有 CSP 合作夥伴銷售。 合作夥伴中心 CSP 永久軟體價目表已重新發佈，現在包含其他產品和地理位置。
 
