@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 71deeb121fdc8b95499a7f12e08f2d116c370c7c
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475223"
+ms.locfileid: "102514114"
 ---
 # <a name="january-2021-announcements"></a>2021 年 1 月公告
 
@@ -330,6 +330,12 @@ ________________
 ### <a name="questions"></a>有問題嗎？
 
 如有任何進一步的問題，請洽詢相關的 CSP Yammer 社群。
+
+### <a name="change-log"></a>變更記錄：
+
+- 2021年1月19日：原始發行集 
+
+- 2021年3月5日：新增有關合作夥伴中心軟件和授權金鑰履行功能 reinstatement 的注意事項
 
 _____________
 ## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="9"></a>提醒：對呼叫合作夥伴中心 API 的合作夥伴進行 API 節流簡介 

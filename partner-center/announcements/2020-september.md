@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475274"
+ms.locfileid: "102514080"
 ---
 # <a name="september-2020-announcements"></a>2020 年 9 月公告
 
@@ -57,6 +57,12 @@ Microsoft 365 系統管理中心增強了所購買軟體的安全傳遞，並可
 
 如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
 
+### <a name="change-log"></a>變更記錄：
+
+- 2020年9月30日：原始發行集 
+
+- 2021年3月5日：新增有關合作夥伴中心軟件和授權金鑰履行功能 reinstatement 的附注。
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>雲端解決方案提供者 (CSP) 計畫演進和 Open License 計畫變更：更好的合作夥伴和客戶體驗旅程
 
@@ -71,6 +77,9 @@ ________________
 
 ### <a name="details"></a>詳細資料
 
+>[!NOTE]
+>由於合作夥伴的意見反應，我們會恢復合作夥伴中心履行功能，以取得永久和伺服器訂用帳戶軟體訂單的軟體和授權金鑰。 在2021年1月19日移除之前，它將會還原為先前的狀態。 如需詳細資訊，請參閱 [2021 年3月公告](https://docs.microsoft.com/partner-center/announcements/2021-march#4)。
+
 Microsoft CSP 計畫以指數方式成長，並有超過 90,000 家參與公司。 這是我們的主要合作夥伴銷售動作，適用於小型和中型企業，以及適用於新商務體驗中的小型企業客戶。 據此動力，我們現在宣佈在 CSP 計畫中為合作夥伴擴展機會。 詳細資料位於我們的[合作夥伴部落格文章](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)。
 
 ### <a name="next-steps"></a>後續步驟
@@ -83,6 +92,11 @@ Microsoft CSP 計畫以指數方式成長，並有超過 90,000 家參與公司�
 
 如有此通知相關問題，請連絡[合作夥伴中心支援](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)。
 
+### <a name="change-log"></a>變更記錄：
+
+- 2020年9月30日：原始發行集。
+
+- 2021年3月5日：新增有關合作夥伴中心軟件和授權金鑰履行功能 reinstatement 的附注。
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Azure 方案合作夥伴之間新訂用帳戶轉換工具的可用性 
