@@ -8,12 +8,12 @@ description: 使用 Dynamics 365 CRM 的共同銷售連接器，同步處理合�
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756789"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532027"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 的共同銷售連接器–總覽
 
@@ -104,7 +104,7 @@ ms.locfileid: "101756789"
      
       7. 新增所有連線之後，您應該會在您的環境中看到下列連接：
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="連線":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="連線":::
    
 ## <a name="edit-the-connections"></a>編輯連接
 
@@ -141,7 +141,7 @@ ms.locfileid: "101756789"
 
 3. 選取 **複製** 圖示來複製提供的 HTTP POST URL。
 
- :::image type="content" source="images/webhook-video.gif" alt-text="使用 webhook 來註冊資源變更":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="使用 webhook 來註冊資源變更":::
 
 4. 選取「合作夥伴中心 Webhook 註冊 (Insider Preview) 」電源自動化流程，然後選取 [ **執行**]。
 
@@ -205,7 +205,7 @@ CRM 系統經過高度自訂，而且您可以根據您的 CRM 設定自訂 Powe
 
 3. 更新 **目前的值** (請勿使用 [ **新值** ] 選項) 更新預設值，並提供值。 值必須符合變數的資料類型，例如 [是]/[否] 資料類型會接受 [是] 或 [否] 值。
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="更新環境變數":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="更新環境變數":::
 
 - 端對端雙向共同銷售推薦同步處理
 
