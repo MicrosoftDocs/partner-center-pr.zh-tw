@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220266"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619421"
 ---
 # <a name="partner-center-announcements"></a>合作夥伴中心公告
 
@@ -22,6 +22,7 @@ ms.locfileid: "102220266"
 
 |**類別**|**2021年3月公告**|**公告**|
 |---------|:---------|:---------|
+|功能|[在雲端解決方案提供者中擴充新的商務體驗 (CSP) program for Azure 到俄羅斯](2021-march.md#5)|3月10日|
 |功能|[合作夥伴中心軟件授權金鑰和下載履行](2021-march.md#4)|3 月 5 日|
 |功能|[將交易夥伴銷售 Connect (PSC) 的交易遷移至合作夥伴中心](2021-march.md#3)|3 月 5 日|
 |功能|[新的 Microsoft Dynamics 365 產品和優惠可于2021年4月1日取得](2021-march.md#2)|3月4日|

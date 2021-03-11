@@ -1,38 +1,38 @@
 ---
-title: 透過參考中的 excel 檔案進行大量作業
+title: 透過參考中的 Excel/CSV 檔案大量匯出和匯入共同銷售商機
+description: 瞭解如何在合作夥伴中心使用 Excel (CSV) 檔案下載、建立或更新共同銷售商機
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 瞭解如何使用 excel 檔案下載、建立或更新共同銷售商機
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: d601fec4bbdaad72f02c16b399cc320cc607d8ed
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756068"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619387"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>使用逗點分隔值 (CSV) 檔案的共同銷售商機的大量作業
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>使用逗點分隔值 (CSV) 檔案的共同銷售商機的大量作業
 
 **適當的角色**
 
 - 推薦管理員
 - 推薦使用者
 
-合作夥伴中心的大量作業可協助您的公司匯出和匯入共同銷售商機資料。 流覽至 [共同銷售商機] 頁面，即可尋找頁面標題橫幅右上方的 [匯入] 和 [匯出] 連結。 具有「 **參考管理員** 」和「 **推薦」使用者** 權力的使用者可以使用這項功能。
+合作夥伴中心的大量作業可協助您的公司匯出和匯入共同銷售商機資料。 流覽至 [ **共同銷售商機** ] 頁面，即可尋找頁面標題橫幅右上方的 [匯 **入** ] 和 [ **匯出** ] 連結。 具有「 **參考管理員** 」和「 **推薦」使用者** 權力的使用者可以使用這項功能。
 
 > [!IMPORTANT]
 > 透過大量匯入完成的建立/更新動作無法還原。 當您修改或建立大量記錄時，請特別小心。 建立交易之後，只能修改欄位的子集。 **一旦任何交易達到終止狀態（例如已拒絕/已過期/即將遺失），就不會允許任何動作。**
 
-## <a name="exporting-co-sell-opportunities"></a>匯出共同銷售商機
+## <a name="export-co-sell-opportunities"></a>匯出共同銷售商機
 
-以下是匯出功能的詳細資料
+下列資訊描述匯出功能：
 
-- 您可以按一下 [匯出] 按鈕，匯出 **最多5000筆記錄** 。
+- 您可以按一下 [**匯出**] 按鈕，匯出 **最多5000筆記錄**。
 - 所下載的交易將會以您的存取層級為基礎。 推薦的系統管理員和參考使用者可能會根據其範圍取得不同的結果，並將其納入為交易中的小組成員。 深入瞭解 [推薦許可權](permissions-overview.md#manage-referrals)。
 - 匯出函式會考慮共同銷售商機頁面中的目前索引標籤，以及已套用的篩選準則。
 - 將會產生 CSV 檔案，其中包含以套用的篩選準則為基礎的所有資料。
@@ -40,7 +40,7 @@ ms.locfileid: "101756068"
 - 您不必等待下載動作完成。 即使您流覽至合作夥伴中心的其他頁面，當匯出函式完成時，都會立即下載檔案。
 - 您可以重複使用下載的檔案來修改交易詳細資料，並上傳以更新任何記錄。
 
-## <a name="importing-co-sell-opportunities"></a>匯入共同銷售商機
+## <a name="import-co-sell-opportunities"></a>匯入共同銷售商機
 
 - 您可以使用匯入功能，建立或更新 **最多1000筆記錄** 。
 - 您可以從合作夥伴中心的 [匯入] 頁面下載範本，從頭開始建立範本。
@@ -61,37 +61,44 @@ ms.locfileid: "101756068"
 
 |**資料行名稱**|**是必要的嗎？**|**說明**|**範例值 (s)**|
 |-----|:-----|:---------|:---|
-Errors|否|如果與參考相關聯的建立/更新作業相關的錯誤，將會包含在此資料行中。 如果有多個錯誤，這些錯誤會以分號分隔。|必要欄位解決方案1遺失|
-參與識別碼|否|參與識別碼是由 Microsoft 合作夥伴中心的推薦系統所產生。 不需要建立新的參考。 如果您要更新記錄，可以使用現有的 engagement 識別碼。|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
-轉介識別碼|否|參考識別碼是由 Microsoft 合作夥伴中心的推薦系統所產生。 不需要建立新的參考。 如果您要更新現有的記錄，請使用參考識別碼填入該識別碼。|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
-交易名稱|是|參考之交易的易記名稱。|UK 春季交易
-客戶名稱|是|客戶公司的名稱。 使用組織的法定名稱，在 Microsoft 端進行快速比對。|Contoso Corporation
-客戶位址行1|是|解決客戶公司的第1行。 |一種 Contoso 方式
-客戶位址行2|否|客戶公司的位址第2行。|NE 148 街道
-客戶縣/市|是|客戶組織所在的城市。|Redmond
-客戶州|否|客戶組織所在的狀態。|Washington
-客戶郵遞區號|否|客戶組織所在區域的郵遞區號。|98052
-客戶國家/地區|是|客戶組織所在的國家/地區。 使用 [下面]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)所述的兩個字母國家/地區代碼。|US
-客戶 d. U-N-S 識別碼|否|嘗試提取客戶組織的 DUNS 識別碼。 這有助於更快速地比對 Microsoft 端的客戶組織，以加速賣方指派。 您可以從這個 [網站](https://www.dnb.com/duns-number/lookup.html)免費取得 DUNS 識別碼。|81466849
+Errors|No|如果與參考相關聯的建立/更新作業相關的錯誤，將會包含在此資料行中。 如果有多個錯誤，這些錯誤會以分號分隔。|必要欄位解決方案1遺失|
+參與識別碼|No|參與識別碼是由 Microsoft 合作夥伴中心的推薦系統所產生。 不需要建立新的參考。 如果您要更新記錄，可以使用現有的 engagement 識別碼。|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
+轉介識別碼|No|參考識別碼是由 Microsoft 合作夥伴中心的推薦系統所產生。 不需要建立新的參考。 如果您要更新現有的記錄，請使用參考識別碼填入該識別碼。|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
+交易名稱|Yes|參考之交易的易記名稱。|UK 春季交易
+客戶名稱|Yes|客戶公司的名稱。 使用組織的法定名稱，在 Microsoft 端進行快速比對。|Contoso Corporation
+客戶位址行1|Yes|解決客戶公司的第1行。 |一種 Contoso 方式
+客戶位址行2|No|客戶公司的位址第2行。|NE 148 街道
+客戶縣/市|Yes|客戶組織所在的城市。|Redmond
+客戶州|No|客戶組織所在的狀態。|Washington
+客戶郵遞區號|No|客戶組織所在區域的郵遞區號。|98052
+客戶國家/地區|Yes|客戶組織所在的國家/地區。 使用 [下面]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)所述的兩個字母國家/地區代碼。|US
+客戶 d. U-N-S 識別碼|No|嘗試提取客戶組織的 DUNS 識別碼。 這有助於更快速地比對 Microsoft 端的客戶組織，以加速賣方指派。 您可以從這個 [網站](https://www.dnb.com/duns-number/lookup.html)免費取得 DUNS 識別碼。|81466849
 客戶連絡人的名字|相依|只有在您需要 Microsoft 協助時，才需要名字。 客戶組織的主要連絡人的名字，處理此交易。|John
 客戶連絡人姓氏|相依|只有在您需要 Microsoft 協助時，才需要姓氏。 這項交易的客戶組織的主要連絡人姓氏。|客戶
 客戶連絡人電話號碼|相依|只有在您需要 Microsoft 協助時，才需要電話號碼。 客戶組織的主要連絡人電話號碼，正在處理這項交易。|9999999999
 客戶連絡人電子郵件地址|相依|只有在您需要 Microsoft 協助時，電子郵件地址才是必要的。 客戶組織的主要連絡人電子郵件地址，處理這項交易。|john.customer@contoso.com
-合作夥伴的參考狀態|是|指出公司觀點的交易狀態。 如果您嘗試建立或修改參考，則為必要。 如果您嘗試建立新的交易，請使用 [ **新增** ]。 接受的值記載于 [此處](/partner/develop/referral-resources#referralstatus)。|使用中
-合作夥伴參考子狀態|是|指出交易的實際狀態。 當您嘗試建立新交易時，請使用 [已 **接受** ]。 如果您要修改現有的參考，也需要此參數。 接受的值記載于 [此處](/partner/develop/referral-resources#referralsubstatus)。|已接受
+合作夥伴的參考狀態|Yes|指出公司觀點的交易狀態。 如果您嘗試建立或修改參考，則為必要。 如果您嘗試建立新的交易，請使用 [ **新增** ]。 接受的值記載于 [此處](/partner/develop/referral-resources#referralstatus)。|使用中
+合作夥伴參考子狀態|Yes|指出交易的實際狀態。 當您嘗試建立新交易時，請使用 [已 **接受** ]。 如果您要修改現有的參考，也需要此參數。 接受的值記載于 [此處](/partner/develop/referral-resources#referralsubstatus)。|已接受
 Microsoft 推薦狀態|相依|指出您傳送給 Microsoft 尋求協助的共同銷售要求的狀態。 這是唯讀欄位。 匯入資料時，對此欄位所做的任何變更都會被忽略。| Pending
 拒絕/遺失的原因|相依| 只有當您將欄位的子狀態變更為 [已拒絕] 或 [遺失] 時，才需要提供此資訊。 否則，您可以忽略此資料行。 <br/> **根據下列選項輸入數位** <br/><br/> **1**-專案預算不足  <br/> **2**-客戶沒有回應  <br/> **3**-客戶選擇其他廠商  <br/> **4** -不符合客戶需求  <br/> **5** -不是客戶 <br/> **6**-建議的時間行太短 <br/> **7** -報告為濫用、垃圾郵件或網路釣魚 <br/> **8** -其他 |6|
-銷售階段|否|這是指出參考之詳細銷售階段的欄位。 [在此](./manage-co-sell-opportunities.md)閱讀更多有關銷售階段的資訊|40
-預估的交易價值|是|「交易的價值是根據與客戶的初始交談。 這可以在交易到達其中一個終端狀態之前變更| 贏得或遺失」。|12563
-貨幣|是|輸入交易值的貨幣。 您可以在 [這裡](https://en.wikipedia.org/wiki/ISO_4217)找到貨幣代碼。|美元
-預估結束日期|是|以 MM/DD/YYYY 格式的第一次與客戶的交談為基礎，預估交易的結束日期。 <br/> **日期應為 UTC 時區。[合作夥伴中心] UI 中顯示的所有日期都是以當地語系化時區為基礎。如果您正在查看您在 UTC 時區中提供日期的參考，合作夥伴中心 UI 可能會有 +/-1 天的差異。**|1/30/2020
-CRM 識別碼|否|您 CRM 系統中此特定參考的識別碼（如果有的話）。 這是自由格式的文字輸入欄位。|34234324-sdfsdf-345345-sfd
-行銷活動識別碼|否|此欄位表示行銷活動，這會產生此特定的參考。 通常用於 ROI 計算|BingSummer2020
-備註|否|指出與參考相關之更新的詳細說明|這是範例注意事項
-需要 Microsoft 協助嗎？|是|這是為了指出您是否要讓 Microsoft 協助您進行這項共同銷售要求|是
+銷售階段|No|這是指出參考之詳細銷售階段的欄位。 [在此](./manage-co-sell-opportunities.md)閱讀更多有關銷售階段的資訊|40
+預估的交易價值|Yes|「交易的價值是根據與客戶的初始交談。 這可以在交易到達其中一個終端狀態之前變更| 贏得或遺失」。|12563
+貨幣|Yes|輸入交易值的貨幣。 您可以在 [這裡](https://en.wikipedia.org/wiki/ISO_4217)找到貨幣代碼。|美元
+預估結束日期|Yes|以 MM/DD/YYYY 格式的第一次與客戶的交談為基礎，預估交易的結束日期。 <br/> **日期應為 UTC 時區。[合作夥伴中心] UI 中顯示的所有日期都是以當地語系化時區為基礎。如果您正在查看您在 UTC 時區中提供日期的參考，合作夥伴中心 UI 可能會有 +/-1 天的差異。**|1/30/2020
+CRM 識別碼|No|您 CRM 系統中此特定參考的識別碼（如果有的話）。 這是自由格式的文字輸入欄位。|34234324-sdfsdf-345345-sfd
+行銷活動識別碼|No|此欄位表示行銷活動，這會產生此特定的參考。 通常用於 ROI 計算|BingSummer2020
+備註|No|指出與參考相關之更新的詳細說明|這是範例注意事項
+需要 Microsoft 協助嗎？|Yes|這是為了指出您是否要讓 Microsoft 協助您進行這項共同銷售要求|Yes
 Microsoft 有哪些特定的協助？|相依|Microsoft 可協助您的六種不同方式之一。 只有當您選擇 [否] 時，才適用這種情況：「Microsoft 說明需要嗎？ " <br/> **根據下列選項輸入數位** <br/><br/> **1**-工作負載特有的價值主張  <br/> **2**-客戶技術架構  <br/> **3**-概念證明/Demo  <br/> **4**-報價與授權  <br/> **5**-銷售後客戶成功  <br/> **6**-一般或其他|1|
-與 Microsoft 銷售團隊共用|是|這是為了指出您是否想要與 Microsoft 銷售團隊共用交易的詳細資料。 只有當您選擇 [否] 時，才適用這種情況：「Microsoft 說明需要嗎？ "|是
-Microsoft 注意事項|否|如果您需要 Microsoft 的協助，請向 Microsoft 提供任何特定注意事項|Contoso 客戶的 POC 需要協助
-同意共用客戶/合作夥伴連絡人|是|同意共用客戶連絡人詳細資料，以及您的公司員工連絡人詳細資料，負責處理該交易。 **如果您為此資料行選擇 [否]，將不會建立或更新交易。** |是
-解決方案 1|是|解決方案識別碼 (必要的) ，也就是在輸入交易值 (選擇性) 的貨幣。 您可以在 [這裡](https://en.wikipedia.org/wiki/ISO_4217)找到貨幣代碼、sku 的價格 (選用) 和 Sku 的數量 (選擇性)   |SOL-1234-PQRS、USD、10、100
-小組成員1|是|個別小組成員的名字、姓氏、行動電話號碼及電子郵件識別碼。| Bob、Partner、999999、 Bob.partner@Contoso.com
+與 Microsoft 銷售團隊共用|Yes|這是為了指出您是否想要與 Microsoft 銷售團隊共用交易的詳細資料。 只有當您選擇 [否] 時，才適用這種情況：「Microsoft 說明需要嗎？ "|Yes
+Microsoft 注意事項|No|如果您需要 Microsoft 的協助，請向 Microsoft 提供任何特定注意事項|Contoso 客戶的 POC 需要協助
+同意共用客戶/合作夥伴連絡人|Yes|同意共用客戶連絡人詳細資料，以及您的公司員工連絡人詳細資料，負責處理該交易。 **如果您為此資料行選擇 [否]，將不會建立或更新交易。** |Yes
+解決方案 1|Yes|解決方案識別碼 (必要的) ，也就是在輸入交易值 (選擇性) 的貨幣。 您可以在 [這裡](https://en.wikipedia.org/wiki/ISO_4217)找到貨幣代碼、sku 的價格 (選用) 和 Sku 的數量 (選擇性)   |SOL-1234-PQRS、USD、10、100
+小組成員1|Yes|個別小組成員的名字、姓氏、行動電話號碼及電子郵件識別碼。| Bob、Partner、999999、 Bob.partner@Contoso.com
+
+## <a name="next-steps"></a>下一步
+
+您可以使用這些合作夥伴中心共同銷售連接器，從您的 CRM 系統內與 Microsoft 共同銷售。
+
+- [Dynamics 365 CRM 的共同銷售連接器–總覽](connector-dynamics.md)
+- [Salesforce CRM 的共同銷售連接器 – 概觀](connector-salesforce.md)

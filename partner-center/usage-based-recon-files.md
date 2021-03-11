@@ -7,19 +7,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 5a1a2707b12e4bdb7452711019aa8ae43d4b6b1a
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755760"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022752"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>瞭解以使用量為基礎的對帳檔案，以及其在合作夥伴中心內的特定欄位
-
-適用於：
-
-- 合作夥伴中心
-- Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
 
@@ -32,7 +27,7 @@ ms.locfileid: "101755760"
 
 下列欄位說明使用哪些服務及費率。
 
-| 資料行 | 描述 | 範例值 (s)  |
+| Column | 描述 | 範例值 (s)  |
 | ------ | ----------- | ------------ |
 | PartnerId | 合作夥伴識別碼（GUID 格式）。 | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
 | PartnerName | 合作夥伴名稱。 | *Contoso，公司。* |

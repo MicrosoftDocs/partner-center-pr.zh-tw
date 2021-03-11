@@ -1,7 +1,7 @@
 ---
 title: 使用您的對帳檔案
 ms.topic: article
-ms.date: 06/08/2020
+ms.date: 03/10/2021
 description: 深入瞭解合作夥伴中心的對帳檔案，以及如何針對指定的計費週期，解讀詳細的明細專案查看費用。
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755768"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022769"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>瞭解如何讀取合作夥伴中心對帳檔案中的明細專案
-
-適用於：
-
-- 合作夥伴中心
-- Microsoft Cloud for US Government 適用的合作夥伴中心
 
 **適當的角色**
 
@@ -72,7 +67,7 @@ ms.locfileid: "101755768"
 
 **間接模型** 中的合作夥伴可以在以授權為基礎和以使用量為基礎的對帳檔案中使用這些額外欄位，以依轉銷商將檔案加上詳細資訊。
 
-| MPN 識別碼 | 描述 |
+| MPN 識別碼 | Description |
 | ------ | ----------- |
 | MPN 識別碼 | Microsoft 合作夥伴網路 (MPN 雲端解決方案提供者的) 識別碼 (CSP) 合作夥伴 (直接或間接) 。 |
 | [經銷商 MPN 識別碼](#reseller-mpn-id) | 訂用帳戶 [之記錄轉銷商的 MPN 識別碼](#reseller-mpn-id)。 此欄位對應至合作夥伴中心內特定訂用帳戶所列的轉售商識別碼。 只會出現在間接模型合作夥伴的對帳檔案上。 |

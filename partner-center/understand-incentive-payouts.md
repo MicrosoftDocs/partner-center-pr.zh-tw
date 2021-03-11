@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755853"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022803"
 ---
 # <a name="view-your-incentives-program-details"></a>查看您的獎勵計畫詳細資料
 
@@ -22,11 +22,10 @@ ms.locfileid: "101755853"
 
 - 獎勵系統管理員
 - 獎勵使用者
-- 獎勵唯讀檢視器
 - 全域系統管理員
 - MPN 合作夥伴系統管理員
 
-本文說明如何存取 [我的 **獎勵總覽** ] 頁面，其中顯示您的獎勵計畫的整體狀態，以及每個位置的每個程式的狀態。 它也會提供不同的註冊狀態。 
+本文說明 [ **我的獎勵總覽** ] 頁面，其中顯示您的獎勵計畫的整體狀態，以及每個位置的每個程式的狀態。 它也會提供不同的註冊狀態。
 
 >[!NOTE]
 >如需合作夥伴中心獎勵與獎勵功能的詳細資訊，請參閱 [合作夥伴投資和獎勵](https://partner.microsoft.com/membership/partner-incentives) (登入所需的) 。

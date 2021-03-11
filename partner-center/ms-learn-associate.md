@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756583"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022718"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>連結或取消連結 Microsoft 認證設定檔識別碼 (MCID) 至 Microsoft 合作夥伴網路 (MPN) 帳戶
 
@@ -33,8 +33,7 @@ ms.locfileid: "101756583"
 
 1. 登入[合作夥伴中心儀表板](https://partner.microsoft.com/dashboard/)。
 2. 選取右上角的藍色 [ **我的設定檔** ] 圖示
-3. 在 [ **學習** ] 欄位中，選取 [ **取得夥伴大學存取**]。
-您的合作夥伴大學帳戶現在會與您的合作夥伴中心使用者帳戶相關聯。 您的評量將反映在72hrs 中的合作夥伴中心使用者技能報表中。 新傳遞的評定可能需要7-10 天才能反映在報表中。
+3. 在 [ **學習** ] 欄位中，選取 [ **取得夥伴大學存取**]。 您必須輸入夥伴大學帳號憑證 (不是您的合作夥伴中心帳戶) 夥伴大學帳戶現在會與您的合作夥伴中心使用者帳戶相關聯。 您的評量將反映在72hrs 中的合作夥伴中心使用者技能報表中。 新傳遞的評定可能需要7-10 天才能反映在報表中。
 4. 若要移除關聯，請選取 [ **移除存取權**]。
 
 ## <a name="associate-a-microsoft-learning-account"></a>建立 Microsoft Learning 帳戶的關聯
@@ -47,6 +46,10 @@ ms.locfileid: "101756583"
 
 >[!NOTE]
 >如果 Microsoft Learning 帳號憑證與「合作夥伴大學」帳號憑證相同，請選取 [ **使用] email@address 來建立 microsoft learning 帳戶的關聯**。
+
+## <a name="download-skills-report-microsoft-certification-list"></a> (Microsoft 認證清單) 下載技能報表
+如果您需要詳細資料，可由合作夥伴中心的任何全域管理員或 MPN 合作夥伴系統管理員存取及下載 skillsreport。 以 [深入瞭解](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data)。
+
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>連結帳戶的常見問題
 

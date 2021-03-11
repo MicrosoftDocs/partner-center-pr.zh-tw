@@ -8,17 +8,37 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220290"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619438"
 ---
 # <a name="march-2021-announcements"></a>2021年3月公告
 
 本頁面提供2021年3月的 Microsoft 合作夥伴中心公告。
+
+________________
+## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>在雲端解決方案提供者中擴充新的商務體驗 (CSP) program for Azure 到俄羅斯
+
+### <a name="categories"></a>類別
+
+- 日期：2021-03-10
+- 功能
+
+### <a name="impacted-audience"></a>影響對象
+
+俄羅斯交易透過雲端解決方案提供者的所有合作夥伴 (CSP) 計畫。
+
+### <a name="details"></a>詳細資料
+
+自 10 2021 年3月起，我們很高興宣佈適用于 **俄羅斯的 AZURE CSP 中新商務體驗** 的可用性。 此體驗將可簡化及改善客戶購買和使用 Azure 服務的方式。 它也會為 CSP 方案中的合作夥伴提供一致的 Azure 定價觀點、全球一致性、計費日期調整，以及 Azure 成本管理的存取權。
+
+### <a name="next-steps"></a>下一步
+
+有幾個資源可提供新的 Azure 商務體驗，並提供其他資訊。 在 [CSP 計畫更新資源庫](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)中尋找最新的常見問題、投影片、影片及其他資訊。
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>合作夥伴中心軟件授權金鑰和下載履行

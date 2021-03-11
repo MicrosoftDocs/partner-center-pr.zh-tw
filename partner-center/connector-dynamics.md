@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 CRM 合作夥伴中心的共同銷售連接器
+description: 使用 Dynamics 365 CRM 的共同銷售連接器，同步處理合作夥伴中心內的推薦。 然後，銷售人員可以從您的 CRM 系統內與 Microsoft 共同銷售。
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: 使用 Dynamics 365 CRM 的共同銷售連接器，同步處理合作夥伴中心內的推薦。 然後，銷售人員可以從您的 CRM 系統內與 Microsoft 共同銷售。
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532027"
+ms.locfileid: "102619404"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM 的共同銷售連接器–總覽
 
@@ -88,7 +88,7 @@ ms.locfileid: "102532027"
 
    - 具有解決方案中電源自動化流程的 CRM 系統管理員。
 
-      1. 從左側導覽列中選取 [連線]， **然後從清單** 中選取 [合作夥伴中心推薦] 解決方案。
+      1. 從左側導覽列 **中選取 [** 連線]，然後從清單中選取 **合作夥伴中心的參考** 解決方案。
 
       2. 按一下 [ **建立連接**] 來建立連接。
 
@@ -110,11 +110,11 @@ ms.locfileid: "102532027"
 
 1. 返回 [ **方案** ] 頁面，然後選取 [ **預設方案**]。 按一下 [**全部**]，以選取 [ **(預覽) 的連接參考**。
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="編輯連接":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="編輯連接":::
 
 2. 選取三個點圖示，逐一編輯每一個連接。 新增相關的連接。
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="列出的連接"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="列出的連接"::: 
 
 3.  返回 [解決方案] 頁面，選取 [Dynamics 365 的合作夥伴中心推薦同步處理]，然後按一下下列順序中每個流程旁的三個點圖示，即可開啟流程。 如果您在開啟流程時遇到任何問題，請參閱 [自訂步驟](connector-dynamics.md#customize-synchronization-steps) 和 [疑難排解步驟](connectors-troubleshoot.md)。 
 
@@ -171,19 +171,19 @@ CRM 系統經過高度自訂，而且您可以根據您的 CRM 設定自訂 Powe
 
 - 交易價值：根據預設，合作夥伴中心的交易價值將會在 CRM 中與 **estimatedvalue** 同步處理。 如果您在 CRM 中有不同的欄位可供同步處理的價值：
 
-    a.    使用 CRM 的功能變數名稱更新 Dynamics 365 環境變數中的交易值功能變數名稱。 請注意，您應該提供欄位的名稱，而不是其顯示名稱。
+  a. 使用 CRM 的功能變數名稱更新 Dynamics 365 環境變數中的交易值功能變數名稱。 請注意，您應該提供欄位的名稱，而不是其顯示名稱。
 
-    b.    編輯 **[自訂] 建立或取得 Dynamics 365 流程的詳細資料**  ，然後流覽至在 Crm 中 **建立或更新** 商機，並更新 **新的** 商機，並 **更新現有的商機** 動作，以將 **DealValue** 值指派給 crm 中的正確欄位。 此外，請從 [**估計收益**] 欄位中移除 **DealValue 指派**。
+  b. 編輯 **[自訂] 建立或取得 Dynamics 365 流程的詳細資料**  ，然後流覽至在 Crm 中 **建立或更新** 商機，並更新 **新的** 商機，並 **更新現有的商機** 動作，以將 **DealValue** 值指派給 crm 中的正確欄位。 此外，請從 [**估計收益**] 欄位中移除 **DealValue 指派**。
 
 - 客戶帳戶國家/地區代碼：在建立新的參考時，必須提供兩個字母的國家/地區代碼 (ISO 3166) 。 根據預設，國家/地區代碼會與 CRM 中的帳戶 address1_country 欄位進行同步處理。 如果您的 CRM 中有不同的欄位可供同步處理的國家/地區代碼：
 
-   a.    針對包含雙字母代碼的帳戶中的非查閱國家/地區代碼欄位：
+   a. 針對包含雙字母代碼的帳戶中的非查閱國家/地區代碼欄位：
 
    - 使用 CRM 的功能變數名稱更新 Dynamics 365 環境變數中的客戶帳戶國家/地區代碼功能變數名稱。 請注意，您應該提供欄位的名稱，而不是其顯示名稱。
 
    - 編輯 **[自訂] 建立或取得 Dynamics 365 流程的詳細資料**  ，然後流覽至 [建立或取得 crm 中的客戶帳戶] 動作，將國家/地區值指派給 crm 中的正確欄位。 此外，請移除位址1：國家/地區欄位中的國家/地區值指派。
 
-   b.    針對帳戶中的 [以查閱為基礎的國家/地區代碼] 欄位：
+   b. 針對帳戶中的 [以查閱為基礎的國家/地區代碼] 欄位：
 
    - 在 [帳戶] 中加入新的自訂欄位，並使用兩個字母的國家/地區代碼自動填入 (ISO 3166) 根據 [查閱] 欄位中選取的值，反之亦然。
 
@@ -205,7 +205,7 @@ CRM 系統經過高度自訂，而且您可以根據您的 CRM 設定自訂 Powe
 
 3. 更新 **目前的值** (請勿使用 [ **新值** ] 選項) 更新預設值，並提供值。 值必須符合變數的資料類型，例如 [是]/[否] 資料類型會接受 [是] 或 [否] 值。
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="更新環境變數":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="更新環境變數":::
 
 - 端對端雙向共同銷售推薦同步處理
 
@@ -242,13 +242,11 @@ CRM 系統經過高度自訂，而且您可以根據您的 CRM 設定自訂 Powe
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{替代文字}":::
 
-
-
 - 新增 Microsoft 解決方案之後，您可以預先填入共同銷售就緒解決方案詳細資料，讓您的銷售人員不需要新增它們。 若要加入新的解決方案詳細資料，請移至 CRM 中的 Microsoft 解決方案詳細資料物件，然後按一下 [ **新增記錄** ] 以新增一個專案，或使用 **Excel 上傳** 來新增多個專案。
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="解決方案詳細資料":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="解決方案詳細資料":::
 
-### <a name="scenarios"></a>場景：
+### <a name="scenarios"></a>案例：
 
 1. 在 CRM 中建立或更新參考時的參考同步處理，並在合作夥伴中心內同步處理：
 
@@ -265,6 +263,7 @@ CRM 系統經過高度自訂，而且您可以根據您的 CRM 設定自訂 Powe
          :::image type="content" source="images/dynamic-3a.png" alt-text="如何在卡片視圖中取得適當的欄位":::
 
       - **客戶連絡人**：若要建立共同銷售的參考，請將客戶連絡人新增至商機。
+
       - **與合作夥伴中心同步**：是
 
       - Microsoft 解決方案：若要與 Microsoft 分享參考，請將有效的共同銷售就緒或 Microsoft 解決方案新增至商機。

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: adbe4bf9fd329f7443608dd1a1e123208212ef43
+ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124817"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "102770259"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>合作夥伴中心內的共同銷售指南 (電腦) ，適用于從合作夥伴銷售 Connect (PSC 進行遷移的合作夥伴) 
 
@@ -81,7 +81,7 @@ ms.locfileid: "102124817"
 
    頁面會顯示所有的帳戶管理員及其各自的電子郵件地址。 傳送電子郵件給其中一封電子郵件，要求他們為您的工作帳戶指派「參考管理員」角色。
 
-  :::image type="content" source="images/pscmigration/account-admin.png" alt-text="顯示 [夥伴設定] 使用者管理頁面中帳戶管理員的影像。":::
+  :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="顯示 [夥伴設定] 使用者管理頁面中帳戶管理員的影像。":::
 
 >[!Important]
 >- 如果您的角色只牽涉到管理 PSC 中的使用者，請要求貴公司的帳戶管理員將「合作夥伴中心」的 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company) 角色指派給您。 
@@ -95,7 +95,7 @@ ms.locfileid: "102124817"
 >[!Note]
 > 使用者遷移只能由公司的 [帳戶管理員](permissions-overview.md#manage-mpn-membership-and-your-company) 執行。 如果您沒有帳戶管理員角色，請尋找可協助您使用「使用者遷移嚮導」來設定使用者帳戶的帳戶管理員。
 
-:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="顯示使用者遷移嚮導的影像。":::
+:::image type="content" source="images/pscmigration/user-migration.gif" alt-text="顯示使用者遷移嚮導的影像。":::
 
 帳戶管理員會在「參考指南」旁的 [共同銷售商機] 頁面中，看到 [PSC 使用者遷移嚮導] 連結。 他們可以藉由選取連結來起始使用者遷移。 若要起始使用者遷移，系統管理員可以選取連結。 他們可以多次執行此使用者遷移步驟，直到所有使用者都已在合作夥伴中心指派適當的角色。
 

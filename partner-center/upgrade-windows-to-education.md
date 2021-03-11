@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755826"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022735"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>將部分教育客戶從 Windows 10 家用版升級至 Windows 10 教育版
 
 **適當的角色**
 
 - 系統管理代理人
-- 技術服務代理人
+- 帳單系統管理員
 
 ## <a name="overview"></a>概觀
 
@@ -92,8 +92,9 @@ CSP 合作夥伴可以代表客戶提交支援要求，以協助他們進行升�
 **需要什麼時間才能聯絡支援並收到升級金鑰？**
 Windows 10 教育版升級是以客戶的主動式 Microsoft 365 A3/A5 或 Windows 10 企業版 A3/A5 授權訂閱為基礎。 如果客戶未延長或續約訂用帳戶，則也會結束升級的資格。
 
+## <a name="next-steps"></a>下一步
+
 **合作夥伴可以在哪裡深入瞭解 Windows 10 教育版？**
-請遵循下列連結來深入瞭解：
 
 - [Windows 教育功能](https://www.microsoft.com/education/products/windows/features)
 - [Windows 教育中樞](/education/windows/)

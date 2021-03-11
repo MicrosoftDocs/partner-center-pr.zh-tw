@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c3632d66dbbdf4f0f8eb93439325427b8319b955
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: b559c1e8493c274204f1bdd219eae8bab994953e
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: zh-TW
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102251047"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619370"
 ---
 # <a name="mpn-benefits---software"></a>MPN 權益-軟體
 
@@ -33,7 +33,7 @@ ms.locfileid: "102251047"
 
 如果產品需要產品金鑰才能安裝，系統會提示您在安裝過程中輸入產品金鑰。 您可以從您選擇要下載的軟體版本之合作夥伴中心內的相同窗格取得。
 
-**Windows server** 和用戶端 **作業系統** 以及 **所有的 Microsoft Office 用戶端應用程式** 都需要啟用產品。 並非所有產品都需要產品啟用。
+**Windows Server** 和用戶端 **作業系統** 以及 **所有的 Microsoft Office 用戶端應用程式** 都需要啟用產品。 並非所有產品都需要產品啟用。
 
 :::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="您可在 MPN 上取得的軟體產品權益。" border="false":::
 
